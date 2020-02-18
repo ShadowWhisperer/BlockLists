@@ -10,6 +10,8 @@ fpdbs.paypal.com                 #Paypal (Kogo?)
 a-fds.youborafds01.com         #PlutoTV
 api.queryly.com              #Queryly
 queryly.com                  #Queryly
+realpush.network              #RealPush
+select5.realpush.network      #RealPush
 assets.rbl.ms             #RebelMouse
 assets.rebelmouse.io      #RebelMouse
 rebelmouse.com            #RebelMouse
@@ -26,18 +28,28 @@ golnk12.com               #Malware ? (Site claims ad server)
 golnk2.com                #Malware ? (Site claims ad server)
 golnk5.com                #Malware ? (Site claims ad server)
 unbouncepages.com         #Malware ?
-n2s.co.kr
+45tu1c0.com
 adscheaper.com
 aralego.com
 bksn.se
-twinrdsrv.com
-viewsecure.net
-potpourrichordataoscilloscope.com
-data.potpourrichordataoscilloscope.com
-dap2y8k6nefku.cloudfront.net
-mobusi.com
 cdn.45tu1c0.com
-45tu1c0.com
+cs02.semi-cod.com
+cs03.semi-cod.com
+cs04.semi-cod.com
+cs05.semi-cod.com
+cs06.semi-cod.com
+cs07.semi-cod.com
+cs09.semi-cod.com
+dap2y8k6nefku.cloudfront.net
+data.potpourrichordataoscilloscope.com
+mb104.com
+mobusi.com
+n2s.co.kr
+potpourrichordataoscilloscope.com
+semi-cod.com
+twinrdsrv.com
+userwave.com
+viewsecure.net
 
 
 #############################
@@ -83,7 +95,7 @@ infinity-c6.youboranqs01.com                                   #PlutoTV
 infinity-c7.youboranqs01.com                                   #PlutoTV
 infinity-c8.youboranqs01.com                                   #PlutoTV
 infinity-c9.youboranqs01.com                                   #PlutoTV
-k.pluto.tv                                                     #PlutoTV
+k.pluto.tv                                                     #Pluto.TV
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
 keynote.litmos.com                                    #SAP Litmos
@@ -102,6 +114,9 @@ cdn.snipcart.com                                             #SnipCart - Shoppin
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
 dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
 #######################################################
+analyze.pro.research-artisan.com                            #Chineese Site
+pro.research-artisan.com                                    #Chineese Site
+research-artisan.com                                        #Chineese Site
 fpctraffic3.com                                             #We pay for your clicks
 coveo.com                                                   #Tech platform for ads and analytics for app devs
 analysis.fi
@@ -125,6 +140,9 @@ trackuhub.com
 universal.iper2.com
 youngleaf.biz
 zrcir.com
+tj.yddashi.com
+matchid.adfox.yandex.ru
+js.track-analytics.com
 
 
 #############################
