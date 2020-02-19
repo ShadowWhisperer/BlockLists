@@ -6,6 +6,7 @@ a1955.b.akamai.net        #Blocked By PeerBlock as Advert
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
+keywee.co                      #Keywee
 fpdbs.paypal.com                 #Paypal (Kogo?)
 a-fds.youborafds01.com         #PlutoTV
 api.queryly.com              #Queryly
@@ -17,6 +18,11 @@ assets.rebelmouse.io      #RebelMouse
 rebelmouse.com            #RebelMouse
 resize.rbl.ms             #RebelMouse
 static.rbl.ms             #RebelMouse
+distillery.wistia.com      #Wistia
+embedwistia-a.akamaihd.net #Wistia
+fast.wistia.com            #Wistia
+pipedream.wistia.com       #Wistia
+wistia.com                 #Wistia
 exmarketplace.com         #Scam ? (Ad Company claiming to be Google partnet, but not)
 cdn.exmarketplace.com     #Scam ? (Ad Company claiming to be Google partnet, but not)
 blkget5.com               #Malware ? (Site claims ad server)
@@ -61,8 +67,11 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 # Marketing
 #############################
-zdbb.net       #Ziff Davis
+kaizenet.com      #Kaizenet G.Eath not current (Might be malware)
+lab.kaizenet.com  #Kaizenet G.Eath not current (Might be malware)
+zdbb.net          #Ziff Davis
 mix-uni.ru
+
 
 
 #############################
@@ -74,6 +83,8 @@ ksn-file-geo.kaspersky-labs.com       #Kaspersky
 ksn-info-geo.kaspersky-labs.com       #Kaspersky
 ksn-url-geo.kaspersky-labs.com        #Kaspersky
 ksn-verdict-geo.kaspersky-labs.com    #Kaspersky
+kqzamd.com                              #Says Tracker - Might Be Malware
+tr.kqzamd.com                           #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                                #Adult
 fwtrck.com                                                    #Adult
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
@@ -143,6 +154,7 @@ zrcir.com
 tj.yddashi.com
 matchid.adfox.yandex.ru
 js.track-analytics.com
+sumome.com
 
 
 #############################
@@ -178,10 +190,13 @@ tawenda-tech.org
 #############################
 # Bot Prevention
 #############################
-datadome.co        #DataDome
-perimeterx.com     #PerimeterX, Inc.
-px-cdn.net         #PerimeterX, Inc.
-pxchk.net          #PerimeterX, Inc.
+datadome.co                          #DataDome
+collector-px2003.cl6.perimeterx.net  #PerimeterX, Inc.
+collector-pxrw7m6iav.perimeterx.net  #PerimeterX, Inc.
+perimeterx.com                       #PerimeterX, Inc.
+perimeterx.net                       #PerimeterX, Inc.
+px-cdn.net                           #PerimeterX, Inc.
+pxchk.net                            #PerimeterX, Inc.
 
 
 #############################
@@ -530,6 +545,7 @@ cs9.wpc.v0cdn.net                            #Verizon
 kappacdn.net                                 #Verizon
 mqtt.vzmessages.com                          #Verizon
 mvm-wsit1.vzw.com                            #Verizon
+pictela.net                                  #Verizon
 rdd-e.vzw.com                                #Verizon
 rdd.vzw.com                                  #Verizon
 rdd-w.vzw.com                                #Verizon
@@ -705,6 +721,9 @@ solvvy.com                      #Solvvy - Artificial Intelligence Customer Servi
 ##
 # Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
 ##
+spuriousbase.com
+shallowsmile.com
+referdriving.com
 paddleangle.com
 4jnzhl0d0.com
 aboardamusement.com
