@@ -1,3 +1,13 @@
+#
+#    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
+#
+# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Creator: ShadowWisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
+#
+
 
 brazzerssurvey.com                                     #Survey
 inmoment.com                                           #Survey
@@ -25,6 +35,9 @@ survicate.com                                          #Survey - Survicate
 survey.webrootanywhere.com                             #Survey - Webroot
 questionpro.com                                        #Survey - Question Pro
 surveys.questionpro.com                                #Survey - Question Pro
+
+
+c9users.io                                  #Amazon  Cloud9
 
 superantispyware.com                        #AntiMalware  SuperAntiSpyware
 enigmasoftware.com                          #AntiMalware  SpyHunter
@@ -329,13 +342,15 @@ godaddysites.com                            #Un-Finished sites - Usually malware
 
 addtoany.com                                #Universal Sharing
 
+
+
+
+
 cdn.snipr.gg                                #Hacking Tool - Credential Stuffing Toolkit 
 snipr.gg                                    #Hacking Tool - Credential Stuffing Toolkit 
 
 cyclope-series.com                          #Employee Monitoring Software
 
-bestbuy.com                                 #Business - BestBuy
-yoursuperhighway.com                        #Business - SuperHiTech
 
 
 1757173384.rsc.cdn77.org

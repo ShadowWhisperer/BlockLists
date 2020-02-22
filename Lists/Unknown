@@ -1,3 +1,13 @@
+#
+#    File: Unknown   (Site that have appeared in my logs / Research I found from other lists)
+#
+# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Creator: ShadowWisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
+#
+
 
 #############################
 # Ads
@@ -19,8 +29,6 @@ rebelmouse.com            #RebelMouse
 resize.rbl.ms             #RebelMouse
 static.rbl.ms             #RebelMouse
 distillery.wistia.com      #Wistia
-embedwistia-a.akamaihd.net #Wistia
-fast.wistia.com            #Wistia
 pipedream.wistia.com       #Wistia
 wistia.com                 #Wistia
 exmarketplace.com         #Scam ? (Ad Company claiming to be Google partnet, but not)
@@ -283,6 +291,7 @@ rebrand.dropboxstatic.com                    #DropBox
 thunder.dropbox.com                          #DropBox
 thunder.v.dropbox.com                        #DropBox
 dirtybits.api.origin.com                       #EA - Origin
+vastfears-archives.com                       #Ebay - Not Owned / Operated by Ebay - Was embedded in listing
 cs950197015.wpc.systemcdn.net                #Ebay
 api.g.ebay.com                               #Ebay
 bulkedit.g.ebay.com                          #Ebay
@@ -476,6 +485,8 @@ hdwvmasogicqg.isd2184.net                    #Luverne - Public School District
 lpsweb.isd2184.net                           #Luverne - Public School District
 wpad.isd2184.net                             #Luverne - Public School District
 zrhuhdohuypmmq.isd2184.net                   #Luverne - Public School District
+conduit.mailchimpapp.com                     #MailChimp
+mcusercontent.com                            #MailChimp
 balrog-aus5.r53-2.services.mozilla.com       #Mozilla
 balrog-cloudfront.prod.mozaws.net            #Mozilla
 live.thunderbird.net                         #Mozilla
@@ -906,7 +917,6 @@ c-catalog.mgo-images.com
 c.disquscdn.com.cdn.cloudflare.net
 cdn.transifex.com
 check.api2.transactal.com
-conduit.mailchimpapp.com
 connect.scroll.com
 crl.netsolssl.com
 crl.securetrust.com
@@ -1016,3 +1026,5 @@ wsmeco.com
 ws.spotify.com
 xlbbhdarc.com
 ysdn.org
+pubnub.com
+static.parastorage.com

@@ -1,3 +1,13 @@
+#
+#    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
+#
+# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Creator: ShadowWisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
+#
+
 o365weve.com                                         #Analytics - Office
 agavecdn.o365weve.com                                #Analytics - Office
 applicationinsights.microsoft.com                    #Analytics
@@ -346,8 +356,19 @@ k-0002.k-msedge.net
 k-ring.msedge.net
 kv501.prod.do.dsp.mp.microsoft.com
 kv601.prod.do.dsp.mp.microsoft.com
+l-0001.l-msedge.net
 l-0002.l-msedge.net
 l-0003.l-msedge.net
+l-0004.l-msedge.net
+l-0005.l-msedge.net
+l-0006.l-msedge.net
+l-0007.l-msedge.net
+l-0008.l-msedge.net
+l-0009.l-msedge.net
+l-0010.l-msedge.net
+l-0011.l-msedge.net
+l-0012.l-msedge.net
+l-0013.l-msedge.net
 lb1.www.ms.akadns.net
 ls2web.redmond.corp.microsoft.com
 lyh-efz.ms-acdc.office.com
