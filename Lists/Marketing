@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
 #
-# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -11,10 +11,15 @@
 #############################
 # Other
 #############################
+sendinblue.com         #Email / SMS
+getsitecontrol.com     #Widgets - Website conversion optimization
 103bees.com
 1s3h4f7sl.com
 helloworld.com
 eprize.com
+repeatreturns.com
+getrockerbox.com
+
 
 
 
@@ -54,6 +59,13 @@ zineone.com        #ZineOne
 #  B2B
 ##############################
 engagio.com        #Engagio
+
+
+##############################
+#  Chatbot
+##############################
+headlinerlabs.com   #Headliner Labs
+
 
 
 #############################
@@ -230,6 +242,7 @@ reachforce.com
 #  Influencer Marketing
 #############################
 realclever.com
+tapinfluence.com
 
 
 ##############################
@@ -240,6 +253,7 @@ freshmarketer.com               #FreshWorks
 freshworks.com                  #FreshWorks
 infusionsoft.com                #Keap
 keap.com                        #Keap
+paradym.com                     #Paradym
 personyze.com                   #Personyze
 d36gjhyr65lj31.cloudfront.net   #PlusThis
 plusthis.com                    #PlusThis
@@ -294,8 +308,6 @@ orbee.co                      #Orbee Auto
 piano.io                      #Piano Software
 pubinmedia.com                #Pubin Media
 punchh.com                    #Punchh
-dc-storm.com                  #Rakuten Affiliate Network
-rakutenmarketing.com          #Rakuten Affiliate Network
 reachlocal.com                #ReachLocal
 revenuewire.com               #RevenueWire
 revenuewire.net               #RevenueWire
@@ -342,3 +354,17 @@ algolia.io                #Algolia
 doofinder.com             #Doofinder
 findify.io                #Findify
 searchspring.com          #Search Spring
+
+
+#############################
+# SMS Marketing
+#############################
+eztexting.com             #EzTexting
+postscript.io             #PostScript
+simpletexting.com         #SimpleTexting
+jooksms.com               #JookSMS
+slicktext.com             #SlickText
+tatango.com               #Tatango
+textsanity.com            #TextSanity
+trumpia.com               #Trumpia
+

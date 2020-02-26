@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 2/22/2020  00:16  (12:16 AM)  - Central Standard Time
+# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -74,9 +74,13 @@ browser-update.org                  #Checks Browser Version
 
 cc.cdn.civiccomputing.com           #Cookie Control
 cookieinfoscript.com                #Cookie Control
-cdn.cookielaw.org                   #Cookielaw.org
-cookielaw.org                       #Cookielaw.org
-sa437gl.wpc.kappacdn.net            #Cookielaw.org
+iubenda.com                         #Cookie Control
+cookiebot.com                       #Cookie Control
+consent.cookiebot.com               #Cookie Control
+cdn.cookielaw.org                   #Cookie Control
+cookielaw.org                       #Cookie Control
+sa437gl.wpc.kappacdn.net            #Cookie Control
+
 
 mailshell.net                                #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 avastbrowser.com                             #Antivirus   Avast - Browser

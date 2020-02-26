@@ -1,12 +1,16 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
+
+##
+## https://www.spamhaus.org/statistics/networks/
+###
 
 
 brazzerssurvey.com                                     #Survey
@@ -62,6 +66,7 @@ ijinshan.com                                #Antivirus    Kingsoft
 cloudantivirus.com                          #Antivirus    Panda
 pandasecurity.com                           #Antivirus    Panda
 pandasoftware.com                           #Antivirus    Panda
+stopzilla.com                               #Antivirus    StopZilla
 totalav.com                                 #Antivirus    TotalAV
 webroot.com                                 #Antivirus    Webroot
 
@@ -144,18 +149,25 @@ speednames.co.uk                            #ISP
 speednames.dk                               #ISP
 speednames.eu                               #ISP
 
-algerietelecom.dz                           #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
+adityabirla.com                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+algerietelecom.dz                           #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+chinanet.cn.net                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+cnc-noc.net                                 #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+ptcl.net.pk                                 #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+sancharnet.in                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+telkom.co.id                                #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+vnnic.net.vn                                #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+zx.nl                                       #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
 tedata.net                                  #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
 te.eg                                       #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-vnnic.net.vn                                #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
 vnnic.vn                                    #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
 
-airtel.in                                   #ISP  Worst Spam     (spamhaus.org) Oct. 2019
-htu.cc                                      #ISP  Worst Spam     (spamhaus.org) Oct. 2019
+airtel.in                                   #ISP  Worst Spam     (spamhaus.org) Feb. 2019
+htu.cc                                      #ISP  Worst Spam     (spamhaus.org) Feb. 2020
+spectranet.com.ng                           #ISP  Worst Spam     (spamhaus.org) Feb. 2020
+zzidc.com                                   #ISP  Worst Spam     (spamhaus.org) Feb. 2020
 kornet.net                                  #ISP  Worst Spam     (spamhaus.org) Oct. 2019
 moldtelecom.md                              #ISP  Worst Spam     (spamhaus.org) Oct. 2019
-spectranet.com.ng                           #ISP  Worst Spam     (spamhaus.org) Oct. 2019
-zzidc.com                                   #ISP  Worst Spam     (spamhaus.org) Oct. 2019
 
 miui.com                                    #Foreign   Android Rom
 shinobi.jp                                  #Foreign   Celebrity Buzz
@@ -208,6 +220,7 @@ getitfree.us                                #Software Hosting
 oovoo.com                                   #Software Hosting
 qarchive.org                                #Software Hosting
 softonic.com                                #Software Hosting
+softonic.info                               #Software Hosting
 
 adguard.com                                 #Software - AdGuard
 adguard.org                                 #Software - AdGuard
@@ -257,8 +270,10 @@ cafe24.com                                  #Web Hosting  (Korea)
 dothome.co.kr                               #Web Hosting  (Korea)
 big07.pl                                    #Web Hosting  (Poland)
 nazwa.pl                                    #Web Hosting  (Poland)
-tmweb.ru                                    #Web Hosting  (Russia)
+hostland.pro                                #Web Hosting  (Russia)
+hostland.ru                                 #Web Hosting  (Russia)
 sprinthost.ru                               #Web Hosting  (Russia)
+tmweb.ru                                    #Web Hosting  (Russia)
 xsph.ru                                     #Web Hosting  (Russia)
 websitehome.co.uk                           #Web Hosting  (UK)
 303.lt                                      #Web Hosting

@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I found from other lists)
 #
-# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -12,36 +12,39 @@
 #############################
 # Ads
 #############################
-a1955.b.akamai.net        #Blocked By PeerBlock as Advert
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
 keywee.co                      #Keywee
-fpdbs.paypal.com                 #Paypal (Kogo?)
+fpdbs.paypal.com                 #Paypal (Logo?)
 a-fds.youborafds01.com         #PlutoTV
-api.queryly.com              #Queryly
-queryly.com                  #Queryly
-realpush.network              #RealPush
-select5.realpush.network      #RealPush
-assets.rbl.ms             #RebelMouse
-assets.rebelmouse.io      #RebelMouse
-rebelmouse.com            #RebelMouse
-resize.rbl.ms             #RebelMouse
-static.rbl.ms             #RebelMouse
-distillery.wistia.com      #Wistia
-pipedream.wistia.com       #Wistia
-wistia.com                 #Wistia
-exmarketplace.com         #Scam ? (Ad Company claiming to be Google partnet, but not)
-cdn.exmarketplace.com     #Scam ? (Ad Company claiming to be Google partnet, but not)
-blkget5.com               #Malware ? (Site claims ad server)
-blkget6.com               #Malware ? (Site claims ad server)
-blkget7.com               #Malware ? (Site claims ad server)
-blkget8.com               #Malware ? (Site claims ad server)
-blkget.com                #Malware ? (Site claims ad server)
-golnk12.com               #Malware ? (Site claims ad server)
-golnk2.com                #Malware ? (Site claims ad server)
-golnk5.com                #Malware ? (Site claims ad server)
-unbouncepages.com         #Malware ?
+api.queryly.com                   #Queryly
+queryly.com                       #Queryly
+quora-prod-tch-vpc-1136165707.us-east-1.elb.amazonaws.com    #Quora
+tch710729.tch.quora.com                                      #Quora
+realpush.network                  #RealPush
+select5.realpush.network          #RealPush
+assets.rbl.ms                 #RebelMouse
+assets.rebelmouse.io          #RebelMouse
+rebelmouse.com                #RebelMouse
+resize.rbl.ms                 #RebelMouse
+static.rbl.ms                 #RebelMouse
+distillery.wistia.com       #Wistia
+pipedream.wistia.com        #Wistia
+wistia.com                  #Wistia
+us-east-1.onemobile.yahoo.com   #Yahoo
+exmarketplace.com                     #Scam ? (Ad Company claiming to be Google partnet, but not)
+cdn.exmarketplace.com                 #Scam ? (Ad Company claiming to be Google partnet, but not)
+blkget5.com                             #Malware ? (Site claims ad server)
+blkget6.com                             #Malware ? (Site claims ad server)
+blkget7.com                             #Malware ? (Site claims ad server)
+blkget8.com                             #Malware ? (Site claims ad server)
+blkget.com                              #Malware ? (Site claims ad server)
+golnk12.com                             #Malware ? (Site claims ad server)
+golnk2.com                              #Malware ? (Site claims ad server)
+golnk5.com                              #Malware ? (Site claims ad server)
+unbouncepages.com                       #Malware ?
+a1955.b.akamai.net
 45tu1c0.com
 adscheaper.com
 aralego.com
@@ -250,9 +253,6 @@ proxyserverecs-1736642167.us-east-1.elb.amazonaws.com             #Amazon AWS
 r5-pc.s3.amazonaws.com                                            #Amazon AWS
 r5-pc-steam-1240670023.us-west-2.elb.amazonaws.com                #Amazon AWS
 rebillialive-30481093.us-east-1.elb.amazonaws.com                 #Amazon AWS
-s3-eu-west-1.amazonaws.com                                        #Amazon AWS
-s3.us-east-2.amazonaws.com                                        #Amazon AWS
-s3-us-west-1.amazonaws.com                                        #Amazon AWS
 sqs.us-west-2.amazonaws.com                                       #Amazon AWS
 surveygizmobeacon.s3.amazonaws.com                                #Amazon AWS
 blogsmithmedia.com                               #AOL
@@ -261,6 +261,11 @@ cdn.audioeye.com                               #AudioEye
 d5c8kzvnetr32.cloudfront.net                   #AudioEye
 ws.audioeye.com                                #AudioEye
 wsv3cdn.audioeye.com                           #AudioEye
+emupdate.bav.avcdn.net                   #Avast / AVG
+emupdate.avcdn.net                       #Avast / AVG
+nuistatic.avcdn.net                      #Avast / AVG
+s-nuistatic.avcdn.net                    #Avast / AVG
+shepherd.avcdn.net                       #Avast / AVG
 ta.barnesandnoble.com                        #Barnes & Noble  (Apache Tomcat)
 api.bazaarvoice.com                            #Bazaarvoice
 bazaarvoice.com                                #Bazaarvoice
@@ -273,6 +278,7 @@ sl-ui.bazaarvoice.com                          #Bazaarvoice
 static.curations.bazaarvoice.com               #Bazaarvoice
 agility.cnn.com                              #CNN
 li.cnn.com                                   #CNN
+newsource-embed-prd.ns.cnn.com               #CNN
 registry.api.cnn.io                          #CNN
 smartsourcestaging.dell.com                      #Dell
 block.dropbox.com                            #DropBox
@@ -291,6 +297,7 @@ rebrand.dropboxstatic.com                    #DropBox
 thunder.dropbox.com                          #DropBox
 thunder.v.dropbox.com                        #DropBox
 dirtybits.api.origin.com                       #EA - Origin
+mkmags.com                                   #Ebay - Not Owned / Operated by Ebay - Was embedded in listing
 vastfears-archives.com                       #Ebay - Not Owned / Operated by Ebay - Was embedded in listing
 cs950197015.wpc.systemcdn.net                #Ebay
 api.g.ebay.com                               #Ebay
@@ -317,11 +324,16 @@ velocity-roma.ebay.com                       #Ebay
 vod.g.ebay.com                               #Ebay
 edge-star-mini-shv-01-iad3.facebook.com      #Facebook
 gcs.sc-cdn.net                               #Facebook
+instagram.c10r.facebook.com                  #FaceBook
+star.c10r.facebook.com                       #FaceBook
+star-mini.c10r.facebook.com                  #FaceBook
 t.update.fbsbx.com                           #Facebook
+z-p42-instagram.c10r.facebook.com            #FaceBook
 s9.gp1.wac.gammacdn.net                        #FedEx
 b.fox.com                                          #Fox News
 foxbusinessp.factsetdigitalsolutions.com           #Fox News
 h20255.www2.hp.com                             #HP
+maps.instagram.com                       #Instagram
 a314.gameloft.com                            #GameLoft
 bob-fedex-fsg002.gameloft.com                #GameLoft
 bob-hermes.gameloft.com                      #GameLoft
@@ -374,7 +386,8 @@ user.gearbest.com                               #GearBest
 30.client-channel.google.com                   #Google - Drive ?
 mw1.google.com                                 #Google -   Earth
 mw-small.l.google.com                          #Google -   Earth
-gboard-pa.googleapis.com                       #Google -  Gboard
+gboard-pa.googleapis.com                       #Google -  gBoard
+tenor.googleapis.com                           #Google -  gBoard
 ytstatic.l.google.com                          #Google -     Google Plus
 r15---sn-bvvbax-hn2k.gvt1.com                  #Google - Updates ?
 r1---sn-ab5l6nzl.gvt1.com                      #Google - Updates ?
@@ -439,12 +452,14 @@ lh3.google.com                                 #Google
 mannequin.storage.googleapis.com               #Google
 mobilenetworkscoring-pa.googleapis.com         #Google
 oauthaccountmanager.googleapis.com             #Google
+ocsp.pki.goog                                  #Google
 op-s.storage.googleapis.com                    #Google
 op-u.storage.googleapis.com                    #Google
 or-s.storage.googleapis.com                    #Google
 os-d.storage.googleapis.com                    #Google
 os-u.storage.googleapis.com                    #Google
 phonedeviceverification-pa.googleapis.com      #Google
+pki-goog.l.google.com                          #Google
 pki-goog.l.google.com                          #Google
 pki-goog.l.google.com                          #Google
 popup.withgoogle.com                           #Google
@@ -459,12 +474,15 @@ signaler-pa.clients6.google.com                #Google
 takeout-pa.clients6.google.com                 #Google
 ulp1p-pa.googleapis.com                        #Google
 www4.l.google.com                              #Google
+d2xhyf9q5da91u.cloudfront.net            #Gravatar
+dh4wq25dgeemz.cloudfront.net             #Gravatar
 cabelas.groupbycloud.com                     #Group By Cloud
 cdn.groupbycloud.com                         #Group By Cloud
 cdn-lb.groupbycloud.com                      #Group By Cloud
 groupbycloud.com                             #Group By Cloud
 prod-lb.groupbycloud.com                     #Group By Cloud
 herokuapp.com                                  #Heroku App
+sandhills.com                               #Hibid
 imtwjwoasak.com                                    #Hulu (Tracker ?)
 metcon.hulu.com                                    #Hulu (Tracker ?)
 emu.hulu.com                                       #Hulu
@@ -492,6 +510,8 @@ balrog-cloudfront.prod.mozaws.net            #Mozilla
 live.thunderbird.net                         #Mozilla
 prod-cdn.sumo.moz.works                      #Mozilla
 prod-tp.sumo.moz.works                       #Mozilla
+nowcast.acmeaom.com                               #MyRadar (Android App)
+wu.acmeaom.com                                    #MyRadar (Android App)
 anycast.ftl.netflix.com                        #Netflix - AnyCast
 probe-ixanycast-isp.prod.ftl.netflix.com       #Netflix - AnyCast
 nrdp50-appboot.netflix.com                     #Netflix - Netflix Ready Device 
@@ -541,6 +561,9 @@ digitalcontent.target.com                        #Target
 redoak.target.com                                #Target
 taglocker.target.com                             #Target
 typeahead.target.com                             #Target
+investor.techdata.com                     #TechData
+webfarm-200.q4web.com                     #TechData
+q4web.com                                 #TechData
 choices-or.trustarc.com                      #TrustArc
 choices.trustarc.com                         #TrustArc
 choices.truste.com                           #TrustArc
@@ -552,6 +575,7 @@ trust-guard.com                                #TrustGuard
 caps.twitter.com                                 #Twitter
 cdn.api.twitter.com                              #Twitter
 s.twitter.com                                    #Twitter
+d2cnv2pop2xy4v.cloudfront.net                #Unifi NVR
 eligibility-panelresearch.googlevideo.com          #YouTube - Roku TV
 userpaneltv-pa.googleapis.com                      #YouTube - Roku TV
 4g2.vzwdm.com                                #Verizon
@@ -579,6 +603,9 @@ sts3.wsj.net                                 #Wall Street Journal
 s.wsj.net                                    #Wall Street Journal
 vir.wsj.net                                  #Wall Street Journal
 prx.wayfair.com                                   #WayFair
+gapi.waze.com                               #Waze
+social-na.waze.com                          #Waze
+wazespeechactiviation-pa.googleapis.com     #Waze
 secure.img1-ag.wfcdn.com                          #WayFair
 cf.zdassets.com                                #Zdassets
 p14.zdassets.com                               #Zdassets
@@ -897,7 +924,9 @@ zealousfield.com
 ##################################################################
 1dmp.co
 1-dot-klarsikt3.appspot.com
+a731.dscw10.akamai.net 
 a743.gi3.akamai.net
+a771.dscq.akamai.net 
 aliapp.com
 a.optvdo.com
 apester.com
@@ -931,7 +960,16 @@ devside.net
 d-ipv6.mmapiws.com
 dist.transactal.com
 downloads.intercomcdn.com
+dualstack.pinterest.map.fastly.net 
+dualstack.shopify.map.fastly.net 
+e11847.g.akamaiedge.net 
+e12827.dscb.akamaiedge.net 
+e14801.x.akamaiedge.net 
 e3tmyc4rbs.com
+e5842.g.akamaiedge.net 
+e6913.dscx.akamaiedge.net 
+e9428.dscb.akamaiedge.net 
+e9743.dscb.akamaiedge.net 
 etc.azureedge.net
 exaways.com
 farm1.static.flickr.com
@@ -941,6 +979,7 @@ fdsdown.safenet-inc.com
 forms.hsforms.com
 fte.web.future.net.uk
 gadgets.future-fie-assets.co.uk
+github.map.fastly.net 
 gizmos.future-fie-assets.co.uk
 g.tenor.com
 gtq.sct.sc-prod.net
@@ -963,18 +1002,22 @@ js.intercomcdn.com
 js.iplsc.com
 juko2000solutions.com
 kitma.caglobal.com
+ksr-static.imgix.net 
+ksr-ugc.imgix.net 
 lg.ecorebates.com
 lisnr.com
 listgrowth.ctctcdn.com
 mailing.wideopenmediagroup.com
 manifest.prod.boltdns.net
 mateti.net
+media.amazon.map.fastly.net 
 mmapiws.com
 mobilemacmini.wsmeco.com
 mrs-nginx-3.westus.cloudapp.azure.com
 mxase.clmbtech.com
 net.cleverjp.com
 nitehawk.hearst.io
+ocsp.entrust.net 
 ocsp.netsolssl.com
 ocsp.sectigo.com
 optvdo.com
@@ -987,12 +1030,15 @@ pofug.com
 portal.myweblogon.com
 prod.disqus.map.fastlylb.net
 ps.pndsn.com
+pubnub.com
 pusher.com
 qgr.ph
+reddit.map.fastly.net 
 rss2json.com
 rtphoto.photoreflect.com
 s1.ticketm.net
 s.aolcdn.com
+scontent.xx.fbcdn.net 
 search-api.fie.future.net.uk
 secure.footprint.net
 sentinelcustomer.safenet-inc.com
@@ -1023,8 +1069,7 @@ webadvisor.com
 web.eecs.umich.edu
 weeklyfinancialsolutions.com
 wsmeco.com
+w.ssl.global.fastly.net 
 ws.spotify.com
 xlbbhdarc.com
 ysdn.org
-pubnub.com
-static.parastorage.com

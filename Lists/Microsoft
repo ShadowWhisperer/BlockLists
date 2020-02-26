@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
 #
-# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -173,6 +173,7 @@ cds494.lcy.llnw.net                      # ? Limelight Networks (CDN)
 cds965.lon.llnw.net                      # ? Limelight Networks (CDN)
 
 dell15.msn.com                           # MSN - Redirects to msn.com
+search.yupimsn.com                       # ? MSN - Search
 api.msn.com                              # ? MSN
 arc.msn.com                              # ? MSN
 carrentals.msn.com                       # ? MSN
@@ -245,8 +246,6 @@ kv201-prod.do.dsp.mp.microsoft.com       #Updates ?
 kv401-prod.do.dsp.mp.microsoft.com       #Updates ?
 prod.do.dsp.mp.microsoft.com.edgekey.net #Updates ?
 
-
-
 adclub.net                               #Ads ?
 r.msn.com                                #Ads ?
 o.xbox.com                               #Tracking ?   (Blank)
@@ -256,8 +255,8 @@ msantispy.com                            #Defunct ?
 msecn.net                                #Defunct ?
 msnhome.org                              #Defunct ?
 
-teams.microsoft.com
-config.teams.microsoft.com
+config.teams.microsoft.com               #Microsoft Teams
+teams.microsoft.com                      #Microsoft Teams
 
 aad.cs.dds.microsoft.com
 acctcdnmsftuswe2.azureedge.net
@@ -328,6 +327,7 @@ edgewelcomecdn.microsoft.com
 enterprise.activity.windows.com
 exp.mp.dse.microsoft.com
 fe2.update.microsoft.com.akadns.net
+filestore.community.answers.ms.akadns.net
 footprintdns.com
 fp-afd.azureedge.net
 fp-vp.azureedge.net
@@ -339,6 +339,7 @@ go.microsoft.akadns.net
 graph.microsoft.com
 greenid-prod.westus2.cloudapp.azure.com
 groove.microsoft.com
+groups.photos.microsoft.com
 i1.services.social.microsoft.com
 i2-technet.sec.s-msft.com
 identity.osi.office.net
@@ -352,6 +353,7 @@ internetexplorer.com
 ipv4.login.msa.akadns6.net
 iriscoremetadataprod.blob.core.windows.net
 i.s-microsoft.com
+jcmsfd.account.microsoft.com
 k-0002.k-msedge.net
 k-ring.msedge.net
 kv501.prod.do.dsp.mp.microsoft.com
@@ -370,6 +372,7 @@ l-0011.l-msedge.net
 l-0012.l-msedge.net
 l-0013.l-msedge.net
 lb1.www.ms.akadns.net
+licensingphone.mp.microsoft.com
 ls2web.redmond.corp.microsoft.com
 lyh-efz.ms-acdc.office.com
 markets.books.microsoft.com
@@ -393,6 +396,7 @@ oaspapps.com
 odinvzc.azureedge.net
 offerservicefallback.blob.core.windows.net
 officeaka.cloudapp.net
+officehomeblobs.blob.core.windows.net
 onecollector.cloudapp.aria.akadns.net
 onecs-live.azureedge.net
 onerm.olsvc.com
