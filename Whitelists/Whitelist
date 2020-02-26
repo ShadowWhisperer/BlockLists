@@ -193,20 +193,23 @@ dyncdn.me                                  # Torrents - Picures
 global.stun.twilio.com                     # Ubiquiti - NVR
 global.turn.twilio.com                     # Ubiquiti - NVR
 unpkg.com                                  # Ubiquiti - NVR
-dapalan.com                                # URL Shortener - Adfly
-gloyah.net                                 # URL Shortener - Adfly
-sprysphere.com                             # URL Shortener - Adfly
 anonym.to                                  # URL Shortener
 bit.ly                                     # URL Shortener
 ow.ly                                      # URL Shortener
 tinyurl.com                                # URL Shortener
 disqus.com                                 # User Comments
+static.parastorage.com                     # Various Sites - Breaks Pages
+s3-eu-west-1.amazonaws.com                 # Various Sites - File Downloads
+s3.us-east-2.amazonaws.com                 # Various Sites - File Downloads
+s3-us-west-1.amazonaws.com                 # Various Sites - File Downloads
 ent.east.mymtm.us                          # Vast - VOIP
 im.mymtm.us                                # Vast - VOIP
 p.mymtm.us                                 # Vast - VOIP
 _sip._tcp.ent.east.mymtm.us                # Vast - VOIP
 _xmpp-client._tcp.im.mymtm.us              # Vast - VOIP
 d1n478pkuw1c5t.cloudfront.net              # Verizon / Samsung Updater
+embedwistia-a.akamaihd.net                 # Video - Embedded Sites
+fast.wistia.com                            # Video - Embedded Sites
 ftr2.external.xerox.com                    # Xerox - Scan to email
 youtube.com                                # Youtube
 youtube-nocookie.com                       # Youtube - Embedded
@@ -373,3 +376,4 @@ imagedost.com
 backup-utility.com
 toolbox.com
 it.toolbox.com
+gohacking.com
