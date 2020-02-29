@@ -1,7 +1,7 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
 #
-# Updated: 2/22/2020  00:06  (12:06 AM)  - Central Standard Time
+# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -67,6 +67,7 @@ denver.remotepc.com
 desmoines.remotepc.com
 detroit.remotepc.com
 devicevm.com
+ds1.devicevm.com
 dubai.remotepc.com
 dublin.remotepc.com
 dyngate.com
@@ -253,6 +254,7 @@ st2-v3-dc.splashtop.com
 stlouis.remotepc.com
 stockholm.remotepc.com
 st-v3-univ-srs-win-3121.api.splashtop.com
+st-v3-univ-srs-win-3360.api.splashtop.com
 support.com
 support.gbstech.com
 supportmart.nexus.support.com

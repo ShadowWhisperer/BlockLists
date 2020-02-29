@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
+# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -101,16 +101,25 @@ maxthon.com                                 #Browser
 ucweb.com                                   #Browser
 updates.bravesoftware.com                   #Browser
 adblockplus.org                             #Browser Extension
+adtidy.org                                  #Browser Extension
 adzero.org                                  #Browser Extension
 bleengo.com                                 #Browser Extension
+chrome.adtidy.org                           #Browser Extension
 gingersoftware.com                          #Browser Extension
 grammarly.io                                #Browser Extension
 notification.adblockplus.org                #Browser Extension
 
+retailmenot.com                             #Cash Back / Coupons
+secure.retailmenot.com                      #Cash Back / Coupons
+ecbsn.com                                   #Cash Back (Ebates)
+splitter.ebates.com                         #Cash Back
+ebates.com                                  #Cash Back
+static.ebates.com                           #Cash Back
 befrugal.com                                #Coupons
 coupons.com                                 #Coupons
 cpnscdn.com                                 #Coupons
 shopathome.com                              #Coupons
+
 
 ig.com.br                                   #ISP (Brazil)
 xunlei.com                                  #ISP (China)

@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
 #
-# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
+# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -58,14 +58,17 @@ appexnewsappupdate.blob.core.windows.net             #Win 10 Tile
 appexwusprodweather.blob.core.windows.net            #Win 10 Tile
 
 cloudtile.photos.microsoft.com                       #Win 10 Tile
-cmsresources.windowsphone.com                        #Win 10 Tile
-config.scm.windowsphone.com                          #Win 10 Tile
 insiderhub.microsoft.com                             #Win 10 Tile
 insiderservice.microsoft.com                         #Win 10 Tile
 livetileedge.dsx.mp.microsoft.com                    #Win 10 Tile
 livetile.hulu.com                                    #Win 10 Tile
 mgslivetiles.cloudapp.net                            #Win 10 Tile
 weather.microsoft.com                                #Win 10 Tile
+
+cmsresources.windowsphone.com                        #Win Phone (From Win 10 Tower)
+config.scm.windowsphone.com                          #Win Phone (From Win 10 Tower)
+ess.windowsphone.net                                 #Win Phone (From Win 10 Tower)
+
 
 cdf-anon.gtm.xboxlive.com                            #Xbox
 cdf-anon.xboxlive.com.edgekey.net                    #Xbox
@@ -204,6 +207,7 @@ search.msn.com                           # ? MSN
 srtb.msn.com                             # ? MSN
 tk2.plt.msn.com                          # ? MSN
 
+enrichment.osi.office.net                # ? Office
 loki.delve.office.com                    # ? Office
 lpcres.delve.office.com                  # ? Office
 mem.gfx.ms                               # ? Office
@@ -376,7 +380,6 @@ licensingphone.mp.microsoft.com
 ls2web.redmond.corp.microsoft.com
 lyh-efz.ms-acdc.office.com
 markets.books.microsoft.com
-measure.office.com
 mediadiscovery.microsoft.com
 mediaredirect.microsoft.com
 metaservices.microsoft.com

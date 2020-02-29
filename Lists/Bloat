@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
+# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -296,6 +296,10 @@ graph.facebook.com                                      #Facebook
 chat-pa.clients6.google.com                             #Google    Chat
 dns.google.com                                          #Google  DNS
 dns.google                                              #Google  DNS
+firebaseinappmessaging.googleapis.com                   #Google  FireBase
+firebaseperusertopics-pa.googleapis.com                 #Google  FireBase
+firebaseremoteconfig.googleapis.com                     #Google  FireBase
+firebasestorage.googleapis.com                          #Google  FireBase
 picasa.google.com                                       #Google    Picasa       (Defunct)
 picasaweb.google.com                                    #Google    Picasa       (Defunct)
 plus.google.com                                         #Google    Plus         (Defunct)

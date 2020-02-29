@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I found from other lists)
 #
-# Updated: 2/25/2020  21:32  (9:32 PM)  - Central Standard Time
+# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -78,38 +78,42 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 # Marketing
 #############################
-kaizenet.com      #Kaizenet G.Eath not current (Might be malware)
-lab.kaizenet.com  #Kaizenet G.Eath not current (Might be malware)
-zdbb.net          #Ziff Davis
+kaizenet.com       #Kaizenet G.Eath not current (Might be malware)
+lab.kaizenet.com   #Kaizenet G.Eath not current (Might be malware)
+loyaltypath.com      #Repeat Returns
+repeatreturns.com    #Repeat Returns
+affex.org          #Zieltraffic - Dead ?
+zdbb.net           #Ziff Davis
 mix-uni.ru
+scarabresearch.com
 
 
 #############################
 # Scam
 #############################
-account.protonvpn.store #Looks like fake site for  'protonvpn.com'
-protonvpn.store         #Looks like fake site for  'protonvpn.com'
+account.protonvpn.store  #Looks like fake site for  'protonvpn.com'
+protonvpn.store          #Looks like fake site for  'protonvpn.com'
 
 
 #############################
 # Tracker
 #############################
-ksn-a-stat-geo.kaspersky-labs.com     #Kaspersky
-ksn-cinfo-geo.kaspersky-labs.com      #Kaspersky
-ksn-file-geo.kaspersky-labs.com       #Kaspersky
-ksn-info-geo.kaspersky-labs.com       #Kaspersky
-ksn-url-geo.kaspersky-labs.com        #Kaspersky
-ksn-verdict-geo.kaspersky-labs.com    #Kaspersky
 kqzamd.com                              #Says Tracker - Might Be Malware
 tr.kqzamd.com                           #Says Tracker - Might Be Malware
-sdg.fwtrck.com                                                #Adult
-fwtrck.com                                                    #Adult
+sdg.fwtrck.com                                        #Seen with Adult Sites
+fwtrck.com                                            #Seen with Adult Sites
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
 urs.cnet.com                                                 #Cnet
 boomerang.dell.com                                       #Dell
 lookaside.facebook.com                                      #Facebook
 z-m.c10r.facebook.com                                       #Facebook
 brainkeeper.gw-ec.com                                         #GearBest
+ksn-a-stat-geo.kaspersky-labs.com                     #Kaspersky
+ksn-cinfo-geo.kaspersky-labs.com                      #Kaspersky
+ksn-file-geo.kaspersky-labs.com                       #Kaspersky
+ksn-info-geo.kaspersky-labs.com                       #Kaspersky
+ksn-url-geo.kaspersky-labs.com                        #Kaspersky
+ksn-verdict-geo.kaspersky-labs.com                    #Kaspersky
 oss.hpconnected.com                                        #HP
 pf.newegg.com                                                    #NewEgg  (Quidsup)
 events.gfe.nvidia.com                                      #Nvidia
@@ -123,7 +127,8 @@ infinity-c6.youboranqs01.com                                   #PlutoTV
 infinity-c7.youboranqs01.com                                   #PlutoTV
 infinity-c8.youboranqs01.com                                   #PlutoTV
 infinity-c9.youboranqs01.com                                   #PlutoTV
-k.pluto.tv                                                     #Pluto.TV
+k.pluto.tv                                                     #PlutoTV
+click.notifications.intuit.com                           #Quick Books
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
 keynote.litmos.com                                    #SAP Litmos
@@ -140,11 +145,15 @@ st.sc-jpl.com                                             #SnapChat ?
 app.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 cdn.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
+api.gdsec.net                                                    #Tutela ?
+gdsec.net                                                        #Tutela ?
 dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
 #######################################################
 analyze.pro.research-artisan.com                            #Chineese Site
 pro.research-artisan.com                                    #Chineese Site
 research-artisan.com                                        #Chineese Site
+algolianet.com                                              #Search As A Service
+rcsnjttpht-2.algolianet.com                                 #Search As A Service
 fpctraffic3.com                                             #We pay for your clicks
 coveo.com                                                   #Tech platform for ads and analytics for app devs
 analysis.fi
@@ -171,7 +180,6 @@ zrcir.com
 tj.yddashi.com
 matchid.adfox.yandex.ru
 js.track-analytics.com
-sumome.com
 
 
 #############################
@@ -290,6 +298,7 @@ cfl.dropboxstatic.com.cdn.cloudflare.net     #DropBox
 dropboxstatic.com                            #DropBox
 edge-block-www.dropbox-dns.com               #DropBox
 edge-block-www.dropbox-dns.com               #DropBox
+mmp.getdropbox.com                           #DropBox
 netmon-control.dropbox.com                   #DropBox
 nsf-1.dropbox.com                            #DropBox
 paper.dropbox.com                            #DropBox
@@ -387,7 +396,7 @@ user.gearbest.com                               #GearBest
 mw1.google.com                                 #Google -   Earth
 mw-small.l.google.com                          #Google -   Earth
 gboard-pa.googleapis.com                       #Google -  gBoard
-tenor.googleapis.com                           #Google -  gBoard
+tenor.googleapis.com                           #Google -  gBoard - Gifs (Don't Break Anything)
 ytstatic.l.google.com                          #Google -     Google Plus
 r15---sn-bvvbax-hn2k.gvt1.com                  #Google - Updates ?
 r1---sn-ab5l6nzl.gvt1.com                      #Google - Updates ?
@@ -424,7 +433,6 @@ r6.sn-vgqsrnel.gvt1.com                        #Google - Updates ?
 r6---sn-vgqsrnel.gvt1.com                      #Google - Updates ?
 r9---sn-bvvbax-hn2k.gvt1.com                   #Google - Updates ?
 aa.google.com                                  #Google
-accountsettingsmobile-pa.googleapis.com        #Google
 aswpsdkus.com                                  #Google
 auditrecording-pa.googleapis.com               #Google
 autopush-geller-pa.sandbox.googleapis.com      #Google
@@ -765,162 +773,747 @@ solvvy.com                      #Solvvy - Artificial Intelligence Customer Servi
 ##
 # Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
 ##
-aliveachiever.com
-spuriousbase.com
-shallowsmile.com
-referdriving.com
-paddleangle.com
+2znp09oa.com
 4jnzhl0d0.com
+5mcwl.pw
+6ldu6qa.com
+82o9v830.com
+abackchain.com
+abandonedaction.com
+abashedangle.com
 aboardamusement.com
+aboardlevel.com
 aboriginalboats.com
+abruptroad.com
+absentstream.com
+absorbingband.com
+absorbingcorn.com
+absorbingprison.com
+abstractedamount.com
+absurdapple.com
+absurdwater.com
+acidpigs.com
 acquireattention.com
 acridtwist.com
 actuallysheep.com
+actuallysnake.com
+advertisementafterthought.com
 afraidlanguage.com
+agreeablestew.com
 agreeabletouch.com
+aheadday.com
+ak0gsh40.com
+alertafterthought.com
+alikeaddition.com
 alikearm.com
+aliveachiever.com
+alleyarm.com
+allowmailbox.com
+aloofmetal.com
+amazingairplane.com
 ambiguousalarm.com
+ambiguousquilt.com
+ambitiousagreement.com
+annoyedfifth.com
+anxiousapples.com
+apathetictheory.com
+applesarmy.com
+aquaticowl.com
+ar1nvz5.com
+archswimming.com
+arcticamber.com
+argyresthia.com
+ariseboundary.com
 arithmeticadjustment.com
+aromamirror.com
+attractiveafternoon.com
 attractivecap.com
+audioarctic.com
+auntants.com
+automaticflock.com
+automaticside.com
+awakebird.com
+awzbijw.com
+axiomaticalley.com
+bagbeam.com
+balancebreath.com
+balloonbit.com
+balloontexture.com
+bandborder.com
+barbarousnerve.com
+basketballbelieve.com
+baskettexture.com
+batbuilding.com
 battlebalance.com
 battlehope.com
+bawdybeast.com
+bawdypets.com
+beadbears.com
+beamincrease.com
 beastbeef.com
 beneficialbeef.com
+benthose.com
+bestboundary.com
+bewilderedblade.com
+bhcumsc.com
+billowybead.com
+blotburn.com
 blushingbeast.com
+blushingboundary.com
+boilingbeetle.com
 boilingumbrella.com
 boneregret.com
+boredborder.com
+boredcrown.com
+boringcoat.com
+bouncyproperty.com
 bravebone.com
+breakfastboat.com
+briefbears.com
+broadboundary.com
+broadcastbed.com
+broaddoor.com
+brothersbucket.com
+bruisebaseball.com
+btez8.xyz
+bucketbean.com
 bulbbait.com
 burnbubble.com
+businessbells.com
+bustlinganimal.com
+butterbulb.com
+butterburst.com
+calculatingcircle.com
+calculatingtoothbrush.com
+calculatorcamera.com
+calculatorstatement.com
+callousbrake.com
+calmcactus.com
 cannonjudo.com
+cannontwin.com
+capablecows.com
+capablecup.com
+capriciouscorn.com
 capsquirrel.com
+caringzinc.com
+carpentercomparison.com
 carriagecan.com
+carscannon.com
+catschickens.com
+cautiouscrate.com
 cautiouscredit.com
+chairscrack.com
 channelcamp.com
+cheerfulrange.com
+chemicalcoach.com
+chemicalsnake.com
 chesscolor.com
+chewcoat.com
 chickensstation.com
+chinsnakes.com
+chunkycactus.com
+clearcabbage.com
+clearcomb.com
+cloisteredcord.com
+cloisteredhydrant.com
+cloudsdestruction.com
+colorfulafterthought.com
+comfortablecheese.com
+commonswing.com
+completecabbage.com
+complextoad.com
+concernedcondition.com
+conditioncrush.com
+consciouschairs.com
+consciousdirt.com
 consistpotato.com
+coordinatedbedroom.com
+coordinatedcoat.com
+coordinatedcub.com
+copperchickens.com
+copycarpenter.com
+copyrightaccesscontrols.com
+correctchaos.com
+cosmosjackson.com
+crabbychin.com
+crawlclocks.com
+crayoncompetition.com
+critictruck.com
+cubchannel.com
+culturedcrayon.com
+cumbersomecloud.com
+curtaincows.com
+cutecushion.com
+cuteturkey.com
+damdoor.com
+dancemistake.com
 dapperfloor.com
+dashingdirt.com
+dashingsweater.com
+deadpantruck.com
+debonairway.com
 decidedrum.com
+decisivedrawer.com
 decisiveducks.com
+decoroustitle.com
+decoycreation.com
+defectivesun.com
 defiantrice.com
+delegatediscussion.com
 delightfulhour.com
+desertedbreath.com
+desertedrat.com
+desiredirt.com
+detailedglue.com
+detailedgovernment.com
+detectdinner.com
+detectdiscovery.com
+diplomahawaii.com
+discreetfield.com
+dispensablestranger.com
+distinctday.com
+divergentoffer.com
+dk4ywix.com
+docksalmon.com
 dogsshoes.com
+donkeyleaf.com
+doorbrazil.com
+doubtfulrainstorm.com
+dq95d35.com
+drabsize.com
 draconiancurve.com
+dragzebra.com
+drawservant.com
 dripappliance.com
+driverequest.com
 drivingdirt.com
+drydrum.com
+earthquakescarf.com
+earthycopy.com
+economicpizzas.com
+efficaciouscactus.com
+ejyymghi.com
+elasticchange.com
 elderlyinsect.com
 elderlyscissors.com
+elderlytown.com
+elephantqueue.com
+eliminateeffect.com
 encourageidea.com
+encouragingwilderness.com
+endurablecrayon.com
+endurableshop.com
+energeticexample.com
+enthusiasticdad.com
+enviousshape.com
+enviousthread.com
+erraticreaction.com
+errortablet.com
 evanescentedge.com
+exclusivebrass.com
+excuseearthquake.com
+experienceeggs.com
+exuberantsoda.com
+facilitategrandfather.com
+fadedprofit.com
+fadedsnow.com
+falsefeet.com
+falseframe.com
+familiarrod.com
+famousquarter.com
+fantasticsmash.com
+farethief.com
+farmergoldfish.com
+farshake.com
+fascinatedfeather.com
 faultycanvas.com
+faultyfowl.com
 fearfowl.com
+fearfulfish.com
+feebleshock.com
+finalizeforce.com
+flakyfeast.com
+flimsycircle.com
+flockflame.com
+floodprincipal.com
+floweryoperation.com
+forecasttiger.com
+foregoingfowl.com
+forgetfulflowers.com
+fourarithmetic.com
 fourfork.com
 frailflock.com
+frailoffer.com
 franticcarpenter.com
+fretfulfurniture.com
+frightenedpotato.com
+functionalcrown.com
+funnyairplane.com
 furryhorses.com
+futuristicapparatus.com
+futuristicfairies.com
 futuristicfear.com
+futuristicfifth.com
+futuristicfold.com
+fuzzyflavor.com
+fuzzyweather.com
+gammamaximum.com
+giddycoat.com
 giftedglue.com
 giftedthumb.com
+giraffepiano.com
 gleamingtrade.com
+gloriousbeef.com
 gloriouscracker.com
+glossysense.com
+gondolagnome.com
+gorgeousground.com
+gossipmiser.com
+gracefulsock.com
+grandioseguide.com
+greasegarden.com
 greasemotion.com
 greasysquare.com
+greetzebra.com
+greyinstrument.com
+guardedschool.com
+guiltlessbasketball.com
+gulliblecamp.com
+h78xb.pw
+hammerhearing.com
+handleteeth.com
 handsomeindustry.com
+handyfield.com
 happenhistory.com
 harborcub.com
+hardtofindmilk.com
 headyhook.com
+heavyplayground.com
+hfc195b.com
+highfalutinbox.com
+highfalutinroom.com
+hilariouszinc.com
+historicalbeam.com
+historicalrequest.com
 hollowshake.com
+homelycrown.com
+honeybulb.com
+honeygoldfish.com
+honorablehall.com
+honorableland.com
+horsenectar.com
+humdrumhat.com
+hurtteeth.com
+hypnoticwound.com
+hystericalhelp.com
 i9w8p.pw
 icebergindigo.com
+illfatedsnail.com
+illustriousoatmeal.com
+immensehoney.com
+importedincrease.com
+importedplay.com
 importedpolice.com
+importlocate.com
+impossibleexpansion.com
 impossiblemove.com
+impulsehands.com
 informengine.com
+innocentinvention.com
+innocentwax.com
 inquisitiveinvention.com
+instrumentsponge.com
+intelligentscissors.com
+internalsink.com
+inventionpassenger.com
 investigatepin.com
 inviterabbits.com
+invitesugar.com
+ivykiosk.com
+j93557g.com
+jadeitite.com
+jamexistence.com
+justicejudo.com
+k54nw.pw
 kitesquirrel.com
+knifeoctopus.com
+knottysticks.com
+lagoonolivia.com
+lamplow.com
+languagelake.com
+laughablecopper.com
+laughcloth.com
 leaplunchroom.com
+leftliquid.com
+lettucelimit.com
+levelbehavior.com
+lightcushion.com
 livelumber.com
+lizardslaugh.com
+longinglettuce.com
+loudloss.com
+loudlunch.com
+lowlocket.com
+lp3tdqle.com
+lumberamount.com
+lumpylumber.com
+maddeningpowder.com
+magnetairport.com
+magnificentmist.com
 maniacalappliance.com
+markedcrayon.com
+markedmeasure.com
+markedpail.com
+massivemark.com
+materialisticfan.com
+materialmoon.com
+meatydime.com
+medusasailor.com
 memopilot.com
+memorizeneck.com
+memorycobweb.com
+meremark.com
+messagenovice.com
+mightyspiders.com
+militaryverse.com
+mimosamajor.com
+minormeeting.com
+mixedreading.com
 modifyeyes.com
+moldyicicle.com
 motionlessbag.com
+mountainouspear.com
+movemeal.com
+mowfruit.com
+mundanepollution.com
 murkymeeting.com
+mysteriousmonth.com
+necessarywax.com
+neighborlywatch.com
+nervoussummer.com
 niftyhospital.com
+niftyjelly.com
+noiselessplough.com
+nondescriptcrowd.com
+nondescriptsmile.com
+nondescriptstocking.com
+nostalgicknot.com
+nullnorth.com
+nuttyorganization.com
+obscenesidewalk.com
+observantice.com
 omniscientfeeling.com
+omniscientspark.com
+operationkettle.com
 oppositeoperation.com
+optimallimit.com
 overratedchalk.com
+owlsr.us
+paddleangle.com
+paleleaf.com
 pamelarandom.com
+panoramicbutter.com
+paradoxfactor.com
+parcelcreature.com
+parchedangle.com
+parsimoniouspolice.com
+partplanes.com
+pastoralcorn.com
+pedropanther.com
 pegasusplate.com
+penspade.com
+perceivequarter.com
 perpetualpail.com
+petiteumbrella.com
+photographpan.com
+pietexture.com
 pigspie.com
+piquantpigs.com
 piquantstove.com
 pizzasnut.com
+plainplayground.com
+plantdigestion.com
+politegoldfish.com
+possessivebucket.com
+possibleboats.com
+preciouseffect.com
 prefixpatriot.com
+prepareplanes.com
 presetrabbits.com
+presssensor.com
+previousplayground.com
+previouspotato.com
 printerplasma.com
+productivepear.com
+profitrumour.com
 profusesupport.com
+puffyloss.com
+puffypull.com
 puffypurpose.com
 purchasesuggestion.com
+quacksquirrel.com
+quaintcan.com
+quarterbean.com
+quicksandear.com
+quietknowledge.com
+quizzicalzephyr.com
+railwayrainstorm.com
+raintwig.com
 rainyhand.com
+rainystretch.com
+rapidkittens.com
 raresummer.com
+readgoldfish.com
+readingguilt.com
 readingopera.com
+readymoon.com
+readysnails.com
+realizerecess.com
+realizevacation.com
+rebelsubway.com
 receptivebranch.com
+receptiveink.com
 receptivereaction.com
+reconditerake.com
+referdriving.com
+reflectivereward.com
 rememberroute.com
 repeatsweater.com
+resolutekey.com
+resonantbrush.com
+resonantrock.com
 respectrain.com
 rhetoricalloss.com
+rhymezebra.com
+rhythmmoney.com
+richstring.com
+ringplayground.com
+ringsrecord.com
+riserange.com
+ritzykey.com
+robustbelieve.com
 rodeopolice.com
+roofrelation.com
+roughroll.com
+ruddycast.com
 ruthlessmilk.com
+ruthlessrobin.com
+sablesmile.com
+sailsuit.com
+savorystructure.com
+saysidewalk.com
+scarcesign.com
+scarecrowslip.com
+scaredcomfort.com
+scatteredheat.com
 scatteredstream.com
 scientificshirt.com
+scientificsneeze.com
+scintillatingscissors.com
+scintillatingspace.com
+scratchsofa.com
+screechingfurniture.com
+scrollservice.com
+scrubsky.com
+scrubswim.com
+secretivecub.com
+secretspiders.com
 seedscissors.com
 selectionship.com
+selectionsugar.com
+selectivesummer.com
 selfishsea.com
+separatesilver.com
+shakesea.com
+shakesuggestion.com
+shakytaste.com
+shallowsmile.com
+sharppatch.com
+shesubscriptions.com
+shockinggrass.com
+shockingship.com
+shopbreakfast.com
 shutseashore.com
+shyseed.com
+sicksmash.com
+silentcredit.com
 siliconslow.com
+silkysquirrel.com
+sillyscrew.com
 similarsabine.com
+sincerebuffalo.com
+sincerespy.com
+sixscissors.com
+sizesidewalk.com
 slaysweater.com
+sleepcartoon.com
+slimopinion.com
 slimyscarf.com
+slipperysack.com
+smashsurprise.com
+smilingwaves.com
+smoggysnakes.com
 snailsengine.com
 snakemineral.com
+snakesshop.com
+sneakystamp.com
+sneakystew.com
+sombersea.com
+sombersquirrel.com
+sombersurprise.com
+sootheside.com
 sophisticatedstove.com
+soresneeze.com
+sorethunder.com
+sortsummer.com
 sparklingnumber.com
 specialstatement.com
 spendpest.com
+spidersboats.com
+spiffymachine.com
+spirebaboon.com
+spookyslope.com
+spottednoise.com
 spottedsnow.com
+springaftermath.com
+spuriousbase.com
+spurioussteam.com
+spuriousstranger.com
 squashfriction.com
+squeakzinc.com
+squirrelhands.com
+stakingscrew.com
+stakingslope.com
+standingnest.com
+standtrouble.com
 statuesquebrush.com
+steadfastsound.com
+steadfastsystem.com
+steepsquirrel.com
+stickssheep.com
+stiffstem.com
+storescissors.com
+storeslope.com
+storesurprise.com
+stormyachiever.com
+stormysponge.com
+stoveseashore.com
+straightnest.com
+strangesink.com
+stripedburst.com
+strivesidewalk.com
+structurerod.com
+stupendoussleet.com
+subsequentswim.com
+substantialcarpenter.com
+succeedscene.com
+suddensidewalk.com
 suddensnake.com
+sugarcurtain.com
+sulkybutter.com
+summerobject.com
 superficialsquare.com
 supervisegoldfish.com
 supplysummer.com
 sweepsheep.com
+sweetslope.com
+swimslope.com
+swordgoose.com
+symbolizebeast.com
 systemizecoat.com
+talentedsteel.com
+tangibleteam.com
+tarttendency.com
+tastefulsongs.com
+tastelesstrees.com
+tawdryson.com
+tdzvm.pw
+tedioustooth.com
+teenytinytongue.com
+teenyvolcano.com
+teethfan.com
 tempttalk.com
+tendertest.com
+terriblethumb.com
 texturetrick.com
+thicktrucks.com
 thingsafterthought.com
 thinkablefloor.com
+thinkablerice.com
+thinkabletrick.com
+thirdrespect.com
 thirstytwig.com
+thomastorch.com
+threechurch.com
+throattrees.com
 thunderingrose.com
+ticklesign.com
 timeterritory.com
 timetwig.com
+toecircle.com
+toedrawer.com
+toothbrushnote.com
+topichawaii.com
 torpidtongue.com
 toweringrun.com
+tranquilside.com
 translateoatmeal.com
+trappush.com
+tremendousplastic.com
+tremendoustime.com
+tremendoustreatment.com
 trickycelery.com
+truckstomatoes.com
+typicalairplane.com
+typicalteeth.com
 tzwaw.pw
+ubiquitousyard.com
+ultraoranges.com
+unarmedindustry.com
+unbecominghall.com
+uncoveredexpert.com
+unequalbrake.com
+unevenstring.com
+unknowntray.com
+untidyquestion.com
+untidyrice.com
 unusedquestion.com
+unusualtitle.com
+unwrittenspot.com
 usedexample.com
+uttermosthobbies.com
+vanfireworks.com
+venusgloria.com
+voicevegetable.com
+vq1qi.pw
 waggishpig.com
+wakefulcook.com
 warmquiver.com
+waryfog.com
+wateryvan.com
+wellgroomedbat.com
 wellmadefrog.com
+whirlwealth.com
+whiskyqueue.com
 whisperingbadge.com
+whisperingcrib.com
+wigglygeese.com
+wigglyindustry.com
+wildernesscamera.com
+wirecomic.com
+womanear.com
 workableachiever.com
+workoperation.com
+worriednumber.com
+worrybutter.com
 wreckvolcano.com
+wrongpotato.com
+wryfinger.com
+xovq5nemr.com
+youngmarble.com
+zbwp6ghm.com
 zealousfield.com
+zlp6s.pw
 ##################################################################
 1dmp.co
 1-dot-klarsikt3.appspot.com
