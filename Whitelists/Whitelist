@@ -215,7 +215,6 @@ youtube.com                                # Youtube
 youtube-nocookie.com                       # Youtube - Embedded
 youtu.be                                   # Youtube - Shortener (Copy at this time)
 i.ytimg.com                                # Youtube - Thumbnails
-refer.ccbill.com                           # Refer - Required on some sites
 
 
 # Smart TV
@@ -231,149 +230,12 @@ api.meta.ndmdhs.com                        # Sony - TV Channel Guide
 ########################
 click.email.newegg.com  #Tracker - Breaks Links (Newegg)
 geoip-db.com            #Tracker - Breaks HP Parts Page
+7eer.net                #Tracker - Breaks Links
 avantlink.com           #Tracker - Breaks Links
 buff.ly                 #Tracker - Breaks Links
+click.dji.com           #Tracker - Breaks Links
 click.linksynergy.com   #Tracker - Breaks Links
-7eer.net                #Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
+refer.ccbill.com
 stumbleupon.com
-
-
-# False Blocks
-########################
-afcs.dellcdn.com
-aliexpress.com
-analogplanet.com
-anti-spyware-review.toptenreviews.com
-api.github.com
-apple.com
-app.rebillia.com
-arcamax.com
-assets-cdn.github.com
-assets-jpcust.jwpsrv.com
-beenverified.com 
-blinklist.com
-blog.experts-exchange.com
-bugmenot.com
-cabelas.ugc.bazaarvoice.com
-caribbean360.com
-cdburnerxp.se
-cdn2.hubspot.net
-cdnjs.cloudflare.com
-clk.secureprovide1.com
-combofix.org
-commonsensemedia.org
-crackberry.com
-crackle.com
-creditcards.com
-crunchbase.com
-dgit.com
-dhgate.com
-docs.google.com
-download3.showmypc.com
-downloadanysong.com
-download-new.utorrent.com
-drugs.com
-dyncdn2.com
-everydayhealth.com
-example.com
-experts-exchange.com
-fabuloussavers.com
-fast.wistia.net
-forms.zohopublic.com
-forumnewspaper.com
-freecovers.net
-freeroms.com
-gadgetreview.com
-gdlp01.c-wss.com
-geolite.maxmind.com
-github.com
-githubusercontent.com
-hackerone.com
-hackforums.net
-hak5.org
-ibibo.com
-i.dell.com
-img200.imagetwist.com
-imgclick.net
-iomoio.com
-ip-tracker.org
-izismile.com
-joblo.com
-kinesis.us-east-1.amazonaws.com
-knownpeople.net
-krebsonsecurity.com
-m1.nsimg.net
-m2.nsimg.net
-malware-board.com
-manta.com
-medium.freecodecamp.org 
-mirrorservice.org
-monitis.com
-movietickets.com
-msnprod.oberon-media.com
-mvm.snapchat.com
-mylife.com
-mywot.com
-netfort.com
-nsm.dell.com
-o.aolcdn.com
-oldversion.com
-openload.co
-osimg.nbcuni.com
-ospserver.net
-owasp.org
-petri.com
-playercdn.com
-raw.githubusercontent.com
-reevoo.com
-reference.com
-romsmania.com
-rosewill.com
-secure.gravatar.com
-securejoinsite.com
-sevenforums.com
-sightpusher.com
-siteadvisor.com
-smallbiztrends.com
-smallbusiness.chron.com
-smtpout.secureserver.net
-snpi.dell.com
-softwarehelpdata.com
-solarwinds.com
-stackoverflow.com
-static1.squarespace.com
-static.squarespace.com
-superuser.com
-techrepublic.com
-techtalk.gfi.com
-tenforums.com
-tenor.com
-theblaze.com
-thedailybeast.com
-toptenreviews.com
-torc.com
-turbobit.net
-unsplash.com
-v7support.com
-vistax64.com
-w3.cdn.anvato.net
-wcrypt.com
-webmd.com
-webtrack.dhlglobalmail.com
-weeklyad.staples.com
-worldnow.com
-auslogics.com 
-search.com
-search.comedycentral.com
-search.crash.net
-dogpile.com
-search.dogpile.com
-search.mylife.com
-download.cnet.com
-imagedost.com
-backup-utility.com
-toolbox.com
-it.toolbox.com
-gohacking.com
