@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
 #
-# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
+# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -85,17 +85,20 @@ windowsphone.xbox.com                                #Xbox
 x1ds.xboxlive.com                                    #Xbox
 xnotify.xboxlive.com                                 #Xbox
 
-cortana.ai                             #App -   Cortana
-a-msedge.net                           #App - Microsoft Office
-a-ring.msedge.net                      #App - Microsoft Office
-b-ring.msedge.net                      #App - Microsoft Office
-fp.msedge.net                          #App - Microsoft Office
-l-ring.msedge.net                      #App - Microsoft Office
-msedge.net                             #App - Microsoft Office
-q-ring.msedge.net                      #App - Microsoft Office
-s-ring.msedge.net                      #App - Microsoft Office
-t-ring.msedge.net                      #App - Microsoft Office
-v4ncsi.msedge.net                      #App - Microsoft Office
+cortana.ai                             #App - Cortana
+edge.microsoft.com                     #App -   Edge
+msedge.api.cdp.microsoft.com           #App -   Edge
+ntp.msn.com                            #App -   Edge
+a-msedge.net                           #App - Office
+a-ring.msedge.net                      #App - Office
+b-ring.msedge.net                      #App - Office
+fp.msedge.net                          #App - Office
+l-ring.msedge.net                      #App - Office
+msedge.net                             #App - Office
+q-ring.msedge.net                      #App - Office
+s-ring.msedge.net                      #App - Office
+t-ring.msedge.net                      #App - Office
+v4ncsi.msedge.net                      #App - Office
 1drv.com                               #App -   OneDrive
 1drv.ms                                #App -   OneDrive
 oneclient.sfx.ms                       #App -   OneDrive
@@ -260,6 +263,7 @@ msecn.net                                #Defunct ?
 msnhome.org                              #Defunct ?
 
 config.teams.microsoft.com               #Microsoft Teams
+statics.teams.cdn.office.net             #Microsoft Teams
 teams.microsoft.com                      #Microsoft Teams
 
 aad.cs.dds.microsoft.com
@@ -341,6 +345,7 @@ fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 go.microsoft.akadns.net
 graph.microsoft.com
+graph.windows.net
 greenid-prod.westus2.cloudapp.azure.com
 groove.microsoft.com
 groups.photos.microsoft.com

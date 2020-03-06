@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
+# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -16,6 +16,7 @@
 brazzerssurvey.com                                     #Survey
 inmoment.com                                           #Survey
 lb.polldaddy.com                                       #Survey
+opinionbar.com                                         #Survey
 polldaddy.com                                          #Survey
 poll.fm                                                #Survey
 samplicio.us                                           #Survey
@@ -25,6 +26,8 @@ surveyrouter.com                                       #Survey
 ups.surveyrouter.com                                   #Survey
 you-cubez.com                                          #Survey
 amdsurveys.com                                         #Survey - AMD
+globaltestmarket.com                                   #Survey - Life Points
+lifepointspanel.com                                    #Survey - Life Points
 demographics.neat.com                                  #Survey - Neat Scanner
 research.net                                           #Survey - Research
 d2bnxibecyz4h5.cloudfront.net                          #Survey - Survey Gizmo
@@ -70,18 +73,21 @@ stopzilla.com                               #Antivirus    StopZilla
 totalav.com                                 #Antivirus    TotalAV
 webroot.com                                 #Antivirus    Webroot
 
-jouwpagina.be                               #Bookmark Site  ???
 2link.be                                    #Bookmark Site
+bestelinks.nl                               #Bookmark Site
 boogolinks.nl                               #Bookmark Site
 eigenstart.be                               #Bookmark Site
+favorietje.nl                               #Bookmark Site
 favos.nl                                    #Bookmark Site
 fopu.com                                    #Bookmark Site
 icio.us                                     #Bookmark Site
+jouwpagina.be                               #Bookmark Site
 jouwpagina.nl                               #Bookmark Site
 linkarena.com                               #Bookmark Site
 linkoverzicht.be                            #Bookmark Site
 maakjestart.nl                              #Bookmark Site
 ontoplist.com                               #Bookmark Site
+pagina.nu                                   #Bookmark Site
 startbewijs.be                              #Bookmark Site
 startbewijs.nl                              #Bookmark Site
 startclub.nl                                #Bookmark Site
@@ -93,6 +99,7 @@ startspin.nl                                #Bookmark Site
 startvista.be                               #Bookmark Site
 top-100.pl                                  #Bookmark Site
 toplista.pl                                 #Bookmark Site
+webgidsje.nl                                #Bookmark Site
 
 brave.com                                   #Browser
 bravesoftware.com                           #Browser
@@ -112,9 +119,16 @@ notification.adblockplus.org                #Browser Extension
 retailmenot.com                             #Cash Back / Coupons
 secure.retailmenot.com                      #Cash Back / Coupons
 ecbsn.com                                   #Cash Back (Ebates)
-splitter.ebates.com                         #Cash Back
 ebates.com                                  #Cash Back
+shopbackau.zendesk.com                      #Cash Back
+shopback.com.au                             #Cash Back
+shopback.com                                #Cash Back
+shopback.my                                 #Cash Back
+shopbacksg2.zendesk.com                     #Cash Back
+shopback.sg                                 #Cash Back
+splitter.ebates.com                         #Cash Back
 static.ebates.com                           #Cash Back
+
 befrugal.com                                #Coupons
 coupons.com                                 #Coupons
 cpnscdn.com                                 #Coupons

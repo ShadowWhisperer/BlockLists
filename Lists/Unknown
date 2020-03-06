@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I found from other lists)
 #
-# Updated: 2/29/2020  01:15  (1:15 AM)  - Central Standard Time
+# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -12,6 +12,8 @@
 #############################
 # Ads
 #############################
+0s9dxlr07huu.com            #AdSupply.com  (Was in MalwareBytes List)
+z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
@@ -45,11 +47,9 @@ golnk2.com                              #Malware ? (Site claims ad server)
 golnk5.com                              #Malware ? (Site claims ad server)
 unbouncepages.com                       #Malware ?
 a1955.b.akamai.net
-45tu1c0.com
 adscheaper.com
 aralego.com
 bksn.se
-cdn.45tu1c0.com
 cs02.semi-cod.com
 cs03.semi-cod.com
 cs04.semi-cod.com
@@ -57,7 +57,6 @@ cs05.semi-cod.com
 cs06.semi-cod.com
 cs07.semi-cod.com
 cs09.semi-cod.com
-dap2y8k6nefku.cloudfront.net
 data.potpourrichordataoscilloscope.com
 mb104.com
 mobusi.com
@@ -67,6 +66,19 @@ semi-cod.com
 twinrdsrv.com
 userwave.com
 viewsecure.net
+
+
+#############################
+# Blank Page
+#############################
+api.ticlock.com                 #Android App
+illiweb.com                     #ExotikWeb
+pixlgif.com                     #Google
+g.jwpsrv.com                    #Jwplayer
+dtsince.com
+qdmns.com
+capufamo.com
+wvghl.com
 
 
 #############################
@@ -80,12 +92,20 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 kaizenet.com       #Kaizenet G.Eath not current (Might be malware)
 lab.kaizenet.com   #Kaizenet G.Eath not current (Might be malware)
-loyaltypath.com      #Repeat Returns
-repeatreturns.com    #Repeat Returns
 affex.org          #Zieltraffic - Dead ?
 zdbb.net           #Ziff Davis
 mix-uni.ru
 scarabresearch.com
+
+
+#############################
+# Malware
+#############################
+api.lilo.org            #Search Engine
+lilo.org                #Search Engine
+search.lilo.org         #Search Engine
+search.uselilo.org      #Search Engine
+uselilo.org             #Search Engine
 
 
 #############################
@@ -180,18 +200,7 @@ zrcir.com
 tj.yddashi.com
 matchid.adfox.yandex.ru
 js.track-analytics.com
-
-
-#############################
-# Blank Site
-#############################
-api.ticlock.com                 #Android App
-pixlgif.com                     #Google
-g.jwpsrv.com                    #Jwplayer
-dtsince.com
-qdmns.com
-capufamo.com
-wvghl.com
+geolookup-a.akamaihd.net
 
 
 #############################
@@ -878,6 +887,7 @@ bruisebaseball.com
 btez8.xyz
 bucketbean.com
 bulbbait.com
+burgerbrush.com
 burnbubble.com
 businessbells.com
 bustlinganimal.com
@@ -918,6 +928,7 @@ cloisteredcord.com
 cloisteredhydrant.com
 cloudsdestruction.com
 colorfulafterthought.com
+colossalchance.com
 comfortablecheese.com
 commonswing.com
 completecabbage.com
@@ -976,6 +987,7 @@ divergentoffer.com
 dk4ywix.com
 docksalmon.com
 dogsshoes.com
+dollardelta.com
 donkeyleaf.com
 doorbrazil.com
 doubtfulrainstorm.com
@@ -1080,6 +1092,7 @@ guardedschool.com
 guiltlessbasketball.com
 gulliblecamp.com
 h78xb.pw
+haltingbadge.com
 hammerhearing.com
 handleteeth.com
 handsomeindustry.com
@@ -1279,6 +1292,7 @@ referdriving.com
 reflectivereward.com
 rememberroute.com
 repeatsweater.com
+replaceroute.com
 resolutekey.com
 resonantbrush.com
 resonantrock.com
@@ -1296,10 +1310,12 @@ rodeopolice.com
 roofrelation.com
 roughroll.com
 ruddycast.com
+ruthlessdegree.com
 ruthlessmilk.com
 ruthlessrobin.com
 sablesmile.com
 sailsuit.com
+samestretch.com
 savorystructure.com
 saysidewalk.com
 scarcesign.com
@@ -1666,3 +1682,4 @@ w.ssl.global.fastly.net
 ws.spotify.com
 xlbbhdarc.com
 ysdn.org
+aresssl.agoop.net
