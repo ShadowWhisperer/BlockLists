@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
 #
-# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
+# Updated: 3/7/2020  10:24  (10:24 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -265,6 +265,7 @@ msnhome.org                              #Defunct ?
 config.teams.microsoft.com               #Microsoft Teams
 statics.teams.cdn.office.net             #Microsoft Teams
 teams.microsoft.com                      #Microsoft Teams
+tr.teams.microsoft.com                   #Microsoft Teams
 
 aad.cs.dds.microsoft.com
 acctcdnmsftuswe2.azureedge.net
