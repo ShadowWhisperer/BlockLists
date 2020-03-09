@@ -34,10 +34,12 @@ I manage a computer repair shop, and I am able to see which domains are being re
 _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may/will break some websites.
   
   
+  
 **Create Block List**  
   while read -r Line || [[ -n "$Line" ]]; do  
   echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> /etc/block/$Name  
   done < /tmp/List
+  
   
   
 __**Useful Links**__  
