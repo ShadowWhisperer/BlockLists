@@ -45,4 +45,4 @@ __**Useful Links**__
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
 [VirusTotal](https://www.virustotal.com/gui/home/url)  
   
-[Typo Generator](domaincheckplugin.com/typo)
+[Typo Generator](http://domaincheckplugin.com/typo)
