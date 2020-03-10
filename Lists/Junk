@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
+# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -58,9 +58,6 @@ webcompanion.com                            #Antivirus    Adaware
 bitdefender.com                             #Antivirus    Bit Defender
 bitdefender.net                             #Antivirus    Bit Defender
 da3e3.net                                   #Antivirus    Bit Defender
-bsbrowsing.com                              #Antivirus    Bytefence
-bytefence.com                               #Antivirus    Bytefence
-reasonsecurity.com                          #Antivirus    Bytefence
 e5.sk                                       #Antivirus    Eset
 eset.com                                    #Antivirus    Eset
 fsapi.com                                   #Antivirus    F-Secure
@@ -103,6 +100,7 @@ webgidsje.nl                                #Bookmark Site
 
 brave.com                                   #Browser
 bravesoftware.com                           #Browser
+co.cc                                       #Browser
 coccoc.com                                  #Browser
 maxthon.com                                 #Browser
 ucweb.com                                   #Browser
@@ -111,6 +109,7 @@ adblockplus.org                             #Browser Extension
 adtidy.org                                  #Browser Extension
 adzero.org                                  #Browser Extension
 bleengo.com                                 #Browser Extension
+search.bleengo.com                          #Browser Extension
 chrome.adtidy.org                           #Browser Extension
 gingersoftware.com                          #Browser Extension
 grammarly.io                                #Browser Extension
@@ -360,12 +359,18 @@ xtgem.com                                   #Website Builder
 zohosites.com                               #Website Builder
 
 lycos.com                                   #Search Engine - Links to malware
+
+ask-tb.com                                  #Search Engine   Ask (Toolbar
 ask.com                                     #Search Engine   Ask
 search.ask.com                              #Search Engine   Ask
 search.tb.ask.com                           #Search Engine   Ask
 ss-sym.search.ask.com                       #Search Engine   Ask
 tbapi.search.ask.com                        #Search Engine   Ask
 search.comodo.com                           #Search Engine   Comodo
+sugg.search.yahoo.net                       #Search Engine   Yahoo (Suggestions)
+toolbar.yahoo.com                           #Search Engine   Yahoo (Toolbar)
+search.yahoo.com                            #Search Engine   Yahoo
+copernicus-software.stores.yahoo.net        #Search Engine   Yahoo
 search.zonealarm.com                        #Search Engine   ZoneAlarm (Safe Search)
 
 downloadaccelerator.com                     #Video Downloader
@@ -379,7 +384,6 @@ pythonanywhere.com                          #Can be used for malware
 godaddysites.com                            #Un-Finished sites - Usually malware
 
 addtoany.com                                #Universal Sharing
-
 
 
 
@@ -399,7 +403,6 @@ api.pocketgeek.com
 api.screencastify.com
 areyourinlove.com
 assets.eviesays.com
-bleengo.com
 cdn.ebaumsworld.com
 d363izihpqsmfs.cloudfront.net
 doctoroz.com
@@ -420,7 +423,6 @@ pocketgeek.com
 prod-minicms-1377071205.us-east-1.elb.amazonaws.com
 runewslenta.com
 screencastify.com
-search.bleengo.com
 supereva.it
 widget.eviesays.com
 youlucky2014.com

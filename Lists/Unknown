@@ -1,7 +1,7 @@
 #
-#    File: Unknown   (Site that have appeared in my logs / Research I found from other lists)
+#    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
+# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -17,6 +17,7 @@ z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
+2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                 #Paypal (Logo?)
 a-fds.youborafds01.com         #PlutoTV
@@ -75,7 +76,6 @@ api.ticlock.com                 #Android App
 illiweb.com                     #ExotikWeb
 pixlgif.com                     #Google
 g.jwpsrv.com                    #Jwplayer
-dtsince.com
 qdmns.com
 capufamo.com
 wvghl.com
@@ -155,13 +155,13 @@ keynote.litmos.com                                    #SAP Litmos
 litmos.com                                            #SAP Litmos
 orderlogicapp.com                                           #Shopify
 rtam-collector.snapchat.com                               #SnapChat
-loca.sc-jpl.com                                           #SnapChat ?
-loc.sc-jpl.com                                            #SnapChat ?
-ms.sc-jpl.com                                             #SnapChat ?
-sc-jpl.com                                                #SnapChat ?
-scm.sc-jpl.com                                            #SnapChat ?
-s.sc-jpl.com                                              #SnapChat ?
-st.sc-jpl.com                                             #SnapChat ?
+loca.sc-jpl.com                                           #SnapChat
+loc.sc-jpl.com                                            #SnapChat
+ms.sc-jpl.com                                             #SnapChat
+sc-jpl.com                                                #SnapChat
+scm.sc-jpl.com                                            #SnapChat
+s.sc-jpl.com                                              #SnapChat
+st.sc-jpl.com                                             #SnapChat
 app.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 cdn.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
@@ -306,7 +306,6 @@ bolt.v.dropbox.com                           #DropBox
 cfl.dropboxstatic.com.cdn.cloudflare.net     #DropBox
 dropboxstatic.com                            #DropBox
 edge-block-www.dropbox-dns.com               #DropBox
-edge-block-www.dropbox-dns.com               #DropBox
 mmp.getdropbox.com                           #DropBox
 netmon-control.dropbox.com                   #DropBox
 nsf-1.dropbox.com                            #DropBox
@@ -419,7 +418,6 @@ r1---sn-vgqsknlz.gvt1.com                      #Google - Updates ?
 r1---sn-vgqsrn76.gvt1.com                      #Google - Updates ?
 r1---sn-vgqsrn7l.gvt1.com                      #Google - Updates ?
 r2.sn-ja5gput-hn2e.gvt1.com                    #Google - Updates ?
-r2.sn-ja5gput-hn2e.gvt1.com                    #Google - Updates ?
 r2---sn-vgqsdn7s.gvt1.com                      #Google - Updates ?
 r2---sn-vgqskne6.gvt1.com                      #Google - Updates ?
 r2---sn-vgqsknls.gvt1.com                      #Google - Updates ?
@@ -451,7 +449,6 @@ chromesyncentities-pa.googleapis.com           #Google
 crl.pki.goog                                   #Google
 csi.gstatic.com                                #Google
 encrypted-vtbn0.gstatic.com                    #Google
-encrypted-vtbn0.gstatic.com                    #Google
 encrypted-vtbn1.gstatic.com                    #Google
 encrypted-vtbn2.gstatic.com                    #Google
 encrypted-vtbn3.gstatic.com                    #Google
@@ -476,8 +473,6 @@ or-s.storage.googleapis.com                    #Google
 os-d.storage.googleapis.com                    #Google
 os-u.storage.googleapis.com                    #Google
 phonedeviceverification-pa.googleapis.com      #Google
-pki-goog.l.google.com                          #Google
-pki-goog.l.google.com                          #Google
 pki-goog.l.google.com                          #Google
 popup.withgoogle.com                           #Google
 pubsub.googleapis.com                          #Google
@@ -1220,6 +1215,8 @@ omniscientspark.com
 operationkettle.com
 oppositeoperation.com
 optimallimit.com
+orangeoperation.com
+overconfidentfood.com
 overratedchalk.com
 owlsr.us
 paddleangle.com
@@ -1623,7 +1620,6 @@ media.amazon.map.fastly.net
 mmapiws.com
 mobilemacmini.wsmeco.com
 mrs-nginx-3.westus.cloudapp.azure.com
-mxase.clmbtech.com
 net.cleverjp.com
 nitehawk.hearst.io
 ocsp.entrust.net 

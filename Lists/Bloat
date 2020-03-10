@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/6/2020  00:09  (12:09 AM)  - Central Standard Time
+# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -142,7 +142,6 @@ openh264.org                                 #Software   FireFox    Bloat   open
 donate.mozilla.org                           #Software   FireFox    Donate
 d3ozddcpb3il9a.cloudfront.net                #Software   FireFox    Donate
 normandy-cloudfront.cdn.mozilla.net          #Software   FireFox    Normandy
-d6wjo2hisqfy2.cloudfront.net                 #Software   FireFox    Normandy
 getpocket.cdn.mozilla.net                    #Software   FireFox    Pocket
 img-getpocket.cdn.mozilla.net                #Software   FireFox    Pocket
 autopush.prod.mozaws.net                     #Software   FireFox    Push
@@ -153,7 +152,6 @@ tiles.services.mozilla.com                   #Software   FireFox    Tiles (Histo
 d6wjo2hisqfy2.cloudfront.net                 #Software   FireFox    Tiles (History > Website Preview)
 tiles.r53-2.services.mozilla.com             #Software   FireFox    Tiles (HomePage)
 activity-stream-icons.services.mozilla.com   #Software   FireFox
-autopush.prod.mozaws.net                     #Software   FireFox
 classify-client.services.mozilla.com         #Software   FireFox
 detectportal.firefox.com                     #Software   FireFox
 firefox.settings.services.mozilla.com        #Software   FireFox
@@ -161,7 +159,6 @@ push.services.mozilla.com                    #Software   FireFox
 snippets.cdn.mozilla.net                     #Software   FireFox
 snippets.mozilla.com                         #Software   FireFox
 tiles-cloudfront.cdn.mozilla.net             #Software   FireFox
-tiles.services.mozilla.com                   #Software   FireFox
 browser-notifications.opera.com              #Software      Opera
 plugon.us                                    #Software    ShowMyPc  After Exit
 steambroadcast.akamaized.net                 #Software      Steam - Broadcast Gameplay
@@ -177,86 +174,6 @@ update.utorrent.com                          #Software   µTorrent
 update.utorrent.li                           #Software   µTorrent
 user.utorrent.com                            #Software   µTorrent
 utclient.utorrent.com                        #Software   µTorrent
-
-acms.carconnectivity.org                               #Android  Screen Mirror
-carconnectivity.org                                    #Android  Screen Mirror
-
-amt-games.com                                          #Android  [App Studio]    AMT Games
-dkgamedev.com                                          #Android  [App Studio]    Asamtee Games
-babeltimeus.com                                        #Android  [App Studio]    Babeltime inc
-bitmango.com                                           #Android  [App Studio]    Bitmango
-byvgames.com                                           #Android  [App Studio]    Byv Games
-adkmob.com                                             #Android  [App Studio]    Cheetah Mobile Technology
-cmcm.com                                               #Android  [App Studio]    Cheetah Mobile Technology
-duba.net                                               #Android  [App Studio]    Cheetah Mobile Technology
-concretesoftware.com                                   #Android  [App Studio]    Concrete Software
-doodlemobile.com                                       #Android  [App Studio]    Doodle Mobile
-djinnworks.at                                          #Android  [App Studio]    DjinnWorks
-com.djinnworks.lr.s3.amazonaws.com                     #Android  [App Studio]    DjinnWorks
-com.djinnworks.newsfeed.s3.amazonaws.com               #Android  [App Studio]    DjinnWorks
-fdg-entertainment.com                                  #Android  [App Studio]    FDG Entertainment
-four33.com                                             #Android  [App Studio]    FourThirtyThree
-funlabmobile.com                                       #Android  [App Studio]    FunLab
-201205igp.gameloft.com                                 #Android  [App Studio]    Gameloft
-as23r23ljf.gameloft.com                                #Android  [App Studio]    Gameloft
-etsv2.gameloft.com                                     #Android  [App Studio]    Gameloft
-etsv.gameloft.com                                      #Android  [App Studio]    Gameloft
-eur-osiris.gameloft.com                                #Android  [App Studio]    Gameloft
-game-portal.eur.gameloft.com                           #Android  [App Studio]    Gameloft
-interstatic06.gameloft.com                             #Android  [App Studio]    Gameloft
-oct.gameloft.com                                       #Android  [App Studio]    Gameloft
-secure.gameloft.com                                    #Android  [App Studio]    Gameloft
-sink.   gameloft.com                                   #Android  [App Studio]    Gameloft
-ssp-ges.gameloft.com                                   #Android  [App Studio]    Gameloft
-gamevil.com                                            #Android  [App Studio]    Gamevil
-glu.com                                                #Android  [App Studio]    Glu
-glulive.com                                            #Android  [App Studio]    Glu
-gluops.com                                             #Android  [App Studio]    Glu
-goforandroid.com                                       #Android  [App Studio]    Gomo
-gomo.com                                               #Android  [App Studio]    Gomo
-bricknet.com                                           #Android  [App Studio]    Halfbrick Studios
-hardlightdev.com                                       #Android  [App Studio]    Hard Light Games
-hardlightgames.com                                     #Android  [App Studio]    Hard Light Games
-hotheadgames.com                                       #Android  [App Studio]    Hot Head Games
-igates.co.il                                           #Android  [App Studio]    iGates
-ironhidegames.com                                      #Android  [App Studio]    Ironhide Games
-midasplayer.com                                        #Android  [App Studio]    King
-libii.com                                              #Android  [App Studio]    Libii Game
-magictavern.com                                        #Android  [App Studio]    Magic Tavern
-miniclipcf.com                                         #Android  [App Studio]    Miniclip
-mobirate.com                                           #Android  [App Studio]    Mobirate
-mobirix.net                                            #Android  [App Studio]    Mobirix
-my.com                                                 #Android  [App Studio]    My
-nmss.gcdn.netmarble.com                                #Android  [App Studio]    NetMarble
-outfit7.com                                            #Android  [App Studio]    OutFit7
-peakgames.net                                          #Android  [App Studio]    Peak Games
-playdemic.com                                          #Android  [App Studio]    Playdemic
-playgendary.com                                        #Android  [App Studio]    Play Gendary
-draper.popcap.com                                      #Android  [App Studio]    PopCap / EA
-draper-staging.popcap.com                              #Android  [App Studio]    PopCap / EA
-gats.popcap.com                                        #Android  [App Studio]    PopCap / EA
-pegglex-live.ecs.popcap.com                            #Android  [App Studio]    PopCap / EA
-pegmo-prd.popcap.com                                   #Android  [App Studio]    PopCap / EA
-reliancegames.com                                      #Android  [App Studio]    Reliance Games
-raongames.com                                          #Android  [App Studio]    Raon Games
-redantzgames.com                                       #Android  [App Studio]    Red Antz
-saygames.io                                            #Android  [App Studio]    SayGames
-scopely.com                                            #Android  [App Studio]    Scopely
-scopely.io                                             #Android  [App Studio]    Scopely
-ushareit.com                                           #Android  [App Studio]    SHAREit
-wshareit.com                                           #Android  [App Studio]    SHAREit
-siliconorchard.com                                     #Android  [App Studio]    Silicon Orchard
-surpax.net                                             #Android  [App Studio]    Surpax
-tensquaregames.com                                     #Android  [App Studio]    Ten Square Games
-tapps.games                                            #Android  [App Studio]    TappsGames
-fungames-forfree.com                                   #Android  [App Studio]    TFG
-voodoo-tech.io                                         #Android  [App Studio]    Voodoo
-tfgco.com                                              #Android  [App Studio]    WildLife
-zeptolab.com                                           #Android  [App Studio]    Zepto Lab
-playerio.com                                           #Android  [Game Creator]  Player IO
-d3699v4tsyfjnd.cloudfront.net                          #Android  [Game Engine]   Unity 3D
-unity3d.com                                            #Android  [Game Engine]   Unity 3D
-aptoide.com                                            #Android  [APK Downloads]
 
 emapi.prm.data.ea.com                                  #Games [Studio]  EA
 river-mobile.data.ea.com                               #Games [Studio]  EA
@@ -449,10 +366,6 @@ apps.toshiba.com                                        #Toshiba
 csdsupport.toshiba.com                                  #Toshiba
 fbd.toshiba.com                                         #Toshiba
 wo.vzwwo.com                                            #Verizon   Wifi Calling
-search.yahoo.com                                        #Yahoo    Search Engine
-sugg.search.yahoo.net                                   #Yahoo    Search Engine (Suggestions)
-toolbar.yahoo.com                                       #Yahoo    Toolbar
-copernicus-software.stores.yahoo.net                    #Yahoo
 
 pc.airdroid.com                                         #Android  [App]   AirDroid (Home Tab - Forum Integration)
 pc.airdroid.com.s3-website-us-east-1.amazonaws.com      #Android  [App]   AirDroid (Home Tab - Forum Integration)
@@ -464,8 +377,10 @@ lb.airdroid.com                                         #Android  [App]   AirDro
 td.airdroid.com                                         #Android  [App]   AirDroid
 uc-file.airdroid.com                                    #Android  [App]   AirDroid
 web.airdroid.com                                        #Android  [App]   AirDroid
+clmbtech.com                                            #Android  [App]   MXplayer
 mxplay.com                                              #Android  [App]   MXplayer
 mxplayer.j2inter.com                                    #Android  [App]   MXplayer
+mxvp-feature-toggle-prod-1.zenmxapps.com                #Android  [App]   MXplayer
 coverfire.s3.dualstack.us-east-1.amazonaws.com          #Android  [Game]  Coverfire
 soniccd-cdn.s3.amazonaws.com                            #Android  [Game]  Sonic CD
 tfg-customer.s3.amazonaws.com                           #Android  [Game]  Bike Race  (FAQs ?)
@@ -478,3 +393,83 @@ tetrisrushlive.appspot.com                              #Android  [Game]  Tetris
 relicrun.s3.amazonaws.com                               #Android  [Game]  Tomb Raider: Relic Run
 relicrun.cdn.sqexeu.com                                 #Android  [Game]  Tomb Raider: Relic Run
 relicrun-sink-dv.sqexeu.com                             #Android  [Game]  Tomb Raider: Relic Run
+
+acms.carconnectivity.org                                #Android  Screen Mirror
+carconnectivity.org                                     #Android  Screen Mirror
+
+amt-games.com                                           #Android  [App Studio]    AMT Games
+dkgamedev.com                                           #Android  [App Studio]    Asamtee Games
+babeltimeus.com                                         #Android  [App Studio]    Babeltime inc
+bitmango.com                                            #Android  [App Studio]    Bitmango
+byvgames.com                                            #Android  [App Studio]    Byv Games
+adkmob.com                                              #Android  [App Studio]    Cheetah Mobile Technology
+cmcm.com                                                #Android  [App Studio]    Cheetah Mobile Technology
+duba.net                                                #Android  [App Studio]    Cheetah Mobile Technology
+concretesoftware.com                                    #Android  [App Studio]    Concrete Software
+doodlemobile.com                                        #Android  [App Studio]    Doodle Mobile
+djinnworks.at                                           #Android  [App Studio]    DjinnWorks
+com.djinnworks.lr.s3.amazonaws.com                      #Android  [App Studio]    DjinnWorks
+com.djinnworks.newsfeed.s3.amazonaws.com                #Android  [App Studio]    DjinnWorks
+fdg-entertainment.com                                   #Android  [App Studio]    FDG Entertainment
+four33.com                                              #Android  [App Studio]    FourThirtyThree
+funlabmobile.com                                        #Android  [App Studio]    FunLab
+201205igp.gameloft.com                                  #Android  [App Studio]    Gameloft
+as23r23ljf.gameloft.com                                 #Android  [App Studio]    Gameloft
+etsv2.gameloft.com                                      #Android  [App Studio]    Gameloft
+etsv.gameloft.com                                       #Android  [App Studio]    Gameloft
+eur-osiris.gameloft.com                                 #Android  [App Studio]    Gameloft
+game-portal.eur.gameloft.com                            #Android  [App Studio]    Gameloft
+interstatic06.gameloft.com                              #Android  [App Studio]    Gameloft
+oct.gameloft.com                                        #Android  [App Studio]    Gameloft
+secure.gameloft.com                                     #Android  [App Studio]    Gameloft
+sink.   gameloft.com                                    #Android  [App Studio]    Gameloft
+ssp-ges.gameloft.com                                    #Android  [App Studio]    Gameloft
+gamevil.com                                             #Android  [App Studio]    Gamevil
+glu.com                                                 #Android  [App Studio]    Glu
+glulive.com                                             #Android  [App Studio]    Glu
+gluops.com                                              #Android  [App Studio]    Glu
+goforandroid.com                                        #Android  [App Studio]    Gomo
+gomo.com                                                #Android  [App Studio]    Gomo
+bricknet.com                                            #Android  [App Studio]    Halfbrick Studios
+hardlightdev.com                                        #Android  [App Studio]    Hard Light Games
+hardlightgames.com                                      #Android  [App Studio]    Hard Light Games
+hotheadgames.com                                        #Android  [App Studio]    Hot Head Games
+igates.co.il                                            #Android  [App Studio]    iGates
+ironhidegames.com                                       #Android  [App Studio]    Ironhide Games
+midasplayer.com                                         #Android  [App Studio]    King
+libii.com                                               #Android  [App Studio]    Libii Game
+magictavern.com                                         #Android  [App Studio]    Magic Tavern
+miniclipcf.com                                          #Android  [App Studio]    Miniclip
+mobirate.com                                            #Android  [App Studio]    Mobirate
+mobirix.net                                             #Android  [App Studio]    Mobirix
+my.com                                                  #Android  [App Studio]    My
+nmss.gcdn.netmarble.com                                 #Android  [App Studio]    NetMarble
+outfit7.com                                             #Android  [App Studio]    OutFit7
+peakgames.net                                           #Android  [App Studio]    Peak Games
+playdemic.com                                           #Android  [App Studio]    Playdemic
+playgendary.com                                         #Android  [App Studio]    Play Gendary
+draper.popcap.com                                       #Android  [App Studio]    PopCap / EA
+draper-staging.popcap.com                               #Android  [App Studio]    PopCap / EA
+gats.popcap.com                                         #Android  [App Studio]    PopCap / EA
+pegglex-live.ecs.popcap.com                             #Android  [App Studio]    PopCap / EA
+pegmo-prd.popcap.com                                    #Android  [App Studio]    PopCap / EA
+reliancegames.com                                       #Android  [App Studio]    Reliance Games
+raongames.com                                           #Android  [App Studio]    Raon Games
+redantzgames.com                                        #Android  [App Studio]    Red Antz
+saygames.io                                             #Android  [App Studio]    SayGames
+scopely.com                                             #Android  [App Studio]    Scopely
+scopely.io                                              #Android  [App Studio]    Scopely
+ushareit.com                                            #Android  [App Studio]    SHAREit
+wshareit.com                                            #Android  [App Studio]    SHAREit
+siliconorchard.com                                      #Android  [App Studio]    Silicon Orchard
+surpax.net                                              #Android  [App Studio]    Surpax
+tensquaregames.com                                      #Android  [App Studio]    Ten Square Games
+tapps.games                                             #Android  [App Studio]    TappsGames
+fungames-forfree.com                                    #Android  [App Studio]    TFG
+voodoo-tech.io                                          #Android  [App Studio]    Voodoo
+tfgco.com                                               #Android  [App Studio]    WildLife
+zeptolab.com                                            #Android  [App Studio]    Zepto Lab
+playerio.com                                            #Android  [Game Creator]  Player IO
+d3699v4tsyfjnd.cloudfront.net                           #Android  [Game Engine]   Unity 3D
+unity3d.com                                             #Android  [Game Engine]   Unity 3D
+aptoide.com                                             #Android  [APK Downloads]
