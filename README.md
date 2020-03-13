@@ -1,6 +1,6 @@
     Ads              Advertisements, Banners, Widgets & Push Notifications  
     Adult            Porn / 18+ Content  
-    Apple            Bloat / Push Notifications / Tracking  
+    Apple            Bloat / Push Notifications  
     Bitcoin          Bitcoin Miner & Related Sites  
     Bloat            Fonts, Domains not required for software to function  
     Chat             Live / Bot Chat Dialog Boxes  
@@ -11,7 +11,7 @@
     Malware          Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites  
     Marketing        Web Marketing / Ebay Listing Tools  
     Marketing-Email  Email Based Marketing  
-    Microsoft        Analytics, Apps, Bing, Tiles, Tracking, Unknown  
+    Microsoft        Apps, Bing, Tiles, Unknown  
     Pirate           Torrent / Magnet Sites, Trackers, Warez  
     Remote           Domains used to remotely control your stuff  
     Scam             Fake / Misleading Sites - Not directly malware  
