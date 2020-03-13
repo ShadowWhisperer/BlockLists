@@ -124,7 +124,6 @@ gha.ebay.com                               # Ebay - Notifications
 vod.ebay.com                               # Ebay - Print Preview
 rover.ebay.com                             # Ebay - View Orders
 hotmail.com                                # Email - Hotmail
-login.live.com                             # Email - Hotmail
 gallery.mailchimp.com                      # Email - Mailchimp - Images
 login.yahoo.com                            # Email - Yahoo
 smtp.mail.yahoo.com                        # Email - Yahoo
@@ -184,6 +183,7 @@ api.pinterest.com                          # Social Media - Pinterest
 api.twitter.com                            # Social Media - Twitter
 pbs.twimg.com                              # Social Media - Twitter - Images
 twitter.com                                # Social Media - Twitter
+vsco.app.link                              # Social Media - Vsco (Breaks Links)
 assets.vsco.co                             # Social Media - Vsco
 im.vsco.co                                 # Social Media - Vsco
 i.vsco.co                                  # Social Media - Vsco
