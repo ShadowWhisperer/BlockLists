@@ -1,70 +1,27 @@
 #
 #    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
 #
-# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
+# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
 
-o365weve.com                                           #Analytics - Office
-agavecdn.o365weve.com                                  #Analytics - Office
-applicationinsights.microsoft.com                      #Analytics
-az416426.vo.msecnd.net                                 #Analytics
-collections.md.mp.microsoft.com                        #Analytics
-collections.mp.microsoft.com                           #Analytics
-diagnostics.support.microsoft.com                      #Analytics
-feedback.microsoft-hohm.com                            #Analytics
-feedback.search.microsoft.com                          #Analytics
-nexus.officeapps.live.com                              #Analytics
-rawtelemetry-west.servicebus.windows.net               #Analytics
-survey.watson.microsoft.com                            #Analytics
-telemetry.appex.bing.net                               #Analytics
-telemetry_choice.microsoft.com                         #Analytics
-telemetry_corpext.msitadfs.glbdns2.microsoft.com       #Analytics
-telemetry_corp.sts.microsoft.com                       #Analytics
-telemetry_diagnostics.support.microsoft.com            #Analytics
-telemetry_fe2.update.microsoft.com.akadns.net          #Analytics
-telemetry_feedback.microsoft-hohm.com                  #Analytics
-telemetry_feedback.search.microsoft.com                #Analytics
-telemetry_i1.services.social.microsoft.com             #Analytics
-telemetry_redir.metaservices.microsoft.com             #Analytics
-telemetry_settings-sandbox.data.microsoft.com          #Analytics
-telemetry_sls.update.microsoft.com.akadns.net          #Analytics
-telemetry_statsfe1.ws.microsoft.com                    #Analytics
-telemetry_statsfe2.update.microsoft.com.akadns.net     #Analytics
-telemetry_statsfe2.ws.microsoft.com                    #Analytics
-telemetry_telemetry.appex.bing.net                     #Analytics
-telemetry_telemetry.urs.microsoft.com                  #Analytics
-telemetry.urs.microsoft.com                            #Analytics
-telemetry_vortex.data.microsoft.com                    #Analytics
-telemetry_vortex-sandbox.data.microsoft.com            #Analytics
-telemetry_watson.live.com                              #Analytics
-telemetry_watson.microsoft.com                         #Analytics
-watson.live.com                                        #Analytics
-watson.microsoft.com                                   #Analytics
-
-statsfe1-df.ws.microsoft.com                           #Statistics
-statsfe1.update.microsoft.com.akadns.net               #Statistics
-statsfe1.update.microsoft.com                          #Statistics
-statsfe1.ws.microsoft.com                              #Statistics
-statsfe2-df.ws.microsoft.com                           #Statistics
-statsfe2.update.microsoft.com.akadns.net               #Statistics
-statsfe2.update.microsoft.com                          #Statistics
-statsfe2.ws.microsoft.com                              #Statistics
-
 appexbingweather.trafficmanager.net                    #Win 10 Tile
 appexeusprodweather.blob.core.windows.net              #Win 10 Tile
 appexfinanceappupdate.blob.core.windows.net            #Win 10 Tile
+finance-services.msn.com                               #Win 10 Tile
 appexnewsappupdate.blob.core.windows.net               #Win 10 Tile
 appexwusprodweather.blob.core.windows.net              #Win 10 Tile
 cloudtile.photos.microsoft.com                         #Win 10 Tile
+foodanddrink.tile.appex.bing.com                       #Win 10 Tile
 insiderhub.microsoft.com                               #Win 10 Tile
 insiderservice.microsoft.com                           #Win 10 Tile
 livetileedge.dsx.mp.microsoft.com                      #Win 10 Tile
 livetile.hulu.com                                      #Win 10 Tile
 mgslivetiles.cloudapp.net                              #Win 10 Tile
+phone.sports.tile.appex.bing.com                       #Win 10 Tile
 tile-service.weather.microsoft.com                     #Win 10 Tile
 weather.microsoft.com                                  #Win 10 Tile
 
@@ -109,7 +66,9 @@ storage.live.com                         #App -   OneDrive
 onenote.net                              #App - OneNote
 cdn.onenote.net                          #App - OneNote
 sharepoint.com                           #App -   SharePoint
+sharepointonline.com                     #App -   SharePoint
 spoppe.com                               #App -   SharePoint
+static2.sharepointonline.com             #App -   SharePoint
 a.lw.skype.com                           #App - Skype
 badwlas.skype.com                        #App - Skype
 c1.skype.com                             #App - Skype
@@ -129,13 +88,13 @@ sway-cdn.com                             #App -   Sway
 sway.com                                 #App -   Sway
 evoke-windowsservices-tas.msedge.net     #App - Windows Photos
 
+www2.bing.com                           #Bing (Loads IPV6 Check)
 bing.com                                #Bing
 bing.net                                #Bing
 windowssearch.com                       #Bing
 customsearch.ai                         #Bing
 maps.windows.com                        # Bing Maps
 
-browser.pipe.aria.microsoft.com         #Outlook Mobile
 aria.microsoft.com                      #Outlook Mobile
 pipe.aria.microsoft.com                 #Outlook Mobile
 
@@ -169,9 +128,9 @@ client.wns.windows.com                  #Notifications
 skydrive.wns.windows.com                #Notifications
 wns.windows.com                         #Notifications
 
-arc.msn.com                             #Spotlight (Lockscreen - Download Ads / Wallpaper)
-g.msn.com.nsatc.net                     #Spotlight (Lockscreen - Download Ads / Wallpaper)
-query.prod.cms.rt.microsoft.com         #Spotlight (Lockscreen - Download Ads / Wallpaper)
+arc.msn.com                             #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
+g.msn.com.nsatc.net                     #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
+query.prod.cms.rt.microsoft.com         #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
 
 ceipmsn.com                             #SeaPort (Search Enhancement Broker process)
 
@@ -179,106 +138,107 @@ ceipmsn.com                             #SeaPort (Search Enhancement Broker proc
 survey.support.services.microsoft.com   #Survey - Popup Window
 
 
-dell15.msn.com                             # MSN - Redirects to msn.com
+dell15.msn.com                           # MSN - Redirects to msn.com
 
-cds1204.lon.llnw.net                       # ? Limelight Networks (CDN)
-cds1289.lon.llnw.net                       # ? Limelight Networks (CDN)
-cds1293.lon.llnw.net                       # ? Limelight Networks (CDN)
-cds1327.lon.llnw.net                       # ? Limelight Networks (CDN)
-cds20417.lcy.llnw.net                      # ? Limelight Networks (CDN)
-cds20431.lcy.llnw.net                      # ? Limelight Networks (CDN)
-cds20450.lcy.llnw.net                      # ? Limelight Networks (CDN)
-cds20457.lcy.llnw.net                      # ? Limelight Networks (CDN)
-cds20475.lcy.llnw.net                      # ? Limelight Networks (CDN)
-cds21244.lon.llnw.net                      # ? Limelight Networks (CDN)
-cds299.lcy.llnw.net                        # ? Limelight Networks (CDN)
-cds405.lcy.llnw.net                        # ? Limelight Networks (CDN)
-cds425.lcy.llnw.net                        # ? Limelight Networks (CDN)
-cds459.lcy.llnw.net                        # ? Limelight Networks (CDN)
-cds494.lcy.llnw.net                        # ? Limelight Networks (CDN)
-cds965.lon.llnw.net                        # ? Limelight Networks (CDN)
+cds1204.lon.llnw.net                     # ? Limelight Networks (CDN)
+cds1289.lon.llnw.net                     # ? Limelight Networks (CDN)
+cds1293.lon.llnw.net                     # ? Limelight Networks (CDN)
+cds1327.lon.llnw.net                     # ? Limelight Networks (CDN)
+cds20417.lcy.llnw.net                    # ? Limelight Networks (CDN)
+cds20431.lcy.llnw.net                    # ? Limelight Networks (CDN)
+cds20450.lcy.llnw.net                    # ? Limelight Networks (CDN)
+cds20457.lcy.llnw.net                    # ? Limelight Networks (CDN)
+cds20475.lcy.llnw.net                    # ? Limelight Networks (CDN)
+cds21244.lon.llnw.net                    # ? Limelight Networks (CDN)
+cds299.lcy.llnw.net                      # ? Limelight Networks (CDN)
+cds405.lcy.llnw.net                      # ? Limelight Networks (CDN)
+cds425.lcy.llnw.net                      # ? Limelight Networks (CDN)
+cds459.lcy.llnw.net                      # ? Limelight Networks (CDN)
+cds494.lcy.llnw.net                      # ? Limelight Networks (CDN)
+cds965.lon.llnw.net                      # ? Limelight Networks (CDN)
 
-search.yupimsn.com                         # ? MSN - Search
-api.msn.com                                # ? MSN
-carrentals.msn.com                         # ? MSN
-cdn.content.prod.cms.msn.com               # ? MSN
-config.messenger.msn.com                   # ? MSN
-en-us.appex-rf.msn.com                     # ? MSN
-flex.msn.com                               # ? MSN
-flights.msn.com                            # ? MSN
-global.sam.msn.com                         # ? MSN
-g.msn.com                                  # ? MSN
-h1.msn.com                                 # ? MSN
-h2.msn.com                                 # ? MSN
-h3.msn.com                                 # ? MSN
-h4.msn.com                                 # ? MSN
-h5.msn.com                                 # ? MSN
-h6.msn.com                                 # ? MSN
-h7.msn.com                                 # ? MSN
-int1.msn.com                               # ? MSN
-live.rads.msn.com                          # ? MSN
-messenger.msn.com                          # ? MSN
-newsletters.msn.com                        # ? MSN
-preview.msn.com                            # ? MSN
-query.prod.cms.msn.com                     # ? MSN
-rad.msn.com                                # ? MSN
-rpt.msn.com                                # ? MSN
-sam.msn.com                                # ? MSN
-search.msn.com                             # ? MSN
-srtb.msn.com                               # ? MSN
-tk2.plt.msn.com                            # ? MSN
+search.yupimsn.com                       # ? MSN - Search
+api.msn.com                              # ? MSN
+carrentals.msn.com                       # ? MSN
+cdn.content.prod.cms.msn.com             # ? MSN
+config.messenger.msn.com                 # ? MSN
+en-us.appex-rf.msn.com                   # ? MSN
+flex.msn.com                             # ? MSN
+flights.msn.com                          # ? MSN
+global.sam.msn.com                       # ? MSN
+g.msn.com                                # ? MSN
+h1.msn.com                               # ? MSN
+h2.msn.com                               # ? MSN
+h3.msn.com                               # ? MSN
+h4.msn.com                               # ? MSN
+h5.msn.com                               # ? MSN
+h7.msn.com                               # ? MSN
+int1.msn.com                             # ? MSN
+live.rads.msn.com                        # ? MSN
+messenger.msn.com                        # ? MSN
+newsletters.msn.com                      # ? MSN
+preview.msn.com                          # ? MSN
+query.prod.cms.msn.com                   # ? MSN
+rad.msn.com                              # ? MSN
+rpt.msn.com                              # ? MSN
+sam.msn.com                              # ? MSN
+search.msn.com                           # ? MSN
+tk2.plt.msn.com                          # ? MSN
 
-enrichment.osi.office.net                  # ? Office
-loki.delve.office.com                      # ? Office
-lpcres.delve.office.com                    # ? Office
-mem.gfx.ms                                 # ? Office
-messaging.office.com                       # ? Office
-sfnam.loki.delve.office.com                # ? Office
-substrate.office.com                       # ? Office
-yyz-efz.ms-acdc.office.com                 # ? Office
+cys-efz.ms-acdc.office.com               # ? Office
+enrichment.osi.office.net                # ? Office
+loki.delve.office.com                    # ? Office
+lpcres.delve.office.com                  # ? Office
+lyh-efz.ms-acdc.office.com               # ? Office
+mem.gfx.ms                               # ? Office
+messaging.office.com                     # ? Office
+roa-efz.ms-acdc.office.com               # ? Office
+sfnam.loki.delve.office.com              # ? Office
+substrate.office.com                     # ? Office
+yyz-efz.ms-acdc.office.com               # ? Office
 
-array101-prod.do.dsp.mp.microsoft.com      #Updates ?
-array102-prod.do.dsp.mp.microsoft.com      #Updates ?
-array103-prod.do.dsp.mp.microsoft.com      #Updates ?
-array104-prod.do.dsp.mp.microsoft.com      #Updates ?
-array201-prod.do.dsp.mp.microsoft.com      #Updates ?
-array202-prod.do.dsp.mp.microsoft.com      #Updates ?
-array203-prod.do.dsp.mp.microsoft.com      #Updates ?
-array204-prod.do.dsp.mp.microsoft.com      #Updates ?
-array401-prod.do.dsp.mp.microsoft.com      #Updates ?
-array402-prod.do.dsp.mp.microsoft.com      #Updates ?
-array403-prod.do.dsp.mp.microsoft.com      #Updates ?
-array404-prod.do.dsp.mp.microsoft.com      #Updates ?
-array405-prod.do.dsp.mp.microsoft.com      #Updates ?
-array406-prod.do.dsp.mp.microsoft.com      #Updates ?
-array407-prod.do.dsp.mp.microsoft.com      #Updates ?
-array408-prod.do.dsp.mp.microsoft.com      #Updates ?
-array501.prod.do.dsp.mp.microsoft.com      #Updates ?
-array502.prod.do.dsp.mp.microsoft.com      #Updates ?
-array503.prod.do.dsp.mp.microsoft.com      #Updates ?
-array505.prod.do.dsp.mp.microsoft.com      #Updates ?
-array506.prod.do.dsp.mp.microsoft.com      #Updates ?
-array507.prod.do.dsp.mp.microsoft.com      #Updates ?
-array508.prod.do.dsp.mp.microsoft.com      #Updates ?
-cp101-prod.do.dsp.mp.microsoft.com         #Updates ?
-cp201-prod.do.dsp.mp.microsoft.com         #Updates ?
-cp401-prod.do.dsp.mp.microsoft.com         #Updates ?
-disc101-prod.do.dsp.mp.microsoft.com       #Updates ?
-disc201-prod.do.dsp.mp.microsoft.com       #Updates ?
-disc401-prod.do.dsp.mp.microsoft.com       #Updates ?
-kv101-prod.do.dsp.mp.microsoft.com         #Updates ?
-kv201-prod.do.dsp.mp.microsoft.com         #Updates ?
-kv401-prod.do.dsp.mp.microsoft.com         #Updates ?
-prod.do.dsp.mp.microsoft.com.edgekey.net   #Updates ?
+array101-prod.do.dsp.mp.microsoft.com    #Updates ?
+array102-prod.do.dsp.mp.microsoft.com    #Updates ?
+array103-prod.do.dsp.mp.microsoft.com    #Updates ?
+array104-prod.do.dsp.mp.microsoft.com    #Updates ?
+array201-prod.do.dsp.mp.microsoft.com    #Updates ?
+array202-prod.do.dsp.mp.microsoft.com    #Updates ?
+array203-prod.do.dsp.mp.microsoft.com    #Updates ?
+array204-prod.do.dsp.mp.microsoft.com    #Updates ?
+array401-prod.do.dsp.mp.microsoft.com    #Updates ?
+array402-prod.do.dsp.mp.microsoft.com    #Updates ?
+array403-prod.do.dsp.mp.microsoft.com    #Updates ?
+array404-prod.do.dsp.mp.microsoft.com    #Updates ?
+array405-prod.do.dsp.mp.microsoft.com    #Updates ?
+array406-prod.do.dsp.mp.microsoft.com    #Updates ?
+array407-prod.do.dsp.mp.microsoft.com    #Updates ?
+array408-prod.do.dsp.mp.microsoft.com    #Updates ?
+array501.prod.do.dsp.mp.microsoft.com    #Updates ?
+array502.prod.do.dsp.mp.microsoft.com    #Updates ?
+array503.prod.do.dsp.mp.microsoft.com    #Updates ?
+array505.prod.do.dsp.mp.microsoft.com    #Updates ?
+array506.prod.do.dsp.mp.microsoft.com    #Updates ?
+array507.prod.do.dsp.mp.microsoft.com    #Updates ?
+array508.prod.do.dsp.mp.microsoft.com    #Updates ?
+cp101-prod.do.dsp.mp.microsoft.com       #Updates ?
+cp201-prod.do.dsp.mp.microsoft.com       #Updates ?
+cp401-prod.do.dsp.mp.microsoft.com       #Updates ?
+disc101-prod.do.dsp.mp.microsoft.com     #Updates ?
+disc201-prod.do.dsp.mp.microsoft.com     #Updates ?
+disc401-prod.do.dsp.mp.microsoft.com     #Updates ?
+kv101-prod.do.dsp.mp.microsoft.com       #Updates ?
+kv201-prod.do.dsp.mp.microsoft.com       #Updates ?
+kv401-prod.do.dsp.mp.microsoft.com       #Updates ?
+prod.do.dsp.mp.microsoft.com.edgekey.net #Updates ?
 
-adclub.net                                 #Ads ?
-r.msn.com                                  #Ads ?
-o.xbox.com                                 #Tracking ?   (Blank)
-geo.prod.do.dsp.mp.microsoft.com           #Tracking ?
-geover.prod.do.dsp.mp.microsoft.com        #Tracking ?
-msantispy.com                              #Defunct ?
-msecn.net                                  #Defunct ?
-msnhome.org                                #Defunct ?
+adclub.net                               #Ads ?
+r.msn.com                                #Ads ?
+o.xbox.com                               #Tracking ? (Blank)
+geo.prod.do.dsp.mp.microsoft.com         #Tracking ?
+geover.prod.do.dsp.mp.microsoft.com      #Tracking ?
+msantispy.com                            #Defunct ?
+msecn.net                                #Defunct ?
+msnhome.org                              #Defunct ?
 
 aad.cs.dds.microsoft.com
 acctcdnmsftuswe2.azureedge.net
@@ -317,7 +277,6 @@ choice.microsoft.com.nstac.net
 clientsettings.books.microsoft.com
 cloudappconfig.blob.core.windows.net
 c.microsoft.com
-c.msn.com
 compass-ssl.microsoft.com
 compatexchange.cloudapp.net
 connect.microsoft.com
@@ -332,7 +291,6 @@ crl.microsoft.com
 cs1.wpc.v0cdn.net
 c-s.cms.ms.akadns.net
 cs.dds.microsoft.com
-cys-efz.ms-acdc.office.com
 dc.services.visualstudio.com
 dgps-eus2.cloudapp.net
 dgps.support.microsoft.com
@@ -394,7 +352,6 @@ l-0013.l-msedge.net
 lb1.www.ms.akadns.net
 licensingphone.mp.microsoft.com
 ls2web.redmond.corp.microsoft.com
-lyh-efz.ms-acdc.office.com
 markets.books.microsoft.com
 mediadiscovery.microsoft.com
 mediaredirect.microsoft.com
@@ -443,9 +400,12 @@ rarewaves.blob.core.windows.net
 redir1.cloudapp.net
 rewards.microsoft.com
 ris.api.iris.microsoft.com
-roa-efz.ms-acdc.office.com
 rssgov.windows.microsoft.com
 rzpict1.blob.core.windows.net
+s-0001.s-msedge.net
+s-0002.s-msedge.net
+s-0003.s-msedge.net
+s-0004.s-msedge.net
 sbsdomains.blob.core.windows.net
 schemas.microsoft.akadns.net
 sci1-1.am.microsoft.com
@@ -468,7 +428,6 @@ spyneteurope.microsoft.akadns.net
 sqm.microsoft.com
 ssw.live.com
 standard.t-0001.t-msedge.net
-static2.sharepointonline.com
 statics-marketingsites-neu-ms-com.akamaized.net
 static-spartan-eus-s-msn-com.akamaized.net
 storagetos.datamart.windows.com
@@ -487,12 +446,10 @@ urlappmapping.sfp.microsoft.com
 ussus3westprod.blob.core.windows.net
 videoplayercdn.osi.office.net
 vlscppe.microsoft.com
-vortex.data.glbdns2.microsoft.com
 vsmsoftware.net
 waws-prod-blu-059.cloudapp.net
 wdcpalt.microsoft.com
 webportals-ngp.trafficmanager.net
-web.vortex.data.msn.com
 wer.microsoft.com
 wfbdevicemanagementprod.blob.core.windows.net
 widgets.membership.s-msft.com

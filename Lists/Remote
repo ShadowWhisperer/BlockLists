@@ -1,7 +1,7 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
 #
-# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
+# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -52,8 +52,6 @@ chicago.remotepc.com
 cincinnati.remotepc.com
 cleveland.remotepc.com
 client.teamviewer.com
-cobrowse.oraclecloud.com
-sc44940818us1.cobrowse.oraclecloud.com
 coloradosprings.remotepc.com
 columbus.remotepc.com
 configdl.teamviewer.com
@@ -197,6 +195,7 @@ psremote.com
 raleigh.remotepc.com
 rantoul.remotepc.com
 realvnc.com
+relay-01a5ada4.net.anydesk.com
 relay-0e394848.net.anydesk.com
 relay-1e14c766.net.anydesk.com
 relay-281ebc8d.net.anydesk.com

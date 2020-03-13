@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
+# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -35,7 +35,6 @@ static.rbl.ms                 #RebelMouse
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
-us-east-1.onemobile.yahoo.com   #Yahoo
 exmarketplace.com                     #Scam ? (Ad Company claiming to be Google partnet, but not)
 cdn.exmarketplace.com                 #Scam ? (Ad Company claiming to be Google partnet, but not)
 blkget5.com                             #Malware ? (Site claims ad server)
@@ -123,11 +122,11 @@ tr.kqzamd.com                           #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                        #Seen with Adult Sites
 fwtrck.com                                            #Seen with Adult Sites
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
-urs.cnet.com                                                 #Cnet
-boomerang.dell.com                                       #Dell
+urs.cnet.com                                                 #Cnet (easyXDM)
 lookaside.facebook.com                                      #Facebook
 z-m.c10r.facebook.com                                       #Facebook
 brainkeeper.gw-ec.com                                         #GearBest
+cur.gearbest.com                                              #GearBest
 ksn-a-stat-geo.kaspersky-labs.com                     #Kaspersky
 ksn-cinfo-geo.kaspersky-labs.com                      #Kaspersky
 ksn-file-geo.kaspersky-labs.com                       #Kaspersky
@@ -135,7 +134,6 @@ ksn-info-geo.kaspersky-labs.com                       #Kaspersky
 ksn-url-geo.kaspersky-labs.com                        #Kaspersky
 ksn-verdict-geo.kaspersky-labs.com                    #Kaspersky
 oss.hpconnected.com                                        #HP
-pf.newegg.com                                                    #NewEgg  (Quidsup)
 events.gfe.nvidia.com                                      #Nvidia
 services.gfe.nvidia.com                                    #Nvidia
 infinity-c1.youboranqs01.com                                   #PlutoTV
@@ -148,7 +146,7 @@ infinity-c7.youboranqs01.com                                   #PlutoTV
 infinity-c8.youboranqs01.com                                   #PlutoTV
 infinity-c9.youboranqs01.com                                   #PlutoTV
 k.pluto.tv                                                     #PlutoTV
-click.notifications.intuit.com                           #Quick Books
+click.notifications.intuit.com                           #QuickBooks
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
 keynote.litmos.com                                    #SAP Litmos
@@ -195,12 +193,12 @@ t.motrixi.com
 tockance.com
 trackuhub.com
 universal.iper2.com
-youngleaf.biz
 zrcir.com
 tj.yddashi.com
 matchid.adfox.yandex.ru
 js.track-analytics.com
 geolookup-a.akamaihd.net
+w.usabilla.com
 
 
 #############################
@@ -293,7 +291,6 @@ seo.bazaarvoice.com                            #Bazaarvoice
 sl.bazaarvoice.com                             #Bazaarvoice
 sl-ui.bazaarvoice.com                          #Bazaarvoice
 static.curations.bazaarvoice.com               #Bazaarvoice
-agility.cnn.com                              #CNN
 li.cnn.com                                   #CNN
 newsource-embed-prd.ns.cnn.com               #CNN
 registry.api.cnn.io                          #CNN
@@ -365,7 +362,6 @@ iris06-gold-ssl.gameloft.com                 #GameLoft
 iris07-gold-ssl.gameloft.com                 #GameLoft
 vgold.gameloft.com                           #GameLoft
 cart.gearbest.com                               #GearBest
-cur.gearbest.com                                #GearBest
 des.gbtcdn.com                                  #GearBest
 review.gbtcdn.com                               #GearBest
 search.gearbest.com                             #GearBest
@@ -493,7 +489,7 @@ cdn.groupbycloud.com                         #Group By Cloud
 cdn-lb.groupbycloud.com                      #Group By Cloud
 groupbycloud.com                             #Group By Cloud
 prod-lb.groupbycloud.com                     #Group By Cloud
-herokuapp.com                                  #Heroku App
+herokuapp.com                                  #Heroku Ap
 sandhills.com                               #Hibid
 imtwjwoasak.com                                    #Hulu (Tracker ?)
 metcon.hulu.com                                    #Hulu (Tracker ?)
@@ -508,7 +504,6 @@ n2e79bn.x.incapdns.net                        #Incapsula (Site Security)
 rin7m.x.incapdns.net                          #Incapsula (Site Security)
 acp-magento.appspot.com                      #InstantSearch+
 wl.batesvilletechnology.com                      #JurrensFuneralHome.com
-kinja-static.com                               #LifeHacker
 media-akam.licdn.com                             #Linkedin - Most have single pixel, some have images
 autodiscover.cityofluverne.org               #Luverne - City
 hdwvmasogicqg.isd2184.net                    #Luverne - Public School District
@@ -541,7 +536,6 @@ probe-cell6.prod.ftl.netflix.com               #Netflix
 probe-ixunicast.prod.ftl.netflix.com           #Netflix
 lrs.netgear.com                                  #NetGear
 countly.netgear.com                              #NetGear
-states.newegg.com                            #NewEgg
 prod.online.pos.svc.ovi.com                    #Nokia
 fire-base.com                                #Norton
 upload1.symantec.com                         #Norton
@@ -569,11 +563,8 @@ monorail-production-web-tier2-central.shopifycloud.com    #Shopify
 monorail-production-web-tier2.shopifycloud.com            #Shopify
 remember-me-production-web-nginx-tier2.shopifycloud.com   #Shopify
 data.midomi.com                                #SoundHound
+redoak.target.com                                #Target   (Scene7)
 digitalcontent.target.com                        #Target
-redoak.target.com                                #Target
-taglocker.target.com                             #Target
-typeahead.target.com                             #Target
-investor.techdata.com                     #TechData
 webfarm-200.q4web.com                     #TechData
 q4web.com                                 #TechData
 choices-or.trustarc.com                      #TrustArc
@@ -587,7 +578,6 @@ trust-guard.com                                #TrustGuard
 caps.twitter.com                                 #Twitter
 cdn.api.twitter.com                              #Twitter
 s.twitter.com                                    #Twitter
-d2cnv2pop2xy4v.cloudfront.net                #Unifi NVR
 eligibility-panelresearch.googlevideo.com          #YouTube - Roku TV
 userpaneltv-pa.googleapis.com                      #YouTube - Roku TV
 4g2.vzwdm.com                                #Verizon
@@ -609,16 +599,12 @@ syncva.vzmessages.com                        #Verizon
 api-decider.vsco.co                            #Vsco
 api.vsco.co                                    #Vsco
 p.vsco.co                                      #Vsco
-rassets.vsco.co                                #Vsco
-si.wsj.net                                   #Wall Street Journal
 sts3.wsj.net                                 #Wall Street Journal
-s.wsj.net                                    #Wall Street Journal
 vir.wsj.net                                  #Wall Street Journal
-prx.wayfair.com                                   #WayFair
+secure.img1-ag.wfcdn.com                          #WayFair
 gapi.waze.com                               #Waze
 social-na.waze.com                          #Waze
 wazespeechactiviation-pa.googleapis.com     #Waze
-secure.img1-ag.wfcdn.com                          #WayFair
 cf.zdassets.com                                #Zdassets
 p14.zdassets.com                               #Zdassets
 static.zdassets.com                            #Zdassets
@@ -686,7 +672,6 @@ iprofiles.apple.com
 itunes.apple.com.edgekey.net
 limit.itunesu.com
 link.gc.apple.com
-linkmaker.itunes.apple.com
 lookup-api.apple.com
 lookup.apple.com
 mac-services.apple.com
@@ -755,7 +740,6 @@ wu-charts.apple.com
 wu-converter.apple.com
 wu-nwk.apple.com.akadns.net
 wu-quotes.apple.com
-xp.apple.com
 xp.itunes-apple.com.akadns.net
 z2r0y.apple.com
 
@@ -1675,7 +1659,6 @@ web.eecs.umich.edu
 weeklyfinancialsolutions.com
 wsmeco.com
 w.ssl.global.fastly.net 
-ws.spotify.com
 xlbbhdarc.com
 ysdn.org
 aresssl.agoop.net

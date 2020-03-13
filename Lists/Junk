@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
+# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -26,6 +26,8 @@ surveyrouter.com                                       #Survey
 ups.surveyrouter.com                                   #Survey
 you-cubez.com                                          #Survey
 amdsurveys.com                                         #Survey - AMD
+d2yyd1h5u9mauk.cloudfront.net                          #Survey - Delighted
+delighted.com                                          #Survey - Delighted
 globaltestmarket.com                                   #Survey - Life Points
 lifepointspanel.com                                    #Survey - Life Points
 demographics.neat.com                                  #Survey - Neat Scanner
@@ -40,6 +42,7 @@ surveymonkey.de                                        #Survey - Survey Monkey
 usabilla.com                                           #Survey - Survey Monkey (usabilla)
 survicate.com                                          #Survey - Survicate
 survey.webrootanywhere.com                             #Survey - Webroot
+yesinsights.com                                        #Survey - Yes Insights
 questionpro.com                                        #Survey - Question Pro
 surveys.questionpro.com                                #Survey - Question Pro
 
@@ -68,6 +71,7 @@ pandasecurity.com                           #Antivirus    Panda
 pandasoftware.com                           #Antivirus    Panda
 stopzilla.com                               #Antivirus    StopZilla
 totalav.com                                 #Antivirus    TotalAV
+webrootcloudav.com                          #Antivirus    Webroot
 webroot.com                                 #Antivirus    Webroot
 
 2link.be                                    #Bookmark Site

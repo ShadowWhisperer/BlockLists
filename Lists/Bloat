@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
+# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -362,6 +362,8 @@ hh.prod.sonyentertainmentnetwork.com                    #Sony
 sonymobile.com                                          #Sony
 toolbar.sonymusic.com                                   #Sony
 ipv6-api.speedtest.net                                  #SpeedTest.net
+typeahead.target.com                                    #Target - Search Autofill / Suggestions
+investor.techdata.com                                   #TechData - News feed at bottom of screen
 apps.toshiba.com                                        #Toshiba
 csdsupport.toshiba.com                                  #Toshiba
 fbd.toshiba.com                                         #Toshiba

@@ -1,27 +1,12 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
 #
-# Updated: 3/10/2020  00:24  (12:24 AM)  - Central Standard Time
+# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
-
-#############################
-# Other
-#############################
-sendinblue.com         #Email & SMS
-getsitecontrol.com     #Widgets - Website conversion optimization
-########################
-repeatreturns.com      #Repeat Returns
-loyaltypath.com        #Repeat Returns
-103bees.com
-1s3h4f7sl.com
-bidtheatre.com
-getrockerbox.com
-acgmarketing.com
-
 
 
 #############################
@@ -71,8 +56,9 @@ swogo.net
 ##############################
 #  Customer Acquisition
 ##############################
-timeonegroup.com
+logbor.com
 publicidees.com
+timeonegroup.com
 
 
 ########################################
@@ -336,7 +322,14 @@ yusp.com
 #############################
 # Referral
 #############################
+fbot.me
 friendbuy.com
+
+
+#############################
+# Sales Accelearation
+#############################
+adapt.io
 
 
 #############################
@@ -367,3 +360,23 @@ trumpia.com               #Trumpia
 #############################
 marketingg2.com
 
+
+
+
+
+#############################
+# Other
+#############################
+sendinblue.com         #Email & SMS
+getsitecontrol.com     #Widgets - Website conversion optimization
+########################
+repeatreturns.com      #Repeat Returns
+loyaltypath.com        #Repeat Returns
+103bees.com
+1s3h4f7sl.com
+acgmarketing.com
+bidtheatre.com
+getrockerbox.com
+gleam.io
+marketolive.com
+preapps.com
