@@ -21,7 +21,9 @@
     Tunnels          VPNs & Proxies  *** NOT ALL ARE CHECKED ***  
     Typo             Typosquatting / Misspelling of websites. Custom script + domaincheckplugin.com/typo  
     Unknown          Site that have appeared in my logs  
-
+  
+    Filter           Used by my parse script to show me what is not blocked / in this list  
+    Whitelist        Reasons for some allowed domains  
 
 Most of these domains are sorted by type. Some domains that are used as ad servers are also used for tracking. And the other way around.
 
