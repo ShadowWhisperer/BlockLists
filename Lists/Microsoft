@@ -1,7 +1,7 @@
 #
-#    File: Microsoft   (Analytics, Apps, Bing, Tiles, Tracking, Unknown)
+#    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 #
-# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
+# Updated: 3/16/2020  23:32  (11:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -11,10 +11,10 @@
 appexbingweather.trafficmanager.net                    #Win 10 Tile
 appexeusprodweather.blob.core.windows.net              #Win 10 Tile
 appexfinanceappupdate.blob.core.windows.net            #Win 10 Tile
-finance-services.msn.com                               #Win 10 Tile
 appexnewsappupdate.blob.core.windows.net               #Win 10 Tile
 appexwusprodweather.blob.core.windows.net              #Win 10 Tile
 cloudtile.photos.microsoft.com                         #Win 10 Tile
+finance-services.msn.com                               #Win 10 Tile
 foodanddrink.tile.appex.bing.com                       #Win 10 Tile
 insiderhub.microsoft.com                               #Win 10 Tile
 insiderservice.microsoft.com                           #Win 10 Tile
@@ -23,7 +23,9 @@ livetile.hulu.com                                      #Win 10 Tile
 mgslivetiles.cloudapp.net                              #Win 10 Tile
 phone.sports.tile.appex.bing.com                       #Win 10 Tile
 tile-service.weather.microsoft.com                     #Win 10 Tile
+travel.tile.appex.bing.com                             #Win 10 Tile
 weather.microsoft.com                                  #Win 10 Tile
+weather.tile.appex.bing.com                            #Win 10 Tile
 
 cmsresources.windowsphone.com                          #Windows Phone (From Win 10 Tower)
 config.scm.windowsphone.com                            #Windows Phone (From Win 10 Tower)

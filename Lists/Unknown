@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/13/2020  00:07  (12:07 AM)  - Central Standard Time
+# Updated: 3/16/2020  23:32  (11:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -17,6 +17,7 @@ z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
+dw7nrwnn2bkh1.cloudfront.net       #CNN
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                 #Paypal (Logo?)
@@ -35,34 +36,16 @@ static.rbl.ms                 #RebelMouse
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
-exmarketplace.com                     #Scam ? (Ad Company claiming to be Google partnet, but not)
-cdn.exmarketplace.com                 #Scam ? (Ad Company claiming to be Google partnet, but not)
-blkget5.com                             #Malware ? (Site claims ad server)
-blkget6.com                             #Malware ? (Site claims ad server)
-blkget7.com                             #Malware ? (Site claims ad server)
-blkget8.com                             #Malware ? (Site claims ad server)
-blkget.com                              #Malware ? (Site claims ad server)
-golnk12.com                             #Malware ? (Site claims ad server)
-golnk2.com                              #Malware ? (Site claims ad server)
-golnk5.com                              #Malware ? (Site claims ad server)
-unbouncepages.com                       #Malware ?
 a1955.b.akamai.net
 adscheaper.com
 aralego.com
 bksn.se
-cs02.semi-cod.com
-cs03.semi-cod.com
-cs04.semi-cod.com
-cs05.semi-cod.com
-cs06.semi-cod.com
-cs07.semi-cod.com
-cs09.semi-cod.com
 data.potpourrichordataoscilloscope.com
+images.highspeedbackbone.net
 mb104.com
 mobusi.com
 n2s.co.kr
 potpourrichordataoscilloscope.com
-semi-cod.com
 twinrdsrv.com
 userwave.com
 viewsecure.net
@@ -281,7 +264,6 @@ emupdate.avcdn.net                       #Avast / AVG
 nuistatic.avcdn.net                      #Avast / AVG
 s-nuistatic.avcdn.net                    #Avast / AVG
 shepherd.avcdn.net                       #Avast / AVG
-ta.barnesandnoble.com                        #Barnes & Noble  (Apache Tomcat)
 api.bazaarvoice.com                            #Bazaarvoice
 bazaarvoice.com                                #Bazaarvoice
 d3rpajgr3c5p5n.cloudfront.net                  #Bazaarvoice
@@ -400,7 +382,7 @@ user.gearbest.com                               #GearBest
 mw1.google.com                                 #Google -   Earth
 mw-small.l.google.com                          #Google -   Earth
 gboard-pa.googleapis.com                       #Google -  gBoard
-tenor.googleapis.com                           #Google -  gBoard - Gifs (Don't Break Anything)
+tenor.googleapis.com                           #Google -  gBoard - Gifs (Doesn't Break Anything)
 ytstatic.l.google.com                          #Google -     Google Plus
 r15---sn-bvvbax-hn2k.gvt1.com                  #Google - Updates ?
 r1---sn-ab5l6nzl.gvt1.com                      #Google - Updates ?
@@ -561,7 +543,6 @@ amoeba.web.roku.com                                #Roku TV
 monorail-edge.shopifysvc.com                              #Shopify
 monorail-production-web-tier2-central.shopifycloud.com    #Shopify
 monorail-production-web-tier2.shopifycloud.com            #Shopify
-remember-me-production-web-nginx-tier2.shopifycloud.com   #Shopify
 data.midomi.com                                #SoundHound
 redoak.target.com                                #Target   (Scene7)
 digitalcontent.target.com                        #Target
@@ -1291,12 +1272,14 @@ rodeopolice.com
 roofrelation.com
 roughroll.com
 ruddycast.com
+rusticprice.com
 ruthlessdegree.com
 ruthlessmilk.com
 ruthlessrobin.com
 sablesmile.com
 sailsuit.com
 samestretch.com
+savoryorange.com
 savorystructure.com
 saysidewalk.com
 scarcesign.com
@@ -1365,6 +1348,7 @@ sorethunder.com
 sortsummer.com
 sparklingnumber.com
 specialstatement.com
+spellsalsa.com
 spendpest.com
 spidersboats.com
 spiffymachine.com
@@ -1525,6 +1509,7 @@ api.he7ll.com
 api.rss2json.com
 api.web.future.net.uk
 app.e.seagate.com
+aresssl.agoop.net
 arg1f5.eastus.cloudapp.azure.com
 assets.huluim.com
 assoc-na.associates-amazon.com
@@ -1661,4 +1646,4 @@ wsmeco.com
 w.ssl.global.fastly.net 
 xlbbhdarc.com
 ysdn.org
-aresssl.agoop.net
+s.pinimg.com
