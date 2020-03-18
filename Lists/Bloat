@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/16/2020  23:32  (11:32 PM)  - Central Standard Time
+# Updated: 3/17/2020  22:55  (10:55 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -203,7 +203,6 @@ dellsupportcenter.com                                   #Dell
 dellupdater.dell.com                                    #Dell
 df-staging.dell.com                                     #Dell
 update.backup.techconcierge.dell.com                    #Dell
-gha.ebay.com                                            #eBay - Notifications
 autosug.ebay.com                                        #eBay
 autosug.ebaystatic.com                                  #eBay
 apps.facebook.com                                       #Facebook

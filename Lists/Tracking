@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 3/16/2020  23:32  (11:32 PM)  - Central Standard Time
+# Updated: 3/17/2020  22:55  (10:55 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -28600,6 +28600,7 @@ geo1xx.www.multiminds.eu.122.207.net
 geo200.airfind.com
 geo2.adobe.com
 geo2.ggpht.com
+geo2.mobalo.com
 geo3.ggpht.com
 geo500.airfind.com
 geo.airfind.com
@@ -46296,6 +46297,7 @@ pt.transam.macromill.com
 pt.umeng.com
 p.tvpixel.com
 ptx.adj.st
+pub-analytics.rtbhouse.com
 pub-console.apps.bounceexchange.com
 pub-console.qa.bounceexchange.com
 pub-console.staging.bounceexchange.com
@@ -47695,6 +47697,7 @@ report-as.jivox.com
 report.bex.glassboxdigital.io
 report-clickcdn.shareaholic.com
 report.crashlytics.com
+report-data.rezonence.com
 report.egencia.glassboxdigital.io
 report.hb.brainlyads.com
 report.hotels.glassboxdigital.io
@@ -47741,6 +47744,7 @@ reporting.net
 reporting.nextday.media
 reporting.nonstoppartner.net
 reporting.nuco.adgear.com
+reporting.otm-r.com
 reporting.p01.eloqua.com
 reporting.p03.eloqua.com
 reporting.p04.eloqua.com
@@ -47748,9 +47752,11 @@ reporting.p06.eloqua.com
 reporting.p07.eloqua.com
 reporting.qualtrics.com
 reporting.reactlite.com
+reporting.showheroes.com
 reporting.singlefeed.com
 reporting.sokrati.com
 reporting.specificmedia.com
+reporting.stage.showheroes.com
 reporting.staging.adgear.com
 reporting.staging.trader.adgear.com
 reporting.taptica.com
@@ -47776,6 +47782,7 @@ report.mitsubishicars.com
 report.new.sj.ksmobile.com
 report-partners.appmetrica.webvisor.com
 report-partner.shareaholic.com
+report.rezonence.com
 reports.152media.com
 reports-1.insightfirst.com
 reports-2.insightfirst.com
@@ -65952,6 +65959,7 @@ v0.stat.ku6.com
 v10.cnzz.com
 v10c.vortex-win.data.microsoft.com
 v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
 v11.cnzz.com
 v121u.app.link
 v12.cnzz.com
