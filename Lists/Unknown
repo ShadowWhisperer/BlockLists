@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/17/2020  22:55  (10:55 PM)  - Central Standard Time
+# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -104,6 +104,7 @@ kqzamd.com                              #Says Tracker - Might Be Malware
 tr.kqzamd.com                           #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                        #Seen with Adult Sites
 fwtrck.com                                            #Seen with Adult Sites
+t.marketing.activision.com                                     #Activision
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
 urs.cnet.com                                                 #Cnet (easyXDM)
 lookaside.facebook.com                                      #Facebook
@@ -206,12 +207,6 @@ tawenda-tech.org
 # Bot Prevention
 #############################
 datadome.co                          #DataDome
-collector-px2003.cl6.perimeterx.net  #PerimeterX, Inc.
-collector-pxrw7m6iav.perimeterx.net  #PerimeterX, Inc.
-perimeterx.com                       #PerimeterX, Inc.
-perimeterx.net                       #PerimeterX, Inc.
-px-cdn.net                           #PerimeterX, Inc.
-pxchk.net                            #PerimeterX, Inc.
 
 
 #############################
@@ -436,7 +431,9 @@ feelinsonice.l.google.com                      #Google
 feelinsonice-mvm.l.google.com                  #Google
 footprints-pa.googleapis.com                   #Google
 gem-pa.googleapis.com                          #Google
+googlecommerce.com                             #Google
 googlehomefoyer-pa.googleapis.com              #Google
+googleoptimize.com                             #Google
 khmdb.google.com                               #Google
 lh2.l.google.com                               #Google
 lh3.google.com                                 #Google
@@ -504,7 +501,6 @@ anycast.ftl.netflix.com                        #Netflix - AnyCast
 probe-ixanycast-isp.prod.ftl.netflix.com       #Netflix - AnyCast
 nrdp50-appboot.netflix.com                     #Netflix - Netflix Ready Device 
 nrdp51-appboot.netflix.com                     #Netflix - Netflix Ready Device 
-nrdp52-appboot.netflix.com                     #Netflix - Netflix Ready Device 
 nrdp53-appboot.netflix.com                     #Netflix - Netflix Ready Device 
 nrdp.nccp.netflix.com                          #Netflix - Netflix Ready Device 
 nrdp.prod.ftl.netflix.com                      #Netflix - Netflix Ready Device 
@@ -741,6 +737,9 @@ solvvy.com                      #Solvvy - Artificial Intelligence Customer Servi
 ##
 # Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
 ##
+secretturtle.com
+somberscarecrow.com
+staleshow.com
 2znp09oa.com
 4jnzhl0d0.com
 5mcwl.pw
@@ -1497,9 +1496,9 @@ zlp6s.pw
 ##################################################################
 1dmp.co
 1-dot-klarsikt3.appspot.com
-a731.dscw10.akamai.net 
+a731.dscw10.akamai.net
 a743.gi3.akamai.net
-a771.dscq.akamai.net 
+a771.dscq.akamai.net
 aliapp.com
 a.optvdo.com
 apester.com
@@ -1534,16 +1533,16 @@ devside.net
 d-ipv6.mmapiws.com
 dist.transactal.com
 downloads.intercomcdn.com
-dualstack.pinterest.map.fastly.net 
-dualstack.shopify.map.fastly.net 
-e11847.g.akamaiedge.net 
-e12827.dscb.akamaiedge.net 
-e14801.x.akamaiedge.net 
+dualstack.pinterest.map.fastly.net
+dualstack.shopify.map.fastly.net
+e11847.g.akamaiedge.net
+e12827.dscb.akamaiedge.net
+e14801.x.akamaiedge.net
 e3tmyc4rbs.com
-e5842.g.akamaiedge.net 
-e6913.dscx.akamaiedge.net 
-e9428.dscb.akamaiedge.net 
-e9743.dscb.akamaiedge.net 
+e5842.g.akamaiedge.net
+e6913.dscx.akamaiedge.net
+e9428.dscb.akamaiedge.net
+e9743.dscb.akamaiedge.net
 etc.azureedge.net
 exaways.com
 farm1.static.flickr.com
@@ -1553,7 +1552,7 @@ fdsdown.safenet-inc.com
 forms.hsforms.com
 fte.web.future.net.uk
 gadgets.future-fie-assets.co.uk
-github.map.fastly.net 
+github.map.fastly.net
 gizmos.future-fie-assets.co.uk
 g.tenor.com
 gtq.sct.sc-prod.net
@@ -1576,21 +1575,21 @@ js.intercomcdn.com
 js.iplsc.com
 juko2000solutions.com
 kitma.caglobal.com
-ksr-static.imgix.net 
-ksr-ugc.imgix.net 
+ksr-static.imgix.net
+ksr-ugc.imgix.net
 lg.ecorebates.com
 lisnr.com
 listgrowth.ctctcdn.com
 mailing.wideopenmediagroup.com
 manifest.prod.boltdns.net
 mateti.net
-media.amazon.map.fastly.net 
+media.amazon.map.fastly.net
 mmapiws.com
 mobilemacmini.wsmeco.com
 mrs-nginx-3.westus.cloudapp.azure.com
 net.cleverjp.com
 nitehawk.hearst.io
-ocsp.entrust.net 
+ocsp.entrust.net
 ocsp.netsolssl.com
 ocsp.sectigo.com
 optvdo.com
@@ -1606,12 +1605,11 @@ ps.pndsn.com
 pubnub.com
 pusher.com
 qgr.ph
-reddit.map.fastly.net 
+reddit.map.fastly.net
 rss2json.com
 rtphoto.photoreflect.com
 s1.ticketm.net
 s.aolcdn.com
-scontent.xx.fbcdn.net 
 search-api.fie.future.net.uk
 secure.footprint.net
 sentinelcustomer.safenet-inc.com
@@ -1642,7 +1640,7 @@ webadvisor.com
 web.eecs.umich.edu
 weeklyfinancialsolutions.com
 wsmeco.com
-w.ssl.global.fastly.net 
+w.ssl.global.fastly.net
 xlbbhdarc.com
 ysdn.org
 s.pinimg.com

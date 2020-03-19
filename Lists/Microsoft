@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 #
-# Updated: 3/16/2020  23:32  (11:32 PM)  - Central Standard Time
+# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -109,6 +109,7 @@ ipv6.msftncsi.com.edgesuite.net         #IPV6
 ipv6.msftncsi.com                       #IPV6
 teredo.ipv6.microsoft.com               #IPV6
 win10.ipv6.microsoft.com                #IPV6
+win1710.ipv6.microsoft.com              #IPV6
 win8.ipv6.microsoft.com                 #IPV6
 
 r20swj13mr.microsoft.com                #Internet Explorer - After Updating
@@ -299,6 +300,7 @@ dgps.support.microsoft.com
 directory.services.live.com
 disc601.prod.do.dsp.mp.microsoft.com
 dispatch.kahuna.glbdns2.microsoft.com
+dmd.metaservices.microsoft.com
 ds.microsoft.com
 ds.ssw.live.com
 edgebooks.rec.mp.microsoft.com
@@ -418,6 +420,7 @@ sdx.microsoft.com
 searchclient.live.net
 service.datamart.windows.com
 settings.data.glbdns2.microsoft.com
+settings.data.microsoft.com
 sfdataservice.microsoft.com
 sfp.microsoft.com
 share.microsoft.com

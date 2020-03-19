@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 3/17/2020  22:55  (10:55 PM)  - Central Standard Time
+# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -7283,6 +7283,7 @@ adpportalupdate1.typeform.com
 adpportalupdate.typeform.com
 adppotral8.typeform.com
 adpredictive.com
+adpredictive.io
 adpreview.sitescout.com
 adprime.us-east-1.stinger-ad.bidr.io
 adprime.us-west-2.stinger-ad.bidr.io
@@ -7620,6 +7621,7 @@ ag-app.quantummetric.com
 agattout.touchcommerce.com
 agavecdn.o365weve.com
 agaxocjedwjue0uz7psukdkuyzn2s1509504610.nuid.imrworldwide.com
+agb.nonstoppartner.de
 agb.nonstoppartner.net
 agcredit.qualtrics.com
 ag.ctnsnet.com
@@ -7767,6 +7769,7 @@ airflow.biztech.segment.com
 airflow.metl.samba.tv
 airflow.ophan.co.uk
 airflow-staging.metl.samba.tv
+airflowtest.adpredictive.io
 airflow-v2.biztech.segment.com
 airfoil-assets.condenastdigital.com
 airlinecareer.blueconic.net
@@ -8083,6 +8086,7 @@ alpha.idx.c3metrics.com
 alpha.img.c3metrics.com
 alpha.justuno.com
 alphalux.oewabox.at
+alpha.native.ai
 alpha.telemetry.microsft.com
 alpha.usersurge.com
 alpha.view.c3metrics.com
@@ -10326,6 +10330,7 @@ api.chartbeat.com
 api.chillyc.env.sandbox53.localytics.com
 api.choicestream.com
 api.circularhub.com
+api.cleantalk.org
 api.clearview.ai
 api.clrstm.com
 api.commander1.com
@@ -11032,6 +11037,7 @@ app.moengage.com
 app.monsido.com
 app.mouseflow.com
 app.mparticle.com
+app.native.ai
 app.navdmp.com
 app.netcoresmartech.com
 appnext.com
@@ -14571,6 +14577,8 @@ bugreport.medallia.com
 bugsnag.appstore.a2z.com
 bugsnag.co
 bugsnag.com
+bugs.qoof.com
+bugs.viewbix.com
 bugzilla.adx1.com
 build10.bld.cxense.com
 build11.bld.cxense.com
@@ -17247,6 +17255,7 @@ clickforce.click.org
 click.fout.jp
 click.freewebsitehosting.com
 click.frg.im
+click.frontgate-email.com
 click.gamersky.com
 clickganic.rtb.adx1.com
 click.ganji.com
@@ -17352,6 +17361,7 @@ click.mail.preferrednewsletters.com
 click.m.ambientplatform.vn
 click.mancheck.com
 click.maxxandmore.com
+click.mc.crimsontrace.com
 click.m.codefuel.com
 clickme.click.org
 click.media1apps.com
@@ -17826,6 +17836,7 @@ click.xmlmonetize.com
 click.xxm2.com
 click.xxxfilm-1.ru
 click.yahoo.com
+clicky-analytics.com
 clicky.com
 click.yhd.com
 click.yllix.com
@@ -17868,6 +17879,7 @@ clientsmedia.adrime.com
 clients.mediaforge.com
 client.sophus3.com
 clients.sortable.com
+client.staging.pxi.pub
 clientstat.castup.net
 client-stats.warthunder.com
 clientstorage.cxense.com
@@ -18169,6 +18181,7 @@ cmeg.co1.qualtrics.com
 cmeu.hit.gemius.pl
 cm.everesttech.net
 cm.everesttech.netcm.everesttech.net
+cm.eyedemand.com
 cm.eyereturn.com
 cmg.amap.com
 cm.gcm.ksmobile.com
@@ -18882,9 +18895,12 @@ collector-meta.lightstep.com
 collector.meta.lightstep.com
 collector.newrelic.com
 collector-pool.newrelic.com
+collector-px2003.cl6.perimeterx.net
 collector-px2003.cl6.px-cloud.net
+collector-pxrw7m6iav.perimeterx.net
 collector-pxrw7m6iav.px-cloud.net
 collector.pyze.com
+collector-single-fastly.a.pxi.pub
 collectors.sumologic.com
 collector-staging.lightstep.com
 collector.staging.lightstep.com
@@ -19171,6 +19187,7 @@ consent-qa.techtarget.com
 consent.tamoco.com
 consent.techtarget.com
 console-adnxs.tradedoubler.com
+console-api.ucg.smart-dmp.com
 console-audienceiq-sjc2.turn.com
 console-cbc-v3.conductrics.com
 console.dsp.adacts.com
@@ -19202,6 +19219,7 @@ consulapi-us-east-2.us1.mparticle.com
 consulapi-us-west-1.us1.mparticle.com
 consulapi-us-west-2.us1.mparticle.com
 consul.g.bouncex.com
+consul-px.pxi.pub
 consultant.adx1.com
 consumeraffairs-automotive.t.domdex.com
 consumeraffairs-business.t.domdex.com
@@ -19337,6 +19355,7 @@ cookie.onaudience.com
 cookie.provenpixel.com
 cookieskids.evergage.com
 cookiesync.mparticle.com
+cookie.ucg.smart-dmp.com
 cookingcraze.tlnk.io
 cookinstyle.insightfirst.com
 cookstore16891z.btttag.com
@@ -23057,6 +23076,7 @@ dev.admaster.com.cn
 dev-adm-booking.macromill.com
 dev.admin.headshot.adx1.com
 dev-admin.videocollect.macromill.com
+dev.adpredictive.io
 dev.adx1.com
 dev.aimon.applicationinsights.io
 dev.airfind.com
@@ -30538,6 +30558,7 @@ hitsrv10.hotlog.ru
 hitsrv228.hotlog.ru
 hits-secure.guardian.co.uk
 hits.spylog.com
+hits.truehits.in.th
 hits.webstat.com
 hittail.com
 hit.trafficholder.com
@@ -31040,6 +31061,7 @@ hti2b.app.link
 ht-integration.c1exchange.com
 htinua.justclick.ru
 htm.freelogs.com
+html.nonstoppartner.de
 html.nonstoppartner.net
 htn.adx1.com
 htps.googletagmanager.com
@@ -33696,6 +33718,7 @@ jss.walkme.com
 js.taplytics.com
 js.tune.com
 jsu.az1.qualtrics.com
+js.ucg.smart-dmp.com
 js.upsight-api.com
 jsu.qualtrics.com
 js.users.51.la
@@ -34903,6 +34926,7 @@ lb-www.macromill.com
 lc.cm.ksmobile.com
 lcdn-locator.apple.com
 lcgqqbzo.micpn.com
+lcind11111.pcapredict.com
 l.clearview.ai
 l.clicktale.net
 l.collective-media.net
@@ -36484,6 +36508,7 @@ logs.synergysportstech.com
 log.standsapp.org
 log.star.ele.me
 log.starhalo.mobi
+logstashpro-a.akamaihd.net
 log.staticsfs.host
 log.stat.kugou.com
 logstat.kugou.com
@@ -37021,6 +37046,7 @@ lwuq.adj.st
 lww.evergage.com
 lwx93sjz-ios.mobile-sdk-api.intercom.io
 lx4bt.app.link
+lxkcc1.com
 lxoflez2.emltrk.com
 ly66.adx1.com
 ly89.adj.st
@@ -41187,6 +41213,7 @@ native-ad-api.tapad.com
 native.adkernel.com
 nativeads-display.rtb.adx1.com
 nativeads.rtb.adx1.com
+native.ai
 nativeamericanbank.rtrk.com
 native-app-production.firebaseio.com
 nativecdn.vindicosuite.com
@@ -41532,6 +41559,7 @@ newsletter.superstats.com
 newsmaxfeednetwork.com
 newsnetw.oewabox.at
 newsnetz.wemfbox.ch
+news.nonstoppartner.de
 new.social.conviva.com
 newsone.moengage.com
 news.parsely.com
@@ -42321,6 +42349,7 @@ nollo.app.link
 noludtnfnhqe.c.richmetrics.com
 nomads.evergage.com
 nonprod.flurry.com
+nonstoppartner.de
 nonstoppartner.net
 noob.onthe.io
 noomcoach-alternate.app.link
@@ -42457,6 +42486,7 @@ ns1.ib-ibi.com
 ns1.ivwbox.de
 ns1.kochava.com
 ns1.markmonitor.com
+ns1.native.ai
 ns1.owneriq.net
 ns1.placeiq.com
 ns1.provenpixel.com
@@ -42501,6 +42531,7 @@ ns2.infonline.de
 ns2.ivwbox.de
 ns2.linktrackr.com
 ns2.markmonitor.com
+ns2.native.ai
 ns2.owneriq.net
 ns2.placeiq.com
 ns2.provenpixel.com
@@ -44229,6 +44260,7 @@ pdllcrt.blueconic.net
 pdopm6ekxyg89wpfvtezv0uhaoaq81515421381.nuid.imrworldwide.com
 pd-p.alcmpn.com
 pd.sharethis.com
+pdst.fm
 pdt.tradedoubler.com
 pdw-adf.userreport.com
 pdw-alr.userreport.com
@@ -44335,6 +44367,8 @@ performance.demandbase.com
 perform.dynatrace.com
 perftest.saas.appdynamics.com
 perf.weborama.fr
+perimeterx.com
+perimeterx.net
 perion.netseer.com
 periphery.adrizer.com
 perka.app.link
@@ -45974,6 +46008,7 @@ procter.solution.weborama.fr
 prod-adidas.instana.io
 prod.adjust-multi.wbinsights.com
 prod.adobedtm.com
+prod.adpredictive.io
 prod-a.insightfirst.com
 prod.airfind.com
 prod-api-dns-lb.airfind.com
@@ -46063,6 +46098,7 @@ product.reflektion.com
 products.app.link
 productsearch.linksynergy.com
 products.mediaforge.com
+products.nonstoppartner.de
 product.staging.adwyze.com
 producttest.atom.adjust.com
 product.webtrends.com
@@ -46459,7 +46495,9 @@ px.airpr.com
 px.at.atwola.com
 px.c1exchange.com
 px.cdn.creative.medialytics.com
+px-cdn.net
 pxcel.sharethis.com
+pxchk.net
 pxdiv.app.link
 px.dynamicyield.com
 pxe.cnzz.com
@@ -46468,6 +46506,7 @@ pxexpmuwzbyg8av8vceiyhhpmb0kc1509202001.nuid.imrworldwide.com
 px.gs.interclick.com
 pxhzf5zu2vn2bcxc7rjuyfpgdnjtc1509920411.nuid.imrworldwide.com
 pxi.jivox.com
+pxi.pub
 pxj-0.tlnk.io
 pxl.1rx.io
 pxl2.connexity.net
@@ -49368,6 +49407,7 @@ s1.qa5.exacttarget.com
 s1.sentry-cdn.com
 s1.st3.qualtrics.com
 s1.statcounter.com
+s1.turninc.com
 s1u9tja9boolgrbieh4se45mp.litix.io
 s1v3.app.link
 s2001820020.t.eloqua.com
@@ -49609,6 +49649,7 @@ s2s.mparticle.com
 s2s.singular.net
 s2.statcounter.com
 s2-test.go-mpulse.net
+s2.turninc.com
 s2wrw.voluumtrk3.com
 s3001.t.eloqua.com
 s3002.t.eloqua.com
@@ -49736,6 +49777,7 @@ s3-prod.beeketing.com
 s3rdl.castup.net
 s3so.tlnk.io
 s3-tracking.synthasite.net.s3.amazonaws.com
+s3.turninc.com
 s3-us-west-2.jsrdn.com
 s400020746.t.eloqua.com
 s4001.pingdom.com
@@ -49932,6 +49974,7 @@ s4.exacttarget.com
 s4.histats.com
 s4i.histats.com
 s4is.histats.com
+s4.turninc.com
 s509388811.t.eloqua.com
 s50acsj2.emltrk.com
 s50.cnzz.com
@@ -52526,6 +52569,7 @@ smartclipit.solution.weborama.fr
 smartcrmconference.techtarget.com
 smartdigital.evergage.com
 smartdigitalfr.evergage.com
+smart-dmp.com
 smartdriver.app.link
 smart.dynamicyield.com
 smarterhq.io
@@ -55748,6 +55792,7 @@ staging.adjust.io
 staging.admin.canarybay.innovation.abtasty.com
 staging-admin-pixel.advidi.com
 staging-admin.websidestory.com
+staging.adpredictive.io
 staging.adwyze.com
 staging.adx1.com
 staging.affiliates.pricespider.com
@@ -55904,6 +55949,7 @@ staging-pinger-master.newrelic.com
 staging.piwik.pro
 staging-ps.ispot.tv
 staging-pt.ispot.tv
+staging.pxi.pub
 staging.query.api.getadmiral.com
 staging-queue.beeketing.com
 staging-reach-api.urbanairship.com
@@ -57888,6 +57934,7 @@ stats.xn--80aaysglbjgdhv.xn--p1ai
 stats.xpays.com
 stats.xplosion.de
 stats.xs-software.com
+stats.x-traceur.com
 stats.xtraffic.xyz
 stats.xtremerank.com.ssl.re.getclicky.com
 stats.xtremscores.com
@@ -59894,6 +59941,7 @@ telemetry.community.veritas.com
 telemetry_compatexchange.cloudapp.net
 telemetry_corpext.msitadfs.glbdns2.microsoft.com
 telemetry_corp.sts.microsoft.com
+telemetry.dailymotion.com
 telemetry.deeparc.net
 telemetry.deeperbot.com
 telemetry_diagnostics.support.microsoft.com
@@ -64427,6 +64475,7 @@ truefit.com
 truefitcorp.com
 true.hit.gemius.pl
 truehits4.truehits.net
+truehits.in.th
 truehits.net
 trueid-141203.firebaseio.com
 trueid-84d04.firebaseio.com
@@ -64656,6 +64705,7 @@ turn.com
 turndemo-sjc2.turn.com
 turnerexperience.co1.qualtrics.com
 turn.grapeshot.co.uk
+turninc.com
 turn.nexac.com
 turnuniversity.turn.com
 turo.onelink.me
@@ -64934,6 +64984,7 @@ ucdenver.qualtrics.com
 ucf.qualtrics.com
 ucfrchm.qualtrics.com
 ucfuy4iyayf87qvfnfcvze2tvhpai1508672021.nuid.imrworldwide.com
+ucg.smart-dmp.com
 uchicago.co1.qualtrics.com
 uchiledii.qualtrics.com
 ucicinemasit.solution.weborama.fr
@@ -65974,6 +66025,7 @@ v1s.badgeville.com
 v1.spot.im
 v1.stat.ku6.com
 v1w4.app.link
+v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v24-n.tlnk.io
 v2.badgeville.com
@@ -66384,6 +66436,7 @@ vid1250.d41.co
 vid1374.d41.co
 vid1.cdns.turn.com
 vid1-origin.turn.com
+vid1.turninc.com
 vid2013.d41.co
 vid2398.d41.co
 vid4471.d41.co

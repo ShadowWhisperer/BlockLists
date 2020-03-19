@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/17/2020  22:55  (10:55 PM)  - Central Standard Time
+# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -55,6 +55,7 @@ platform.twitter.com                #Webpage Integration - Social Media (Widget)
 addnow.com                          #Webpage Integration - Social Media
 addthiscdn.com                      #Webpage Integration - Social Media
 addthis.com                         #Webpage Integration - Social Media
+s7.addthis.com                      #Webpage Integration - Social Media
 addthisedge.com                     #Webpage Integration - Social Media
 linksalpha.com                      #Webpage Integration - Social Media
 pluso.ru                            #Webpage Integration - Social Media

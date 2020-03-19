@@ -1,7 +1,7 @@
 #
 #    File: Tunnels   (VPNs & Proxies)  *** NOT ALL ARE CHECKED ***
 #
-# Updated: 3/16/2020  23:32  (11:32 PM)  - Central Standard Time
+# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -170,6 +170,7 @@ api.hsselite.com
 api.polargrizzly.com
 aplusproxy.com
 approxymate.com
+app.safervpn.com
 aproxy.com
 aproxysite.com
 aproxysites.ga
@@ -370,6 +371,7 @@ compressedproxyusa.ga
 comproxy.com
 connectionproxy.com
 connectproxy.com
+content.safervpn.com
 controlproxy.ga
 coolbits.org
 coolproxy.com
@@ -748,7 +750,6 @@ german-proxy.de
 german-webproxy.de
 germany-proxy.com.de
 germany-webproxy.de
-get-express-vpn.com
 getfreeproxy.com
 geti2p.net
 getoneproxy.ga
