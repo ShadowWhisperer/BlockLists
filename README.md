@@ -22,7 +22,7 @@
     Typo             Typosquatting / Misspelling of websites. Custom script + domaincheckplugin.com/typo  
     Unknown          Site that have appeared in my logs  
   
-    Filter           Used by my parse script to show me what is not blocked / in this list  
+    Filter           Used by my parse script to show me what is not blocked
     Whitelist        Reasons for some allowed domains  
 
 Most of these domains are sorted by type. Some domains that are used as ad servers are also used for tracking. And the other way around.
@@ -31,15 +31,14 @@ I try to keep dead / parked domains / sinkholed domains out of these lists. I re
 
 These lists are all verified by me. Either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled.
 
-I manage a computer repair shop, and I am able to see which domains are being reached by the computers that come in.
 
 _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may/will break some websites.
   
   
 **Create Block List**  
   while read -r Line || [[ -n "$Line" ]]; do  
-  echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> /etc/block/$Name  
-  done < /tmp/List
+  echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> Output  
+  done < list
   
   
 __**Useful Links**__  
