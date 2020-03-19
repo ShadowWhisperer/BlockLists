@@ -118,6 +118,8 @@ etrk.asus.com                              # Asus - Download Drivers
 gravatar.com                               # Avatar Icons
 ping.avast.com                             # AVG - Install Freezes
 cdn.rlcdn.com                              # Cabelas - Images
+graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
+s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
 d.la1-c1-ord.salesforceliveagent.com       # Dell - Chat
 la1-c1-ord.ord.r.salesforceliveagent.com   # Dell - Chat
 gha.ebay.com                               # Ebay - Notifications
@@ -144,6 +146,7 @@ s1.yimg.com                                # Images - Yahoo
 s.yimg.com                                 # Images - Yahoo
 fastpic.ru                                 # Images - Fastpic
 static.fastpic.ru                          # Images - Fastpic
+imagizer.imageshack.com                    # Images - Various
 static.wixstatic.com                       # Images - Various
 pp.userapi.com                             # Images - 
 tessera10.intellicast.com                  # KSFY - Radar Map
@@ -164,6 +167,7 @@ blocklist.addons.mozilla.org               # Mozilla - Firefox - Adons
 codex.nflxext.com                          # Netflix - Website - Main Page
 proxy.novafusion.ea.com                    # Origin - Activate Games
 l.facebook.com                             # Social Media - Facebook (Breaks Links)
+scontent.xx.fbcdn.net                      # Social Media - Facebook (Comments: User Pic)
 api.facebook.com                           # Social Media - Facebook
 connect.facebook.net                       # Social Media - Facebook
 facebook.com                               # Social Media - Facebook
@@ -198,7 +202,6 @@ bit.ly                                     # URL Shortener
 ow.ly                                      # URL Shortener
 tinyurl.com                                # URL Shortener
 disqus.com                                 # User Comments
-static.parastorage.com                     # Various Sites - Breaks Pages
 s3-eu-west-1.amazonaws.com                 # Various Sites - File Downloads
 s3.us-east-2.amazonaws.com                 # Various Sites - File Downloads
 s3-us-west-1.amazonaws.com                 # Various Sites - File Downloads
@@ -220,6 +223,7 @@ i.ytimg.com                                # Youtube - Thumbnails
 # Smart TV
 ########################
 appboot.netflix.com                        # App - Netflix (Won't Launch)
+nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
 uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
 api2.sr.roku.com                           # App - The Roku Channel
@@ -238,4 +242,5 @@ click.linksynergy.com   #Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
 refer.ccbill.com
+static.parastorage.com
 stumbleupon.com
