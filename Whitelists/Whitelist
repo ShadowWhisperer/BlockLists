@@ -43,8 +43,6 @@ spclient.wg.spotify.com       #Software - Spotify - Audio
 
 accounts.google.com                        #Google - All - Login
 cryptauthenrollment.googleapis.com         #Google - Android - Set Payment Info
-r1---sn-ja5gput-hn2e.gvt1.com              #Google - Android - Update Apps
-r2---sn-ja5gput-hn2e.gvt1.com              #Google - Android - Update Apps
 kh.google.com                              #Google - Maps - Earth View
 chrome.google.com                          #Google - Chrome - Store - Extensions - Page
 lh3.googleusercontent.com                  #Google - Chrome - Store - Extensions - Icons
@@ -124,6 +122,7 @@ d.la1-c1-ord.salesforceliveagent.com       # Dell - Chat
 la1-c1-ord.ord.r.salesforceliveagent.com   # Dell - Chat
 gha.ebay.com                               # Ebay - Notifications
 vod.ebay.com                               # Ebay - Print Preview
+secureir.ebaystatic.com                    # Ebay - Edit Item
 rover.ebay.com                             # Ebay - View Orders
 hotmail.com                                # Email - Hotmail
 gallery.mailchimp.com                      # Email - Mailchimp - Images
