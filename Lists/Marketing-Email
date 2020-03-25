@@ -1,7 +1,7 @@
 #
 #    File: Marketing-Email   (Email Based Marketing)
 #
-# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
+# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -9,6 +9,7 @@
 #
 
 addshoppers.com
+al2.convertkit.com
 alphacampaignmonitor.com
 alphacampmon.com
 alphacmail1.com
@@ -20,10 +21,18 @@ alphacreatesend2.com
 alphacreatesend3.com
 alphacreatesend.com
 anouslab.cmail20.com
+api-black.convertkit.com
+api.convertkit.com
+api-rails4.convertkit.com
+app.convertkit.com
+app.icontact.com
+app-rails4.convertkit.com
 as133873.net
 as134124.net
 as55819.net
+assets.convertkit.com
 aweber.com
+black.convertkit.com
 blackholemyemail.com
 bravocampmon.com
 bravocreatesend.com
@@ -43,6 +52,12 @@ bravotestcampmon.com
 bravotestconfirmsubscription.com
 bravotestcreatesend.com
 campaignmonitor.com
+cdn.convertkit.com
+cdn-staging.convertkit.com
+chat.convertkit.com
+ck.h.convertkit.com
+ckjs-resolve.convertkit.com
+ck.n.convertkit.com
 clientsend.com
 cmail10.com
 cmail11.com
@@ -77,7 +92,10 @@ cmail9.com
 cmail.link
 cmon1.com
 cmon2.com
+conference.convertkit.com
 confirmsubscription.com
+convertkit.com
+convertkit-mail.com
 createsend10.com
 createsend11.com
 createsend12.com
@@ -129,6 +147,7 @@ deploydispatcho.com
 deployforwardtomyfriend.com
 deployupdatemyprofile.com
 despatcho.com
+developers.convertkit.com
 dispatcho1.com
 dispatcho2.com
 dispatcho3.com
@@ -138,21 +157,41 @@ echodevcreatesend.com
 echotestconfirmsubscription.com
 echotestcreatesend.com
 e-goi.com
+el2.convertkit.com
+el2.convertkit-mail.com
 email-confirmation.com
 emailreporting.com
 emailreports.info
 email-standards.com
 email-standards.org
+engineering.convertkit.com
+f.convertkit.com
+forms.convertkit.com
 forms.soundestlink.com
 forward-email.com
 forwardtomyfriend.com
 getgist.com
 getresponse.com
 hardbouncemyemail.com
+help.convertkit.com
+iamablogger.convertkit.com
+icontact.com
 inboxreport.com
+kb.convertkit.com
+learn.convertkit.com
+legal.convertkit.com
+link.h.convertkit.com
+link.l.convertkit.com
+link.m.convertkit.com
+link.n.convertkit.com
+link.test.convertkit.com
 localconfirmsubscription.com
 localcreatesend.com
 localemailserver.com
+mail1.static.convertkit.com
+mail3.static.convertkit.com
+mail5.static.convertkit.com
+mail6.static.convertkit.com
 mailbelt.com
 mailbuild.com
 mailerlite.com
@@ -9211,13 +9250,29 @@ mkt9997.com
 mkt9998.com
 mkt9999.com
 mkt999.com
+o10.ck.n.convertkit.com
+o13.ck.m.convertkit.com
+o15.ck.n.convertkit.com
+o16.ck.n.convertkit.com
+o17.ck.n.convertkit.com
+o18.ck.n.convertkit.com
+o19.ck.n.convertkit.com
+o20.ck.n.convertkit.com
+o22.ck.n.convertkit.com
+o8.ck.m.convertkit.com
 ongage.com
 ongage.net
+pages.convertkit.com
 rejoiner.com
 retentionscience.com
 sendgrid.net
 sendtomyfriend.com
+sgwebhook.convertkit.com
+shop.convertkit.com
 soundestlink.com
+staging.convertkit.com
+static.convertkit.com
+status.convertkit.com
 sumome.com
 surveybit.com
 surveybus.com
@@ -9254,3 +9309,4 @@ unsubscribe8.com
 unsubscribe9.com
 updatemyprofile.com
 updatemyprofile.net
+web1.convertkit.com

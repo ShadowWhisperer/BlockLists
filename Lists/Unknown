@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
+# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -14,6 +14,8 @@
 #############################
 0s9dxlr07huu.com            #AdSupply.com  (Was in MalwareBytes List)
 z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
+2020mustang.com               #Adult Sites
+as.2020mustang.com            #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
@@ -106,6 +108,7 @@ sdg.fwtrck.com                                        #Seen with Adult Sites
 fwtrck.com                                            #Seen with Adult Sites
 t.marketing.activision.com                                     #Activision
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
+pipes-prod-glutton.public.aws.demonware.net                    #Call of Duty
 urs.cnet.com                                                 #Cnet (easyXDM)
 lookaside.facebook.com                                      #Facebook
 z-m.c10r.facebook.com                                       #Facebook
@@ -136,10 +139,10 @@ go.litmos.com                                         #SAP Litmos
 keynote.litmos.com                                    #SAP Litmos
 litmos.com                                            #SAP Litmos
 orderlogicapp.com                                           #Shopify
-rtam-collector.snapchat.com                               #SnapChat
 loca.sc-jpl.com                                           #SnapChat
 loc.sc-jpl.com                                            #SnapChat
 ms.sc-jpl.com                                             #SnapChat
+rtam-collector.snapchat.com                               #SnapChat
 sc-jpl.com                                                #SnapChat
 scm.sc-jpl.com                                            #SnapChat
 s.sc-jpl.com                                              #SnapChat
@@ -147,6 +150,7 @@ st.sc-jpl.com                                             #SnapChat
 app.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 cdn.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
+api.vanilla.futurecdn.net                                          #tomsguide.com
 api.gdsec.net                                                    #Tutela ?
 gdsec.net                                                        #Tutela ?
 dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
@@ -193,7 +197,6 @@ assinie.com        #Subdomains include adult sites
 carrefourpro.com   #Subdomains include adult sites
 cdnaccess.com      #Subdomains include adult sites
 wow-hosting.com    #Dead ?
-ahacdn.me
 crajack.com
 easyincontro.org
 erocdn.com
@@ -212,7 +215,8 @@ datadome.co                          #DataDome
 #############################
 # Unknown
 #############################
-ali213.co                                                           #Pirated Games
+ali213.co                                 #Pirated Games
+player.h-cdn.com                          #Was in Bitcoin lists - Says it causes less issues after video Ad
 na1r.services.adobe.com                                               #Adobe - Product Activation ?
 bin5y4muil.execute-api.us-east-1.amazonaws.com                    #Amazon AWS
 ec2-52-193-201-206.ap-northeast-1.compute.amazonaws.com           #Amazon AWS
@@ -293,7 +297,6 @@ vastfears-archives.com                       #Ebay - Not Owned / Operated by Eba
 cs950197015.wpc.systemcdn.net                #Ebay
 api.g.ebay.com                               #Ebay
 bulkedit.g.ebay.com                          #Ebay
-bulksell.g.ebay.com                          #Ebay
 cgi5.g.ebay.com                              #Ebay
 cgi6.ebay.com                                #Ebay
 epage.g.ebay.com                             #Ebay
@@ -313,7 +316,6 @@ velocityprod.g.ebay.com                      #Ebay
 velocity-roma.ebay.com                       #Ebay
 vod.g.ebay.com                               #Ebay
 edge-star-mini-shv-01-iad3.facebook.com      #Facebook
-gcs.sc-cdn.net                               #Facebook
 instagram.c10r.facebook.com                  #FaceBook
 star.c10r.facebook.com                       #FaceBook
 star-mini.c10r.facebook.com                  #FaceBook
@@ -378,40 +380,8 @@ mw-small.l.google.com                          #Google -   Earth
 gboard-pa.googleapis.com                       #Google -  gBoard
 tenor.googleapis.com                           #Google -  gBoard - Gifs (Doesn't Break Anything)
 ytstatic.l.google.com                          #Google -     Google Plus
-r15---sn-bvvbax-hn2k.gvt1.com                  #Google - Updates ?
-r1---sn-ab5l6nzl.gvt1.com                      #Google - Updates ?
-r1.sn-ja5gput-hn2e.gvt1.com                    #Google - Updates ?
-r1---sn-vgqs7nlk.gvt1.com                      #Google - Updates ?
-r1---sn-vgqsenlz.gvt1.com                      #Google - Updates ?
-r1---sn-vgqskne6.gvt1.com                      #Google - Updates ?
-r1---sn-vgqskned.gvt1.com                      #Google - Updates ?
-r1---sn-vgqsknez.gvt1.com                      #Google - Updates ?
-r1---sn-vgqsknlz.gvt1.com                      #Google - Updates ?
-r1---sn-vgqsrn76.gvt1.com                      #Google - Updates ?
-r1---sn-vgqsrn7l.gvt1.com                      #Google - Updates ?
-r2.sn-ja5gput-hn2e.gvt1.com                    #Google - Updates ?
-r2---sn-vgqsdn7s.gvt1.com                      #Google - Updates ?
-r2---sn-vgqskne6.gvt1.com                      #Google - Updates ?
-r2---sn-vgqsknls.gvt1.com                      #Google - Updates ?
-r2---sn-vgqsrn76.gvt1.com                      #Google - Updates ?
-r2---sn-vgqsrned.gvt1.com                      #Google - Updates ?
-r2---sn-vgqsrnee.gvt1.com                      #Google - Updates ?
-r3---sn-vgqs7nls.gvt1.com                      #Google - Updates ?
-r3---sn-vgqseney.gvt1.com                      #Google - Updates ?
-r4---sn-qxo7rn7e.gvt1.com                      #Google - Updates ?
-r4---sn-vgqskne6.gvt1.com                      #Google - Updates ?
-r4---sn-vgqsknek.gvt1.com                      #Google - Updates ?
-r4---sn-vgqsknez.gvt1.com                      #Google - Updates ?
-r4---sn-vgqsrn7s.gvt1.com                      #Google - Updates ?
-r4---sn-vgqsrne6.gvt1.com                      #Google - Updates ?
-r4---sn-vgqsrnez.gvt1.com                      #Google - Updates ?
-r5---sn-vgqsdn7s.gvt1.com                      #Google - Updates ?
-r5---sn-vgqskn76.gvt1.com                      #Google - Updates ?
-r6---sn-vgqs7nls.gvt1.com                      #Google - Updates ?
-r6.sn-vgqsrnel.gvt1.com                        #Google - Updates ?
-r6---sn-vgqsrnel.gvt1.com                      #Google - Updates ?
-r9---sn-bvvbax-hn2k.gvt1.com                   #Google - Updates ?
 aa.google.com                                  #Google
+acp-mobile.appspot.com                         #Google
 aswpsdkus.com                                  #Google
 auditrecording-pa.googleapis.com               #Google
 autopush-geller-pa.sandbox.googleapis.com      #Google
@@ -737,9 +707,6 @@ solvvy.com                      #Solvvy - Artificial Intelligence Customer Servi
 ##
 # Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
 ##
-secretturtle.com
-somberscarecrow.com
-staleshow.com
 2znp09oa.com
 4jnzhl0d0.com
 5mcwl.pw
@@ -1122,6 +1089,7 @@ lightcushion.com
 livelumber.com
 lizardslaugh.com
 longinglettuce.com
+lorenzourban.com
 loudloss.com
 loudlunch.com
 lowlocket.com
@@ -1296,6 +1264,7 @@ scrubsky.com
 scrubswim.com
 secretivecub.com
 secretspiders.com
+secretturtle.com
 seedscissors.com
 selectionship.com
 selectionsugar.com
@@ -1336,6 +1305,7 @@ snakemineral.com
 snakesshop.com
 sneakystamp.com
 sneakystew.com
+somberscarecrow.com
 sombersea.com
 sombersquirrel.com
 sombersurprise.com
@@ -1363,6 +1333,7 @@ squeakzinc.com
 squirrelhands.com
 stakingscrew.com
 stakingslope.com
+staleshow.com
 standingnest.com
 standtrouble.com
 statuesquebrush.com
@@ -1644,3 +1615,4 @@ w.ssl.global.fastly.net
 xlbbhdarc.com
 ysdn.org
 s.pinimg.com
+cds.s5x3j6q5.hwcdn.net

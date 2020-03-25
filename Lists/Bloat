@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/18/2020  23:54  (11:54 PM)  - Central Standard Time
+# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -16,6 +16,7 @@ fonts.acer.com                          #Font  Acer
 edgefonts.net                           #Font    Adobe
 fonts.adobe.com                         #Font    Adobe
 typekit.com                             #Font    Adobe
+use.typekit.com                         #Font    Adobe
 typekit.net                             #Font    Adobe
 use.edgefonts.net                       #Font    Adobe
 use.typekit.net                         #Font    Adobe
@@ -67,9 +68,9 @@ twitcount.com                       #Webpage Integration - Social Media
 accountkit.com                      #Webpage Integration - User other accounts to login to new account
 
 licensebuttons.net                                 #Webpages - Icon
-i.creativecommons.org                              #Webpages - Icon (licensebuttons.net)
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com #Webpages - Icon (licensebuttons.net)
-
+i.creativecommons.org                              #Webpages - Icon (licensebuttons.net)
+s3.feedly.com                                      #Webpages - Icon (Follow Page)
 
 browser-update.org                  #Checks Browser Version
 
@@ -126,6 +127,7 @@ flsservices.security.comodo.com              #Antivirus    Comodo
 trustlogo.comodo.com                         #Antivirus    Comodo
 usfftp.security.comodo.com                   #Antivirus    Comodo
 liteapps.mcafee.com                          #Antivirus     McAfee
+webadvisorc.rest.gti.mcafee.com              #Antivirus     McAfee Webadvisor
 nsg.symantec.com                             #Antivirus   Norton
 ratings-wrs.symantec.com                     #Antivirus   Norton
 ipv6-iaus.trendmicro.com                     #Antivirus   TrendMicro
