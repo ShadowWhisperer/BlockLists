@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 3/27/2020  13:57  (1:57 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -105,6 +105,7 @@ tuneup.engine.avcdn.net                      #Antivirus   Avast
 uupdate.avast.com                            #Antivirus   Avast
 avgbrowser.com                               #Antivirus     AVG     Browser
 browser-update.avg.com                       #Antivirus     AVG     Browser
+isearch.avg.com                              #Antivirus     AVG     Browser Search Engine
 update-tuneup.avg.com                        #Antivirus     AVG     TuneUp
 tu.update.avg.com                            #Antivirus     AVG     TuneUp
 tu.backup.avg.cz                             #Antivirus     AVG     TuneUp

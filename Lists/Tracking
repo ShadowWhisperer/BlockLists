@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 3/27/2020  13:57  (1:57 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -11889,6 +11889,7 @@ audioz.matomo.cloud
 audit.app.manage.ensighten.com
 audit.ioam.de
 audit.manage.ensighten.com
+audit.quantcast.mgr.consensu.org
 aud.mndtrk.com
 audna.httptrack.com
 audtd.httptrack.com
@@ -51034,6 +51035,7 @@ seagate.links.channelintelligence.com
 seal-akron.bbb.org
 seal-atlanta.bbb.org
 seal-central-northern-western-arizona.bbb.org
+seal-charlotte.bbb.org
 seal-chicago.bbb.org
 seal.globalsign.com
 seal-goldengate.bbb.org
@@ -51041,6 +51043,7 @@ seal-minnesota.bbb.org
 seal-nebraska.bbb.org
 seal-oklahomacity.bbb.org
 seal-sandiego.bbb.org
+seal-us.bbb.org
 seamless-alternate.app.link
 seamless.app.link
 seamlessdocs.trackinglibrary.prodperfect.com
@@ -54947,6 +54950,7 @@ sourceinventory-int.bluekai.com
 sourceknowledge.com
 sourcelink.evergage.com
 sourcepoint.arrivalist.com
+sourcepoint.mgr.consensu.org
 source-static.samba.tv
 source.webgains.com
 southavenrv.rtrk.com
@@ -56442,6 +56446,7 @@ static.parsely.com
 static.postmaster.returnpath.net
 static.postmaster.tst.returnpath.net
 stat.icq.in
+static.quantcast.mgr.consensu.org
 static.quantcount.com
 static.responsetap.com
 static.returnpath.net
@@ -57104,6 +57109,7 @@ stats.creativecommons.org
 stats.crhoy.com
 stat.scroogefrog.com
 stats.crossmediaservices.com
+stats.crossrider.com
 stats.crsend.com
 stats.cruisingpower.com
 stats.ctvnews.ca

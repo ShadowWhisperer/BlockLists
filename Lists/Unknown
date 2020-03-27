@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 3/27/2020  13:57  (1:57 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -38,6 +38,7 @@ static.rbl.ms                 #RebelMouse
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
+player.anyclip.com             # thewindowsclub.com
 a1955.b.akamai.net
 adscheaper.com
 aralego.com
@@ -153,6 +154,7 @@ waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shoppin
 api.vanilla.futurecdn.net                                          #tomsguide.com
 api.gdsec.net                                                    #Tutela ?
 gdsec.net                                                        #Tutela ?
+client.amplifi.com                                          #Unifi
 dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
 #######################################################
 analyze.pro.research-artisan.com                            #Chineese Site
@@ -1483,7 +1485,6 @@ arg1f5.eastus.cloudapp.azure.com
 assets.huluim.com
 assoc-na.associates-amazon.com
 bb3k.thepiratebay10.org
-bigdaddyenterprises.acemlnb.com
 bolt-gcdn.sc-cdn.net
 caglobal.com
 c-catalog.mgo-images.com
@@ -1616,3 +1617,4 @@ xlbbhdarc.com
 ysdn.org
 s.pinimg.com
 cds.s5x3j6q5.hwcdn.net
+maxcdn.bootstrapcdn.com

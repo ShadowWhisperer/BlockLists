@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 3/27/2020  13:57  (1:57 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -13,6 +13,7 @@ appexeusprodweather.blob.core.windows.net              #Win 10 Tile
 appexfinanceappupdate.blob.core.windows.net            #Win 10 Tile
 appexnewsappupdate.blob.core.windows.net               #Win 10 Tile
 appexwusprodweather.blob.core.windows.net              #Win 10 Tile
+blob.weather.microsoft.com                             #Win 10 Tile
 cloudtile.photos.microsoft.com                         #Win 10 Tile
 finance-services.msn.com                               #Win 10 Tile
 foodanddrink.tile.appex.bing.com                       #Win 10 Tile
@@ -93,8 +94,10 @@ evoke-windowsservices-tas.msedge.net     #App - Windows Photos
 www2.bing.com                           #Bing (Loads IPV6 Check)
 bing.com                                #Bing
 bing.net                                #Bing
-windowssearch.com                       #Bing
 customsearch.ai                         #Bing
+platform.bing.com                       #Bing
+ssl.bing.com                            #Bing
+windowssearch.com                       #Bing
 maps.windows.com                        # Bing Maps
 
 aria.microsoft.com                      #Outlook Mobile
