@@ -1,7 +1,7 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 3/31/2020  21:29  (9:29 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -246,12 +246,14 @@ screenleap.com
 seattle.remotepc.com
 secure.logmein.com
 secure.logmeinrescue.com
+server.remoteutilities.com
 sn.splashtop.com
 sofia.remotepc.com
 southcarolina.remotepc.com
 splashtop.com
 st2.api.splashtop.com
 st2-v3-dc.splashtop.com
+static.remotepc.com
 stlouis.remotepc.com
 stockholm.remotepc.com
 st-v3-univ-srs-win-3121.api.splashtop.com

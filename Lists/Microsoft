@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 #
-# Updated: 3/27/2020  13:57  (1:57 PM)  - Central Standard Time
+# Updated: 3/31/2020  21:29  (9:29 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -287,6 +287,7 @@ compass-ssl.microsoft.com
 compatexchange.cloudapp.net
 connect.microsoft.com
 continuum.dds.microsoft.com
+contoso.com
 controls.cp.account.microsoft.com.akadns.net
 corpext.msitadfs.glbdns2.microsoft.com
 corp.sts.microsoft.com

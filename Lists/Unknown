@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/27/2020  23:48  (11:48 PM)  - Central Standard Time
+# Updated: 3/31/2020  21:29  (9:29 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -22,7 +22,7 @@ new.avira.com                #Avira
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
 keywee.co                      #Keywee
-fpdbs.paypal.com                 #Paypal (Logo?)
+fpdbs.paypal.com                  #Paypal (Logo?)
 a-fds.youborafds01.com         #PlutoTV
 api.queryly.com                   #Queryly
 queryly.com                       #Queryly
@@ -35,6 +35,7 @@ assets.rebelmouse.io          #RebelMouse
 rebelmouse.com                #RebelMouse
 resize.rbl.ms                 #RebelMouse
 static.rbl.ms                 #RebelMouse
+ptest.ysm.yahoo.com               #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
@@ -109,7 +110,6 @@ sdg.fwtrck.com                                        #Seen with Adult Sites
 fwtrck.com                                            #Seen with Adult Sites
 t.marketing.activision.com                                     #Activision
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
-pipes-prod-glutton.public.aws.demonware.net                    #Call of Duty
 urs.cnet.com                                                 #Cnet (easyXDM)
 lookaside.facebook.com                                      #Facebook
 z-m.c10r.facebook.com                                       #Facebook
@@ -163,7 +163,7 @@ research-artisan.com                                        #Chineese Site
 algolianet.com                                              #Search As A Service
 rcsnjttpht-2.algolianet.com                                 #Search As A Service
 fpctraffic3.com                                             #We pay for your clicks
-coveo.com                                                   #Tech platform for ads and analytics for app devs
+coveo.com                                                   #Tech platform for ads & analytics for app devs
 analysis.fi
 api.huqindustries.co.uk
 charles.huqindustries.co.uk
@@ -175,7 +175,6 @@ huqindustries.co.uk
 iper2.com
 meters.cbp-sd.com
 mlab-ns.appspot.com
-px-cloud.net
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
 tags.adsafety.net
 theappgrader.com
@@ -695,7 +694,6 @@ z2r0y.apple.com
 ##################################################################
 api.na1.region.vmwservices.com  #Android Phone
 ##################################################################
-d3owq2fdwtdp2j.cloudfront.net   #Icon = Cherry | Text= '1 == 2'
 fwbntw.com                      #Icon = Blue Cursor
 ##################################################################
 ingest.machinify.com            #AI
@@ -709,6 +707,22 @@ solvvy.com                      #Solvvy - Artificial Intelligence Customer Servi
 ##
 # Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
 ##
+ajaralarm.com
+causecherry.com
+coachquartz.com
+controlswim.com
+detailedkitten.com
+dustywave.com
+enchantedtop.com
+hurtgrape.com
+persuadesock.com
+plantpotato.com
+preciousyoke.com
+smilingshake.com
+sparklesleet.com
+treadbun.com
+tumblebirds.com
+wistfulflight.com
 2znp09oa.com
 4jnzhl0d0.com
 5mcwl.pw
