@@ -7,31 +7,31 @@
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting & Blogs  
-    Junk             Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc  
+    Junk             Survey, Junk, Personally Untrusted Antivirus, ISPs (Spam/Botnets), Non USA Sites, etc  
     Malware          Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites  
     Marketing        Web Marketing / Ebay Listing Tools  
     Marketing-Email  Email Based Marketing  
-    Microsoft        Apps, Bing, Tiles, Unknown  
-    Pirate           Torrent / Magnet Sites, Trackers, Warez  
+    Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
+    Pirate           Torrent / Magnet Sites, Torrent Trackers, Warez  
     Remote           Domains used to remotely control your stuff  
-    Scam             Fake / Misleading Sites - Not directly malware  
-    Suspicious       Found while searching other domains. Contains mixture of uncertain domains  
+    Scam             Fake / Misleading Sites - Not malware  
+    Suspicious       Contains mixture of uncertain domains (Ads, Trackers, Malware)  
     Top_Level        Top Level Domains: Will block most non-traditional domains  
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
-    Tunnels          VPNs & Proxies  *** NOT ALL ARE CHECKED ***  
+    Tunnels          VPNs & Proxies
     Typo             Typosquatting / Misspelling of websites. Custom script + domaincheckplugin.com/typo  
-    Unknown          Site that have appeared in my logs  
+    Unknown          Similar to _Suspicious_, but these have appeared in my network logs (Not while hunting)  
   
-    Filter           Used by my parse script to show me what is not blocked
+    Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
 
-Most of these domains are sorted by type. Some domains that are used as ad servers are also used for tracking. And the other way around.
+Most of these domains are sorted by type. Some domains that are used as ad servers are also used for tracking, and vice versa.  
 
-I try to keep dead / parked domains / sinkholed domains out of these lists. I remove _www<span></span>._ _mobile._ _m._
+I try to keep dead / parked domains / sinkholed domains out of these lists. I remove _www<span></span>._ _mobile._ _m._  
 
-These lists are all verified by me. Either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled.
-
-
+These lists are all verified by me. Either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled.  
+  
+  
 _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may/will break some websites.
   
   
