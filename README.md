@@ -37,8 +37,8 @@ _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may/will break some we
   
 **Create Block List**  
   while read -r Line || [[ -n "$Line" ]]; do  
-  echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> Output  
-  done < list
+  echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> OUTPUT
+  done < INPUT_LIST
   
   
 __**Useful Links**__  
