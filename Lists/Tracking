@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 3/31/2020  21:29  (9:29 PM)  - Central Standard Time
+# Updated: 4/2/2020  22:23  (10:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -683,6 +683,7 @@
 10a570de64d054322bdc3229f0d37e54.api.appsee.com
 10azf.app.link
 10bet.app.link
+10duke.com
 10percenthappier-alternate.app.link
 10percenthappier.app.link
 110004422.collect.igodigital.com
@@ -2198,6 +2199,7 @@
 2ftcb.qualtrics.com
 2ftracker.marinsm.com
 2ftracking.publicidees.com
+2fvisit.ciradar.com
 2fwww1.mpnrs.com
 2fwww.crazyegg.com
 2fwww.qualtrics.com
@@ -8076,12 +8078,16 @@ alerta.cxense.com
 alert-api.alfa.smartlook.com
 alertlogic.co1.qualtrics.com
 alertlogic.evergage.com
+alertmanager.hub-dev.sisense.com
+alertmanager.hub.sisense.com
 alertmanager.ua-ops-analytics.gcp.urbanairship.com
 alertmanager.ua-ops-transitional-eucs.gcp.urbanairship.com
 alertmanager.ua-ops-transitional-prod.gcp.urbanairship.com
 alertmanager.ua-ops-transitional-stag.gcp.urbanairship.com
 alert.s.ad6media.fr
+alerts.alpha.ciradar.com
 alerts.api.kochava.com
+alerts.ciradar.com
 alerts.flurry.com
 alerts.infra.igodigital.com
 alerts.newrelic.com
@@ -8514,11 +8520,15 @@ anagog.com
 anaimasas.ca1.qualt.ca1.qualtrics.com
 anaimas.ca1.qualtrics.com
 analoganalytics.com
+analyse.brandseye.com
 analyse.sophus3.com
 analysis.lax.mathtag.com
 analyst.airpr.com
+analyst.alpha.ciradar.com
+analyst.ciradar.com
 analystic.org
 analyst-stg-coursera.airpr.com
+analyst.test.ciradar.com
 analysys.cn
 analytic.337.com
 analytica.com.au
@@ -9849,6 +9859,7 @@ analytics.threedeepmarketing.com
 analytics.ticketmaster.co.uk
 analytics.tidaltv.com
 analytics.tiki.vn
+analytics.tiktok.com
 analytics.tiltingpoint.io
 analytics.tinybeans.com
 analytics.tinyminers.com
@@ -10481,6 +10492,7 @@ api.bot-test.qa.bounceexchange.com
 api.bounceexchange.com
 api.branch.io
 api.brandmetrics.com
+api.brandseye.com
 api-bridge-bootstrap.metaps.com
 api-bridge.metaps.com
 api.brightedge.com
@@ -11083,6 +11095,7 @@ app.beeketing.com
 app-benchmarks.adjust.com
 app.boa.exacttarget.com
 appboy.data.placeiq.com
+app.brandseye.com
 app.brightfunnel.com
 app.brightinfo.com
 app.bronto.com
@@ -11151,6 +11164,7 @@ appinfo.ksmobile.com
 app.insert.io
 appinstall-priceline-com.control.kochava.com
 app.intercom.io
+app.izenda.com
 app.jivox.com
 app.justuno.com
 app.kissmetrics.com
@@ -11520,6 +11534,7 @@ artifactory-np-p01.exacttarget.com
 artifactory-qa-p01.exacttarget.com
 artifactory-qa-p02.exacttarget.com
 artifactory-qa-p03.exacttarget.com
+artifactory.sisense.com
 artifactory-us.clicktale.net
 artifactory-us-ext.clicktale.net
 artifactory-xt-p01.exacttarget.com
@@ -11779,6 +11794,7 @@ assets.cdn.ispot.tv
 assetscdn.jivox.com
 assets.cdn.spongecell.com
 assets.clickon.co.il
+assets.control.kochava.com
 assets.crashlytics.com
 assets.deviceatlas.com
 assets.doctorlogic.com
@@ -13385,6 +13401,7 @@ bd-nplb03.foresee.com
 bd-p.alcmpn.com
 bdr3.app.link
 bds.analyticson.com
+bdsanalytics.sisense.com
 bd.sjv.io
 bdsmart.loggly.com
 bd.spot.im
@@ -13786,8 +13803,10 @@ beta.convertcart.com
 beta.crashlytics.com
 beta.esomniture.com
 beta.gameanalytics.com
+betahub01.insightrocket.com
 beta.hull.io
 beta.insightfirst.com
+beta.insightrocket.com
 beta.mobileapptracking.com
 beta.native.ai
 beta.newrelic.com
@@ -14002,6 +14021,7 @@ bidderstg-useast.spotad.co
 bidder-taboola.exposebox.com
 bidder-taboola-useast.exposebox.com
 bidder-taboola-uswest.exposebox.com
+bidder.ty5.vip.prod.criteo.com
 bidder.us1.adacts.com
 bidder.us.adacts.com
 bidder-useast-adx.spotad.co
@@ -14056,6 +14076,7 @@ bigsea.solution.weborama.fr
 bigsea.weborama.com
 big.telemetry.microsoft.com
 bi.ignitionone.com
+bi.izenda.com
 bijbouwe.blueconic.net
 bijnis.app.link
 bi.kampyle.com
@@ -14105,6 +14126,7 @@ birminghampublic.co1.qualtrics.com
 biscoind.blueconic.net
 bisltf25.emltrk.com
 bissell.recs.igodigital.com
+bitam.com
 bite.blueconic.net
 bitelt.blueconic.net
 bitesquad.app.link
@@ -14600,6 +14622,7 @@ brand.qa.markmonitor.com
 brand.qualtrics.com
 brand.returnpath.com
 brandsafway.rtrk.com
+brandseye.com
 brand.stg.markmonitor.com
 brandstore.appdynamics.com
 brand.treasuredata.com
@@ -14623,6 +14646,7 @@ bravo.app.link
 braxde.widget.criteo.com
 br-cdn.decibelinsight.net
 bre6.app.link
+bread.brandseye.com
 break.app.link
 breaker.blueconic.net
 breakingmedia.blueconic.net
@@ -14720,6 +14744,7 @@ b.scorecardresearch.com
 bscs.las.webtrends.com
 bsd.frontend.weborama.fr
 bse5.app.link
+bsfinternational.sisense.com
 bsf.smowtion.com
 bsg.ctnsnet.com
 b.sharethrough.com
@@ -15906,6 +15931,7 @@ cdna.adgrx.com
 cdn.a.adx1.com
 cdn.abtasty.com
 cdn.acdn.adx1.com
+cdna.ciradar.com
 cdna.clicktale.net
 cdn.adacts.com
 cdn.ad.adx1.com
@@ -16354,6 +16380,7 @@ cdn.siftscience.com
 cdn.similarweb.com
 cdn.simpleanalytics.io
 cdn.singular.net
+cdn.sisense.com
 cdn.siteanalytics.evolvemediametrics.com
 cdn.smartclick.net
 cdn-sm.vindicosuite.com
@@ -17030,6 +17057,7 @@ cipreporting.loggly.com
 ciqcol01.ciq.labs.att.com
 ciq.labs.att.com
 ciq-st.nielsen.com
+ciradar.com
 circle38.helpshift.com
 circleback.app.link
 circlescare.app.link
@@ -17045,6 +17073,7 @@ cisco.links.channelintelligence.com
 cisco.links.origin.channelintelligence.com
 cisco.links.origin.stage.channelintelligence.com
 ci.segment.com
+ci.sisense.com
 cistream.app.link
 cit.api.here.com
 citbconstructionskills.solution.weborama.fr
@@ -18373,6 +18402,7 @@ cloudfront.material.mediav.com
 cloudfront.qualtrics.com
 cloudgz-ecs.gravityzone.bitdefender.comin.getclicky.com
 cloud.mediabong.net
+cloudopstest.sisense.com
 cloud.piwik.pro
 cloudproductivity.recs.igodigital.com
 cloud.renlearn.com
@@ -18799,6 +18829,7 @@ collect8607jtpck.deltadna.net
 collect8637gmcrf.deltadna.net
 collect8829thscr.deltadna.net
 collect9012ddtrg.deltadna.net
+collect9543hvjmp.deltadna.net
 collect9618nrcsm.deltadna.net
 collect9822snprs.deltadna.net
 collect9903crssb.deltadna.net
@@ -19332,6 +19363,7 @@ complianceweek.evergage.com
 composer.am-staging.identity.api.liveramp.com
 composer.eu-staging.identity.api.liveramp.com
 comprar.navdmp.com
+compromisonaranja.bitam.com
 comptia.co1.qualtrics.com
 compusa.rdr.channelintelligence.com
 compuserve.insightfirst.com
@@ -19574,6 +19606,7 @@ content.newsinc.com
 content.origin.channelintelligence.com
 content.placeiq.com
 content.postrelease.com
+content.proxem.com
 content.quantcount.com
 content.quantserve.com
 contentraven.evergage.com
@@ -19762,6 +19795,7 @@ core.testrudy.qa.bounceexchange.com
 co.revsci.net
 core.wdc.imiclk.com
 corm.hit.gemius.pl
+corn.brandseye.com
 cornell.qualtrics.com
 corp001.bronto.com
 corp.1010data.com
@@ -21413,6 +21447,8 @@ cross-stitch-de5a9.firebaseio.com
 crosswords-alternate.app.link
 crosswords.app.link
 crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com
+crowd2.brandseye.com
+crowd.brandseye.com
 crowdfundingcrm.tapfiliate.com
 crowdscience.com
 crowdstar.helpshift.com
@@ -21942,6 +21978,7 @@ dajr2t4z-android.mobile-sdk-api.intercom.io
 dajr2t4z-ios.mobile-sdk-api.intercom.io
 da.jumpshot.com
 dalenys.et.e.sparkpost.com
+dali.brandseye.com
 dallasmorningnews.blueconic.net
 dallasnews.sslproxy.gigya.com
 dallmayrde.widget.criteo.com
@@ -22121,6 +22158,7 @@ datarouter-prod.ak.epicgames.com
 datascience-prd.svc.tapad.com
 data.scoota.co
 dataservices.bluekai.com
+data.sisense.com
 datasite.userreport.com
 dataso.cnzz.com
 data.stage.insert.io
@@ -22205,6 +22243,8 @@ db113.mta.exacttarget.com
 db146.mta.exacttarget.com
 db152.mta.exacttarget.com
 db167.mta.exacttarget.com
+db1a.brandseye.com
+db1b.brandseye.com
 db-1-c6848.firebaseio.com
 db1.kissmetrics.com
 db1.sitestats.com
@@ -22219,11 +22259,14 @@ db2.kissmetrics.com
 db2-m.tlnk.io
 db2.net-filter.com
 db2.sitestats.com
+db35a.brandseye.com
 db3aqu.atdmt.com
 db-3-f93e5.firebaseio.com
 db3.net-filter.com
 db3.sitestats.com
 db40.mta.exacttarget.com
+db44b.brandseye.com
+db46b.brandseye.com
 db-4-d5656.firebaseio.com
 db4.net-filter.com
 db4.sitestats.com
@@ -22690,6 +22733,7 @@ de298.cxense.com
 de.2.cqcounter.com
 de2.cxense.com
 de300.cxense.com
+de30.10duke.com
 de302.cxense.com
 de303.cxense.com
 de304.cxense.com
@@ -23315,6 +23359,7 @@ deploy.adx1.com
 deployer.53.localytics.com
 deploy.hiconversion.com
 deploy.mopinion.com
+deploy.proxem.com
 depop-alternate.app.link
 depop.app.link
 depop-beta.app.link
@@ -23503,6 +23548,7 @@ devices.samba.tv
 devices.wavesecure.com
 dev.igaworks.com
 dev.images.my.getadmiral.com
+dev.insightrocket.com
 dev.instructions.getadmiral.com
 dev.internal.getadmiral.com
 dev.irganalytics.com
@@ -24186,6 +24232,8 @@ dna2.mookie1.com
 dna3.mookie1.com
 dn.adx1.com
 dnai58oh4zld.c.richmetrics.com
+dnata-dev.sisense.com
+dnata.sisense.com
 dnb.co1.qualtrics.com
 dn.callrail.com
 dn.c.richmetrics.com
@@ -24217,6 +24265,7 @@ dns4.weborama.com
 dns.adx1.com
 dns.atdmt.com
 dnscheck.pingdom.com
+dns.ciradar.com
 dns.cnzz.com
 dn-se.c.richmetrics.com
 dns-eg5po28yv.sombrero.yahoo.net
@@ -24495,6 +24544,7 @@ drivemode-com.firebaseio.com
 drivenowde.widget.criteo.com
 driver-app-547b8.firebaseio.com
 driversedhub.app.link
+drivers.hub-dev.sisense.com
 driver.skyhookwireless.com
 drive.spot.im
 drizly.onelink.me
@@ -24764,6 +24814,7 @@ dynamic-assets.bouncex.net
 dynamic.cdn.spongecell.com
 dynamic-cdn.spot.im
 dynamic.criteo.com
+dynamic.par.vip.prod.criteo.com
 dynamic-production.spongecell.com
 dynamic.spongecell.com
 dynamicvenues.venue.maps.api.here.com
@@ -25096,6 +25147,8 @@ eboks.piwik.pro
 ebooks.localytics.com
 ebsco-prod.saas.appdynamics.com
 ebs.criteo.com
+ebs.hk5.vip.prod.criteo.com
+ebs.va1.vip.prod.criteo.com
 ebwz829b.emltrk.com
 ec076d4b.hullapp.io
 ec183922-46b7-41fd-93b6-58af87e441b1.nuid.imrworldwide.com
@@ -25461,6 +25514,7 @@ eller.co1.qualtrics.com
 eller.us.qualtrics.com
 ellesse-uk.sjv.io
 elliot.onlinesucces.nl
+elliptic.sisense.com
 ellosdk.widget.criteo.com
 ellosfi.widget.criteo.com
 ellosse.widget.criteo.com
@@ -25728,6 +25782,7 @@ engage9822snprs.deltadna.net
 engage9915jccbs.deltadna.net
 engage9999rsstn.deltadna.net
 engage.allegiancetech.com
+engage.brandseye.com
 engage.commander1.com
 engage.eloqua.com
 engage.iperceptions.com
@@ -26591,6 +26646,7 @@ events.privy.com
 events.quantummetric.com
 events.rundsp.com
 events.segment.com
+events.sisense.com
 events.staging.bounceexchange.com
 events.techtarget.com
 events.umeng.com
@@ -26612,6 +26668,7 @@ evermaps.matomo.cloud
 evernote.qualtrics.com
 eversource.co1.qualtrics.com
 eversource.qualtrics.com
+every1mobile.sisense.com
 everybuckcounts.matomo.cloud
 everythingyoga.btttag.com
 everyweargames.helpshift.com
@@ -27117,6 +27174,7 @@ express.ivwbox.de
 expresspullnsave.rtrk.com
 expressroulartaanalytics.solution.weborama.fr
 express-sync.quantummetric.com
+ex.proxem.com
 exrrzuuo.micpn.com
 exstar.blueconic.net
 ext-auth.fitanalytics.com
@@ -27663,6 +27721,7 @@ file.message.cnzz.com
 files.adjust.com
 files.airpr.com
 files.beeketing.com
+files.ciradar.com
 files.criteo.com
 files.crittercism.com
 files.demo.dynatrace.com
@@ -28802,6 +28861,7 @@ gazeta.hit.gemius.pl
 gazetta.hit.gemius.pl
 gb6j.adj.st
 gb8-v.tlnk.io
+gbc0.jp.as.criteo.com
 gbc.criteo.com
 gbc.criteo.net
 gb-cdn.effectivemeasure.net
@@ -29049,6 +29109,8 @@ geocoder.cc.api.here.com
 geocoder.cit.api.here.com
 geoconfig.otherlevels.com
 geo-content.otherlevels.com
+geocontrol2.bitam.com
+geocontrol.bitam.com
 geodatatool.com
 geofilter-compress.storage.googleapis.com
 geofilter.storage.googleapis.com
@@ -29478,6 +29540,7 @@ gingerboy.click.org
 gionee.analytics.glance.inmobi.com
 girlscoutsusa.ca1.qualtrics.com
 gis72g4y.micpn.com
+gis.sisense.com
 gist-assets.github.exacttarget.com
 gist.github.exacttarget.com
 gist-raw.github.exacttarget.com
@@ -29572,6 +29635,7 @@ global.px.quantserve.com
 global.qc.rtb.quantserve.com
 global.returnpath.net
 globalsight.adx1.com
+global.sisense.com
 global.skyhookwireless.com
 global.smarterhq.io
 globalstats.hotlog.ru
@@ -29592,6 +29656,7 @@ glowroad.app.link
 glpals.com
 glpfactory.weborama.fr
 glpi.extranet.weborama.com
+glpi.izenda.com
 gl.statcounter.com
 glumobile.helpshift.com
 glympse.com
@@ -29954,6 +30019,8 @@ grafana.beeketing.com
 grafana.convertcart.com
 grafana.demandbase.com
 grafana.dev.yoose.com
+grafana.hub-dev.sisense.com
+grafana.hub.sisense.com
 grafana.maxmind.com
 grafana.mediabong.net
 grafana.metl.samba.tv
@@ -30448,6 +30515,7 @@ haggler-mopub670-us-e-ec2.liftoff.io
 haggler-mopub686-us-e-ec2.liftoff.io
 hail-reporting.tutelatechnologies.com
 haku.vizu.com
+halcon.bitam.com
 halfbrick.helpshift.com
 halfords.insightfirst.com
 halfpricehomes.privy.com
@@ -30579,6 +30647,7 @@ hdn.adx1.com
 hd-personalization-prod.gcp.homedepot.com
 hdrinc.co1.qualtrics.com
 hdr.sundaysky.com
+hd.sisense.com
 hdsr.piwik.pro
 hdsupply.allegiancetech.com
 hdsupply.qualtrics.com
@@ -31575,6 +31644,7 @@ hubbub.rpxnow.com
 hub.eproof.com
 hubexchange.exacttarget.com
 hub.qualtrics.com
+hub.sisense.com
 hubspot10.com
 hubspot10.net
 hubspot1.evergage.com
@@ -31853,6 +31923,7 @@ iag.ksmobile.net
 iagr.net
 iah-v4.pops.fastly-insights.com
 iak.blueconic.net
+iam.10duke.com
 iamgroot.saas.appdynamics.com
 iam-qa.tamoco.com
 iam.quantummetric.com
@@ -31901,6 +31972,7 @@ icbs.wavesecure.com
 icdn1.pushauction.com
 icdn2.pushauction.com
 icdn.batmobi.net
+ice.brandseye.com
 iceland.rkdms.com
 icelandtravel.tapfiliate.com
 ichnaea.netflix.com
@@ -32740,6 +32812,7 @@ infocus.links.channelintelligence.com
 infocus.links.origin.channelintelligence.com
 info.cxense.com
 info.datamark.net
+infodt.sisense.com
 info.dynatrace.com
 info.ensighten.com
 info.eu.criteo.com
@@ -32791,6 +32864,7 @@ info.samba.tv
 infosecurityconference.techtarget.com
 infosecuritydecisions.techtarget.com
 infosecuritymag.techtarget.com
+info.sisense.com
 info.skyhook.com
 info.skyhookwireless.com
 infospace-search.t.domdex.com
@@ -32951,6 +33025,7 @@ insight.b360.autodesk.com
 insight.bellmetric.net
 insight.bitcore.io
 insight.bitpay.com
+insight.bmetric.com
 insight.buzzvil.com
 insight.catalystapps.com
 insight.cloud.tencent.com
@@ -33001,6 +33076,7 @@ insight.props.id
 insight.randomhouse.com
 insight.rapid7.com
 insight.reflow.tv
+insightrocket.com
 insight.rr.com
 insightrte.liveramp.com
 insights2.pricespider.com
@@ -33093,6 +33169,7 @@ insights.secondmeasure.com
 insights.sei.cmu.edu
 insights.sessionm.com
 insights.sift.co.uk
+insights.sisense.com
 insights.sitesearch360.com
 insights.skyhook.com
 insights.snapads.com
@@ -33102,6 +33179,7 @@ insights.sprinklr.com
 insights-staging.hotjar.com
 insights-staging-test.hotjar.com
 insightsstg.foresee.com
+insights.strikesocial.com
 insights.supply
 insights.sustainablebrands.com
 insights.swrve.com
@@ -33305,6 +33383,7 @@ int-health.register.criteo.com
 intimissimi.commander1.com
 intl-prod.placed.com
 intracto.blueconic.net
+intramed.sisense.com
 intranet.adomik.com
 intranet.adx1.com
 intranet.lijit.com
@@ -33550,6 +33629,7 @@ ir.shareaholic.com
 irs.iperceptions.com
 ir.surveywall-api.survata.com
 irsx8sae.micpn.com
+irt-php7.insightrocket.com
 irvinecompanycx.az1.qualtrics.com
 irvinecompany.saas.appdynamics.com
 irwin.links.channelintelligence.com
@@ -33675,6 +33755,7 @@ iupui.co1.qualtrics.com
 iuqp5.app.link
 iu.qualtrics.com
 iurhq.app.link
+iusacellgeocontrol2.bitam.com
 ius.qualtrics.com
 iuzmvdv0.emltrk.com
 ivancorrea.evergage.com
@@ -33737,6 +33818,7 @@ iz6dxmra-android.mobile-sdk-api.intercom.io
 izatcloud.net
 izcc8ioj.emltrk.com
 izebwbgw.micpn.com
+izenda.com
 iznqogdjnkx2kek9rylvooqlprge51516220276.nuid.imrworldwide.com
 izo.eu.qualtrics.com
 izqa2or1.emltrk.com
@@ -33877,6 +33959,7 @@ jeeves.actonsoftware.com
 jeffhorwathbuilders.rtrk.com
 jegw.adj.st
 jei2iedx-android.mobile-sdk-api.intercom.io
+jelly.brandseye.com
 jelmolishopch.widget.criteo.com
 jelz0edd.emltrk.com
 jenkins2.devapp.tradedoubler.com
@@ -34218,6 +34301,7 @@ jtqn.adj.st
 jtr35.app.link
 juan.clickperfect.com
 jubily.app.link
+juegaygana.bitam.com
 juggernaut.bluekai.com
 juggernaut-int.bluekai.com
 jugglinginstructions.powered-by.zango.com
@@ -34749,9 +34833,19 @@ kosas.sjv.io
 kosi-ana.lytics.io
 ko.support.appsflyer.com
 kotikokki.spring-tns.net
+kotinelio.10duke.com
 kp1g.kochava.com
 kp8u.adj.st
 kp.count.ly
+kpietlservice.bitam.com
+kpionline10.bitam.com
+kpionline1.bitam.com
+kpionline3.bitam.com
+kpionline4.bitam.com
+kpionline5.bitam.com
+kpionline7.bitam.com
+kpionline8.bitam.com
+kpionline.bitam.com
 kpmediagaua.hit.gemius.pl
 kpmgrisk.co1.qualtrics.com
 kpmg.sslproxy.gigya.com
@@ -37404,6 +37498,7 @@ lpm-lefigaro.visualrevenue.com
 lp.onaudience.com
 lpo.optimizely.com
 lps2.newsinc.com
+lp.sisense.com
 lps.shareaholic.com
 lpve6rcp.micpn.com
 lp.zango.com
@@ -37445,6 +37540,7 @@ lse.qualtrics.com
 l.sharethis.com
 ls.hit.gemius.pl
 lsip.acxiom.com
+l.sisense.com
 lsmfcs-cluster.rd.linksynergy.com
 lsmfcs.rd.linksynergy.com
 lsmjv.app.link
@@ -38125,6 +38221,7 @@ maintenance.revsci.net
 maintenance.webtrends.com
 maint.returnpath.net
 maitatoyota.rtrk.com
+ma.izenda.com
 makazi-1691.commander1.com
 makeavatars.powered-by.zango.com
 makemoney.click.org
@@ -38288,6 +38385,7 @@ marketing.email.maxmind.com
 marketing.ensighten.com
 marketing.evidon.com
 marketinggeneral.co1.qualtrics.com
+marketing.izenda.com
 marketing.kissmetrics.com
 marketing.kochava.com
 marketing.leadfeeder.com
@@ -38340,6 +38438,7 @@ marylandmarketing.qualtrics.com
 marymaxim.evergage.com
 maserati.commander1.com
 mashasedgwick.digidip.net
+mash.brandseye.com
 mashery-internal.api.turn.com
 mashery-internal-test.api.turn.com
 maskffo87nra.c.richmetrics.com
@@ -38484,6 +38583,7 @@ ma.tune.com
 mature.xxxcounter.com
 maurices.activate.ensighten.com
 mau.sextracker.com
+maven.10duke.com
 maven.apptimize.com
 mavencarsharing.sjv.io
 maven.gameanalytics.com
@@ -38826,6 +38926,7 @@ meitre.trackinglibrary.prodperfect.com
 melayu23.app.link
 melbourneuni.au1.qualtrics.com
 melbpsych.co1.qualtrics.com
+meliusanalytics.sisense.com
 melkana.app.link
 melsoft-games.helpshift.com
 mel-v4.pops.fastly-insights.com
@@ -38906,6 +39007,7 @@ merkuron.ivwbox.de
 merlin.linksynergy.com
 merlin.sharethrough.com
 merrill.saas.appdynamics.com
+merry4.brandseye.com
 mersal-engine.firebaseio.com
 mert.count.ly
 me.semasio.net
@@ -38958,6 +39060,7 @@ metric.advanceautoparts.com
 metric.allrecipes.com
 metric.allrecipes.com.mx
 metric.allrecipes.co.uk
+metric.allrecipes.pl
 metric.angieslist.com
 metric-api.newrelic.com
 metricasboss.containers.piwik.pro
@@ -39277,6 +39380,7 @@ metrics.csmonitor.com
 metrics.ctshirts.com
 metrics.ctv.ca
 metrics.ctvdigital.net
+metrics.culturaldistrict.org
 metrics.cvshealth.com
 metrics.cvshealth.com.edgekey.net
 metrics.dailystrength.org
@@ -39669,6 +39773,7 @@ metrics.oclc.org
 metrics.octanner.com
 metrics.oetker.de
 metrics.off.com
+metrics.ol.epicgames.com
 metrics.ops.rr.com
 metrics.optoiq.com
 metrics.optum.com
@@ -39926,6 +40031,7 @@ metrics.trailer-bodybuilders.com
 metrics.travelchannel.com
 metrics.troweprice.com
 metrics.truenergy.com.au
+metrics.trustarts.org
 metrics.tulsaworld.com
 metrics.tums.ac.ir
 metrics.turn.com
@@ -40130,6 +40236,7 @@ micro.rkdms.com
 microsend.hosting.exacttarget.com
 microsoftauthenticator.helpshift.com
 microsoftb.btttag.com
+microsoft.brandseye.com
 microsoft.btttag.com
 microsoft.ca1.qualtrics.com
 microsoft.hosting.exacttarget.com
@@ -40587,6 +40694,7 @@ monitor.returnpath.net
 monitor-sc.brightedge.com
 monitorsdk.appsflyer.com
 monitor.simpleanalytics.io
+monitor.sisense.com
 monitor.sre.miaozhen.com
 monitor.tercept.com
 monitor-tools.cn.miaozhen.com
@@ -41291,6 +41399,7 @@ muc.intelliad.de
 mudah-sin.gravityrd-services.com
 mufw.app.link
 mug.criteo.com
+mug.da1.vip.prod.criteo.com
 mugler.commander1.com
 muhlsxrsciyjijwvc1bcv3g0j3gix1511345420.nuid.imrworldwide.com
 mulberryscleaners.app.link
@@ -41435,6 +41544,7 @@ mybuys-styleandfashion.t.domdex.com
 mybuys-uncategorized.t.domdex.com
 mycamip.com
 my-cdn.effectivemeasure.net
+my.ciradar.com
 mycity4kids.app.link
 mycompany.loggly.com
 mycomputer.superstats.com
@@ -41551,6 +41661,7 @@ myscene.links.channelintelligence.com
 myscene.links.origin.channelintelligence.com
 myscoop-tracking.googlecode.com
 my.signpost.com
+my.sisense.com
 mysite.eloqua.com
 mysite.myfamilymobile.staging.airfind.com
 mysite.net10.staging.airfind.com
@@ -42068,6 +42179,7 @@ new.afsanalytics.com
 newalrts0nline.app.link
 new.az1.qualtrics.com
 newbestsellers.justclick.ru
+new.brandseye.com
 newcastlebusandlaw.co1.qualtrics.com
 newchic.app.link
 new.clickability.com
@@ -42101,6 +42213,7 @@ newsblog.onthe.io
 newsbreakapp.onelink.me
 newscgp.com
 newschool.qualtrics.com
+news.ciradar.com
 newsclic.ivwbox.de
 newscorp.grapeshot.co.uk
 news.criteo.com
@@ -43578,6 +43691,7 @@ ofby7fzl60.s.ad6media.fr
 offerboard.metaps.com
 offer.click.org
 offers.appnext.com
+offers.ciradar.com
 offers.hotjar.com
 offers.linkshare.com
 offers.netcoresmartech.com
@@ -43664,6 +43778,7 @@ ok.marketing.walkme.com
 okr-1.tlnk.io
 okr.sharethrough.com
 okrzi.app.link
+ok.sisense.com
 okstatebusiness.qualtrics.com
 okstatecoe.qualtrics.com
 oksva.app.link
@@ -44480,6 +44595,7 @@ pages.callminer.com
 pages.chartbeat.com
 pages.crittercism.com
 pages.datamark.net
+pagesdt.sisense.com
 pages.dynamicyield.com
 pages.exacttarget.com
 pages.flurry.com
@@ -44508,6 +44624,7 @@ pages.s6.exacttarget.com
 pages.s7.exacttarget.com
 pages.siftscience.com
 pages.similarweb.com
+pages.sisense.com
 pages.turn.com
 pages.virt.boa.exacttarget.com
 pages.virt.exacttarget.com
@@ -45163,6 +45280,7 @@ piano-hero-tiles.firebaseio.com
 pib.acxiom.com
 pibbcoke.rpxnow.com
 picabooupload.app.link
+piccache.brandseye.com
 piceasoftbeta.app.link
 pichet.solution.weborama.fr
 pickyourplum.hasoffers.com
@@ -45248,6 +45366,7 @@ pipeline.in.backtrace.io
 pipe.prod.clicktale.net
 pipes-prod-glutton.public.aws.demonware.net
 pipe.stage.clicktale.net
+pippin4.brandseye.com
 pippio.com
 piq.imrworldwide.com
 piquadro.commander1.com
@@ -46144,6 +46263,7 @@ pnc-74.pnc-rtb1.rfihub.net
 pnc-75.pnc-rtb1.rfihub.net
 pnc.allegiancetech.com
 pnc.co1.qualtrics.com
+pnc.insightrocket.com
 pnc-rtb1.rfihub.net
 p.nexac.com
 pnfp.qualtrics.com
@@ -46700,6 +46820,9 @@ prod.geoservice.gluops.com
 prod-greyhound.bizsys.urbanairship.com
 prod.gsm.applicationinsights.io
 prod.hdflash.brightedge.com
+prodhub-backup.int.insightrocket.com
+prodhub.insightrocket.com
+prodhub-master.int.insightrocket.com
 prodissues.dynatrace.com
 prodmail.turn.com
 prod-match-eu-haproxylb.rundsp.com
@@ -46879,6 +47002,7 @@ providence.evergage.com
 provo.co1.qualtrics.com
 pro.weborama.fr
 prowl.pricespider.com
+proxem.com
 proximic.com
 proximiio-bus.firebaseio.com
 proxim.links.channelintelligence.com
@@ -47319,6 +47443,7 @@ qaext-tag.yieldoptimizer.com
 qa-gmtdmp.mookie1.com
 qahooks.branch.io
 qaisb.mow.wavesecure.com
+qa.izenda.com
 qa.kochava.com
 qa-krs2-my.tealiumiq.com
 qal-cx.foresee.com
@@ -47580,6 +47705,7 @@ query-us.petametrics.com
 query-us-west-1.petametrics.com
 query-us-west1.petametrics.com
 questex.blueconic.net
+quest.hub-dev.sisense.com
 questline2.actonsoftware.com
 queue.beeketing.com
 queuer-elb.sandbox53.localytics.com
@@ -47726,6 +47852,7 @@ raazwebcity.privy.com
 rabbit.adwyze.com
 rabbit.bigsea-europe-prod.bigsea.weborama.com
 rabbitmq.ops.callrail.com
+rabbitmq-sam.brandseye.com
 rabbit.ops.callrail.com
 rabentire.rtrk.com
 rabodirect.containers.piwik.pro
@@ -47859,6 +47986,7 @@ rater.localytics.com
 rate-worker.alfa.smartlook.com
 rat.fr.eu.criteo.com
 rat.hk.as.criteo.com
+rating.brandseye.com
 ratings.imrworldwide.com
 ratings.redsheriff.com
 rat.jp.as.criteo.com
@@ -48819,6 +48947,7 @@ ricardo-ams.gravityrd-services.com
 ricardo.worldgravity.com
 ricaud.commander1.com
 ricaudde.commander1.com
+rice.brandseye.com
 riceuniversity.co1.qualtrics.com
 richard.ittest.33across.com
 richland.adx1.com
@@ -49207,6 +49336,7 @@ rtax.hk.cn.criteo.com
 rtax.jp.as.criteo.com
 rtax.ny.us.criteo.com
 rtax.sv.us.criteo.com
+rtax.ty5.vip.prod.criteo.com
 rtax.va1.vip.prod.criteo.com
 rtb.1rx.io
 rtb2.vindicosuite.com
@@ -51213,6 +51343,7 @@ sambasettingsapp.samba.tv
 samba.tv
 samba.us-east-1.stinger-ad.bidr.io
 samba.us-west-2.stinger-ad.bidr.io
+sam.brandseye.com
 sam-cdn.sharethrough.com
 samcm.ksmobile.com
 samcmsec.ksmobile.com
@@ -51468,6 +51599,7 @@ schwabdnc.acxiom.com
 sc.iasds01.comsdk.vindicosuite.com
 scienceboard.co1.qualtrics.com
 scientiamobile.com
+s.ciradar.com
 scl.adx1.com
 s.clickability.com
 s.clickiocdn.com
@@ -51612,6 +51744,7 @@ sdk.beeketing.com
 sdk-bridge.metaps.com
 sdk-cdn.beeketing.com
 sdkconfig.unacast.com
+sdk.control.kochava.com
 sdkevents.zapr.in
 sdk.foursquare.com
 sdk-gate.singular.net
@@ -51644,6 +51777,7 @@ sdk-writer.eu.smartlook.com
 sdk-writer.smartlook.com
 sdkw.tapad.com
 sdk.zapr.in
+sdl.sisense.com
 sd.monetate.net
 sdms.acxiom.com
 sdo.oewabox.at
@@ -51672,6 +51806,7 @@ sea.effectivemeasure.net
 seagate.links.channelintelligence.com
 seal-akron.bbb.org
 seal-atlanta.bbb.org
+seal-centralalabama.bbb.org
 seal-central-northern-western-arizona.bbb.org
 seal-charlotte.bbb.org
 seal-chicago.bbb.org
@@ -52759,6 +52894,7 @@ si546.app.link
 si8k18tmwqnc9m5pp-bnsfrailwa.siteintercept.qualtrics.com
 sia.socialblade.com
 sibilance.co1.qualtrics.com
+sibi.sisense.com
 sic.33across.com
 sic-akamai.33across.com
 sicariimedia.rtb.adx1.com
@@ -52802,6 +52938,7 @@ signup.tynt.com
 signup.urbaninsight.com
 sigs.fullstory.com
 sigs.researchnow.com
+sigstr.sisense.com
 si.hit.gemius.pl
 sil.hit.gemius.pl
 silive-com.c.richmetrics.com
@@ -52890,6 +53027,7 @@ sirresearch.co1.qualtrics.com
 sirva-dev.saas.appdynamics.com
 sirva.saas.appdynamics.com
 sisal.omg.exaudi.neodatagroup.com
+sisense.com
 site.admaster.com.cn
 site.albacross.com
 siteanalytics.marketo.com
@@ -52936,6 +53074,7 @@ sixthcontinent.nessie.neodatagroup.com
 sixt-nw.adclear.net
 sixtnw.adclear.net
 sizeimg.onthe.io
+s.izenda.com
 sizmek.ads.placeiq.com
 sizzling-heat-9792.firebaseio.com
 sj5qk98j-ios-1-2-3.mobile-sdk-api.intercom.io
@@ -53914,6 +54053,7 @@ smetrics.ehealthinsurance.com
 smetrics.ehstoday.com
 smetrics.eigenhuis.nl
 smetrics.eis-inc.com
+smetrics.eiu.com
 smetrics.elal.com
 smetrics.elecare.com
 smetrics.electricalmarketing.com
@@ -55559,6 +55699,7 @@ social.webtrends.com
 socialworkcolumbia.co1.qualtrics.com
 sociaplus.com
 society6.btttag.com
+socioexperto.bitam.com
 socitm.govmetric.com
 socket.heapanalytics.com
 socketio-dev.taplytics.com
@@ -56470,6 +56611,7 @@ sso-eu-west-1.piwik.pro
 sso.evidon.com
 sso.eyereturn.com
 sso.foreseeresults.com
+sso.izenda.com
 sso.mixpanel.com
 ss-omtrdc.net
 sso.piwik.pro
@@ -56873,6 +57015,7 @@ start.terapeak.com
 startupgenome.co1.qualtrics.com
 startup.mobile.webvisor.com
 startups.biztech.segment.com
+startup.sisense.com
 start.xxxcounter.com
 starvpn.app.link
 starworks.igaworks.com
@@ -57212,6 +57355,7 @@ static-ssl.mediav.com
 static-ssl.responsetap.com
 static-ssl.upsight-api.com
 static.staging.bounceexchange.com
+static-staging.cloudflareinsights.com
 static-staging.hotjar.com
 static-staging.imrworldwide.com
 static-staging.sharethrough.com
@@ -57969,6 +58113,7 @@ stats.examine.com
 stats.examiner.com
 stats.expanse.tech
 stats.exploratv.ca
+stats.extremetech.com
 stats.ezil.me
 stats.f4fcdn.eu
 stats.facilistats.fr.re.getclicky.com
@@ -59181,6 +59326,7 @@ st-secure-stats.pingdom.com
 st-share.pingdom.com
 sts.touchcommerce.com
 sts.webgains.com
+stt.dell.com
 stthomasir.qualtrics.com
 st-tms-tester-eu.pingdom.com
 st-tms-tester-us-east.pingdom.com
@@ -59310,6 +59456,7 @@ suncorp.activate.ensighten.com
 suncountry-app.quantummetric.com
 sundance.evergage.com
 sundaysky.com
+sundaysky-ha.sisense.com
 sundefined.t.eloqua.com
 sungard.containers.piwik.pro
 sungard.piwik.pro
@@ -60307,6 +60454,7 @@ tauth.europe-west1.eu.identity.api.liveramp.com
 tauth.europe-west1.eu-staging.identity.api.liveramp.com
 tauth.europe-west2.eu-staging.identity.api.liveramp.com
 tav.count.ly
+t.av.st
 tawpy.callrail.com
 taxfyle.app.link
 taxi.click.org
@@ -60856,6 +61004,7 @@ telemetry_telemetry.appex.bing.net
 telemetry_telemetry.urs.microsoft.com
 telemetry.tradingview.com
 telemetry.trayport.com
+telemetry.undeadlabs.live
 telemetry.urs.microsoft.com
 telemetry.v.dropbox.com
 telemetryverification.net
@@ -61531,6 +61680,7 @@ t-oewa.2cnt.net
 t-oewa.oewabox.at
 toftn7tl-android-3-0-7.mobile-sdk-api.intercom.io
 toftn7tl-android.mobile-sdk-api.intercom.io
+tofu.brandseye.com
 tofurkey.urbanairship.com
 toggl.com.re.getclicky.com
 toggler.wootric.com
@@ -63258,6 +63408,7 @@ tracking.foxnews.com
 tracking-fra01.omnitagjs.com
 tracking.fraudfree.net
 tracking.frmllc.com
+tracking.frogerr.com
 tracking.fun88.com
 tracking.fuze360.com
 tracking.fyber.com
@@ -65853,6 +66004,7 @@ ubhe3usybq8koy0zlak8t653nc2gpa0z.edns.ip-api.com
 ubimo.ads.placeiq.com
 ubimoinappdisplay34181600889.s.moatpixel.com
 ubiqcookie.pricespider.com
+ubiq-tests.proxem.com
 ubisoft.ca1.qualtrics.com
 ubisoftinternational.demdex.net
 ubtkilpp.micpn.com
@@ -66349,6 +66501,7 @@ up-lon5.everesttech.net
 up.nytimes.com
 up-or1.everesttech.net
 uportland.qualtrics.com
+up.proxem.com
 uprzloaenpq7idiv7iit1ehueb9ngnei.edns.ip-api.com
 ups.analytics.yahoo.com
 ups.emetriq.de
@@ -66676,6 +66829,7 @@ ushqlyncpool.foresee.com
 us.imrworldwide.com
 us-int.am-staging.identity.api.liveramp.com
 us.ipinfo.io
+u.sisense.com
 uskwg8y6pvcu6ycv7q84smgk8hv1ejh0.edns.ip-api.com
 us-la-1.pro.ip-api.com
 us-level1.dyntrk.com
@@ -66952,6 +67106,7 @@ v2.stat.ku6.com
 v2.superstats.com
 v2.visualwebsiteoptimizer.com
 v2.weborama.com
+v3.brandseye.com
 v3.cnzz.com
 v3.conductrics.com
 v3.stat.ku6.com
@@ -67241,6 +67396,7 @@ verbapp.app.link
 verbatim-cc.actonsoftware.com
 verbatim.links.channelintelligence.com
 verbatim.links.origin.channelintelligence.com
+verdigris.sisense.com
 verification-alternate.app.link
 verify.adadvisor.net
 verify.adtag.neodatagroup.com
@@ -67443,6 +67599,7 @@ view.s50.exacttarget.com
 view.s6.exacttarget.com
 view.s7.exacttarget.com
 view.s8.exacttarget.com
+view.sisense.com
 viewsonic.links.channelintelligence.com
 viewsonic.links.origin.channelintelligence.com
 view.staging.bounceexchange.com
@@ -67520,6 +67677,7 @@ visionworks-app.quantummetric.com
 visistat.com
 visistor.omnitagjs.com
 visitanalytics.userreport.com
+visit.ciradar.com
 visitdallas.blueconic.net
 visit.digidip.net
 visite.weborama.fr
@@ -68278,6 +68436,7 @@ web-assets.tapfiliate.com
 webbling.matomo.cloud
 webcare.byside.com
 webchat.helpshift.com
+web.ciradar.com
 web-ci.urbanairship.com
 web.click.org
 webclicks24.com
@@ -69049,6 +69208,7 @@ woven-environs-648.firebaseio.com
 wowanalytics.co.uk
 wowcher.app.link
 wowsb.onelink.me
+wp01.proxem.com
 wp1a.hit.gemius.pl
 wp1b.hit.gemius.pl
 wp20171103.truconversion.com
@@ -69475,10 +69635,13 @@ www-googletagmanager.l.google.com
 www-host.intelliad.de
 www-internal.survata.com
 www.ispot.tv
+www-lb.izenda.com
 www-lb.macromill.com
 www-manchestereveningnews-co-uk.api.omnitagjs.com
 www-neu.intelliad.de
+wwwnew.10duke.com
 www-new.synthesio.com
+www-node.izenda.com
 www-old.statcounter.com
 www-old.websidestory.com
 www-origin.appdynamics.com
@@ -69488,7 +69651,9 @@ www-ow.metaps.com
 www-pn-pd01.revsci.net
 www-preprod.weborama.com
 www-qa.foreseeresults.com
+www-qa.insightrocket.com
 wwwradiozecom.moengage.com
+www-recette.proxem.com
 wwwrnprskcm.blueconic.net
 www-shard02-a.justclick.ru
 www-shard04-cef.justclick.ru
@@ -69904,6 +70069,7 @@ xse5vfg6.micpn.com
 xseedapps.apple.com
 xsek6wdi.emltrk.com
 xsfayynp.emltrk.com
+x.sisense.com
 xslgk361.emltrk.com
 xs.mookie1.com
 xso37-alternate.app.link

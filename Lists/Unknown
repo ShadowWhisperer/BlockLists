@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 3/31/2020  21:29  (9:29 PM)  - Central Standard Time
+# Updated: 4/2/2020  22:23  (10:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -163,7 +163,7 @@ research-artisan.com                                        #Chineese Site
 algolianet.com                                              #Search As A Service
 rcsnjttpht-2.algolianet.com                                 #Search As A Service
 fpctraffic3.com                                             #We pay for your clicks
-coveo.com                                                   #Tech platform for ads & analytics for app devs
+coveo.com                                                   #Tech platform for ads & analytics for app devs (static.cloud.coveo.com breaks Dell search results)
 analysis.fi
 api.huqindustries.co.uk
 charles.huqindustries.co.uk
@@ -389,6 +389,7 @@ autopush-geller-pa.sandbox.googleapis.com      #Google
 blobcomments-pa.clients6.google.com            #Google
 chart.apis.google.com                          #Google
 chromesyncentities-pa.googleapis.com           #Google
+content-autofill.googleapis.com                #Google
 crl.pki.goog                                   #Google
 csi.gstatic.com                                #Google
 encrypted-vtbn0.gstatic.com                    #Google
@@ -707,6 +708,8 @@ solvvy.com                      #Solvvy - Artificial Intelligence Customer Servi
 ##
 # Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
 ##
+flimsythought.com
+importedinsect.com
 ajaralarm.com
 causecherry.com
 coachquartz.com

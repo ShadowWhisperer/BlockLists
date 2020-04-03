@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 #
-# Updated: 3/31/2020  21:29  (9:29 PM)  - Central Standard Time
+# Updated: 4/2/2020  22:23  (10:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -21,6 +21,7 @@ insiderhub.microsoft.com                               #Win 10 Tile
 insiderservice.microsoft.com                           #Win 10 Tile
 livetileedge.dsx.mp.microsoft.com                      #Win 10 Tile
 livetile.hulu.com                                      #Win 10 Tile
+livetiles.health.appex.bing.com                        #Win 10 Tile
 mgslivetiles.cloudapp.net                              #Win 10 Tile
 phone.sports.tile.appex.bing.com                       #Win 10 Tile
 tile-service.weather.microsoft.com                     #Win 10 Tile
@@ -91,60 +92,61 @@ sway-cdn.com                             #App -   Sway
 sway.com                                 #App -   Sway
 evoke-windowsservices-tas.msedge.net     #App - Windows Photos
 
-www2.bing.com                           #Bing (Loads IPV6 Check)
-bing.com                                #Bing
-bing.net                                #Bing
-customsearch.ai                         #Bing
-platform.bing.com                       #Bing
-ssl.bing.com                            #Bing
-windowssearch.com                       #Bing
-maps.windows.com                        # Bing Maps
+www2.bing.com                            #Bing (Loads IPV6 Check)
+bing.com                                 #Bing
+bing.net                                 #Bing
+customsearch.ai                          #Bing
+platform.bing.com                        #Bing
+ssl.bing.com                             #Bing
+windowssearch.com                        #Bing
+maps.windows.com                         # Bing Maps
 
-aria.microsoft.com                      #Outlook Mobile
-pipe.aria.microsoft.com                 #Outlook Mobile
+aria.microsoft.com                       #Outlook Mobile
+pipe.aria.microsoft.com                  #Outlook Mobile
 
-hipipv6-eu1-prod.cloudapp.net           #IPV6
-ipv6.login.live.com                     #IPV6
-ipv6.microsoft.com.akadns.net           #IPV6
-ipv6.microsoft.com                      #IPV6
-ipv6.msftconnecttest.com                #IPV6
-ipv6.msftncsi.com.edgesuite.net         #IPV6
-ipv6.msftncsi.com                       #IPV6
-teredo.ipv6.microsoft.com               #IPV6
-win10.ipv6.microsoft.com                #IPV6
-win1710.ipv6.microsoft.com              #IPV6
-win8.ipv6.microsoft.com                 #IPV6
+6to4.ipv6.microsoft.com                  #IPV6
+hipipv6-eu1-prod.cloudapp.net            #IPV6
+ipv6.login.live.com                      #IPV6
+ipv6.microsoft.com.akadns.net            #IPV6
+ipv6.microsoft.com                       #IPV6
+ipv6.msftconnecttest.com                 #IPV6
+ipv6.msftncsi.com.edgesuite.net          #IPV6
+ipv6.msftncsi.com                        #IPV6
+teredo.ipv6.microsoft.com                #IPV6
+win10.ipv6.microsoft.com                 #IPV6
+win1710.ipv6.microsoft.com               #IPV6
+win8.ipv6.microsoft.com                  #IPV6
 
-r20swj13mr.microsoft.com                #Internet Explorer - After Updating
-ie11welcome.microsoft.com               #Internet Explorer
+r20swj13mr.microsoft.com                 #Internet Explorer - After Updating
+ie11welcome.microsoft.com                #Internet Explorer
 
-toolbar.msn.com                         #Toolbar MSN
-ie9cvlist.ie.microsoft.com              #Toolbar Uninstall
-iecvlist.microsoft.com                  #Toolbar Uninstall
+toolbar.msn.com                          #Toolbar MSN
+ie9cvlist.ie.microsoft.com               #Toolbar Uninstall
+iecvlist.microsoft.com                   #Toolbar Uninstall
 
-activation2.playready.microsoft.com     #Game Pirate Prevention
-playready.microsoft.com                 #Game Pirate Prevention
+activation2.playready.microsoft.com      #Game Pirate Prevention
+playready.microsoft.com                  #Game Pirate Prevention
 
-config.teams.microsoft.com              #Microsoft Teams
-statics.teams.cdn.office.net            #Microsoft Teams
-teams.microsoft.com                     #Microsoft Teams
-tr.teams.microsoft.com                  #Microsoft Teams
+config.teams.microsoft.com               #Microsoft Teams
+statics.teams.cdn.office.net             #Microsoft Teams
+teams.microsoft.com                      #Microsoft Teams
+tr.teams.microsoft.com                   #Microsoft Teams
 
-client.wns.windows.com                  #Notifications
-skydrive.wns.windows.com                #Notifications
-wns.windows.com                         #Notifications
+client.wns.windows.com                   #Notifications
+skydrive.wns.windows.com                 #Notifications
+wns.windows.com                          #Notifications
 
-arc.msn.com                             #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
-g.msn.com.nsatc.net                     #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
-query.prod.cms.rt.microsoft.com         #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
+arc.msn.com                              #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
+g.msn.com.nsatc.net                      #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
+query.prod.cms.rt.microsoft.com          #Spotlight (Ads / Wallpaper / Suggested Apps / Tips / Notifications)
 
-ceipmsn.com                             #SeaPort (Search Enhancement Broker process)
+ceipmsn.com                              #SeaPort (Search Enhancement Broker process)
 
+survey.support.services.microsoft.com    #Survey - Popup Window
 
-survey.support.services.microsoft.com   #Survey - Popup Window
+dell15.msn.com                           #MSN - Redirects to msn.com
+toshiba13.msn.com                        #MSN - Redirects to msn.com
 
-
-dell15.msn.com                           # MSN - Redirects to msn.com
 
 cds1204.lon.llnw.net                     # ? Limelight Networks (CDN)
 cds1289.lon.llnw.net                     # ? Limelight Networks (CDN)
