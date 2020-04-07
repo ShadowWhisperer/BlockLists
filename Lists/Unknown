@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/2/2020  22:23  (10:23 PM)  - Central Standard Time
+# Updated: 4/6/2020  22:23  (10:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -19,6 +19,7 @@ as.2020mustang.com            #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
+manifest.prod.boltdns.net      #Brightcove - Video Playlist
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
 keywee.co                      #Keywee
@@ -39,7 +40,6 @@ ptest.ysm.yahoo.com               #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
-player.anyclip.com             # thewindowsclub.com
 a1955.b.akamai.net
 adscheaper.com
 aralego.com
@@ -76,8 +76,8 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 # Marketing
 #############################
-kaizenet.com       #Kaizenet G.Eath not current (Might be malware)
-lab.kaizenet.com   #Kaizenet G.Eath not current (Might be malware)
+kaizenet.com       #Kaizenet
+lab.kaizenet.com   #Kaizenet (Flagged as Malware)
 affex.org          #Zieltraffic - Dead ?
 zdbb.net           #Ziff Davis
 mix-uni.ru
@@ -92,13 +92,6 @@ lilo.org                #Search Engine
 search.lilo.org         #Search Engine
 search.uselilo.org      #Search Engine
 uselilo.org             #Search Engine
-
-
-#############################
-# Scam
-#############################
-account.protonvpn.store  #Looks like fake site for  'protonvpn.com'
-protonvpn.store          #Looks like fake site for  'protonvpn.com'
 
 
 #############################
@@ -171,23 +164,23 @@ cm.adsafety.net
 c.zrcir.com
 dotdash.map.fastly.net
 ecdn.analysis.fi
+geolookup-a.akamaihd.net
 huqindustries.co.uk
 iper2.com
+js.track-analytics.com
+matchid.adfox.yandex.ru
 meters.cbp-sd.com
 mlab-ns.appspot.com
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
 tags.adsafety.net
 theappgrader.com
+tj.yddashi.com
 t.motrixi.com
 tockance.com
 trackuhub.com
 universal.iper2.com
-zrcir.com
-tj.yddashi.com
-matchid.adfox.yandex.ru
-js.track-analytics.com
-geolookup-a.akamaihd.net
 w.usabilla.com
+zrcir.com
 
 
 #############################
@@ -208,13 +201,7 @@ tawenda-tech.org
 
 
 #############################
-# Bot Prevention
-#############################
-datadome.co                          #DataDome
-
-
-#############################
-# Unknown
+# Detailed
 #############################
 ali213.co                                 #Pirated Games
 player.h-cdn.com                          #Was in Bitcoin lists - Says it causes less issues after video Ad
@@ -253,7 +240,131 @@ r5-pc-steam-1240670023.us-west-2.elb.amazonaws.com                #Amazon AWS
 rebillialive-30481093.us-east-1.elb.amazonaws.com                 #Amazon AWS
 sqs.us-west-2.amazonaws.com                                       #Amazon AWS
 surveygizmobeacon.s3.amazonaws.com                                #Amazon AWS
-blogsmithmedia.com                               #AOL
+blogsmithmedia.com                                 #AOL
+apple.com.edgekey.net.globalredir.akadns.net     #Apple
+apple-dns.net                                    #Apple
+bag.itunes.apple.com                             #Apple
+basejumper.apple.com                             #Apple
+c.apple.news                                     #Apple
+cdn.cvws.apple-dns.net                           #Apple
+cds.apple.com                                    #Apple
+cdsassets.apple.com                              #Apple
+cl3-cdn.origin-apple.com.akadns.net              #Apple
+cl4.apple.com                                    #Apple
+cl5.apple.com                                    #Apple
+cma.itunes.apple.com                             #Apple
+commnat-cohort-gc.ess.apple.com                  #Apple
+commnat-main-gc.ess.apple.com                    #Apple
+cp7vi.apple.com                                  #Apple
+crl.apple.com                                    #Apple
+depot.info.apple.com                             #Apple
+df6ed.apple.com                                  #Apple
+edge-002.usmin.ce.apple-dns.net                  #Apple
+edge.icloud.apple-dns.net                        #Apple
+event.apple.com                                  #Apple
+fdereg.apple.com                                 #Apple
+fe.apple-dns.net                                 #Apple
+friend.gc.apple.com                              #Apple
+gateway-carry.icloud.com                         #Apple
+gil.apple.com.akadns.net                         #Apple
+gir.apple.com                                    #Apple
+gsa.apple.com.akadns.net                         #Apple
+gsa.apple.com                                    #Apple
+gsas.apple.com.akadns.net                        #Apple
+gsas.apple.com                                   #Apple
+gsp2.apple.com                                   #Apple
+gsp-ssl.ls2-apple.com.akadns.net                 #Apple
+gz8rm.apple.com                                  #Apple
+hello.connectivity.me.com                        #Apple
+homesharing.itunes.apple.com                     #Apple
+icalbridge.apple.com                             #Apple
+icalserver.apple.com                             #Apple
+iclab.apple.com                                  #Apple
+icloud.apple-dns.net                             #Apple
+identity.apple.com                               #Apple
+identity.ess-apple.com.akadns.net                #Apple
+identity.ess.apple.com.akadns.net                #Apple
+identity.ess.apple.com                           #Apple
+init.ess.apple.com                               #Apple
+init.gc.apple.com                                #Apple
+init-p01md.apple.com                             #Apple
+ink.apple.com                                    #Apple
+iphone-services.apple.com                        #Apple
+iphone-wu.apple.com                              #Apple
+iprofiles.apple.com                              #Apple
+itunes.apple.com.edgekey.net                     #Apple
+limit.itunesu.com                                #Apple
+link.gc.apple.com                                #Apple
+lookup-api.apple.com                             #Apple
+lookup.apple.com                                 #Apple
+mac-services.apple.com                           #Apple
+marimba.apple.com                                #Apple
+members.me.com                                   #Apple
+messagetracer-whitelist.apple.com                #Apple
+news-edge.apple.com                              #Apple
+news-edge.news.apple-dns.net                     #Apple
+news-events.apple.com                            #Apple
+ns.itunes.apple.com                              #Apple
+origin.guzzoni-apple.com.akadns.net              #Apple
+p01-swscan.apple.com.akadns.net                  #Apple
+p26-btmmdns.icloud.com                           #Apple
+partiality.itunes.apple.com                      #Apple
+pd.itunes.apple.com                              #Apple
+pd-st.itunes.apple.com                           #Apple
+play.itunes.apple.com                            #Apple
+porco.apple.com                                  #Apple
+proddav.apple.com                                #Apple
+profile.ess.apple.com                            #Apple
+pubsbuild.apple.com                              #Apple
+query.ess.apple.com                              #Apple
+rabat.apple.com                                  #Apple
+radio.itunes.apple.com                           #Apple
+redcarpet.apple.com                              #Apple
+sandbox.gc.apple.com                             #Apple
+sandbox.itunes.apple.com                         #Apple
+scento.apple.com                                 #Apple
+se2.itunes.apple.com                             #Apple
+se.itunes.apple.com                              #Apple
+service.gc.apple.com                             #Apple
+smp-device-content.apple.com                     #Apple
+sp.itunes.apple.com                              #Apple
+sse-ws-p189.apple.com                            #Apple
+sso.corp.apple.com                               #Apple
+st14p02sa.guzzoni-apple.com.akadns.net           #Apple
+static.ess.apple.com                             #Apple
+static.ess.cdn-apple.com.akadns.net              #Apple
+static.gc.apple.com                              #Apple
+static.ips.apple.com                             #Apple
+suconfig.apple.com                               #Apple
+swcdn.apple.com.akadns.net                       #Apple
+swdist.apple.com                                 #Apple
+swdlp.apple.com                                  #Apple
+swdlp-static.apple.com                           #Apple
+swpost.apple.com                                 #Apple
+swscan-cdn.apple.com.akadns.net                  #Apple
+tbsc.apple.com                                   #Apple
+td1.apple.com                                    #Apple
+td2.apple.com                                    #Apple
+td3.apple.com                                    #Apple
+td4.apple.com                                    #Apple
+timestamp.apple.com                              #Apple
+trackingshipment.apple.com                       #Apple
+turn.gc.apple.com                                #Apple
+upp.itunes.apple.com                             #Apple
+uschi.ce.apple-dns.net                           #Apple
+us-east-1-dynamic.meta-weights.apple-dns.net     #Apple
+userpub.itunes.apple.com                         #Apple
+usmin.ce.apple-dns.net                           #Apple
+uts-api.itunes.apple.com                         #Apple
+vocabulary.itunes.apple.com                      #Apple
+webservices.mac.com                              #Apple
+wu.apple.com                                     #Apple
+wu-charts.apple.com                              #Apple
+wu-converter.apple.com                           #Apple
+wu-nwk.apple.com.akadns.net                      #Apple
+wu-quotes.apple.com                              #Apple
+xp.itunes-apple.com.akadns.net                   #Apple
+z2r0y.apple.com                                  #Apple
 audioeye.com                                   #AudioEye
 cdn.audioeye.com                               #AudioEye
 d5c8kzvnetr32.cloudfront.net                   #AudioEye
@@ -276,6 +387,7 @@ static.curations.bazaarvoice.com               #Bazaarvoice
 li.cnn.com                                   #CNN
 newsource-embed-prd.ns.cnn.com               #CNN
 registry.api.cnn.io                          #CNN
+datadome.co                          #DataDome (Bot Prevention)
 smartsourcestaging.dell.com                      #Dell
 block.dropbox.com                            #DropBox
 block-edge-1.dropbox.com                     #DropBox
@@ -401,11 +513,13 @@ fcm-stream.googleapis.com                      #Google
 federatedml-pa.googleapis.com                  #Google
 feelinsonice.l.google.com                      #Google
 feelinsonice-mvm.l.google.com                  #Google
+firebaseinstallations.googleapis.com           #Google
 footprints-pa.googleapis.com                   #Google
 gem-pa.googleapis.com                          #Google
 googlecommerce.com                             #Google
 googlehomefoyer-pa.googleapis.com              #Google
 googleoptimize.com                             #Google
+infinitedata-pa.googleapis.com                 #Google
 khmdb.google.com                               #Google
 lh2.l.google.com                               #Google
 lh3.google.com                                 #Google
@@ -453,7 +567,782 @@ incapdns.net                                  #Incapsula (Site Security)
 n2e79bn.x.incapdns.net                        #Incapsula (Site Security)
 rin7m.x.incapdns.net                          #Incapsula (Site Security)
 acp-magento.appspot.com                      #InstantSearch+
-wl.batesvilletechnology.com                      #JurrensFuneralHome.com
+2znp09oa.com                             #Leven Labs, Inc.
+4jnzhl0d0.com                            #Leven Labs, Inc.
+5mcwl.pw                                 #Leven Labs, Inc.
+6ldu6qa.com                              #Leven Labs, Inc.
+82o9v830.com                             #Leven Labs, Inc.
+abackchain.com                           #Leven Labs, Inc.
+abandonedaction.com                      #Leven Labs, Inc.
+abashedangle.com                         #Leven Labs, Inc.
+aboardamusement.com                      #Leven Labs, Inc.
+aboardlevel.com                          #Leven Labs, Inc.
+aboriginalboats.com                      #Leven Labs, Inc.
+abruptroad.com                           #Leven Labs, Inc.
+absentstream.com                         #Leven Labs, Inc.
+absorbingband.com                        #Leven Labs, Inc.
+absorbingcorn.com                        #Leven Labs, Inc.
+absorbingprison.com                      #Leven Labs, Inc.
+abstractedamount.com                     #Leven Labs, Inc.
+absurdapple.com                          #Leven Labs, Inc.
+absurdwater.com                          #Leven Labs, Inc.
+acidpigs.com                             #Leven Labs, Inc.
+acquireattention.com                     #Leven Labs, Inc.
+acridtwist.com                           #Leven Labs, Inc.
+actuallysheep.com                        #Leven Labs, Inc.
+actuallysnake.com                        #Leven Labs, Inc.
+advertisementafterthought.com            #Leven Labs, Inc.
+afraidlanguage.com                       #Leven Labs, Inc.
+agreeablestew.com                        #Leven Labs, Inc.
+agreeabletouch.com                       #Leven Labs, Inc.
+aheadday.com                             #Leven Labs, Inc.
+ajaralarm.com                            #Leven Labs, Inc.
+ak0gsh40.com                             #Leven Labs, Inc.
+alertafterthought.com                    #Leven Labs, Inc.
+alikeaddition.com                        #Leven Labs, Inc.
+alikearm.com                             #Leven Labs, Inc.
+aliveachiever.com                        #Leven Labs, Inc.
+alleyarm.com                             #Leven Labs, Inc.
+allowmailbox.com                         #Leven Labs, Inc.
+aloofmetal.com                           #Leven Labs, Inc.
+amazingairplane.com                      #Leven Labs, Inc.
+ambiguousalarm.com                       #Leven Labs, Inc.
+ambiguousquilt.com                       #Leven Labs, Inc.
+ambitiousagreement.com                   #Leven Labs, Inc.
+annoyedfifth.com                         #Leven Labs, Inc.
+anxiousapples.com                        #Leven Labs, Inc.
+apathetictheory.com                      #Leven Labs, Inc.
+applesarmy.com                           #Leven Labs, Inc.
+aquaticowl.com                           #Leven Labs, Inc.
+ar1nvz5.com                              #Leven Labs, Inc.
+archswimming.com                         #Leven Labs, Inc.
+arcticamber.com                          #Leven Labs, Inc.
+argyresthia.com                          #Leven Labs, Inc.
+ariseboundary.com                        #Leven Labs, Inc.
+arithmeticadjustment.com                 #Leven Labs, Inc.
+aromamirror.com                          #Leven Labs, Inc.
+attractiveafternoon.com                  #Leven Labs, Inc.
+attractivecap.com                        #Leven Labs, Inc.
+audioarctic.com                          #Leven Labs, Inc.
+auntants.com                             #Leven Labs, Inc.
+automaticflock.com                       #Leven Labs, Inc.
+automaticside.com                        #Leven Labs, Inc.
+awakebird.com                            #Leven Labs, Inc.
+awzbijw.com                              #Leven Labs, Inc.
+axiomaticalley.com                       #Leven Labs, Inc.
+bagbeam.com                              #Leven Labs, Inc.
+balancebreath.com                        #Leven Labs, Inc.
+balloonbit.com                           #Leven Labs, Inc.
+balloontexture.com                       #Leven Labs, Inc.
+bandborder.com                           #Leven Labs, Inc.
+barbarousnerve.com                       #Leven Labs, Inc.
+basketballbelieve.com                    #Leven Labs, Inc.
+baskettexture.com                        #Leven Labs, Inc.
+batbuilding.com                          #Leven Labs, Inc.
+battlebalance.com                        #Leven Labs, Inc.
+battlehope.com                           #Leven Labs, Inc.
+bawdybeast.com                           #Leven Labs, Inc.
+bawdypets.com                            #Leven Labs, Inc.
+beadbears.com                            #Leven Labs, Inc.
+beamincrease.com                         #Leven Labs, Inc.
+beastbeef.com                            #Leven Labs, Inc.
+beneficialbeef.com                       #Leven Labs, Inc.
+benthose.com                             #Leven Labs, Inc.
+bestboundary.com                         #Leven Labs, Inc.
+bewilderedblade.com                      #Leven Labs, Inc.
+bhcumsc.com                              #Leven Labs, Inc.
+billowybead.com                          #Leven Labs, Inc.
+blotburn.com                             #Leven Labs, Inc.
+blushingbeast.com                        #Leven Labs, Inc.
+blushingboundary.com                     #Leven Labs, Inc.
+boilingbeetle.com                        #Leven Labs, Inc.
+boilingumbrella.com                      #Leven Labs, Inc.
+boneregret.com                           #Leven Labs, Inc.
+boredborder.com                          #Leven Labs, Inc.
+boredcrown.com                           #Leven Labs, Inc.
+boringcoat.com                           #Leven Labs, Inc.
+bouncyproperty.com                       #Leven Labs, Inc.
+bravebone.com                            #Leven Labs, Inc.
+breakfastboat.com                        #Leven Labs, Inc.
+briefbears.com                           #Leven Labs, Inc.
+broadboundary.com                        #Leven Labs, Inc.
+broadcastbed.com                         #Leven Labs, Inc.
+broaddoor.com                            #Leven Labs, Inc.
+brothersbucket.com                       #Leven Labs, Inc.
+bruisebaseball.com                       #Leven Labs, Inc.
+btez8.xyz                                #Leven Labs, Inc.
+bucketbean.com                           #Leven Labs, Inc.
+bulbbait.com                             #Leven Labs, Inc.
+burgerbrush.com                          #Leven Labs, Inc.
+burnbubble.com                           #Leven Labs, Inc.
+businessbells.com                        #Leven Labs, Inc.
+bustlinganimal.com                       #Leven Labs, Inc.
+butterbulb.com                           #Leven Labs, Inc.
+butterburst.com                          #Leven Labs, Inc.
+calculatingcircle.com                    #Leven Labs, Inc.
+calculatingtoothbrush.com                #Leven Labs, Inc.
+calculatorcamera.com                     #Leven Labs, Inc.
+calculatorstatement.com                  #Leven Labs, Inc.
+callousbrake.com                         #Leven Labs, Inc.
+calmcactus.com                           #Leven Labs, Inc.
+cannonjudo.com                           #Leven Labs, Inc.
+cannontwin.com                           #Leven Labs, Inc.
+capablecows.com                          #Leven Labs, Inc.
+capablecup.com                           #Leven Labs, Inc.
+capriciouscorn.com                       #Leven Labs, Inc.
+capsquirrel.com                          #Leven Labs, Inc.
+caringzinc.com                           #Leven Labs, Inc.
+carpentercomparison.com                  #Leven Labs, Inc.
+carriagecan.com                          #Leven Labs, Inc.
+carscannon.com                           #Leven Labs, Inc.
+catschickens.com                         #Leven Labs, Inc.
+causecherry.com                          #Leven Labs, Inc.
+cautiouscrate.com                        #Leven Labs, Inc.
+cautiouscredit.com                       #Leven Labs, Inc.
+chairscrack.com                          #Leven Labs, Inc.
+channelcamp.com                          #Leven Labs, Inc.
+cheerfulrange.com                        #Leven Labs, Inc.
+chemicalcoach.com                        #Leven Labs, Inc.
+chemicalsnake.com                        #Leven Labs, Inc.
+chesscolor.com                           #Leven Labs, Inc.
+chewcoat.com                             #Leven Labs, Inc.
+chickensstation.com                      #Leven Labs, Inc.
+chinsnakes.com                           #Leven Labs, Inc.
+chunkycactus.com                         #Leven Labs, Inc.
+clearcabbage.com                         #Leven Labs, Inc.
+clearcomb.com                            #Leven Labs, Inc.
+cloisteredcord.com                       #Leven Labs, Inc.
+cloisteredhydrant.com                    #Leven Labs, Inc.
+cloudsdestruction.com                    #Leven Labs, Inc.
+coachquartz.com                          #Leven Labs, Inc.
+colorfulafterthought.com                 #Leven Labs, Inc.
+colossalchance.com                       #Leven Labs, Inc.
+comfortablecheese.com                    #Leven Labs, Inc.
+commonswing.com                          #Leven Labs, Inc.
+completecabbage.com                      #Leven Labs, Inc.
+complextoad.com                          #Leven Labs, Inc.
+concernedcondition.com                   #Leven Labs, Inc.
+conditioncrush.com                       #Leven Labs, Inc.
+consciouschairs.com                      #Leven Labs, Inc.
+consciousdirt.com                        #Leven Labs, Inc.
+consistpotato.com                        #Leven Labs, Inc.
+controlswim.com                          #Leven Labs, Inc.
+coordinatedbedroom.com                   #Leven Labs, Inc.
+coordinatedcoat.com                      #Leven Labs, Inc.
+coordinatedcub.com                       #Leven Labs, Inc.
+copperchickens.com                       #Leven Labs, Inc.
+copycarpenter.com                        #Leven Labs, Inc.
+copyrightaccesscontrols.com              #Leven Labs, Inc.
+correctchaos.com                         #Leven Labs, Inc.
+cosmosjackson.com                        #Leven Labs, Inc.
+crabbychin.com                           #Leven Labs, Inc.
+crawlclocks.com                          #Leven Labs, Inc.
+crayoncompetition.com                    #Leven Labs, Inc.
+critictruck.com                          #Leven Labs, Inc.
+cubchannel.com                           #Leven Labs, Inc.
+culturedcrayon.com                       #Leven Labs, Inc.
+cumbersomecloud.com                      #Leven Labs, Inc.
+curtaincows.com                          #Leven Labs, Inc.
+cutecushion.com                          #Leven Labs, Inc.
+cuteturkey.com                           #Leven Labs, Inc.
+damdoor.com                              #Leven Labs, Inc.
+dancemistake.com                         #Leven Labs, Inc.
+dapperfloor.com                          #Leven Labs, Inc.
+dashingdirt.com                          #Leven Labs, Inc.
+dashingsweater.com                       #Leven Labs, Inc.
+deadpantruck.com                         #Leven Labs, Inc.
+debonairway.com                          #Leven Labs, Inc.
+decidedrum.com                           #Leven Labs, Inc.
+decisivedrawer.com                       #Leven Labs, Inc.
+decisiveducks.com                        #Leven Labs, Inc.
+decoroustitle.com                        #Leven Labs, Inc.
+decoycreation.com                        #Leven Labs, Inc.
+defectivesun.com                         #Leven Labs, Inc.
+defiantrice.com                          #Leven Labs, Inc.
+delegatediscussion.com                   #Leven Labs, Inc.
+delightfulhour.com                       #Leven Labs, Inc.
+desertedbreath.com                       #Leven Labs, Inc.
+desertedrat.com                          #Leven Labs, Inc.
+desiredirt.com                           #Leven Labs, Inc.
+detailedglue.com                         #Leven Labs, Inc.
+detailedgovernment.com                   #Leven Labs, Inc.
+detailedkitten.com                       #Leven Labs, Inc.
+detectdinner.com                         #Leven Labs, Inc.
+detectdiscovery.com                      #Leven Labs, Inc.
+diplomahawaii.com                        #Leven Labs, Inc.
+discreetfield.com                        #Leven Labs, Inc.
+dispensablestranger.com                  #Leven Labs, Inc.
+distinctday.com                          #Leven Labs, Inc.
+divergentoffer.com                       #Leven Labs, Inc.
+dk4ywix.com                              #Leven Labs, Inc.
+docksalmon.com                           #Leven Labs, Inc.
+dogsshoes.com                            #Leven Labs, Inc.
+dollardelta.com                          #Leven Labs, Inc.
+donkeyleaf.com                           #Leven Labs, Inc.
+doorbrazil.com                           #Leven Labs, Inc.
+doubtfulrainstorm.com                    #Leven Labs, Inc.
+dq95d35.com                              #Leven Labs, Inc.
+drabsize.com                             #Leven Labs, Inc.
+draconiancurve.com                       #Leven Labs, Inc.
+dragzebra.com                            #Leven Labs, Inc.
+drawservant.com                          #Leven Labs, Inc.
+dripappliance.com                        #Leven Labs, Inc.
+driverequest.com                         #Leven Labs, Inc.
+drivingdirt.com                          #Leven Labs, Inc.
+drydrum.com                              #Leven Labs, Inc.
+dustywave.com                            #Leven Labs, Inc.
+earthquakescarf.com                      #Leven Labs, Inc.
+earthycopy.com                           #Leven Labs, Inc.
+economicpizzas.com                       #Leven Labs, Inc.
+efficaciouscactus.com                    #Leven Labs, Inc.
+ejyymghi.com                             #Leven Labs, Inc.
+elasticchange.com                        #Leven Labs, Inc.
+elderlyinsect.com                        #Leven Labs, Inc.
+elderlyscissors.com                      #Leven Labs, Inc.
+elderlytown.com                          #Leven Labs, Inc.
+elephantqueue.com                        #Leven Labs, Inc.
+eliminateeffect.com                      #Leven Labs, Inc.
+enchantedtop.com                         #Leven Labs, Inc.
+encourageidea.com                        #Leven Labs, Inc.
+encouragingwilderness.com                #Leven Labs, Inc.
+endurablecrayon.com                      #Leven Labs, Inc.
+endurableshop.com                        #Leven Labs, Inc.
+energeticexample.com                     #Leven Labs, Inc.
+enthusiasticdad.com                      #Leven Labs, Inc.
+enviousshape.com                         #Leven Labs, Inc.
+enviousthread.com                        #Leven Labs, Inc.
+erraticreaction.com                      #Leven Labs, Inc.
+errortablet.com                          #Leven Labs, Inc.
+evanescentedge.com                       #Leven Labs, Inc.
+exclusivebrass.com                       #Leven Labs, Inc.
+excuseearthquake.com                     #Leven Labs, Inc.
+experienceeggs.com                       #Leven Labs, Inc.
+exuberantsoda.com                        #Leven Labs, Inc.
+facilitategrandfather.com                #Leven Labs, Inc.
+fadedprofit.com                          #Leven Labs, Inc.
+fadedsnow.com                            #Leven Labs, Inc.
+falsefeet.com                            #Leven Labs, Inc.
+falseframe.com                           #Leven Labs, Inc.
+familiarrod.com                          #Leven Labs, Inc.
+famousquarter.com                        #Leven Labs, Inc.
+fantasticsmash.com                       #Leven Labs, Inc.
+farethief.com                            #Leven Labs, Inc.
+farmergoldfish.com                       #Leven Labs, Inc.
+farshake.com                             #Leven Labs, Inc.
+fascinatedfeather.com                    #Leven Labs, Inc.
+faultycanvas.com                         #Leven Labs, Inc.
+faultyfowl.com                           #Leven Labs, Inc.
+fearfowl.com                             #Leven Labs, Inc.
+fearfulfish.com                          #Leven Labs, Inc.
+feebleshock.com                          #Leven Labs, Inc.
+finalizeforce.com                        #Leven Labs, Inc.
+flakyfeast.com                           #Leven Labs, Inc.
+flimsycircle.com                         #Leven Labs, Inc.
+flimsythought.com                        #Leven Labs, Inc.
+flockflame.com                           #Leven Labs, Inc.
+floodprincipal.com                       #Leven Labs, Inc.
+floweryoperation.com                     #Leven Labs, Inc.
+forecasttiger.com                        #Leven Labs, Inc.
+foregoingfowl.com                        #Leven Labs, Inc.
+forgetfulflowers.com                     #Leven Labs, Inc.
+fourarithmetic.com                       #Leven Labs, Inc.
+fourfork.com                             #Leven Labs, Inc.
+frailflock.com                           #Leven Labs, Inc.
+frailoffer.com                           #Leven Labs, Inc.
+franticcarpenter.com                     #Leven Labs, Inc.
+fretfulfurniture.com                     #Leven Labs, Inc.
+frightenedpotato.com                     #Leven Labs, Inc.
+functionalcrown.com                      #Leven Labs, Inc.
+funnyairplane.com                        #Leven Labs, Inc.
+furryhorses.com                          #Leven Labs, Inc.
+futuristicapparatus.com                  #Leven Labs, Inc.
+futuristicfairies.com                    #Leven Labs, Inc.
+futuristicfear.com                       #Leven Labs, Inc.
+futuristicfifth.com                      #Leven Labs, Inc.
+futuristicfold.com                       #Leven Labs, Inc.
+fuzzyflavor.com                          #Leven Labs, Inc.
+fuzzyweather.com                         #Leven Labs, Inc.
+gammamaximum.com                         #Leven Labs, Inc.
+giddycoat.com                            #Leven Labs, Inc.
+giftedglue.com                           #Leven Labs, Inc.
+giftedthumb.com                          #Leven Labs, Inc.
+giraffepiano.com                         #Leven Labs, Inc.
+gleamingtrade.com                        #Leven Labs, Inc.
+gloriousbeef.com                         #Leven Labs, Inc.
+gloriouscracker.com                      #Leven Labs, Inc.
+glossysense.com                          #Leven Labs, Inc.
+gondolagnome.com                         #Leven Labs, Inc.
+gorgeousground.com                       #Leven Labs, Inc.
+gossipmiser.com                          #Leven Labs, Inc.
+gracefulsock.com                         #Leven Labs, Inc.
+grandioseguide.com                       #Leven Labs, Inc.
+greasegarden.com                         #Leven Labs, Inc.
+greasemotion.com                         #Leven Labs, Inc.
+greasysquare.com                         #Leven Labs, Inc.
+greetzebra.com                           #Leven Labs, Inc.
+greyinstrument.com                       #Leven Labs, Inc.
+guardedschool.com                        #Leven Labs, Inc.
+guiltlessbasketball.com                  #Leven Labs, Inc.
+gulliblecamp.com                         #Leven Labs, Inc.
+h78xb.pw                                 #Leven Labs, Inc.
+haltingbadge.com                         #Leven Labs, Inc.
+hammerhearing.com                        #Leven Labs, Inc.
+handleteeth.com                          #Leven Labs, Inc.
+handsomeindustry.com                     #Leven Labs, Inc.
+handyfield.com                           #Leven Labs, Inc.
+happenhistory.com                        #Leven Labs, Inc.
+harborcub.com                            #Leven Labs, Inc.
+hardtofindmilk.com                       #Leven Labs, Inc.
+headyhook.com                            #Leven Labs, Inc.
+heavyplayground.com                      #Leven Labs, Inc.
+hfc195b.com                              #Leven Labs, Inc.
+highfalutinbox.com                       #Leven Labs, Inc.
+highfalutinroom.com                      #Leven Labs, Inc.
+hilariouszinc.com                        #Leven Labs, Inc.
+historicalbeam.com                       #Leven Labs, Inc.
+historicalrequest.com                    #Leven Labs, Inc.
+hollowshake.com                          #Leven Labs, Inc.
+homelycrown.com                          #Leven Labs, Inc.
+honeybulb.com                            #Leven Labs, Inc.
+honeygoldfish.com                        #Leven Labs, Inc.
+honorablehall.com                        #Leven Labs, Inc.
+honorableland.com                        #Leven Labs, Inc.
+horsenectar.com                          #Leven Labs, Inc.
+humdrumhat.com                           #Leven Labs, Inc.
+hurtgrape.com                            #Leven Labs, Inc.
+hurtteeth.com                            #Leven Labs, Inc.
+hypnoticwound.com                        #Leven Labs, Inc.
+hystericalhelp.com                       #Leven Labs, Inc.
+i9w8p.pw                                 #Leven Labs, Inc.
+icebergindigo.com                        #Leven Labs, Inc.
+illfatedsnail.com                        #Leven Labs, Inc.
+illustriousoatmeal.com                   #Leven Labs, Inc.
+immensehoney.com                         #Leven Labs, Inc.
+importedincrease.com                     #Leven Labs, Inc.
+importedinsect.com                       #Leven Labs, Inc.
+importedplay.com                         #Leven Labs, Inc.
+importedpolice.com                       #Leven Labs, Inc.
+importlocate.com                         #Leven Labs, Inc.
+impossibleexpansion.com                  #Leven Labs, Inc.
+impossiblemove.com                       #Leven Labs, Inc.
+impulsehands.com                         #Leven Labs, Inc.
+informengine.com                         #Leven Labs, Inc.
+innocentinvention.com                    #Leven Labs, Inc.
+innocentwax.com                          #Leven Labs, Inc.
+inquisitiveinvention.com                 #Leven Labs, Inc.
+instrumentsponge.com                     #Leven Labs, Inc.
+intelligentscissors.com                  #Leven Labs, Inc.
+internalsink.com                         #Leven Labs, Inc.
+inventionpassenger.com                   #Leven Labs, Inc.
+investigatepin.com                       #Leven Labs, Inc.
+inviterabbits.com                        #Leven Labs, Inc.
+invitesugar.com                          #Leven Labs, Inc.
+ivykiosk.com                             #Leven Labs, Inc.
+j93557g.com                              #Leven Labs, Inc.
+jadeitite.com                            #Leven Labs, Inc.
+jamexistence.com                         #Leven Labs, Inc.
+justicejudo.com                          #Leven Labs, Inc.
+k54nw.pw                                 #Leven Labs, Inc.
+kitesquirrel.com                         #Leven Labs, Inc.
+knifeoctopus.com                         #Leven Labs, Inc.
+knottysticks.com                         #Leven Labs, Inc.
+lagoonolivia.com                         #Leven Labs, Inc.
+lamplow.com                              #Leven Labs, Inc.
+languagelake.com                         #Leven Labs, Inc.
+laughablecopper.com                      #Leven Labs, Inc.
+laughcloth.com                           #Leven Labs, Inc.
+leaplunchroom.com                        #Leven Labs, Inc.
+leftliquid.com                           #Leven Labs, Inc.
+lettucelimit.com                         #Leven Labs, Inc.
+levelbehavior.com                        #Leven Labs, Inc.
+lightcushion.com                         #Leven Labs, Inc.
+livelumber.com                           #Leven Labs, Inc.
+lizardslaugh.com                         #Leven Labs, Inc.
+longinglettuce.com                       #Leven Labs, Inc.
+lorenzourban.com                         #Leven Labs, Inc.
+loudloss.com                             #Leven Labs, Inc.
+loudlunch.com                            #Leven Labs, Inc.
+lowlocket.com                            #Leven Labs, Inc.
+lp3tdqle.com                             #Leven Labs, Inc.
+lumberamount.com                         #Leven Labs, Inc.
+lumpylumber.com                          #Leven Labs, Inc.
+maddeningpowder.com                      #Leven Labs, Inc.
+magnetairport.com                        #Leven Labs, Inc.
+magnificentmist.com                      #Leven Labs, Inc.
+maniacalappliance.com                    #Leven Labs, Inc.
+markedcrayon.com                         #Leven Labs, Inc.
+markedmeasure.com                        #Leven Labs, Inc.
+markedpail.com                           #Leven Labs, Inc.
+massivemark.com                          #Leven Labs, Inc.
+materialisticfan.com                     #Leven Labs, Inc.
+materialmoon.com                         #Leven Labs, Inc.
+meatydime.com                            #Leven Labs, Inc.
+medusasailor.com                         #Leven Labs, Inc.
+memopilot.com                            #Leven Labs, Inc.
+memorizeneck.com                         #Leven Labs, Inc.
+memorycobweb.com                         #Leven Labs, Inc.
+meremark.com                             #Leven Labs, Inc.
+messagenovice.com                        #Leven Labs, Inc.
+mightyspiders.com                        #Leven Labs, Inc.
+militaryverse.com                        #Leven Labs, Inc.
+mimosamajor.com                          #Leven Labs, Inc.
+minormeeting.com                         #Leven Labs, Inc.
+mixedreading.com                         #Leven Labs, Inc.
+modifyeyes.com                           #Leven Labs, Inc.
+moldyicicle.com                          #Leven Labs, Inc.
+motionlessbag.com                        #Leven Labs, Inc.
+mountainouspear.com                      #Leven Labs, Inc.
+movemeal.com                             #Leven Labs, Inc.
+mowfruit.com                             #Leven Labs, Inc.
+mundanepollution.com                     #Leven Labs, Inc.
+murkymeeting.com                         #Leven Labs, Inc.
+mysteriousmonth.com                      #Leven Labs, Inc.
+necessarywax.com                         #Leven Labs, Inc.
+neighborlywatch.com                      #Leven Labs, Inc.
+nervoussummer.com                        #Leven Labs, Inc.
+niftyhospital.com                        #Leven Labs, Inc.
+niftyjelly.com                           #Leven Labs, Inc.
+noiselessplough.com                      #Leven Labs, Inc.
+nondescriptcrowd.com                     #Leven Labs, Inc.
+nondescriptsmile.com                     #Leven Labs, Inc.
+nondescriptstocking.com                  #Leven Labs, Inc.
+nostalgicknot.com                        #Leven Labs, Inc.
+nullnorth.com                            #Leven Labs, Inc.
+nuttyorganization.com                    #Leven Labs, Inc.
+obscenesidewalk.com                      #Leven Labs, Inc.
+observantice.com                         #Leven Labs, Inc.
+omniscientfeeling.com                    #Leven Labs, Inc.
+omniscientspark.com                      #Leven Labs, Inc.
+operationkettle.com                      #Leven Labs, Inc.
+oppositeoperation.com                    #Leven Labs, Inc.
+optimallimit.com                         #Leven Labs, Inc.
+orangeoperation.com                      #Leven Labs, Inc.
+overconfidentfood.com                    #Leven Labs, Inc.
+overratedchalk.com                       #Leven Labs, Inc.
+owlsr.us                                 #Leven Labs, Inc.
+paddleangle.com                          #Leven Labs, Inc.
+paleleaf.com                             #Leven Labs, Inc.
+pamelarandom.com                         #Leven Labs, Inc.
+panoramicbutter.com                      #Leven Labs, Inc.
+paradoxfactor.com                        #Leven Labs, Inc.
+parcelcreature.com                       #Leven Labs, Inc.
+parchedangle.com                         #Leven Labs, Inc.
+parsimoniouspolice.com                   #Leven Labs, Inc.
+partplanes.com                           #Leven Labs, Inc.
+pastoralcorn.com                         #Leven Labs, Inc.
+pedropanther.com                         #Leven Labs, Inc.
+pegasusplate.com                         #Leven Labs, Inc.
+penspade.com                             #Leven Labs, Inc.
+perceivequarter.com                      #Leven Labs, Inc.
+perpetualpail.com                        #Leven Labs, Inc.
+persuadesock.com                         #Leven Labs, Inc.
+petiteumbrella.com                       #Leven Labs, Inc.
+photographpan.com                        #Leven Labs, Inc.
+pietexture.com                           #Leven Labs, Inc.
+pigspie.com                              #Leven Labs, Inc.
+piquantpigs.com                          #Leven Labs, Inc.
+piquantstove.com                         #Leven Labs, Inc.
+pizzasnut.com                            #Leven Labs, Inc.
+plainplayground.com                      #Leven Labs, Inc.
+plantdigestion.com                       #Leven Labs, Inc.
+plantpotato.com                          #Leven Labs, Inc.
+politegoldfish.com                       #Leven Labs, Inc.
+possessivebucket.com                     #Leven Labs, Inc.
+possibleboats.com                        #Leven Labs, Inc.
+preciouseffect.com                       #Leven Labs, Inc.
+preciousyoke.com                         #Leven Labs, Inc.
+prefixpatriot.com                        #Leven Labs, Inc.
+prepareplanes.com                        #Leven Labs, Inc.
+presetrabbits.com                        #Leven Labs, Inc.
+presssensor.com                          #Leven Labs, Inc.
+previousplayground.com                   #Leven Labs, Inc.
+previouspotato.com                       #Leven Labs, Inc.
+printerplasma.com                        #Leven Labs, Inc.
+productivepear.com                       #Leven Labs, Inc.
+profitrumour.com                         #Leven Labs, Inc.
+profusesupport.com                       #Leven Labs, Inc.
+puffyloss.com                            #Leven Labs, Inc.
+puffypull.com                            #Leven Labs, Inc.
+puffypurpose.com                         #Leven Labs, Inc.
+purchasesuggestion.com                   #Leven Labs, Inc.
+quacksquirrel.com                        #Leven Labs, Inc.
+quaintcan.com                            #Leven Labs, Inc.
+quarterbean.com                          #Leven Labs, Inc.
+quicksandear.com                         #Leven Labs, Inc.
+quietknowledge.com                       #Leven Labs, Inc.
+quizzicalzephyr.com                      #Leven Labs, Inc.
+railwayrainstorm.com                     #Leven Labs, Inc.
+raintwig.com                             #Leven Labs, Inc.
+rainyhand.com                            #Leven Labs, Inc.
+rainystretch.com                         #Leven Labs, Inc.
+rapidkittens.com                         #Leven Labs, Inc.
+raresummer.com                           #Leven Labs, Inc.
+readgoldfish.com                         #Leven Labs, Inc.
+readingguilt.com                         #Leven Labs, Inc.
+readingopera.com                         #Leven Labs, Inc.
+readymoon.com                            #Leven Labs, Inc.
+readysnails.com                          #Leven Labs, Inc.
+realizerecess.com                        #Leven Labs, Inc.
+realizevacation.com                      #Leven Labs, Inc.
+rebelsubway.com                          #Leven Labs, Inc.
+receptivebranch.com                      #Leven Labs, Inc.
+receptiveink.com                         #Leven Labs, Inc.
+receptivereaction.com                    #Leven Labs, Inc.
+reconditerake.com                        #Leven Labs, Inc.
+referdriving.com                         #Leven Labs, Inc.
+reflectivereward.com                     #Leven Labs, Inc.
+rememberroute.com                        #Leven Labs, Inc.
+repeatsweater.com                        #Leven Labs, Inc.
+replaceroute.com                         #Leven Labs, Inc.
+resolutekey.com                          #Leven Labs, Inc.
+resonantbrush.com                        #Leven Labs, Inc.
+resonantrock.com                         #Leven Labs, Inc.
+respectrain.com                          #Leven Labs, Inc.
+rhetoricalloss.com                       #Leven Labs, Inc.
+rhymezebra.com                           #Leven Labs, Inc.
+rhythmmoney.com                          #Leven Labs, Inc.
+richstring.com                           #Leven Labs, Inc.
+ringplayground.com                       #Leven Labs, Inc.
+ringsrecord.com                          #Leven Labs, Inc.
+riserange.com                            #Leven Labs, Inc.
+ritzykey.com                             #Leven Labs, Inc.
+robustbelieve.com                        #Leven Labs, Inc.
+rodeopolice.com                          #Leven Labs, Inc.
+roofrelation.com                         #Leven Labs, Inc.
+roughroll.com                            #Leven Labs, Inc.
+ruddycast.com                            #Leven Labs, Inc.
+rusticprice.com                          #Leven Labs, Inc.
+ruthlessdegree.com                       #Leven Labs, Inc.
+ruthlessmilk.com                         #Leven Labs, Inc.
+ruthlessrobin.com                        #Leven Labs, Inc.
+sablesmile.com                           #Leven Labs, Inc.
+sailsuit.com                             #Leven Labs, Inc.
+samestretch.com                          #Leven Labs, Inc.
+savoryorange.com                         #Leven Labs, Inc.
+savorystructure.com                      #Leven Labs, Inc.
+saysidewalk.com                          #Leven Labs, Inc.
+scarcesign.com                           #Leven Labs, Inc.
+scarecrowslip.com                        #Leven Labs, Inc.
+scaredcomfort.com                        #Leven Labs, Inc.
+scatteredheat.com                        #Leven Labs, Inc.
+scatteredstream.com                      #Leven Labs, Inc.
+scientificshirt.com                      #Leven Labs, Inc.
+scientificsneeze.com                     #Leven Labs, Inc.
+scintillatingscissors.com                #Leven Labs, Inc.
+scintillatingspace.com                   #Leven Labs, Inc.
+scratchsofa.com                          #Leven Labs, Inc.
+screechingfurniture.com                  #Leven Labs, Inc.
+scrollservice.com                        #Leven Labs, Inc.
+scrubsky.com                             #Leven Labs, Inc.
+scrubswim.com                            #Leven Labs, Inc.
+secretivecub.com                         #Leven Labs, Inc.
+secretspiders.com                        #Leven Labs, Inc.
+secretturtle.com                         #Leven Labs, Inc.
+seedscissors.com                         #Leven Labs, Inc.
+selectionship.com                        #Leven Labs, Inc.
+selectionsugar.com                       #Leven Labs, Inc.
+selectivesummer.com                      #Leven Labs, Inc.
+selfishsea.com                           #Leven Labs, Inc.
+separatesilver.com                       #Leven Labs, Inc.
+shakesea.com                             #Leven Labs, Inc.
+shakesuggestion.com                      #Leven Labs, Inc.
+shakytaste.com                           #Leven Labs, Inc.
+shallowsmile.com                         #Leven Labs, Inc.
+sharppatch.com                           #Leven Labs, Inc.
+shesubscriptions.com                     #Leven Labs, Inc.
+shockinggrass.com                        #Leven Labs, Inc.
+shockingship.com                         #Leven Labs, Inc.
+shopbreakfast.com                        #Leven Labs, Inc.
+shutseashore.com                         #Leven Labs, Inc.
+shyseed.com                              #Leven Labs, Inc.
+sicksmash.com                            #Leven Labs, Inc.
+silentcredit.com                         #Leven Labs, Inc.
+siliconslow.com                          #Leven Labs, Inc.
+silkysquirrel.com                        #Leven Labs, Inc.
+sillyscrew.com                           #Leven Labs, Inc.
+similarsabine.com                        #Leven Labs, Inc.
+sincerebuffalo.com                       #Leven Labs, Inc.
+sincerespy.com                           #Leven Labs, Inc.
+sixscissors.com                          #Leven Labs, Inc.
+sizesidewalk.com                         #Leven Labs, Inc.
+slaysweater.com                          #Leven Labs, Inc.
+sleepcartoon.com                         #Leven Labs, Inc.
+slimopinion.com                          #Leven Labs, Inc.
+slimyscarf.com                           #Leven Labs, Inc.
+slipperysack.com                         #Leven Labs, Inc.
+smashsurprise.com                        #Leven Labs, Inc.
+smilingshake.com                         #Leven Labs, Inc.
+smilingwaves.com                         #Leven Labs, Inc.
+smoggysnakes.com                         #Leven Labs, Inc.
+snailsengine.com                         #Leven Labs, Inc.
+snakemineral.com                         #Leven Labs, Inc.
+snakesshop.com                           #Leven Labs, Inc.
+sneakystamp.com                          #Leven Labs, Inc.
+sneakystew.com                           #Leven Labs, Inc.
+somberscarecrow.com                      #Leven Labs, Inc.
+sombersea.com                            #Leven Labs, Inc.
+sombersquirrel.com                       #Leven Labs, Inc.
+sombersurprise.com                       #Leven Labs, Inc.
+sootheside.com                           #Leven Labs, Inc.
+sophisticatedstove.com                   #Leven Labs, Inc.
+soresneeze.com                           #Leven Labs, Inc.
+sorethunder.com                          #Leven Labs, Inc.
+sortsummer.com                           #Leven Labs, Inc.
+sparklesleet.com                         #Leven Labs, Inc.
+sparklingnumber.com                      #Leven Labs, Inc.
+specialstatement.com                     #Leven Labs, Inc.
+spellsalsa.com                           #Leven Labs, Inc.
+spendpest.com                            #Leven Labs, Inc.
+spidersboats.com                         #Leven Labs, Inc.
+spiffymachine.com                        #Leven Labs, Inc.
+spirebaboon.com                          #Leven Labs, Inc.
+spookyslope.com                          #Leven Labs, Inc.
+spottednoise.com                         #Leven Labs, Inc.
+spottedsnow.com                          #Leven Labs, Inc.
+springaftermath.com                      #Leven Labs, Inc.
+spuriousbase.com                         #Leven Labs, Inc.
+spurioussteam.com                        #Leven Labs, Inc.
+spuriousstranger.com                     #Leven Labs, Inc.
+squashfriction.com                       #Leven Labs, Inc.
+squeakzinc.com                           #Leven Labs, Inc.
+squirrelhands.com                        #Leven Labs, Inc.
+stakingscrew.com                         #Leven Labs, Inc.
+stakingslope.com                         #Leven Labs, Inc.
+staleshow.com                            #Leven Labs, Inc.
+standingnest.com                         #Leven Labs, Inc.
+standtrouble.com                         #Leven Labs, Inc.
+statuesquebrush.com                      #Leven Labs, Inc.
+steadfastsound.com                       #Leven Labs, Inc.
+steadfastsystem.com                      #Leven Labs, Inc.
+steepsquirrel.com                        #Leven Labs, Inc.
+stickssheep.com                          #Leven Labs, Inc.
+stiffstem.com                            #Leven Labs, Inc.
+storescissors.com                        #Leven Labs, Inc.
+storeslope.com                           #Leven Labs, Inc.
+storesurprise.com                        #Leven Labs, Inc.
+stormyachiever.com                       #Leven Labs, Inc.
+stormysponge.com                         #Leven Labs, Inc.
+stoveseashore.com                        #Leven Labs, Inc.
+straightnest.com                         #Leven Labs, Inc.
+strangesink.com                          #Leven Labs, Inc.
+stripedburst.com                         #Leven Labs, Inc.
+strivesidewalk.com                       #Leven Labs, Inc.
+structurerod.com                         #Leven Labs, Inc.
+stupendoussleet.com                      #Leven Labs, Inc.
+subsequentswim.com                       #Leven Labs, Inc.
+substantialcarpenter.com                 #Leven Labs, Inc.
+succeedscene.com                         #Leven Labs, Inc.
+suddensidewalk.com                       #Leven Labs, Inc.
+suddensnake.com                          #Leven Labs, Inc.
+sugarcurtain.com                         #Leven Labs, Inc.
+sulkybutter.com                          #Leven Labs, Inc.
+summerobject.com                         #Leven Labs, Inc.
+superficialsquare.com                    #Leven Labs, Inc.
+supervisegoldfish.com                    #Leven Labs, Inc.
+supplysummer.com                         #Leven Labs, Inc.
+sweepsheep.com                           #Leven Labs, Inc.
+sweetslope.com                           #Leven Labs, Inc.
+swimslope.com                            #Leven Labs, Inc.
+swordgoose.com                           #Leven Labs, Inc.
+symbolizebeast.com                       #Leven Labs, Inc.
+systemizecoat.com                        #Leven Labs, Inc.
+talentedsteel.com                        #Leven Labs, Inc.
+tangibleteam.com                         #Leven Labs, Inc.
+tarttendency.com                         #Leven Labs, Inc.
+tastefulsongs.com                        #Leven Labs, Inc.
+tastelesstrees.com                       #Leven Labs, Inc.
+tawdryson.com                            #Leven Labs, Inc.
+tdzvm.pw                                 #Leven Labs, Inc.
+tedioustooth.com                         #Leven Labs, Inc.
+teenytinytongue.com                      #Leven Labs, Inc.
+teenyvolcano.com                         #Leven Labs, Inc.
+teethfan.com                             #Leven Labs, Inc.
+tempttalk.com                            #Leven Labs, Inc.
+tendertest.com                           #Leven Labs, Inc.
+terriblethumb.com                        #Leven Labs, Inc.
+texturetrick.com                         #Leven Labs, Inc.
+thicktrucks.com                          #Leven Labs, Inc.
+thingsafterthought.com                   #Leven Labs, Inc.
+thinkablefloor.com                       #Leven Labs, Inc.
+thinkablerice.com                        #Leven Labs, Inc.
+thinkabletrick.com                       #Leven Labs, Inc.
+thirdrespect.com                         #Leven Labs, Inc.
+thirstytwig.com                          #Leven Labs, Inc.
+thomastorch.com                          #Leven Labs, Inc.
+threechurch.com                          #Leven Labs, Inc.
+throattrees.com                          #Leven Labs, Inc.
+thunderingrose.com                       #Leven Labs, Inc.
+ticklesign.com                           #Leven Labs, Inc.
+timeterritory.com                        #Leven Labs, Inc.
+timetwig.com                             #Leven Labs, Inc.
+toecircle.com                            #Leven Labs, Inc.
+toedrawer.com                            #Leven Labs, Inc.
+toothbrushnote.com                       #Leven Labs, Inc.
+topichawaii.com                          #Leven Labs, Inc.
+torpidtongue.com                         #Leven Labs, Inc.
+toweringrun.com                          #Leven Labs, Inc.
+tranquilside.com                         #Leven Labs, Inc.
+translateoatmeal.com                     #Leven Labs, Inc.
+trappush.com                             #Leven Labs, Inc.
+treadbun.com                             #Leven Labs, Inc.
+tremendousplastic.com                    #Leven Labs, Inc.
+tremendoustime.com                       #Leven Labs, Inc.
+tremendoustreatment.com                  #Leven Labs, Inc.
+trickycelery.com                         #Leven Labs, Inc.
+troubledtail.com                         #Leven Labs, Inc.
+truckstomatoes.com                       #Leven Labs, Inc.
+tumblebirds.com                          #Leven Labs, Inc.
+typicalairplane.com                      #Leven Labs, Inc.
+typicalteeth.com                         #Leven Labs, Inc.
+tzwaw.pw                                 #Leven Labs, Inc.
+ubiquitousyard.com                       #Leven Labs, Inc.
+ultraoranges.com                         #Leven Labs, Inc.
+unarmedindustry.com                      #Leven Labs, Inc.
+unbecominghall.com                       #Leven Labs, Inc.
+uncoveredexpert.com                      #Leven Labs, Inc.
+unequalbrake.com                         #Leven Labs, Inc.
+unevenstring.com                         #Leven Labs, Inc.
+unknowntray.com                          #Leven Labs, Inc.
+untidyquestion.com                       #Leven Labs, Inc.
+untidyrice.com                           #Leven Labs, Inc.
+unusedquestion.com                       #Leven Labs, Inc.
+unusualtitle.com                         #Leven Labs, Inc.
+unwrittenspot.com                        #Leven Labs, Inc.
+usedexample.com                          #Leven Labs, Inc.
+uttermosthobbies.com                     #Leven Labs, Inc.
+vanfireworks.com                         #Leven Labs, Inc.
+venusgloria.com                          #Leven Labs, Inc.
+voicevegetable.com                       #Leven Labs, Inc.
+vq1qi.pw                                 #Leven Labs, Inc.
+waggishpig.com                           #Leven Labs, Inc.
+wakefulcook.com                          #Leven Labs, Inc.
+warmquiver.com                           #Leven Labs, Inc.
+waryfog.com                              #Leven Labs, Inc.
+wateryvan.com                            #Leven Labs, Inc.
+wellgroomedbat.com                       #Leven Labs, Inc.
+wellmadefrog.com                         #Leven Labs, Inc.
+whirlwealth.com                          #Leven Labs, Inc.
+whiskyqueue.com                          #Leven Labs, Inc.
+whisperingbadge.com                      #Leven Labs, Inc.
+whisperingcrib.com                       #Leven Labs, Inc.
+wigglygeese.com                          #Leven Labs, Inc.
+wigglyindustry.com                       #Leven Labs, Inc.
+wildernesscamera.com                     #Leven Labs, Inc.
+wirecomic.com                            #Leven Labs, Inc.
+wistfulflight.com                        #Leven Labs, Inc.
+womanear.com                             #Leven Labs, Inc.
+workableachiever.com                     #Leven Labs, Inc.
+workoperation.com                        #Leven Labs, Inc.
+worriednumber.com                        #Leven Labs, Inc.
+worrybutter.com                          #Leven Labs, Inc.
+wreckvolcano.com                         #Leven Labs, Inc.
+wrongpotato.com                          #Leven Labs, Inc.
+wryfinger.com                            #Leven Labs, Inc.
+xovq5nemr.com                            #Leven Labs, Inc.
+youngmarble.com                          #Leven Labs, Inc.
+zbwp6ghm.com                             #Leven Labs, Inc.
+zealousfield.com                         #Leven Labs, Inc.
+zlp6s.pw                                 #Leven Labs, Inc.
 media-akam.licdn.com                             #Linkedin - Most have single pixel, some have images
 autodiscover.cityofluverne.org               #Luverne - City
 hdwvmasogicqg.isd2184.net                    #Luverne - Public School District
@@ -510,6 +1399,9 @@ amoeba.web.roku.com                                #Roku TV
 monorail-edge.shopifysvc.com                              #Shopify
 monorail-production-web-tier2-central.shopifycloud.com    #Shopify
 monorail-production-web-tier2.shopifycloud.com            #Shopify
+api.solvvy.com                                    #Solvvy (Artificial Intelligence Customer Service & Support)
+cdn.solvvy.com                                    #Solvvy (Artificial Intelligence Customer Service & Support)
+solvvy.com                                        #Solvvy (Artificial Intelligence Customer Service & Support)
 data.midomi.com                                #SoundHound
 redoak.target.com                                #Target   (Scene7)
 digitalcontent.target.com                        #Target
@@ -561,928 +1453,15 @@ atsv2-fp.wg1.b.yahoo.com                     #Yahoo
 fc.yahoo.com                                 #Yahoo
 ganon.yahoo.com                              #Yahoo
 lh.secure.yahoo.com                          #Yahoo
-
-
-#############################
-# Apple
-#############################
-commnat-cohort-gc.ess.apple.com
-commnat-main-gc.ess.apple.com
-apple.com.edgekey.net.globalredir.akadns.net
-apple-dns.net
-bag.itunes.apple.com
-basejumper.apple.com
-c.apple.news
-cdn.cvws.apple-dns.net
-cds.apple.com
-cdsassets.apple.com
-cl3-cdn.origin-apple.com.akadns.net
-cl4.apple.com
-cl5.apple.com
-cma.itunes.apple.com
-cp7vi.apple.com
-crl.apple.com
-depot.info.apple.com
-df6ed.apple.com
-edge-002.usmin.ce.apple-dns.net
-edge.icloud.apple-dns.net
-event.apple.com
-fdereg.apple.com
-fe.apple-dns.net
-friend.gc.apple.com
-gateway-carry.icloud.com
-gil.apple.com.akadns.net
-gir.apple.com
-gsa.apple.com
-gsa.apple.com.akadns.net
-gsas.apple.com
-gsas.apple.com.akadns.net
-gsp2.apple.com
-gsp-ssl.ls2-apple.com.akadns.net
-gz8rm.apple.com
-hello.connectivity.me.com
-homesharing.itunes.apple.com
-icalbridge.apple.com
-icalserver.apple.com
-iclab.apple.com
-icloud.apple-dns.net
-identity.apple.com
-identity.ess.apple.com
-identity.ess-apple.com.akadns.net
-identity.ess.apple.com.akadns.net
-init.ess.apple.com
-init.gc.apple.com
-init-p01md.apple.com
-ink.apple.com
-iphone-services.apple.com
-iphone-wu.apple.com
-iprofiles.apple.com
-itunes.apple.com.edgekey.net
-limit.itunesu.com
-link.gc.apple.com
-lookup-api.apple.com
-lookup.apple.com
-mac-services.apple.com
-marimba.apple.com
-members.me.com
-messagetracer-whitelist.apple.com
-news-edge.apple.com
-news-edge.news.apple-dns.net
-news-events.apple.com
-ns.itunes.apple.com
-origin.guzzoni-apple.com.akadns.net
-p01-swscan.apple.com.akadns.net
-p26-btmmdns.icloud.com
-partiality.itunes.apple.com
-pd.itunes.apple.com
-pd-st.itunes.apple.com
-play.itunes.apple.com
-porco.apple.com
-proddav.apple.com
-profile.ess.apple.com
-pubsbuild.apple.com
-query.ess.apple.com
-rabat.apple.com
-radio.itunes.apple.com
-redcarpet.apple.com
-sandbox.gc.apple.com
-sandbox.itunes.apple.com
-scento.apple.com
-se2.itunes.apple.com
-se.itunes.apple.com
-service.gc.apple.com
-smp-device-content.apple.com
-sp.itunes.apple.com
-sse-ws-p189.apple.com
-sso.corp.apple.com
-st14p02sa.guzzoni-apple.com.akadns.net
-static.ess.apple.com
-static.ess.cdn-apple.com.akadns.net
-static.gc.apple.com
-static.ips.apple.com
-suconfig.apple.com
-swcdn.apple.com.akadns.net
-swdist.apple.com
-swdlp.apple.com
-swdlp-static.apple.com
-swpost.apple.com
-swscan-cdn.apple.com.akadns.net
-tbsc.apple.com
-td1.apple.com
-td2.apple.com
-td3.apple.com
-td4.apple.com
-timestamp.apple.com
-trackingshipment.apple.com
-turn.gc.apple.com
-upp.itunes.apple.com
-uschi.ce.apple-dns.net
-us-east-1-dynamic.meta-weights.apple-dns.net
-userpub.itunes.apple.com
-usmin.ce.apple-dns.net
-uts-api.itunes.apple.com
-vocabulary.itunes.apple.com
-webservices.mac.com
-wu.apple.com
-wu-charts.apple.com
-wu-converter.apple.com
-wu-nwk.apple.com.akadns.net
-wu-quotes.apple.com
-xp.itunes-apple.com.akadns.net
-z2r0y.apple.com
-
-
+###########################################################
+vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for displaying timed text in vieos
 ##################################################################
-api.na1.region.vmwservices.com  #Android Phone
+api.na1.region.vmwservices.com   #Android Phone
 ##################################################################
-fwbntw.com                      #Icon = Blue Cursor
+fwbntw.com                       #Icon = Blue Cursor
 ##################################################################
-ingest.machinify.com            #AI
-machinify.com                   #AI
-##################################################################
-api.solvvy.com                  #Solvvy - Artificial Intelligence Customer Service & Support
-cdn.solvvy.com                  #Solvvy - Artificial Intelligence Customer Service & Support
-solvvy.com                      #Solvvy - Artificial Intelligence Customer Service & Support
-##################################################################
-
-##
-# Leven Labs, Inc. - Used by publishers to control access to copyrighted content in accordance with the Digital Millennium Copyright Act & understand how visitors are accessing their copyrighted content
-##
-flimsythought.com
-importedinsect.com
-ajaralarm.com
-causecherry.com
-coachquartz.com
-controlswim.com
-detailedkitten.com
-dustywave.com
-enchantedtop.com
-hurtgrape.com
-persuadesock.com
-plantpotato.com
-preciousyoke.com
-smilingshake.com
-sparklesleet.com
-treadbun.com
-tumblebirds.com
-wistfulflight.com
-2znp09oa.com
-4jnzhl0d0.com
-5mcwl.pw
-6ldu6qa.com
-82o9v830.com
-abackchain.com
-abandonedaction.com
-abashedangle.com
-aboardamusement.com
-aboardlevel.com
-aboriginalboats.com
-abruptroad.com
-absentstream.com
-absorbingband.com
-absorbingcorn.com
-absorbingprison.com
-abstractedamount.com
-absurdapple.com
-absurdwater.com
-acidpigs.com
-acquireattention.com
-acridtwist.com
-actuallysheep.com
-actuallysnake.com
-advertisementafterthought.com
-afraidlanguage.com
-agreeablestew.com
-agreeabletouch.com
-aheadday.com
-ak0gsh40.com
-alertafterthought.com
-alikeaddition.com
-alikearm.com
-aliveachiever.com
-alleyarm.com
-allowmailbox.com
-aloofmetal.com
-amazingairplane.com
-ambiguousalarm.com
-ambiguousquilt.com
-ambitiousagreement.com
-annoyedfifth.com
-anxiousapples.com
-apathetictheory.com
-applesarmy.com
-aquaticowl.com
-ar1nvz5.com
-archswimming.com
-arcticamber.com
-argyresthia.com
-ariseboundary.com
-arithmeticadjustment.com
-aromamirror.com
-attractiveafternoon.com
-attractivecap.com
-audioarctic.com
-auntants.com
-automaticflock.com
-automaticside.com
-awakebird.com
-awzbijw.com
-axiomaticalley.com
-bagbeam.com
-balancebreath.com
-balloonbit.com
-balloontexture.com
-bandborder.com
-barbarousnerve.com
-basketballbelieve.com
-baskettexture.com
-batbuilding.com
-battlebalance.com
-battlehope.com
-bawdybeast.com
-bawdypets.com
-beadbears.com
-beamincrease.com
-beastbeef.com
-beneficialbeef.com
-benthose.com
-bestboundary.com
-bewilderedblade.com
-bhcumsc.com
-billowybead.com
-blotburn.com
-blushingbeast.com
-blushingboundary.com
-boilingbeetle.com
-boilingumbrella.com
-boneregret.com
-boredborder.com
-boredcrown.com
-boringcoat.com
-bouncyproperty.com
-bravebone.com
-breakfastboat.com
-briefbears.com
-broadboundary.com
-broadcastbed.com
-broaddoor.com
-brothersbucket.com
-bruisebaseball.com
-btez8.xyz
-bucketbean.com
-bulbbait.com
-burgerbrush.com
-burnbubble.com
-businessbells.com
-bustlinganimal.com
-butterbulb.com
-butterburst.com
-calculatingcircle.com
-calculatingtoothbrush.com
-calculatorcamera.com
-calculatorstatement.com
-callousbrake.com
-calmcactus.com
-cannonjudo.com
-cannontwin.com
-capablecows.com
-capablecup.com
-capriciouscorn.com
-capsquirrel.com
-caringzinc.com
-carpentercomparison.com
-carriagecan.com
-carscannon.com
-catschickens.com
-cautiouscrate.com
-cautiouscredit.com
-chairscrack.com
-channelcamp.com
-cheerfulrange.com
-chemicalcoach.com
-chemicalsnake.com
-chesscolor.com
-chewcoat.com
-chickensstation.com
-chinsnakes.com
-chunkycactus.com
-clearcabbage.com
-clearcomb.com
-cloisteredcord.com
-cloisteredhydrant.com
-cloudsdestruction.com
-colorfulafterthought.com
-colossalchance.com
-comfortablecheese.com
-commonswing.com
-completecabbage.com
-complextoad.com
-concernedcondition.com
-conditioncrush.com
-consciouschairs.com
-consciousdirt.com
-consistpotato.com
-coordinatedbedroom.com
-coordinatedcoat.com
-coordinatedcub.com
-copperchickens.com
-copycarpenter.com
-copyrightaccesscontrols.com
-correctchaos.com
-cosmosjackson.com
-crabbychin.com
-crawlclocks.com
-crayoncompetition.com
-critictruck.com
-cubchannel.com
-culturedcrayon.com
-cumbersomecloud.com
-curtaincows.com
-cutecushion.com
-cuteturkey.com
-damdoor.com
-dancemistake.com
-dapperfloor.com
-dashingdirt.com
-dashingsweater.com
-deadpantruck.com
-debonairway.com
-decidedrum.com
-decisivedrawer.com
-decisiveducks.com
-decoroustitle.com
-decoycreation.com
-defectivesun.com
-defiantrice.com
-delegatediscussion.com
-delightfulhour.com
-desertedbreath.com
-desertedrat.com
-desiredirt.com
-detailedglue.com
-detailedgovernment.com
-detectdinner.com
-detectdiscovery.com
-diplomahawaii.com
-discreetfield.com
-dispensablestranger.com
-distinctday.com
-divergentoffer.com
-dk4ywix.com
-docksalmon.com
-dogsshoes.com
-dollardelta.com
-donkeyleaf.com
-doorbrazil.com
-doubtfulrainstorm.com
-dq95d35.com
-drabsize.com
-draconiancurve.com
-dragzebra.com
-drawservant.com
-dripappliance.com
-driverequest.com
-drivingdirt.com
-drydrum.com
-earthquakescarf.com
-earthycopy.com
-economicpizzas.com
-efficaciouscactus.com
-ejyymghi.com
-elasticchange.com
-elderlyinsect.com
-elderlyscissors.com
-elderlytown.com
-elephantqueue.com
-eliminateeffect.com
-encourageidea.com
-encouragingwilderness.com
-endurablecrayon.com
-endurableshop.com
-energeticexample.com
-enthusiasticdad.com
-enviousshape.com
-enviousthread.com
-erraticreaction.com
-errortablet.com
-evanescentedge.com
-exclusivebrass.com
-excuseearthquake.com
-experienceeggs.com
-exuberantsoda.com
-facilitategrandfather.com
-fadedprofit.com
-fadedsnow.com
-falsefeet.com
-falseframe.com
-familiarrod.com
-famousquarter.com
-fantasticsmash.com
-farethief.com
-farmergoldfish.com
-farshake.com
-fascinatedfeather.com
-faultycanvas.com
-faultyfowl.com
-fearfowl.com
-fearfulfish.com
-feebleshock.com
-finalizeforce.com
-flakyfeast.com
-flimsycircle.com
-flockflame.com
-floodprincipal.com
-floweryoperation.com
-forecasttiger.com
-foregoingfowl.com
-forgetfulflowers.com
-fourarithmetic.com
-fourfork.com
-frailflock.com
-frailoffer.com
-franticcarpenter.com
-fretfulfurniture.com
-frightenedpotato.com
-functionalcrown.com
-funnyairplane.com
-furryhorses.com
-futuristicapparatus.com
-futuristicfairies.com
-futuristicfear.com
-futuristicfifth.com
-futuristicfold.com
-fuzzyflavor.com
-fuzzyweather.com
-gammamaximum.com
-giddycoat.com
-giftedglue.com
-giftedthumb.com
-giraffepiano.com
-gleamingtrade.com
-gloriousbeef.com
-gloriouscracker.com
-glossysense.com
-gondolagnome.com
-gorgeousground.com
-gossipmiser.com
-gracefulsock.com
-grandioseguide.com
-greasegarden.com
-greasemotion.com
-greasysquare.com
-greetzebra.com
-greyinstrument.com
-guardedschool.com
-guiltlessbasketball.com
-gulliblecamp.com
-h78xb.pw
-haltingbadge.com
-hammerhearing.com
-handleteeth.com
-handsomeindustry.com
-handyfield.com
-happenhistory.com
-harborcub.com
-hardtofindmilk.com
-headyhook.com
-heavyplayground.com
-hfc195b.com
-highfalutinbox.com
-highfalutinroom.com
-hilariouszinc.com
-historicalbeam.com
-historicalrequest.com
-hollowshake.com
-homelycrown.com
-honeybulb.com
-honeygoldfish.com
-honorablehall.com
-honorableland.com
-horsenectar.com
-humdrumhat.com
-hurtteeth.com
-hypnoticwound.com
-hystericalhelp.com
-i9w8p.pw
-icebergindigo.com
-illfatedsnail.com
-illustriousoatmeal.com
-immensehoney.com
-importedincrease.com
-importedplay.com
-importedpolice.com
-importlocate.com
-impossibleexpansion.com
-impossiblemove.com
-impulsehands.com
-informengine.com
-innocentinvention.com
-innocentwax.com
-inquisitiveinvention.com
-instrumentsponge.com
-intelligentscissors.com
-internalsink.com
-inventionpassenger.com
-investigatepin.com
-inviterabbits.com
-invitesugar.com
-ivykiosk.com
-j93557g.com
-jadeitite.com
-jamexistence.com
-justicejudo.com
-k54nw.pw
-kitesquirrel.com
-knifeoctopus.com
-knottysticks.com
-lagoonolivia.com
-lamplow.com
-languagelake.com
-laughablecopper.com
-laughcloth.com
-leaplunchroom.com
-leftliquid.com
-lettucelimit.com
-levelbehavior.com
-lightcushion.com
-livelumber.com
-lizardslaugh.com
-longinglettuce.com
-lorenzourban.com
-loudloss.com
-loudlunch.com
-lowlocket.com
-lp3tdqle.com
-lumberamount.com
-lumpylumber.com
-maddeningpowder.com
-magnetairport.com
-magnificentmist.com
-maniacalappliance.com
-markedcrayon.com
-markedmeasure.com
-markedpail.com
-massivemark.com
-materialisticfan.com
-materialmoon.com
-meatydime.com
-medusasailor.com
-memopilot.com
-memorizeneck.com
-memorycobweb.com
-meremark.com
-messagenovice.com
-mightyspiders.com
-militaryverse.com
-mimosamajor.com
-minormeeting.com
-mixedreading.com
-modifyeyes.com
-moldyicicle.com
-motionlessbag.com
-mountainouspear.com
-movemeal.com
-mowfruit.com
-mundanepollution.com
-murkymeeting.com
-mysteriousmonth.com
-necessarywax.com
-neighborlywatch.com
-nervoussummer.com
-niftyhospital.com
-niftyjelly.com
-noiselessplough.com
-nondescriptcrowd.com
-nondescriptsmile.com
-nondescriptstocking.com
-nostalgicknot.com
-nullnorth.com
-nuttyorganization.com
-obscenesidewalk.com
-observantice.com
-omniscientfeeling.com
-omniscientspark.com
-operationkettle.com
-oppositeoperation.com
-optimallimit.com
-orangeoperation.com
-overconfidentfood.com
-overratedchalk.com
-owlsr.us
-paddleangle.com
-paleleaf.com
-pamelarandom.com
-panoramicbutter.com
-paradoxfactor.com
-parcelcreature.com
-parchedangle.com
-parsimoniouspolice.com
-partplanes.com
-pastoralcorn.com
-pedropanther.com
-pegasusplate.com
-penspade.com
-perceivequarter.com
-perpetualpail.com
-petiteumbrella.com
-photographpan.com
-pietexture.com
-pigspie.com
-piquantpigs.com
-piquantstove.com
-pizzasnut.com
-plainplayground.com
-plantdigestion.com
-politegoldfish.com
-possessivebucket.com
-possibleboats.com
-preciouseffect.com
-prefixpatriot.com
-prepareplanes.com
-presetrabbits.com
-presssensor.com
-previousplayground.com
-previouspotato.com
-printerplasma.com
-productivepear.com
-profitrumour.com
-profusesupport.com
-puffyloss.com
-puffypull.com
-puffypurpose.com
-purchasesuggestion.com
-quacksquirrel.com
-quaintcan.com
-quarterbean.com
-quicksandear.com
-quietknowledge.com
-quizzicalzephyr.com
-railwayrainstorm.com
-raintwig.com
-rainyhand.com
-rainystretch.com
-rapidkittens.com
-raresummer.com
-readgoldfish.com
-readingguilt.com
-readingopera.com
-readymoon.com
-readysnails.com
-realizerecess.com
-realizevacation.com
-rebelsubway.com
-receptivebranch.com
-receptiveink.com
-receptivereaction.com
-reconditerake.com
-referdriving.com
-reflectivereward.com
-rememberroute.com
-repeatsweater.com
-replaceroute.com
-resolutekey.com
-resonantbrush.com
-resonantrock.com
-respectrain.com
-rhetoricalloss.com
-rhymezebra.com
-rhythmmoney.com
-richstring.com
-ringplayground.com
-ringsrecord.com
-riserange.com
-ritzykey.com
-robustbelieve.com
-rodeopolice.com
-roofrelation.com
-roughroll.com
-ruddycast.com
-rusticprice.com
-ruthlessdegree.com
-ruthlessmilk.com
-ruthlessrobin.com
-sablesmile.com
-sailsuit.com
-samestretch.com
-savoryorange.com
-savorystructure.com
-saysidewalk.com
-scarcesign.com
-scarecrowslip.com
-scaredcomfort.com
-scatteredheat.com
-scatteredstream.com
-scientificshirt.com
-scientificsneeze.com
-scintillatingscissors.com
-scintillatingspace.com
-scratchsofa.com
-screechingfurniture.com
-scrollservice.com
-scrubsky.com
-scrubswim.com
-secretivecub.com
-secretspiders.com
-secretturtle.com
-seedscissors.com
-selectionship.com
-selectionsugar.com
-selectivesummer.com
-selfishsea.com
-separatesilver.com
-shakesea.com
-shakesuggestion.com
-shakytaste.com
-shallowsmile.com
-sharppatch.com
-shesubscriptions.com
-shockinggrass.com
-shockingship.com
-shopbreakfast.com
-shutseashore.com
-shyseed.com
-sicksmash.com
-silentcredit.com
-siliconslow.com
-silkysquirrel.com
-sillyscrew.com
-similarsabine.com
-sincerebuffalo.com
-sincerespy.com
-sixscissors.com
-sizesidewalk.com
-slaysweater.com
-sleepcartoon.com
-slimopinion.com
-slimyscarf.com
-slipperysack.com
-smashsurprise.com
-smilingwaves.com
-smoggysnakes.com
-snailsengine.com
-snakemineral.com
-snakesshop.com
-sneakystamp.com
-sneakystew.com
-somberscarecrow.com
-sombersea.com
-sombersquirrel.com
-sombersurprise.com
-sootheside.com
-sophisticatedstove.com
-soresneeze.com
-sorethunder.com
-sortsummer.com
-sparklingnumber.com
-specialstatement.com
-spellsalsa.com
-spendpest.com
-spidersboats.com
-spiffymachine.com
-spirebaboon.com
-spookyslope.com
-spottednoise.com
-spottedsnow.com
-springaftermath.com
-spuriousbase.com
-spurioussteam.com
-spuriousstranger.com
-squashfriction.com
-squeakzinc.com
-squirrelhands.com
-stakingscrew.com
-stakingslope.com
-staleshow.com
-standingnest.com
-standtrouble.com
-statuesquebrush.com
-steadfastsound.com
-steadfastsystem.com
-steepsquirrel.com
-stickssheep.com
-stiffstem.com
-storescissors.com
-storeslope.com
-storesurprise.com
-stormyachiever.com
-stormysponge.com
-stoveseashore.com
-straightnest.com
-strangesink.com
-stripedburst.com
-strivesidewalk.com
-structurerod.com
-stupendoussleet.com
-subsequentswim.com
-substantialcarpenter.com
-succeedscene.com
-suddensidewalk.com
-suddensnake.com
-sugarcurtain.com
-sulkybutter.com
-summerobject.com
-superficialsquare.com
-supervisegoldfish.com
-supplysummer.com
-sweepsheep.com
-sweetslope.com
-swimslope.com
-swordgoose.com
-symbolizebeast.com
-systemizecoat.com
-talentedsteel.com
-tangibleteam.com
-tarttendency.com
-tastefulsongs.com
-tastelesstrees.com
-tawdryson.com
-tdzvm.pw
-tedioustooth.com
-teenytinytongue.com
-teenyvolcano.com
-teethfan.com
-tempttalk.com
-tendertest.com
-terriblethumb.com
-texturetrick.com
-thicktrucks.com
-thingsafterthought.com
-thinkablefloor.com
-thinkablerice.com
-thinkabletrick.com
-thirdrespect.com
-thirstytwig.com
-thomastorch.com
-threechurch.com
-throattrees.com
-thunderingrose.com
-ticklesign.com
-timeterritory.com
-timetwig.com
-toecircle.com
-toedrawer.com
-toothbrushnote.com
-topichawaii.com
-torpidtongue.com
-toweringrun.com
-tranquilside.com
-translateoatmeal.com
-trappush.com
-tremendousplastic.com
-tremendoustime.com
-tremendoustreatment.com
-trickycelery.com
-truckstomatoes.com
-typicalairplane.com
-typicalteeth.com
-tzwaw.pw
-ubiquitousyard.com
-ultraoranges.com
-unarmedindustry.com
-unbecominghall.com
-uncoveredexpert.com
-unequalbrake.com
-unevenstring.com
-unknowntray.com
-untidyquestion.com
-untidyrice.com
-unusedquestion.com
-unusualtitle.com
-unwrittenspot.com
-usedexample.com
-uttermosthobbies.com
-vanfireworks.com
-venusgloria.com
-voicevegetable.com
-vq1qi.pw
-waggishpig.com
-wakefulcook.com
-warmquiver.com
-waryfog.com
-wateryvan.com
-wellgroomedbat.com
-wellmadefrog.com
-whirlwealth.com
-whiskyqueue.com
-whisperingbadge.com
-whisperingcrib.com
-wigglygeese.com
-wigglyindustry.com
-wildernesscamera.com
-wirecomic.com
-womanear.com
-workableachiever.com
-workoperation.com
-worriednumber.com
-worrybutter.com
-wreckvolcano.com
-wrongpotato.com
-wryfinger.com
-xovq5nemr.com
-youngmarble.com
-zbwp6ghm.com
-zealousfield.com
-zlp6s.pw
+ingest.machinify.com             #AI
+machinify.com                    #AI
 ##################################################################
 1dmp.co
 1-dot-klarsikt3.appspot.com
@@ -1507,6 +1486,7 @@ caglobal.com
 c-catalog.mgo-images.com
 c.disquscdn.com.cdn.cloudflare.net
 cdn.transifex.com
+cds.s5x3j6q5.hwcdn.net
 check.api2.transactal.com
 connect.scroll.com
 crl.netsolssl.com
@@ -1570,8 +1550,8 @@ lg.ecorebates.com
 lisnr.com
 listgrowth.ctctcdn.com
 mailing.wideopenmediagroup.com
-manifest.prod.boltdns.net
 mateti.net
+maxcdn.bootstrapcdn.com
 media.amazon.map.fastly.net
 mmapiws.com
 mobilemacmini.wsmeco.com
@@ -1605,6 +1585,7 @@ sentinelcustomer.safenet-inc.com
 simonsignal.com
 smedia.webcollage.net
 sonarapi.fedex.epsihost.com
+s.pinimg.com
 srvtop.com
 ss2.us
 s.sc-cdn.net
@@ -1624,7 +1605,6 @@ ud.ticsync.com
 us-central1-gcp.api.sc-gw.com
 us-east1-aws.api.sc-gw.com
 venue.tmol.co
-vjs.zencdn.net
 webadvisor.com
 web.eecs.umich.edu
 weeklyfinancialsolutions.com
@@ -1632,6 +1612,3 @@ wsmeco.com
 w.ssl.global.fastly.net
 xlbbhdarc.com
 ysdn.org
-s.pinimg.com
-cds.s5x3j6q5.hwcdn.net
-maxcdn.bootstrapcdn.com
