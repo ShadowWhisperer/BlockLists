@@ -20,7 +20,7 @@
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
     Tunnels          VPNs & Proxies
     Typo             Typosquatting / Misspelling of websites.  
-    Unknown          Similar to _Suspicious_, but these have appeared in my network logs (Not while hunting)  
+    Unknown          Similar to Suspicious, but are mostly organized.  
   
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
