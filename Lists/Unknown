@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/6/2020  22:23  (10:23 PM)  - Central Standard Time
+# Updated: 4/8/2020  22:49  (10:49 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -16,11 +16,15 @@
 z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
 2020mustang.com               #Adult Sites
 as.2020mustang.com            #Adult Sites
+api.h1.he7ll.com              #Adult Sites
+api.he7ll.com                 #Adult Sites
+he7ll.com                     #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
 manifest.prod.boltdns.net      #Brightcove - Video Playlist
 dw7nrwnn2bkh1.cloudfront.net       #CNN
+registry.api.cnn.io                #CNN
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                  #Paypal (Logo?)
@@ -59,12 +63,12 @@ viewsecure.net
 # Blank Page
 #############################
 api.ticlock.com                 #Android App
-illiweb.com                     #ExotikWeb
+illiweb.com                     #ExotikWeb (Adult?)
 pixlgif.com                     #Google
 g.jwpsrv.com                    #Jwplayer
+ay.qdmns.com
 qdmns.com
 capufamo.com
-wvghl.com
 
 
 #############################
@@ -76,13 +80,14 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 # Marketing
 #############################
-kaizenet.com       #Kaizenet
-lab.kaizenet.com   #Kaizenet (Flagged as Malware)
-affex.org          #Zieltraffic - Dead ?
-zdbb.net           #Ziff Davis
+kaizenet.com                     #Kaizenet
+lab.kaizenet.com                 #Kaizenet (Flagged as Malware)
+wideopenmediagroup.com           #Wide Open Media Group
+mailing.wideopenmediagroup.com   #Wide Open Media Group
+affex.org                        #Zieltraffic - Dead ?
+zdbb.net                         #Ziff Davis
 mix-uni.ru
 scarabresearch.com
-
 
 #############################
 # Malware
@@ -116,6 +121,8 @@ ksn-url-geo.kaspersky-labs.com                        #Kaspersky
 ksn-verdict-geo.kaspersky-labs.com                    #Kaspersky
 oss.hpconnected.com                                        #HP
 events.gfe.nvidia.com                                      #Nvidia
+ota-downloads.nvidia.com                                   #Nvidia
+ota.nvidia.com                                             #Nvidia
 services.gfe.nvidia.com                                    #Nvidia
 infinity-c1.youboranqs01.com                                   #PlutoTV
 infinity-c2.youboranqs01.com                                   #PlutoTV
@@ -148,6 +155,7 @@ api.vanilla.futurecdn.net                                          #tomsguide.co
 api.gdsec.net                                                    #Tutela ?
 gdsec.net                                                        #Tutela ?
 client.amplifi.com                                          #Unifi
+ubnt.i.lithium.com                                          #Unifi - Not sure if still used. Haven't seen in a while
 dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
 #######################################################
 analyze.pro.research-artisan.com                            #Chineese Site
@@ -165,6 +173,7 @@ c.zrcir.com
 dotdash.map.fastly.net
 ecdn.analysis.fi
 geolookup-a.akamaihd.net
+gsspcln.jp
 huqindustries.co.uk
 iper2.com
 js.track-analytics.com
@@ -186,11 +195,11 @@ zrcir.com
 #############################
 # Adult
 #############################
-pe.hu              #Possibly Illegal Hacked IP Cameras
-assinie.com        #Subdomains include adult sites
-carrefourpro.com   #Subdomains include adult sites
-cdnaccess.com      #Subdomains include adult sites
-wow-hosting.com    #Dead ?
+pe.hu               #Possibly Illegal Hacked IP Cameras
+assinie.com         #Subdomains include adult sites
+carrefourpro.com    #Subdomains include adult sites
+cdnaccess.com       #Subdomains include adult sites
+wow-hosting.com     #Dead ?
 crajack.com
 easyincontro.org
 erocdn.com
@@ -204,7 +213,7 @@ tawenda-tech.org
 # Detailed
 #############################
 ali213.co                                 #Pirated Games
-player.h-cdn.com                          #Was in Bitcoin lists - Says it causes less issues after video Ad
+player.h-cdn.com                          #Was in Bitcoin lists - Says it causes issuess after video Ad
 na1r.services.adobe.com                                               #Adobe - Product Activation ?
 bin5y4muil.execute-api.us-east-1.amazonaws.com                    #Amazon AWS
 ec2-52-193-201-206.ap-northeast-1.compute.amazonaws.com           #Amazon AWS
@@ -240,7 +249,7 @@ r5-pc-steam-1240670023.us-west-2.elb.amazonaws.com                #Amazon AWS
 rebillialive-30481093.us-east-1.elb.amazonaws.com                 #Amazon AWS
 sqs.us-west-2.amazonaws.com                                       #Amazon AWS
 surveygizmobeacon.s3.amazonaws.com                                #Amazon AWS
-blogsmithmedia.com                                 #AOL
+blogsmithmedia.com                                  #AOL
 apple.com.edgekey.net.globalredir.akadns.net     #Apple
 apple-dns.net                                    #Apple
 bag.itunes.apple.com                             #Apple
@@ -370,11 +379,17 @@ cdn.audioeye.com                               #AudioEye
 d5c8kzvnetr32.cloudfront.net                   #AudioEye
 ws.audioeye.com                                #AudioEye
 wsv3cdn.audioeye.com                           #AudioEye
-emupdate.bav.avcdn.net                   #Avast / AVG
+auth.ff.avast.com                        #Avast / AVG
 emupdate.avcdn.net                       #Avast / AVG
+emupdate.bav.avcdn.net                   #Avast / AVG
+ipm-provider.ff.avast.com                #Avast / AVG
+nos.ns1.ff.avast.com                     #Avast / AVG
 nuistatic.avcdn.net                      #Avast / AVG
-s-nuistatic.avcdn.net                    #Avast / AVG
 shepherd.avcdn.net                       #Avast / AVG
+shepherd.ff.avast.com                    #Avast / AVG
+s-nuistatic.avcdn.net                    #Avast / AVG
+su.ff.avast.com                          #Avast / AVG
+yesno.ff.avast.com                       #Avast / AVG
 api.bazaarvoice.com                            #Bazaarvoice
 bazaarvoice.com                                #Bazaarvoice
 d3rpajgr3c5p5n.cloudfront.net                  #Bazaarvoice
@@ -386,7 +401,6 @@ sl-ui.bazaarvoice.com                          #Bazaarvoice
 static.curations.bazaarvoice.com               #Bazaarvoice
 li.cnn.com                                   #CNN
 newsource-embed-prd.ns.cnn.com               #CNN
-registry.api.cnn.io                          #CNN
 datadome.co                          #DataDome (Bot Prevention)
 smartsourcestaging.dell.com                      #Dell
 block.dropbox.com                            #DropBox
@@ -491,7 +505,7 @@ user.gearbest.com                               #GearBest
 mw1.google.com                                 #Google -   Earth
 mw-small.l.google.com                          #Google -   Earth
 gboard-pa.googleapis.com                       #Google -  gBoard
-tenor.googleapis.com                           #Google -  gBoard - Gifs (Doesn't Break Anything)
+tenor.googleapis.com                           #Google -  gBoard - Gifs (Does Not Break Anything)
 ytstatic.l.google.com                          #Google -     Google Plus
 aa.google.com                                  #Google
 acp-mobile.appspot.com                         #Google
@@ -532,6 +546,7 @@ op-u.storage.googleapis.com                    #Google
 or-s.storage.googleapis.com                    #Google
 os-d.storage.googleapis.com                    #Google
 os-u.storage.googleapis.com                    #Google
+page.link                                      #Google
 phonedeviceverification-pa.googleapis.com      #Google
 pki-goog.l.google.com                          #Google
 popup.withgoogle.com                           #Google
@@ -1415,15 +1430,14 @@ preferences.truste.com                       #TrustArc
 dw26xg4lubooo.cloudfront.net                   #TrustGuard
 members.trust-guard.com                        #TrustGuard
 trust-guard.com                                #TrustGuard
-caps.twitter.com                                 #Twitter
-cdn.api.twitter.com                              #Twitter
-s.twitter.com                                    #Twitter
-eligibility-panelresearch.googlevideo.com          #YouTube - Roku TV
-userpaneltv-pa.googleapis.com                      #YouTube - Roku TV
+caps.twitter.com                             #Twitter
+cdn.api.twitter.com                          #Twitter
+s.twitter.com                                #Twitter
+eligibility-panelresearch.googlevideo.com       #YouTube - Roku TV
+userpaneltv-pa.googleapis.com                   #YouTube - Roku TV
 4g2.vzwdm.com                                #Verizon
 api-v.vzmessages.com                         #Verizon
 cs22.wpc.v0cdn.net                           #Verizon
-cs9.wac.phicdn.net                           #Verizon
 cs9.wpc.v0cdn.net                            #Verizon
 kappacdn.net                                 #Verizon
 mqtt.vzmessages.com                          #Verizon
@@ -1472,7 +1486,6 @@ aliapp.com
 a.optvdo.com
 apester.com
 api.b2c.com
-api.he7ll.com
 api.rss2json.com
 api.web.future.net.uk
 app.e.seagate.com
@@ -1527,7 +1540,6 @@ g.tenor.com
 gtq.sct.sc-prod.net
 hajanac.com
 hds-api.hearst.io
-he7ll.com
 hearstapps.com
 hodup.com
 http.web.future.net.uk
@@ -1549,7 +1561,6 @@ ksr-ugc.imgix.net
 lg.ecorebates.com
 lisnr.com
 listgrowth.ctctcdn.com
-mailing.wideopenmediagroup.com
 mateti.net
 maxcdn.bootstrapcdn.com
 media.amazon.map.fastly.net
@@ -1563,8 +1574,6 @@ ocsp.netsolssl.com
 ocsp.sectigo.com
 optvdo.com
 osiprod-weu01-c2r.cloudapp.net
-ota-downloads.nvidia.com
-ota.nvidia.com
 pathful.com
 p.jwpcdn.com
 pofug.com
@@ -1594,14 +1603,10 @@ static.ecorebates.com
 static.scroll.com
 static.searchstax.com
 static.simonsignal.com
-s.ticsync.com
 telexis.com
-ticsync.com
 tiles.cdnst.net
 tp-prod-content-delivery.appspot.com
 ubembed.com
-ubnt.i.lithium.com
-ud.ticsync.com
 us-central1-gcp.api.sc-gw.com
 us-east1-aws.api.sc-gw.com
 venue.tmol.co
