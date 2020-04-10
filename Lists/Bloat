@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 3/27/2020  13:57  (1:57 PM)  - Central Standard Time
+# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -83,7 +83,6 @@ cdn.cookielaw.org                   #Cookie Control
 cookielaw.org                       #Cookie Control
 sa437gl.wpc.kappacdn.net            #Cookie Control
 
-
 mailshell.net                                #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 avastbrowser.com                             #Antivirus   Avast - Browser
 browser-update.avast.com                     #Antivirus   Avast - Browser
@@ -95,7 +94,6 @@ emupdate.avast.com                           #Antivirus   Avast
 gf.tools.avast.com                           #Antivirus   Avast
 gm.tools.avast.com                           #Antivirus   Avast
 ipmcdn.avast.com                             #Antivirus   Avast
-my-win.avast.com                             #Antivirus   Avast
 ncc.avast.com                                #Antivirus   Avast
 p001.sb.avast.com                            #Antivirus   Avast
 p002.sb.avast.com                            #Antivirus   Avast
@@ -106,6 +104,7 @@ uupdate.avast.com                            #Antivirus   Avast
 avgbrowser.com                               #Antivirus     AVG     Browser
 browser-update.avg.com                       #Antivirus     AVG     Browser
 isearch.avg.com                              #Antivirus     AVG     Browser Search Engine
+ipm-provider.ff.avast.com                    #Antivirus     AVG     Upgrade Ads (May break Subscription Status Check *AVG still works normal)
 update-tuneup.avg.com                        #Antivirus     AVG     TuneUp
 tu.update.avg.com                            #Antivirus     AVG     TuneUp
 tu.backup.avg.cz                             #Antivirus     AVG     TuneUp
@@ -427,7 +426,7 @@ game-portal.eur.gameloft.com                            #Android  [App Studio]  
 interstatic06.gameloft.com                              #Android  [App Studio]    Gameloft
 oct.gameloft.com                                        #Android  [App Studio]    Gameloft
 secure.gameloft.com                                     #Android  [App Studio]    Gameloft
-sink.   gameloft.com                                    #Android  [App Studio]    Gameloft
+sink.gameloft.com                                       #Android  [App Studio]    Gameloft
 ssp-ges.gameloft.com                                    #Android  [App Studio]    Gameloft
 gamevil.com                                             #Android  [App Studio]    Gamevil
 glu.com                                                 #Android  [App Studio]    Glu

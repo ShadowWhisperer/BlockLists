@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/10/2020  01:12  (1:12 AM)  - Central Standard Time
+# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -118,21 +118,26 @@ ksn-file-geo.kaspersky-labs.com                       #Kaspersky
 ksn-info-geo.kaspersky-labs.com                       #Kaspersky
 ksn-url-geo.kaspersky-labs.com                        #Kaspersky
 ksn-verdict-geo.kaspersky-labs.com                    #Kaspersky
-oss.hpconnected.com                                        #HP
-events.gfe.nvidia.com                                      #Nvidia
-ota-downloads.nvidia.com                                   #Nvidia
-ota.nvidia.com                                             #Nvidia
-services.gfe.nvidia.com                                    #Nvidia
-infinity-c1.youboranqs01.com                                   #PlutoTV
-infinity-c2.youboranqs01.com                                   #PlutoTV
-infinity-c3.youboranqs01.com                                   #PlutoTV
-infinity-c4.youboranqs01.com                                   #PlutoTV
-infinity-c5.youboranqs01.com                                   #PlutoTV
-infinity-c6.youboranqs01.com                                   #PlutoTV
-infinity-c7.youboranqs01.com                                   #PlutoTV
-infinity-c8.youboranqs01.com                                   #PlutoTV
-infinity-c9.youboranqs01.com                                   #PlutoTV
-k.pluto.tv                                                     #PlutoTV
+oss.hpconnected.com                                     #HP
+events.gfe.nvidia.com                                     #Nvidia
+ota-downloads.nvidia.com                                  #Nvidia
+ota.nvidia.com                                            #Nvidia
+services.gfe.nvidia.com                                   #Nvidia
+aggregateknowledge.com                                      #Neustar
+creative.aggregateknowledge.com                             #Neustar
+cust.aggregateknowledge.com                                 #Neustar
+ticket.aggregateknowledge.com                               #Neustar
+www-stage.aggregateknowledge.com                            #Neustar
+infinity-c1.youboranqs01.com                                  #PlutoTV
+infinity-c2.youboranqs01.com                                  #PlutoTV
+infinity-c3.youboranqs01.com                                  #PlutoTV
+infinity-c4.youboranqs01.com                                  #PlutoTV
+infinity-c5.youboranqs01.com                                  #PlutoTV
+infinity-c6.youboranqs01.com                                  #PlutoTV
+infinity-c7.youboranqs01.com                                  #PlutoTV
+infinity-c8.youboranqs01.com                                  #PlutoTV
+infinity-c9.youboranqs01.com                                  #PlutoTV
+k.pluto.tv                                                    #PlutoTV
 click.notifications.intuit.com                           #QuickBooks
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
@@ -189,6 +194,14 @@ trackuhub.com
 universal.iper2.com
 w.usabilla.com
 zrcir.com
+
+
+
+
+
+
+
+
 
 
 #############################
@@ -381,7 +394,6 @@ wsv3cdn.audioeye.com                           #AudioEye
 auth.ff.avast.com                        #Avast / AVG
 emupdate.avcdn.net                       #Avast / AVG
 emupdate.bav.avcdn.net                   #Avast / AVG
-ipm-provider.ff.avast.com                #Avast / AVG
 nos.ns1.ff.avast.com                     #Avast / AVG
 nuistatic.avcdn.net                      #Avast / AVG
 shepherd.avcdn.net                       #Avast / AVG
@@ -1366,7 +1378,6 @@ lpsweb.isd2184.net                           #Luverne - Public School District
 wpad.isd2184.net                             #Luverne - Public School District
 zrhuhdohuypmmq.isd2184.net                   #Luverne - Public School District
 conduit.mailchimpapp.com                     #MailChimp
-mcusercontent.com                            #MailChimp
 balrog-aus5.r53-2.services.mozilla.com       #Mozilla
 balrog-cloudfront.prod.mozaws.net            #Mozilla
 live.thunderbird.net                         #Mozilla

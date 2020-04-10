@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -28,6 +28,7 @@ you-cubez.com                                          #Survey
 amdsurveys.com                                         #Survey - AMD
 d2yyd1h5u9mauk.cloudfront.net                          #Survey - Delighted
 delighted.com                                          #Survey - Delighted
+iteratehq.com                                          #Survey - Iterate
 globaltestmarket.com                                   #Survey - Life Points
 lifepointspanel.com                                    #Survey - Life Points
 demographics.neat.com                                  #Survey - Neat Scanner
@@ -122,6 +123,7 @@ notification.adblockplus.org                #Browser Extension
 secure.retailmenot.com                      #Cash Back / Coupons
 ecbsn.com                                   #Cash Back (Ebates)
 ebates.com                                  #Cash Back
+rakuten.com                                 #Cash Back
 shopbackau.zendesk.com                      #Cash Back
 shopback.com.au                             #Cash Back
 shopback.com                                #Cash Back
@@ -130,12 +132,10 @@ shopbacksg2.zendesk.com                     #Cash Back
 shopback.sg                                 #Cash Back
 splitter.ebates.com                         #Cash Back
 static.ebates.com                           #Cash Back
-
 befrugal.com                                #Coupons
 coupons.com                                 #Coupons
 cpnscdn.com                                 #Coupons
 shopathome.com                              #Coupons
-
 
 ig.com.br                                   #ISP (Brazil)
 xunlei.com                                  #ISP (China)
@@ -269,7 +269,6 @@ appexnw.com                                 #Software - Pokki (Start Menu)
 pokki.com                                   #Software - Pokki (Start Menu)
 pokkinw.com                                 #Software - Pokki (Start Menu)
 real.com                                    #Software - RealPlayer
-smilebox.com                                #Software - SmileBox
 weatherbug.com                              #Software - Weatherbug
 weatherbug.net                              #Software - Weatherbug
 ampsvc.com                                  #Software - WildTangent Games
@@ -365,7 +364,9 @@ zohosites.com                               #Website Builder
 lycos.com                                   #Search Engine - Links to malware
 
 ask-tb.com                                  #Search Engine   Ask (Toolbar
+anx.tb.ask.com                              #Search Engine   Ask
 ask.com                                     #Search Engine   Ask
+live.tb.ask.com                             #Search Engine   Ask
 search.ask.com                              #Search Engine   Ask
 search.tb.ask.com                           #Search Engine   Ask
 ss-sym.search.ask.com                       #Search Engine   Ask

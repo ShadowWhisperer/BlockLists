@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 4/10/2020  01:12  (1:12 AM)  - Central Standard Time
+# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -12605,6 +12605,7 @@ bb-sync.quantummetric.com
 bbszenede.widget.criteo.com
 bbts283443.app.link
 bbvaccine.rpxnow.com
+bc0a.com
 bc1.gigya.com
 bc2461.efeedbacktrk.com
 bc2b7166.hullapp.io
@@ -15300,6 +15301,7 @@ cdn.aws.placeiq.com
 cdn.b0e8.com
 cdn-badges.reevoo.com
 cdn.batmobi.net
+cdn.bc0a.com
 cdn.beeketing.com
 cdn.betrad.com
 cdn.bidgear.com
@@ -17836,6 +17838,7 @@ cms.clickability.com
 cms.cxense.com
 cmsecurity.ksmobile.com
 cm.shareaholic.com
+cms.kwanzoo.com
 cms.laydata.com
 cmsmartyads.hit.gemius.pl
 cms.mediaiqdigital.com
@@ -29226,6 +29229,7 @@ goldbach.hit.gemius.pl
 goldbachpl.hit.gemius.pl
 goldbachpoland.bbelements.com
 goldcarglobal.commander1.com
+goldenbees.mgr.consensu.org
 goldengate.blueconic.net
 goldieblox.privy.com
 goldpsych.eu.qualtrics.com
@@ -31923,6 +31927,7 @@ images.hit-parade.com
 images.intercom.io
 images.jp.as.criteo.net
 images.kontera.com
+images.kwanzoo.com
 images.marketing.eloqua.com
 images.mindtake.com
 images.mxpnl.com
@@ -33263,6 +33268,12 @@ ixe.insightfirst.com
 ixel1370.everesttech.net
 ixel2823.everesttech.net
 ixel.everesttech.net
+ixf0-api.bc0a.com
+ixf2-api.bc0a.com
+ixf3-api.bc0a.com
+ixf5-api.bc0a.com
+ixfd-api.bc0a.com
+ixf-gcp.bc0a.com
 ixgq4v2p-ios.mobile-sdk-api.intercom.io
 ixiaa.com
 ixp2lrz1-android.mobile-sdk-api.intercom.io
@@ -34450,6 +34461,7 @@ kvcc.qualtrics.com
 kvinit-prod.api.kochava.com
 kvp6jhvxs7bedgb.app.link
 kwanseisocpsy.au1.qualtrics.com
+kwanzoo.com
 kwfvpjr4-android.mobile-sdk-api.intercom.io
 kwr8wtpryna15grgvqqbneywz1jm95fs.edns.ip-api.com
 kwsw.adj.st
@@ -37946,8 +37958,17 @@ martinai.us-east-1.stinger-ad.bidr.io
 martinai.us-west-2.stinger-ad.bidr.io
 martin.tradedoubler.com
 martony.ittest.33across.com
+marvel-b1-cdn.bc0a.com
+marvel-b2-cdn.bc0a.com
+marvel-b3-cdn.bc0a.com
 marvelbattle.onelink.me
+marvel-cdn.bc0a.com
+marvel-dev1.bc0a.com
+marvel-processor.bc0a.com
 marvelsrp.onthe.io
+marvel-test1.bc0a.com
+marvel-test2.bc0a.com
+marvel-test3.bc0a.com
 marwoodgroup.az1.qualtrics.com
 marykay.qualtrics.com
 marylandmarketing.qualtrics.com
@@ -44174,6 +44195,7 @@ pagesjaunes.estat.com
 pages-juxiao.mediav.com
 pages.juxiao.mediav.com
 pages.kampyle.com
+pages.kwanzoo.com
 pages.localytics.com
 pages.optimizely.com
 pages.pd1.qa.exacttarget.com
@@ -56065,25 +56087,12 @@ srv12.hotlog.ru
 srv18.stats-locations.com
 srv19.stats-locations.com
 srv1.usw2.dynamicyield.com
-srv-2015-01-12-10.pixel.parsely.com
-srv2016-04-25-06.config.parsely.com
-srv2016-07-14-02.config.parsely.com
-srv2016-07-14-02.pixel.parsely.com
-srv2018111901.pixel.parsely.com
-srv-2018-11-19-16.config.parsely.com
-srv-2018-11-19-16.pixel.parsely.com
-srv-2019-03-23-16.config.parsely.com
-srv-2019-08-17-17.pixel.parsely.com
-srv-2020-01-18-04.pixel.parsely.com
-srv-2020-03-12-06.config.parsely.com
 srv2cnt2.2cnt.net
 srv2cnt.2cnt.net
 srv2.usw2.dynamicyield.com
-srv.config.parsely.com
 srv.dynamicyield.com
 srv.exposebox.com
 srvparis.weborama.com
-srv.pixel.parsely.com
 srvtrck.com
 sr-weight.rlcdn.com
 srxylmix.micpn.com
@@ -58650,7 +58659,6 @@ status.amplitude.com
 status.appsee.com
 status.appsflyer.com
 status.beeketing.com
-statusbeta.parsely.com
 status.branch.io
 status.bronto.com
 status.bugsnag.com
@@ -66443,6 +66451,7 @@ us-east-cdn.decibelinsight.net
 us-east-google.bidswitch.net
 us-east-google-rtb.quantserve.com
 us-east.load.exelator.com
+useastmonitoring.livesegmentservice.com
 us-east-notify.bidswitch.rtb.quantserve.com
 us-east-pulsepoint-rtb.quantserve.com
 us-east.pulsepoint.rtb.quantserve.com
@@ -66608,6 +66617,7 @@ us-west.bidswitch.rtb.quantserve.com
 us-west-cdn.decibelinsight.net
 us-west-google-rtb.quantserve.com
 us-west.load.exelator.com
+uswestmonitoring.livesegmentservice.com
 us-west-notify.bidswitch.rtb.quantserve.com
 us-west-pulsepoint-rtb.quantserve.com
 us-west.pulsepoint.rtb.quantserve.com
@@ -68940,6 +68950,7 @@ wpadmin-sharedmarketingcontent.acxiom.com
 wp.alcmpn.com
 wp.appnext.com
 wpcareyschool.qualtrics.com
+wpcms.kwanzoo.com
 wp.cxense.com
 wpdev.beemray.com
 wpdfa6ft.emltrk.com
