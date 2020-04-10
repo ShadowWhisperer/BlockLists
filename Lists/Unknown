@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/8/2020  22:49  (10:49 PM)  - Central Standard Time
+# Updated: 4/10/2020  01:12  (1:12 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -22,7 +22,6 @@ he7ll.com                     #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
-manifest.prod.boltdns.net      #Brightcove - Video Playlist
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
@@ -36,7 +35,6 @@ tch710729.tch.quora.com                                      #Quora
 realpush.network                  #RealPush
 select5.realpush.network          #RealPush
 assets.rbl.ms                 #RebelMouse
-assets.rebelmouse.io          #RebelMouse
 rebelmouse.com                #RebelMouse
 resize.rbl.ms                 #RebelMouse
 static.rbl.ms                 #RebelMouse
@@ -44,6 +42,7 @@ ptest.ysm.yahoo.com               #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
+thumbs.nosto.com            # (CrossBreedHolsters.com)
 a1955.b.akamai.net
 adscheaper.com
 aralego.com
@@ -442,17 +441,19 @@ sofe.ebay.com                                #Ebay
 velocityprod.g.ebay.com                      #Ebay
 velocity-roma.ebay.com                       #Ebay
 vod.g.ebay.com                               #Ebay
+atlassbx.com                                 #Facebook
 edge-star-mini-shv-01-iad3.facebook.com      #Facebook
-instagram.c10r.facebook.com                  #FaceBook
+lookaside.atlassbx.com                       #Facebook
 star.c10r.facebook.com                       #FaceBook
 star-mini.c10r.facebook.com                  #FaceBook
 t.update.fbsbx.com                           #Facebook
-z-p42-instagram.c10r.facebook.com            #FaceBook
 s9.gp1.wac.gammacdn.net                        #FedEx
 b.fox.com                                          #Fox News
 foxbusinessp.factsetdigitalsolutions.com           #Fox News
 h20255.www2.hp.com                             #HP
+instagram.c10r.facebook.com              #Instagram
 maps.instagram.com                       #Instagram
+z-p42-instagram.c10r.facebook.com        #Instagram
 a314.gameloft.com                            #GameLoft
 bob-fedex-fsg002.gameloft.com                #GameLoft
 bob-hermes.gameloft.com                      #GameLoft
