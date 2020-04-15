@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
+# Updated: 4/14/2020  21:45  (9:45 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -12,6 +12,9 @@
 #############################
 # Ads
 #############################
+1105cms01.com                             #1105 Media
+1105media.com                             #1105 Media
+virtualizationreview.1105cms01.com        #1105 Media
 0s9dxlr07huu.com            #AdSupply.com  (Was in MalwareBytes List)
 z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
 2020mustang.com               #Adult Sites
@@ -24,6 +27,8 @@ data.altbeacon.org        #AltBeacon
 new.avira.com                #Avira
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
+neatab.com                  #Neat A/B Testing
+staging.neatab.com          #Neat A/B Testing
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                  #Paypal (Logo?)
@@ -196,14 +201,6 @@ w.usabilla.com
 zrcir.com
 
 
-
-
-
-
-
-
-
-
 #############################
 # Adult
 #############################
@@ -219,6 +216,21 @@ fast-hunter.com
 hlsmp4.com
 pump-cdn.com
 tawenda-tech.org
+
+
+#############################
+# Bot Prevention
+#############################
+datadome.co             #DataDome
+perimeterx.com          #PerimeterX, Inc.
+perimeterx.net          #PerimeterX, Inc.
+px-cdn.net              #PerimeterX, Inc.
+pxchk.net               #PerimeterX, Inc.
+agentanalytics.com      #White Ops, Inc
+imganalytics.com        #White Ops, Inc
+static.tagsrvcs.com     #White Ops, Inc
+tagsrvcs.com            #White Ops, Inc
+v.tagsrvcs.com          #White Ops, Inc
 
 
 #############################
@@ -412,7 +424,6 @@ sl-ui.bazaarvoice.com                          #Bazaarvoice
 static.curations.bazaarvoice.com               #Bazaarvoice
 li.cnn.com                                   #CNN
 newsource-embed-prd.ns.cnn.com               #CNN
-datadome.co                          #DataDome (Bot Prevention)
 smartsourcestaging.dell.com                      #Dell
 block.dropbox.com                            #DropBox
 block-edge-1.dropbox.com                     #DropBox

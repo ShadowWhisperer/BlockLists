@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
+# Updated: 4/14/2020  21:45  (9:45 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -90,6 +90,7 @@ linkoverzicht.be                            #Bookmark Site
 maakjestart.nl                              #Bookmark Site
 ontoplist.com                               #Bookmark Site
 pagina.nu                                   #Bookmark Site
+startbeurs.be                               #Bookmark Site
 startbewijs.be                              #Bookmark Site
 startbewijs.nl                              #Bookmark Site
 startclub.nl                                #Bookmark Site
@@ -389,6 +390,7 @@ pythonanywhere.com                          #Can be used for malware
 godaddysites.com                            #Un-Finished sites - Usually malware
 
 addtoany.com                                #Universal Sharing
+
 
 
 
