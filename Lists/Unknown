@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/14/2020  21:45  (9:45 PM)  - Central Standard Time
+# Updated: 4/15/2020  22:32  (10:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -43,6 +43,8 @@ assets.rbl.ms                 #RebelMouse
 rebelmouse.com                #RebelMouse
 resize.rbl.ms                 #RebelMouse
 static.rbl.ms                 #RebelMouse
+promotions.skype.com            #Skype
+bo.promotions.skype.com         #Skype
 ptest.ysm.yahoo.com               #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
@@ -123,7 +125,11 @@ ksn-file-geo.kaspersky-labs.com                       #Kaspersky
 ksn-info-geo.kaspersky-labs.com                       #Kaspersky
 ksn-url-geo.kaspersky-labs.com                        #Kaspersky
 ksn-verdict-geo.kaspersky-labs.com                    #Kaspersky
-oss.hpconnected.com                                     #HP
+oss.hpconnected.com                                       #HP
+methodmi.com                                        #Methodmi
+bidsimulator.com                                    #Methodmi
+view.bidsimulator.com                               #Methodmi
+files.bidsimulator.com                              #Methodmi
 events.gfe.nvidia.com                                     #Nvidia
 ota-downloads.nvidia.com                                  #Nvidia
 ota.nvidia.com                                            #Nvidia
@@ -183,6 +189,7 @@ dotdash.map.fastly.net
 ecdn.analysis.fi
 geolookup-a.akamaihd.net
 gsspcln.jp
+heatmap.services
 huqindustries.co.uk
 iper2.com
 js.track-analytics.com

@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 4/14/2020  21:45  (9:45 PM)  - Central Standard Time
+# Updated: 4/15/2020  22:32  (10:32 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -9927,6 +9927,7 @@ api-internal.gk.opstest.mparticle.com
 api-internal.gk.qa.corp.mparticle.com
 api-internal-us-east-1.mathtag.com
 api.interstateanalytics.com
+api.ipdata.co
 api.iperceptions.com
 api.ipify.org
 api.ipinfo.io
@@ -10764,6 +10765,7 @@ ar.atwola.com
 arboe.oewabox.at
 arbo.hit.gemius.pl
 arbopl.bbelements.com
+arcgis.com
 arcgisonline.com
 archcapital.saas.appdynamics.com
 archetypes.sslproxy.gigya.com
@@ -11459,6 +11461,7 @@ auth-fr.eu-staging.identity.api.liveramp.com
 auth.global.exacttarget.com
 auth-infra.instana.io
 auth.internal.beeketing.com
+auth.ipdata.co
 auth.markmonitor.com
 auth.mparticle.com
 auth.navegg.com
@@ -15499,6 +15502,7 @@ cdn-eu-ec.yottaa.net
 cdn-eu.mouseflow.com
 cdn-eu.onthe.io
 cdn.evergage.com
+cdn.evgnet.com
 cdn.evidon.com
 cdn.exactag.com
 cdn.exacttarget.com
@@ -20778,6 +20782,7 @@ crndnmrk.blueconic.net
 cro4aj5h.emltrk.com
 crocs-fr.sjv.io
 croixrouge.commander1.com
+cross.econda-monitor.de
 crossfiremobile.helpshift.com
 crossmedia.c3metrics.com
 crosspixel-auto.t.domdex.com
@@ -24516,6 +24521,7 @@ ecoemballages.solution.weborama.fr
 ecom.1010data.com
 e-commerce.adx1.com
 e.company-target.com
+econda-monitor.de
 economica.2cnt.net
 economistcollect.insightfirst.com
 economist-comcollect.insightfirst.com
@@ -24869,6 +24875,7 @@ elpix01.touchcommerce.com
 elpix02.touchcommerce.com
 elps.qualtrics.com
 elqcdn.eloqua.com
+els.econda-monitor.de
 elstatic.weborama.fr
 elteppk.eu.qualtrics.com
 eltern.ivwbox.de
@@ -25138,6 +25145,7 @@ engage.localytics.com
 engagementapi.skype.com
 engagement.avgbrowser.com
 engagementoptimization.callminer.com
+engagement.terminus.services
 engage.webtrends.com
 eng.appdynamics.com
 engblog.mixpanel.com
@@ -26034,6 +26042,7 @@ evesleep.evergage.com
 evestinforex.privy.com
 evetab.app.link
 evfuture.rpxnow.com
+evgnet.com
 ev.ib-ibi.com
 evidon.com
 e.vindicosuite.com
@@ -27066,6 +27075,7 @@ fi2r4k3p.emltrk.com
 fibjvw3g.emltrk.com
 fidelity.activate.ensighten.com
 fidelity-alternate.app.link
+fidelity.api.evgnet.com
 fidelity.app.link
 fidelity.evergage.com
 fidelity-media-ssp.rtb.adx1.com
@@ -27296,6 +27306,7 @@ fleetfeetatlanta.actonsoftware.com
 fleshlight.sjv.io
 flex.atdmt.com
 flexshopper.evergage.com
+flexshopper.evgnet.com
 flg-t.tlnk.io
 flh-a.tlnk.io
 flickerbox.apsalar.com
@@ -27336,6 +27347,7 @@ flugde.widget.criteo.com
 fluke.co1.qualtrics.com
 flukelndustrialamericasprod.122.207.net
 flurry.com
+fluxloop.com
 flv.stream.atwola.com
 flwy.adj.st
 fly.beeketing.com
@@ -28498,6 +28510,7 @@ geoblock.similarweb.com
 geo.bluecava.com
 geobytes.com
 geo-chk.prod.snackly.co
+geocode.arcgis.com
 geocoder.api.here.com
 geocoder.cc.api.here.com
 geocoder.cit.api.here.com
@@ -28565,6 +28578,7 @@ geoip.infra-team.com
 geoip.inquirer.net
 geoip.insticator.com
 geoip-ipv4.maxmind.com
+geoip-js.com
 geoip-js.maxmind.com
 geoip.leadia.services
 geoip.lefigaro.fr
@@ -28748,6 +28762,7 @@ geo.moatads.com
 geomobileservices-pa.googleapis.com
 geo.mozilla.org
 geo.pcmag.com
+geo.placead.placecast.net
 geoplugin.net
 geo-prod.do.dsp.mp.microsoft.com
 geoproxy.criteo.net
@@ -30214,6 +30229,7 @@ helpdancinglineios1.ksmobile.com
 helpdaohang1.ksmobile.com
 helpdesk.brightedge.com
 helpdesk.dstillery.com
+helpdesk.econda-monitor.de
 helpdesk.gigya.com
 helpdesk.liftoff.io
 helpdesk.placed.com
@@ -32967,6 +32983,7 @@ ipcmedia.grapeshot.co.uk
 ip.cn
 ip-connectivity-test-162-247-240.newrelic.com
 ipc.piwik.pro
+ipdata.co
 ipds.adrta.com
 ipdx.cn.miaozhen.com
 ipecho.net
@@ -40259,6 +40276,7 @@ monitor.appsee.com
 monitor.brightedge.com
 monitor.clickcease.com
 monitor.demo.appdynamics.com
+monitor.econda-monitor.de
 monitoring.adwyze.com
 monitoring.dz.optimizely.com
 monitoring.eloqua.com
@@ -44183,6 +44201,7 @@ paas-san1.exacttarget.com
 pabc.chartbeat.net
 pabk.piwik.pro
 pablomsnportal.112.207.net
+pabst.demdex.net
 pabuly0h.emltrk.com
 pac12-alternate.app.link
 pac12.app.link
@@ -45672,6 +45691,7 @@ pl5027.putags.com
 pl504.putags.com
 pl5191.putags.com
 pl.abtasty.com
+placecast.net
 placed.com
 placeiq.com
 placement-networks.sharethrough.com
@@ -46721,6 +46741,7 @@ psb.adx1.com
 psdbank-service.adtelligence.de
 psdbank-tracking.adtelligence.de
 psdhannoverde.widget.criteo.com
+psdmt.visibleconsumerinsight.com
 psecrets.ispot.tv
 ps.eyeota.net
 pshmrk.app.link
@@ -46799,6 +46820,7 @@ publishers.criteo.com
 publishers.viglink.com
 publisher.tradedoubler.com
 publisher.zapr.in
+publish.fluxloop.com
 publishing.piwik.pro
 publishing.spredfast.com
 publitas.loggly.com
@@ -53101,6 +53123,7 @@ sledgehammer.np.exacttarget.com
 sledgehammer.xt.exacttarget.com
 sledmobile193334213423.s.moatpixel.com
 s.lenovo.com
+slerms.terminus.services
 slgraph01.clicktale.net
 slicelife.app.link
 slicelife.onelink.me
@@ -58766,6 +58789,7 @@ status.hull.io
 status.instana.io
 status.intercom.io
 status.ip-api.com
+status.ipdata.co
 status.justuno.com
 status.keen.io
 status.kissmetrics.com
@@ -60847,6 +60871,7 @@ ter.live.ksmobile.net
 terminix.sp1.convertro.com
 terminus.com
 terminusdisplay296618589072.s.moatpixel.com
+terminus.services
 term.liveramp.com
 terms.eltoro.com
 terradotta.actonsoftware.com
@@ -67343,6 +67368,7 @@ vidanalytics.taboola.com
 vidangel-alternate.app.link
 vidangel.app.link
 vidapoc.saas.appdynamics.com
+vidassets.terminus.services
 vid.atdmt.com
 vidcpm.com
 video.adx1.com
@@ -67487,6 +67513,7 @@ virtual-college.sjv.io
 virtumundo.com
 visagelab.onelink.me
 visamoweb.acxiom.com
+visibleconsumerinsight.com
 visiblemeasures.com
 vision2003.etvcorp.track.clicksure.com
 vision.app.link
@@ -68529,6 +68556,7 @@ webstats.cincinnatibell.com
 webstats.com
 webstats.distribeo.com
 webstatsdomain.org
+webstats.eb.com
 webstats.eco.de
 webstats.empflix.com
 webstats.fr
@@ -69278,6 +69306,7 @@ wvuhre.qualtrics.com
 wvu.qualtrics.com
 wvu.saas.appdynamics.com
 wvwekfk9.emltrk.com
+ww1.econda-monitor.de
 ww1.mpnrs.com
 ww2.1010data.com
 ww2.heatmap.it
