@@ -30,13 +30,13 @@ Domains are sorted by category. Some domains that are used as both ad servers an
   
 These lists are all verified by me, either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled (Verfified by me, before adding). I try to keep dead, parked, and sinkholed domains out of these lists.  
   
-I remove _www<span></span>._ _mobile._ _m._  prefix. They are added in the script below. This keeps the original list shorter, and ensures the domain is blocked.  
+I remove _www<span></span>._ _mobile._ _m._  prefixes. They are added in the script below. This keeps the original list shorter, and ensures the domain is fully blocked.  
   
 _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may break some websites.
   
 **Create Block List**  
   while read -r Line || [[ -n "$Line" ]]; do  
-  echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> OUTPUT
+  echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> OUTPUT_LIST
   done < INPUT_LIST
   
   
