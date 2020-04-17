@@ -1,404 +1,408 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
 #
-# Updated: 4/14/2020  21:45  (9:45 PM)  - Central Standard Time
+# Updated: 4/17/2020  01:16  (1:16 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
 
-##
-## https://www.spamhaus.org/statistics/networks/
-###
+  #  #
+  #  # https://www.spamhaus.org/statistics/networks/
+  #  #  #
 
 
-brazzerssurvey.com                                     #Survey
-inmoment.com                                           #Survey
-lb.polldaddy.com                                       #Survey
-opinionbar.com                                         #Survey
-polldaddy.com                                          #Survey
-poll.fm                                                #Survey
-samplicio.us                                           #Survey
-secure.polldaddy.com                                   #Survey
-survey.io                                              #Survey
-surveyrouter.com                                       #Survey
-ups.surveyrouter.com                                   #Survey
-you-cubez.com                                          #Survey
-amdsurveys.com                                         #Survey - AMD
-d2yyd1h5u9mauk.cloudfront.net                          #Survey - Delighted
-delighted.com                                          #Survey - Delighted
-iteratehq.com                                          #Survey - Iterate
-globaltestmarket.com                                   #Survey - Life Points
-lifepointspanel.com                                    #Survey - Life Points
-demographics.neat.com                                  #Survey - Neat Scanner
-research.net                                           #Survey - Research
-d2bnxibecyz4h5.cloudfront.net                          #Survey - Survey Gizmo
-surveygizmo.com                                        #Survey - Survey Gizmo
-surveyking.com                                         #Survey - Survery Kings
-survey-kings.com                                       #Survey - Survery Kings
-surveymonkey-assets.s3.amazonaws.com                   #Survey - Survey Monkey
-surveymonkey.com                                       #Survey - Survey Monkey
-surveymonkey.de                                        #Survey - Survey Monkey
-usabilla.com                                           #Survey - Survey Monkey (usabilla)
-survicate.com                                          #Survey - Survicate
-survey.webrootanywhere.com                             #Survey - Webroot
-yesinsights.com                                        #Survey - Yes Insights
-questionpro.com                                        #Survey - Question Pro
-surveys.questionpro.com                                #Survey - Question Pro
+brazzerssurvey.com                                       #Survey
+inmoment.com                                             #Survey
+lb.polldaddy.com                                         #Survey
+opinionbar.com                                           #Survey
+polldaddy.com                                            #Survey
+poll.fm                                                  #Survey
+samplicio.us                                             #Survey
+secure.polldaddy.com                                     #Survey
+survey.io                                                #Survey
+surveyrouter.com                                         #Survey
+ups.surveyrouter.com                                     #Survey
+you-cubez.com                                            #Survey
+amdsurveys.com                                           #Survey - AMD
+d2yyd1h5u9mauk.cloudfront.net                            #Survey - Delighted
+delighted.com                                            #Survey - Delighted
+iteratehq.com                                            #Survey - Iterate
+globaltestmarket.com                                     #Survey - Life Points
+lifepointspanel.com                                      #Survey - Life Points
+demographics.neat.com                                    #Survey - Neat Scanner
+research.net                                             #Survey - Research
+d2bnxibecyz4h5.cloudfront.net                            #Survey - Survey Gizmo
+surveygizmo.com                                          #Survey - Survey Gizmo
+surveyking.com                                           #Survey - Survery Kings
+survey-kings.com                                         #Survey - Survery Kings
+surveymonkey-assets.s3.amazonaws.com                     #Survey - Survey Monkey
+surveymonkey.com                                         #Survey - Survey Monkey
+surveymonkey.de                                          #Survey - Survey Monkey
+usabilla.com                                             #Survey - Survey Monkey (usabilla)
+survicate.com                                            #Survey - Survicate
+survey.webrootanywhere.com                               #Survey - Webroot
+yesinsights.com                                          #Survey - Yes Insights
+questionpro.com                                          #Survey - Question Pro
+surveys.questionpro.com                                  #Survey - Question Pro
 
 
-c9users.io                                  #Amazon  Cloud9
+c9users.io                                    #Amazon  Cloud9
 
-superantispyware.com                        #AntiMalware  SuperAntiSpyware
-enigmasoftware.com                          #AntiMalware  SpyHunter
-360.cn                                      #Antivirus    360 Total Security
-360.com                                     #Antivirus    360 Total Security
-360safe.com                                 #Antivirus    360 Total Security
-360totalsecurity.com                        #Antivirus    360 Total Security
-adaware.com                                 #Antivirus    Adaware
-lavasoft.com                                #Antivirus    Adaware
-webcompanion.com                            #Antivirus    Adaware
-bitdefender.com                             #Antivirus    Bit Defender
-bitdefender.net                             #Antivirus    Bit Defender
-da3e3.net                                   #Antivirus    Bit Defender
-e5.sk                                       #Antivirus    Eset
-eset.com                                    #Antivirus    Eset
-fsapi.com                                   #Antivirus    F-Secure
-f-secure.com                                #Antivirus    F-Secure
-ijinshan.com                                #Antivirus    Kingsoft
-cloudantivirus.com                          #Antivirus    Panda
-pandasecurity.com                           #Antivirus    Panda
-pandasoftware.com                           #Antivirus    Panda
-stopzilla.com                               #Antivirus    StopZilla
-totalav.com                                 #Antivirus    TotalAV
-webrootcloudav.com                          #Antivirus    Webroot
-webroot.com                                 #Antivirus    Webroot
+superantispyware.com                          #AntiMalware  SuperAntiSpyware
+enigmasoftware.com                            #AntiMalware  SpyHunter
+360.cn                                        #Antivirus    360 Total Security
+360.com                                       #Antivirus    360 Total Security
+360safe.com                                   #Antivirus    360 Total Security
+360totalsecurity.com                          #Antivirus    360 Total Security
+adaware.com                                   #Antivirus    Adaware
+lavasoft.com                                  #Antivirus    Adaware
+webcompanion.com                              #Antivirus    Adaware
+bitdefender.com                               #Antivirus    Bit Defender
+bitdefender.net                               #Antivirus    Bit Defender
+da3e3.net                                     #Antivirus    Bit Defender
+e5.sk                                         #Antivirus    Eset
+eset.com                                      #Antivirus    Eset
+fsapi.com                                     #Antivirus    F-Secure
+f-secure.com                                  #Antivirus    F-Secure
+ijinshan.com                                  #Antivirus    Kingsoft
+cloudantivirus.com                            #Antivirus    Panda
+pandasecurity.com                             #Antivirus    Panda
+pandasoftware.com                             #Antivirus    Panda
+stopzilla.com                                 #Antivirus    StopZilla
+totalav.com                                   #Antivirus    TotalAV
+webrootcloudav.com                            #Antivirus    Webroot
+webroot.com                                   #Antivirus    Webroot
 
-2link.be                                    #Bookmark Site
-bestelinks.nl                               #Bookmark Site
-boogolinks.nl                               #Bookmark Site
-eigenstart.be                               #Bookmark Site
-favorietje.nl                               #Bookmark Site
-favos.nl                                    #Bookmark Site
-fopu.com                                    #Bookmark Site
-icio.us                                     #Bookmark Site
-jouwpagina.be                               #Bookmark Site
-jouwpagina.nl                               #Bookmark Site
-linkarena.com                               #Bookmark Site
-linkoverzicht.be                            #Bookmark Site
-maakjestart.nl                              #Bookmark Site
-ontoplist.com                               #Bookmark Site
-pagina.nu                                   #Bookmark Site
-startbeurs.be                               #Bookmark Site
-startbewijs.be                              #Bookmark Site
-startbewijs.nl                              #Bookmark Site
-startclub.nl                                #Bookmark Site
-startje.com                                 #Bookmark Site
-startkabel.nl                               #Bookmark Site
-startplezier.nl                             #Bookmark Site
-startspin.be                                #Bookmark Site
-startspin.nl                                #Bookmark Site
-startvista.be                               #Bookmark Site
-top-100.pl                                  #Bookmark Site
-toplista.pl                                 #Bookmark Site
-webgidsje.nl                                #Bookmark Site
+2link.be                                      #Bookmark Site
+bestelinks.nl                                 #Bookmark Site
+boogolinks.nl                                 #Bookmark Site
+eigenstart.be                                 #Bookmark Site
+favorietje.nl                                 #Bookmark Site
+favos.nl                                      #Bookmark Site
+fopu.com                                      #Bookmark Site
+icio.us                                       #Bookmark Site
+jouwpagina.be                                 #Bookmark Site
+jouwpagina.nl                                 #Bookmark Site
+linkarena.com                                 #Bookmark Site
+linkoverzicht.be                              #Bookmark Site
+maakjestart.nl                                #Bookmark Site
+ontoplist.com                                 #Bookmark Site
+pagina.nu                                     #Bookmark Site
+startbeurs.be                                 #Bookmark Site
+startbewijs.be                                #Bookmark Site
+startbewijs.nl                                #Bookmark Site
+startclub.nl                                  #Bookmark Site
+startje.com                                   #Bookmark Site
+startkabel.nl                                 #Bookmark Site
+startplezier.nl                               #Bookmark Site
+startspin.be                                  #Bookmark Site
+startspin.nl                                  #Bookmark Site
+startvista.be                                 #Bookmark Site
+top-100.pl                                    #Bookmark Site
+toplista.pl                                   #Bookmark Site
+webgidsje.nl                                  #Bookmark Site
 
-brave.com                                   #Browser
-bravesoftware.com                           #Browser
-co.cc                                       #Browser
-coccoc.com                                  #Browser
-maxthon.com                                 #Browser
-ucweb.com                                   #Browser
-updates.bravesoftware.com                   #Browser
-adblockplus.org                             #Browser Extension
-adtidy.org                                  #Browser Extension
-adzero.org                                  #Browser Extension
-bleengo.com                                 #Browser Extension
-search.bleengo.com                          #Browser Extension
-chrome.adtidy.org                           #Browser Extension
-gingersoftware.com                          #Browser Extension
-grammarly.io                                #Browser Extension
-notification.adblockplus.org                #Browser Extension
+brave.com                                     #Browser
+bravesoftware.com                             #Browser
+co.cc                                         #Browser
+coccoc.com                                    #Browser
+maxthon.com                                   #Browser
+ucweb.com                                     #Browser
+updates.bravesoftware.com                     #Browser
+adblockplus.org                               #Browser Extension
+adtidy.org                                    #Browser Extension
+adzero.org                                    #Browser Extension
+bleengo.com                                   #Browser Extension
+search.bleengo.com                            #Browser Extension
+chrome.adtidy.org                             #Browser Extension
+gingersoftware.com                            #Browser Extension
+grammarly.io                                  #Browser Extension
+notification.adblockplus.org                  #Browser Extension
 
-secure.retailmenot.com                      #Cash Back / Coupons
-ecbsn.com                                   #Cash Back (Ebates)
-ebates.com                                  #Cash Back
-rakuten.com                                 #Cash Back
-shopbackau.zendesk.com                      #Cash Back
-shopback.com.au                             #Cash Back
-shopback.com                                #Cash Back
-shopback.my                                 #Cash Back
-shopbacksg2.zendesk.com                     #Cash Back
-shopback.sg                                 #Cash Back
-splitter.ebates.com                         #Cash Back
-static.ebates.com                           #Cash Back
-befrugal.com                                #Coupons
-coupons.com                                 #Coupons
-cpnscdn.com                                 #Coupons
-shopathome.com                              #Coupons
+secure.retailmenot.com                        #Cash Back / Coupons
+ecbsn.com                                     #Cash Back (Ebates)
+ebates.com                                    #Cash Back
+rakuten.com                                   #Cash Back
+shopbackau.zendesk.com                        #Cash Back
+shopback.com.au                               #Cash Back
+shopback.com                                  #Cash Back
+shopback.my                                   #Cash Back
+shopbacksg2.zendesk.com                       #Cash Back
+shopback.sg                                   #Cash Back
+splitter.ebates.com                           #Cash Back
+static.ebates.com                             #Cash Back
+befrugal.com                                  #Coupons
+coupons.com                                   #Coupons
+cpnscdn.com                                   #Coupons
+shopathome.com                                #Coupons
 
-ig.com.br                                   #ISP (Brazil)
-xunlei.com                                  #ISP (China)
-aliceadsl.fr                                #ISP (France)
-free.fr                                     #ISP (France)
-orange.fr                                   #ISP (France)
-pagesperso-orange.fr                        #ISP (France)
-proxad.net                                  #ISP (France)
-sfr.fr                                      #ISP (France)
-voila.fr                                    #ISP (France)
-wanadoo.es                                  #ISP (France)
-wanadoo.fr                                  #ISP (France)
-fibernet.hu                                 #ISP (Hungary)
-airtel.net                                  #ISP (India)
-irishbroadband.ie                           #ISP (Ireland)
-bezeqint.net                                #ISP (Israel)
-alice.it                                    #ISP (Italy)
-fastwebnet.it                               #ISP (Italy)
-tim.it                                      #ISP (Italy)
-onvol.net                                   #ISP (Republic of Malta)
-telia.com                                   #ISP (Sweden)
-telia.se                                    #ISP (Sweden)
-tre.se                                      #ISP (Sweden)
-hinet.net                                   #ISP (Taiwan)
-btinternet.co.uk                            #ISP (UK)
-claranetsoho.co.uk                          #ISP (UK)
-freeuk.com                                  #ISP (UK)
-briz.net                                    #ISP (Ukraine)
-briz.ua                                     #ISP (Ukraine)
-debaltsevo.net                              #ISP (Ukraine)
-ic24.net                                    #ISP
-madasafish.com                              #ISP
-speednames.asia                             #ISP
-speednames.com                              #ISP
-speednames.co.uk                            #ISP
-speednames.dk                               #ISP
-speednames.eu                               #ISP
+ig.com.br                                     #ISP (Brazil)
+xunlei.com                                    #ISP (China)
+aliceadsl.fr                                  #ISP (France)
+free.fr                                       #ISP (France)
+orange.fr                                     #ISP (France)
+pagesperso-orange.fr                          #ISP (France)
+proxad.net                                    #ISP (France)
+sfr.fr                                        #ISP (France)
+voila.fr                                      #ISP (France)
+wanadoo.es                                    #ISP (France)
+wanadoo.fr                                    #ISP (France)
+fibernet.hu                                   #ISP (Hungary)
+airtel.net                                    #ISP (India)
+irishbroadband.ie                             #ISP (Ireland)
+bezeqint.net                                  #ISP (Israel)
+alice.it                                      #ISP (Italy)
+fastwebnet.it                                 #ISP (Italy)
+tim.it                                        #ISP (Italy)
+onvol.net                                     #ISP (Republic of Malta)
+telia.com                                     #ISP (Sweden)
+telia.se                                      #ISP (Sweden)
+tre.se                                        #ISP (Sweden)
+hinet.net                                     #ISP (Taiwan)
+btinternet.co.uk                              #ISP (UK)
+claranetsoho.co.uk                            #ISP (UK)
+freeuk.com                                    #ISP (UK)
+briz.net                                      #ISP (Ukraine)
+briz.ua                                       #ISP (Ukraine)
+debaltsevo.net                                #ISP (Ukraine)
+ic24.net                                      #ISP
+madasafish.com                                #ISP
+speednames.asia                               #ISP
+speednames.com                                #ISP
+speednames.co.uk                              #ISP
+speednames.dk                                 #ISP
+speednames.eu                                 #ISP
 
-adityabirla.com                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-algerietelecom.dz                           #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-chinanet.cn.net                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-cnc-noc.net                                 #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-ptcl.net.pk                                 #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-sancharnet.in                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-telkom.co.id                                #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-vnnic.net.vn                                #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-zx.nl                                       #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-tedata.net                                  #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-te.eg                                       #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-vnnic.vn                                    #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
+adityabirla.com                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+algerietelecom.dz                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+chinanet.cn.net                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+cnc-noc.net                                   #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+ptcl.net.pk                                   #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+sancharnet.in                                 #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+telkom.co.id                                  #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+vnnic.net.vn                                  #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+zx.nl                                         #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
+tedata.net                                    #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
+te.eg                                         #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
+vnnic.vn                                      #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
 
-airtel.in                                   #ISP  Worst Spam     (spamhaus.org) Feb. 2019
-htu.cc                                      #ISP  Worst Spam     (spamhaus.org) Feb. 2020
-spectranet.com.ng                           #ISP  Worst Spam     (spamhaus.org) Feb. 2020
-zzidc.com                                   #ISP  Worst Spam     (spamhaus.org) Feb. 2020
-kornet.net                                  #ISP  Worst Spam     (spamhaus.org) Oct. 2019
-moldtelecom.md                              #ISP  Worst Spam     (spamhaus.org) Oct. 2019
+airtel.in                                     #ISP  Worst Spam     (spamhaus.org) Feb. 2019
+htu.cc                                        #ISP  Worst Spam     (spamhaus.org) Feb. 2020
+spectranet.com.ng                             #ISP  Worst Spam     (spamhaus.org) Feb. 2020
+zzidc.com                                     #ISP  Worst Spam     (spamhaus.org) Feb. 2020
+kornet.net                                    #ISP  Worst Spam     (spamhaus.org) Oct. 2019
+moldtelecom.md                                #ISP  Worst Spam     (spamhaus.org) Oct. 2019
 
-miui.com                                    #Foreign   Android Rom
-shinobi.jp                                  #Foreign   Celebrity Buzz
-eu.com                                      #Foreign   Domain Register
-tmall.com                                   #Foreign   Email
-vtr.net                                     #Foreign   Email
-uc.cn                                       #Foreign   Internet Company (Singapore/China)  [Alibaba Group]
-hrvatskitelekom.hr                          #Foreign   Phone Service
-t-com.hr                                    #Foreign   Phone Service
-163.com                                     #Foreign   Multiple (China)
-qq.com                                      #Foreign   News (China)
-onet.pl                                     #Foreign   News (Poland)
-republika.pl                                #Foreign   News (Poland)
-smi2.ru                                     #Foreign   News (Russia)
-sogou.com                                   #Foreign   Search Engine
-soso.com                                    #Foreign   Search Engine
-apps.bdimg.com                              #Foreign   Search Engine [China]
-baidu.com                                   #Foreign   Search Engine [China]
-bdimg.com                                   #Foreign   Search Engine [China]
-baidu.co.th                                 #Foreign   Search Engine [China]
-so.com                                      #Foreign   Search Engine [French]
-gncia.fr                                    #Foreign   Search Engine [French]
-francite.com                                #Foreign   Search Engine [French]
-yandex.net                                  #Foreign   Search Engine [Russian]
-naver.com                                   #Foreign   Search Engine [South Korea]
-bokee.net                                   #Foreign   Social Media
-mirtesen.ru                                 #Foreign   Social Media
-vk.me                                       #Foreign   Social Media
-daum.net                                    #Foreign   Web Portal (South Korea)
+miui.com                                      #Foreign   Android Rom
+shinobi.jp                                    #Foreign   Celebrity Buzz
+eu.com                                        #Foreign   Domain Register
+tmall.com                                     #Foreign   Email
+vtr.net                                       #Foreign   Email
+uc.cn                                         #Foreign   Internet Company (Singapore/China)  [Alibaba Group]
+hrvatskitelekom.hr                            #Foreign   Phone Service
+t-com.hr                                      #Foreign   Phone Service
+163.com                                       #Foreign   Multiple (China)
+qq.com                                        #Foreign   News (China)
+onet.pl                                       #Foreign   News (Poland)
+republika.pl                                  #Foreign   News (Poland)
+smi2.ru                                       #Foreign   News (Russia)
+sogou.com                                     #Foreign   Search Engine
+soso.com                                      #Foreign   Search Engine
+apps.bdimg.com                                #Foreign   Search Engine [China]
+baidu.com                                     #Foreign   Search Engine [China]
+bdimg.com                                     #Foreign   Search Engine [China]
+baidu.co.th                                   #Foreign   Search Engine [China]
+so.com                                        #Foreign   Search Engine [French]
+gncia.fr                                      #Foreign   Search Engine [French]
+francite.com                                  #Foreign   Search Engine [French]
+yandex.net                                    #Foreign   Search Engine [Russian]
+naver.com                                     #Foreign   Search Engine [South Korea]
+bokee.net                                     #Foreign   Social Media
+mirtesen.ru                                   #Foreign   Social Media
+vk.me                                         #Foreign   Social Media
+daum.net                                      #Foreign   Web Portal (South Korea)
 
-pch.com                                     #Prizes / Giveaways
-thedailywinnings.com                        #Prizes / Giveaways
+pch.com                                       #Prizes / Giveaways
+thedailywinnings.com                          #Prizes / Giveaways
 
-acraffiliates.com                           #Gambling
-annuaire-x.com                              #Gambling
-btggaming.com                               #Gambling
-playtech.com                                #Gambling
+acraffiliates.com                             #Gambling
+annuaire-x.com                                #Gambling
+btggaming.com                                 #Gambling
+playtech.com                                  #Gambling
 
-harpquiz.com                                #Quiz
-magiquiz.com                                #Quiz
+harpquiz.com                                  #Quiz
+magiquiz.com                                  #Quiz
 
-apponic.com                                 #Software Hosting
-avanquest.com                               #Software Hosting
-brothersoft.com                             #Software Hosting
-crsky.com                                   #Software Hosting
-downloadsoftware4free.com                   #Software Hosting
-freesoftwarefiles.com                       #Software Hosting
-fyxm.net                                    #Software Hosting
-getitfree.us                                #Software Hosting
-oovoo.com                                   #Software Hosting
-qarchive.org                                #Software Hosting
-softonic.com                                #Software Hosting
-softonic.info                               #Software Hosting
+apponic.com                                   #Software Hosting
+avanquest.com                                 #Software Hosting
+brothersoft.com                               #Software Hosting
+crsky.com                                     #Software Hosting
+downloadsoftware4free.com                     #Software Hosting
+freesoftwarefiles.com                         #Software Hosting
+fyxm.net                                      #Software Hosting
+getitfree.us                                  #Software Hosting
+oovoo.com                                     #Software Hosting
+qarchive.org                                  #Software Hosting
+softonic.com                                  #Software Hosting
+softonic.info                                 #Software Hosting
 
-adguard.com                                 #Software - AdGuard
-adguard.org                                 #Software - AdGuard
-adtidy.net                                  #Software - AdGuard
-api.adguard.com                             #Software - AdGuard
-local.adguard.org                           #Software - AdGuard
-static.adguard.com                          #Software - AdGuard
-ccleaner.tools.avcdn.net                    #Software - ccleaner
-curseapp.net                                #Software - Curse       (In-Game Voice Chat)
-dashlane.com                                #Software - Daskline    (Password Manager)
-flipboard.com                               #Software - Flipbloard
-glarysoft.com                               #Software - Glary Utilities
-download.iolo.net                           #Software - Iolo (System Mechanic)
-iolo.com                                    #Software - Iolo (System Mechanic)
-iolo.net                                    #Software - Iolo (System Mechanic)
-svc.iolo.com                                #Software - Iolo (System Mechanic)
-duapp.com                                   #Software - Nox (Android Emulator)
-bignox.com                                  #Software - Nox (Android Emulator)
-plex.direct                                 #Software - Plex  (Stream)
-appexnw.com                                 #Software - Pokki (Start Menu)
-pokki.com                                   #Software - Pokki (Start Menu)
-pokkinw.com                                 #Software - Pokki (Start Menu)
-real.com                                    #Software - RealPlayer
-weatherbug.com                              #Software - Weatherbug
-weatherbug.net                              #Software - Weatherbug
-ampsvc.com                                  #Software - WildTangent Games
-dp2manifester.ampsvc.com                    #Software - WildTangent Games
-manifester.ampsvc.com                       #Software - WildTangent Games
-wildgames.com                               #Software - WildTangent Games
-wildtangent.com                             #Software - WildTangent Games
-winzip.com                                  #Software - Winzip
-kingsoft-office-service.com                 #Software - WPS Office
-kingsoftstore.com                           #Software - WPS Office
-versiontracker.com                          #Software - WPS Office
-wps.cn                                      #Software - WPS Office
-wps.com                                     #Software - WPS Office
+adguard.com                                   #Software - AdGuard
+adguard.org                                   #Software - AdGuard
+adtidy.net                                    #Software - AdGuard
+api.adguard.com                               #Software - AdGuard
+local.adguard.org                             #Software - AdGuard
+static.adguard.com                            #Software - AdGuard
+ccleaner.tools.avcdn.net                      #Software - ccleaner
+curseapp.net                                  #Software - Curse       (In-Game Voice Chat)
+dashlane.com                                  #Software - Daskline    (Password Manager)
+flipboard.com                                 #Software - Flipbloard
+glarysoft.com                                 #Software - Glary Utilities
+download.iolo.net                             #Software - Iolo (System Mechanic)
+iolo.com                                      #Software - Iolo (System Mechanic)
+iolo.net                                      #Software - Iolo (System Mechanic)
+svc.iolo.com                                  #Software - Iolo (System Mechanic)
+duapp.com                                     #Software - Nox (Android Emulator)
+bignox.com                                    #Software - Nox (Android Emulator)
+plex.direct                                   #Software - Plex  (Stream)
+appexnw.com                                   #Software - Pokki (Start Menu)
+pokki.com                                     #Software - Pokki (Start Menu)
+pokkinw.com                                   #Software - Pokki (Start Menu)
+real.com                                      #Software - RealPlayer
+weatherbug.com                                #Software - Weatherbug
+weatherbug.net                                #Software - Weatherbug
+ampsvc.com                                    #Software - WildTangent Games
+dp2manifester.ampsvc.com                      #Software - WildTangent Games
+manifester.ampsvc.com                         #Software - WildTangent Games
+wildgames.com                                 #Software - WildTangent Games
+wildtangent.com                               #Software - WildTangent Games
+winzip.com                                    #Software - Winzip
+kingsoft-office-service.com                   #Software - WPS Office
+kingsoftstore.com                             #Software - WPS Office
+versiontracker.com                            #Software - WPS Office
+wps.cn                                        #Software - WPS Office
+wps.com                                       #Software - WPS Office
+zoom.us                                       #Software - Zoom
 
-pair.com                                    #Web Hosting  (Belgium)
-hospedagemdesites.ws                        #Web Hosting  (Brazil)  LocaWeb
-locaweb.com.br                              #Web Hosting  (Brazil)
-qbox.me                                     #Web Hosting  (China)
-wz.cz                                       #Web Hosting  (Czech Republic)
-24.eu                                       #Web Hosting  (Europe)
-hosttech.eu                                 #Web Hosting  (Europe)
-cafe24.com                                  #Web Hosting  (Korea)
-dothome.co.kr                               #Web Hosting  (Korea)
-big07.pl                                    #Web Hosting  (Poland)
-nazwa.pl                                    #Web Hosting  (Poland)
-hostland.pro                                #Web Hosting  (Russia)
-hostland.ru                                 #Web Hosting  (Russia)
-sprinthost.ru                               #Web Hosting  (Russia)
-tmweb.ru                                    #Web Hosting  (Russia)
-xsph.ru                                     #Web Hosting  (Russia)
-websitehome.co.uk                           #Web Hosting  (UK)
-303.lt                                      #Web Hosting
-mellle.com                                  #Web Hosting
-plesk.com                                   #Web Hosting
-justhost.com                                #Web Hosting
-2sx.com                                     #Web Hosting
-aerobaticapp.com                            #Web Hosting
-alfaspace.net                               #Web Hosting
-arvixe.com                                  #Web Hosting
-bizland.com                                 #Web Hosting
-bluehost.com                                #Web Hosting
-chez-alice.fr                               #Web Hosting
-domainpro.de                                #Web Hosting
-ferozo.com                                  #Web Hosting
-flywheelsites.com                           #Web Hosting
-fortunecity.com                             #Web Hosting
-freeyellow.com                              #Web Hosting
-gb.net                                      #Web Hosting
-getforge.io                                 #Web Hosting
-hosteur.com                                 #Web Hosting
-inmotionhosting.com                         #Web Hosting
-inter.net                                   #Web Hosting
-istcool.de                                  #Web Hosting
-kameleoon.eu                                #Web Hosting
-levillage.org                               #Web Hosting
-myregisteredsite.com                        #Web Hosting
-n3.net                                      #Web Hosting
-pagina.be                                   #Web Hosting
-simplenet.com                               #Web Hosting
-site44.com                                  #Web Hosting
-strefa.pl                                   #Web Hosting
-t35.com                                     #Web Hosting
-uw.hu                                       #Web Hosting
-virtualave.net                              #Web Hosting
-xrea.com                                    #Web Hosting
-xtreemhost.com                              #Web Hosting
+pair.com                                      #Web Hosting  (Belgium)
+hospedagemdesites.ws                          #Web Hosting  (Brazil)  LocaWeb
+locaweb.com.br                                #Web Hosting  (Brazil)
+qbox.me                                       #Web Hosting  (China)
+wz.cz                                         #Web Hosting  (Czech Republic)
+24.eu                                         #Web Hosting  (Europe)
+hosttech.eu                                   #Web Hosting  (Europe)
+cafe24.com                                    #Web Hosting  (Korea)
+dothome.co.kr                                 #Web Hosting  (Korea)
+big07.pl                                      #Web Hosting  (Poland)
+nazwa.pl                                      #Web Hosting  (Poland)
+hostland.pro                                  #Web Hosting  (Russia)
+hostland.ru                                   #Web Hosting  (Russia)
+sprinthost.ru                                 #Web Hosting  (Russia)
+tmweb.ru                                      #Web Hosting  (Russia)
+xsph.ru                                       #Web Hosting  (Russia)
+websitehome.co.uk                             #Web Hosting  (UK)
+303.lt                                        #Web Hosting
+mellle.com                                    #Web Hosting
+plesk.com                                     #Web Hosting
+justhost.com                                  #Web Hosting
+2sx.com                                       #Web Hosting
+aerobaticapp.com                              #Web Hosting
+alfaspace.net                                 #Web Hosting
+arvixe.com                                    #Web Hosting
+bizland.com                                   #Web Hosting
+bluehost.com                                  #Web Hosting
+chez-alice.fr                                 #Web Hosting
+domainpro.de                                  #Web Hosting
+ferozo.com                                    #Web Hosting
+flywheelsites.com                             #Web Hosting
+fortunecity.com                               #Web Hosting
+freeyellow.com                                #Web Hosting
+gb.net                                        #Web Hosting
+getforge.io                                   #Web Hosting
+hosteur.com                                   #Web Hosting
+inmotionhosting.com                           #Web Hosting
+inter.net                                     #Web Hosting
+istcool.de                                    #Web Hosting
+kameleoon.eu                                  #Web Hosting
+levillage.org                                 #Web Hosting
+myregisteredsite.com                          #Web Hosting
+n3.net                                        #Web Hosting
+pagina.be                                     #Web Hosting
+simplenet.com                                 #Web Hosting
+site44.com                                    #Web Hosting
+strefa.pl                                     #Web Hosting
+t35.com                                       #Web Hosting
+uw.hu                                         #Web Hosting
+virtualave.net                                #Web Hosting
+xrea.com                                      #Web Hosting
+xtreemhost.com                                #Web Hosting
 
-angellrackets.com                           #Website Builder
-bitballoon.com                              #Website Builder
-bravesites.com                              #Website Builder
-cabanova.fr                                 #Website Builder
-citymax.com                                 #Website Builder
-cloversites.com                             #Website Builder
-doodlekit.com                               #Website Builder
-droppages.com                               #Website Builder
-getshogun-cache-production.s3.amazonaws.com #Website Builder
-cdn.getshogun.com                           #Website Builder
-getshogun.com                               #Website Builder
-homeworkgenerator.co.uk                     #Website Builder
-hypermart.net                               #Website Builder
-masterweb.id                                #Website Builder
-moonfruit.com                               #Website Builder
-netfirms.com                                #Website Builder
-ning.com                                    #Website Builder
-ucraft.me                                   #Website Builder
-ukit.me                                     #Website Builder
-urest.org                                   #Website Builder
-webeden.co.uk                               #Website Builder
-webydo.com                                  #Website Builder
-xtgem.com                                   #Website Builder
-zohosites.com                               #Website Builder
+angellrackets.com                             #Website Builder
+bitballoon.com                                #Website Builder
+bravesites.com                                #Website Builder
+cabanova.fr                                   #Website Builder
+citymax.com                                   #Website Builder
+cloversites.com                               #Website Builder
+doodlekit.com                                 #Website Builder
+droppages.com                                 #Website Builder
+getshogun-cache-production.s3.amazonaws.com   #Website Builder
+cdn.getshogun.com                             #Website Builder
+getshogun.com                                 #Website Builder
+homeworkgenerator.co.uk                       #Website Builder
+hypermart.net                                 #Website Builder
+masterweb.id                                  #Website Builder
+moonfruit.com                                 #Website Builder
+netfirms.com                                  #Website Builder
+ning.com                                      #Website Builder
+ucraft.me                                     #Website Builder
+ukit.me                                       #Website Builder
+urest.org                                     #Website Builder
+webeden.co.uk                                 #Website Builder
+webydo.com                                    #Website Builder
+xtgem.com                                     #Website Builder
+zohosites.com                                 #Website Builder
 
-lycos.com                                   #Search Engine - Links to malware
+lycos.com                                     #Search Engine - Links to malware
 
-ask-tb.com                                  #Search Engine   Ask (Toolbar
-anx.tb.ask.com                              #Search Engine   Ask
-ask.com                                     #Search Engine   Ask
-live.tb.ask.com                             #Search Engine   Ask
-search.ask.com                              #Search Engine   Ask
-search.tb.ask.com                           #Search Engine   Ask
-ss-sym.search.ask.com                       #Search Engine   Ask
-tbapi.search.ask.com                        #Search Engine   Ask
-search.comodo.com                           #Search Engine   Comodo
-sugg.search.yahoo.net                       #Search Engine   Yahoo (Suggestions)
-toolbar.yahoo.com                           #Search Engine   Yahoo (Toolbar)
-search.yahoo.com                            #Search Engine   Yahoo
-copernicus-software.stores.yahoo.net        #Search Engine   Yahoo
-search.zonealarm.com                        #Search Engine   ZoneAlarm (Safe Search)
+ask-tb.com                                    #Search Engine   Ask (Toolbar
+anx.tb.ask.com                                #Search Engine   Ask
+ask.com                                       #Search Engine   Ask
+live.tb.ask.com                               #Search Engine   Ask
+search.ask.com                                #Search Engine   Ask
+search.tb.ask.com                             #Search Engine   Ask
+ss-sym.search.ask.com                         #Search Engine   Ask
+tbapi.search.ask.com                          #Search Engine   Ask
+search.comodo.com                             #Search Engine   Comodo
+sugg.search.yahoo.net                         #Search Engine   Yahoo (Suggestions)
+toolbar.yahoo.com                             #Search Engine   Yahoo (Toolbar)
+search.yahoo.com                              #Search Engine   Yahoo
+copernicus-software.stores.yahoo.net          #Search Engine   Yahoo
+search.zonealarm.com                          #Search Engine   ZoneAlarm (Safe Search)
 
-downloadaccelerator.com                     #Video Downloader
-savetubevideo.com                           #Video Downloader
-snappea.com                                 #Video Downloader
-
-whatsapp.net                                #VOIP
-
-pythonanywhere.com                          #Can be used for malware
-
-godaddysites.com                            #Un-Finished sites - Usually malware
-
-addtoany.com                                #Universal Sharing
+hi5.com                                       #Social Media (Contains Adult Sites)
 
 
+downloadaccelerator.com                       #Video Downloader
+savetubevideo.com                             #Video Downloader
+snappea.com                                   #Video Downloader
+
+whatsapp.net                                  #VOIP
+
+pythonanywhere.com                            #Can be used for malware
+
+godaddysites.com                              #Un-Finished sites - Usually malware
+
+addtoany.com                                  #Universal Sharing
 
 
 
-cdn.snipr.gg                                #Hacking Tool - Credential Stuffing Toolkit 
-snipr.gg                                    #Hacking Tool - Credential Stuffing Toolkit 
 
-cyclope-series.com                          #Employee Monitoring Software
+
+cdn.snipr.gg                                  #Hacking Tool - Credential Stuffing Toolkit 
+snipr.gg                                      #Hacking Tool - Credential Stuffing Toolkit 
+
+cyclope-series.com                            #Employee Monitoring Software
 
 
 

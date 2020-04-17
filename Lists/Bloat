@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
 #
-# Updated: 4/10/2020  15:19  (3:19 PM)  - Central Standard Time
+# Updated: 4/17/2020  01:16  (1:16 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -32,6 +32,8 @@ use.fontawesome.com                     #Font     Font Awesome
 fortawesome.com                         #Font    Fort Awesome
 fonticons.com                           #Font    Fort Awesome
 fonts.shopifycdn.com                    #Font  Shopify
+webtype.com                             #Font    WebType
+pls.webtype.com                         #Font    WebType
 drh-fonts.img.digitalrivercontent.net   #Font     Specific
 fonts.ea.com.c.footprint.net            #Font     Specific
 fonts.ea.com                            #Font     Specific
@@ -385,6 +387,7 @@ clmbtech.com                                            #Android  [App]   MXplay
 mxplay.com                                              #Android  [App]   MXplayer
 mxplayer.j2inter.com                                    #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com                #Android  [App]   MXplayer
+classicwords.net                                        #Android  [Game]  Classic Words
 coverfire.s3.dualstack.us-east-1.amazonaws.com          #Android  [Game]  Coverfire
 soniccd-cdn.s3.amazonaws.com                            #Android  [Game]  Sonic CD
 tfg-customer.s3.amazonaws.com                           #Android  [Game]  Bike Race  (FAQs ?)
@@ -457,9 +460,10 @@ draper-staging.popcap.com                               #Android  [App Studio]  
 gats.popcap.com                                         #Android  [App Studio]    PopCap / EA
 pegglex-live.ecs.popcap.com                             #Android  [App Studio]    PopCap / EA
 pegmo-prd.popcap.com                                    #Android  [App Studio]    PopCap / EA
-reliancegames.com                                       #Android  [App Studio]    Reliance Games
 raongames.com                                           #Android  [App Studio]    Raon Games
 redantzgames.com                                        #Android  [App Studio]    Red Antz
+reliancegames.com                                       #Android  [App Studio]    Reliance Games
+rjsnetwork.com                                          #Android  [App Studio]    Rj Softwares
 saygames.io                                             #Android  [App Studio]    SayGames
 scopely.com                                             #Android  [App Studio]    Scopely
 scopely.io                                              #Android  [App Studio]    Scopely
@@ -470,6 +474,7 @@ surpax.net                                              #Android  [App Studio]  
 tensquaregames.com                                      #Android  [App Studio]    Ten Square Games
 tapps.games                                             #Android  [App Studio]    TappsGames
 fungames-forfree.com                                    #Android  [App Studio]    TFG
+super-chameleon.com                                     #Android  [App Studio]    Volcano Games
 voodoo-tech.io                                          #Android  [App Studio]    Voodoo
 tfgco.com                                               #Android  [App Studio]    WildLife
 zeptolab.com                                            #Android  [App Studio]    Zepto Lab

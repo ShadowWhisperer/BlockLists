@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
 #
-# Updated: 4/15/2020  22:32  (10:32 PM)  - Central Standard Time
+# Updated: 4/17/2020  01:16  (1:16 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -2946,6 +2946,7 @@
 484a778031b373fc.u2.bumlam.com
 486s.adj.st
 488-ct.c3tag.com
+489a19fa-d831-4954-858d-46436d5cdb20.register.collector.scopely.io
 48dacd561133efe5.u2.bumlam.com
 48sbr.app.link
 48.us.wr.pixapi.net
@@ -7277,6 +7278,7 @@ ak.sascdn.com
 aksecure.imrworldwide.com
 akstat.io
 aks-test.logrocket.io
+akt.audiencemanager.de
 aktionrsbank01.wt-eu02.net
 akweb.whenu.com
 akzodniwkaszybkaodnowa.sjv.io
@@ -9451,6 +9453,7 @@ anydo-sdk-api.placer.io
 any-v4.pops.fastly-insights.com
 anz2.co1.qualtrics.com
 anz360.qualtrics.com
+anz.audiencemanager.de
 anz.co1.qualtrics.com
 ao2j7ruu.emltrk.com
 ao3648.actonsoftware.com
@@ -10191,6 +10194,7 @@ api.tf.airfind.com
 api.tfvpn.airfind.com
 api.theadex.com
 api.thebrighttag.com
+api.tiles.mapbox.com
 api.tns-cs.net
 api.touchcommerce.com
 api-tracker.mobfox.com
@@ -11350,6 +11354,7 @@ audiencefinder.onaudience.com
 audience.gemius.pl
 audience.groundtruth.com
 audienceinsights.net
+audiencemanager.de
 audiencemanager.nanointeractive.com
 audience.powerlinks.com
 audiences-alpha.bluekai.com
@@ -15313,6 +15318,7 @@ cdn.at.atwola.com
 cdn.atdmt.com
 cdn.atwola.com
 cdn.au1.gigya.com
+cdn.audiencemanager.de
 cdn.augur.io
 cdn-au.optimizely.com
 cdn-aus-v3.conductrics.com
@@ -15705,6 +15711,7 @@ cdn.snapppt.com
 cdn-social.janrain.com
 cdnsonata.taptapnetworks.com
 cdn-s-optional.optimizely.com
+cdn.speedcurve.com
 cdn.spongecell.com
 cdnssl.clicktale.net
 cdn-stage-fastly.krxd.net
@@ -18563,6 +18570,7 @@ collector-pxxor1k5b6.px-cloud.net
 collector-pxy2figei7.px-cloud.net
 collector-pxzjhlv82x.px-cloud.net
 collector.pyze.com
+collector.scopely.io
 collector-single-fastly.a.pxi.pub
 collectors.sumologic.com
 collector-staging.lightstep.com
@@ -20685,6 +20693,7 @@ crazyegg.com
 crazypanda.helpshift.com
 crb-r.tlnk.io
 cr.channelintelligence.com
+crd.audiencemanager.de
 creamice67.infodisplay.provenpixel.com
 create.backtrace.io
 createrr.app.link
@@ -25931,6 +25940,7 @@ evenimentu.count.brat-online.ro
 event2.hiconversion.com
 event.adxpose.com
 event.api.cp.tune.com
+event.collector.scopely.io
 event.condenastdigital.com
 event.headshot.adx1.com
 event.hiconversion.com
@@ -28481,6 +28491,7 @@ gemutrecht.piwik.pro
 gen1.loggly.com
 gen2.loggly.com
 gen4.reports.tools.gos.ea.com
+generalelectric.112.2o7.net
 generalmediaadhu.hit.gemius.pl
 generalmotors.acxiom.com
 generator.sensic.net
@@ -28743,6 +28754,7 @@ geoloc9.geovisite.com
 geoloc.api.taxi
 geoloc.appscion.com
 geoloc.arte.tv
+geolocation.1trust.app
 geolocation.daznservices.com
 geo-location-dev.s-onetag.com
 geolocation.forbes.com
@@ -34268,6 +34280,7 @@ klingelde.widget.criteo.com
 klingelfi.widget.criteo.com
 klingelse.widget.criteo.com
 klj7ks7suaveafy3uiqci7d9xivjw1509507931.nuid.imrworldwide.com
+klk.audiencemanager.de
 klksqlhafcgccgzho4lwsxyghd56j1508195810.nuid.imrworldwide.com
 klm.commander1.com
 klook.onelink.me
@@ -35826,6 +35839,7 @@ log.ad.xiaomi.com
 log.adywind.com
 log.aebn.net
 log.affiliate.rakuten.co.jp
+logagent-global.kingsgroupgames.com
 log.agoop.net
 loga.hit-parade.com
 logaholic.com
@@ -36081,6 +36095,7 @@ logger.gtm.ooyala.com.akadns.net
 loggerhead-fra01.omnitagjs.com
 loggerhead-fra02.omnitagjs.com
 loggerhead.omnitagjs.com
+logger.icolorfast.com
 logger.independent.co.uk
 logger.instagram.com
 logger.ivi.ru
@@ -37011,6 +37026,7 @@ lordsmobile.onelink.me
 lorealparis2010.solution.weborama.fr
 lorealparis.solution.weborama.fr
 loscu9ukueyhop5s1pqjdod8e7fmh1514984422.nuid.imrworldwide.com
+lost-clientlog.super-chameleon.com
 lotame.nexac.com
 lotechad.hit.gemius.pl
 lottoland.evergage.com
@@ -37185,6 +37201,7 @@ lurn.clickperfect.com
 lushusa.sslproxy.gigya.com
 luvianetwork.hasoffers.com
 luxotticaitalia01.wt-eu02.net
+lux.speedcurve.com
 luxsy.app.link
 luxu.app.link
 luxuryfashionsboutique.tapfiliate.com
@@ -37871,6 +37888,7 @@ man-v4.pops.fastly-insights.com
 manzoniit.solution.weborama.fr
 map24.ivwbox.de
 map-beta.media6degrees.com
+mapbox.com
 mapclick.amap.com
 map.geoup.com
 mapi.apptimize.com
@@ -38328,6 +38346,7 @@ md-ll.apptimize.com
 mdmb.adj.st
 mdm-public.mow.wavesecure.com
 mdn-direct.rtb.adp3.net.rtb.adx1.com
+mdotlabs.com
 mdpcommunication.containers.piwik.pro
 mdpcommunication.piwik.pro
 mdr.ivwbox.de
@@ -41239,6 +41258,7 @@ mylittlepony.onthe.io
 mylmu.co1.qualtrics.com
 mylmu.qualtrics.com
 myloc.adclear.net
+mylocation.org
 mylongtail.com
 mymail-alternate.app.link
 mymail.app.link
@@ -46351,6 +46371,7 @@ preview-sv6.criteo.com
 preview.turn.com
 prey.onelink.me
 prezzybox.btttag.com
+prf.audiencemanager.de
 prfct.co
 prftbllfcs.blueconic.net
 prg-image-dr.global.exacttarget.com
@@ -46492,6 +46513,7 @@ prod-europe-spoz1-inmobi.spotad.co
 prod-europe-spoz1-rubicon.spotad.co
 prod-europe-spoz1-smaato.spotad.co
 prodfb-t.singular.net
+prod.geo.gluops.com
 prod.geoservice.gluops.com
 prod-greyhound.bizsys.urbanairship.com
 prod.gsm.applicationinsights.io
@@ -51552,6 +51574,7 @@ seal-charlotte.bbb.org
 seal-chicago.bbb.org
 seal.globalsign.com
 seal-goldengate.bbb.org
+seal-houston.bbb.org
 seal-minnesota.bbb.org
 seal-nebraska.bbb.org
 seal-oklahomacity.bbb.org
@@ -55024,6 +55047,7 @@ smetrics.td.com
 smetrics.td.com.edgekey.net
 smetrics.tdworld.com
 smetrics.teambeachbody.com
+smetrics.teampages.com
 smetrics.tecoloco.co.cr
 smetrics.tecoloco.com
 smetrics.tecoloco.com.do
@@ -55381,6 +55405,7 @@ sn2dsd7y-ios.mobile-sdk-api.intercom.io
 snai.solution.weborama.fr
 snakeoil.kochava.com
 snapav.loggly.com
+snap.events.mapbox.com
 snapfishde.widget.criteo.com
 snapppt.com
 snapra.woopra.com
@@ -55773,6 +55798,7 @@ spectdgbd.chprofit.track.clicksure.com
 spectrum0.app.link
 spectrumreach.ads.placeiq.com
 speech.marchex.io
+speedcurve.com
 speeders.researchnow.com
 speedhunters.api.oneall.com
 speedle.insightfirst.com
@@ -57915,6 +57941,7 @@ stats.fittkaumaass.de
 stats.fn.sportradar.com
 stats.folha.com.br
 stats.folha.uol.com.br
+stats.fomo.com
 stats.fon.com
 stats.fonecta.fi
 stats.fr
@@ -58312,6 +58339,7 @@ stat.sport.cz
 stat.sports.ru
 stats.posta.com.tr
 stats.posten.se
+stats.postgen.com
 stats.pqrifsjpryygmip.pw
 stats.premiumsim.de
 stats.printatree.com
@@ -59958,6 +59986,7 @@ tabtrader.helpshift.com
 tacoda.at.atwola.com
 tadanetwork.app.link
 t.adcell.com
+t.admp.io
 tafbar.focalex.com
 tafeqld.au1.qualtrics.com
 tafmaster-a.focalex.com
@@ -65993,6 +66022,7 @@ ui.ensighten.com
 uif.microsoft.com
 uifq1185.emltrk.com
 uim01.wt-eu02.net
+ui.mdotlabs.com
 uindy.co1.qualtrics.com
 ui.optimizely.com
 uiowa.qualtrics.com
@@ -68757,6 +68787,7 @@ whoami.akamai.com
 whoami.akamai.net
 whoami.visualdna.com
 whodex.spredfast.com
+whoer.net
 whois.markmonitor.com
 whoisping.com
 whoisvisiting.com
