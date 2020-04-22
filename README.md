@@ -39,7 +39,7 @@ _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may break some website
   echo "0.0.0.0 $Line www<span></span>.$Line mobile.$Line m.$Line" >> OUTPUT_LIST
   done < INPUT_LIST
   
-**Useful Links** 
+**Useful Links**  
 [Norton Safeweb](https://safeweb.norton.com/)  
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
 [VirusTotal](https://www.virustotal.com/gui/home/url)  
