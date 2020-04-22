@@ -1,7 +1,7 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
 #
-# Updated: 4/17/2020  01:16  (1:16 AM)  - Central Standard Time
+# Updated: 4/22/2020  00:34  (12:34 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -24,9 +24,14 @@ api.he7ll.com                 #Adult Sites
 he7ll.com                     #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
+mas-ext.amazon.com          #Amazon
+mas-sdk.amazon.com          #Amazon
+msh.amazon.co.uk            #Amazon
 new.avira.com                #Avira
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
+postclickmarketing.com        #Ion Interactive
+ioninteractive.com            #Ion Interactive
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
 2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
@@ -39,10 +44,6 @@ quora-prod-tch-vpc-1136165707.us-east-1.elb.amazonaws.com    #Quora
 tch710729.tch.quora.com                                      #Quora
 realpush.network                  #RealPush
 select5.realpush.network          #RealPush
-assets.rbl.ms                 #RebelMouse
-rebelmouse.com                #RebelMouse
-resize.rbl.ms                 #RebelMouse
-static.rbl.ms                 #RebelMouse
 promotions.skype.com            #Skype
 bo.promotions.skype.com         #Skype
 ptest.ysm.yahoo.com               #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
@@ -114,6 +115,7 @@ sdg.fwtrck.com                                        #Seen with Adult Sites
 fwtrck.com                                            #Seen with Adult Sites
 t.marketing.activision.com                                     #Activision
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
+appcelerator.com                                                #Appcelerator
 urs.cnet.com                                                 #Cnet (easyXDM)
 lookaside.facebook.com                                      #Facebook
 z-m.c10r.facebook.com                                       #Facebook
@@ -215,6 +217,7 @@ pe.hu               #Possibly Illegal Hacked IP Cameras
 assinie.com         #Subdomains include adult sites
 carrefourpro.com    #Subdomains include adult sites
 cdnaccess.com       #Subdomains include adult sites
+home.ro             #Dead ?
 wow-hosting.com     #Dead ?
 crajack.com
 easyincontro.org
@@ -414,6 +417,7 @@ auth.ff.avast.com                        #Avast / AVG
 emupdate.avcdn.net                       #Avast / AVG
 emupdate.bav.avcdn.net                   #Avast / AVG
 nos.ns1.ff.avast.com                     #Avast / AVG
+_nos._tcp.nos.avast.com                  #Avast / AVG
 nuistatic.avcdn.net                      #Avast / AVG
 shepherd.avcdn.net                       #Avast / AVG
 shepherd.ff.avast.com                    #Avast / AVG
@@ -483,6 +487,7 @@ foxbusinessp.factsetdigitalsolutions.com           #Fox News
 h20255.www2.hp.com                             #HP
 instagram.c10r.facebook.com              #Instagram
 maps.instagram.com                       #Instagram
+scontent-nrt1-1.cdninstagram.com         #Instagram
 z-p42-instagram.c10r.facebook.com        #Instagram
 a314.gameloft.com                            #GameLoft
 bob-fedex-fsg002.gameloft.com                #GameLoft
@@ -1463,8 +1468,7 @@ trust-guard.com                                #TrustGuard
 caps.twitter.com                             #Twitter
 cdn.api.twitter.com                          #Twitter
 s.twitter.com                                #Twitter
-eligibility-panelresearch.googlevideo.com       #YouTube - Roku TV
-userpaneltv-pa.googleapis.com                   #YouTube - Roku TV
+userpaneltv-pa.googleapis.com                   #YouTube - SmartTV
 4g2.vzwdm.com                                #Verizon
 api-v.vzmessages.com                         #Verizon
 cs22.wpc.v0cdn.net                           #Verizon

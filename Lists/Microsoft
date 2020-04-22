@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 #
-# Updated: 4/2/2020  22:23  (10:23 PM)  - Central Standard Time
+# Updated: 4/22/2020  00:34  (12:34 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -24,6 +24,7 @@ livetile.hulu.com                                      #Win 10 Tile
 livetiles.health.appex.bing.com                        #Win 10 Tile
 mgslivetiles.cloudapp.net                              #Win 10 Tile
 phone.sports.tile.appex.bing.com                       #Win 10 Tile
+service.weather.microsoft.com                          #Win 10 Tile
 tile-service.weather.microsoft.com                     #Win 10 Tile
 travel.tile.appex.bing.com                             #Win 10 Tile
 weather.microsoft.com                                  #Win 10 Tile
@@ -195,6 +196,7 @@ tk2.plt.msn.com                          # ? MSN
 
 cys-efz.ms-acdc.office.com               # ? Office
 enrichment.osi.office.net                # ? Office
+f-0001.f-msedge.net                      # ? Office
 loki.delve.office.com                    # ? Office
 lpcres.delve.office.com                  # ? Office
 lyh-efz.ms-acdc.office.com               # ? Office
