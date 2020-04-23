@@ -1,52 +1,49 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-#
-# Updated: 4/17/2020  01:16  (1:16 AM)  - Central Standard Time
+# Updated: 4/23/2020  16:14  (4:14 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
 
-  #  #
-  #  # https://www.spamhaus.org/statistics/networks/
-  #  #  #
+#
+## https://www.spamhaus.org/statistics/networks/
+#
 
-
-brazzerssurvey.com                                       #Survey
-inmoment.com                                             #Survey
-lb.polldaddy.com                                         #Survey
-opinionbar.com                                           #Survey
-polldaddy.com                                            #Survey
-poll.fm                                                  #Survey
-samplicio.us                                             #Survey
-secure.polldaddy.com                                     #Survey
-survey.io                                                #Survey
-surveyrouter.com                                         #Survey
-ups.surveyrouter.com                                     #Survey
-you-cubez.com                                            #Survey
-amdsurveys.com                                           #Survey - AMD
-d2yyd1h5u9mauk.cloudfront.net                            #Survey - Delighted
-delighted.com                                            #Survey - Delighted
-iteratehq.com                                            #Survey - Iterate
-globaltestmarket.com                                     #Survey - Life Points
-lifepointspanel.com                                      #Survey - Life Points
-demographics.neat.com                                    #Survey - Neat Scanner
-research.net                                             #Survey - Research
-d2bnxibecyz4h5.cloudfront.net                            #Survey - Survey Gizmo
-surveygizmo.com                                          #Survey - Survey Gizmo
-surveyking.com                                           #Survey - Survery Kings
-survey-kings.com                                         #Survey - Survery Kings
-surveymonkey-assets.s3.amazonaws.com                     #Survey - Survey Monkey
-surveymonkey.com                                         #Survey - Survey Monkey
-surveymonkey.de                                          #Survey - Survey Monkey
-usabilla.com                                             #Survey - Survey Monkey (usabilla)
-survicate.com                                            #Survey - Survicate
-survey.webrootanywhere.com                               #Survey - Webroot
-yesinsights.com                                          #Survey - Yes Insights
-questionpro.com                                          #Survey - Question Pro
-surveys.questionpro.com                                  #Survey - Question Pro
-
+brazzerssurvey.com                            #Survey
+inmoment.com                                  #Survey
+lb.polldaddy.com                              #Survey
+opinionbar.com                                #Survey
+polldaddy.com                                 #Survey
+poll.fm                                       #Survey
+samplicio.us                                  #Survey
+secure.polldaddy.com                          #Survey
+survey.io                                     #Survey
+surveyrouter.com                              #Survey
+ups.surveyrouter.com                          #Survey
+you-cubez.com                                 #Survey
+amdsurveys.com                                #Survey - AMD
+d2yyd1h5u9mauk.cloudfront.net                 #Survey - Delighted
+delighted.com                                 #Survey - Delighted
+iteratehq.com                                 #Survey - Iterate
+globaltestmarket.com                          #Survey - Life Points
+lifepointspanel.com                           #Survey - Life Points
+demographics.neat.com                         #Survey - Neat Scanner
+research.net                                  #Survey - Research
+d2bnxibecyz4h5.cloudfront.net                 #Survey - Survey Gizmo
+surveygizmo.com                               #Survey - Survey Gizmo
+surveyking.com                                #Survey - Survery Kings
+survey-kings.com                              #Survey - Survery Kings
+surveymonkey-assets.s3.amazonaws.com          #Survey - Survey Monkey
+surveymonkey.com                              #Survey - Survey Monkey
+surveymonkey.de                               #Survey - Survey Monkey
+usabilla.com                                  #Survey - Survey Monkey (usabilla)
+survicate.com                                 #Survey - Survicate
+survey.webrootanywhere.com                    #Survey - Webroot
+yesinsights.com                               #Survey - Yes Insights
+questionpro.com                               #Survey - Question Pro
+surveys.questionpro.com                       #Survey - Question Pro
 
 c9users.io                                    #Amazon  Cloud9
 
@@ -89,6 +86,7 @@ linkarena.com                                 #Bookmark Site
 linkoverzicht.be                              #Bookmark Site
 maakjestart.nl                                #Bookmark Site
 ontoplist.com                                 #Bookmark Site
+pagina.nl                                     #Bookmark Site
 pagina.nu                                     #Bookmark Site
 startbeurs.be                                 #Bookmark Site
 startbewijs.be                                #Bookmark Site
@@ -175,6 +173,7 @@ speednames.co.uk                              #ISP
 speednames.dk                                 #ISP
 speednames.eu                                 #ISP
 
+zvi.ru                                        #ISP  Worst Botnet   (spamhaus.org) Apr. 2020
 adityabirla.com                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
 algerietelecom.dz                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
 chinanet.cn.net                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
@@ -187,7 +186,7 @@ zx.nl                                         #ISP  Worst Botnet   (spamhaus.org
 tedata.net                                    #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
 te.eg                                         #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
 vnnic.vn                                      #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-
+fos-vpn.org                                   #ISP  Worst Spam     (spamhaus.org) Apr. 2020
 airtel.in                                     #ISP  Worst Spam     (spamhaus.org) Feb. 2019
 htu.cc                                        #ISP  Worst Spam     (spamhaus.org) Feb. 2020
 spectranet.com.ng                             #ISP  Worst Spam     (spamhaus.org) Feb. 2020
@@ -208,17 +207,6 @@ qq.com                                        #Foreign   News (China)
 onet.pl                                       #Foreign   News (Poland)
 republika.pl                                  #Foreign   News (Poland)
 smi2.ru                                       #Foreign   News (Russia)
-sogou.com                                     #Foreign   Search Engine
-soso.com                                      #Foreign   Search Engine
-apps.bdimg.com                                #Foreign   Search Engine [China]
-baidu.com                                     #Foreign   Search Engine [China]
-bdimg.com                                     #Foreign   Search Engine [China]
-baidu.co.th                                   #Foreign   Search Engine [China]
-so.com                                        #Foreign   Search Engine [French]
-gncia.fr                                      #Foreign   Search Engine [French]
-francite.com                                  #Foreign   Search Engine [French]
-yandex.net                                    #Foreign   Search Engine [Russian]
-naver.com                                     #Foreign   Search Engine [South Korea]
 bokee.net                                     #Foreign   Social Media
 mirtesen.ru                                   #Foreign   Social Media
 vk.me                                         #Foreign   Social Media
@@ -284,6 +272,7 @@ versiontracker.com                            #Software - WPS Office
 wps.cn                                        #Software - WPS Office
 wps.com                                       #Software - WPS Office
 zoom.us                                       #Software - Zoom
+zoom.com                                      #Software - Zoom
 
 pair.com                                      #Web Hosting  (Belgium)
 hospedagemdesites.ws                          #Web Hosting  (Brazil)  LocaWeb
@@ -365,6 +354,17 @@ zohosites.com                                 #Website Builder
 
 lycos.com                                     #Search Engine - Links to malware
 
+sogou.com                                     #Search Engine [China]
+soso.com                                      #Search Engine [China]
+apps.bdimg.com                                #Search Engine [China]
+baidu.com                                     #Search Engine [China]
+bdimg.com                                     #Search Engine [China]
+baidu.co.th                                   #Search Engine [China]
+so.com                                        #Search Engine [French]
+gncia.fr                                      #Search Engine [French]
+francite.com                                  #Search Engine [French]
+yandex.net                                    #Search Engine [Russian]
+naver.com                                     #Search Engine [South Korea]
 ask-tb.com                                    #Search Engine   Ask (Toolbar
 anx.tb.ask.com                                #Search Engine   Ask
 ask.com                                       #Search Engine   Ask
@@ -374,6 +374,7 @@ search.tb.ask.com                             #Search Engine   Ask
 ss-sym.search.ask.com                         #Search Engine   Ask
 tbapi.search.ask.com                          #Search Engine   Ask
 search.comodo.com                             #Search Engine   Comodo
+search.com                                    #Search Engine   CBS
 sugg.search.yahoo.net                         #Search Engine   Yahoo (Suggestions)
 toolbar.yahoo.com                             #Search Engine   Yahoo (Toolbar)
 search.yahoo.com                              #Search Engine   Yahoo

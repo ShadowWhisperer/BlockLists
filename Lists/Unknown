@@ -1,7 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-#
-# Updated: 4/22/2020  00:34  (12:34 AM)  - Central Standard Time
+# Updated: 4/23/2020  16:14  (4:14 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -30,6 +29,7 @@ msh.amazon.co.uk            #Amazon
 new.avira.com                #Avira
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
+live.github.com                       #Github (Push Notifications?)
 postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
 neatab.com                  #Neat A/B Testing
@@ -51,6 +51,7 @@ distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
 thumbs.nosto.com            # (CrossBreedHolsters.com)
+exlusepolly.com             #(Either Ad or Redirect Malware)
 a1955.b.akamai.net
 adscheaper.com
 aralego.com
@@ -121,12 +122,6 @@ lookaside.facebook.com                                      #Facebook
 z-m.c10r.facebook.com                                       #Facebook
 brainkeeper.gw-ec.com                                         #GearBest
 cur.gearbest.com                                              #GearBest
-ksn-a-stat-geo.kaspersky-labs.com                     #Kaspersky
-ksn-cinfo-geo.kaspersky-labs.com                      #Kaspersky
-ksn-file-geo.kaspersky-labs.com                       #Kaspersky
-ksn-info-geo.kaspersky-labs.com                       #Kaspersky
-ksn-url-geo.kaspersky-labs.com                        #Kaspersky
-ksn-verdict-geo.kaspersky-labs.com                    #Kaspersky
 oss.hpconnected.com                                       #HP
 methodmi.com                                        #Methodmi
 bidsimulator.com                                    #Methodmi
@@ -188,6 +183,7 @@ charles.huqindustries.co.uk
 cm.adsafety.net
 c.zrcir.com
 dotdash.map.fastly.net
+dtzbdy9anri2p.cloudfront.net
 ecdn.analysis.fi
 geolookup-a.akamaihd.net
 gsspcln.jp
@@ -1452,6 +1448,8 @@ monorail-production-web-tier2.shopifycloud.com            #Shopify
 api.solvvy.com                                    #Solvvy (Artificial Intelligence Customer Service & Support)
 cdn.solvvy.com                                    #Solvvy (Artificial Intelligence Customer Service & Support)
 solvvy.com                                        #Solvvy (Artificial Intelligence Customer Service & Support)
+bravia-cfgdst-ore-pro.bda.ndmdhs.com                #Sony Smart TV
+certs-bravia-cfgdst-ore-pro.bda.ndmdhs.com          #Sony Smart TV
 data.midomi.com                                #SoundHound
 redoak.target.com                                #Target   (Scene7)
 digitalcontent.target.com                        #Target
