@@ -228,18 +228,20 @@ nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
 uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
 api2.sr.roku.com                           # App - The Roku Channel
-api.meta.ndmdhs.com                        # Sony - TV Channel Guide
+api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 
 
 # Breaks Some Sites
 ########################
-click.email.newegg.com  #Tracker - Breaks Links (Newegg)
-geoip-db.com            #Tracker - Breaks HP Parts Page
-7eer.net                #Tracker - Breaks Links
-avantlink.com           #Tracker - Breaks Links
-buff.ly                 #Tracker - Breaks Links
-click.dji.com           #Tracker - Breaks Links
-click.linksynergy.com   #Tracker - Breaks Links
+lddy.no                      #Marketing - Breaks Links
+click.mc.crimsontrace.com    #Tracker - Breaks Links (Crimson Trace)
+click.email.newegg.com       #Tracker - Breaks Links (Newegg)
+geoip-db.com                 #Tracker - Breaks HP Parts Page
+7eer.net                     #Tracker - Breaks Links
+avantlink.com                #Tracker - Breaks Links
+buff.ly                      #Tracker - Breaks Links
+click.dji.com                #Tracker - Breaks Links
+click.linksynergy.com        #Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
 refer.ccbill.com
