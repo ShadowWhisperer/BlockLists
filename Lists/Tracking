@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 4/23/2020  16:14  (4:14 PM)  - Central Standard Time
+# Updated: 4/24/2020  13:00  (1:00 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -10198,6 +10198,7 @@ app.vextras.com
 app.videohub.tv
 app.videostat.com
 app.vidora.com
+app.visitor-track.com
 app.visualwebsiteoptimizer.com
 appv.truconversion.com
 appwall.batmobi.net
@@ -16728,6 +16729,7 @@ client.app.tns-ua.com
 client.a.pxi.pub
 client-build-dev.dz.optimizely.com
 client-error-log.dz.optimizely.com
+client-event-reporter.twitch.tv
 client.justuno.com
 clientlog.midomi.com
 clientlog.portal.office.com
@@ -17284,6 +17286,7 @@ code.randomhouse.com
 code-review-bot.dz.optimizely.com
 codespark.onelink.me
 code.superstats.com
+code.visitor-track.com
 coeconstruction.agilecrm.com
 coffee1.brightedge.com
 coffee.sjv.io
@@ -19765,6 +19768,7 @@ counter.yesky.com
 counter.yomob.com.cn
 counter.zone.ee
 counter.ztgame.com
+countess.twitch.tv
 count.ly
 countmaster.superstats.com
 count.revenue.net
@@ -22288,6 +22292,7 @@ device.4seeresults.com
 device-api-staging.urbanairship.com
 device-api.urbanairship.com
 deviceatlas.com
+deviceidshare.twitch.tv
 device.insert.io
 device.maxmind.com
 device-metrics-us-2.amazon.com
@@ -24581,6 +24586,7 @@ epoxymaster.agilecrm.com
 ep-p.alcmpn.com
 ep.pricespider.com
 eproof.com
+epsihost.com
 epsiloncollect.insightfirst.com
 epsilon.com
 epsilon.thirdparty.bnc.lt
@@ -54680,6 +54686,7 @@ somtrdc.jobstreet.com.ph
 somtrdc.jobstreet.com.sg
 somtrdc.jobstreet.vn
 somtr.financialengines.com
+sonarapi.fedex.epsihost.com
 sonarqube.mparticle.com
 sonarsk.hit.gemius.pl
 sonata-notifications-eu-central.taptapnetworks.com
@@ -57850,6 +57857,7 @@ stats.rbl.ms
 stats.rcinet.ca
 stats.rcsobjects.it
 stats.realcyclist.com
+stats-receiver.showheroes.com
 stats.reddit.com
 stats.renault.co.uk
 stats.reosc.io
@@ -62262,7 +62270,6 @@ tracker.waffles.ch
 tracker.webcasts.com
 tracker.webstyle.com
 tracker.webstyle.de
-tracker.wf
 tracker.wholinked.com
 tracker.wigornot.com
 tracker.wigzopush.com
@@ -65951,6 +65958,7 @@ usell.t.domdex.com
 usename.typeform.com
 usent.kampyle.com
 useproof.com
+us.epsilon.com
 userapi.bluekai.com
 use.raygun.io
 userbars.org.powered-by.zango.com
@@ -66763,6 +66771,7 @@ visitor-service-us-east-1.tealiumiq.com
 visitor-service-us-west-1.tealiumiq.com
 visitorsinsurance2.rtrk.com
 visitors.winecountrygiftbaskets.com
+visitor-track.com
 visitor-usa01.omnitagjs.com
 visitor-usa02.omnitagjs.com
 visitorvoice.etracker.com

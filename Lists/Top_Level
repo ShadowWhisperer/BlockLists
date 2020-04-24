@@ -1,7 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-#
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
+# Updated: 4/24/2020  13:00  (1:00 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -264,6 +263,7 @@
 .kitchen
 .kiwi
 .land
+.lat
 .lawyer
 .lease
 .legal
