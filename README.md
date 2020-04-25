@@ -26,7 +26,7 @@
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
-Domains are sorted by category. Some domains that are used as both ad servers and tracking.  
+Domains are sorted by category. Some domains are used for both ads and tracking.  
   
 These lists are all verified by me, either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled (Verfified by me, before adding). I try to keep dead, parked, and sinkholed domains out of these lists.  
   
