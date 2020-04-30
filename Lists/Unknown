@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 4/24/2020  13:00  (1:00 PM)  - Central Standard Time
+# Updated: 4/30/2020  18:45  (6:45 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -36,7 +36,7 @@ postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
-2agshdqwvcqs.website           #Owned by Data-Cash (Coulbe be Malware Advert)
+2agshdqwvcqs.website            #Owned by Data-Cash (Coulbe be Malware or Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                  #Paypal (Logo?)
 a-fds.youborafds01.com         #PlutoTV
@@ -53,10 +53,9 @@ distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
 thumbs.nosto.com            # (CrossBreedHolsters.com)
-exlusepolly.com             #(Either Ad or Redirect Malware)
 a1955.b.akamai.net
 adscheaper.com
-aralego.com
+api2.appscraft.mobi
 bksn.se
 data.potpourrichordataoscilloscope.com
 images.highspeedbackbone.net
@@ -64,9 +63,13 @@ mb104.com
 mobusi.com
 n2s.co.kr
 potpourrichordataoscilloscope.com
+tapjoy.net
 twinrdsrv.com
 userwave.com
 viewsecure.net
+eurosptp.com
+exp.eurosptp.com
+reklam9.com
 
 
 #############################
@@ -77,8 +80,9 @@ illiweb.com                     #ExotikWeb (Adult?)
 pixlgif.com                     #Google
 g.jwpsrv.com                    #Jwplayer
 ay.qdmns.com
-qdmns.com
 capufamo.com
+isondled.net
+qdmns.com
 
 
 #############################
@@ -90,6 +94,8 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 # Marketing
 #############################
+option.boldapps.net              #BoldCommerce
+boldapps.net                     #BoldCommerce (Certain Marketing, Not sure what "option.boldapps.net" does)
 kaizenet.com                     #Kaizenet
 lab.kaizenet.com                 #Kaizenet (Flagged as Malware)
 wideopenmediagroup.com           #Wide Open Media Group
@@ -107,6 +113,12 @@ lilo.org                #Search Engine
 search.lilo.org         #Search Engine
 search.uselilo.org      #Search Engine
 uselilo.org             #Search Engine
+126.am
+e2ertt.com
+exlusepolly.com
+itpatratr.com
+netpatas.com
+ofphanpytor.com
 
 
 #############################
@@ -120,34 +132,36 @@ t.marketing.activision.com                                     #Activision
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
 appcelerator.com                                                #Appcelerator
 urs.cnet.com                                                 #Cnet (easyXDM)
-lookaside.facebook.com                                      #Facebook
-z-m.c10r.facebook.com                                       #Facebook
-brainkeeper.gw-ec.com                                         #GearBest
-cur.gearbest.com                                              #GearBest
+lookaside.facebook.com                                    #Facebook
+z-m.c10r.facebook.com                                     #Facebook
+brainkeeper.gw-ec.com                                        #GearBest
+cur.gearbest.com                                             #GearBest
 oss.hpconnected.com                                       #HP
 methodmi.com                                        #Methodmi
 bidsimulator.com                                    #Methodmi
 view.bidsimulator.com                               #Methodmi
 files.bidsimulator.com                              #Methodmi
-events.gfe.nvidia.com                                     #Nvidia
-ota-downloads.nvidia.com                                  #Nvidia
-ota.nvidia.com                                            #Nvidia
-services.gfe.nvidia.com                                   #Nvidia
-aggregateknowledge.com                                      #Neustar
-creative.aggregateknowledge.com                             #Neustar
-cust.aggregateknowledge.com                                 #Neustar
-ticket.aggregateknowledge.com                               #Neustar
-www-stage.aggregateknowledge.com                            #Neustar
-infinity-c1.youboranqs01.com                                  #PlutoTV
-infinity-c2.youboranqs01.com                                  #PlutoTV
-infinity-c3.youboranqs01.com                                  #PlutoTV
-infinity-c4.youboranqs01.com                                  #PlutoTV
-infinity-c5.youboranqs01.com                                  #PlutoTV
-infinity-c6.youboranqs01.com                                  #PlutoTV
-infinity-c7.youboranqs01.com                                  #PlutoTV
-infinity-c8.youboranqs01.com                                  #PlutoTV
-infinity-c9.youboranqs01.com                                  #PlutoTV
-k.pluto.tv                                                    #PlutoTV
+events.gfe.nvidia.com                                  #Nvidia
+ota-downloads.nvidia.com                               #Nvidia
+ota.nvidia.com                                         #Nvidia
+services.gfe.nvidia.com                                #Nvidia
+aggregateknowledge.com                                    #Neustar
+creative.aggregateknowledge.com                           #Neustar
+cust.aggregateknowledge.com                               #Neustar
+ticket.aggregateknowledge.com                             #Neustar
+www-stage.aggregateknowledge.com                          #Neustar
+onead.onevision.com.tw                                 #OneAd (onead.com.tw)
+onevision.com.tw                                       #OneAd (onead.com.tw)
+infinity-c1.youboranqs01.com                                 #PlutoTV
+infinity-c2.youboranqs01.com                                 #PlutoTV
+infinity-c3.youboranqs01.com                                 #PlutoTV
+infinity-c4.youboranqs01.com                                 #PlutoTV
+infinity-c5.youboranqs01.com                                 #PlutoTV
+infinity-c6.youboranqs01.com                                 #PlutoTV
+infinity-c7.youboranqs01.com                                 #PlutoTV
+infinity-c8.youboranqs01.com                                 #PlutoTV
+infinity-c9.youboranqs01.com                                 #PlutoTV
+k.pluto.tv                                                   #PlutoTV
 click.notifications.intuit.com                           #QuickBooks
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
@@ -165,6 +179,7 @@ st.sc-jpl.com                                             #SnapChat
 app.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 cdn.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
+id.sonyentertainmentnetwork.com                                         #Sony (Might Break Login, untested)
 api.vanilla.futurecdn.net                                          #tomsguide.com
 api.gdsec.net                                                    #Tutela ?
 gdsec.net                                                        #Tutela ?
@@ -179,6 +194,8 @@ algolianet.com                                              #Search As A Service
 rcsnjttpht-2.algolianet.com                                 #Search As A Service
 fpctraffic3.com                                             #We pay for your clicks
 coveo.com                                                   #Tech platform for ads & analytics for app devs (static.cloud.coveo.com breaks Dell search results)
+#######################################################
+adcs.rqmob.com
 analysis.fi
 api.huqindustries.co.uk
 charles.huqindustries.co.uk
@@ -196,7 +213,9 @@ js.track-analytics.com
 matchid.adfox.yandex.ru
 meters.cbp-sd.com
 mlab-ns.appspot.com
+p13nlog-1106815646.us-east-1.elb.amazonaws.com
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
+static.intentarget.com
 tags.adsafety.net
 theappgrader.com
 tj.yddashi.com
@@ -206,7 +225,6 @@ trackuhub.com
 universal.iper2.com
 w.usabilla.com
 zrcir.com
-
 
 #############################
 # Adult
@@ -280,7 +298,6 @@ r5-pc.s3.amazonaws.com                                            #Amazon AWS
 r5-pc-steam-1240670023.us-west-2.elb.amazonaws.com                #Amazon AWS
 rebillialive-30481093.us-east-1.elb.amazonaws.com                 #Amazon AWS
 sqs.us-west-2.amazonaws.com                                       #Amazon AWS
-surveygizmobeacon.s3.amazonaws.com                                #Amazon AWS
 blogsmithmedia.com                                  #AOL
 apple.com.edgekey.net.globalredir.akadns.net     #Apple
 apple-dns.net                                    #Apple
@@ -539,7 +556,6 @@ user.gearbest.com                               #GearBest
 mw1.google.com                                 #Google -   Earth
 mw-small.l.google.com                          #Google -   Earth
 gboard-pa.googleapis.com                       #Google -  gBoard
-tenor.googleapis.com                           #Google -  gBoard - Gifs (Does Not Break Anything)
 ytstatic.l.google.com                          #Google -     Google Plus
 aa.google.com                                  #Google
 acp-mobile.appspot.com                         #Google
@@ -659,11 +675,13 @@ ambiguousalarm.com                       #Leven Labs, Inc.
 ambiguousquilt.com                       #Leven Labs, Inc.
 ambitiousagreement.com                   #Leven Labs, Inc.
 annoyedfifth.com                         #Leven Labs, Inc.
+annoyingacoustics.com                    #Leven Labs, Inc.
 anxiousapples.com                        #Leven Labs, Inc.
 apathetictheory.com                      #Leven Labs, Inc.
 applesarmy.com                           #Leven Labs, Inc.
 aquaticowl.com                           #Leven Labs, Inc.
 ar1nvz5.com                              #Leven Labs, Inc.
+archbushes.com                           #Leven Labs, Inc.
 archswimming.com                         #Leven Labs, Inc.
 arcticamber.com                          #Leven Labs, Inc.
 argyresthia.com                          #Leven Labs, Inc.
@@ -719,6 +737,7 @@ broadcastbed.com                         #Leven Labs, Inc.
 broaddoor.com                            #Leven Labs, Inc.
 brothersbucket.com                       #Leven Labs, Inc.
 bruisebaseball.com                       #Leven Labs, Inc.
+brushdaughter.com                        #Leven Labs, Inc.
 btez8.xyz                                #Leven Labs, Inc.
 bucketbean.com                           #Leven Labs, Inc.
 bulbbait.com                             #Leven Labs, Inc.
@@ -793,9 +812,12 @@ culturedcrayon.com                       #Leven Labs, Inc.
 cumbersomecloud.com                      #Leven Labs, Inc.
 curtaincows.com                          #Leven Labs, Inc.
 cutecushion.com                          #Leven Labs, Inc.
+cutepopcorn.com                          #Leven Labs, Inc.
 cuteturkey.com                           #Leven Labs, Inc.
 damdoor.com                              #Leven Labs, Inc.
+dampdock.com                             #Leven Labs, Inc.
 dancemistake.com                         #Leven Labs, Inc.
+dapperdiscussion.com                     #Leven Labs, Inc.
 dapperfloor.com                          #Leven Labs, Inc.
 dashingdirt.com                          #Leven Labs, Inc.
 dashingsweater.com                       #Leven Labs, Inc.
@@ -834,6 +856,7 @@ dq95d35.com                              #Leven Labs, Inc.
 drabsize.com                             #Leven Labs, Inc.
 draconiancurve.com                       #Leven Labs, Inc.
 dragzebra.com                            #Leven Labs, Inc.
+dramaticcondition.com                    #Leven Labs, Inc.
 drawservant.com                          #Leven Labs, Inc.
 dripappliance.com                        #Leven Labs, Inc.
 driverequest.com                         #Leven Labs, Inc.
@@ -857,6 +880,7 @@ encouragingwilderness.com                #Leven Labs, Inc.
 endurablecrayon.com                      #Leven Labs, Inc.
 endurableshop.com                        #Leven Labs, Inc.
 energeticexample.com                     #Leven Labs, Inc.
+energeticladybug.com                     #Leven Labs, Inc.
 enthusiasticdad.com                      #Leven Labs, Inc.
 enviousshape.com                         #Leven Labs, Inc.
 enviousthread.com                        #Leven Labs, Inc.
@@ -925,6 +949,7 @@ gorgeousground.com                       #Leven Labs, Inc.
 gossipmiser.com                          #Leven Labs, Inc.
 gracefulsock.com                         #Leven Labs, Inc.
 grandioseguide.com                       #Leven Labs, Inc.
+grayreceipt.com                          #Leven Labs, Inc.
 greasegarden.com                         #Leven Labs, Inc.
 greasemotion.com                         #Leven Labs, Inc.
 greasysquare.com                         #Leven Labs, Inc.
@@ -975,6 +1000,7 @@ importlocate.com                         #Leven Labs, Inc.
 impossibleexpansion.com                  #Leven Labs, Inc.
 impossiblemove.com                       #Leven Labs, Inc.
 impulsehands.com                         #Leven Labs, Inc.
+impulsejewel.com                         #Leven Labs, Inc.
 informengine.com                         #Leven Labs, Inc.
 innocentinvention.com                    #Leven Labs, Inc.
 innocentwax.com                          #Leven Labs, Inc.
@@ -995,6 +1021,7 @@ k54nw.pw                                 #Leven Labs, Inc.
 kitesquirrel.com                         #Leven Labs, Inc.
 knifeoctopus.com                         #Leven Labs, Inc.
 knottysticks.com                         #Leven Labs, Inc.
+lackadaisicalkite.com                    #Leven Labs, Inc.
 lagoonolivia.com                         #Leven Labs, Inc.
 lamplow.com                              #Leven Labs, Inc.
 languagelake.com                         #Leven Labs, Inc.
@@ -1018,6 +1045,7 @@ lumpylumber.com                          #Leven Labs, Inc.
 maddeningpowder.com                      #Leven Labs, Inc.
 magnetairport.com                        #Leven Labs, Inc.
 magnificentmist.com                      #Leven Labs, Inc.
+mailboxmeeting.com                       #Leven Labs, Inc.
 maniacalappliance.com                    #Leven Labs, Inc.
 markedcrayon.com                         #Leven Labs, Inc.
 markedmeasure.com                        #Leven Labs, Inc.
@@ -1110,6 +1138,7 @@ printerplasma.com                        #Leven Labs, Inc.
 productivepear.com                       #Leven Labs, Inc.
 profitrumour.com                         #Leven Labs, Inc.
 profusesupport.com                       #Leven Labs, Inc.
+promopassage.com                         #Leven Labs, Inc.
 puffyloss.com                            #Leven Labs, Inc.
 puffypull.com                            #Leven Labs, Inc.
 puffypurpose.com                         #Leven Labs, Inc.
@@ -1180,6 +1209,7 @@ scientificsneeze.com                     #Leven Labs, Inc.
 scintillatingscissors.com                #Leven Labs, Inc.
 scintillatingspace.com                   #Leven Labs, Inc.
 scratchsofa.com                          #Leven Labs, Inc.
+scrawnystart.com                         #Leven Labs, Inc.
 screechingfurniture.com                  #Leven Labs, Inc.
 scrollservice.com                        #Leven Labs, Inc.
 scrubsky.com                             #Leven Labs, Inc.
@@ -1212,6 +1242,7 @@ sillyscrew.com                           #Leven Labs, Inc.
 similarsabine.com                        #Leven Labs, Inc.
 sincerebuffalo.com                       #Leven Labs, Inc.
 sincerespy.com                           #Leven Labs, Inc.
+singroot.com                             #Leven Labs, Inc.
 sixscissors.com                          #Leven Labs, Inc.
 sizesidewalk.com                         #Leven Labs, Inc.
 slaysweater.com                          #Leven Labs, Inc.
@@ -1228,6 +1259,7 @@ snakemineral.com                         #Leven Labs, Inc.
 snakesshop.com                           #Leven Labs, Inc.
 sneakystamp.com                          #Leven Labs, Inc.
 sneakystew.com                           #Leven Labs, Inc.
+soaprange.com                            #Leven Labs, Inc.
 somberscarecrow.com                      #Leven Labs, Inc.
 sombersea.com                            #Leven Labs, Inc.
 sombersquirrel.com                       #Leven Labs, Inc.
@@ -1245,6 +1277,7 @@ spendpest.com                            #Leven Labs, Inc.
 spidersboats.com                         #Leven Labs, Inc.
 spiffymachine.com                        #Leven Labs, Inc.
 spirebaboon.com                          #Leven Labs, Inc.
+spongesalt.com                           #Leven Labs, Inc.
 spookyslope.com                          #Leven Labs, Inc.
 spottednoise.com                         #Leven Labs, Inc.
 spottedsnow.com                          #Leven Labs, Inc.
@@ -1257,6 +1290,7 @@ squeakzinc.com                           #Leven Labs, Inc.
 squirrelhands.com                        #Leven Labs, Inc.
 stakingscrew.com                         #Leven Labs, Inc.
 stakingslope.com                         #Leven Labs, Inc.
+staleseat.com                            #Leven Labs, Inc.
 staleshow.com                            #Leven Labs, Inc.
 standingnest.com                         #Leven Labs, Inc.
 standtrouble.com                         #Leven Labs, Inc.
@@ -1309,6 +1343,7 @@ teethfan.com                             #Leven Labs, Inc.
 tempttalk.com                            #Leven Labs, Inc.
 tendertest.com                           #Leven Labs, Inc.
 terriblethumb.com                        #Leven Labs, Inc.
+testedtouch.com                          #Leven Labs, Inc.
 texturetrick.com                         #Leven Labs, Inc.
 thicktrucks.com                          #Leven Labs, Inc.
 thingsafterthought.com                   #Leven Labs, Inc.
@@ -1348,6 +1383,7 @@ ubiquitousyard.com                       #Leven Labs, Inc.
 ultraoranges.com                         #Leven Labs, Inc.
 unarmedindustry.com                      #Leven Labs, Inc.
 unbecominghall.com                       #Leven Labs, Inc.
+uncoveredcircle.com                      #Leven Labs, Inc.
 uncoveredexpert.com                      #Leven Labs, Inc.
 unequalbrake.com                         #Leven Labs, Inc.
 unevenstring.com                         #Leven Labs, Inc.
@@ -1361,6 +1397,7 @@ usedexample.com                          #Leven Labs, Inc.
 uttermosthobbies.com                     #Leven Labs, Inc.
 vanfireworks.com                         #Leven Labs, Inc.
 venusgloria.com                          #Leven Labs, Inc.
+verifyvegetable.com                      #Leven Labs, Inc.
 voicevegetable.com                       #Leven Labs, Inc.
 vq1qi.pw                                 #Leven Labs, Inc.
 waggishpig.com                           #Leven Labs, Inc.
@@ -1384,6 +1421,7 @@ workableachiever.com                     #Leven Labs, Inc.
 workoperation.com                        #Leven Labs, Inc.
 worriednumber.com                        #Leven Labs, Inc.
 worrybutter.com                          #Leven Labs, Inc.
+wrapstretch.com                          #Leven Labs, Inc.
 wreckvolcano.com                         #Leven Labs, Inc.
 wrongpotato.com                          #Leven Labs, Inc.
 wryfinger.com                            #Leven Labs, Inc.
@@ -1649,3 +1687,5 @@ wsmeco.com
 w.ssl.global.fastly.net
 xlbbhdarc.com
 ysdn.org
+api.delfi.ee
+

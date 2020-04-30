@@ -1,26 +1,21 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-#
-# Updated: 4/17/2020  01:16  (1:16 AM)  - Central Standard Time
+# Updated: 4/30/2020  18:45  (6:45 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
 
-chat.api.autohome.com.cn
-freshchat.com
-rocket.chat
-subiz.com
-tawk.to
-
-
-#  Both
+#  Bot & Live
 ######################################
 247.ai
 247-inc.net
 inthechat.com
 salesiq.zoho.com
+webim.ru
+whoson.com
+
 
 #  Bot
 ######################################
@@ -60,6 +55,7 @@ chatra.io
 cobrowse.oraclecloud.com
 code.tidio.co
 comm100.com
+eassistancepro.com
 engagetosell.com
 engage.wixapps.net
 happyfoxchat.com
@@ -70,6 +66,7 @@ lithium.facebook.com
 live2support.com
 livechatinc.com
 messengerview.1talking.net
+me-talk.ru
 my.reachlocallivechat.com
 nanorep.com
 olark.com
@@ -84,3 +81,11 @@ smartsupp.com
 tidio.co
 tidio.com
 velaro.com
+
+
+
+chat.api.autohome.com.cn
+freshchat.com
+rocket.chat
+subiz.com
+tawk.to
