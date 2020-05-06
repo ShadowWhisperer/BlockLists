@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 4/30/2020  18:45  (6:45 PM)  - Central Standard Time
+# Updated: 5/5/2020  23:08  (11:08 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -11,6 +11,8 @@
 #############################
 # Ads
 #############################
+setting.adzcore.com                  #Defunct ?
+adzcore.com                          #Defunct ?
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
 virtualizationreview.1105cms01.com        #1105 Media
@@ -32,6 +34,7 @@ new.avira.com                #Avira
 dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
 live.github.com                       #Github (Push Notifications?)
+o.joinhoney.com                   #Honey
 postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
 neatab.com                  #Neat A/B Testing
@@ -39,16 +42,19 @@ staging.neatab.com          #Neat A/B Testing
 2agshdqwvcqs.website            #Owned by Data-Cash (Coulbe be Malware or Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                  #Paypal (Logo?)
-a-fds.youborafds01.com         #PlutoTV
 api.queryly.com                   #Queryly
 queryly.com                       #Queryly
 quora-prod-tch-vpc-1136165707.us-east-1.elb.amazonaws.com    #Quora
 tch710729.tch.quora.com                                      #Quora
-realpush.network                  #RealPush
-select5.realpush.network          #RealPush
-promotions.skype.com            #Skype
-bo.promotions.skype.com         #Skype
-ptest.ysm.yahoo.com               #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
+realpush.network                #RealPush
+select5.realpush.network        #RealPush
+promotions.skype.com               #Skype
+bo.promotions.skype.com            #Skype
+assets.vlitag.com            #viPlayer  (elblogdelnarco.com)
+services.vlitag.com          #viPlayer  (elblogdelnarco.com)
+tag.vlitag.com               #viPlayer  (elblogdelnarco.com)
+vliplatform.com              #viPlayer  (elblogdelnarco.com)
+ptest.ysm.yahoo.com              #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
@@ -57,19 +63,41 @@ a1955.b.akamai.net
 adscheaper.com
 api2.appscraft.mobi
 bksn.se
+bnhtml.com
 data.potpourrichordataoscilloscope.com
+eurosptp.com
+exp.eurosptp.com
+himediads.com
 images.highspeedbackbone.net
+js.himediads.com
 mb104.com
 mobusi.com
 n2s.co.kr
 potpourrichordataoscilloscope.com
+reklam9.com
+surgeprice.com
 tapjoy.net
 twinrdsrv.com
 userwave.com
 viewsecure.net
-eurosptp.com
-exp.eurosptp.com
-reklam9.com
+
+
+#############################
+# Adult
+#############################
+pe.hu               #Possibly Illegal Hacked IP Cameras
+assinie.com         #Subdomains include adult sites
+carrefourpro.com    #Subdomains include adult sites
+cdnaccess.com       #Subdomains include adult sites
+home.ro             #Dead ?
+wow-hosting.com     #Dead ?
+crajack.com
+easyincontro.org
+erocdn.com
+fast-hunter.com
+hlsmp4.com
+pump-cdn.com
+tawenda-tech.org
 
 
 #############################
@@ -92,6 +120,43 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 
 
 #############################
+# Bot Prevention
+#############################
+datadome.co             #DataDome
+perimeterx.com          #PerimeterX, Inc.
+perimeterx.net          #PerimeterX, Inc.
+px-cdn.net              #PerimeterX, Inc.
+pxchk.net               #PerimeterX, Inc.
+agentanalytics.com      #White Ops, Inc
+imganalytics.com        #White Ops, Inc
+static.tagsrvcs.com     #White Ops, Inc
+tagsrvcs.com            #White Ops, Inc
+v.tagsrvcs.com          #White Ops, Inc
+
+
+#############################
+# Malware
+#############################
+api.lilo.org              #Search Engine
+lilo.org                  #Search Engine
+search.lilo.org           #Search Engine
+search.uselilo.org        #Search Engine
+uselilo.org               #Search Engine
+topertaimp.com                 #Opt-Out Email Link (Harry Blankenship)
+eightsouthice.com              #Opt-Out Email Link (Between "Harry Blankenship")
+bissferasy.com                 #Opt-Out Email Link (Harry Blankenship)
+ds2r9mr2r4h38.cloudfront.net   #Opt-Out Email Link (Harry Blankenship)
+126.am
+e2ertt.com
+exlusepolly.com
+itpatratr.com
+netpatas.com
+ofphanpytor.com
+page.geniusdisplay.com
+geniusdisplay.com
+
+
+#############################
 # Marketing
 #############################
 option.boldapps.net              #BoldCommerce
@@ -105,20 +170,21 @@ zdbb.net                         #Ziff Davis
 mix-uni.ru
 scarabresearch.com
 
+
 #############################
-# Malware
+# Scam
 #############################
-api.lilo.org            #Search Engine
-lilo.org                #Search Engine
-search.lilo.org         #Search Engine
-search.uselilo.org      #Search Engine
-uselilo.org             #Search Engine
-126.am
-e2ertt.com
-exlusepolly.com
-itpatratr.com
-netpatas.com
-ofphanpytor.com
+aberdeenasset.com.au        #Existing Lists (Defunct?)
+aberdeen-asset.com          #Existing Lists (Defunct?)
+4xcube.com                  #Existing Lists (Mixed Reviews)
+1stventures.co.cc           #Existing Lists
+247bitcoincrypto.com        #Existing Lists
+24livetrade.com             #Existing Lists
+24livetrades.com            #Existing Lists
+24stockfx.com               #Existing Lists
+24tradeexplore.com          #Existing Lists
+92coins.com                 #Existing Lists
+aipcapitaltrade.com         #Existing Lists
 
 
 #############################
@@ -150,17 +216,9 @@ creative.aggregateknowledge.com                           #Neustar
 cust.aggregateknowledge.com                               #Neustar
 ticket.aggregateknowledge.com                             #Neustar
 www-stage.aggregateknowledge.com                          #Neustar
+samizdat-graphql.nytimes.com                                #New York Times
 onead.onevision.com.tw                                 #OneAd (onead.com.tw)
 onevision.com.tw                                       #OneAd (onead.com.tw)
-infinity-c1.youboranqs01.com                                 #PlutoTV
-infinity-c2.youboranqs01.com                                 #PlutoTV
-infinity-c3.youboranqs01.com                                 #PlutoTV
-infinity-c4.youboranqs01.com                                 #PlutoTV
-infinity-c5.youboranqs01.com                                 #PlutoTV
-infinity-c6.youboranqs01.com                                 #PlutoTV
-infinity-c7.youboranqs01.com                                 #PlutoTV
-infinity-c8.youboranqs01.com                                 #PlutoTV
-infinity-c9.youboranqs01.com                                 #PlutoTV
 k.pluto.tv                                                   #PlutoTV
 click.notifications.intuit.com                           #QuickBooks
 app.litmos.com                                        #SAP Litmos
@@ -181,6 +239,9 @@ cdn.snipcart.com                                             #SnipCart - Shoppin
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
 id.sonyentertainmentnetwork.com                                         #Sony (Might Break Login, untested)
 api.vanilla.futurecdn.net                                          #tomsguide.com
+maliva-mcs.byteoversea.com                                             #tiktok.com   On Site
+mon-va.byteoversea.com                                                 #tiktok.com   On Site
+sgali-mcs.byteoversea.com                                              #tiktok.com   On Site
 api.gdsec.net                                                    #Tutela ?
 gdsec.net                                                        #Tutela ?
 client.amplifi.com                                          #Unifi
@@ -198,22 +259,26 @@ coveo.com                                                   #Tech platform for a
 adcs.rqmob.com
 analysis.fi
 api.huqindustries.co.uk
+apis.kostprice.com
 charles.huqindustries.co.uk
 cm.adsafety.net
 c.zrcir.com
 dotdash.map.fastly.net
 dtzbdy9anri2p.cloudfront.net
 ecdn.analysis.fi
+felix.data.tm-awx.com
 geolookup-a.akamaihd.net
 gsspcln.jp
 heatmap.services
 huqindustries.co.uk
 iper2.com
 js.track-analytics.com
+leiki.com
 matchid.adfox.yandex.ru
 meters.cbp-sd.com
 mlab-ns.appspot.com
 p13nlog-1106815646.us-east-1.elb.amazonaws.com
+report-uri.robinhood.com
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
 static.intentarget.com
 tags.adsafety.net
@@ -225,38 +290,6 @@ trackuhub.com
 universal.iper2.com
 w.usabilla.com
 zrcir.com
-
-#############################
-# Adult
-#############################
-pe.hu               #Possibly Illegal Hacked IP Cameras
-assinie.com         #Subdomains include adult sites
-carrefourpro.com    #Subdomains include adult sites
-cdnaccess.com       #Subdomains include adult sites
-home.ro             #Dead ?
-wow-hosting.com     #Dead ?
-crajack.com
-easyincontro.org
-erocdn.com
-fast-hunter.com
-hlsmp4.com
-pump-cdn.com
-tawenda-tech.org
-
-
-#############################
-# Bot Prevention
-#############################
-datadome.co             #DataDome
-perimeterx.com          #PerimeterX, Inc.
-perimeterx.net          #PerimeterX, Inc.
-px-cdn.net              #PerimeterX, Inc.
-pxchk.net               #PerimeterX, Inc.
-agentanalytics.com      #White Ops, Inc
-imganalytics.com        #White Ops, Inc
-static.tagsrvcs.com     #White Ops, Inc
-tagsrvcs.com            #White Ops, Inc
-v.tagsrvcs.com          #White Ops, Inc
 
 
 #############################
@@ -439,7 +472,6 @@ shepherd.ff.avast.com                    #Avast / AVG
 s-nuistatic.avcdn.net                    #Avast / AVG
 su.ff.avast.com                          #Avast / AVG
 yesno.ff.avast.com                       #Avast / AVG
-api.bazaarvoice.com                            #Bazaarvoice
 bazaarvoice.com                                #Bazaarvoice
 d3rpajgr3c5p5n.cloudfront.net                  #Bazaarvoice
 photos-bazaar-euw1.prod.bazaarvoice.com        #Bazaarvoice
@@ -454,7 +486,6 @@ smartsourcestaging.dell.com                      #Dell
 block.dropbox.com                            #DropBox
 block-edge-1.dropbox.com                     #DropBox
 block-edge.dropbox.com                       #DropBox
-bolt.dropbox.com                             #DropBox
 bolt.v.dropbox.com                           #DropBox
 cfl.dropboxstatic.com.cdn.cloudflare.net     #DropBox
 dropboxstatic.com                            #DropBox
@@ -504,7 +535,6 @@ instagram.c10r.facebook.com              #Instagram
 maps.instagram.com                       #Instagram
 scontent-nrt1-1.cdninstagram.com         #Instagram
 z-p42-instagram.c10r.facebook.com        #Instagram
-a314.gameloft.com                            #GameLoft
 bob-fedex-fsg002.gameloft.com                #GameLoft
 bob-hermes.gameloft.com                      #GameLoft
 bob-hestia.gameloft.com                      #GameLoft
@@ -514,7 +544,6 @@ bob-osiris.gameloft.com                      #GameLoft
 bob-seshat.gameloft.com                      #GameLoft
 game-portal.gameloft.com                     #GameLoft
 iap-gen.gameloft.com                         #GameLoft
-iris06-gold-ssl.gameloft.com                 #GameLoft
 iris07-gold-ssl.gameloft.com                 #GameLoft
 vgold.gameloft.com                           #GameLoft
 cart.gearbest.com                               #GearBest
@@ -1430,7 +1459,8 @@ youngmarble.com                          #Leven Labs, Inc.
 zbwp6ghm.com                             #Leven Labs, Inc.
 zealousfield.com                         #Leven Labs, Inc.
 zlp6s.pw                                 #Leven Labs, Inc.
-media-akam.licdn.com                             #Linkedin - Most have single pixel, some have images
+media-akam.licdn.com                             #LinkedIn - Most have single pixel (tracker), some have images
+platform.linkedin.com                            #LinkedIn - Webpage integration ?
 autodiscover.cityofluverne.org               #Luverne - City
 hdwvmasogicqg.isd2184.net                    #Luverne - Public School District
 lpsweb.isd2184.net                           #Luverne - Public School District
@@ -1688,4 +1718,8 @@ w.ssl.global.fastly.net
 xlbbhdarc.com
 ysdn.org
 api.delfi.ee
-
+sdk.split.io
+split.io
+yesware.com
+app.yesware.com
+localize.sitebuilder.com

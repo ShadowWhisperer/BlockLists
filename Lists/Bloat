@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 4/24/2020  13:00  (1:00 PM)  - Central Standard Time
+# Updated: 5/5/2020  23:08  (11:08 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -46,6 +46,7 @@ fonts.staticworld.net                   #Font     Specific
 fonts.voxmedia.com                      #Font     Specific
 fonts.walmart.com                       #Font     Specific
 fonts.wsj.net                           #Font     Specific
+g1.nyt.com                              #Font     Specific
 
 getpocket.com                       #Browser Extension - Pocket - Save It Later
 videodownloaderultimate.com         #Browser Extension - Video Downloader Professional
@@ -73,6 +74,7 @@ licensebuttons.net                                 #Webpages - Icon
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com #Webpages - Icon (licensebuttons.net)
 i.creativecommons.org                              #Webpages - Icon (licensebuttons.net)
 s3.feedly.com                                      #Webpages - Icon (Follow Page)
+images.dmca.com                                    #Webpages - Logo (Digital Millennium Copyright Act )
 
 browser-update.org                  #Checks Browser Version
 
@@ -141,6 +143,7 @@ cdn3.bluestacks.com                          #Software   BlueStacks (Android Emu
 cdn-bgp.bluestacks.com                       #Software   BlueStacks (Android Emulator)
 cloud.bluestacks.com                         #Software   BlueStacks (Android Emulator)
 eb.bluestacks.com                            #Software   BlueStacks (Android Emulator)
+passwordsleakcheck-pa.googleapis.com         #Software       Chrome (Compare site to leaked sites)  <Tracking>
 block-edge-anycast.dropbox.com               #Software     DropBox
 ciscobinary.openh264.org                     #Software   FireFox    Bloat   openh264
 openh264.org                                 #Software   FireFox    Bloat   openh264
@@ -196,6 +199,7 @@ ws.gtm.acer.com                                         #Acer
 dlcdnamax.asus.com                                      #ASUS
 vip.asus.com                                            #ASUS
 epdg.epc.att.net                                        #AT&T - Wifi Calling
+recsys-api.buzzfeed.com                                 #Buzzfeed - Recommender system
 detect.gocyberlink.com                                  #Cyberlink
 liveupdate.gocyberlink.com                              #Cyberlink
 detect.cyberlink.com                                    #Cyberlink
@@ -328,7 +332,8 @@ iasbroker.intel.com                                     #Intel
 ias.intel.com                                           #Intel
 secureprotocolengine-test.intel.com                     #Intel
 push.prod.netflix.com                                   #Netflix
-samsungknox.com                                         #Samsung  Knox Security Tools
+samsungknox.com                                         #Samsung   Knox Security Tools
+gpm.samsungqbe.com                                      #Samsung + Google Play Music
 api-diagmon.samsungdm.com                               #Samsung
 api.rewards.internet.apps.samsung.com                   #Samsung
 api.samsungapps.com                                     #Samsung
@@ -420,12 +425,12 @@ com.djinnworks.newsfeed.s3.amazonaws.com                #Android  [App Studio]  
 fdg-entertainment.com                                   #Android  [App Studio]    FDG Entertainment
 four33.com                                              #Android  [App Studio]    FourThirtyThree
 funlabmobile.com                                        #Android  [App Studio]    FunLab
-201205igp.gameloft.com                                  #Android  [App Studio]    Gameloft
 as23r23ljf.gameloft.com                                 #Android  [App Studio]    Gameloft
 etsv2.gameloft.com                                      #Android  [App Studio]    Gameloft
 etsv.gameloft.com                                       #Android  [App Studio]    Gameloft
 eur-osiris.gameloft.com                                 #Android  [App Studio]    Gameloft
 game-portal.eur.gameloft.com                            #Android  [App Studio]    Gameloft
+in-game-news.gameloft.com                               #Android  [App Studio]    Gameloft
 interstatic06.gameloft.com                              #Android  [App Studio]    Gameloft
 oct.gameloft.com                                        #Android  [App Studio]    Gameloft
 secure.gameloft.com                                     #Android  [App Studio]    Gameloft
