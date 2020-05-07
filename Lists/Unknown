@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 5/5/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 5/7/2020  12:21  (12:21 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -39,7 +39,6 @@ postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
-2agshdqwvcqs.website            #Owned by Data-Cash (Coulbe be Malware or Advert)
 keywee.co                      #Keywee
 fpdbs.paypal.com                  #Paypal (Logo?)
 api.queryly.com                   #Queryly
@@ -59,6 +58,10 @@ distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
 thumbs.nosto.com            # (CrossBreedHolsters.com)
+2agshdqwvcqs.website        #(Eith Ad or Malware)  Owned by Data-Cash
+besa-mad.com                #(Eith Ad or Malware)
+offerimage.com              #(Eith Ad or Malware)
+ofhappinyer.com             #(Eith Ad or Malware)
 a1955.b.akamai.net
 adscheaper.com
 api2.appscraft.mobi
@@ -165,7 +168,7 @@ kaizenet.com                     #Kaizenet
 lab.kaizenet.com                 #Kaizenet (Flagged as Malware)
 wideopenmediagroup.com           #Wide Open Media Group
 mailing.wideopenmediagroup.com   #Wide Open Media Group
-affex.org                        #Zieltraffic - Dead ?
+affex.org                        #Zieltraffic (Defunct?)
 zdbb.net                         #Ziff Davis
 mix-uni.ru
 scarabresearch.com
@@ -177,14 +180,14 @@ scarabresearch.com
 aberdeenasset.com.au        #Existing Lists (Defunct?)
 aberdeen-asset.com          #Existing Lists (Defunct?)
 4xcube.com                  #Existing Lists (Mixed Reviews)
-1stventures.co.cc           #Existing Lists
-247bitcoincrypto.com        #Existing Lists
 24livetrade.com             #Existing Lists
-24livetrades.com            #Existing Lists
 24stockfx.com               #Existing Lists
 24tradeexplore.com          #Existing Lists
 92coins.com                 #Existing Lists
 aipcapitaltrade.com         #Existing Lists
+binaryfxoptions.com         #Existing Lists
+clockoptions.com            #Existing Lists
+olympoption.com             #Existing Lists
 
 
 #############################
@@ -295,8 +298,8 @@ zrcir.com
 #############################
 # Detailed
 #############################
-ali213.co                                 #Pirated Games
-player.h-cdn.com                          #Was in Bitcoin lists - Says it causes issuess after video Ad
+ali213.co                                           #Pirated Games
+player.h-cdn.com                                    #Was in Bitcoin lists - Says it causes issuess after video Ad
 na1r.services.adobe.com                                               #Adobe - Product Activation ?
 bin5y4muil.execute-api.us-east-1.amazonaws.com                    #Amazon AWS
 ec2-52-193-201-206.ap-northeast-1.compute.amazonaws.com           #Amazon AWS
@@ -970,6 +973,7 @@ giftedglue.com                           #Leven Labs, Inc.
 giftedthumb.com                          #Leven Labs, Inc.
 giraffepiano.com                         #Leven Labs, Inc.
 gleamingtrade.com                        #Leven Labs, Inc.
+glisteningguide.com                      #Leven Labs, Inc.
 gloriousbeef.com                         #Leven Labs, Inc.
 gloriouscracker.com                      #Leven Labs, Inc.
 glossysense.com                          #Leven Labs, Inc.
@@ -1669,7 +1673,6 @@ mobilemacmini.wsmeco.com
 mrs-nginx-3.westus.cloudapp.azure.com
 net.cleverjp.com
 nitehawk.hearst.io
-ocsp.entrust.net
 ocsp.netsolssl.com
 ocsp.sectigo.com
 optvdo.com
