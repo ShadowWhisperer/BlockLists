@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 5/7/2020  12:21  (12:21 PM)  - Central Standard Time
+# Updated: 5/11/2020  22:21  (10:21 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -5694,6 +5694,7 @@ ac.batmobi.net
 a.cbc.ca
 acb.gbc.criteo.com
 acb.gbc.criteo.net
+a.cbslocal.com
 acbusinessmedia.blueconic.net
 acc.akanoo.com
 acc-asiarisk.app.incisivemedia.com
@@ -8992,6 +8993,7 @@ annexbusinessmedia.blueconic.net
 annies.evergage.com
 annotation.synthesio.com
 a.nokiausa.com
+anolysis.privacy.cliqz.com
 anon-stats.eff.org
 a.nonstoppartner.net
 anonymetrics.rocketlifeproduction.com
@@ -9465,6 +9467,7 @@ api-eu-west-1.petametrics.com
 api-external-test.demandbase.com
 api-ext.mediav.com
 api.eyetracking.innovation.abtasty.com
+api.ezoic.com
 api.factual.com
 api.final.env.sandbox53.localytics.com
 api.flurry.com
@@ -10374,6 +10377,7 @@ apt-lb.techtarget.com
 aptmobileapps.agilecrm.com
 apt.newrelic.com
 apt.techtarget.com
+a.pub.network
 apu.xplosion.de
 apx97xbc-ios.mobile-sdk-api.intercom.io
 apxlv.com
@@ -12631,6 +12635,7 @@ beacon.ztgame.com
 beagle.apxlv.com
 beam.criteo.com
 beamland.actonsoftware.com
+beam.remp.stg.online.xl.pt
 beam.synthesio.com
 beapi.apptentive.com
 be.apptentive.com
@@ -20625,6 +20630,7 @@ d1hc14f07g70ck.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
 d1vl8wytztdz.cloudfront.net
+d21gpk1vhmjuf5.cloudfront.net
 d2469889820213172673-t3579368264539955404.id.amgdgt.com
 d2645482849626619269-t7699168904295241007.id.amgdgt.com
 d2669671172501941997-t3568548498974323684.id.amgdgt.com
@@ -21071,6 +21077,7 @@ datamedia.agilecrm.com
 data.metaps.com
 data.mixpanel.com
 data.native.ai
+data.netscope.marktest.pt
 data.onlinecasino.co.nz.re.getclicky.com
 datapackages.unacast.com
 data.photorank.me
@@ -26170,6 +26177,7 @@ ezfyaalq.emltrk.com
 ezkm5xxlit9qhegtbhpxg9vqqjl8o1507540601.nuid.imrworldwide.com
 ezlynx-prod.firebaseio.com
 ezoic.com
+ezpanel.ezoic.com
 ezpay.adx1.com
 ez-polls.superstats.com
 ezpolls.superstats.com
@@ -30762,6 +30770,7 @@ iay1eg3t.emltrk.com
 iayguf6h.emltrk.com
 ibaovfn646yu1grzlksajtt5equdg1515392081.nuid.imrworldwide.com
 ibarbowq.micpn.com
+ibclick.stream
 ibcs.agilecrm.com
 ibec.clickperfect.com
 iberia.activate.ensighten.com
@@ -32356,6 +32365,7 @@ ione3preprod.moengage.com
 i.onthe.io
 ioqop16t.emltrk.com
 ios.appload.ingest.crittercism.com
+iosassets.ezoic.com
 ios.bugly.qq.com
 iosefito21.click.org
 ios.ksmobile.com
@@ -35549,11 +35559,15 @@ log.ioam.de
 log.ireader.com
 log.isnssdk.com
 log.is.ysten.com
+logit.api.intuit.com
+logit-aws.api.intuit.com
 logitech.channelsight.com
 logitech.links.channelintelligence.com
 logitech.links.origin.channelintelligence.com
 logitech.sp1.convertro.com
 log.itel-mobile.com
+logit.prd.api.a.intuit.com
+logit-us-west-2.prd.api.a.intuit.com
 log.itworld.com
 log.iyunmai.com
 log.jmp.to
@@ -38040,6 +38054,8 @@ metric-api.newrelic.com
 metricasboss.containers.piwik.pro
 metricasboss.piwik.pro
 metric.asos.com
+metric.asos.de
+metric.asos.fr
 metric.australiansuper.com
 metrica.yandex.com
 metric.bizjournals.com
@@ -39263,6 +39279,7 @@ mi-ctl07.imrworldwide.com
 micuni02.acxiom.com
 midas.evergage.com
 middleman.kissmetrics.com
+middleton.ezoic.com
 midis.powered-by.zango.com
 midland.logs.roku.com
 mid.rkdms.com
@@ -45881,6 +45898,7 @@ previewaleteiaorg.api.oneall.com
 preview.clickability.com
 preview.da1.vip.prod.criteo.com
 preview.exacttarget.com
+preview.ezoic.com
 preview.geoframe.eltoro.com
 preview.ignitionone.com
 preview.iperceptions.com
@@ -47303,6 +47321,7 @@ realweb.solution.weborama.fr
 rebathbyschicker.rtrk.com
 rebelsport.sjv.io
 reboot.sitescout.com
+rebrand.ly
 rec1.visualwebsiteoptimizer.com
 rec2.smartlook.com
 rec2.visualwebsiteoptimizer.com
@@ -48561,6 +48580,7 @@ rt01.2cnt.net
 rt01.imrworldwide.com
 rt02.2cnt.net
 rt5g8v11-ios.mobile-sdk-api.intercom.io
+rta2.metro.co.uk
 rta.auth.mparticle.com
 rtab.adx1.com
 rta.criteo.com
@@ -51728,6 +51748,7 @@ secure.mown5gaze.com
 secure.navy9gear.com
 secure.neck6bake.com
 secure.netratings.com
+secure.netscope.marktest.pt
 securenext.c3metrics.com
 secure-ngd.imrworldwide.com
 secure.nice3aiea.com
@@ -60291,6 +60312,7 @@ svb.quantummetric.com
 svc-analytics.adkernel.com
 svc.analytics.adkernel.com
 svc.analytics.nativeads.com
+svc.ezoic.com
 svc.fn0.m-pathy.com
 svc.fn1.m-pathy.com
 svc.ovi.eu-central-1.pos.here.com
@@ -60324,6 +60346,8 @@ sw02-ct.imrworldwide.com
 sw02-sg.imrworldwide.com
 sw02-sh.imrworldwide.com
 sw02-usw.imrworldwide.com
+sw4prdwebbluealb-1913782926.us-west-2.elb.amazonaws.com
+sw4_us-west-2_web.prd.api.a.intuit.com
 sw88.abc.com
 sw88.aladdinthemusical.co.uk
 sw88.disney.be
@@ -63015,6 +63039,7 @@ tracker.bang.com
 tracker.bannerflow.com
 tracker.bdash-cloud.com
 tracker.beam.remp2020.com
+tracker.beam.remp.stg.online.xl.pt
 tracker.beezup.com
 tracker.begun.ru
 tracker.beritagar.id
@@ -64237,6 +64262,7 @@ tracking.myunidays.com
 tracking.mywebdata.co.uk
 tracking.narvar.com
 tracking.nationalfamily.com
+tracking.nationaltrust.org.uk
 tracking.ncpi.adpool.co.kr
 tracking.ne16.com
 tracking.nesox.com
@@ -67406,6 +67432,7 @@ v5iqab9i-android.mobile-sdk-api.intercom.io
 v5iqab9i-ios.mobile-sdk-api.intercom.io
 v5mh.tlnk.io
 v5.tagcommander.com
+v60nf4oj-4a8f2acbeeeac6e620e83276ff9dabdc1d20a6e4-sac.d.aa.online-metrix.net
 v60nf4oj-91e019c87bef4460ce2d3e6003a6f006cef8e899-sac.d.aa.online-metrix.net
 v67cioe0.emltrk.com
 v6a5m.voluumtrk3.com
@@ -68823,51 +68850,6 @@ web-kare.id-visitors.com
 webleads-tracker.com.ssl.re.getclicky.com
 webload.me
 web.localytics.com
-webmail.abtasty.com
-webmail.accessiblemetrics.com
-webmail.adx1.com
-webmail.airporttaxi.click.org
-webmail.analyse.advertisingbox.com
-webmail.analyticson.com
-webmail.bankoffer.click.org
-webmail.banks.click.org
-webmail.callrail.com
-webmail.cheapoffer.click.org
-webmail.cheaptaxi.click.org
-webmail.coley87ns2.click.org
-webmail.corp.returnpath.com
-webmail.corp.returnpath.net
-webmail.exacttarget.com
-webmail.extreme.click.org
-webmail.foresee.com
-webmail.gemius.pl
-webmail.hortiz.click.org
-webmail.hta-be.click.org
-webmail.incisivemedia.com
-webmail.insuranceoffer.click.org
-webmail.insurances.click.org
-webmail.lijit.com
-webmail.makemoney.click.org
-webmail.manchesterairporttaxi.click.org
-webmail.market4solutions.click.org
-webmail.markmonitor.com
-webmail.master12.click.org
-webmail.mathtag.com
-webmail.money7ns1.click.org
-webmail.naenae87.click.org
-webmail.netcoresmartech.com
-webmail.online.click.org
-webmail.ppi.click.org
-webmail.profit.click.org
-webmail.returnpath.com
-webmail.returnpath.net
-webmail.rudy1997.click.org
-webmail.rudy1.click.org
-webmail.srudy12.click.org
-webmail.taxi.click.org
-webmail.taxiinmanchester.com.click.org
-webmail.xml.adx1.com
-webmail.zane1212.12minutepayday.clicksure.click.org
 webmasterkai.sitetracker.com
 webmasters.sextracker.com
 webmddfp936579382290.s.moatpixel.com
@@ -71185,6 +71167,7 @@ zl19yed8-android.mobile-sdk-api.intercom.io
 zl3hj5ycedrh3wsdc39oadij1radq1516669247.nuid.imrworldwide.com
 zlnduzid.micpn.com
 zmessenger.piwik.pro
+zn0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
 znabk5oa.micpn.com
 znmmvaov.micpn.com
 znnpnlnknns.blueconic.net

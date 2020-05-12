@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 5/7/2020  12:21  (12:21 PM)  - Central Standard Time
+# Updated: 5/11/2020  22:21  (10:21 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -177,9 +177,11 @@ scarabresearch.com
 #############################
 # Scam
 #############################
+giztop.com
 aberdeenasset.com.au        #Existing Lists (Defunct?)
 aberdeen-asset.com          #Existing Lists (Defunct?)
 4xcube.com                  #Existing Lists (Mixed Reviews)
+amfeix.com                  #Existing Lists (Mixed Reviews)
 24livetrade.com             #Existing Lists
 24stockfx.com               #Existing Lists
 24tradeexplore.com          #Existing Lists
@@ -187,6 +189,7 @@ aberdeen-asset.com          #Existing Lists (Defunct?)
 aipcapitaltrade.com         #Existing Lists
 binaryfxoptions.com         #Existing Lists
 clockoptions.com            #Existing Lists
+moneysmart.gov.au           #Existing Lists
 olympoption.com             #Existing Lists
 
 
@@ -1332,6 +1335,7 @@ steadfastsound.com                       #Leven Labs, Inc.
 steadfastsystem.com                      #Leven Labs, Inc.
 steepsquirrel.com                        #Leven Labs, Inc.
 stickssheep.com                          #Leven Labs, Inc.
+stickysheet.com                          #Leven Labs, Inc.
 stiffstem.com                            #Leven Labs, Inc.
 storescissors.com                        #Leven Labs, Inc.
 storeslope.com                           #Leven Labs, Inc.
@@ -1568,6 +1572,8 @@ wazespeechactiviation-pa.googleapis.com     #Waze
 cf.zdassets.com                                #Zdassets
 p14.zdassets.com                               #Zdassets
 static.zdassets.com                            #Zdassets
+i5-opt-v0.wal.co                                   #Walmart (i5-opt-v0.wal.co/random?prx-test-mode=ak-rr&i=0)
+i5-opt-v0.cf-wal.co                                #Walmart (i5-opt-v0.cf-wal.co/random?prx-test-mode=ns1-proximity&i=0)
 ueip.vmware.com                                  #Vmware
 atsv2-fp.wg1.b.yahoo.com                     #Yahoo
 fc.yahoo.com                                 #Yahoo
@@ -1726,3 +1732,4 @@ split.io
 yesware.com
 app.yesware.com
 localize.sitebuilder.com
+pollenapps.com
