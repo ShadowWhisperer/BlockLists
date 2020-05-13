@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 4/24/2020  13:00  (1:00 PM)  - Central Standard Time
+# Updated: 5/12/2020  22:37  (10:37 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -197,6 +197,8 @@ moldtelecom.md                                #ISP  Worst Spam     (spamhaus.org
 miui.com                                      #Foreign   Android Rom
 shinobi.jp                                    #Foreign   Celebrity Buzz
 eu.com                                        #Foreign   Domain Register
+list.ru                                       #Foreign   Email
+mail.ru                                       #Foreign   Email
 tmall.com                                     #Foreign   Email
 vtr.net                                       #Foreign   Email
 uc.cn                                         #Foreign   Internet Company (Singapore/China)  [Alibaba Group]
@@ -218,7 +220,10 @@ thedailywinnings.com                          #Prizes / Giveaways
 acraffiliates.com                             #Gambling
 annuaire-x.com                                #Gambling
 btggaming.com                                 #Gambling
+bwin.com                                      #Gambling
+ladbrokes.com                                 #Gambling
 playtech.com                                  #Gambling
+williamhill.com                               #Gambling
 
 harpquiz.com                                  #Quiz
 magiquiz.com                                  #Quiz
@@ -246,6 +251,7 @@ ccleaner.tools.avcdn.net                      #Software - ccleaner
 curseapp.net                                  #Software - Curse       (In-Game Voice Chat)
 dashlane.com                                  #Software - Daskline    (Password Manager)
 flipboard.com                                 #Software - Flipbloard
+cdn.flipboard.com                             #Software - Flipbloard
 glarysoft.com                                 #Software - Glary Utilities
 download.iolo.net                             #Software - Iolo (System Mechanic)
 iolo.com                                      #Software - Iolo (System Mechanic)
@@ -375,6 +381,10 @@ ss-sym.search.ask.com                         #Search Engine   Ask
 tbapi.search.ask.com                          #Search Engine   Ask
 search.comodo.com                             #Search Engine   Comodo
 search.com                                    #Search Engine   CBS
+cdn.cliqz.com                                 #Search Engine   Cliqz
+cliqz.com                                     #Search Engine   Cliqz
+favicons.cliqz.com                            #Search Engine   Cliqz
+img.cliqz.com                                 #Search Engine   Cliqz
 sugg.search.yahoo.net                         #Search Engine   Yahoo (Suggestions)
 toolbar.yahoo.com                             #Search Engine   Yahoo (Toolbar)
 search.yahoo.com                              #Search Engine   Yahoo
@@ -382,7 +392,6 @@ copernicus-software.stores.yahoo.net          #Search Engine   Yahoo
 search.zonealarm.com                          #Search Engine   ZoneAlarm (Safe Search)
 
 hi5.com                                       #Social Media (Contains Adult Sites)
-
 
 downloadaccelerator.com                       #Video Downloader
 savetubevideo.com                             #Video Downloader
