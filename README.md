@@ -28,7 +28,7 @@
   
 Domains are sorted by category. Some domains are used for both ads and tracking.  
   
-These lists are all verified by me, either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled (Verfified by me, before adding). I try to keep dead, parked, and sinkholed domains out of these lists.  
+These lists are all verified by me, either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled. I try to keep dead, parked, and sinkholed domains out of these lists.  
   
 I remove _www<span></span>._ _mobile._ _m._  prefixes. They are added in the script below. This keeps the original list shorter, and ensures the domain is fully blocked.  
   
@@ -43,6 +43,9 @@ _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may break some website
 [Norton Safeweb](https://safeweb.norton.com/)  
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
 [VirusTotal](https://www.virustotal.com/gui/home/url)  
+  
+[SSL Labs](https://www.ssllabs.com/ssltest/)  
+[Whois](https://www.whois.com/whois/)  
   
 [Spamhaus Statistics](https://www.spamhaus.org/statistics/countries/)  
 
