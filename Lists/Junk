@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 5/12/2020  22:37  (10:37 PM)  - Central Standard Time
+# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -402,8 +402,6 @@ whatsapp.net                                  #VOIP
 pythonanywhere.com                            #Can be used for malware
 
 godaddysites.com                              #Un-Finished sites - Usually malware
-
-addtoany.com                                  #Universal Sharing
 
 
 

@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 5/12/2020  22:37  (10:37 PM)  - Central Standard Time
+# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -842,6 +842,7 @@
 189983.deeplink.mobileapptracking.com
 189983.engine.mobileapptracking.com
 189983.measurementapi.com
+189.analytics.21cn.com
 18b5da.efeedbacktrk.com
 18.opticalanalytics.io
 18.us.wr.pixapi.net
@@ -991,6 +992,7 @@
 1.aerial.maps.cit.api.here.com
 1ahs5c49.emltrk.com
 1alsamyn.micpn.com
+1.analytics.faw.sky.com
 1annuaire.com
 1.appgift.sinaapp.com
 1ar.cqcounter.com
@@ -5620,6 +5622,7 @@ abc.gbc.criteo.net
 abc.imrworldwide.com
 abc.moengage.com
 abcnews.hb.omtrdc.net
+abcotv.hb.omtrdc.net
 abcq.adj.st
 abc.truconversion.com
 abdolly.touchcommerce.com
@@ -5793,6 +5796,7 @@ account.o.mouseflow.com
 account.rfksrv.com
 account.rontar.com
 accounts-ad-nl.sslproxy.gigya.com
+accounts-analyticsapp.paytm.com
 accounts-api.appdynamics.com
 accounts.api.getadmiral.com
 accounts.appdynamics.com
@@ -6032,6 +6036,7 @@ adbmi.com
 adboaw2l.emltrk.com
 adbrain.com
 adbrix.igaworks.com
+adbrix.io
 adb-secured.kijk.nl
 adcatalyst.vizu.com
 adcell.com
@@ -6211,6 +6216,7 @@ admin.usc-ppa-test.urbaninsight.com
 adminv2.touchcommerce.com
 adminv3.touchcommerce.com
 admin-vpn.monetate.net
+admiral.mgr.consensu.org
 admissionsservices.insightfirst.com
 admnew.dynamicyield.com
 admob-app-id-5702209339.firebaseio.com
@@ -6464,6 +6470,7 @@ ad-us-west.ipredictive.com
 adutmfw1.metalyzer.com
 adutmfw2.metalyzer.com
 advancedmd.saas.appdynamics.com
+advanced-web-analytics.com
 advancedwireless.actonsoftware.com
 advancepro-app.quantummetric.com
 advanceweb.actonsoftware.com
@@ -7395,6 +7402,7 @@ ams-v4.pops.fastly-insights.com
 amtips.agilecrm.com
 am.trafficmp.com
 amtrak.saas.appdynamics.com
+am-trc-events.taboola.com
 am-uk.sophus3.com
 amundi.commander1.com
 amung.us
@@ -7406,6 +7414,7 @@ ana.analyticson.com
 anagog.com
 analoganalytics.com
 analyse.brandseye.com
+analyselog.dx.com
 analyse.sophus3.com
 analysis.lax.mathtag.com
 analysis.polarisoffice.com
@@ -9360,6 +9369,7 @@ api-analytics-bootstrap-dev.metaps.com
 api-analytics-bootstrap.metaps.com
 api-analytics-bootstrap-stg.metaps.com
 api-analytics.huami.com
+api-analytics-in.huami.com
 api-analytics.kkbox.com.tw
 api-analytics.kkbox.com.tw.aws.r.kkcube.com
 api-analytics.kkbox.com.tw.hosting-gamania.r.kkcube.com
@@ -9373,8 +9383,11 @@ api.analytics.omgpop.com
 api.analyticson.com
 api-analytics.pelikan.sk
 api-analytics.rozetka.com.ua
+api-analytics-sg.huami.com
 api-analytics-stg.metaps.com
 api-analytics.t-mobile.cz
+api-analytics-us.huami.com
+api-analytics.us-west-2.elasticbeanstalk.com
 apiant.agilecrm.com
 api-apac.web.analytics.yahoo.com
 api.api.omnitagjs.com
@@ -11463,6 +11476,7 @@ awdk.adj.st
 awe.am-dev.identity.api.liveramp.com
 awesome.bizible.com
 awesome-table.firebaseio.com
+aweuwv.advanced-web-analytics.com
 awg-w.tlnk.io
 a.wishabi.com
 awjfuvytrxu6fyvtsvhponnbsxhii1516629144.nuid.imrworldwide.com
@@ -12866,6 +12880,7 @@ beymenapp.adj.st
 beyond.t.domdex.com
 bf01071qyi.bf.dynatrace.com
 bf03691xxg.bf.dynatrace.com
+bf03979hmm.bf.dynatrace.com
 bf06119kov.bf.dynatrace.com
 bf07603ibn.bf.dynatrace.com
 bf07698wqg.bf.dynatrace.com
@@ -14858,6 +14873,7 @@ cdn-a2-ncl.optimizely.com
 cdn-a6967.actonsoftware.com
 cdna.adgrx.com
 cdn.a.adx1.com
+cdn.abcotvs.net
 cdn.abtasty.com
 cdn.acdn.adx1.com
 cdna.ciradar.com
@@ -15782,6 +15798,7 @@ chrysler.sophus3.com
 chs-ca.rtrk.com
 ch.shop.pricespider.com
 chs.smartclick.net
+ch-trc-events.taboola.com
 chuanyang-cm.cn.miaozhen.com
 chumbo.rdr.channelintelligence.com
 churchdwightsizmek22033498_adnode.s.moatpixel.com
@@ -22672,6 +22689,7 @@ devmate.com
 dev.material.mobile.ensighten.com
 dev.mediabong.net
 dev-metrics.getrockerbox.com
+devmetrics.phunware.com
 dev-millreach.macromill.com
 dev.mindtake.com
 dev.mobfox.com
@@ -24512,6 +24530,7 @@ elb-aws-va-visualiq-39389596.us-east-1.elb.amazonaws.com
 elb.eks-test.logrocket.io
 elbh.adj.st
 elb-imp-aws-fr-1.bidswitch.net
+elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
 elb-web.datadoghq.com
 elcm1d2qbim855dsddhhbxh4do0hyzt6.edns.ip-api.com
 eldirtysw01.touchcommerce.com
@@ -25614,8 +25633,10 @@ evekit.privy.com
 evena.tapfiliate.com
 evenimentu.count.brat-online.ro
 event2.hiconversion.com
+event.adbrix.io
 event.adxpose.com
 event.api.cp.tune.com
+event-api.reverb.com
 event.collector.scopely.io
 event.condenastdigital.com
 event.headshot.adx1.com
@@ -28050,6 +28071,7 @@ gdl.blueconic.net
 gdmconvtrck.com
 gdn.adclear.net
 gdpipe.walkme.com
+gdpr.adbrix.io
 gdpr.adjust.com
 gdpr.alcmpn.com
 gdpr.api.dmp.nsaudience.pl
@@ -29550,6 +29572,7 @@ hawaiipacific.blueconic.net
 hawaii.rtrk.com
 haweskode.widget.criteo.com
 hawkersmx.solution.weborama.fr
+hawkeye-appdebugalb-ext-2051820525.ap-south-1.elb.amazonaws.com
 hawkeye.logger.baofeng.com
 hawkfx.agilecrm.com
 hawkinuk.widget.criteo.com
@@ -30186,6 +30209,7 @@ hkng001.batmobi.net
 hk-rtb.widerplanet.com
 hk.rtb.widerplanet.com
 hk.shoppertrak.com
+hk-trc-events.taboola.com
 hk-vpn.turn.com
 hlce.adj.st
 hld3ifqm.emltrk.com
@@ -30199,6 +30223,7 @@ hlton.sjv.io
 hm1.cnzz.com
 hm2.cnzz.com
 hm3.cnzz.com
+hm.baidu.com
 hmce.adj.st
 hmdglobal.rpxnow.com
 hmdglobalstaging.rpxnow.com
@@ -33322,6 +33347,7 @@ jp-gmtdmp.mookie1.com
 jpgnag9itjzfkjm7f5h793r6d56lb92b.edns.ip-api.com
 jp.groundtruth.com
 jp.linkshare.com
+jp.livelog.nexon.com
 jp-lsmfcs-cluster.rd.linksynergy.com
 jp-lsmfcs.rd.linksynergy.com
 jp-map.mediaforge.com
@@ -34243,6 +34269,7 @@ latest.app.optimizely.com
 latimes.activate.ensighten.com
 latin3.directtrack.com
 latoniaprice.privy.com
+la-trc-events.taboola.com
 latt.blueconic.net
 launch.eloqua.com
 launcher-analytics.totalwar.com
@@ -41457,6 +41484,7 @@ newsnetz.wemfbox.ch
 news.nonstoppartner.de
 new.social.conviva.com
 newsone.moengage.com
+newsource-cdn-static.ns.cnn.com
 news.parsely.com
 newsroom.onelink.me
 newssl.webtrends.com
@@ -43380,6 +43408,7 @@ opentag-stats.qubit.com
 opentalk-c674c.firebaseio.com
 open.umeng.com
 openvpn.tradedoubler.com
+openwebanalytics.com
 open-xchange.containers.piwik.pro
 open-xchange.piwik.pro
 openxdisplay970503469688.s.moatpixel.com
@@ -43797,6 +43826,7 @@ owa.coremetrics.com
 owa.exacttarget.com
 owa.hb.adx1.com
 owa.incisivemedia.com
+owa.piwikanalytics.win
 owa.uservoice.com
 owa.websidestory.com
 owa.xml.adx1.com
@@ -44774,6 +44804,7 @@ piwik.accessintel.com
 piwik.acdesignfrance.com
 piwik.affolter.net
 piwik.alexnogard.com
+piwikanalytics.win
 piwik.artaxo.com
 piwik.asip10.fr
 piwik.avorium.de
@@ -45489,6 +45520,7 @@ pixel.titjolacruso.info
 pixel.tonpaleftpar.info
 pixel.tontwiredat.info
 pixel.tori.net
+pixeltrack.clientgear.com
 pixel.trackverify.com
 pixel.trafficfuel.com
 pixel.trafficmp.com
@@ -46705,6 +46737,7 @@ pt.transam.macromill.com
 pt.umeng.com
 p.tvpixel.com
 ptx.adj.st
+p.typekit.net
 pub2.incisivemedia.com
 pub-analytics.rtbhouse.com
 pub-asiarisk.app.incisivemedia.com
@@ -46884,6 +46917,7 @@ pvr.gamestats.com
 pv.surveywall-api.survata.com
 pv.tacoda.at.atwola.com
 pv-tm.everesttech.net
+pw-analytics.phunware.com
 pwa-y.tlnk.io
 pw.cnzz.com
 pwdagpfdpcjmsa18qqicibgsu8bmcklh.edns.ip-api.com
@@ -50815,6 +50849,7 @@ saas-cf.userreplay.net
 saas-eu-west-1.instana.io
 saas-mil.userreplay.net
 saa.sparebank1.no
+saa.sportsline.com
 saas.tar.userreplay.net
 saastest.appdynamics.com
 saas-us-west-2.instana.io
@@ -50822,6 +50857,7 @@ saas-waw.userreplay.net
 saa.tallink.com
 saatchi01.webtrekk.net
 saa.techrepublic.com
+saa.thedoctorstv.com
 saa.tv.com
 sa.avenuesupply.ca
 saavn.onelink.me
@@ -52399,6 +52435,7 @@ sentry.spot.im
 sentry.tamoco.com
 seo-blog.brightedge.com
 seoclarity.evergage.com
+seo.letgo.com
 seolytics01.webtrekk.net
 seomatrix.webtrackingservices.com
 seoproofits.justclick.ru
@@ -54579,6 +54616,7 @@ smetrics.jergens.com
 smetrics.jetblue.com
 smetrics.jetsave.com
 smetrics.jeugdbibliotheek.nl
+smetrics.jewson.co.uk
 smetrics.jjill.com
 smetrics.jobs.ie
 smetrics.joefresh.com
@@ -56546,6 +56584,7 @@ sportsauthority.btttag.com
 sportscloud.blueconic.net
 sportskeeda.innocraft.cloud
 sportsmans.evergage.com
+sportsmansguide.tt.omtrdc.net
 sports.onelink.me
 sportsrus.rdr.channelintelligence.com
 sports-tracker.helpshift.com
@@ -57145,6 +57184,7 @@ ssl.o.univadis.es
 ssl.o.univadis.fr
 ssl.o.univadis.it
 ssl.o.vitals.com
+ssl.o.webmd.com
 sslp1.acecounter.com
 ssl.perfectaudience.com
 ssl-politiken.tns-dk.2cnt.net
@@ -57828,6 +57868,7 @@ staging.x.vindicosuite.com
 stags.bluekai.com
 stags.bluekai.comtacoda.at.atwola.comtags.bluekai.comtracker.marinsm.com
 stags.phx.bluekai.com
+s.tagsrvcs.com
 stag.visualdna.com
 staing-pt.ispot.tv
 stamats.blueconic.net
@@ -59518,6 +59559,7 @@ stats.sextracker.com
 stats.sfgate.com
 stats.sfgj.org
 stats.shareasale-analytics.com
+stats.share-links.biz
 stats.shareport.com.au
 stats.shopify.com
 stats.shoppydoo.com
@@ -60003,6 +60045,7 @@ stat.verycd.com
 stat.videonow.ru
 stat.videotrailer.top
 stat.vipstatic.com
+stat.vkpartner.ru
 stat.vodone.cn
 stat.volja.net
 stat.vorwaerts.de
@@ -60799,6 +60842,7 @@ svisitor.pharma.us.novartis.com
 sv.ksmobile.net
 svn.blueconic.net
 svn.comscore.com
+svn.openwebanalytics.com
 s-vop.sundaysky.com
 sv-p.alcmpn.com
 svpro7.oewabox.at
@@ -62883,6 +62927,7 @@ towertalks.unacast.com
 township.onelink.me
 townshoes.evergage.com
 towww.adjust.com
+toy.log.nexon.io
 toyota2.solution.weborama.fr
 toyotamx.solution.weborama.fr
 toyotaofslidell.rtrk.com
@@ -67287,6 +67332,7 @@ unicef.adclear.net
 unicorngoods.privy.com
 unicredit.webtrends.com
 unidadeditorial.solution.weborama.fr
+unid.go.com
 unifiedcallsolutions.agilecrm.com
 unifiedcollector.pyze.com
 unifi-report.ubnt.com
@@ -67785,6 +67831,7 @@ us-test.am.identity.api.liveramp.com
 us-tk.mobpowertech.com
 us-tracker.inside-graph.com
 us-tracking.dyntrk.com
+us-trc-events.taboola.com
 us-try.count.ly
 us.u.fastly-insights.com
 us-usersync.dyntrk.com
@@ -71570,6 +71617,7 @@ zc5bingt.emltrk.com
 zc7otqhn.micpn.com
 zccqurskve8tqfhncowh712f34zuh1516627665.nuid.imrworldwide.com
 zcdn.adx1.com
+z.cdn.turner.com
 zch6.adj.st
 z.chango.com
 z.cnzz.com

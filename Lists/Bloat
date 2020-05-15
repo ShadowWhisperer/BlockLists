@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 5/5/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -54,7 +54,8 @@ videodownloaderultimate.com         #Browser Extension - Video Downloader Profes
 followistic.com                     #Webpage Integration - Email Notifications
 api.followistic.com                 #Webpage Integration - Email Notifications
 static.followistic.com              #Webpage Integration - Email Notifications
-platform.twitter.com                #Webpage Integration - Social Media (Widget)
+addtoany.com                        #Webpage Integration - Social Media (Universal Sharing)
+static.addtoany.com                 #Webpage Integration - Social Media (Universal Sharing)
 addnow.com                          #Webpage Integration - Social Media
 addthiscdn.com                      #Webpage Integration - Social Media
 addthis.com                         #Webpage Integration - Social Media
@@ -68,13 +69,13 @@ sharethis.com                       #Webpage Integration - Social Media
 sharethis.net                       #Webpage Integration - Social Media
 static1.twitcount.com               #Webpage Integration - Social Media
 twitcount.com                       #Webpage Integration - Social Media
-accountkit.com                      #Webpage Integration - User other accounts to login to new account
+accountkit.com                      #Webpage Integration - Create a new account wih existing accounts on other sits
 
-licensebuttons.net                                 #Webpages - Icon
-ec2-18-216-208-225.us-east-2.compute.amazonaws.com #Webpages - Icon (licensebuttons.net)
-i.creativecommons.org                              #Webpages - Icon (licensebuttons.net)
-s3.feedly.com                                      #Webpages - Icon (Follow Page)
-images.dmca.com                                    #Webpages - Logo (Digital Millennium Copyright Act )
+licensebuttons.net                                   #Webpages - Icon
+ec2-18-216-208-225.us-east-2.compute.amazonaws.com   #Webpages - Icon (licensebuttons.net)
+i.creativecommons.org                                #Webpages - Icon (licensebuttons.net)
+s3.feedly.com                                        #Webpages - Icon (Follow Page)
+images.dmca.com                                      #Webpages - Logo (Digital Millennium Copyright Act )
 
 browser-update.org                  #Checks Browser Version
 
@@ -190,6 +191,7 @@ m2u.sn.eamobile.com                                    #Games [Studio]  EA
 product.sn.eamobile.com                                #Games [Studio]  EA
 syn-dir.sn.eamobile.com                                #Games [Studio]  EA
 user.sn.eamobile.com                                   #Games [Studio]  EA
+king.com                                               #Games [Studio]  King
 
 experience.amd.com                                      #AMD
 cloud.acer.com                                          #Acer  Cloud
@@ -326,7 +328,7 @@ mus.lenovo.com                                          #IBM / Lenovo
 graph.instagram.com                                     #Instagram
 api.intelsa.intel.com                                   #Intel   [Software]  Security Assistant
 tkassets.com                                            #Intel   [Software]  True Key
-gameplay.intel.com                                      #Intel   Game Graphics Optimization Check (Runs without GPU)
+gameplay.intel.com                                      #Intel   Game Graphics Optimization Check
 ekop.intel.com                                          #Intel
 iasbroker.intel.com                                     #Intel
 ias.intel.com                                           #Intel
@@ -392,6 +394,10 @@ clmbtech.com                                            #Android  [App]   MXplay
 mxplay.com                                              #Android  [App]   MXplayer
 mxplayer.j2inter.com                                    #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com                #Android  [App]   MXplayer
+cleaner.noxgroup.org                                    #Android  [App]   NoxCleaner
+noxgroup.org                                            #Android  [App]   NoxCleaner
+mobimagic.com                                           #Android  [App]   Safe Security - Antivirus, Booster, Phone Cleaner
+safesecurityapps.com                                    #Android  [App]   Safe Security - Antivirus, Booster, Phone Cleaner
 classicwords.net                                        #Android  [Game]  Classic Words
 coverfire.s3.dualstack.us-east-1.amazonaws.com          #Android  [Game]  Coverfire
 soniccd-cdn.s3.amazonaws.com                            #Android  [Game]  Sonic CD
@@ -422,6 +428,7 @@ doodlemobile.com                                        #Android  [App Studio]  
 djinnworks.at                                           #Android  [App Studio]    DjinnWorks
 com.djinnworks.lr.s3.amazonaws.com                      #Android  [App Studio]    DjinnWorks
 com.djinnworks.newsfeed.s3.amazonaws.com                #Android  [App Studio]    DjinnWorks
+ezjoygame.com                                           #Android  [App Studio]    Ezjoy Network
 fdg-entertainment.com                                   #Android  [App Studio]    FDG Entertainment
 four33.com                                              #Android  [App Studio]    FourThirtyThree
 funlabmobile.com                                        #Android  [App Studio]    FunLab
@@ -475,6 +482,7 @@ scopely.io                                              #Android  [App Studio]  
 ushareit.com                                            #Android  [App Studio]    SHAREit
 wshareit.com                                            #Android  [App Studio]    SHAREit
 siliconorchard.com                                      #Android  [App Studio]    Silicon Orchard
+supercell.net                                           #Android  [App Studio]    SuperCell
 surpax.net                                              #Android  [App Studio]    Surpax
 tensquaregames.com                                      #Android  [App Studio]    Ten Square Games
 tapps.games                                             #Android  [App Studio]    TappsGames
