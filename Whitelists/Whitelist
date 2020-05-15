@@ -72,7 +72,6 @@ activation-v2.sls.microsoft.com                    #Microsoft - Office - Active
 go.microsoft.com                                   #Microsoft - Office - Active
 officeclient.microsoft.com                         #Microsoft - Office - Active
 licensing.mp.microsoft.com                         #Microsoft - Active Windows
-wdcp.microsoft.com                                 #Microsoft - Antivirus Updates
 client.hip.live.com                                #Microsoft - Create Email Account
 eus.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
 scu.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
@@ -90,6 +89,7 @@ dns.msftncsi.com                                   #Microsoft - Network Icon Sta
 msftconnecttest.com                                #Microsoft - Network Icon Status
 msftncsi.com                                       #Microsoft - Network Icon Status
 statics-uhf-wus.akamaized.net                      #Microsoft - Support Pages
+wdcp.microsoft.com                                 #Microsoft - Windows Defender Updates
 displaycatalog.mp.microsoft.com                    #Microsoft - Windows Store
 services.apps.microsoft.com                        #Microsoft - Windows Store
 storeedgefd.dsx.mp.microsoft.com                   #Microsoft - Windows Store
