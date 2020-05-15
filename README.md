@@ -7,7 +7,7 @@
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting & Blogs  
-    Junk             Surveys, Junk, Personally Untrusted Antivirus, ISPs (Spam/Botnets), Non USA Sites, etc  
+    Junk             Surveys, Junk, Personally Untrusted Antivirus, ISPs (Spam/Botnets), etc  
     Malware          Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites  
     Marketing        Web Marketing / Ebay Listing Tools  
     Marketing-Email  Email Based Marketing  
@@ -16,7 +16,7 @@
     Remote           Domains used to remotely control your stuff  
     Scam             Fake / Misleading Sites - Not malware  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
-    Suspicious       All domains I am uncertain of. Contains a mixture of possiblevAds, Trackers, Malware  
+    Suspicious       Domains I am uncertain of. Contains a mixture of possible Ads, Trackers, Malware  
     Top_Level        Top Level Domains: Will block most non-traditional domains  
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
     Tunnels          VPNs & Proxies
