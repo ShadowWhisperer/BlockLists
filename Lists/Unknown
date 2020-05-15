@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
+# Updated: 5/15/2020  11:38  (11:38 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -156,6 +156,7 @@ topertaimp.com                 #Opt-Out Email Link (Harry Blankenship)
 eightsouthice.com              #Opt-Out Email Link (Between "Harry Blankenship")
 bissferasy.com                 #Opt-Out Email Link (Harry Blankenship)
 ds2r9mr2r4h38.cloudfront.net   #Opt-Out Email Link (Harry Blankenship)
+luyouxia.net                      #Existing Malware List
 126.am
 e2ertt.com
 exlusepolly.com
@@ -261,6 +262,8 @@ client.amplifi.com                                          #Unifi
 ubnt.i.lithium.com                                          #Unifi - Not sure if still used. Haven't seen in a while
 dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
 #######################################################
+sg.tdm.qq.com                                               #Android Games  (Tencent Games)
+ipv6-sh.itop.qq.com                                         #Android Games  (Tencent Games)
 analyze.pro.research-artisan.com                            #Chineese Site
 pro.research-artisan.com                                    #Chineese Site
 research-artisan.com                                        #Chineese Site
@@ -619,7 +622,6 @@ fcm-stream.googleapis.com                      #Google
 federatedml-pa.googleapis.com                  #Google
 feelinsonice.l.google.com                      #Google
 feelinsonice-mvm.l.google.com                  #Google
-firebaseinstallations.googleapis.com           #Google
 footprints-pa.googleapis.com                   #Google
 gem-pa.googleapis.com                          #Google
 googlecommerce.com                             #Google
@@ -795,149 +797,3 @@ fwbntw.com                       #Icon = Blue Cursor
 ##################################################################
 ingest.machinify.com             #AI
 machinify.com                    #AI
-##################################################################
-1dmp.co
-1-dot-klarsikt3.appspot.com
-a731.dscw10.akamai.net
-a743.gi3.akamai.net
-a771.dscq.akamai.net
-aliapp.com
-a.optvdo.com
-apester.com
-api.b2c.com
-api.rss2json.com
-api.web.future.net.uk
-app.e.seagate.com
-aresssl.agoop.net
-arg1f5.eastus.cloudapp.azure.com
-assets.huluim.com
-assoc-na.associates-amazon.com
-bb3k.thepiratebay10.org
-bolt-gcdn.sc-cdn.net
-caglobal.com
-c-catalog.mgo-images.com
-c.disquscdn.com.cdn.cloudflare.net
-cdn.transifex.com
-cds.s5x3j6q5.hwcdn.net
-check.api2.transactal.com
-connect.scroll.com
-crl.netsolssl.com
-crl.securetrust.com
-cstatic-graphics.com
-cstatic-images.com
-culoqodu.com
-d1lp05q4sghme9.cloudfront.net
-data.multiext.com
-data.osdknw.com
-dcp1uutw7eukq.cloudfront.net
-devside.net
-d-ipv6.mmapiws.com
-dist.transactal.com
-downloads.intercomcdn.com
-dualstack.pinterest.map.fastly.net
-dualstack.shopify.map.fastly.net
-e11847.g.akamaiedge.net
-e12827.dscb.akamaiedge.net
-e14801.x.akamaiedge.net
-e3tmyc4rbs.com
-e5842.g.akamaiedge.net
-e6913.dscx.akamaiedge.net
-e9428.dscb.akamaiedge.net
-e9743.dscb.akamaiedge.net
-etc.azureedge.net
-exaways.com
-farm1.static.flickr.com
-fccinteractive.com
-fc.mrsvg.co
-fdsdown.safenet-inc.com
-forms.hsforms.com
-fte.web.future.net.uk
-gadgets.future-fie-assets.co.uk
-github.map.fastly.net
-gizmos.future-fie-assets.co.uk
-g.tenor.com
-gtq.sct.sc-prod.net
-hajanac.com
-hds-api.hearst.io
-hodup.com
-http.web.future.net.uk
-hunutom.com
-inhabitmainlive.akamaized.net
-inhabit-service.cdn.arkadiumhosted.com
-ink1001.com
-insigniathemes.com
-ipm.corel.com
-isatap.hitronhub.home
-i-secure.walmartimages.com
-iwa.iplsc.com
-js.intercomcdn.com
-js.iplsc.com
-juko2000solutions.com
-kitma.caglobal.com
-ksr-static.imgix.net
-ksr-ugc.imgix.net
-lg.ecorebates.com
-lisnr.com
-listgrowth.ctctcdn.com
-mateti.net
-media.amazon.map.fastly.net
-mmapiws.com
-mobilemacmini.wsmeco.com
-mrs-nginx-3.westus.cloudapp.azure.com
-net.cleverjp.com
-nitehawk.hearst.io
-ocsp.netsolssl.com
-ocsp.sectigo.com
-optvdo.com
-osiprod-weu01-c2r.cloudapp.net
-pathful.com
-p.jwpcdn.com
-pofug.com
-portal.myweblogon.com
-prod.disqus.map.fastlylb.net
-ps.pndsn.com
-pubnub.com
-pusher.com
-qgr.ph
-reddit.map.fastly.net
-rss2json.com
-rtphoto.photoreflect.com
-s1.ticketm.net
-s.aolcdn.com
-search-api.fie.future.net.uk
-secure.footprint.net
-sentinelcustomer.safenet-inc.com
-simonsignal.com
-smedia.webcollage.net
-srvtop.com
-ss2.us
-s.sc-cdn.net
-s.swiftypecdn.com
-static.ecorebates.com
-static.scroll.com
-static.searchstax.com
-static.simonsignal.com
-telexis.com
-tiles.cdnst.net
-tp-prod-content-delivery.appspot.com
-ubembed.com
-us-central1-gcp.api.sc-gw.com
-us-east1-aws.api.sc-gw.com
-venue.tmol.co
-webadvisor.com
-web.eecs.umich.edu
-weeklyfinancialsolutions.com
-wl.batesvilletechnology.com
-wsmeco.com
-w.ssl.global.fastly.net
-xlbbhdarc.com
-ysdn.org
-api.delfi.ee
-sdk.split.io
-split.io
-yesware.com
-app.yesware.com
-localize.sitebuilder.com
-pollenapps.com
-npmcdn.com
-horusii.vemba.io

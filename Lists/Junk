@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
+# Updated: 5/15/2020  11:38  (11:38 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -205,7 +205,6 @@ uc.cn                                         #Foreign   Internet Company (Singa
 hrvatskitelekom.hr                            #Foreign   Phone Service
 t-com.hr                                      #Foreign   Phone Service
 163.com                                       #Foreign   Multiple (China)
-qq.com                                        #Foreign   News (China)
 onet.pl                                       #Foreign   News (Poland)
 republika.pl                                  #Foreign   News (Poland)
 smi2.ru                                       #Foreign   News (Russia)

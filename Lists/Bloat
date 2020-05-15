@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
+# Updated: 5/15/2020  11:38  (11:38 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -38,6 +38,7 @@ fonts.ea.com.c.footprint.net            #Font     Specific
 fonts.ea.com                            #Font     Specific
 fonts.fandango.com                      #Font     Specific
 fonts.foxsports.com                     #Font     Specific
+fonts.intercomcdn.com                   #Font     Specific
 fonts.iu.edu                            #Font     Specific
 fonts.jimstatic.com                     #Font     Specific
 fonts.sidearmsports.com                 #Font     Specific
@@ -69,7 +70,8 @@ sharethis.com                       #Webpage Integration - Social Media
 sharethis.net                       #Webpage Integration - Social Media
 static1.twitcount.com               #Webpage Integration - Social Media
 twitcount.com                       #Webpage Integration - Social Media
-accountkit.com                      #Webpage Integration - Create a new account wih existing accounts on other sits
+accountkit.com                      #Webpage Integration - Login to an existing accounts on other sits
+sdk.snapkit.com                     #Webpage Integration - Login to an existing accounts on other sits
 
 licensebuttons.net                                   #Webpages - Icon
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com   #Webpages - Icon (licensebuttons.net)
@@ -390,6 +392,7 @@ lb.airdroid.com                                         #Android  [App]   AirDro
 td.airdroid.com                                         #Android  [App]   AirDroid
 uc-file.airdroid.com                                    #Android  [App]   AirDroid
 web.airdroid.com                                        #Android  [App]   AirDroid
+dolphin-browser.com                                     #Android  [App]   Dolphin Browser
 clmbtech.com                                            #Android  [App]   MXplayer
 mxplay.com                                              #Android  [App]   MXplayer
 mxplayer.j2inter.com                                    #Android  [App]   MXplayer
@@ -423,6 +426,7 @@ byvgames.com                                            #Android  [App Studio]  
 adkmob.com                                              #Android  [App Studio]    Cheetah Mobile Technology
 cmcm.com                                                #Android  [App Studio]    Cheetah Mobile Technology
 duba.net                                                #Android  [App Studio]    Cheetah Mobile Technology
+mobpartner.com                                          #Android  [App Studio]    Cheetah Mobile Technology
 concretesoftware.com                                    #Android  [App Studio]    Concrete Software
 doodlemobile.com                                        #Android  [App Studio]    Doodle Mobile
 djinnworks.at                                           #Android  [App Studio]    DjinnWorks
@@ -484,6 +488,7 @@ wshareit.com                                            #Android  [App Studio]  
 siliconorchard.com                                      #Android  [App Studio]    Silicon Orchard
 supercell.net                                           #Android  [App Studio]    SuperCell
 surpax.net                                              #Android  [App Studio]    Surpax
+qq.com                                                  #Android  [App Studio]    Tencent
 tensquaregames.com                                      #Android  [App Studio]    Ten Square Games
 tapps.games                                             #Android  [App Studio]    TappsGames
 fungames-forfree.com                                    #Android  [App Studio]    TFG

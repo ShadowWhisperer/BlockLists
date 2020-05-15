@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
+# Updated: 5/15/2020  11:38  (11:38 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -6146,6 +6146,8 @@ adlibris-com.c.richmetrics.com
 ad-l.media6degrees.com
 adlmerge.com
 adlog.flurry.com
+adlog.hipcricket.com
+adlog.mobpartner.com
 adlogs.ad2iction.com
 adlooxtracking.com
 adlt.hit.gemius.pl
@@ -9807,6 +9809,7 @@ api.skyhookwireless.com
 api.smartechmetrics.com
 api.smartscreen.microsoft.com
 api-smvgroup.db-ip.com
+api.snapkit.com
 api.snapppt.com
 api.sociaplus.com
 api.solidopinion.com
@@ -10201,6 +10204,7 @@ apploaded.us.airfind.com
 appload.ingest.crittercism.com
 appload.ingest.eu.crittercism.com
 app-loadtest.lightstep.com
+applog.camera360.com
 app.loggly.com
 app-log.immomo.com
 applog.matrix.easebar.com
@@ -14761,6 +14765,8 @@ c.cnzz.com
 c.company-target.com
 c.conversionlogic.net
 ccpaairflow.wbinsights.com
+ccpa-service.sp-prod.net
+ccpa.sp-prod.net
 c.crashlytics.com
 ccredit.agilecrm.com
 ccs25iweb.acxiom.com
@@ -15303,6 +15309,7 @@ cdn.revsci.net
 cdn.richrelevance.com
 cdn.rlets.com
 cdn.roiq.ranker.com
+cdn.roiq-vice.ranker.com
 cdn.rollbar.com
 cdn.rpxnow.com
 cdn.rutarget.ru
@@ -15689,6 +15696,7 @@ cheatsheet-api.keen.io
 check24.matomo.cloud
 check4.pricespider.com
 check5.pricespider.com
+check.api2.transactal.com
 checkappexec.microsoft.com
 checkip.amazonaws.com
 checkip.check-ip.aws.a2z.com
@@ -20255,6 +20263,7 @@ crash-metadata.flurry.com
 crash-metrics.sdk.inmobi.com
 crashplan.appdynamics.com
 crashreport-api.presage.io
+crashreport.dolphin-browser.com
 crashreport.netmarble.com
 crash-reports.mozilla.com
 crashreport.wolcengame.com
@@ -23108,6 +23117,7 @@ distrelec-02.webtrekk.net
 distributed-tracing.service.newrelic.com
 distribution-uploads.crashlytics.com
 distro.agkn.com
+dist.transactal.com
 dis.us.criteo.com
 dis.va.us.criteo.com
 dita.blueconic.net
@@ -26865,6 +26875,7 @@ fipsta.urbanara.co.uk
 fipsta.urbanara.de
 fipsta.worldfitness.co
 firebase.firebaseio.com
+firebaseinstallations.googleapis.com
 firebaseio.com
 firebase-settings.crashlytics.com
 firecracker-prod.firebaseio.com
@@ -35630,6 +35641,7 @@ logger.gtm.ooyala.com.akadns.net
 loggerhead-fra01.omnitagjs.com
 loggerhead-fra02.omnitagjs.com
 loggerhead.omnitagjs.com
+logger.hipcricket.com
 logger.icolorfast.com
 logger.independent.co.uk
 logger.instagram.com
@@ -38312,6 +38324,7 @@ mesos-spark-ash-prod.krxd.net
 me.spot.im
 mesquitegaming.rtrk.com
 messages.growingio.com
+message.sp-prod.net
 message.umeng.com
 message.visualrevenue.com
 messaging.localytics.com
@@ -56289,6 +56302,7 @@ sourceknowledge.com
 sourcelink.evergage.com
 sourcepoint.arrivalist.com
 sourcepoint.mgr.consensu.org
+sourcepoint.vice.com
 source-static.samba.tv
 source.webgains.com
 southavenrv.rtrk.com
@@ -63341,6 +63355,7 @@ track.cmllk2.info
 trackcmp.net
 track.cmsftrax.com
 track.cn.appave.mobi
+trackcn.dolphin-browser.com
 track.cnki.net
 track.co1linesu.ru
 track.co-buying.com
