@@ -1,14 +1,10 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 5/15/2020  11:38  (11:38 AM)  - Central Standard Time
+# Updated: 5/18/2020  23:35  (11:35 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
-#
-
-#
-## https://www.spamhaus.org/statistics/networks/
 #
 
 brazzerssurvey.com                            #Survey
@@ -44,8 +40,6 @@ survey.webrootanywhere.com                    #Survey - Webroot
 yesinsights.com                               #Survey - Yes Insights
 questionpro.com                               #Survey - Question Pro
 surveys.questionpro.com                       #Survey - Question Pro
-
-c9users.io                                    #Amazon  Cloud9
 
 superantispyware.com                          #AntiMalware  SuperAntiSpyware
 enigmasoftware.com                            #AntiMalware  SpyHunter
@@ -109,6 +103,7 @@ coccoc.com                                    #Browser
 maxthon.com                                   #Browser
 ucweb.com                                     #Browser
 updates.bravesoftware.com                     #Browser
+
 adblockplus.org                               #Browser Extension
 adtidy.org                                    #Browser Extension
 adzero.org                                    #Browser Extension
@@ -118,6 +113,7 @@ chrome.adtidy.org                             #Browser Extension
 gingersoftware.com                            #Browser Extension
 grammarly.io                                  #Browser Extension
 notification.adblockplus.org                  #Browser Extension
+
 
 secure.retailmenot.com                        #Cash Back / Coupons
 ecbsn.com                                     #Cash Back (Ebates)
@@ -131,6 +127,7 @@ shopbacksg2.zendesk.com                       #Cash Back
 shopback.sg                                   #Cash Back
 splitter.ebates.com                           #Cash Back
 static.ebates.com                             #Cash Back
+
 befrugal.com                                  #Coupons
 coupons.com                                   #Coupons
 cpnscdn.com                                   #Coupons
@@ -162,37 +159,16 @@ hinet.net                                     #ISP (Taiwan)
 btinternet.co.uk                              #ISP (UK)
 claranetsoho.co.uk                            #ISP (UK)
 freeuk.com                                    #ISP (UK)
+ic24.net                                      #ISP (UK)
+madasafish.com                                #ISP (UK)
 briz.net                                      #ISP (Ukraine)
 briz.ua                                       #ISP (Ukraine)
 debaltsevo.net                                #ISP (Ukraine)
-ic24.net                                      #ISP
-madasafish.com                                #ISP
 speednames.asia                               #ISP
 speednames.com                                #ISP
 speednames.co.uk                              #ISP
 speednames.dk                                 #ISP
 speednames.eu                                 #ISP
-
-zvi.ru                                        #ISP  Worst Botnet   (spamhaus.org) Apr. 2020
-adityabirla.com                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-algerietelecom.dz                             #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-chinanet.cn.net                               #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-cnc-noc.net                                   #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-ptcl.net.pk                                   #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-sancharnet.in                                 #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-telkom.co.id                                  #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-vnnic.net.vn                                  #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-zx.nl                                         #ISP  Worst Botnet   (spamhaus.org) Feb. 2020
-tedata.net                                    #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-te.eg                                         #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-vnnic.vn                                      #ISP  Worst Botnet   (spamhaus.org) Oct. 2019
-fos-vpn.org                                   #ISP  Worst Spam     (spamhaus.org) Apr. 2020
-airtel.in                                     #ISP  Worst Spam     (spamhaus.org) Feb. 2019
-htu.cc                                        #ISP  Worst Spam     (spamhaus.org) Feb. 2020
-spectranet.com.ng                             #ISP  Worst Spam     (spamhaus.org) Feb. 2020
-zzidc.com                                     #ISP  Worst Spam     (spamhaus.org) Feb. 2020
-kornet.net                                    #ISP  Worst Spam     (spamhaus.org) Oct. 2019
-moldtelecom.md                                #ISP  Worst Spam     (spamhaus.org) Oct. 2019
 
 miui.com                                      #Foreign   Android Rom
 shinobi.jp                                    #Foreign   Celebrity Buzz
@@ -227,26 +203,13 @@ williamhill.com                               #Gambling
 harpquiz.com                                  #Quiz
 magiquiz.com                                  #Quiz
 
-apponic.com                                   #Software Hosting
-avanquest.com                                 #Software Hosting
-brothersoft.com                               #Software Hosting
-crsky.com                                     #Software Hosting
-downloadsoftware4free.com                     #Software Hosting
-freesoftwarefiles.com                         #Software Hosting
-fyxm.net                                      #Software Hosting
-getitfree.us                                  #Software Hosting
-oovoo.com                                     #Software Hosting
-qarchive.org                                  #Software Hosting
-softonic.com                                  #Software Hosting
-softonic.info                                 #Software Hosting
-
 adguard.com                                   #Software - AdGuard
 adguard.org                                   #Software - AdGuard
 adtidy.net                                    #Software - AdGuard
 api.adguard.com                               #Software - AdGuard
 local.adguard.org                             #Software - AdGuard
 static.adguard.com                            #Software - AdGuard
-ccleaner.tools.avcdn.net                      #Software - ccleaner
+admuncher.com                                 #Software - AdMuncher
 curseapp.net                                  #Software - Curse       (In-Game Voice Chat)
 dashlane.com                                  #Software - Daskline    (Password Manager)
 flipboard.com                                 #Software - Flipbloard
@@ -332,6 +295,10 @@ virtualave.net                                #Web Hosting
 xrea.com                                      #Web Hosting
 xtreemhost.com                                #Web Hosting
 
+cdn.ebaumsworld.com                           #Website - eBaum's World (Contain's adult content)
+ebaumsworld.com                               #Website - eBaum's World (Contain's adult content)
+images.ebaumsworld.com                        #Website - eBaum's World (Contain's adult content)
+
 angellrackets.com                             #Website Builder
 bitballoon.com                                #Website Builder
 bravesites.com                                #Website Builder
@@ -398,39 +365,30 @@ snappea.com                                   #Video Downloader
 
 whatsapp.net                                  #VOIP
 
-pythonanywhere.com                            #Can be used for malware
-
-godaddysites.com                              #Un-Finished sites - Usually malware
 
 
+qibla.com                                     #Islamic
+oicc.org                                      #Islamic
 
-
-
-cdn.snipr.gg                                  #Hacking Tool - Credential Stuffing Toolkit 
-snipr.gg                                      #Hacking Tool - Credential Stuffing Toolkit 
 
 cyclope-series.com                            #Employee Monitoring Software
 
 
 
 1757173384.rsc.cdn77.org
-admuncher.com
 alot.com
 api.eviesays.com
 api.pocketgeek.com
 api.screencastify.com
 areyourinlove.com
 assets.eviesays.com
-cdn.ebaumsworld.com
 d363izihpqsmfs.cloudfront.net
 doctoroz.com
 dualstack.ab08ac4d89c8611e7a4b00201a730073-1952195267.us-west-2.elb.amazonaws.com
-ebaumsworld.com
 emojirequest.com
 eviesays.com
 getadblock.com
 howtoprotectyourbrain.com
-images.ebaumsworld.com
 imvu.com
 isumsoft.com
 mediaconverteronline.com

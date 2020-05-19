@@ -1,0 +1,79 @@
+#
+#    File: Risk   (Worst ISP bots/spam, Software Hosts, Potential domains access by compromised devices)
+# Updated: 5/18/2020  23:35  (11:35 PM)  - Central Standard Time
+# Creator: ShadowWisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
+#
+
+#
+#  https://www.spamhaus.org/statistics/networks/
+#
+
+zylon.net                                     #ISP    Worst Botnet   May. 2020
+zvi.ru                                        #ISP    Worst Botnet   Apr. 2020
+adityabirla.com                               #ISP    Worst Botnet   Feb. 2020
+algerietelecom.dz                             #ISP    Worst Botnet   Feb. 2020
+chinanet.cn.net                               #ISP    Worst Botnet   Feb. 2020
+cnc-noc.net                                   #ISP    Worst Botnet   Feb. 2020
+ptcl.net.pk                                   #ISP    Worst Botnet   Feb. 2020
+sancharnet.in                                 #ISP    Worst Botnet   Feb. 2020
+telkom.co.id                                  #ISP    Worst Botnet   Feb. 2020
+vnnic.net.vn                                  #ISP    Worst Botnet   Feb. 2020
+tedata.net                                    #ISP    Worst Botnet   Oct. 2019
+te.eg                                         #ISP    Worst Botnet   Oct. 2019
+vnnic.vn                                      #ISP    Worst Botnet   Oct. 2019
+zx.nl                                         #ISP    Worst Botnet   Feb. 2020
+
+chinaccs.cn                                   #ISP    Worst Spam     May. 2020
+fink.org                                      #ISP    Worst Spam     May. 2020
+fos-vpn.org                                   #ISP    Worst Spam     Apr. 2020
+htu.cc                                        #ISP    Worst Spam     Feb. 2020
+spectranet.com.ng                             #ISP    Worst Spam     Feb. 2020
+zzidc.com                                     #ISP    Worst Spam     Feb. 2020
+kornet.net                                    #ISP    Worst Spam     Oct. 2019
+moldtelecom.md                                #ISP    Worst Spam     Oct. 2019
+airtel.in                                     #ISP    Worst Spam     Feb. 2019
+
+apponic.com                                   #Software Hosting
+avanquest.com                                 #Software Hosting
+brothersoft.com                               #Software Hosting
+cache.filehippo.com                           #Software Hosting
+cdn.filehorse.netdna-cdn.com                  #Software Hosting
+crsky.com                                     #Software Hosting
+dl1.filehippo.com                             #Software Hosting
+downloadsoftware4free.com                     #Software Hosting
+filehippo.com                                 #Software Hosting
+filehorse.com                                 #Software Hosting
+filehorse.sbsd-updates.eu                     #Software Hosting
+freesoftwarefiles.com                         #Software Hosting
+fyxm.net                                      #Software Hosting
+getitfree.us                                  #Software Hosting
+oovoo.com                                     #Software Hosting
+qarchive.org                                  #Software Hosting
+softonic.com                                  #Software Hosting
+softonic.info                                 #Software Hosting
+
+
+
+#    Domains Used On/By Infected Machines  (Potentially)
+#----------------------------------------------------------------------------------------
+#----------------------------------------------------------------------------------------
+#
+#    Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
+#
+
+beeceptor.com                                 #Webhook
+httpreq.com                                   #Webhook
+ironikus.com                                  #Webhook
+requestbin.com                                #Webhook
+requestinspector.com                          #Webhook
+requestwatch.com                              #Webhook
+
+pythonanywhere.com                            #Run Python & Bash over the net
+
+cdn.snipr.gg                                  #Hacking Tool: Credential Stuffing Toolkit
+snipr.gg                                      #Hacking Tool: Credential Stuffing Toolkit
+
+godaddysites.com                              #Un-Finished sites - Usually malware (Not always)

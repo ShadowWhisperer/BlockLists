@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 5/15/2020  11:38  (11:38 AM)  - Central Standard Time
+# Updated: 5/18/2020  23:35  (11:35 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -6171,6 +6171,7 @@ admida-reklam.rtb.adx1.com
 admin10.testandtarget.omniture.com
 admin2.adlooxtracking.com
 admin2.jsrdn.com
+admin2.lp4.io
 admin2.udmserve.net
 admin318.typeform.com
 admin3.adlooxtracking.com
@@ -6185,6 +6186,7 @@ admin-api-staging-v3.conductrics.com
 admin.appnext.com
 admin-appnexus.grapeshot.co.uk
 adminatt0423.typeform.com
+admin.au.lp4.io
 admin.cxense.com
 adminde.ivwbox.de
 admin.demandbase.com
@@ -7515,6 +7517,7 @@ analytics.adsrvr.org
 analytics-ads.xyz
 analytics.adsymptotic.com
 analytics.adtile.me
+analytics.adultempire.com
 analytics.advalo.com
 analytics.adventist.io
 analytics.advocate.ly
@@ -9082,6 +9085,7 @@ antg.widerplanet.com
 anthony-cdn.clarivoy.com
 anti.click.org
 antitheft.norton.com
+antivirus.doorbell.io
 antiyzm.sinaapp.com
 antmediaio.agilecrm.com
 antontool.onthe.io
@@ -10134,6 +10138,7 @@ app.eloqua.com
 apperian2.evergage.com
 appetizers.appsee.com
 app.eu.crittercism.com
+app-eu.lp4.io
 app-eu.moengage.com
 appevents.impactradius.com
 app.exacttarget.com
@@ -13281,6 +13286,7 @@ blog.cxense.com
 blog.demandbase.com
 blog.dev.appdynamics.com
 blog.digimind.com
+blog.doorbell.io
 blog-elb.fast.klaviyo.com
 blog.evidon.com
 blog.flurry.com
@@ -13298,6 +13304,7 @@ blog.kochava.com
 blog.lijit.com
 blog.mixpanel.com
 blog.mobfox.com
+blog.narrative.io
 blog.newrelic.com
 blog.optimizely.com
 blog.owneriq.net
@@ -14934,6 +14941,7 @@ cdn-ap.33across.com
 cdn-api.arcpublishing.com
 cdn-apiservices.krxd.net
 cdn.appdynamics.com
+cdn-app-eu.lp4.io
 cdnappicons.appsflyer.com
 cdn.appnext.com
 cdn.appsflyer.com
@@ -15248,6 +15256,7 @@ cdn-na-5.nyc1.do.onthe.io
 cdn.n.adx1.com
 cdnn.adx1.com
 cdn-na.onthe.io
+cdn.narrative.io
 cdn.native.ai
 cdn.navdmp.com
 cdn.neodatagroup.com
@@ -20761,6 +20770,7 @@ d2835540376434571298-t8363159245510701933.id.amgdgt.com
 d2999747105750465859-t3440141937752520919.id.amgdgt.com
 d29fvez7.emltrk.com
 d2aab55b630d32a171148e3e0de1675f.pre.footprintpredict.com
+d2a.lp4.io
 d2bhklarlhhnvo.cloudfront.net
 d2.btttag.com
 d2.leadlander.com
@@ -21325,6 +21335,7 @@ db1.sitestats.com
 db1.site-stats.net
 db211.mta.exacttarget.com
 db-2-5a9d2.firebaseio.com
+db25c.lp4.io
 db26023d3deb9fca3aef174ff97ec7ff.ulink.adjust.com
 db27d007.hullapp.io
 db29.mta.exacttarget.com
@@ -23656,6 +23667,7 @@ dp2.specificclick.net
 dp.33across.com
 dp5ce3z5.emltrk.com
 dpa.dc6.eloqua.com
+dpa.doorbell.io
 dpa.pingdom.net
 d-partysupplies.t.domdex.com
 dpa.tor6.eloqua.com
@@ -24663,6 +24675,7 @@ email.mailgun.signpost.com
 email.mail.rollbar.com
 email.maxmind.com
 email.monetate.net
+email.narrative.io
 email.optimizely.com
 email.pingdom.com
 email.piwik.pro
@@ -28898,6 +28911,7 @@ go.mouseflow.com
 gomovies.track.clicksure.com
 go.mparticle.com
 go-mpulse.net
+go.narrative.io
 go.netcoresmartech.com
 go.netelixir.com
 gong.trackinglibrary.prodperfect.com
@@ -32236,6 +32250,7 @@ insight.marfeel.com
 insight.mediaz.vn
 insight.metavante.org
 insight.mintel.com
+insight.narrative.io
 insight.netgear.com
 insight.ninja
 insight.org
@@ -32950,6 +32965,7 @@ itird.app.incisivemedia.com
 itke.techtarget.com
 itknowledgeexchange.techtarget.com
 itm-v4.pops.fastly-insights.com
+i.t.net.ar
 itn.insightfirst.com
 itntestcollect.insightfirst.com
 itntest.insightfirst.com
@@ -33685,6 +33701,7 @@ kb.dynatrace.com
 kb.getdrip.com
 k-bid.blueconic.net
 kb.intelliad.de
+kb.narrative.io
 kbndkqi61yiej6gv3wkcmve4alapa1510358821.nuid.imrworldwide.com
 kb.tableau.com
 kb.techtarget.com
@@ -34122,6 +34139,7 @@ l0.videohub.tv
 l0vj47ih.micpn.com
 l1kfq.voluumtrk3.com
 l1n3th4g-ios.mobile-sdk-api.intercom.io
+l2a.lp4.io
 l2eooala.emltrk.com
 l2.heatmap.it
 l2i7bf6hnr4cdgcbqu2m8vtxwak5vdsl.edns.ip-api.com
@@ -34506,8 +34524,13 @@ lb16.s400.meetrics.net
 lb17.s400.meetrics.net
 lb18.s400.meetrics.net
 lb19.s400.meetrics.net
+lb1a.lp4.io
+lb1c.lp4.io
 lb1.collective-media.net
+lb1d.lp4.io
 lb1-dmp-nyc1-do.truoptik.com
+lb1e.lp4.io
+lb1f.lp4.io
 lb1-jp.imrworldwide.com
 lb1.mo.owneriq.net
 lb1.s400.meetrics.net
@@ -35178,6 +35201,7 @@ ln.adx1.com
 lncurtis.actonsoftware.com
 lndhqf79.micpn.com
 lnk.onthe.io
+lno.lp4.io
 lns-ev.xplosion.de
 lnsqmqv2ly3ovdfyrxcsgcrawzj451510286722.nuid.imrworldwide.com
 load77.exelator.com
@@ -35880,6 +35904,7 @@ log.logrocket.com
 log.logrocket.io
 log.loveota.com
 log.loveota.net
+log.lp4.io
 log.ltype.baofeng.com
 log.luckyslotgames.com
 log.lusha.co
@@ -42448,6 +42473,7 @@ ns1.cnzz.com
 ns1.coremetrics.com
 ns1.criteo.com
 ns1.criteo.net
+ns1.doorbell.io
 ns1.eloqua.com
 ns1.ensighten.com
 ns1.eu.acxiom.com
@@ -42496,6 +42522,7 @@ ns.2cnt.net
 ns2.cnzz.com
 ns2.coremetrics.com
 ns2.criteo.com
+ns2.doorbell.io
 ns2.eloqua.com
 ns2.ensighten.com
 ns2.exacttarget.com
@@ -42525,6 +42552,7 @@ ns3.amgdgt.com
 ns3.bizible.com
 ns3.coremetrics.com
 ns3.criteo.com
+ns3.doorbell.io
 ns3.ensighten.com
 ns3.exacttarget.com
 ns3.gemius.pl
@@ -42546,6 +42574,7 @@ ns4.amgdgt.com
 ns4.bizible.com
 ns4.coremetrics.com
 ns4.criteo.com
+ns4.doorbell.io
 ns4.exacttarget.com
 ns4.infonline.de
 ns4.ivwbox.de
@@ -44807,6 +44836,7 @@ pi.rollbar.com
 pi-stats.com
 pitchbook.evergage.com
 pitchero.onelink.me
+pit.lp4.io
 pitneybowesall.saas.appdynamics.com
 pi.tradedoubler.com
 pittsburghdiscinstit.rtrk.com
@@ -45874,6 +45904,7 @@ pnh.blueconic.net
 pnhddmvzsru1snvjgfoedvqi45ghq1516348531.nuid.imrworldwide.com
 pnjoru9i.emltrk.com
 pn.netcoresmartech.com
+pno.lp4.io
 p.nowspots.com
 pnp.ivwbox.de
 pnqb.blueconic.net
@@ -45894,6 +45925,7 @@ pochtabank.solution.weborama.fr
 pocket-lintltd.t.domdex.com
 pocketpc.digidip.net
 pocketpoints-mobile-prod.firebaseio.com
+p-oc.lp4.io
 poc-web-1.sensic.net
 podcast.crazyegg.com
 podcastfeeds.segment.com
@@ -48701,6 +48733,7 @@ rlog.9gag.com
 rlog-api.under9.co
 r.logrocket.com
 r.logrocket.io
+r.lp4.io
 rlqaagawzzvigeufkwhtxyrrnyapf1516332442.nuid.imrworldwide.com
 rl.quantummetric.com
 r.lr-ingest.io
@@ -56033,6 +56066,7 @@ solucionesintegralesendesa.solution.weborama.fr
 solusarc.loggly.com
 solutionreach.evergage.com
 solutions.focalex.com
+solutions.narrative.io
 solutions.powerbi.com
 solutions.tradedoubler.com
 solution.umeng.com
@@ -66215,6 +66249,7 @@ translate.spot.im
 translate.statcounter.com
 translation.criteo.com
 transparency.agilecrm.com
+transparency.narrative.io
 transplantedecabelo.agilecrm.com
 transporttopics.blueconic.net
 trans.spot.im
@@ -71429,6 +71464,7 @@ z10reports.renlearn.com
 z11.cnzz.com
 z12.cnzz.com
 z13.cnzz.com
+z1a.lp4.io
 z1.cnzz.com
 z1k-f.tlnk.io
 z1kf.tlnk.io
@@ -71775,11 +71811,13 @@ zkwk.adj.st
 zl19yed8-android.mobile-sdk-api.intercom.io
 zl3hj5ycedrh3wsdc39oadij1radq1516669247.nuid.imrworldwide.com
 zlnduzid.micpn.com
+z.lp4.io
 zmessenger.piwik.pro
 zn0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
 znabk5oa.micpn.com
 znmmvaov.micpn.com
 znnpnlnknns.blueconic.net
+zno.lp4.io
 zo1cq42c.emltrk.com
 zocdoc.datadoghq.com
 zocdoc.sp1.convertro.com
