@@ -14,6 +14,7 @@
     Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
     Pirate           Torrent / Magnet Sites, Torrent Trackers, Warez  
     Remote           Domains used to remotely control your stuff  
+    Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
     Scam             Fake / Misleading Sites - Not malware  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
     Suspicious       Domains I am uncertain of. Contains a mixture of possible Ads, Trackers, Malware  
