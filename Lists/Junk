@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 5/18/2020  23:35  (11:35 PM)  - Central Standard Time
+# Updated: 5/20/2020  14:13  (2:13 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -351,6 +351,7 @@ cdn.cliqz.com                                 #Search Engine   Cliqz
 cliqz.com                                     #Search Engine   Cliqz
 favicons.cliqz.com                            #Search Engine   Cliqz
 img.cliqz.com                                 #Search Engine   Cliqz
+search.juno.com                               #Search Engine   Juno
 sugg.search.yahoo.net                         #Search Engine   Yahoo (Suggestions)
 toolbar.yahoo.com                             #Search Engine   Yahoo (Toolbar)
 search.yahoo.com                              #Search Engine   Yahoo
