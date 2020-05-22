@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 5/20/2020  14:13  (2:13 PM)  - Central Standard Time
+# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -3119,6 +3119,7 @@
 55840a33fdf14f2a44abb3f024afbba8.api.appsee.com
 558720667.log.optimizely.com
 558971aa3f8b511c0031354a.tracker.adotmob.com
+558C.playfabapi.com
 559345d0.hullapp.io
 55c63dcd057e687cd85a6d41550b7b07.pre.footprintpredict.com
 55hft.adx1.com
@@ -6261,6 +6262,7 @@ adobeconsumer.sc.omtrdc.net
 adobecorp.sc.omtrdc.net
 adobe.demdex.net
 adobedtm.com
+adobe-dtm.staticsfly.com
 adobe.gigya.com
 adobeinternalmobiles.tt.omtrdc.net
 adobe.io
@@ -7613,6 +7615,7 @@ analytics.awebe.com
 analytics.aweber.com
 analytics.aws.brandcrumb.com
 analytics.awsli.com.br
+analytics.awview.andersenwindows.com
 analytics.axxessweb.com
 analytics-azure-euw1-default-1.westeurope.cloudapp.azure.com
 analytics-azure.groupm.com
@@ -7787,6 +7790,7 @@ analytics-dash-stg.tools.airpr.com
 analytics-dash.tools.airpr.com
 analytics.datahc.com
 analytics-data.io
+analytics.datasavannah.com
 analytics.datatrac.net
 analytics-datatrac-net-926366593.us-west-2.elb.amazonaws.com
 analytics.dataxu.com
@@ -15145,6 +15149,7 @@ cdn-na.onthe.io
 cdn.narrative.io
 cdn.native.ai
 cdn.navdmp.com
+cdn.neatab.com
 cdn.neodatagroup.com
 cdn-newsapi-proxy.vidora.com
 cdn.notifyvisitors.com
@@ -24474,6 +24479,7 @@ elmo.crsspxl.com
 elmqh81f.emltrk.com
 e.logrocket.com
 eloqua.com
+eloqua-trackings.unity3d.com
 elpix01.touchcommerce.com
 elpix02.touchcommerce.com
 elpnzbr8.micpn.com
@@ -25317,6 +25323,7 @@ etracker.com
 et.resellerratings.com
 et.returnpath.net
 etronics.rdr.channelintelligence.com
+etsource.epicgames.com
 etsy.trackinglibrary.prodperfect.com
 ettest.exacttarget.com
 ettings.luckyorange.net
@@ -25419,6 +25426,7 @@ eu-insights.walkme.com
 eu-interactive.acxiom.com
 euip9ggh.emltrk.com
 eu.kampyle.com
+eulatracking-public-service-prod06.ol.epicgames.com
 eule.loggly.com
 eu-level1.dyntrk.com
 eu-live.inside-graph.com
@@ -27660,6 +27668,7 @@ gakz.hit.gemius.pl
 galainteractive.evergage.com
 galaxyattack-de0bd.firebaseio.com
 galaxy-client-reports.gog.com
+galaxy-log.gog.com
 galaxyperfumeuk.widget.criteo.com
 galb.hit.gemius.pl
 galindia.hit.gemius.pl
@@ -27701,6 +27710,7 @@ gamestop.loggly.com
 gamesture.helpshift.com
 gamesw.oewabox.at
 games.zango.com
+gametracker.z-software.net
 gamk.hit.gemius.pl
 gamma.placed.com
 ga.mmstat.com
@@ -33261,6 +33271,7 @@ jschleg1.typeform.com
 js.cit.api.here.com
 js.clearbit.com
 js.dmtry.com
+js.driftt.com
 jsearch.cxense.com
 js.eproof.com
 jserr.cnzz.com
@@ -35368,6 +35379,7 @@ log.cnt.re
 log.codemarketing.cloud
 log.collect.yinyuetai.com
 log.com.tr
+logconfig.polarisoffice.com
 log-config.samsungacr.com
 log.contactspls.com
 log.coolguang.com
@@ -46196,6 +46208,7 @@ prodhub-master.int.insightrocket.com
 prodigys01.webtrekk.net
 prodissues.dynatrace.com
 prod-js.aws.y-track.com
+prod-locator-cloud.rockstargames.com
 prodmail.turn.com
 prod-match-eu-haproxylb.rundsp.com
 prod-match-west-haproxylb.rundsp.com
@@ -46936,6 +46949,10 @@ qnp4.adj.st
 qnq8.adj.st
 qocii3f9.emltrk.com
 qorvo.saas.appdynamics.com
+qos1.ol.epicgames.com
+qos2.ol.epicgames.com
+qos3.ol.epicgames.com
+qos4.ol.epicgames.com
 qpg-v4.pops.fastly-insights.com
 qpha5msi.emltrk.com
 qpipeline.qpipe-p.globalwebindex.net
@@ -50958,6 +50975,7 @@ sanalytics.sibleystatebank.com
 sanalytics.soundsofpertussis.com
 sanalytics.southpointcasino.com
 sanalytics.spark.co.nz
+sanalytics.spreadshirt.com
 sanalytics.sprint.com
 sanalytics.tbs.com
 sanalytics.tcm.com
@@ -56669,6 +56687,7 @@ srv2cnt.2cnt.net
 srv2.usw2.dynamicyield.com
 srv.dynamicyield.com
 srv.exposebox.com
+srv.main.ebayrtm.com
 srvparis.weborama.com
 srvtrck.com
 sr-weight.rlcdn.com
@@ -62900,6 +62919,7 @@ track.anpost.ie
 track.ap1.remerge.io
 track.apexmobi.com
 track.apexsuccess.net
+track-api.gamesight.io
 track.api.vendhq.com
 track.api.zynga.com
 track.aplaut.io
@@ -63963,6 +63983,7 @@ tracking-27.dal.liverail.com
 tracking-27.iad.liverail.com
 tracking-29.iad.liverail.com
 tracking-29.sjc.liverail.com
+tracking2.avalanchestudios.com
 tracking2.channeladvisor.com
 tracking2.firstimpression.io
 tracking2.hittail.com
@@ -65864,7 +65885,6 @@ tractorsupply-app.quantummetric.com
 tractorsupply-sync.quantummetric.com
 tradassermentee.agilecrm.com
 tradedesk-ues.pinsightmedia.com
-tradedoubler.com
 tradelikeapro.justclick.ru
 tradelogistics.agilecrm.com
 tradenavigator.agilecrm.com
@@ -70455,6 +70475,7 @@ xkbn.adj.st
 xkfldp1rce3w9kgpydewoz8frlmn31505450130.nuid.imrworldwide.com
 xkpy3p4c-android.mobile-sdk-api.intercom.io
 xku8.adj.st
+xlauncher-logs.s3.amazonaws.com
 xl.jivox.com
 xlog.byteoversea.com
 xlog.snssdk.com

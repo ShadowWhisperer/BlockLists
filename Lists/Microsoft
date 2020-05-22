@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 5/20/2020  14:13  (2:13 PM)  - Central Standard Time
+# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -58,11 +58,11 @@ a-ring.msedge.net                           #App   Office
 b-ring.msedge.net                           #App   Office
 fp.msedge.net                               #App   Office
 l-ring.msedge.net                           #App   Office
-msedge.net                                  #App   Office
 q-ring.msedge.net                           #App   Office
 s-ring.msedge.net                           #App   Office
 t-ring.msedge.net                           #App   Office
 v4ncsi.msedge.net                           #App   Office
+ecs.office.com                              #App   Office
 1drv.com                                    #App     OneDrive
 1drv.ms                                     #App     OneDrive
 oneclient.sfx.ms                            #App     OneDrive
@@ -376,6 +376,7 @@ mrodevicemgr.officeapps.live.com
 mscrl.microsoft.com
 msc.wlxrs.com
 msdnshared.blob.core.windows.net
+msedge.net
 msegceporticoprodassets.blob.core.windows.net
 msftspeechmodelsprod.azureedge.net
 myhomemsn.com

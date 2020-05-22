@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 5/20/2020  14:13  (2:13 PM)  - Central Standard Time
+# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -21,6 +21,7 @@ myfontastic.com                         #Font  Fontastic.me
 fonts.gstatic.com                       #Font  Google
 fonts.googleapis.com                    #Font  Google
 f.kinja-static.com                      #Font     Kinja
+hello.myfonts.net                       #Font  My Fonts
 myfonts.net                             #Font  My Fonts
 fontawesome.com                         #Font     Font Awesome
 use.fontawesome.com                     #Font     Font Awesome
@@ -45,7 +46,6 @@ fonts.walmart.com                       #Font     Specific
 fonts.wsj.net                           #Font     Specific
 g1.nyt.com                              #Font     Specific
 
-
 videodownloaderultimate.com         #Browser Extension - Video Downloader Professional
 
 followistic.com                     #Webpage Integration - Email Notifications
@@ -66,12 +66,15 @@ sharethis.com                       #Webpage Integration - Social Media
 sharethis.net                       #Webpage Integration - Social Media
 static1.twitcount.com               #Webpage Integration - Social Media
 twitcount.com                       #Webpage Integration - Social Media
+powr.io                             #Webpage Integration - Social Media / Other Plugins
 accountkit.com                      #Webpage Integration - Login to an existing accounts on other sits
 sdk.snapkit.com                     #Webpage Integration - Login to an existing accounts on other sits
 
 licensebuttons.net                                      #Webpages - Icon
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com      #Webpages - Icon (licensebuttons.net)
 i.creativecommons.org                                   #Webpages - Icon (licensebuttons.net)
+donorbox.org                                            #Webpages - Icon (Donate Button)
+d1sssn74k2rfxk.cloudfront.net                           #Webpages - Icon (Donate Button)
 s3.feedly.com                                           #Webpages - Icon (Follow Page)
 images.dmca.com                                         #Webpages - Logo (Digital Millennium Copyright Act )
 
@@ -169,6 +172,7 @@ snippets.cdn.mozilla.net                                #Software   FireFox
 snippets.mozilla.com                                    #Software   FireFox
 tiles-cloudfront.cdn.mozilla.net                        #Software   FireFox
 browser-notifications.opera.com                         #Software      Opera
+af.opera.com                                            #Software      Opera - Autofill
 desktop-assistant-sub.osp.opera.software                #Software      Opera - Desktop Assistant
 sd-suggestions.operacdn.com                             #Software      Opera - Speed Dial Suggestions
 plugon.us                                               #Software    ShowMyPc  After Exit
@@ -196,7 +200,9 @@ user.sn.eamobile.com                                    #Games [Studio]  EA
 king.com                                                #Games [Studio]  King
 
 bubblewitch3mobile.king.com                             #Game - Win 10 Start Tile
+candycrush.king.com                                     #Game - Win 10 Start Tile
 candycrushsoda.king.com                                 #Game - Win 10 Start Tile
+ccs.play.king.com                                       #Game - Win 10 Start Tile
 
 experience.amd.com                                      #AMD
 ama-api.isappcloud.com                                  #Acer  Cloud

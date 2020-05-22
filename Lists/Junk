@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 5/20/2020  14:13  (2:13 PM)  - Central Standard Time
+# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -22,6 +22,8 @@ you-cubez.com                                 #Survey
 amdsurveys.com                                #Survey - AMD
 d2yyd1h5u9mauk.cloudfront.net                 #Survey - Delighted
 delighted.com                                 #Survey - Delighted
+getfeedback.com                               #Survey - Get Feedback
+websites.cdn.getfeedback.com                  #Survey - Get Feedback
 iteratehq.com                                 #Survey - Iterate
 globaltestmarket.com                          #Survey - Life Points
 lifepointspanel.com                           #Survey - Life Points
