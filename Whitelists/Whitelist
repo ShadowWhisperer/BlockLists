@@ -122,6 +122,8 @@ graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
 s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
 d.la1-c1-ord.salesforceliveagent.com       # Dell - Chat
 la1-c1-ord.ord.r.salesforceliveagent.com   # Dell - Chat
+pulsar.ebay.com                            # Ebay - Breaks "Other Items For Sale From Seller"
+ir.ebaystatic.com                          # Ebay - Breaks "See All" in advanced search
 gha.ebay.com                               # Ebay - Notifications
 vod.ebay.com                               # Ebay - Print Preview
 secureir.ebaystatic.com                    # Ebay - Edit Item
