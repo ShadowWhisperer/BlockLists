@@ -1,6 +1,6 @@
 #
 #    File: Marketing-Email   (Email Based Marketing)
-# Updated: 4/30/2020  18:45  (6:45 PM)  - Central Standard Time
+# Updated: 5/26/2020  23:07  (11:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -25,6 +25,8 @@ api.convertkit.com
 api-rails4.convertkit.com
 app.convertkit.com
 app.icontact.com
+app.jilt.com
+app.mailjet.com
 app-rails4.convertkit.com
 as133873.net
 as134124.net
@@ -51,6 +53,7 @@ bravotestcampmon.com
 bravotestconfirmsubscription.com
 bravotestcreatesend.com
 campaignmonitor.com
+cdn2.jiltusercontent.com
 cdn.convertkit.com
 cdn-staging.convertkit.com
 chat.convertkit.com
@@ -93,6 +96,7 @@ cmon1.com
 cmon2.com
 conference.convertkit.com
 confirmsubscription.com
+constantcontact.com
 convertkit.com
 convertkit-mail.com
 createsend10.com
@@ -179,6 +183,8 @@ help.convertkit.com
 iamablogger.convertkit.com
 icontact.com
 inboxreport.com
+jilt.com
+jiltusercontent.com
 kb.convertkit.com
 learn.convertkit.com
 legal.convertkit.com
@@ -197,6 +203,7 @@ mail6.static.convertkit.com
 mailbelt.com
 mailbuild.com
 mailerlite.com
+mailjet.com
 maillist-manage.com
 mbd0.com
 mbd1.com
@@ -9456,8 +9463,10 @@ o8.ck.m.convertkit.com
 ongage.com
 ongage.net
 pages.convertkit.com
+r20.rs6.net
 rejoiner.com
 retentionscience.com
+rs6.net
 sendgrid.net
 sendtomyfriend.com
 sgwebhook.convertkit.com

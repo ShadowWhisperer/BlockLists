@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
+# Updated: 5/26/2020  23:07  (11:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -23,9 +23,10 @@ api.he7ll.com                 #Adult Sites
 he7ll.com                     #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
-mas-ext.amazon.com          #Amazon
-mas-sdk.amazon.com          #Amazon
-msh.amazon.co.uk            #Amazon
+assoc-na.associates-amazon.com   #Amazon  (https://assoc-na.associates-amazon.com/abid/um?s=144-1347093-7830501&m=ATVPDKIKX0DER)
+mas-ext.amazon.com               #Amazon
+mas-sdk.amazon.com               #Amazon
+msh.amazon.co.uk                 #Amazon
 hrefto.com                     #AmpProject ?
 go.hrefto.com                  #AmpProject ?
 new.avira.com                #Avira
@@ -155,6 +156,7 @@ eightsouthice.com              #Opt-Out Email Link (Between "Harry Blankenship")
 bissferasy.com                 #Opt-Out Email Link (Harry Blankenship)
 ds2r9mr2r4h38.cloudfront.net   #Opt-Out Email Link (Harry Blankenship)
 luyouxia.net                      #Existing Malware List
+gierfi.com                            #Either Parked or Malware. Re-directed to "č16857.biz" -->  ejmng.yourchances.net (Fake prize) -->  theseoffersforyou.com (Malware)
 126.am
 e2ertt.com
 exlusepolly.com
@@ -778,7 +780,6 @@ gapi.waze.com                               #Waze
 social-na.waze.com                          #Waze
 wazespeechactiviation-pa.googleapis.com     #Waze
 cf.zdassets.com                                #Zdassets
-p14.zdassets.com                               #Zdassets
 static.zdassets.com                            #Zdassets
 i5-opt-v0.wal.co                                   #Walmart (i5-opt-v0.wal.co/random?prx-test-mode=ak-rr&i=0)
 i5-opt-v0.cf-wal.co                                #Walmart (i5-opt-v0.cf-wal.co/random?prx-test-mode=ns1-proximity&i=0)

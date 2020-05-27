@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
+# Updated: 5/26/2020  23:07  (11:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -23,8 +23,10 @@ fonts.googleapis.com                    #Font  Google
 f.kinja-static.com                      #Font     Kinja
 hello.myfonts.net                       #Font  My Fonts
 myfonts.net                             #Font  My Fonts
-fontawesome.com                         #Font     Font Awesome
-use.fontawesome.com                     #Font     Font Awesome
+fontawesome.com                         #Font      Font Awesome
+kit.fontawesome.com                     #Font      Font Awesome
+kit-pro.fontawesome.com                 #Font      Font Awesome
+use.fontawesome.com                     #Font      Font Awesome
 fortawesome.com                         #Font    Fort Awesome
 fonticons.com                           #Font    Fort Awesome
 fonts.shopifycdn.com                    #Font  Shopify
