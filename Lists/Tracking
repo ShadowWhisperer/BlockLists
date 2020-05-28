@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 5/26/2020  23:07  (11:07 PM)  - Central Standard Time
+# Updated: 5/27/2020  22:20  (10:20 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -9574,6 +9574,7 @@ api.ip-api.io
 api.ipdata.co
 api.iperceptions.com
 api.ipify.org
+api.ipinfodb.com
 api.ipinfo.io
 api.ipstack.com
 api.irganalytics.com
@@ -20597,6 +20598,7 @@ d08de3aac33845ac9265b3ab996cfba6.edns.ip-api.com
 d0bc2fcc.hullapp.io
 d0ee4723.hullapp.io
 d0oxcl16.emltrk.com
+d11e618678w89x.cloudfront.net
 d11ovzxu6f4feh2yk9iqg899igy41jeo.edns.ip-api.com
 d1498q0a-ios.mobile-sdk-api.intercom.io
 d15b70d4eda17e2b5cb486cc1a3db25e.pre.footprintpredict.com
@@ -44096,6 +44098,7 @@ pcn.cid.samba.tv
 pcookie.cnzz.com
 pcookie.split.cnzz.com
 pco.tapfiliate.com
+p.cpx.to
 p.crashlytics.com
 pc.sharethrough.com
 pc-slbhk1.techtarget.com
@@ -51305,6 +51308,7 @@ scpweb.s5.exacttarget.com
 scpweb.s6.exacttarget.com
 scpweb.s7.exacttarget.com
 scpweb.s8.exacttarget.com
+s.cpx.to
 scraperapi.firstpromoter.com
 scraper.innovation.abtasty.com
 s.crashlytics.com
@@ -63309,7 +63313,6 @@ tracker.bitru.org
 tracker.bittor.xyz
 tracker.bitturk.net
 tracker.bj2.me
-tracker.blackunicorn.xyz
 tracker.bloomz.net
 tracker.blucd.org
 tracker.bluegolf.com
@@ -65799,6 +65802,7 @@ track.wesdk.co
 track.wesell.co.il
 track.westermann.de
 track.wextmedia.com
+track.wg-aff.com
 track.whereflower.com
 track.wickedreports.com
 track.wikibuy.com
