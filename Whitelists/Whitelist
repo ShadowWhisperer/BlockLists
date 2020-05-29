@@ -62,6 +62,7 @@ clients6.google.com                        #Google - Drive - Dowload From Browse
 geo0.ggpht.com                             #Google - Earth - Street View
 g.live.com                                         #Microsoft - .Net Framework
 blob.officehome.msocdn.com                         #Microsoft - Office 365 - Login
+compass-ssl.microsoft.com                          #Microsoft - Office 365 - Website Tile Images
 blobs.officehome.msocdn.com                        #Microsoft - Office Site
 ajax.aspnetcdn.com                                 #Microsoft - Office - Download
 az725175.vo.msecnd.net                             #Microsoft - Office - Download
@@ -117,6 +118,7 @@ etrk.asus.com                              # Asus - Download Drivers
 gravatar.com                               # Avatar Icons
 my-win.avast.com                           # AVG - Activate Free Version
 ping.avast.com                             # AVG - Install Freezes
+s-nuistatic.avcdn.net                      # AVG - Website Login
 cdn.rlcdn.com                              # Cabelas - Images
 graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
 s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
