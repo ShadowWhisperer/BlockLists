@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 5/27/2020  22:20  (10:20 PM)  - Central Standard Time
+# Updated: 5/29/2020  16:49  (4:49 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -24627,7 +24627,9 @@ ccm.nui.media
 ccnews.onesignal.com
 ccnt.netmng.com
 c-cn.w.inmobi.com
+ccpa-no-script.psg.nexstardigital.net
 ccparequest.taboola.com
+ccpa-script.psg.nexstardigital.net
 ccpgames.engine.adglare.net
 ccrt-en.ad-stir.com
 ccrt-ja.ad-stir.com
@@ -25343,6 +25345,7 @@ cdn.propellerads.com
 cdn.pubexchange.com
 cdn.pubmatic.com
 cdn.pubnative.net
+cdn.pushassist.com
 cdn.pushcrew.com
 cdn.pushnami.com
 cdn.pushowl.com
@@ -29147,6 +29150,7 @@ d12.zedo.com
 d136-d24d-4fd4-38d1.reporo.net
 d13.zedo.com
 d14.zedo.com
+d15kdpgjg3unno.cloudfront.net
 d187b-0d1c9.api.pushwoosh.com
 d1.adsplay.net
 d1.blueseed.tv
@@ -29191,6 +29195,7 @@ d3.condenast.servedbyopenx.com
 d3.demo.servedbyopenx.com
 d3fd89.r.axf8.net
 d3.hadarone.com
+d3lcz8vpax4lo2.cloudfront.net
 d3.moatads.com
 d3p.de17a.com
 d3.video-ak.cdn.spotify.com
@@ -34722,6 +34727,7 @@ feed.outbrain.fr
 feed.outbrain.it
 feed.outbrain.org
 feed.platform.glispa.com
+feeds2.feedburner.com
 feeds-ap.advance.net
 feeds.bannerflow.com
 feeds-class.advance.net
@@ -35147,6 +35153,7 @@ flyers.paperg.com
 flyers.www.paperg.com
 flyingbubbles.tresensa.com
 fly.juicemobile.com
+flytedesk.com
 fm1coil.os.tc
 fm9i6e75ol.mentalist.kameleoon.com
 fmcimd39dx.eu-west-1.elasticbeanstalk.com
@@ -47248,6 +47255,7 @@ mpreump.basebanner.com
 mp.rubiconproject.com
 mprusmp.basebanner.com
 mp.safedk.com
+mps.cnbc.com
 mp-sh5.dotomi.com
 mp-sto.dotomi.com
 mps-ws.adtechus.com
@@ -47790,6 +47798,7 @@ n365-u-d.openx.net
 n38.epom.com
 n3.adbetnet.com
 n42bqw.auto.drivealexus.com
+n4403ad.doubleclick.net
 n45o6o.focot.focus-outdoors.com
 n4ur21.auto.drivealexus.com
 n60.epom.com
@@ -52403,6 +52412,7 @@ piwik-demo.zmags.com
 piwik.ero-advertising.com
 piwik.refinedads.com
 pix2017.adcrowd.com
+pix.4info.com
 pix521.adtech.de
 pix521.adtech.fr
 pix521.adtech.us
@@ -55038,6 +55048,7 @@ push.adtelligent.com
 push.advance.net
 push.adventurefeeds.com
 pushapi.content-ad.net
+pushassist.com
 pushbullet.com
 push-centr.net
 push.chartboosts.com
@@ -62519,6 +62530,7 @@ static.amobee.com
 static.amp.services
 static.ampxchange.com
 static.ap.bittorrent.com
+static.apester.com
 staticapi.skimlinks.com
 static-app.bos.synacor.com
 static.appbrain.com
@@ -63346,6 +63358,7 @@ supportchat.contentabc.com
 support.clickadu.com
 support.dable.io
 support-developer.applovin.com
+support.digital.flytedesk.com
 supportdk.zmags.com
 support.exoclick.com
 support.gimbal.com
@@ -67330,6 +67343,7 @@ usnews-d.openx.net
 usnews.share.ntv.io
 usni.insightexpress.com
 us-notify.bidagent.xad.com
+us.np.adproxy.ndmdhs.com
 us.nuggad.net
 us.onesignal.com
 us.onscroll.com

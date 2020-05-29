@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 5/27/2020  22:20  (10:20 PM)  - Central Standard Time
+# Updated: 5/29/2020  16:49  (4:49 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -300,6 +300,7 @@ p13nlog-1106815646.us-east-1.elb.amazonaws.com
 report-uri.robinhood.com
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
 static.intentarget.com
+status-sh.cloudcade.com
 tags.adsafety.net
 theappgrader.com
 tj.yddashi.com
@@ -312,7 +313,7 @@ zrcir.com
 
 
 #############################
-# Detailed
+# Unknown
 #############################
 ali213.co                                           #Pirated Games
 player.h-cdn.com                                    #Was in Bitcoin lists - Says it causes issuess after video Ad
@@ -488,7 +489,6 @@ _nos._tcp.nos.avast.com                  #Avast / AVG
 nuistatic.avcdn.net                      #Avast / AVG
 shepherd.avcdn.net                       #Avast / AVG
 shepherd.ff.avast.com                    #Avast / AVG
-s-nuistatic.avcdn.net                    #Avast / AVG
 su.ff.avast.com                          #Avast / AVG
 yesno.ff.avast.com                       #Avast / AVG
 bazaarvoice.com                                #Bazaarvoice
@@ -795,7 +795,7 @@ vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for disp
 ##################################################################
 api.na1.region.vmwservices.com   #Android Phone
 ##################################################################
-fwbntw.com                       #Icon = Blue Cursor
+fwbntw.com                       #Redirector ?
 ##################################################################
 ingest.machinify.com             #AI
 machinify.com                    #AI

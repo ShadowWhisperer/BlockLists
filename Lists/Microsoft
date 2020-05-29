@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
+# Updated: 5/29/2020  16:49  (4:49 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -95,6 +95,7 @@ sway.com                                    #App     Sway
 evoke-windowsservices-tas.msedge.net        #App   Windows Photos
 
 www2.bing.com                               #Bing (Loads IPV6 Check)
+api.bing.com                                #Bing
 bing.com                                    #Bing
 bing.net                                    #Bing
 customsearch.ai                             #Bing
@@ -288,7 +289,6 @@ choice.microsoft.com.nstac.net
 clientsettings.books.microsoft.com
 cloudappconfig.blob.core.windows.net
 c.microsoft.com
-compass-ssl.microsoft.com
 compatexchange.cloudapp.net
 connect.microsoft.com
 continuum.dds.microsoft.com
@@ -472,4 +472,5 @@ widgets.membership.s-msft.com
 widgets.services.microsoft.com
 wip.mam.manage.microsoft.com
 woodgrovebank.com
+xboxab.com
 ztd.dds.microsoft.com
