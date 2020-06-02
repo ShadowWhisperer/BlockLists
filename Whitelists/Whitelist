@@ -77,6 +77,7 @@ client.hip.live.com                                #Microsoft - Create Email Acc
 eus.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
 scu.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
 ncu.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
+assets.onestore.ms                                 #Microsoft - Downloads Page
 dsm-efz.ms-acdc.office.com                         #Microsoft - Email - Imap
 login.live.com                                     #Microsoft - Email - Login
 login.microsoftonline.com                          #Microsoft - Email - Login
@@ -240,6 +241,7 @@ api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 # Breaks Some Sites
 ########################
 lddy.no                      #Marketing - Breaks Links
+shareasale.com               #Marketing - Breaks Links
 click.mc.crimsontrace.com    #Tracker - Breaks Links (Crimson Trace)
 click.email.newegg.com       #Tracker - Breaks Links (Newegg)
 geoip-db.com                 #Tracker - Breaks HP Parts Page
