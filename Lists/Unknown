@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 5/29/2020  16:49  (4:49 PM)  - Central Standard Time
+# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -38,6 +38,7 @@ live.github.com                       #Github (Push Notifications?)
 o.joinhoney.com                   #Honey
 postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
+tpx.everquote.com                 #MSN
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
 keywee.co                      #Keywee
@@ -50,14 +51,12 @@ realpush.network                #RealPush
 select5.realpush.network        #RealPush
 promotions.skype.com               #Skype
 bo.promotions.skype.com            #Skype
-assets.vlitag.com            #viPlayer  (elblogdelnarco.com)
-services.vlitag.com          #viPlayer  (elblogdelnarco.com)
-tag.vlitag.com               #viPlayer  (elblogdelnarco.com)
 vliplatform.com              #viPlayer  (elblogdelnarco.com)
 ptest.ysm.yahoo.com              #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
 pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
+thumb-cf.flixcdn.com            #Xhamster (Adult)
 thumbs.nosto.com            # (CrossBreedHolsters.com)
 2agshdqwvcqs.website        #(Either Ad or Malware)  *Owned by Data-Cash
 t.grtyi.com                 #(Either Ad or Malware)  *Adult List
@@ -201,6 +200,7 @@ binaryfxoptions.com         #Existing Lists
 clockoptions.com            #Existing Lists
 moneysmart.gov.au           #Existing Lists
 olympoption.com             #Existing Lists
+blacksportsonline.com       #Fake News ?
 
 
 #############################
@@ -237,6 +237,7 @@ onead.onevision.com.tw                                 #OneAd (onead.com.tw)
 onevision.com.tw                                       #OneAd (onead.com.tw)
 k.pluto.tv                                                   #PlutoTV
 click.notifications.intuit.com                           #QuickBooks
+click.e.scheels.com                                          #Scheels
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
 keynote.litmos.com                                    #SAP Litmos
@@ -308,7 +309,6 @@ t.motrixi.com
 tockance.com
 trackuhub.com
 universal.iper2.com
-w.usabilla.com
 zrcir.com
 
 
@@ -781,6 +781,10 @@ secure.img1-ag.wfcdn.com                          #WayFair
 gapi.waze.com                               #Waze
 social-na.waze.com                          #Waze
 wazespeechactiviation-pa.googleapis.com     #Waze
+123formbuilder.com                                #Website Builder
+cdn-main1.123formbuilder.com                      #Website Builder
+cdn-main.123formbuilder.com                       #Website Builder
+cdn-main2.123formbuilder.com                      #Website Builder
 cf.zdassets.com                                #Zdassets
 static.zdassets.com                            #Zdassets
 i5-opt-v0.wal.co                                   #Walmart (i5-opt-v0.wal.co/random?prx-test-mode=ak-rr&i=0)

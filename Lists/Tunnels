@@ -1,6 +1,6 @@
 #
 #    File: Tunnels   (VPNs & Proxies)  *** NOT ALL ARE CHECKED ***
-# Updated: 5/14/2020  21:23  (9:23 PM)  - Central Standard Time
+# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -18,6 +18,7 @@ anonymouse.org
 anonymster.com
 api.hsselite.com
 api.polargrizzly.com
+api.surfeasy.com
 app.safervpn.com
 atozproxy.com
 awhoer.net
@@ -223,6 +224,7 @@ stunnel.org
 superbproxy.com
 surf100.com
 surfall.net
+surfeasy.com
 swordvpn.com
 the-cloak.com
 thexite.net

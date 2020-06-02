@@ -1,6 +1,6 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Updated: 5/22/2020  16:42  (4:42 PM)  - Central Standard Time
+# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -24,6 +24,7 @@ whoson.com
 #  Bot
 ######################################
 aihelp.net
+app.conversiobot.com
 boldchat.com
 botframework.com
 chatbot.dev.metalyzer.com
@@ -34,6 +35,8 @@ chatbotthoitrang.novaonx.com
 chatbottudong.novaonx.com
 chatbro.com
 checkbot.gosquared.com
+conversiobot.com
+conversio-bot-media.s3.amazonaws.com
 drift.com
 freshbots.ai
 intercom.com
@@ -46,6 +49,7 @@ percept.ai
 solocpm.com
 tiledesk.com
 vergic.com
+vmss.boldchat.com
 
 
 #  Live
@@ -97,6 +101,8 @@ velaro.com
 
 ladesk.com    #Send Email / Visitor Tracking
 
+iframe.chatid.com             #ChatID, Inc.
+chatidcdn.com                 #ChatID, Inc.
 
 chat.api.autohome.com.cn
 freshchat.com
