@@ -8,7 +8,7 @@
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting & Blogs  
     Junk             Surveys, Junk, Personally Untrusted Antivirus, ISPs (Spam/Botnets), etc  
-    Malware          Malicious Sites, PUPs, Malware, Brower Hijackers, Phishing Sites  
+    Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Web Marketing / Ebay Listing Tools  
     Marketing-Email  Email Based Marketing  
     Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
