@@ -1,6 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Updated: 4/24/2020  13:00  (1:00 PM)  - Central Standard Time
+# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -15,6 +15,8 @@
 #  .gov
 #  .net
 #  .org
+#
+#  .mil
 #
 #  .cloud
 #  .deals
@@ -175,7 +177,6 @@
 .estate
 .events
 .exchange
-.exe
 .expert
 .exposed
 .express
@@ -460,6 +461,7 @@
 .zone
 
 
+.exe           Invalid
 
 .eh            Unassigned
 .fw            Unassigned

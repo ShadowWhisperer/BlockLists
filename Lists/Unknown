@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
+# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -11,8 +11,29 @@
 #############################
 # Ads
 #############################
+ads.apprupt.com                      #Defunct ?
+apprupt.com                          #Defunct ?
+cdn.apprupt.com                      #Defunct ?
+cv.apprupt.com                       #Defunct ?
+demos.apprupt.com                    #Defunct ?
+mum.apprupt.com                      #Defunct ?
+partner.apprupt.com                  #Defunct ?
+shops.apprupt.com                    #Defunct ?
+static1.apprupt.com                  #Defunct ?
+static3.apprupt.com                  #Defunct ?
+static.apprupt.com                   #Defunct ?
+td.apprupt.com                       #Defunct ?
+webapps.apprupt.com                  #Defunct ?
+wwwstage.apprupt.com                 #Defunct ?
 setting.adzcore.com                  #Defunct ?
 adzcore.com                          #Defunct ?
+i-vengo.com                          #Defunct ?
+api.coxmt.com                        #Defunct ?
+coxmt.com                            #Defunct ?
+go.coxmt.com                         #Defunct ?
+dwin1.com                            #Defunct ?
+aw.dwin1.com                         #Defunct ?
+projectwonderful.com                 #Defunct ?  (Last Twiiter July 11, 2010)
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
 virtualizationreview.1105cms01.com        #1105 Media
@@ -36,6 +57,7 @@ dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
 live.github.com                       #Github (Push Notifications?)
 o.joinhoney.com                   #Honey
+isweb.no                             #In Sight
 postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
 tpx.everquote.com                 #MSN
@@ -67,6 +89,7 @@ besa-mad.com                #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
 router.adhoc4.net           #(Either Ad or Malware)
+xadsmart.com                #(Either Ad or Malware)
 a1955.b.akamai.net
 adoric-om.com
 adscheaper.com
@@ -79,9 +102,11 @@ exp.eurosptp.com
 himediads.com
 images.highspeedbackbone.net
 js.himediads.com
+loading-delivery2.com
 mb104.com
 mobusi.com
 n2s.co.kr
+partner.mediametrics.ru
 potpourrichordataoscilloscope.com
 reklam9.com
 surgeprice.com
@@ -94,6 +119,7 @@ viewsecure.net
 #############################
 # Adult
 #############################
+520call.me          #Either Adult, or just video player
 pe.hu               #Possibly Illegal Hacked IP Cameras
 assinie.com         #Subdomains include adult sites
 carrefourpro.com    #Subdomains include adult sites
@@ -152,12 +178,13 @@ lilo.org                  #Search Engine
 search.lilo.org           #Search Engine
 search.uselilo.org        #Search Engine
 uselilo.org               #Search Engine
-topertaimp.com                 #Opt-Out Email Link (Harry Blankenship)
-eightsouthice.com              #Opt-Out Email Link (Between "Harry Blankenship")
-bissferasy.com                 #Opt-Out Email Link (Harry Blankenship)
-ds2r9mr2r4h38.cloudfront.net   #Opt-Out Email Link (Harry Blankenship)
-luyouxia.net                      #Existing Malware List
-gierfi.com                            #Either Parked or Malware. Re-directed to "č16857.biz" -->  ejmng.yourchances.net (Fake prize) -->  theseoffersforyou.com (Malware)
+topertaimp.com                #Opt-Out Email Link (Harry Blankenship)
+eightsouthice.com             #Opt-Out Email Link (Between "Harry Blankenship")
+bissferasy.com                #Opt-Out Email Link (Harry Blankenship)
+ds2r9mr2r4h38.cloudfront.net  #Opt-Out Email Link (Harry Blankenship)
+luyouxia.net                     #Existing Malware List
+gierfi.com                          #Either Parked or Malware. Re-directed to "č16857.biz" -->  ejmng.yourchances.net (Fake prize) -->  theseoffersforyou.com (Malware)
+qiqiww.com                              #Defunct ? (Flagged by Sophos)
 126.am
 e2ertt.com
 exlusepolly.com
@@ -236,12 +263,32 @@ samizdat-graphql.nytimes.com                                #New York Times
 onead.onevision.com.tw                                 #OneAd (onead.com.tw)
 onevision.com.tw                                       #OneAd (onead.com.tw)
 k.pluto.tv                                                   #PlutoTV
+ams-bh-bgp.pulsepoint.com                                       #Pulse Point
+ams-taras-test2.pulsepoint.com                                  #Pulse Point
+bh.pulsepoint.com                                               #Pulse Point
+cmpsupport.pulsepoint.com                                       #Pulse Point
+em.pulsepoint.com                                               #Pulse Point
+go.pulsepoint.com                                               #Pulse Point
+intelbot.pulsepoint.com                                         #Pulse Point
+launch.pulsepoint.com                                           #Pulse Point
+lga-bh-bgp.pulsepoint.com                                       #Pulse Point
+lga-mx1.pulsepoint.com                                          #Pulse Point
+lifesupport.pulsepoint.com                                      #Pulse Point
+meet.pulsepoint.com                                             #Pulse Point
+outstream.pulsepoint.com                                        #Pulse Point
+pulsepoint.com                                                  #Pulse Point
+sandbox.pulsepoint.com                                          #Pulse Point
+sjc-bh-bgp.pulsepoint.com                                       #Pulse Point
+story.pulsepoint.com                                            #Pulse Point
+support-story.pulsepoint.com                                    #Pulse Point
 click.notifications.intuit.com                           #QuickBooks
-click.e.scheels.com                                          #Scheels
+api.salesmachine.io                                         #Sales Machine
+salesmachine.io                                             #Sales Machine
 app.litmos.com                                        #SAP Litmos
 go.litmos.com                                         #SAP Litmos
 keynote.litmos.com                                    #SAP Litmos
 litmos.com                                            #SAP Litmos
+click.e.scheels.com                                          #Scheels
 orderlogicapp.com                                           #Shopify
 loca.sc-jpl.com                                           #SnapChat
 loc.sc-jpl.com                                            #SnapChat
@@ -273,7 +320,10 @@ research-artisan.com                                        #Chineese Site
 algolianet.com                                              #Search As A Service
 rcsnjttpht-2.algolianet.com                                 #Search As A Service
 fpctraffic3.com                                             #We pay for your clicks
+apollo.io                                                   #Data-first engagement platform ... structured data ... to help execute, analyze, & improve your growth strategy)
 coveo.com                                                   #Tech platform for ads & analytics for app devs (static.cloud.coveo.com breaks Dell search results)
+#######################################################
+myemailtracking.com                                            #Either Tracker or Malware
 #######################################################
 adcs.rqmob.com
 analysis.fi
@@ -294,7 +344,6 @@ huqindustries.co.uk
 iper2.com
 js.track-analytics.com
 leiki.com
-matchid.adfox.yandex.ru
 meters.cbp-sd.com
 mlab-ns.appspot.com
 p13nlog-1106815646.us-east-1.elb.amazonaws.com
@@ -607,7 +656,6 @@ gboard-pa.googleapis.com                       #Google -  gBoard
 ytstatic.l.google.com                          #Google -     Google Plus
 aa.google.com                                  #Google
 acp-mobile.appspot.com                         #Google
-aswpsdkus.com                                  #Google
 auditrecording-pa.googleapis.com               #Google
 autopush-geller-pa.sandbox.googleapis.com      #Google
 blobcomments-pa.clients6.google.com            #Google
@@ -686,6 +734,7 @@ hdwvmasogicqg.isd2184.net                    #Luverne - Public School District
 lpsweb.isd2184.net                           #Luverne - Public School District
 wpad.isd2184.net                             #Luverne - Public School District
 zrhuhdohuypmmq.isd2184.net                   #Luverne - Public School District
+chimpstatic.com                              #MailChimp
 conduit.mailchimpapp.com                     #MailChimp
 balrog-aus5.r53-2.services.mozilla.com       #Mozilla
 balrog-cloudfront.prod.mozaws.net            #Mozilla

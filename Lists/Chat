@@ -1,6 +1,6 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
+# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -65,12 +65,14 @@ chat.gosquared.com
 chatra.io
 chatserver.comm100.com
 cobrowse.oraclecloud.com
+code.jivosite.com
 code.tidio.co
 comm100.com
 d36jdncz9n0vtx.cloudfront.net
 eassistancepro.com
 engagetosell.com
 engage.wixapps.net
+freshchat.com
 happyfoxchat.com
 helpscout.net
 jivochat.com
@@ -92,10 +94,14 @@ reamaze.com
 reamaze.io
 salesforceliveagent.com
 smartsupp.com
+static.me-talk.ru
 static.olark.com
 tidio.co
 tidio.com
 velaro.com
+wchat.freshchat.com
+
+
 
 
 
@@ -105,7 +111,6 @@ iframe.chatid.com             #ChatID, Inc.
 chatidcdn.com                 #ChatID, Inc.
 
 chat.api.autohome.com.cn
-freshchat.com
 rocket.chat
 subiz.com
 tawk.to

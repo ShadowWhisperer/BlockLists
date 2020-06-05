@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
+# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -30,8 +30,9 @@ use.fontawesome.com                     #Font      Font Awesome
 fortawesome.com                         #Font    Fort Awesome
 fonticons.com                           #Font    Fort Awesome
 fonts.shopifycdn.com                    #Font  Shopify
-webtype.com                             #Font    WebType
+cloud.webtype.com                       #Font    WebType
 pls.webtype.com                         #Font    WebType
+webtype.com                             #Font    WebType
 drh-fonts.img.digitalrivercontent.net   #Font     Specific
 fonts.ea.com.c.footprint.net            #Font     Specific
 fonts.ea.com                            #Font     Specific
@@ -94,6 +95,13 @@ cookielaw.org                                           #Cookie Control
 iubenda.com                                             #Cookie Control
 sa437gl.wpc.kappacdn.net                                #Cookie Control
 sdk.privacy-center.org                                  #Cookie Control
+
+chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
+cloudflare-dns.com                                      #Alt DNS - Cloudflare
+google-public-dns-a.google.com                          #Alt DNS - Google
+google-public-dns-b.google.com                          #Alt DNS - Google
+dns.google.com                                          #Alt DNS - Google
+dns.google                                              #Alt DNS - Google
 
 mailshell.net                                           #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 avastbrowser.com                                        #Antivirus   Avast - Browser
@@ -242,8 +250,6 @@ b-graph.facebook.com                                    #Facebook
 error.facebook.com                                      #Facebook
 graph.facebook.com                                      #Facebook
 chat-pa.clients6.google.com                             #Google    Chat
-dns.google.com                                          #Google  DNS
-dns.google                                              #Google  DNS
 firebaseinappmessaging.googleapis.com                   #Google  FireBase
 firebaseperusertopics-pa.googleapis.com                 #Google  FireBase
 firebaseremoteconfig.googleapis.com                     #Google  FireBase
@@ -296,8 +302,6 @@ enterprise.google.com                                   #Google
 firehunt.com                                            #Google
 googleapis.l.google.com                                 #Google
 googlepages.com                                         #Google
-google-public-dns-a.google.com                          #Google
-google-public-dns-b.google.com                          #Google
 groups.l.google.com                                     #Google
 growth-pa.googleapis.com                                #Google
 gstaticadssl.l.google.com                               #Google

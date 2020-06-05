@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
+# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -17,6 +17,7 @@ samplicio.us                                  #Survey
 secure.polldaddy.com                          #Survey
 survey.io                                     #Survey
 surveyrouter.com                              #Survey
+tns-gallup.dk                                 #Survey
 ups.surveyrouter.com                          #Survey
 you-cubez.com                                 #Survey
 amdsurveys.com                                #Survey - AMD
@@ -137,6 +138,7 @@ befrugal.com                                  #Coupons
 coupons.com                                   #Coupons
 cpnscdn.com                                   #Coupons
 shopathome.com                                #Coupons
+steamloto.org                                 #Coupons
 
 ig.com.br                                     #ISP (Brazil)
 xunlei.com                                    #ISP (China)
@@ -303,6 +305,7 @@ xtreemhost.com                                #Web Hosting
 cdn.ebaumsworld.com                           #Website - eBaum's World (Contain's adult content)
 ebaumsworld.com                               #Website - eBaum's World (Contain's adult content)
 images.ebaumsworld.com                        #Website - eBaum's World (Contain's adult content)
+rt.com                                        #Website - RT (News Site operated by Russian Gov.)
 
 angellrackets.com                             #Website Builder
 bitballoon.com                                #Website Builder
