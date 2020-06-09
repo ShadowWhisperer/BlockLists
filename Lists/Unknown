@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
+# Updated: 6/9/2020  00:43  (12:43 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -80,12 +80,14 @@ pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
 thumb-cf.flixcdn.com            #Xhamster (Adult)
 thumbs.nosto.com            # (CrossBreedHolsters.com)
+goodnotification.net        #(Either Ad or Malware)  *Claims to be Adsaro
 2agshdqwvcqs.website        #(Either Ad or Malware)  *Owned by Data-Cash
 t.grtyi.com                 #(Either Ad or Malware)  *Adult List
 t.hrtya.com                 #(Either Ad or Malware)  *Adult List
 t.irtyf.com                 #(Either Ad or Malware)  *Adult List
 adhoc4.net                  #(Either Ad or Malware)
 besa-mad.com                #(Either Ad or Malware)
+cdn.clicksondelivery.com    #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
 router.adhoc4.net           #(Either Ad or Malware)
@@ -114,6 +116,7 @@ tapjoy.net
 twinrdsrv.com
 userwave.com
 viewsecure.net
+df0davzd72429.cloudfront.net
 
 
 #############################
@@ -186,13 +189,16 @@ luyouxia.net                     #Existing Malware List
 gierfi.com                          #Either Parked or Malware. Re-directed to "č16857.biz" -->  ejmng.yourchances.net (Fake prize) -->  theseoffersforyou.com (Malware)
 qiqiww.com                              #Defunct ? (Flagged by Sophos)
 126.am
+adsleading.com
+affiliates.adsleading.com
 e2ertt.com
 exlusepolly.com
+geniusdisplay.com
 itpatratr.com
 netpatas.com
 ofphanpytor.com
 page.geniusdisplay.com
-geniusdisplay.com
+redirectmaster.com
 
 
 #############################

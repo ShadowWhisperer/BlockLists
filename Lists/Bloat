@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
+# Updated: 6/9/2020  00:43  (12:43 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -94,7 +94,11 @@ cookieinfoscript.com                                    #Cookie Control
 cookielaw.org                                           #Cookie Control
 iubenda.com                                             #Cookie Control
 sa437gl.wpc.kappacdn.net                                #Cookie Control
+scripts.webcontentassessor.com                          #Cookie Control
+webcontentassessor.com                                  #Cookie Control
 sdk.privacy-center.org                                  #Cookie Control
+
+copypoison.com                                          #Prevent Copying of text on a page
 
 chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
