@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 6/9/2020  00:43  (12:43 AM)  - Central Standard Time
+# Updated: 6/9/2020  20:07  (8:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -6016,6 +6016,7 @@ abc.gbc.criteo.net
 abc.imrworldwide.com
 abc.moengage.com
 abcnews.hb.omtrdc.net
+abcnews.tt.omtrdc.net
 abcotv.hb.omtrdc.net
 abcq.adj.st
 abc.truconversion.com
@@ -15682,6 +15683,7 @@ cdn.mobfox.com
 cdn.mobile.abtasty.com
 cdn.mobileapptracking.com
 cdn.moengage.com
+cdnmon.cfigroup.com
 cdn.monsido.com
 cdn.mookie1.com
 cdn.mouseflow.com
@@ -16044,6 +16046,7 @@ cfgpanda.ksmobile.net
 cf.groundtruth.com
 cfhchqayl8x7tfdx6otx4hqpm0p9s1516680285.nuid.imrworldwide.com
 cf.ignitionone.com
+cfigroup.com
 cfimage.moengage.com
 c.fi.msn.com
 cf.kampyle.com
@@ -21935,6 +21938,7 @@ dbaudio.containers.piwik.pro
 dbaudio.piwik.pro
 dbdev-a.ams3.do.onthe.io
 dbdev-b.ams3.do.onthe.io
+dbdm-events.mybluemix.net
 d-beauty.t.domdex.com
 dbg01.meetrics.net
 db-ip.com
@@ -26308,6 +26312,7 @@ event.iaa.adxpose.com
 event.ingest.crittercism.com
 event.insticator.com
 event.ispot.tv
+event-listener.air.tv
 eventlog.adx1.com
 event-logger.api.dnc.org
 eventlogger.soundcloud.com
@@ -26344,6 +26349,7 @@ events-api.otherlevels.com
 events.appnext.com
 events.appsflyer.com
 events.apptornado.com
+events.attentivemobile.com
 events.blis.com
 events.boomtrain.com
 events.bouncex.net
@@ -28407,6 +28413,7 @@ g2.mouseflow.com
 g2tc.adj.st
 g2trk.com
 g3.cnzz.com
+g.3gl.net
 g3xteb7q-android.mobile-sdk-api.intercom.io
 g3xteb7q-ios.mobile-sdk-api.intercom.io
 g43ze7u6-android.mobile-sdk-api.intercom.io
@@ -30095,6 +30102,7 @@ gucci-live.inside-graph.com
 gucci-track.inside-graph.com
 guce.convertro.com
 guce.tacoda.at.atwola.com
+guc-spclient.spotify.com
 gu.dyntrk.com
 guess.com.ssl.d2.sc.omtrdc.net
 guess.eu.ssl.d2.sc.omtrdc.net
@@ -32104,6 +32112,7 @@ idrink.powered-by.zango.com
 idriskprod.acxiom.com
 idrisktest.acxiom.com
 id.rlcdn.com
+ids.ad.gt
 ids.au1.gigya.com
 ids.eu1.gigya.com
 ids.gigya.com
@@ -38319,6 +38328,7 @@ marketingsea.agilecrm.com
 marketing-ssl.upsight-api.com
 marketing.tealium.com
 marketing-tools.rtbhouse.com
+marketing-tracker.babbel.com
 marketing.upsight-api.com
 marketing.vicedata.com
 marketing.walkme.com
@@ -38329,6 +38339,7 @@ marketplace.criteo.com
 marketplace.liveramp.com
 marketscore.com
 marketselect.acxiom.com
+markhor.organicfruitapps.com
 markmonitor.com
 mark.reevoo.com
 marksandspencer.com.d3.sc.omtrdc.net
@@ -44897,6 +44908,7 @@ packtkfy.emltrk.com
 pacsun.com.ssl.d2.sc.omtrdc.net
 pacsun.open.securedvisit.com
 paddledev2.hullapp.io
+p.ad.gt
 p.adjust.com
 p.adlooxtracking.com
 p.adrta.com
@@ -44911,6 +44923,7 @@ pagecount.com
 pag.eloqua.com
 pagepeek.atgsvcs.com
 pagerduty-bot.corp.mixpanel.com
+pages02.net
 pages.airpr.com
 pages.beeketing.com
 pages.boa.exacttarget.com
@@ -45758,6 +45771,7 @@ piwik.deglowdesign.de
 piwik.delta-software.com
 piwik.demodtools.de
 piwik.dgnb.de
+piwik.documentfoundation.org
 piwik.dodavkynaprenajom.sk
 piwik.dwald.de
 piwik.efb-porta.de
@@ -45766,6 +45780,7 @@ piwik.efg-giessen.de
 piwik.endurancepics.de
 piwik.eurekam.fr
 piwik.exiram.cz
+piwik.extension.iastate.edu
 piwik.fanspot.ro
 piwik.farnost-telc.cz
 piwik.fcschipperscomputersupport.nl
@@ -45781,6 +45796,7 @@ piwik.gdprnu.dk
 piwik.ghusse.com
 piwik.globaldatalab.org
 piwik.gozocabs.com
+piwik.gunsamerica.com
 piwik.hcast.de
 piwik.headwaystaging.com
 piwik.hefe-und-mehr.de
@@ -45832,6 +45848,7 @@ piwik.openworks.ch
 piwik.org
 piwik.osp.cat
 piwik.particip.de
+piwik.pcgamingwiki.com
 piwik.peshane.net
 piwik.pgdigital.nl
 piwik.piero-la-lune.fr
@@ -47075,6 +47092,7 @@ ppcbuzznative.rtb.adx1.com
 ppcbuzz.rtb.adx1.com
 pp.commander1.com
 ppc.yieldify.com
+pp.d2-apps.net
 ppd2.clrstm.com
 ppd.clrstm.com
 ppe.telemetry.microsoft.com
@@ -52636,6 +52654,7 @@ scout24.wemfbox.ch
 scoutanalytics.com
 scoutanalytics.net
 scout.scoutanalytics.net
+sc.pages02.net
 sc-p.alcmpn.com
 sc.paramountnetwork.com
 scp.deltadentalwa.com

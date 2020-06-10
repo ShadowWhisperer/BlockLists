@@ -1,6 +1,6 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
+# Updated: 6/9/2020  20:07  (8:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -120,6 +120,9 @@ salesloft.com
 ##############################
 adtriplex.com                      #AdTriplex
 attentivemobile.com                #Attentive
+attn.tv                            #Attentive
+venus.attn.tv                      #Attentive
+cdn.attn.tv                        #Attentive
 auctiva.com                        #Auctiva
 d2oy740f32o5wr.cloudfront.net      #Auctiva
 dkj6wiefz7utv.cloudfront.net       #Auctiva
@@ -287,6 +290,7 @@ eulerian.net                  #Eulerian
 fivetier.com                  #FiveTier
 fomo.com                      #Fomo
 usefomo.com                   #Fomo
+foursixty.com                 #FourSixty
 feathr.co                     #Feathr
 eprize.com                    #HelloWorld
 helloworld.com                #HelloWorld
@@ -349,6 +353,8 @@ yusp.com
 #############################
 # Referral
 #############################
+talkable.com                    #Talkable
+d2jjzw81hqbuqv.cloudfront.net   #Talkable
 fbot.me
 friendbuy.com
 

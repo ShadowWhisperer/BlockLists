@@ -1,6 +1,6 @@
 #
 #    File: Marketing-Email   (Email Based Marketing)
-# Updated: 6/5/2020  15:56  (3:56 PM)  - Central Standard Time
+# Updated: 6/9/2020  20:07  (8:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -55,6 +55,7 @@ bravotestcreatesend.com
 campaignmonitor.com
 cdn2.jiltusercontent.com
 cdn.convertkit.com
+cdn.seguno.com
 cdn-staging.convertkit.com
 chat.convertkit.com
 ck.h.convertkit.com
@@ -97,6 +98,9 @@ cmon2.com
 conference.convertkit.com
 confirmsubscription.com
 constantcontact.com
+content.telluride.searshc.com
+contentz.mkt5965.com
+contentz.mkt922.com
 convertkit.com
 convertkit-mail.com
 createsend10.com
@@ -9467,6 +9471,8 @@ r20.rs6.net
 rejoiner.com
 retentionscience.com
 rs6.net
+searshc.com
+seguno.com
 sendgrid.net
 sendtomyfriend.com
 sgwebhook.convertkit.com

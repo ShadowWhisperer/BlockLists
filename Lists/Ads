@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 6/9/2020  00:43  (12:43 AM)  - Central Standard Time
+# Updated: 6/9/2020  20:07  (8:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -3253,6 +3253,7 @@ aa.connextra.com
 a-ad.adwo.com
 aa.datamind.ru
 a.adgear.com
+a.ad.gt
 a.adk2x.com
 a.adlithium.com
 a.admob.com
@@ -18704,6 +18705,7 @@ api.smartnews-ads.com
 api.socialannex.com
 api.sociomantic.net
 api.soloway.ru
+api.solutionshindsight.net
 api-som.swypeconnect.com
 api.sonobi.com
 api.sponsorpay.com
@@ -25601,6 +25603,7 @@ cdn.popmyads.com
 cdn.presage.io
 cdn.prod.paperg.com
 cdn-production.3d.amobee.com
+cdn.production.townsquareblogs.com
 cdn.promo.pimproll.com
 cdn-promox.polluxnetwork.com
 cdn.propellerads.com
@@ -38721,6 +38724,7 @@ hilton-setup.medallia.com
 himbrecha.iad-02.braze.com
 himss.advertserve.com
 hinditechonlin.onesignal.com
+hindsight-music-library.s3.ap-south-1.amazonaws.com
 hinkhoj.pushengage.com
 hip2save-d.openx.net
 hipchat.dev.pardot.com
@@ -62524,6 +62528,7 @@ srvcc-e.media.net
 srvcce.media.net
 srvcc.media.net
 srvccnc.media.net
+srv.clickfuse.com
 srv-corp01.corp.sonobi.com
 srv.csavr.com
 srv.dco.advertising.com
@@ -63496,6 +63501,7 @@ static.sites.contentabc.com
 static.skimlinks.com
 static.smaato.com
 static.smi2.net
+static.solutionshindsight.net
 static.ssacdn.com
 statics.seedtag.com
 static-ssl.exoclick.com
@@ -66136,7 +66142,6 @@ townhallmedia-d.openx.net
 townhallmediad.openx.net
 townnews-tagan.adlightning.com
 townsq.deliveryengine.adswizz.com
-townsquare.media
 townsquaremedia-d.openx.net
 toyblastlite.tresensa.com
 toyblast.tresensa.com

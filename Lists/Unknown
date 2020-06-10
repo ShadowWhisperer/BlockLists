@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/9/2020  00:43  (12:43 AM)  - Central Standard Time
+# Updated: 6/9/2020  20:07  (8:07 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -667,6 +667,7 @@ autopush-geller-pa.sandbox.googleapis.com      #Google
 blobcomments-pa.clients6.google.com            #Google
 chart.apis.google.com                          #Google
 chromesyncentities-pa.googleapis.com           #Google
+clean.gg                                       #Google
 content-autofill.googleapis.com                #Google
 crl.pki.goog                                   #Google
 csi.gstatic.com                                #Google
@@ -684,6 +685,7 @@ gem-pa.googleapis.com                          #Google
 googlecommerce.com                             #Google
 googlehomefoyer-pa.googleapis.com              #Google
 googleoptimize.com                             #Google
+i.clean.gg                                     #Google
 infinitedata-pa.googleapis.com                 #Google
 khmdb.google.com                               #Google
 lh2.l.google.com                               #Google
