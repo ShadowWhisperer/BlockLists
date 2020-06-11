@@ -7,13 +7,12 @@
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting & Blogs  
-    Junk             Surveys, Junk, Personally Untrusted Antivirus, ISPs (Spam/Botnets), etc  
+    Junk             Surveys, Junk, Personally Untrusted Antivirus/Browser Extensions, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Web Marketing / Ebay Listing Tools  
     Marketing-Email  Email Based Marketing  
     Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
-    Pirate           Torrent / Magnet Sites, Torrent Trackers, Warez  
-    Remote           Domains used to remotely control your stuff  
+    Remote           Domains used by software to remotely control your stuff  
     Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
     Scam             Fake / Misleading Sites - Not malware  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
