@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 6/9/2020  00:43  (12:43 AM)  - Central Standard Time
+# Updated: 6/11/2020  01:27  (1:27 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -29,6 +29,8 @@ iteratehq.com                                 #Survey - Iterate
 globaltestmarket.com                          #Survey - Life Points
 lifepointspanel.com                           #Survey - Life Points
 demographics.neat.com                         #Survey - Neat Scanner
+nicequest.com                                 #Survey - Nicequest
+survey.nicequest.com                          #Survey - Nicequest
 research.net                                  #Survey - Research
 d2bnxibecyz4h5.cloudfront.net                 #Survey - Survey Gizmo
 surveygizmo.com                               #Survey - Survey Gizmo

@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 6/2/2020  12:37  (12:37 PM)  - Central Standard Time
+# Updated: 6/11/2020  01:27  (1:27 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -44,6 +44,7 @@ cdn.filehorse.netdna-cdn.com                  #Software Hosting
 crsky.com                                     #Software Hosting
 dl1.filehippo.com                             #Software Hosting
 downloadsoftware4free.com                     #Software Hosting
+fileeagle.com                                 #Software Hosting
 filehippo.com                                 #Software Hosting
 filehorse.com                                 #Software Hosting
 filehorse.sbsd-updates.eu                     #Software Hosting
@@ -57,11 +58,10 @@ softonic.info                                 #Software Hosting
 
 
 
-#    Domains Used On/By Infected Machines  (Potentially)
-#----------------------------------------------------------------------------------------
-#----------------------------------------------------------------------------------------
+#  Domains Used On/By Infected Machines  (Potentially)
+#========================================================================================
 #
-#    Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
+#     Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
 #
 
 beeceptor.com                                 #Webhook

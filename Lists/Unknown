@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/9/2020  20:07  (8:07 PM)  - Central Standard Time
+# Updated: 6/11/2020  01:27  (1:27 AM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -12,27 +12,29 @@
 # Ads
 #############################
 ads.apprupt.com                      #Defunct ?
+adzcore.com                          #Defunct ?
+api.coxmt.com                        #Defunct ?
 apprupt.com                          #Defunct ?
 cdn.apprupt.com                      #Defunct ?
+centraltag.com                       #Defunct ?
+coxmt.com                            #Defunct ?
 cv.apprupt.com                       #Defunct ?
 demos.apprupt.com                    #Defunct ?
+go.coxmt.com                         #Defunct ?
+i-vengo.com                          #Defunct ?
 mum.apprupt.com                      #Defunct ?
 partner.apprupt.com                  #Defunct ?
+setting.adzcore.com                  #Defunct ?
 shops.apprupt.com                    #Defunct ?
 static1.apprupt.com                  #Defunct ?
 static3.apprupt.com                  #Defunct ?
 static.apprupt.com                   #Defunct ?
 td.apprupt.com                       #Defunct ?
+trueffect.com                        #Defunct ?
+turbobytes.com                       #Defunct ?
 webapps.apprupt.com                  #Defunct ?
 wwwstage.apprupt.com                 #Defunct ?
-setting.adzcore.com                  #Defunct ?
-adzcore.com                          #Defunct ?
-i-vengo.com                          #Defunct ?
-api.coxmt.com                        #Defunct ?
-coxmt.com                            #Defunct ?
-go.coxmt.com                         #Defunct ?
-dwin1.com                            #Defunct ?
-aw.dwin1.com                         #Defunct ?
+optomaton.com                        #Defunct ?  (Moved to ve.com)
 projectwonderful.com                 #Defunct ?  (Last Twiiter July 11, 2010)
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
@@ -80,6 +82,8 @@ pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
 thumb-cf.flixcdn.com            #Xhamster (Adult)
 thumbs.nosto.com            # (CrossBreedHolsters.com)
+userwave.com                #(Either Ad or Malware)  *Broken Links on homepage
+xml.userwave.com            #(Either Ad or Malware)  *Broken Links on homepage
 goodnotification.net        #(Either Ad or Malware)  *Claims to be Adsaro
 2agshdqwvcqs.website        #(Either Ad or Malware)  *Owned by Data-Cash
 t.grtyi.com                 #(Either Ad or Malware)  *Adult List
@@ -88,6 +92,7 @@ t.irtyf.com                 #(Either Ad or Malware)  *Adult List
 adhoc4.net                  #(Either Ad or Malware)
 besa-mad.com                #(Either Ad or Malware)
 cdn.clicksondelivery.com    #(Either Ad or Malware)
+naneso.com                  #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
 router.adhoc4.net           #(Either Ad or Malware)
@@ -114,7 +119,6 @@ reklam9.com
 surgeprice.com
 tapjoy.net
 twinrdsrv.com
-userwave.com
 viewsecure.net
 df0davzd72429.cloudfront.net
 
@@ -170,6 +174,7 @@ imganalytics.com        #White Ops, Inc
 static.tagsrvcs.com     #White Ops, Inc
 tagsrvcs.com            #White Ops, Inc
 v.tagsrvcs.com          #White Ops, Inc
+whiteops.com            #White Ops, Inc
 
 
 #############################
@@ -211,7 +216,6 @@ lab.kaizenet.com                 #Kaizenet (Flagged as Malware)
 wideopenmediagroup.com           #Wide Open Media Group
 mailing.wideopenmediagroup.com   #Wide Open Media Group
 affex.org                        #Zieltraffic (Defunct?)
-zdbb.net                         #Ziff Davis
 mix-uni.ru
 scarabresearch.com
 
@@ -233,7 +237,11 @@ binaryfxoptions.com         #Existing Lists
 clockoptions.com            #Existing Lists
 moneysmart.gov.au           #Existing Lists
 olympoption.com             #Existing Lists
+#############################
+webtools.media              #Associated with scam site "cdn.get4k.tv"
 blacksportsonline.com       #Fake News ?
+api.fondy.eu                #Credit Card Processor *Mostly negative reviews
+fondy.eu                    #Credit Card Processor *Mostly negative reviews
 
 
 #############################
@@ -330,6 +338,8 @@ apollo.io                                                   #Data-first engageme
 coveo.com                                                   #Tech platform for ads & analytics for app devs (static.cloud.coveo.com breaks Dell search results)
 #######################################################
 myemailtracking.com                                            #Either Tracker or Malware
+miriamholid.fun                                                #Either Tracker or Malware
+mlstat.com                                                     #Either Tracker or Malware (On Browser Hijack Page)  https://www.mlstat.com/statistics/appid/wgimage.gif?appID=0&lpID=5804&systemID=833&eventID=1&OSID=0&clientVersion=&clientBuildNumber=&clientLanguageCode=&rand=0.0810061757677687
 #######################################################
 adcs.rqmob.com
 analysis.fi
@@ -687,6 +697,7 @@ googlehomefoyer-pa.googleapis.com              #Google
 googleoptimize.com                             #Google
 i.clean.gg                                     #Google
 infinitedata-pa.googleapis.com                 #Google
+j.clean.gg                                     #Google
 khmdb.google.com                               #Google
 lh2.l.google.com                               #Google
 lh3.google.com                                 #Google
@@ -810,10 +821,11 @@ preferences.truste.com                       #TrustArc
 dw26xg4lubooo.cloudfront.net                   #TrustGuard
 members.trust-guard.com                        #TrustGuard
 trust-guard.com                                #TrustGuard
-caps.twitter.com                             #Twitter
-cdn.api.twitter.com                          #Twitter
-s.twitter.com                                #Twitter
-userpaneltv-pa.googleapis.com                   #YouTube - SmartTV
+caps.twitter.com                           #Twitter
+cdn.api.twitter.com                        #Twitter
+s.twitter.com                              #Twitter
+wizaly.com                                         #Wizaly
+userpaneltv-pa.googleapis.com                  #YouTube - SmartTV
 4g2.vzwdm.com                                #Verizon
 api-v.vzmessages.com                         #Verizon
 cs22.wpc.v0cdn.net                           #Verizon
