@@ -1,6 +1,6 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Updated: 6/11/2020  01:27  (1:27 AM)  - Central Standard Time
+# Updated: 6/17/2020  23:44  (11:44 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -12,11 +12,14 @@
 247.ai
 247-inc.net
 app.qualified.com
+client.crisp.chat
 crisp.chat
 inthechat.com
 js.qualified.com
 qualified.com
 salesiq.zoho.com
+srchat.sportradar.com
+support-chat.pdffiller.com
 webim.ru
 whoson.com
 
@@ -37,6 +40,7 @@ chatbro.com
 checkbot.gosquared.com
 conversiobot.com
 conversio-bot-media.s3.amazonaws.com
+coreliscare-com.mb.softbank.jp
 drift.com
 freshbots.ai
 intercom.com
@@ -50,6 +54,7 @@ solocpm.com
 tiledesk.com
 vergic.com
 vmss.boldchat.com
+wchat.us2.freshchat.com
 
 
 #  Live
@@ -59,17 +64,23 @@ activengage.com
 api.livechatinc.com
 api.olark.com
 avochato.com
+bespokechat.com
 bold360.com
+cdn.bespokechat.com
 cdn.livechatinc.com
+chat01.salesmanago.com
 chatango.com
 chat.gosquared.com
+chat-proxy-service.thulium.com
 chatra.io
 chatserver.comm100.com
+chat-widget.thulium.com
 c.la2-c1-ord.salesforceliveagent.com
 cobrowse.oraclecloud.com
 code.jivosite.com
 code.tidio.co
 comm100.com
+connect.livechatinc.com
 d36jdncz9n0vtx.cloudfront.net
 eassistancepro.com
 engagetosell.com
@@ -106,14 +117,15 @@ volusion.com
 wchat.freshchat.com
 
 
-
-ladesk.com    #Send Email / Visitor Tracking
+#  Other
+######################################
+ladesk.com                    #Send Email / Visitor Tracking
 
 iframe.chatid.com             #ChatID, Inc.
 chatidcdn.com                 #ChatID, Inc.
 
 chat.api.autohome.com.cn
+embed.tawk.to
 rocket.chat
 subiz.com
 tawk.to
-embed.tawk.to

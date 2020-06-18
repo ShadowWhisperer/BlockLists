@@ -1,54 +1,60 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 6/12/2020  00:48  (12:48 AM)  - Central Standard Time
+# Updated: 6/17/2020  23:44  (11:44 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
 #
 
-fonts.acer.com                          #Font  Acer
-edgefonts.net                           #Font    Adobe
-fonts.adobe.com                         #Font    Adobe
-typekit.com                             #Font    Adobe
-use.typekit.com                         #Font    Adobe
-typekit.net                             #Font    Adobe
-use.edgefonts.net                       #Font    Adobe
-use.typekit.net                         #Font    Adobe
-file.myfontastic.com                    #Font  Fontastic.me
-fontastic.me                            #Font  Fontastic.me
-myfontastic.com                         #Font  Fontastic.me
-fonts.gstatic.com                       #Font  Google
-fonts.googleapis.com                    #Font  Google
-f.kinja-static.com                      #Font     Kinja
-hello.myfonts.net                       #Font  My Fonts
-myfonts.net                             #Font  My Fonts
-fontawesome.com                         #Font      Font Awesome
-kit.fontawesome.com                     #Font      Font Awesome
-kit-pro.fontawesome.com                 #Font      Font Awesome
-pro.fontawesome.com                     #Font      Font Awesome
-use.fontawesome.com                     #Font      Font Awesome
-fortawesome.com                         #Font    Fort Awesome
-fonticons.com                           #Font    Fort Awesome
-fonts.shopifycdn.com                    #Font  Shopify
-cloud.webtype.com                       #Font    WebType
-pls.webtype.com                         #Font    WebType
-webtype.com                             #Font    WebType
-drh-fonts.img.digitalrivercontent.net   #Font     Specific
-fonts.ea.com.c.footprint.net            #Font     Specific
-fonts.ea.com                            #Font     Specific
-fonts.fandango.com                      #Font     Specific
-fonts.foxsports.com                     #Font     Specific
-fonts.intercomcdn.com                   #Font     Specific
-fonts.iu.edu                            #Font     Specific
-fonts.jimstatic.com                     #Font     Specific
-fonts.sidearmsports.com                 #Font     Specific
-fonts.sony.net                          #Font     Specific
-fonts.staticworld.net                   #Font     Specific
-fonts.voxmedia.com                      #Font     Specific
-fonts.walmart.com                       #Font     Specific
-fonts.wsj.net                           #Font     Specific
-g1.nyt.com                              #Font     Specific
+fonts.acer.com                                  #Font  Acer
+edgefonts.net                                   #Font    Adobe
+fonts.adobe.com                                 #Font    Adobe
+typekit.com                                     #Font    Adobe
+use.typekit.com                                 #Font    Adobe
+typekit.net                                     #Font    Adobe
+use.edgefonts.net                               #Font    Adobe
+use.typekit.net                                 #Font    Adobe
+file.myfontastic.com                            #Font  Fontastic.me
+fontastic.me                                    #Font  Fontastic.me
+myfontastic.com                                 #Font  Fontastic.me
+fonts.gstatic.com                               #Font  Google
+fonts.googleapis.com                            #Font  Google
+f.kinja-static.com                              #Font     Kinja
+hello.myfonts.net                               #Font  My Fonts
+myfonts.net                                     #Font  My Fonts
+fontawesome.com                                 #Font      Font Awesome
+kit.fontawesome.com                             #Font      Font Awesome
+kit-free.fontawesome.com                        #Font      Font Awesome
+kit-pro.fontawesome.com                         #Font      Font Awesome
+pro.fontawesome.com                             #Font      Font Awesome
+use.fontawesome.com                             #Font      Font Awesome
+fortawesome.com                                 #Font  Fort Awesome
+fonticons.com                                   #Font  Fort Awesome
+fontplus.jp                                     #Font      Font Plus
+webfont.fontplus.jp                             #Font      Font Plus
+fonts.shopifycdn.com                            #Font  Shopify
+cloud.webtype.com                               #Font    WebType
+pls.webtype.com                                 #Font    WebType
+webtype.com                                     #Font    WebType
+drh-fonts.img.digitalrivercontent.net           #Font     Specific
+fonts.ea.com.c.footprint.net                    #Font     Specific
+fonts.ea.com                                    #Font     Specific
+fonts.fandango.com                              #Font     Specific
+fonts.foxsports.com                             #Font     Specific
+fonts.intercomcdn.com                           #Font     Specific
+fonts.iu.edu                                    #Font     Specific
+fonts.jimstatic.com                             #Font     Specific
+fonts.sidearmsports.com                         #Font     Specific
+fonts.sony.net                                  #Font     Specific
+fonts.staticworld.net                           #Font     Specific
+fonts.voxmedia.com                              #Font     Specific
+fonts.walmart.com                               #Font     Specific
+fonts.wpcdn.pl                                  #Font     Specific
+fonts.wsj.net                                   #Font     Specific
+g1.nyt.com                                      #Font     Specific
+gel.files.bbci.co.uk                            #Font     Specific
+static-web-assets.gnl-common.bbcverticals.com   #Font     Specific
 
 videodownloaderultimate.com         #Browser Extension - Video Downloader Professional
 
@@ -62,6 +68,7 @@ addthiscdn.com                      #Webpage Integration - Social Media
 addthis.com                         #Webpage Integration - Social Media
 addthisedge.com                     #Webpage Integration - Social Media
 linksalpha.com                      #Webpage Integration - Social Media
+media.line.naver.jp                 #Webpage Integration - Social Media
 opensharecount.com                  #Webpage Integration - Social Media
 pluso.ru                            #Webpage Integration - Social Media
 s7.addthis.com                      #Webpage Integration - Social Media
@@ -87,17 +94,22 @@ images.dmca.com                                         #Webpages - Logo (Digita
 
 browser-update.org                                      #Checks Browser Version
 
-cc.cdn.civiccomputing.com                               #Cookie Control
-cdn.cookielaw.org                                       #Cookie Control
-consent.cookiebot.com                                   #Cookie Control
-cookiebot.com                                           #Cookie Control
-cookieinfoscript.com                                    #Cookie Control
-cookielaw.org                                           #Cookie Control
-iubenda.com                                             #Cookie Control
-sa437gl.wpc.kappacdn.net                                #Cookie Control
-scripts.webcontentassessor.com                          #Cookie Control
-webcontentassessor.com                                  #Cookie Control
-sdk.privacy-center.org                                  #Cookie Control
+cc.cdn.civiccomputing.com                               #Cookie Consent / Control
+cdn.cookielaw.org                                       #Cookie Consent / Control
+cdn.truendo.com                                         #Cookie Consent / Control
+consent.cookiebot.com                                   #Cookie Consent / Control
+consent.trustarc.com                                    #Cookie Consent / Control
+cookiebot.com                                           #Cookie Consent / Control
+cookieinfoscript.com                                    #Cookie Consent / Control
+cookielaw.org                                           #Cookie Consent / Control
+iubenda.com                                             #Cookie Consent / Control
+prod.truendo.com                                        #Cookie Consent / Control
+rodo.agora.pl                                           #Cookie Consent / Control
+sa437gl.wpc.kappacdn.net                                #Cookie Consent / Control
+scripts.webcontentassessor.com                          #Cookie Consent / Control
+sdk.privacy-center.org                                  #Cookie Consent / Control
+truendo.com                                             #Cookie Consent / Control
+webcontentassessor.com                                  #Cookie Consent / Control
 
 copypoison.com                                          #Prevent Copying of text on a page
 
@@ -126,15 +138,15 @@ program.avast.com                                       #Antivirus   Avast
 tuneup.avast.tools.avcdn.net                            #Antivirus   Avast
 tuneup.engine.avcdn.net                                 #Antivirus   Avast
 uupdate.avast.com                                       #Antivirus   Avast
-avgbrowser.com                                          #Antivirus     AVG     Browser
-browser-update.avg.com                                  #Antivirus     AVG     Browser
-isearch.avg.com                                         #Antivirus     AVG     Browser Search Engine
-ipm-provider.ff.avast.com                               #Antivirus     AVG     Upgrade Ads (May break Subscription Status Check *AVG still works normal)
-update-tuneup.avg.com                                   #Antivirus     AVG     TuneUp
-tu.update.avg.com                                       #Antivirus     AVG     TuneUp
-tu.backup.avg.cz                                        #Antivirus     AVG     TuneUp
-download-webtuneup.avg.com                              #Antivirus     AVG     WebTuneUp
-webtuneup.avg.com                                       #Antivirus     AVG     WebTuneUp
+avgbrowser.com                                          #Antivirus     AVG  Browser
+browser-update.avg.com                                  #Antivirus     AVG  Browser
+isearch.avg.com                                         #Antivirus     AVG  Browser Search Engine
+update-tuneup.avg.com                                   #Antivirus     AVG    TuneUp
+tu.update.avg.com                                       #Antivirus     AVG    TuneUp
+tu.backup.avg.cz                                        #Antivirus     AVG    TuneUp
+download-webtuneup.avg.com                              #Antivirus     AVG  WebTuneUp
+webtuneup.avg.com                                       #Antivirus     AVG  WebTuneUp
+ipm-provider.ff.avast.com                               #Antivirus     AVG    Upgrade Ads (May break Subscription Status Check *AVG still works normal)
 cloud.avg.com                                           #Antivirus     AVG
 mysearch.avg.com                                        #Antivirus     AVG
 toolbar.avg.com                                         #Antivirus     AVG

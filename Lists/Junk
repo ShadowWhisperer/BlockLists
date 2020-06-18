@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 6/11/2020  01:27  (1:27 AM)  - Central Standard Time
+# Updated: 6/17/2020  23:44  (11:44 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -13,6 +13,7 @@ lb.polldaddy.com                              #Survey
 opinionbar.com                                #Survey
 polldaddy.com                                 #Survey
 poll.fm                                       #Survey
+riddle.com                                    #Survey
 samplicio.us                                  #Survey
 secure.polldaddy.com                          #Survey
 survey.io                                     #Survey
@@ -267,6 +268,7 @@ hostland.ru                                   #Web Hosting  (Russia)
 sprinthost.ru                                 #Web Hosting  (Russia)
 tmweb.ru                                      #Web Hosting  (Russia)
 xsph.ru                                       #Web Hosting  (Russia)
+webcindario.com                               #Web Hosting  (Spain)
 websitehome.co.uk                             #Web Hosting  (UK)
 303.lt                                        #Web Hosting
 mellle.com                                    #Web Hosting
@@ -365,6 +367,7 @@ search.juno.com                               #Search Engine   Juno
 sugg.search.yahoo.net                         #Search Engine   Yahoo (Suggestions)
 toolbar.yahoo.com                             #Search Engine   Yahoo (Toolbar)
 search.yahoo.com                              #Search Engine   Yahoo
+us.search.yahoo.com                           #Search Engine   Yahoo
 copernicus-software.stores.yahoo.net          #Search Engine   Yahoo
 search.zonealarm.com                          #Search Engine   ZoneAlarm (Safe Search)
 

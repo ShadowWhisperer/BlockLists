@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 6/11/2020  01:27  (1:27 AM)  - Central Standard Time
+# Updated: 6/17/2020  23:44  (11:44 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -61,8 +61,12 @@ softonic.info                                 #Software Hosting
 #  Domains Used On/By Infected Machines  (Potentially)
 #========================================================================================
 #
-#     Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
+#   Money Transfer  =  Websites used to send money to someone else
+#          Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
 #
+
+remitly.com                                   #Money Transfer  (Personally seen in scam case)
+remitly.io                                    #Money Transfer  (Personally seen in scam case)
 
 beeceptor.com                                 #Webhook
 httpreq.com                                   #Webhook
@@ -70,6 +74,8 @@ ironikus.com                                  #Webhook
 requestbin.com                                #Webhook
 requestinspector.com                          #Webhook
 requestwatch.com                              #Webhook
+
+api.c99.nl                                    #Can be used as a port scanner
 
 pythonanywhere.com                            #Run Python & Bash over the net
 

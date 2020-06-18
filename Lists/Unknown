@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/12/2020  00:48  (12:48 AM)  - Central Standard Time
+# Updated: 6/17/2020  23:44  (11:44 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -20,6 +20,7 @@ centraltag.com                       #Defunct ?
 coxmt.com                            #Defunct ?
 cv.apprupt.com                       #Defunct ?
 demos.apprupt.com                    #Defunct ?
+directrev.com                        #Defunct ?
 go.coxmt.com                         #Defunct ?
 i-vengo.com                          #Defunct ?
 mum.apprupt.com                      #Defunct ?
@@ -89,9 +90,14 @@ goodnotification.net        #(Either Ad or Malware)  *Claims to be Adsaro
 t.grtyi.com                 #(Either Ad or Malware)  *Adult List
 t.hrtya.com                 #(Either Ad or Malware)  *Adult List
 t.irtyf.com                 #(Either Ad or Malware)  *Adult List
+adskyo.com                  #(Either Ad or Malware)  *IP
+nativad.net                 #(Either Ad or Malware)  *IP
 adhoc4.net                  #(Either Ad or Malware)
+ateoildim.club              #(Either Ad or Malware)
 besa-mad.com                #(Either Ad or Malware)
+ca.clcknads.pro             #(Either Ad or Malware)
 cdn.clicksondelivery.com    #(Either Ad or Malware)
+mugleafly.com               #(Either Ad or Malware)
 naneso.com                  #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
@@ -111,14 +117,12 @@ images.highspeedbackbone.net
 js.himediads.com
 loading-delivery2.com
 mb104.com
-mobusi.com
 n2s.co.kr
 partner.mediametrics.ru
 potpourrichordataoscilloscope.com
 reklam9.com
 surgeprice.com
 tapjoy.net
-twinrdsrv.com
 viewsecure.net
 df0davzd72429.cloudfront.net
 
@@ -164,17 +168,20 @@ cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
 #############################
 # Bot Prevention
 #############################
-datadome.co             #DataDome
-perimeterx.com          #PerimeterX, Inc.
-perimeterx.net          #PerimeterX, Inc.
-px-cdn.net              #PerimeterX, Inc.
-pxchk.net               #PerimeterX, Inc.
-agentanalytics.com      #White Ops, Inc
-imganalytics.com        #White Ops, Inc
-static.tagsrvcs.com     #White Ops, Inc
-tagsrvcs.com            #White Ops, Inc
-v.tagsrvcs.com          #White Ops, Inc
-whiteops.com            #White Ops, Inc
+abtshield.com              #ABT Shield
+cdn.snippet.abtshield.com  #ABT Shield
+d1.abtshield.com           #ABT Shield
+datadome.co                #DataDome
+perimeterx.com             #PerimeterX, Inc.
+perimeterx.net             #PerimeterX, Inc.
+px-cdn.net                 #PerimeterX, Inc.
+pxchk.net                  #PerimeterX, Inc.
+agentanalytics.com         #White Ops, Inc
+imganalytics.com           #White Ops, Inc
+static.tagsrvcs.com        #White Ops, Inc
+tagsrvcs.com               #White Ops, Inc
+v.tagsrvcs.com             #White Ops, Inc
+whiteops.com               #White Ops, Inc
 
 
 #############################
@@ -213,6 +220,7 @@ redirectmaster.com
 #############################
 option.boldapps.net              #BoldCommerce
 boldapps.net                     #BoldCommerce (Certain Marketing, Not sure what "option.boldapps.net" does)
+marketing.fitbit.com             #Fitbit - Might break email layout
 kaizenet.com                     #Kaizenet
 lab.kaizenet.com                 #Kaizenet (Flagged as Malware)
 wideopenmediagroup.com           #Wide Open Media Group
@@ -237,6 +245,7 @@ amfeix.com                  #Existing Lists (Mixed Reviews)
 aipcapitaltrade.com         #Existing Lists
 binaryfxoptions.com         #Existing Lists
 clockoptions.com            #Existing Lists
+mateuszgrzesiak.tv          #Existing Lists
 moneysmart.gov.au           #Existing Lists
 olympoption.com             #Existing Lists
 #############################
@@ -244,6 +253,7 @@ webtools.media              #Associated with scam site "cdn.get4k.tv"
 blacksportsonline.com       #Fake News ?
 api.fondy.eu                #Credit Card Processor *Mostly negative reviews
 fondy.eu                    #Credit Card Processor *Mostly negative reviews
+intheswim.com               #Pool Equipment  *Mostly negative reviews  / All items are out of stock 6.17.2020
 
 
 #############################
@@ -257,7 +267,6 @@ t.marketing.activision.com                                     #Activision
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
 appcelerator.com                                                #Appcelerator
 urs.cnet.com                                                 #Cnet (easyXDM)
-srv.main.ebayrtm.com                                              #Ebay
 lookaside.facebook.com                                    #Facebook
 z-m.c10r.facebook.com                                     #Facebook
 brainkeeper.gw-ec.com                                        #GearBest
@@ -337,8 +346,9 @@ research-artisan.com                                        #Chineese Site
 algolianet.com                                              #Search As A Service
 rcsnjttpht-2.algolianet.com                                 #Search As A Service
 fpctraffic3.com                                             #We pay for your clicks
+grader.com                                                  #Website Grader
+theappgrader.com                                            #Website Grader
 apollo.io                                                   #Data-first engagement platform ... structured data ... to help execute, analyze, & improve your growth strategy)
-coveo.com                                                   #Tech platform for ads & analytics for app devs (static.cloud.coveo.com breaks Dell search results)
 #######################################################
 myemailtracking.com                                            #Either Tracker or Malware
 miriamholid.fun                                                #Either Tracker or Malware
@@ -371,7 +381,6 @@ s2s-rtb-selector.us-east-1.prod.one4p.aol.com
 static.intentarget.com
 status-sh.cloudcade.com
 tags.adsafety.net
-theappgrader.com
 tj.yddashi.com
 t.motrixi.com
 tockance.com
@@ -550,8 +559,10 @@ d5c8kzvnetr32.cloudfront.net                   #AudioEye
 ws.audioeye.com                                #AudioEye
 wsv3cdn.audioeye.com                           #AudioEye
 auth.ff.avast.com                        #Avast / AVG
+config.nos.avast.com                     #Avast / AVG
 emupdate.avcdn.net                       #Avast / AVG
 emupdate.bav.avcdn.net                   #Avast / AVG
+local.avg.com                            #Avast / AVG
 nos.ns1.ff.avast.com                     #Avast / AVG
 _nos._tcp.nos.avast.com                  #Avast / AVG
 nuistatic.avcdn.net                      #Avast / AVG
@@ -737,7 +748,6 @@ groupbycloud.com                             #Group By Cloud
 prod-lb.groupbycloud.com                     #Group By Cloud
 herokuapp.com                                  #Heroku Ap
 sandhills.com                               #Hibid
-imtwjwoasak.com                                    #Hulu (Tracker ?)
 metcon.hulu.com                                    #Hulu (Tracker ?)
 emu.hulu.com                                       #Hulu
 47mal.x.incapdns.net                          #Incapsula (Site Security)
@@ -749,20 +759,19 @@ incapdns.net                                  #Incapsula (Site Security)
 n2e79bn.x.incapdns.net                        #Incapsula (Site Security)
 rin7m.x.incapdns.net                          #Incapsula (Site Security)
 acp-magento.appspot.com                      #InstantSearch+
-media-akam.licdn.com                             #LinkedIn - Most have single pixel (tracker), some have images
-platform.linkedin.com                            #LinkedIn - Webpage integration ?
-autodiscover.cityofluverne.org               #Luverne - City
-hdwvmasogicqg.isd2184.net                    #Luverne - Public School District
-lpsweb.isd2184.net                           #Luverne - Public School District
-wpad.isd2184.net                             #Luverne - Public School District
-zrhuhdohuypmmq.isd2184.net                   #Luverne - Public School District
+media-akam.licdn.com                           #LinkedIn - Most have single pixel (tracker), some have images
+autodiscover.cityofluverne.org             #Luverne - City
+hdwvmasogicqg.isd2184.net                  #Luverne - Public School District
+lpsweb.isd2184.net                         #Luverne - Public School District
+wpad.isd2184.net                           #Luverne - Public School District
+zrhuhdohuypmmq.isd2184.net                 #Luverne - Public School District
 chimpstatic.com                              #MailChimp
 conduit.mailchimpapp.com                     #MailChimp
-balrog-aus5.r53-2.services.mozilla.com       #Mozilla
-balrog-cloudfront.prod.mozaws.net            #Mozilla
-live.thunderbird.net                         #Mozilla
-prod-cdn.sumo.moz.works                      #Mozilla
-prod-tp.sumo.moz.works                       #Mozilla
+balrog-aus5.r53-2.services.mozilla.com     #Mozilla
+balrog-cloudfront.prod.mozaws.net          #Mozilla
+live.thunderbird.net                       #Mozilla
+prod-cdn.sumo.moz.works                    #Mozilla
+prod-tp.sumo.moz.works                     #Mozilla
 nowcast.acmeaom.com                               #MyRadar (Android App)
 wu.acmeaom.com                                    #MyRadar (Android App)
 anycast.ftl.netflix.com                        #Netflix - AnyCast
