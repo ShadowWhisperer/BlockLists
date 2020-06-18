@@ -24,17 +24,10 @@ swquery.apple.com                 #Apple - Updates
 swscan.apple.com                  #Apple - Updates
 web-experience.itunes.apple.com   #Apple - Website - Images
 
-adaway.org                    #DNS Lists
-hosts-file.net                #DNS Lists
-openphish.com                 #DNS Lists
-pgl.yoyo.org                  #DNS Lists
-ransomwaretracker.abuse.ch    #DNS Lists
-s3.amazonaws.com              #DNS Lists
-someonewhocares.org           #DNS Lists
-sysctl.org                    #DNS Lists
-winhelp2002.mvps.org          #DNS Lists
-
 adwcleaner.toolslib.net       #Software - Adwcleaner
+my-win.avast.com              #Software - AVG Activate Free Version
+ping.avast.com                #Software - AVG Install Freezes
+s-nuistatic.avcdn.net         #Software - AVG Website Login
 cache-cms-ext-us.battle.net   #Software - Battle.net (What's New)
 sugarsync.com                 #Software - Cloud Storage
 mirrors.kodi.tv               #Software - Kodi
@@ -53,7 +46,6 @@ disconnect.me                              #Google - Chrome - Extension
 eff.org                                    #Google - Chrome - Extension
 tools.google.com                           #Google - Chrome - Update
 apis.google.com                            #Google - Chrome - Google
-google.com                                 #Google - Chrome - Google
 gstatic.com                                #Google - Chrome - Google
 redirector.gvt1.com                        #Google - Chrome - Google
 storage.googleapis.com                     #Google - Chrome - Google
@@ -117,9 +109,6 @@ ae01.alicdn.com                            # AliExpress - Images
 gannett-cdn.com                            # Argus Leader
 etrk.asus.com                              # Asus - Download Drivers
 gravatar.com                               # Avatar Icons
-my-win.avast.com                           # AVG - Activate Free Version
-ping.avast.com                             # AVG - Install Freezes
-s-nuistatic.avcdn.net                      # AVG - Website Login
 cdn.rlcdn.com                              # Cabelas - Images
 graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
 s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
@@ -240,6 +229,7 @@ api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 
 # Breaks Some Sites
 ########################
+imasdk.googleapis.com        #Ads - Breaks 'independent.co.uk' Videos
 lddy.no                      #Marketing - Breaks Links
 pjtra.com                    #Marketing - Breaks Links
 shareasale.com               #Marketing - Breaks Links
