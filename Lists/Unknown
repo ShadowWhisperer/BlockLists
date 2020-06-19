@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/17/2020  23:44  (11:44 PM)  - Central Standard Time
+# Updated: 6/18/2020  23:30  (11:30 PM)  - Central Standard Time
 # Creator: ShadowWisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
@@ -226,8 +226,10 @@ lab.kaizenet.com                 #Kaizenet (Flagged as Malware)
 wideopenmediagroup.com           #Wide Open Media Group
 mailing.wideopenmediagroup.com   #Wide Open Media Group
 affex.org                        #Zieltraffic (Defunct?)
+inkshouse.com
 mix-uni.ru
 scarabresearch.com
+s.w.org
 
 
 #############################
@@ -259,6 +261,7 @@ intheswim.com               #Pool Equipment  *Mostly negative reviews  / All ite
 #############################
 # Tracker
 #############################
+stcounter.com                      #Dead?
 kqzamd.com                              #Says Tracker - Might Be Malware
 tr.kqzamd.com                           #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                        #Seen with Adult Sites
@@ -349,6 +352,7 @@ fpctraffic3.com                                             #We pay for your cli
 grader.com                                                  #Website Grader
 theappgrader.com                                            #Website Grader
 apollo.io                                                   #Data-first engagement platform ... structured data ... to help execute, analyze, & improve your growth strategy)
+vilynx.com                                                  #Self-learning AI for process automation & data extraction
 #######################################################
 myemailtracking.com                                            #Either Tracker or Malware
 miriamholid.fun                                                #Either Tracker or Malware
@@ -359,6 +363,7 @@ analysis.fi
 api.huqindustries.co.uk
 apis.kostprice.com
 app.launchdarkly.com
+cdn.clicksondelivery.com
 charles.huqindustries.co.uk
 cm.adsafety.net
 c.zrcir.com
