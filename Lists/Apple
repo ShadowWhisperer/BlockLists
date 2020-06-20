@@ -1,13 +1,11 @@
 #
 #    File: Apple   (Bloat / Push Notifications)
+# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Creator: ShadowWhisperer  (Sean H.)
 #
-# Updated: 3/25/2020  13:13  (1:13 PM)  - Central Standard Time
-# Creator: ShadowWisperer  (Sean H.)
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
-#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
-#
-
 
 captive.apple.com                    # Captive Portal - Looks For Wifi Login
 attwifi.apple.com                    # Captive Portal - Looks For Wifi Login

@@ -1,10 +1,10 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 6/18/2020  23:30  (11:30 PM)  - Central Standard Time
-# Creator: ShadowWisperer  (Sean H.)
+# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Creator: ShadowWhisperer  (Sean H.)
 #
-#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 00101606.ulink.adjust.com
@@ -1336,7 +1336,11 @@
 24fun.2cnt.net
 24fun.count.brat-online.ro
 24hf.touchcommerce.com
+24log.com
+24log.de
+24log.es
 24log.fr
+24log.it
 24ratownik.hit.gemius.pl
 24sevenoffice.count.ly
 24towit.rtrk.com
@@ -6262,6 +6266,7 @@ ad-analytics-bootstrap.metaps.com
 ad-analytics.metaps.com
 adanalytics.openload.com
 adantes2.click.org
+adapf.com
 adap-interface.weborama.com
 adapj.rtb.adx1.com
 adaptv.pixel.invitemedia.com
@@ -6694,6 +6699,7 @@ adsrv.tapad.com
 adsrv-us-east.tapad.com
 adsrv-us-west-ssl.tapad.com
 adsrv-us-west.tapad.com
+adstracker.appsgeyser.com
 ads-trk-a.prod.vidible.tv
 ads-trk.prod.vidible.tv
 ads-trk-stage.vidible.tv
@@ -11287,6 +11293,7 @@ assets.everesttech.net
 assets.factual.com
 assets.firstpromoter.com
 assets.foxmetrics.com
+assets.geo.de
 assets.github.exacttarget.com
 assets.growingio.com
 assets.hotjar.com
@@ -18737,6 +18744,7 @@ commerce.boomtrain.com
 commerce.ss-omtrdc.net
 commerce.us1.ss-omtrdc.net
 commerzreal01.wt-eu02.net
+commsvc.geo.de
 community.appdynamics.com
 community.appsflyer.com
 community-beta.tealiumiq.com
@@ -30675,10 +30683,7 @@ hellwegde.widget.criteo.com
 help0.flashlight.ksmobile.com
 helpabyssrium1.ksmobile.com
 helpabyssriumios1.ksmobile.com
-help.adjust.com
-help.adomik.com
 helpantutu1.ksmobile.com
-help.appdynamics.com
 helparmorfly1.ksmobile.com
 helparrowio1.ksmobile.com
 helpasusapplock0.ksmobile.com
@@ -30697,7 +30702,6 @@ helpcenter.turn.com
 helpchargemaster1.ksmobile.com
 helpcheetahkeyboard1.ksmobile.com
 helpcleanmasterlite1.ksmobile.com
-help.clearbit.com
 helpcmbattery1.ksmobile.com
 helpcmbrowser1.ksmobile.com
 helpcmfreecalls0.ksmobile.com
@@ -30718,10 +30722,6 @@ helpcmshow1.ksmobile.com
 helpcmslite1.ksmobile.com
 helpcmstk0.ksmobile.com
 helpcmvpn1.ksmobile.com
-help.cnzz.com
-help.convertro.com
-help.crazyegg.com
-help.crittercism.com
 helpdancingball1.ksmobile.com
 helpdancingline1.ksmobile.com
 helpdancinglineios1.ksmobile.com
@@ -30740,49 +30740,34 @@ helpdocs.bronto.com
 helpduba1.ksmobile.com
 helpdubaclient.ksmobile.com
 helpdubaservice.ksmobile.com
-help.ensighten.com
 helper-stats.wondershare.com
-help.exacttarget.com
 helpf.ksmobile.com
-help.fullstory.com
 helpgamemaster1.ksmobile.com
 helpgamesdk1.ksmobile.com
 helpgkuwan1.ksmobile.com
-help.glympse.com
 helpgrid1.ksmobile.com
 helpgridios1.ksmobile.com
 helpgridlite1.ksmobile.com
 helpguru0.ksmobile.com
 helphot1.ksmobile.com
-help.hotjar.com
 helpjdd1.ksmobile.com
 helpkcalendar1.ksmobile.com
 helpkewl0.ksmobile.com
 helpkewl1.ksmobile.com
 helpkewlweb1.ksmobile.com
 helpkeyboard0.ksmobile.com
-help.kissmetrics.com
-help.klaviyo.com
 helpkprotect1.ksmobile.com
 helplauncher1.ksmobile.com
 helplbandroid1.ksmobile.com
 helplblite1.ksmobile.com
-help.localytics.com
-help.mixpanel.com
 help-m.mediav.com
-help.mobfox.com
-help.moengage.com
 helpmonsterjump1.ksmobile.com
-help.mouseflow.com
 helpnewsindia1.ksmobile.com
 helpnewsrepublic1.ksmobile.com
 helpnewsrepublicsohuaws.ksmobile.com
 helpnewsrepublicus1.ksmobile.com
 helpoemapplock0.ksmobile.com
 helpoemapplock1.ksmobile.com
-help.onthe.io
-help.optimizely.com
-help.pay.getadmiral.com
 helppccm0.ksmobile.com
 helppccm1.ksmobile.com
 helppccmcn0.ksmobile.com
@@ -30790,12 +30775,7 @@ helppccmcn1.ksmobile.com
 helpphonbbit1.ksmobile.com
 helppianotiles1ios1.ksmobile.com
 helppier.agilecrm.com
-help.pingdom.com
-help.privy.com
-help.qa.exacttarget.com
-help.qualaroo.com
 helpreminder1.ksmobile.com
-help.returnpath.com
 helprollingsky1.ksmobile.com
 helprollingskyios1.ksmobile.com
 helpsafewallet1.ksmobile.com
@@ -30804,12 +30784,8 @@ helpshift.com
 helpshorts1.ksmobile.com
 helpshoujikong0.ksmobile.com
 helpskidstorm1.ksmobile.com
-help.smartlook.com
-help.survata.com
 helpszoemweather0.ksmobile.com
 helpszoemweather1.ksmobile.com
-help.tapad.com
-help.taplytics.com
 helptaptapdash1.ksmobile.com
 helptaptapdashios1.ksmobile.com
 helptextone1.ksmobile.com
@@ -30821,7 +30797,6 @@ helptsflauncher1.ksmobile.com
 helpuncrossingios1.ksmobile.com
 help-videos.brightedge.com
 helpwallpaper1.ksmobile.com
-help.webtrends.com
 helpwhatscallios1.ksmobile.com
 helpwhitetile1.ksmobile.com
 helpwhitetile21.ksmobile.com
@@ -34315,6 +34290,7 @@ js.hotlog.ru
 js.hsadspixel.net
 js.hs-analytics.net
 js.hsleadflows.net
+js.hubspotfeedback.com
 js.hull.io
 js.itracker360.com
 js.ksmobile.com
@@ -34363,6 +34339,7 @@ js.taplytics.com
 js.tune.com
 js.ucg.smart-dmp.com
 js.upsight-api.com
+js.usemessages.com
 js.users.51.la
 js-validator.appbe.optimizely.com
 js-validator-dev.appbe.optimizely.com
@@ -40865,6 +40842,7 @@ mo.amap.com
 moat.com
 moatpixel.com
 mob.adx1.com
+mobalo.com
 mobalpa.solution.weborama.fr
 mobeam.helpshift.com
 mobeet.exaudi.neodatagroup.com
@@ -47854,30 +47832,14 @@ proxy003.atl1.turn.com
 proxy004.atl1.turn.com
 proxy01.backtrace.io
 proxy01.sp.backtrace.io
-proxy.batmobi.net
 proxy-beta.smartlook.com
 proxycfg.marketscore.com
-proxy.decibelinsight.net
-proxy.dynamicyield.com
 proxy-fb.liverail.com
 proxy-gw-a.adx1.com
-proxy.ia2.marketscore.com
-proxy.ia3.marketscore.com
-proxy.ia4.marketscore.com
 proxy-images.marchex.io
-proxy.kampyle.com
-proxy.ksmobile.com
-proxy.or3.marketscore.com
-proxy.or4.marketscore.com
 proxy-prod.weborama.com
 proxy-ru1-a.onthe.io
 proxy-ru1-b.onthe.io
-proxy.scanscout.com
-proxy.sj3.marketscore.com
-proxy.sj4.marketscore.com
-proxy.smartlook.com
-proxy.snrbox.com
-proxy.synerise.com
 prpsjeans.btttag.com
 pr.realvu.net
 prstats.postrelease.com
@@ -49439,6 +49401,7 @@ reporting.specificmedia.com
 reporting.stage.showheroes.com
 reporting.staging.adgear.com
 reporting.staging.trader.adgear.com
+reporting.stroeer.de
 reporting.taptica.com
 reporting.theonion.com
 reporting.torontostar.adgear.com
@@ -49807,6 +49770,7 @@ ricaud.commander1.com
 ricaudde.commander1.com
 rice.brandseye.com
 richard.ittest.33across.com
+richaudience.com
 richland.adx1.com
 richmetrics.com
 richmom.cpa.clicksure.com
@@ -71548,6 +71512,7 @@ webtrekk.adclear.net
 webtrekk.com
 webtrekk.de
 webtrekk.net
+webtrekk-system.com
 webtrekk-us.net
 webtrends.com
 webtrendslive.com

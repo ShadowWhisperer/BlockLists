@@ -1,10 +1,10 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 6/18/2020  23:30  (11:30 PM)  - Central Standard Time
-# Creator: ShadowWisperer  (Sean H.)
+# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Creator: ShadowWhisperer  (Sean H.)
 #
-#     Git: git clone https://github.com/ShadowWisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWisperer/BlockLists/zip/master
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 #
@@ -65,21 +65,21 @@ softonic.info                                 #Software Hosting
 #          Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
 #
 
-remitly.com                                   #Money Transfer  (Personally seen in scam case)
-remitly.io                                    #Money Transfer  (Personally seen in scam case)
+remitly.com                            #Money Transfer  (Personally seen in Tech Support scam case)
+remitly.io                             #Money Transfer  (Personally seen in Tech Support scam case)
 
-beeceptor.com                                 #Webhook
-httpreq.com                                   #Webhook
-ironikus.com                                  #Webhook
-requestbin.com                                #Webhook
-requestinspector.com                          #Webhook
-requestwatch.com                              #Webhook
+beeceptor.com                          #Webhook
+httpreq.com                            #Webhook
+ironikus.com                           #Webhook
+requestbin.com                         #Webhook
+requestinspector.com                   #Webhook
+requestwatch.com                       #Webhook
 
-api.c99.nl                                    #Can be used as a port scanner
+api.c99.nl                             #Can be used as a port scanner
 
-pythonanywhere.com                            #Run Python & Bash over the net
+pythonanywhere.com                     #Run Python & Bash over the net
 
-cdn.snipr.gg                                  #Hacking Tool: Credential Stuffing Toolkit
-snipr.gg                                      #Hacking Tool: Credential Stuffing Toolkit
+cdn.snipr.gg                           #Hacking Tool: Credential Stuffing Toolkit
+snipr.gg                               #Hacking Tool: Credential Stuffing Toolkit
 
-godaddysites.com                              #Un-Finished sites - Usually malware (Not always)
+godaddysites.com                       #Un-Finished sites - Usually malware (Not always)
