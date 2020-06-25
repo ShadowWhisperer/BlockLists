@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16654,6 +16654,7 @@ a.exoclick.com
 a.exosrv.com
 af3-prod.ap-southeast-1.elasticbeanstalk.com
 af3.valuepotion.io
+a.f652bb6841571905ec1172dea07d3f95b1812751ca87fa71c82b1b14.com
 afaxon.advance.net
 af.bal.dotandad.com
 afcea.nui.media
@@ -18719,6 +18720,7 @@ apigateway.admicro.vn
 api-gateway.uat.dev.sizmek.com
 api-gateway.us-west-2.elasticbeanstalk.com
 api.gemini.yahoo.com
+api.getadmiral.com
 api.getambassador.com
 api.getui.com
 api-gi.getui.com
@@ -25872,6 +25874,7 @@ cdn.oas-training7.adnxs.com
 cdno.ayads.co
 cdn.okanjo.com
 cdn-omd.adverserve.net
+cdn.omnivirt.com
 cdn.onedigitalad.com
 cdn.onesignal.com
 cdn.onscroll.com
@@ -27040,8 +27043,10 @@ clicklatb.taboola.com
 clicklatb.zorosrv.com
 click.linkprice.com
 click-logger.kxq3x2euih.us-east-1.elasticbeanstalk.com
+click.mail.getadmiral.com
 click.marketing.alignable.com
 click-mdsp.avazutracking.net
+click.m.getadmiral.com
 clickmngr.com
 clickmon.co.kr
 clickmoneysystem.pushcrew.com
@@ -27280,6 +27285,7 @@ clk-use1.c.appier.net
 clk-use3.c.appier.net
 clk-use4.c.appier.net
 clk-usw3.c.appier.net
+cl.mail.getadmiral.com
 clnd-env.us-east-1.elasticbeanstalk.com
 clockskew.alphonso.tv
 cloisteredcord.com
@@ -27295,6 +27301,7 @@ cloud.dev.hbbtv.smartclip.net
 cloud.eclipse.unrulymedia.com
 cloud.etarget.sk
 cloudflare.cdneval.adnxs.com
+cloudflarewh.getadmiral.com
 cloudfront.adflex.vn
 cloudfront.cedexis.com
 cloudfront-dsa-ap.cedexis.com
@@ -30224,6 +30231,7 @@ dashboard.brealtime.com
 dashboard.carambo.la
 dashboard.chartboost.com
 dashboard-dev.tresensa.com
+dashboard.evolveplatform.net
 dashboard.fyber.com
 dashboard.goroost.com
 dashboard.gumgum.com
@@ -30891,6 +30899,7 @@ delivery.adswizz.com
 delivery.advanseads.com
 delivery.adxscope.com
 delivery.altitude-arena.com
+delivery.api.getadmiral.com
 delivery-asia-northeast-1.openx.net
 delivery-asia-northeast-1.servedbyopenx.com
 delivery.a.switchadhub.com
@@ -31412,6 +31421,7 @@ dev.findep.adnow.com
 dev-front-eu-west.adlithium.com
 dev-front-us-east.adlithium.com
 dev.fs.liveperson.com
+dev.getadmiral.com
 dev.getcoopt.com
 dev.gimbal.com
 dev.glow2.facebook-ads.adtz.com
@@ -31436,11 +31446,15 @@ de-videovalis.cdn.videoplaza.tv
 de-videovalis.videoplaza.tv
 de-videovalis.vp.videoplaza.tv
 de.view.adjug.com
+dev.images.getadmiral.com
+dev.images.my.getadmiral.com
 dev.impresionesweb.com
 dev.insightexpressai.com
 dev.insightexpress.com
+dev.instructions.getadmiral.com
 devint-docs.openaudience.openx.com
 devint-docs.openx.com
+dev.internal.getadmiral.com
 dev.internetfuel.com
 devintranet.insightexpress.com
 devinvite.insightexpress.com
@@ -31477,6 +31491,7 @@ dev.mobadvent.com
 dev.mobclix.com
 dev-monitor-dashboard.adscience.nl
 dev.mopub.com
+dev.my.getadmiral.com
 dev.nestlevivaki.facebook-ads.adtz.com
 dev.netaporter-uk.pinterest.adtz.com
 dev.novem.pl
@@ -31552,6 +31567,7 @@ dev.stage.us-east-1.kops.kargo.com
 dev-staging.console.aid.impact-ad.jp
 dev.starcom.facebook-ads.adtz.com
 dev.static.h-bid.com
+dev.stripewh.getadmiral.com
 devsurvey.insightexpress.com
 devsvn.extremereach.com
 dev.taboola.com
@@ -34836,6 +34852,7 @@ evolution-d.openx.net
 evolution.nuggad.net
 evolve.beachfront.com
 evolvemedia-d.openx.net
+evolvemediallc.com
 evolvemedia.servedbyopenx.com
 evonik.netmng.com
 evoucher.pushcrew.com
@@ -35938,6 +35955,7 @@ firstcharme.multimania.com
 firstchoice.pushengage.com
 first-class-and-more.pushengage.com
 firstescape.os.tc
+firstfrogs.com
 first-impression.com
 firstimpression-d.openx.net
 firstimpression.io
@@ -37878,6 +37896,7 @@ getfastads.com
 get.funnelenvy.com
 getglasses-com-au.b.appier.net
 getgo.test.expertcity.com
+gethatch.com
 gethealthyu.pushengage.com
 getintent.com
 getitfree.adlegend.com
@@ -41744,6 +41763,7 @@ internal.cpcempower.com
 internal-dashboard-08-az.braze.com
 internal.dev.kargo.com
 internal.docker.adsrvr.org
+internal.getadmiral.com
 internal.intentmedia.net
 internal.mpx.mopub.com
 internalproductblog.doubleverify.com
@@ -48932,6 +48952,7 @@ myfiles.nexage.com
 myflaviaus.adlegend.com
 mygardenway.pushengage.com
 mygermantimes.onesignal.com
+my.getadmiral.com
 my.getambassador.com
 mygiftcardsplus.7eer.net
 mygoaltv.onesignal.com
@@ -50321,6 +50342,7 @@ notifications-e1.veinteractive.com
 notification-service.adtelligent.com
 notifications.liveperson.com
 notification.smartadserver.com
+notifications-pa.googleapis.com
 notifications.pdk1.silverpop.com
 notifications-pusher.gog.com
 notifications-pusher-server-4.gog.com
@@ -50986,6 +51008,7 @@ o1.email.rubiconproject.com
 o1.email.unbounce.com
 o1.email.vungle.com
 o1.email.yext.com
+o1.emm.mail.getadmiral.com
 o1.inviziads.com
 o1.notification.popads.net
 o1.sg.marketing.alignable.com
@@ -50993,6 +51016,7 @@ o2.adocean.pl
 o2cdn.automatad.com
 o2.email.applovin.com
 o2pl.nuggad.net
+o2.postmaster.m.getadmiral.com
 o2.sg.marketing.alignable.com
 o333o.com
 o3.email.applovin.com
@@ -51153,6 +51177,7 @@ oauth2.gmx.net
 oauth2-proxy.kube-dev1.smartly.io
 oauth2.pursuanthealth.com
 oauth.adtoox.com
+oauth.getadmiral.com
 oauth.tapjoy.com
 ob2127.ladc1.outbrain.com
 ob2127.ladc1.outbrain.de
@@ -51525,6 +51550,7 @@ omniscientfeeling.com
 omniscientspark.com
 omni.springserve.com
 omnistudio.intellicontact.com
+omnivirt.com
 om.nuggad.net
 omo.adsplay.xyz
 omr-by.accengage.net
@@ -53096,6 +53122,7 @@ partnerad.l.google.com
 partner.admixer.co.kr
 partnerads.ysm.yahoo.com
 partner.alignable.com
+partner.api.getadmiral.com
 partner.applift.com
 partner.beta.channeladvisor.com
 partner.ebis.ne.jp
@@ -53194,6 +53221,7 @@ paxil.1.p2l.info
 pay4results.ee
 paycount.com
 payfort.pushengage.com
+pay.getadmiral.com
 payload.yieldbuild.com
 paymenteye.pushcrew.com
 payments2.rockyou.com
@@ -56856,6 +56884,7 @@ qudt3r.auto.drivealexus.com
 quebecbdsm.multimania.com
 quebecor-d.openx.net
 quedufion.multimania.com
+query.api.getadmiral.com
 query.silverpush.co
 questex.adbureau.net
 questex-admin.adbureau.net
@@ -60515,6 +60544,7 @@ seal.globalsign.com
 seal.godaddy.com
 seal-goldengate.bbb.org
 seal-houston.bbb.org
+seal-iowa.bbb.org
 seal-louisville.bbb.org
 seal-minnesota.bbb.org
 seal-ms.bbb.org
@@ -60666,6 +60696,7 @@ secure.api.admin.zmags.com
 secure.api.viewer.zmags.com
 secure.applifier.com
 secure-app.mediaplex.com
+secureassets.evolvemediallc.com
 secure-assets.rubiconproject.com
 secure.avangate.com
 secure.ayads.co
@@ -61001,6 +61032,7 @@ sensu.amobee.com
 sentry.adthrive.com
 sentry.ayads.co
 sentry.connatix.com
+sentry.getadmiral.com
 sentry.mopub.com
 sentry.skimlinks.com
 sentry.taptica.com
@@ -61563,6 +61595,7 @@ sg-purplestream.a.videoplaza.tv
 sg-purplestream.cdn.videoplaza.tv
 sg.rayjump.com
 sgreen.erne.co
+sgreporting.getadmiral.com
 sgrglobal.mc.tritondigital.com
 sgrtb.onedigitalad.com
 sgs001.adtech.de
@@ -63192,6 +63225,7 @@ spkcjuly.pushcrew.com
 spl1.ha1.yumenetworks.com
 spl1.yumenetworks.com
 spl2.yumenetworks.com
+splash.getadmiral.com
 splash-screen-data.voodoo-ads.io
 splash-screen.voodoo-ads.io
 splat.tresensa.com
@@ -63875,6 +63909,7 @@ staging2.nyc2.do.pushcrew.com
 staging.42matters.com
 staging5.dev.tapjoy.com
 staging.5rocks.io
+staging.accounts.api.getadmiral.com
 staging-ad.adacado.com
 staging-adc.bidswitch.com
 staging.adcolony.com
@@ -63922,8 +63957,10 @@ staging.d1.impact-ad.jp
 staging-dashboard.pushengage.com
 staging-dau.fyber.com
 staging-de.indexexchange.com
+staging.delivery.api.getadmiral.com
 staging-dmp.adotmob.com
 staging.d.msas.media.net
+staging.docs.getadmiral.com
 staging-dsp.adotmob.com
 staging.duo.adroll.com
 staging.engine.adsupply.com
@@ -63934,16 +63971,21 @@ staging.fiksu.com
 staging.firstimpression.io
 staging.forecast.snapads.com
 staging-fr.indexexchange.com
+staging.getadmiral.com
 staging.goodwaygroup.com
 staging.iam.inmobi.com
 staging-ib.3lift.com
 staging.iframe.sponsorpay.com
+staging.images.getadmiral.com
+staging.images.my.getadmiral.com
 staging.img.ak.impact-ad.jp
 staging.impact-ad.jp
 staging.imprev.net
 staging.inner-active.mobi
 staging.insightexpressai.com
 staging.insightexpress.com
+staging.instructions.getadmiral.com
+staging.internal.getadmiral.com
 staging-interstitial-broker.fyber.com
 staging-ios-devportal.fyber.com
 staging-it.indexexchange.com
@@ -63957,11 +63999,14 @@ staging.mantisadnetwork.com
 staging.maxpoint.com
 staging-mediation.fyber.com
 stagingmint.firstimpression.io
+staging.my.getadmiral.com
 stagingnyc.pubmatic.com
 staging-ofw-client-cdn.fyber.com
 staging.onead.com.tw
 staging.outcome.snapads.com
 staging.paperg.com
+staging.partner.api.getadmiral.com
+staging.pay.getadmiral.com
 staging-pb.vizury.com
 staging.penta.a.one.impact-ad.jp
 staging.picreel.com
@@ -63970,6 +64015,7 @@ staging.p.msas.media.net
 staging.prebid.org
 staging.presage.io
 staging.pu.msas.media.net
+staging.query.api.getadmiral.com
 staging-reporting-gc.adgear.com
 staging.reporting.staging.trader.adgear.com
 stagingreports.levexis.com
@@ -63988,6 +64034,7 @@ staging-site.mediavine.com
 staging.sizmek.com
 staging-social.mixpo.com
 staging-ss.onesignal.com
+staging.storage.getadmiral.com
 staging-story.lokaplatform.com
 staging.streamate.doublepimp.com
 staging-strtrk.adacado.com
@@ -64525,6 +64572,7 @@ status.chartboost.com
 status.corp.sonobi.com
 status-cpo.adflex.vn
 status.curalate.com
+status.getadmiral.com
 status.gimbal.com
 status.green-red.com
 status.hubvisor.io
@@ -64789,6 +64837,7 @@ stringers.advance.net
 stringg.multimania.com
 stripedburst.com
 stripe.rs-stripe.com
+stripewh.getadmiral.com
 stripsi.vidible.tv
 strips.prod.vidible.tv
 strips.stage.vidible.tv
@@ -68783,6 +68832,7 @@ upload.adtech.us
 upload.connatix.com
 upload.cpcempower.com
 upload.mobpowertech.com
+upload.omnivirt.com
 upload.s4m.io
 uploads.adbucks.com
 upload.salmonads.com
@@ -71629,6 +71679,7 @@ webfiles.adswizz.com
 webfinance-d.openx.net
 web.garnet.synacor.com
 webgems.popunder.ru
+web.getadmiral.com
 webgroundbg.adocean.pl
 web.hb.ad.cpe.dotomi.com
 webhook-api.kube-prod1.smartly.io
@@ -73827,6 +73878,7 @@ zb.bitterstrawberry.org
 zb.cpcempower.com
 z.blogads.com
 zbs.adriver.ru
+zbuckz.com
 zbwp6ghm.com
 zc1.delta-boa.com
 zc2ab26b8.webengage.co

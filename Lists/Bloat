@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -435,7 +435,11 @@ td.airdroid.com                                         #Android  [App]   AirDro
 uc-file.airdroid.com                                    #Android  [App]   AirDroid
 web.airdroid.com                                        #Android  [App]   AirDroid
 dolphin-browser.com                                     #Android  [App]   Dolphin Browser
+androidapi.mxplay.com                                   #Android  [App]   MXplayer
+androidc.mxplay.com                                     #Android  [App]   MXplayer
 clmbtech.com                                            #Android  [App]   MXplayer
+i.mxplayer.j2inter.com                                  #Android  [App]   MXplayer
+mxase.clmbtech.com                                      #Android  [App]   MXplayer
 mxplay.com                                              #Android  [App]   MXplayer
 mxplayer.j2inter.com                                    #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com                #Android  [App]   MXplayer
@@ -540,5 +544,6 @@ d3699v4tsyfjnd.cloudfront.net                           #Android  [Game Engine] 
 unity3d.com                                             #Android  [Game Engine]   Unity 3D
 aptoide.com                                             #Android  [APK Downloads]
 
-start.ubuntu.com                                        #Ubuntu - Default Browser Homepage
+ipv4.connman.net                                        #Arch / Others - Internet Access Check
 connectivity-check.ubuntu.com                           #Ubuntu - Internet Access Check
+start.ubuntu.com                                        #Ubuntu - Default Browser Homepage

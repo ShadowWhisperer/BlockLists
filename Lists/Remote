@@ -1,6 +1,6 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -17,6 +17,7 @@ anchor.attremotesupport.com
 anydesk.com
 anyplace-control.com
 asia.remotepc.com
+assets.cdngetgo.com
 atlanta.remotepc.com
 attremotesupport.com
 auckland.remotepc.com
@@ -45,6 +46,7 @@ calgary.remotepc.com
 california.remotepc.com
 canada.remotepc.com
 capetown.remotepc.com
+cdngetgo.com
 charlotte.remotepc.com
 chennai.remotepc.com
 chicago.remotepc.com
@@ -83,6 +85,7 @@ get.gotomypc.com.logmein.com.akadns.net
 getscreen.me
 glancecdn.net
 gotoassist.com
+goto.com
 gotomanage.com
 gotomypc.com
 guadalajara.remotepc.com
@@ -99,6 +102,7 @@ id.remoteutilities.com
 indianapolis.remotepc.com
 instance-emtnco-relay.screenconnect.com
 instance-g4cvrp-relay.screenconnect.com
+instance-nujmoy-relay.screenconnect.com
 instanthousecall.com
 instanthousecall.net
 instantsupport.help
@@ -263,12 +267,28 @@ support.gbstech.com
 supportmart.nexus.support.com
 support.me
 supremocontrol.com
+supremogw10.nanosystems.it
+supremogw12.nanosystems.it
+supremogw13.nanosystems.it
+supremogw14.nanosystems.it
+supremogw15.nanosystems.it
+supremogw1.nanosystems.it
+supremogw25.nanosystems.it
+supremogw2.nanosystems.it
+supremogw32.nanosystems.it
+supremogw39.nanosystems.it
+supremogw3.nanosystems.it
 supremogw40.nanosystems.it
 supremogw43.nanosystems.it
 supremogw44.nanosystems.it
 supremogw45.nanosystems.it
 supremogw46.nanosystems.it
+supremogw4.nanosystems.it
 supremogw53.nanosystems.it
+supremogw61.nanosystems.it
+supremogw6.nanosystems.it
+supremogw7.nanosystems.it
+supremogw9.nanosystems.it
 sydney.remotepc.com
 tampa.remotepc.com
 taos.remotepc.com

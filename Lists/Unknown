@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -79,7 +79,6 @@ bo.promotions.skype.com            #Skype
 vliplatform.com              #viPlayer  (elblogdelnarco.com)
 ptest.ysm.yahoo.com              #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
-pipedream.wistia.com        #Wistia
 wistia.com                  #Wistia
 thumb-cf.flixcdn.com            #Xhamster (Adult)
 thumbs.nosto.com            # (CrossBreedHolsters.com)
@@ -87,6 +86,9 @@ userwave.com                #(Either Ad or Malware)  *Broken Links on homepage
 xml.userwave.com            #(Either Ad or Malware)  *Broken Links on homepage
 goodnotification.net        #(Either Ad or Malware)  *Claims to be Adsaro
 2agshdqwvcqs.website        #(Either Ad or Malware)  *Owned by Data-Cash
+bj.byteweb.it               #(Either Ad or Malware)  *Redirected site to scam page (bestprizesday2.life)
+pornwave.com                #(Either Ad or Malware)  *Redirected site to malware page (watchmygirlfriend.to)
+prwidgets.com               #(Either Ad or Malware)  *Redirected site to malware page (watchmygirlfriend.to)
 t.grtyi.com                 #(Either Ad or Malware)  *Adult List
 t.hrtya.com                 #(Either Ad or Malware)  *Adult List
 t.irtyf.com                 #(Either Ad or Malware)  *Adult List
@@ -368,6 +370,7 @@ app.launchdarkly.com
 charles.huqindustries.co.uk
 cm.adsafety.net
 c.zrcir.com
+d3js.org
 dotdash.map.fastly.net
 dtzbdy9anri2p.cloudfront.net
 ecdn.analysis.fi
@@ -798,6 +801,7 @@ lrs.netgear.com                                  #NetGear
 countly.netgear.com                              #NetGear
 prod.online.pos.svc.ovi.com                    #Nokia
 fire-base.com                                #Norton
+nag.norton.com                               #Norton
 upload1.symantec.com                         #Norton
 upload2.symantec.com                         #Norton
 upload3.symantec.com                         #Norton
@@ -864,7 +868,6 @@ api.vsco.co                                    #Vsco
 p.vsco.co                                      #Vsco
 sts3.wsj.net                                 #Wall Street Journal
 vir.wsj.net                                  #Wall Street Journal
-secure.img1-ag.wfcdn.com                          #WayFair
 gapi.waze.com                               #Waze
 social-na.waze.com                          #Waze
 wazespeechactiviation-pa.googleapis.com     #Waze

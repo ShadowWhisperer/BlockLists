@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -113,9 +113,12 @@ updates.bravesoftware.com                     #Browser
 adblockplus.org                               #Browser Extension
 adtidy.org                                    #Browser Extension
 adzero.org                                    #Browser Extension
+auth.grammarly.com                            #Browser Extension
 bleengo.com                                   #Browser Extension
 chrome.adtidy.org                             #Browser Extension
+data.grammarly.com                            #Browser Extension
 gingersoftware.com                            #Browser Extension
+gnar.grammarly.com                            #Browser Extension
 grammarly.com                                 #Browser Extension
 grammarly.io                                  #Browser Extension
 notification.adblockplus.org                  #Browser Extension
