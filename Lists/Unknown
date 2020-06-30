@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/26/2020  15:34  (3:34 PM)  - Central Standard Time
+# Updated: 6/30/2020  08:35  (8:35 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -205,6 +205,7 @@ gierfi.com                          #Either Parked or Malware. Re-directed to "Ä
 qiqiww.com                              #Defunct ? (Flagged by Sophos)
 api.timeforagreement.com            #From known malware/scam -- awajl.hoesforyou.net --> track.clickchewer.com --> unitedflings.com --> 'timeforagreement.com'
 timeforagreement.com                #From known malware/scam -- awajl.hoesforyou.net --> track.clickchewer.com --> unitedflings.com --> 'timeforagreement.com'
+benrubigallery.com             #Looks like normal site. Google links redirect to malware domains
 126.am
 adsleading.com
 affiliates.adsleading.com
@@ -216,6 +217,7 @@ netpatas.com
 ofphanpytor.com
 page.geniusdisplay.com
 redirectmaster.com
+supersimpletools.com
 
 
 #############################
@@ -729,10 +731,7 @@ mannequin.storage.googleapis.com               #Google
 mobilenetworkscoring-pa.googleapis.com         #Google
 oauthaccountmanager.googleapis.com             #Google
 ocsp.pki.goog                                  #Google
-op-s.storage.googleapis.com                    #Google
 op-u.storage.googleapis.com                    #Google
-or-s.storage.googleapis.com                    #Google
-os-d.storage.googleapis.com                    #Google
 os-u.storage.googleapis.com                    #Google
 page.link                                      #Google
 phonedeviceverification-pa.googleapis.com      #Google

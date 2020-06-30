@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 6/26/2020  15:34  (3:34 PM)  - Central Standard Time
+# Updated: 6/30/2020  08:35  (8:35 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -10305,6 +10305,7 @@ api.urbanairship.com
 api-us-east.maxmind.com
 api-us-east.zqtk.net
 api.useproof.com
+api.userleap.com
 api.userreport.com
 api-users.globalwebindex.net
 api-us.gameanalytics.com
@@ -13838,7 +13839,6 @@ bolde02.webtrekk.net
 bolegames.helpshift.com
 bolero.wemfbox.ch
 boligweb.evergage.com
-bolt-gcdn.sc-cdn.net
 bolton.nessie.neodatagroup.com
 bombora.com
 bombora-electronics.t.domdex.com
@@ -15864,6 +15864,7 @@ cdn.umeng.com
 cdn.us1.gigya.com
 cdn-usent.kampyle.com
 cdn.useproof.com
+cdn.userleap.com
 cdn.userreplay.net
 cdn.userreport.com
 cdn.uservoice.com
@@ -16131,6 +16132,7 @@ charger.trbo.com
 charger-v2.trbo.com
 charlestonnationalgolf.privy.com
 charlotterusse.btttag.com
+chartable.com
 chartbeat.com
 chartbeat.net
 chartdata.service.newrelic.com
@@ -16286,6 +16288,7 @@ chrysler.sophus3.com
 chs-ca.rtrk.com
 ch.shop.pricespider.com
 chs.smartclick.net
+chtbl.com
 chtblog.adx1.com
 ch-trc-events.taboola.com
 chuanyang-cm.cn.miaozhen.com
@@ -32492,7 +32495,6 @@ images.dyn.perfectaudience.com
 images.effectivemeasure.net
 images.esellerpro.com
 images.eu.criteo.net
-images.eurooptic.com
 images.exacttarget.com
 images.fifty.io
 images.fitanalytics.com
@@ -43525,6 +43527,7 @@ northrop.saas.appdynamics.com
 northwave.commander1.com
 norton-app.quantummetric.com
 norvos-cdn.polarmobile.com
+no-services.theknot.com
 nossl.aafp.org
 nosto.com
 no-stress.justclick.ru
@@ -60597,6 +60600,7 @@ stats.defense.gov
 stats.deloitte.com
 stats.deltavacations.com
 stats.deutschlandsim.de
+stats-dev.brid.tv
 stats.developingperspective.com
 stats.df-srv.de
 stats.dice.com
@@ -69766,6 +69770,7 @@ user-event-tracker.crazyegg.com
 userflows.ingest.crittercism.com
 user.gcion.com
 userlabel.ksmobile.net
+userleap.com
 userlocation.googleapis.com
 userlytics.agilecrm.com
 user-management.service.newrelic.com
@@ -71384,6 +71389,7 @@ webbling.matomo.cloud
 webcare.byside.com
 webcat02.r01.dev.openstat.com
 webchat.helpshift.com
+web.chtbl.com
 web.ciradar.com
 web-ci.urbanairship.com
 web.click.org
@@ -71480,6 +71486,7 @@ web.elephant.co.uk
 webetseo.mpnrs.com
 web.facebook.com.kachvam.xyz.adx1.com
 web-feet.iptrack.io
+web-frontend-dot-sc-analytics.appspot.com
 webgains.com
 webgames-a.focalex.com
 webgames.focalex.com

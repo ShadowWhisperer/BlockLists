@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 6/26/2020  15:34  (3:34 PM)  - Central Standard Time
+# Updated: 6/30/2020  08:35  (8:35 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -63,6 +63,10 @@ api.followistic.com                 #Webpage Integration - Email Notifications
 static.followistic.com              #Webpage Integration - Email Notifications
 addtoany.com                        #Webpage Integration - Social Media (Universal Sharing)
 static.addtoany.com                 #Webpage Integration - Social Media (Universal Sharing)
+likebtn.com                         #Webpage Integration - Social Media (Like Button)
+pv.likebtn.com                      #Webpage Integration - Social Media (Like Button)
+wi.likebtn.com                      #Webpage Integration - Social Media (Like Button)
+w.likebtn.com                       #Webpage Integration - Social Media (Like Button)
 addnow.com                          #Webpage Integration - Social Media
 addthiscdn.com                      #Webpage Integration - Social Media
 addthis.com                         #Webpage Integration - Social Media
