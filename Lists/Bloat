@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 6/30/2020  08:35  (8:35 AM)  - Central Standard Time
+# Updated: 7/2/2020  14:49  (2:49 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -289,17 +289,8 @@ safebrowsing.googleapis.com                             #Google  Safe Browsing
 safebrowsing.google.com                                 #Google  Safe Browsing
 safebrowsing.googleusercontent.com                      #Google  Safe Browsing
 forcesafesearch.google.com                              #Google  Safe Search
-alt1-mtalk.google.com                                   #Google   Talk
-alt2-mtalk.google.com                                   #Google   Talk
-alt3-mtalk.google.com                                   #Google   Talk
-alt4-mtalk.google.com                                   #Google   Talk
-alt5-mtalk.google.com                                   #Google   Talk
-alt6-mtalk.google.com                                   #Google   Talk
-alt7-mtalk.google.com                                   #Google   Talk
-alt8-mtalk.google.com                                   #Google   Talk
 mobile-gtalk.l.google.com                               #Google   Talk
 mtalk4.google.com                                       #Google   Talk
-mtalk.google.com                                        #Google   Talk
 talk.google.com                                         #Google   Talk
 talkx.l.google.com                                      #Google   Talk
 app.goo.gl                                              #Google
@@ -313,7 +304,6 @@ clients5.google.com                                     #Google
 clientservices.googleapis.com                           #Google
 clients.l.google.com                                    #Google
 cloudconfig.googleapis.com                              #Google
-cse.google.com                                          #Google
 cuscochromeextension-pa.googleapis.com                  #Google
 desktop1.google.com                                     #Google
 desktop2.google.com                                     #Google

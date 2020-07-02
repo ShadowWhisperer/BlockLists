@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 6/30/2020  08:35  (8:35 AM)  - Central Standard Time
+# Updated: 7/2/2020  14:49  (2:49 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -66,7 +66,6 @@ ioninteractive.com            #Ion Interactive
 tpx.everquote.com                 #MSN
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
-keywee.co                      #Keywee
 fpdbs.paypal.com                  #Paypal (Logo?)
 api.queryly.com                   #Queryly
 queryly.com                       #Queryly
@@ -175,10 +174,6 @@ abtshield.com              #ABT Shield
 cdn.snippet.abtshield.com  #ABT Shield
 d1.abtshield.com           #ABT Shield
 datadome.co                #DataDome
-perimeterx.com             #PerimeterX, Inc.
-perimeterx.net             #PerimeterX, Inc.
-px-cdn.net                 #PerimeterX, Inc.
-pxchk.net                  #PerimeterX, Inc.
 agentanalytics.com         #White Ops, Inc
 imganalytics.com           #White Ops, Inc
 static.tagsrvcs.com        #White Ops, Inc
@@ -210,7 +205,6 @@ benrubigallery.com             #Looks like normal site. Google links redirect to
 adsleading.com
 affiliates.adsleading.com
 e2ertt.com
-exlusepolly.com
 geniusdisplay.com
 itpatratr.com
 netpatas.com
@@ -399,6 +393,7 @@ tockance.com
 trackuhub.com
 universal.iper2.com
 zrcir.com
+exlusepolly.com
 
 
 #############################
@@ -569,6 +564,7 @@ audioeye.com                                   #AudioEye
 cdn.audioeye.com                               #AudioEye
 d5c8kzvnetr32.cloudfront.net                   #AudioEye
 ws.audioeye.com                                #AudioEye
+wsmcdn.audioeye.com                            #AudioEye
 wsv3cdn.audioeye.com                           #AudioEye
 auth.ff.avast.com                        #Avast / AVG
 config.nos.avast.com                     #Avast / AVG
@@ -638,7 +634,6 @@ star.c10r.facebook.com                       #FaceBook
 star-mini.c10r.facebook.com                  #FaceBook
 t.update.fbsbx.com                           #Facebook
 s9.gp1.wac.gammacdn.net                        #FedEx
-b.fox.com                                          #Fox News
 foxbusinessp.factsetdigitalsolutions.com           #Fox News
 h20255.www2.hp.com                             #HP
 instagram.c10r.facebook.com              #Instagram

@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 6/19/2020  23:08  (11:08 PM)  - Central Standard Time
+# Updated: 7/2/2020  14:49  (2:49 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -26,6 +26,8 @@ te.eg                                         #ISP    Worst Botnet   Oct. 2019
 vnnic.vn                                      #ISP    Worst Botnet   Oct. 2019
 zx.nl                                         #ISP    Worst Botnet   Feb. 2020
 
+ghlc.biz                                      #ISP    Worst Spam     Jun. 2020
+inter-cloud.tech                              #ISP    Worst Spam     Jun. 2020
 chinaccs.cn                                   #ISP    Worst Spam     May. 2020
 fink.org                                      #ISP    Worst Spam     May. 2020
 fos-vpn.org                                   #ISP    Worst Spam     Apr. 2020
@@ -55,6 +57,8 @@ oovoo.com                                     #Software Hosting
 qarchive.org                                  #Software Hosting
 softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
+
+taskernet.com                                 #Android [APP] Tasker - Allows custom scripts to run in the background on a schedule
 
 
 
