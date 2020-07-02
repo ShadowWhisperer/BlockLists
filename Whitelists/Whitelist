@@ -1,4 +1,3 @@
-
 appleid.apple.com.akadns.net      #Apple - App Store - Login
 appleid.cdn-apple.com             #Apple - App Store - Login
 ax.init.itunes.apple.com          #Apple - App Store
@@ -180,6 +179,15 @@ video-ort1-1.xx.fbcdn.net                  # Social Media - Facebook
 video-ort2-2.xx.fbcdn.net                  # Social Media - Facebook
 video-ort2-3.xx.fbcdn.net                  # Social Media - Facebook
 api.pinterest.com                          # Social Media - Pinterest
+mtalk.google.com                           # Social Media - SnapChat (Breaks Notifications)
+alt1-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt2-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt3-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt4-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt5-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt6-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt7-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
+alt8-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
 api.twitter.com                            # Social Media - Twitter
 pbs.twimg.com                              # Social Media - Twitter - Images
 twitter.com                                # Social Media - Twitter
@@ -229,7 +237,6 @@ api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 
 # Breaks Some Sites
 ########################
-imasdk.googleapis.com        #Ads - Breaks 'independent.co.uk' Videos
 lddy.no                      #Marketing - Breaks Links
 pjtra.com                    #Marketing - Breaks Links
 shareasale.com               #Marketing - Breaks Links
