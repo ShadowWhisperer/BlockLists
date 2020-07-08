@@ -14,7 +14,7 @@
     Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
     Remote           Domains used by software to remotely control your stuff  
     Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-    Scam             Fake / Misleading Sites - Not malware  
+    Scam             Fraud / Fake / Misleading Sites - Not malware  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
     Suspicious       Domains I am uncertain of. Contains a mixture of possible Ads, Trackers, Malware  
     Top_Level        Top Level Domains: Will block most non-traditional domains  
