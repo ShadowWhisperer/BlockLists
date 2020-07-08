@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 7/2/2020  14:49  (2:49 PM)  - Central Standard Time
+# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -37,6 +37,9 @@ zzidc.com                                     #ISP    Worst Spam     Feb. 2020
 kornet.net                                    #ISP    Worst Spam     Oct. 2019
 moldtelecom.md                                #ISP    Worst Spam     Oct. 2019
 airtel.in                                     #ISP    Worst Spam     Feb. 2019
+
+
+aapks.com                                     #APK Hosting (Android Apps)
 
 apponic.com                                   #Software Hosting
 avanquest.com                                 #Software Hosting

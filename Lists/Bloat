@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 7/2/2020  14:49  (2:49 PM)  - Central Standard Time
+# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -18,6 +18,7 @@ use.typekit.net                                 #Font    Adobe
 file.myfontastic.com                            #Font  Fontastic.me
 fontastic.me                                    #Font  Fontastic.me
 myfontastic.com                                 #Font  Fontastic.me
+fontplus.aem.kao.com                            #Font  FontPlus (Softbank Tech Corp.) Marketing / Analytics
 fonts.gstatic.com                               #Font  Google
 fonts.googleapis.com                            #Font  Google
 f.kinja-static.com                              #Font     Kinja
@@ -45,6 +46,7 @@ fonts.foxsports.com                             #Font     Specific
 fonts.intercomcdn.com                           #Font     Specific
 fonts.iu.edu                                    #Font     Specific
 fonts.jimstatic.com                             #Font     Specific
+fonts.ngeo.com                                  #Font     Specific
 fonts.sidearmsports.com                         #Font     Specific
 fonts.sony.net                                  #Font     Specific
 fonts.staticworld.net                           #Font     Specific
@@ -288,11 +290,11 @@ safebrowsing.cache.l.google.com                         #Google  Safe Browsing
 safebrowsing.googleapis.com                             #Google  Safe Browsing
 safebrowsing.google.com                                 #Google  Safe Browsing
 safebrowsing.googleusercontent.com                      #Google  Safe Browsing
-forcesafesearch.google.com                              #Google  Safe Search
-mobile-gtalk.l.google.com                               #Google   Talk
-mtalk4.google.com                                       #Google   Talk
-talk.google.com                                         #Google   Talk
-talkx.l.google.com                                      #Google   Talk
+forcesafesearch.google.com                              #Google    Safe Search
+mobile-gtalk.l.google.com                               #Google  Talk
+mtalk4.google.com                                       #Google  Talk
+talk.google.com                                         #Google  Talk
+talkx.l.google.com                                      #Google  Talk
 app.goo.gl                                              #Google
 assistant.google.com                                    #Google
 cast.google.com                                         #Google

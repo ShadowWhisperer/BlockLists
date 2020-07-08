@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 6/30/2020  08:35  (8:35 AM)  - Central Standard Time
+# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -256,6 +256,7 @@ dp2manifester.ampsvc.com                      #Software - WildTangent Games
 manifester.ampsvc.com                         #Software - WildTangent Games
 wildgames.com                                 #Software - WildTangent Games
 wildtangent.com                               #Software - WildTangent Games
+api.api.winzip.com                            #Software - Winzip
 winzip.com                                    #Software - Winzip
 kingsoft-office-service.com                   #Software - WPS Office
 kingsoftstore.com                             #Software - WPS Office
