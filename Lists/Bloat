@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
+# Updated: 7/9/2020  16:31  (4:31 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -58,47 +58,90 @@ g1.nyt.com                                      #Font     Specific
 gel.files.bbci.co.uk                            #Font     Specific
 static-web-assets.gnl-common.bbcverticals.com   #Font     Specific
 
-videodownloaderultimate.com         #Browser Extension - Video Downloader Professional
+brazzerssurvey.com                              #Survey
+inmoment.com                                    #Survey
+lb.polldaddy.com                                #Survey
+opinionbar.com                                  #Survey
+polldaddy.com                                   #Survey
+poll.fm                                         #Survey
+riddle.com                                      #Survey
+samplicio.us                                    #Survey
+secure.polldaddy.com                            #Survey
+survey.io                                       #Survey
+surveyrouter.com                                #Survey
+tns-gallup.dk                                   #Survey
+ups.surveyrouter.com                            #Survey
+you-cubez.com                                   #Survey
+amdsurveys.com                                  #Survey - AMD
+d2yyd1h5u9mauk.cloudfront.net                   #Survey - Delighted
+delighted.com                                   #Survey - Delighted
+getfeedback.com                                 #Survey - Get Feedback
+websites.cdn.getfeedback.com                    #Survey - Get Feedback
+hpsasudf.ext.hp.com                             #Survet - HP
+survey.instagram.com                            #Survey - Instagram
+iteratehq.com                                   #Survey - Iterate
+globaltestmarket.com                            #Survey - Life Points
+lifepointspanel.com                             #Survey - Life Points
+demographics.neat.com                           #Survey - Neat Scanner
+nicequest.com                                   #Survey - Nicequest
+survey.nicequest.com                            #Survey - Nicequest
+research.net                                    #Survey - Research
+d2bnxibecyz4h5.cloudfront.net                   #Survey - Survey Gizmo
+surveygizmo.com                                 #Survey - Survey Gizmo
+surveyking.com                                  #Survey - Survery Kings
+survey-kings.com                                #Survey - Survery Kings
+surveymonkey-assets.s3.amazonaws.com            #Survey - Survey Monkey
+surveymonkey.com                                #Survey - Survey Monkey
+surveymonkey.de                                 #Survey - Survey Monkey
+usabilla.com                                    #Survey - Survey Monkey (usabilla)
+survicate.com                                   #Survey - Survicate
+survey.webrootanywhere.com                      #Survey - Webroot
+yesinsights.com                                 #Survey - Yes Insights
+questionpro.com                                 #Survey - Question Pro
+surveys.questionpro.com                         #Survey - Question Pro
 
-followistic.com                     #Webpage Integration - Email Notifications
-api.followistic.com                 #Webpage Integration - Email Notifications
-static.followistic.com              #Webpage Integration - Email Notifications
-addtoany.com                        #Webpage Integration - Social Media (Universal Sharing)
-static.addtoany.com                 #Webpage Integration - Social Media (Universal Sharing)
-likebtn.com                         #Webpage Integration - Social Media (Like Button)
-pv.likebtn.com                      #Webpage Integration - Social Media (Like Button)
-wi.likebtn.com                      #Webpage Integration - Social Media (Like Button)
-w.likebtn.com                       #Webpage Integration - Social Media (Like Button)
-addnow.com                          #Webpage Integration - Social Media
-addthiscdn.com                      #Webpage Integration - Social Media
-addthis.com                         #Webpage Integration - Social Media
-addthisedge.com                     #Webpage Integration - Social Media
-linksalpha.com                      #Webpage Integration - Social Media
-media.line.naver.jp                 #Webpage Integration - Social Media
-opensharecount.com                  #Webpage Integration - Social Media
-pluso.ru                            #Webpage Integration - Social Media
-s7.addthis.com                      #Webpage Integration - Social Media
-share.pluso.ru                      #Webpage Integration - Social Media
-sharethis.com                       #Webpage Integration - Social Media
-sharethis.net                       #Webpage Integration - Social Media
-static1.twitcount.com               #Webpage Integration - Social Media
-static.zotabox.com                  #Webpage Integration - Social Media
-twitcount.com                       #Webpage Integration - Social Media
-uptolike.com                        #Webpage Integration - Social Media
-zotabox.com                         #Webpage Integration - Social Media
-powr.io                             #Webpage Integration - Social Media / Other Plugins
-accountkit.com                      #Webpage Integration - Login to an existing accounts on other sits
-sdk.snapkit.com                     #Webpage Integration - Login to an existing accounts on other sits
+videodownloaderultimate.com                          #Browser Extension - Video Downloader Professional
 
+followistic.com                                         #Webpages - Email Notifications
+api.followistic.com                                     #Webpages - Email Notifications
+static.followistic.com                                  #Webpages - Email Notifications
 licensebuttons.net                                      #Webpages - Icon
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com      #Webpages - Icon (licensebuttons.net)
 i.creativecommons.org                                   #Webpages - Icon (licensebuttons.net)
 donorbox.org                                            #Webpages - Icon (Donate Button)
 d1sssn74k2rfxk.cloudfront.net                           #Webpages - Icon (Donate Button)
 s3.feedly.com                                           #Webpages - Icon (Follow Page)
-images.dmca.com                                         #Webpages - Logo (Digital Millennium Copyright Act )
+addtoany.com                                            #Webpages - Social Media (Universal Sharing)
+static.addtoany.com                                     #Webpages - Social Media (Universal Sharing)
+likebtn.com                                             #Webpages - Social Media (Like Button)
+pv.likebtn.com                                          #Webpages - Social Media (Like Button)
+wi.likebtn.com                                          #Webpages - Social Media (Like Button)
+w.likebtn.com                                           #Webpages - Social Media (Like Button)
+addnow.com                                              #Webpages - Social Media
+addthiscdn.com                                          #Webpages - Social Media
+addthis.com                                             #Webpages - Social Media
+addthisedge.com                                         #Webpages - Social Media
+linksalpha.com                                          #Webpages - Social Media
+media.line.naver.jp                                     #Webpages - Social Media
+opensharecount.com                                      #Webpages - Social Media
+pluso.ru                                                #Webpages - Social Media
+s7.addthis.com                                          #Webpages - Social Media
+share.pluso.ru                                          #Webpages - Social Media
+sharethis.com                                           #Webpages - Social Media
+sharethis.net                                           #Webpages - Social Media
+static1.twitcount.com                                   #Webpages - Social Media
+static.zotabox.com                                      #Webpages - Social Media
+twitcount.com                                           #Webpages - Social Media
+uptolike.com                                            #Webpages - Social Media
+zotabox.com                                             #Webpages - Social Media
+powr.io                                                 #Webpages - Social Media / Other Plugins
+browser-update.org                                      #Webpages - Checks Browser Version
+accountkit.com                                          #Webpages - Login to an existing accounts on other sites
+sdk.snapkit.com                                         #Webpages - Login to an existing accounts on other sites
+copypoison.com                                          #Webpages - Prevent copying of text on a page
+speakpipe.com                                           #Webpages - Send audio messages over websites
 
-browser-update.org                                      #Checks Browser Version
+images.dmca.com                                         #Webpages - Logo (Digital Millennium Copyright Act)
 
 cc.cdn.civiccomputing.com                               #Cookie Consent / Control
 cdn.cookielaw.org                                       #Cookie Consent / Control
@@ -109,6 +152,7 @@ cookiebot.com                                           #Cookie Consent / Contro
 cookieinfoscript.com                                    #Cookie Consent / Control
 cookielaw.org                                           #Cookie Consent / Control
 iubenda.com                                             #Cookie Consent / Control
+privacy.outdoorsg.com                                   #Cookie Consent / Control
 prod.truendo.com                                        #Cookie Consent / Control
 rodo.agora.pl                                           #Cookie Consent / Control
 sa437gl.wpc.kappacdn.net                                #Cookie Consent / Control
@@ -116,8 +160,6 @@ scripts.webcontentassessor.com                          #Cookie Consent / Contro
 sdk.privacy-center.org                                  #Cookie Consent / Control
 truendo.com                                             #Cookie Consent / Control
 webcontentassessor.com                                  #Cookie Consent / Control
-
-copypoison.com                                          #Prevent Copying of text on a page
 
 chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
@@ -146,6 +188,8 @@ tuneup.engine.avcdn.net                                 #Antivirus   Avast
 uupdate.avast.com                                       #Antivirus   Avast
 avgbrowser.com                                          #Antivirus     AVG  Browser
 browser-update.avg.com                                  #Antivirus     AVG  Browser
+ext-update.avgbrowser.com                               #Antivirus     AVG  Browser
+update.avgbrowser.com                                   #Antivirus     AVG  Browser
 isearch.avg.com                                         #Antivirus     AVG  Browser Search Engine
 update-tuneup.avg.com                                   #Antivirus     AVG    TuneUp
 tu.update.avg.com                                       #Antivirus     AVG    TuneUp
@@ -208,9 +252,9 @@ push.services.mozilla.com                               #Software   FireFox
 snippets.cdn.mozilla.net                                #Software   FireFox
 snippets.mozilla.com                                    #Software   FireFox
 tiles-cloudfront.cdn.mozilla.net                        #Software   FireFox
-browser-notifications.opera.com                         #Software      Opera
 af.opera.com                                            #Software      Opera - Autofill
 desktop-assistant-sub.osp.opera.software                #Software      Opera - Desktop Assistant
+browser-notifications.opera.com                         #Software      Opera - Notifications
 sd-suggestions.operacdn.com                             #Software      Opera - Speed Dial Suggestions
 plugon.us                                               #Software    ShowMyPc  After Exit
 steambroadcast.akamaized.net                            #Software      Steam - Broadcast Gameplay
@@ -344,7 +388,6 @@ hpcloud.hp.net                                          #HP  [Software]   Cloud
 rocketlifeproduction.com                                #HP  [Software]  Photo Creations
 communicator.rocketlifeproduction.com                   #HP  [Software]  Photo Creations
 h20572.www2.hp.com                                      #HP   Help & Support
-hpsasudf.ext.hp.com                                     #HP   Feedback / Uninstall Survey
 aclm.external.hp.com                                    #HP   Drivers / Updates ?
 cprs.hp.com                                             #HP
 eipd.rssx.hp.com                                        #HP

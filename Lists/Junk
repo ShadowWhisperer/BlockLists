@@ -1,51 +1,13 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
+# Updated: 7/9/2020  16:31  (4:31 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-brazzerssurvey.com                            #Survey
-inmoment.com                                  #Survey
-lb.polldaddy.com                              #Survey
-opinionbar.com                                #Survey
-polldaddy.com                                 #Survey
-poll.fm                                       #Survey
-riddle.com                                    #Survey
-samplicio.us                                  #Survey
-secure.polldaddy.com                          #Survey
-survey.io                                     #Survey
-surveyrouter.com                              #Survey
-tns-gallup.dk                                 #Survey
-ups.surveyrouter.com                          #Survey
-you-cubez.com                                 #Survey
-amdsurveys.com                                #Survey - AMD
-d2yyd1h5u9mauk.cloudfront.net                 #Survey - Delighted
-delighted.com                                 #Survey - Delighted
-getfeedback.com                               #Survey - Get Feedback
-websites.cdn.getfeedback.com                  #Survey - Get Feedback
-iteratehq.com                                 #Survey - Iterate
-globaltestmarket.com                          #Survey - Life Points
-lifepointspanel.com                           #Survey - Life Points
-demographics.neat.com                         #Survey - Neat Scanner
-nicequest.com                                 #Survey - Nicequest
-survey.nicequest.com                          #Survey - Nicequest
-research.net                                  #Survey - Research
-d2bnxibecyz4h5.cloudfront.net                 #Survey - Survey Gizmo
-surveygizmo.com                               #Survey - Survey Gizmo
-surveyking.com                                #Survey - Survery Kings
-survey-kings.com                              #Survey - Survery Kings
-surveymonkey-assets.s3.amazonaws.com          #Survey - Survey Monkey
-surveymonkey.com                              #Survey - Survey Monkey
-surveymonkey.de                               #Survey - Survey Monkey
-usabilla.com                                  #Survey - Survey Monkey (usabilla)
-survicate.com                                 #Survey - Survicate
-survey.webrootanywhere.com                    #Survey - Webroot
-yesinsights.com                               #Survey - Yes Insights
-questionpro.com                               #Survey - Question Pro
-surveys.questionpro.com                       #Survey - Question Pro
+
 
 superantispyware.com                          #AntiMalware  SuperAntiSpyware
 enigmasoftware.com                            #AntiMalware  SpyHunter
@@ -141,6 +103,7 @@ splitter.ebates.com                           #Cash Back
 static.ebates.com                             #Cash Back
 
 befrugal.com                                  #Coupons
+cdn.cpnscdn.com                               #Coupons
 coupons.com                                   #Coupons
 cpnscdn.com                                   #Coupons
 shopathome.com                                #Coupons
@@ -387,6 +350,8 @@ search.zonealarm.com                          #Search Engine   ZoneAlarm (Safe S
 
 hi5.com                                       #Social Media (Contains Adult Sites)
 
+mediaconverteronline.com                      #Video Converter
+
 downloadaccelerator.com                       #Video Downloader
 savetubevideo.com                             #Video Downloader
 snappea.com                                   #Video Downloader
@@ -419,7 +384,6 @@ getadblock.com
 howtoprotectyourbrain.com
 imvu.com
 isumsoft.com
-mediaconverteronline.com
 myannuaire.com
 mycapturepage.com
 nextadvisor.com
