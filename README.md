@@ -2,19 +2,19 @@
     Adult            Porn / 18+ Content  
     Apple            Bloat / Push Notifications  
     Bitcoin          Bitcoin Miner & Related Sites  
-    Bloat            Fonts, Domains not required for software to function  
+    Bloat            Fonts, Surveys, Domains not required for software to function  
     Chat             Live / Bot Chat Dialog Boxes  
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting & Blogs  
-    Junk             Surveys, Junk, Personally Untrusted Antivirus/Browser Extensions, etc  
+    Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Web Marketing / Ebay Listing Tools  
     Marketing-Email  Email Based Marketing  
     Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
     Remote           Domains used by software to remotely control your stuff  
-    Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-    Scam             Fraud / Fake / Misleading Sites - Not malware  
+    Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices  
+    Scam             Fraud / Fake / Misleading Sites (Not malware)  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
     Suspicious       Domains I am uncertain of. Contains a mixture of possible Ads, Trackers, Malware  
     Top_Level        Top Level Domains: Will block most non-traditional domains  
