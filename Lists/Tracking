@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 7/9/2020  16:31  (4:31 PM)  - Central Standard Time
+# Updated: 7/9/2020  23:52  (11:52 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12469,6 +12469,7 @@ beacon-us-iad3.rubiconproject.com
 beacon-us-sjc1.rubiconproject.com
 beacon.us-west-2.prodaa.netflix.com
 beacon-us-west.rubiconproject.com
+beacon-v2.helpscout.net
 beacon.valeoip.com
 beacon.v.dropbox.com
 beacon.ventunotech.com
@@ -26627,6 +26628,7 @@ fa4ac898-e034-4381-870b-8293c646c151.nuid.imrworldwide.com
 fa4ca15592ea6ba0c05bda979e1eddfc.api.appsee.com
 fa7c8e0d.hullapp.io
 fa7-h.tlnk.io
+faa.d2.sc.omtrdc.net
 faas.mtraction.com
 fabbri.commander1.com
 fabelio.api.useinsider.com
