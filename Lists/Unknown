@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
+# Updated: 7/10/2020  16:12  (4:12 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -11,37 +11,19 @@
 #############################
 # Ads
 #############################
-ads.apprupt.com                      #Defunct ?
-adzcore.com                          #Defunct ?
 api.coxmt.com                        #Defunct ?
-apprupt.com                          #Defunct ?
-cdn.apprupt.com                      #Defunct ?
 centraltag.com                       #Defunct ?
 coxmt.com                            #Defunct ?
-cv.apprupt.com                       #Defunct ?
-demos.apprupt.com                    #Defunct ?
 directrev.com                        #Defunct ?
 go.coxmt.com                         #Defunct ?
 i-vengo.com                          #Defunct ?
-mum.apprupt.com                      #Defunct ?
-partner.apprupt.com                  #Defunct ?
-setting.adzcore.com                  #Defunct ?
-shops.apprupt.com                    #Defunct ?
-static1.apprupt.com                  #Defunct ?
-static3.apprupt.com                  #Defunct ?
-static.apprupt.com                   #Defunct ?
-td.apprupt.com                       #Defunct ?
 trueffect.com                        #Defunct ?
 turbobytes.com                       #Defunct ?
-webapps.apprupt.com                  #Defunct ?
-wwwstage.apprupt.com                 #Defunct ?
 optomaton.com                        #Defunct ?  (Moved to ve.com)
 projectwonderful.com                 #Defunct ?  (Last Twiiter July 11, 2010)
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
 virtualizationreview.1105cms01.com        #1105 Media
-0s9dxlr07huu.com            #AdSupply.com  (Was in MalwareBytes List)
-z501lpfg9x8v.com            #AdSupply.com  (Was in MalwareBytes List)
 api.h1.he7ll.com              #Adult Sites
 api.he7ll.com                 #Adult Sites
 he7ll.com                     #Adult Sites
@@ -51,8 +33,6 @@ assoc-na.associates-amazon.com   #Amazon  (https://assoc-na.associates-amazon.co
 mas-ext.amazon.com               #Amazon
 mas-sdk.amazon.com               #Amazon
 msh.amazon.co.uk                 #Amazon
-hrefto.com                     #AmpProject ?
-go.hrefto.com                  #AmpProject ?
 new.avira.com                #Avira
 berush.com                     #BeRush
 pm.berush.com                  #BeRush
@@ -98,6 +78,7 @@ ateoildim.club              #(Either Ad or Malware)
 besa-mad.com                #(Either Ad or Malware)
 ca.clcknads.pro             #(Either Ad or Malware)
 cdn.clicksondelivery.com    #(Either Ad or Malware)
+edvfwlacluo.com             #(Either Ad or Malware)
 mugleafly.com               #(Either Ad or Malware)
 naneso.com                  #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
@@ -117,6 +98,7 @@ eurosptp.com
 exp.eurosptp.com
 himediads.com
 images.highspeedbackbone.net
+images.pricegrabber.com
 js.himediads.com
 loading-delivery2.com
 mb104.com
@@ -134,9 +116,9 @@ viewsecure.net
 #############################
 520call.me          #Either Adult, or just video player
 pe.hu               #Possibly Illegal Hacked IP Cameras
-assinie.com         #Subdomains include adult sites
-carrefourpro.com    #Subdomains include adult sites
-cdnaccess.com       #Subdomains include adult sites
+assinie.com         #Domains include adult sites
+carrefourpro.com    #Domains include adult sites
+cdnaccess.com       #Domains include adult sites
 home.ro             #Dead ?
 wow-hosting.com     #Dead ?
 crajack.com
@@ -151,10 +133,10 @@ tawenda-tech.org
 #############################
 # Blank Page
 #############################
-api.ticlock.com                 #Android App
-illiweb.com                     #ExotikWeb (Adult?)
-pixlgif.com                     #Google
-g.jwpsrv.com                    #Jwplayer
+api.ticlock.com               #Android App
+illiweb.com                   #ExotikWeb (Adult?)
+pixlgif.com                   #Google
+g.jwpsrv.com                  #Jwplayer
 ay.qdmns.com
 capufamo.com
 isondled.net
@@ -186,11 +168,6 @@ whiteops.com               #White Ops, Inc
 # Malware
 #############################
 mediaplayercodecpack.com     #Real or fake Codec ?  (Anyone still use WMP ?)
-api.lilo.org              #Search Engine
-lilo.org                  #Search Engine
-search.lilo.org           #Search Engine
-search.uselilo.org        #Search Engine
-uselilo.org               #Search Engine
 topertaimp.com                #Opt-Out Email Link (Harry Blankenship)
 eightsouthice.com             #Opt-Out Email Link (Between "Harry Blankenship")
 bissferasy.com                #Opt-Out Email Link (Harry Blankenship)
@@ -202,8 +179,6 @@ api.timeforagreement.com            #From known malware/scam -- awajl.hoesforyou
 timeforagreement.com                #From known malware/scam -- awajl.hoesforyou.net --> track.clickchewer.com --> unitedflings.com --> 'timeforagreement.com'
 benrubigallery.com             #Looks like normal site. Google links redirect to malware domains
 126.am
-adsleading.com
-affiliates.adsleading.com
 e2ertt.com
 geniusdisplay.com
 itpatratr.com
@@ -254,17 +229,18 @@ webtools.media              #Associated with scam site "cdn.get4k.tv"
 blacksportsonline.com       #Fake News ?
 api.fondy.eu                #Credit Card Processor *Mostly negative reviews
 fondy.eu                    #Credit Card Processor *Mostly negative reviews
-intheswim.com               #Pool Equipment  *Mostly negative reviews  / All items are out of stock 6.17.2020
+eastwood.com                #Mostly negative reviews
+intheswim.com               #Mostly negative reviews  / All items are out of stock 6.17.2020
 
 
 #############################
 # Tracker
 #############################
-stcounter.com                      #Dead?
-kqzamd.com                              #Says Tracker - Might Be Malware
-tr.kqzamd.com                           #Says Tracker - Might Be Malware
-sdg.fwtrck.com                                        #Seen with Adult Sites
-fwtrck.com                                            #Seen with Adult Sites
+stcounter.com                 #Dead?
+kqzamd.com                           #Says Tracker - Might Be Malware
+tr.kqzamd.com                        #Says Tracker - Might Be Malware
+sdg.fwtrck.com                                 #Seen with Adult Sites
+fwtrck.com                                     #Seen with Adult Sites
 ##############################
 t.marketing.activision.com                                     #Activision
 anaplan.com                                                     #AnaPlan
@@ -293,24 +269,6 @@ samizdat-graphql.nytimes.com                                #New York Times
 onead.onevision.com.tw                                 #OneAd (onead.com.tw)
 onevision.com.tw                                       #OneAd (onead.com.tw)
 k.pluto.tv                                                   #PlutoTV
-ams-bh-bgp.pulsepoint.com                                       #Pulse Point
-ams-taras-test2.pulsepoint.com                                  #Pulse Point
-bh.pulsepoint.com                                               #Pulse Point
-cmpsupport.pulsepoint.com                                       #Pulse Point
-em.pulsepoint.com                                               #Pulse Point
-go.pulsepoint.com                                               #Pulse Point
-intelbot.pulsepoint.com                                         #Pulse Point
-launch.pulsepoint.com                                           #Pulse Point
-lga-bh-bgp.pulsepoint.com                                       #Pulse Point
-lga-mx1.pulsepoint.com                                          #Pulse Point
-lifesupport.pulsepoint.com                                      #Pulse Point
-meet.pulsepoint.com                                             #Pulse Point
-outstream.pulsepoint.com                                        #Pulse Point
-pulsepoint.com                                                  #Pulse Point
-sandbox.pulsepoint.com                                          #Pulse Point
-sjc-bh-bgp.pulsepoint.com                                       #Pulse Point
-story.pulsepoint.com                                            #Pulse Point
-support-story.pulsepoint.com                                    #Pulse Point
 click.notifications.intuit.com                           #QuickBooks
 api.salesmachine.io                                         #Sales Machine
 salesmachine.io                                             #Sales Machine
@@ -355,9 +313,10 @@ theappgrader.com                                            #Website Grader
 apollo.io                                                   #Data-first engagement platform ... structured data ... to help execute, analyze, & improve your growth strategy)
 vilynx.com                                                  #Self-learning AI for process automation & data extraction
 #######################################################
-myemailtracking.com                                            #Either Tracker or Malware
+myemailtracking.com                                            #Either Tracker or Malware (No HTTPS)
 miriamholid.fun                                                #Either Tracker or Malware
 mlstat.com                                                     #Either Tracker or Malware (On Browser Hijack Page)  https://www.mlstat.com/statistics/appid/wgimage.gif?appID=0&lpID=5804&systemID=833&eventID=1&OSID=0&clientVersion=&clientBuildNumber=&clientLanguageCode=&rand=0.0810061757677687
+heatmap.services                                               #Either Tracker or Malware (Temporarily Down for Maintenance)
 #######################################################
 adcs.rqmob.com
 analysis.fi
@@ -374,7 +333,6 @@ ecdn.analysis.fi
 felix.data.tm-awx.com
 geolookup-a.akamaihd.net
 gsspcln.jp
-heatmap.services
 huqindustries.co.uk
 iper2.com
 js.track-analytics.com
@@ -814,7 +772,6 @@ api.sr.roku.com                                    #Roku TV - Crach Log?
 traces.sr.roku.com                                 #Roku TV
 display.ravm.tv                                    #Roku TV
 keysvc.cs.roku.com                                 #Roku TV
-os.fandango.com                                    #Roku TV
 samples.voice.cti.roku.com                         #Roku TV
 amoeba.web.roku.com                                #Roku TV
 monorail-edge.shopifysvc.com                              #Shopify
@@ -880,11 +837,6 @@ fc.yahoo.com                                 #Yahoo
 ganon.yahoo.com                              #Yahoo
 lh.secure.yahoo.com                          #Yahoo
 ###########################################################
-vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for displaying timed text in vieos
+vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for displaying timed text in videos
 ##################################################################
 api.na1.region.vmwservices.com   #Android Phone
-##################################################################
-fwbntw.com                       #Redirector ?
-##################################################################
-ingest.machinify.com             #AI
-machinify.com                    #AI

@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 7/9/2020  23:52  (11:52 PM)  - Central Standard Time
+# Updated: 7/10/2020  16:12  (4:12 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16049,7 +16049,6 @@ click.adultsingles.com
 click.advertising.com
 click.advertnative.com
 click.adv.livedoor.com
-click.adzcore.com
 click.affifix.com
 click.affiliate.ameba.jp
 click.affiliationcash.com
@@ -30297,6 +30296,7 @@ h.foxsports.com
 hg-app.quantummetric.com
 hgb-s.tlnk.io
 hgbs.tlnk.io
+hgc.svonm.com
 hgd64tl8z6nsnvickclfvr5g9wabi1508220340.nuid.imrworldwide.com
 hgfgdf.adx1.com
 hgtc.actonsoftware.com
@@ -32322,6 +32322,7 @@ ingest.eu.crittercism.com
 ingestion.contentinsights.com
 ingest.lightstep.com
 ingest.loadtest.lightstep.com
+ingest.machinify.com
 ingest.meta.lightstep.com
 ingest.sentry.io
 ingest.staging.lightstep.com
@@ -37449,6 +37450,7 @@ mac11.git.adx1.com
 mac4.git.adx1.com
 macaduk.agilecrm.com
 macbee.adapf.com
+machinify.com
 mackenzie.evergage.com
 mackenzie.saas.appdynamics.com
 maclinsecuritydoor.rtrk.com
@@ -38890,6 +38892,7 @@ metrics-api.dimensions.ai
 metrics.api.drift.com
 metrics-api.librato.com
 metrics.api.nasuni.com
+metrics.api.ranker.com
 metrics.api.yle.fi
 metrics-app-c9b49.firebaseio.com
 metrics.apple.com
@@ -44081,6 +44084,7 @@ oscar-server.sharethrough.com
 oscdn.batmobi.net
 osc.optimize.webtrends.com
 osc.venetian.com
+os.fandango.com
 osg01.webtrekk.net
 o.shareaholic.com
 osl-v4.pops.fastly-insights.com
@@ -61796,6 +61800,7 @@ svn.blueconic.net
 svn.comscore.com
 svn.openwebanalytics.com
 svntrk.com
+svonm.com
 svopn.adorama.com
 s-vop.sundaysky.com
 sv-p.alcmpn.com
