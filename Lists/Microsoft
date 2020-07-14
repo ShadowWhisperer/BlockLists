@@ -1,56 +1,53 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
+# Updated: 7/14/2020  12:39  (12:39 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-appexbingfinance.trafficmanager.net                    #Win 10 Tile
-appexbingweather.trafficmanager.net                    #Win 10 Tile
-appexeusprodweather.blob.core.windows.net              #Win 10 Tile
-appexfinanceappupdate.blob.core.windows.net            #Win 10 Tile
-appexnewsappupdate.blob.core.windows.net               #Win 10 Tile
-appexsports.trafficmanager.net                         #Win 10 Tile
-appexwusprodweather.blob.core.windows.net              #Win 10 Tile
-blob.weather.microsoft.com                             #Win 10 Tile
-cloudtile.photos.microsoft.com                         #Win 10 Tile
-finance.services.appex.bing.com                        #Win 10 Tile
-finance-services.msn.com                               #Win 10 Tile
-foodanddrink.tile.appex.bing.com                       #Win 10 Tile
-insiderhub.microsoft.com                               #Win 10 Tile
-insiderservice.microsoft.com                           #Win 10 Tile
-livetileedge.dsx.mp.microsoft.com                      #Win 10 Tile
-livetile.hulu.com                                      #Win 10 Tile
-livetiles.health.appex.bing.com                        #Win 10 Tile
-mgslivetiles.cloudapp.net                              #Win 10 Tile
-phone.sports.tile.appex.bing.com                       #Win 10 Tile
-service.weather.microsoft.com                          #Win 10 Tile
-tile-service.weather.microsoft.com                     #Win 10 Tile
-travel.tile.appex.bing.com                             #Win 10 Tile
-weather.microsoft.com                                  #Win 10 Tile
-weather.tile.appex.bing.com                            #Win 10 Tile
+appexbingfinance.trafficmanager.net             #Win 10 Tile
+appexbingweather.trafficmanager.net             #Win 10 Tile
+appexeusprodweather.blob.core.windows.net       #Win 10 Tile
+appexfinanceappupdate.blob.core.windows.net     #Win 10 Tile
+appexnewsappupdate.blob.core.windows.net        #Win 10 Tile
+appexsports.trafficmanager.net                  #Win 10 Tile
+appexwusprodweather.blob.core.windows.net       #Win 10 Tile
+blob.weather.microsoft.com                      #Win 10 Tile
+cloudtile.photos.microsoft.com                  #Win 10 Tile
+finance.services.appex.bing.com                 #Win 10 Tile
+finance-services.msn.com                        #Win 10 Tile
+foodanddrink.tile.appex.bing.com                #Win 10 Tile
+insiderhub.microsoft.com                        #Win 10 Tile
+insiderservice.microsoft.com                    #Win 10 Tile
+livetileedge.dsx.mp.microsoft.com               #Win 10 Tile
+livetile.hulu.com                               #Win 10 Tile
+livetiles.health.appex.bing.com                 #Win 10 Tile
+mgslivetiles.cloudapp.net                       #Win 10 Tile
+phone.sports.tile.appex.bing.com                #Win 10 Tile
+service.weather.microsoft.com                   #Win 10 Tile
+tile-service.weather.microsoft.com              #Win 10 Tile
+travel.tile.appex.bing.com                      #Win 10 Tile
+weather.microsoft.com                           #Win 10 Tile
+weather.tile.appex.bing.com                     #Win 10 Tile
 
-cmsresources.windowsphone.com                          #Windows Phone (From Win 10 Tower)
-config.scm.windowsphone.com                            #Windows Phone (From Win 10 Tower)
-ess.windowsphone.net                                   #Windows Phone (From Win 10 Tower)
+cdf-anon.gtm.xboxlive.com                       #Xbox
+cdf-anon.xboxlive.com.edgekey.net               #Xbox
+cdf-anon.xboxlive.com                           #Xbox
+cloudcollection-ssl.xboxlive.com                #Xbox
+compass-ssl.xboxlive.com                        #Xbox
+controllers.xbox.com                            #Xbox
+data.xboxlive.com                               #Xbox
+da.xboxservices.com                             #Xbox
+settings-ssl.xboxlive.com                       #Xbox
+title.auth.xboxlive.com                         #Xbox
+title.mgt.xboxlive.com                          #Xbox
+windowsphone.xbox.com                           #Xbox
+x1ds.xboxlive.com                               #Xbox
+xnotify.xboxlive.com                            #Xbox
 
-cdf-anon.gtm.xboxlive.com                              #Xbox
-cdf-anon.xboxlive.com.edgekey.net                      #Xbox
-cdf-anon.xboxlive.com                                  #Xbox
-cloudcollection-ssl.xboxlive.com                       #Xbox
-compass-ssl.xboxlive.com                               #Xbox
-controllers.xbox.com                                   #Xbox
-data.xboxlive.com                                      #Xbox
-da.xboxservices.com                                    #Xbox
-settings-ssl.xboxlive.com                              #Xbox
-title.auth.xboxlive.com                                #Xbox
-title.mgt.xboxlive.com                                 #Xbox
-windowsphone.xbox.com                                  #Xbox
-x1ds.xboxlive.com                                      #Xbox
-xnotify.xboxlive.com                                   #Xbox
-
+evoke-windowsservices-tas.msedge.net        #App    Candy Crush Saga (Updates)
 cortana.ai                                  #App   Cortana
 edge.microsoft.com                          #App     Edge
 msedge.api.cdp.microsoft.com                #App     Edge
@@ -94,7 +91,9 @@ skype-pcs-prod-usea2-fe-b.cloudapp.net      #App   Skype
 trap.skype.com                              #App   Skype
 sway-cdn.com                                #App     Sway
 sway.com                                    #App     Sway
-evoke-windowsservices-tas.msedge.net        #App   Windows Photos
+cmsresources.windowsphone.com               #App     Windows Phone (From Win 10 Tower)
+config.scm.windowsphone.com                 #App     Windows Phone (From Win 10 Tower)
+ess.windowsphone.net                        #App     Windows Phone (From Win 10 Tower)
 
 www2.bing.com                               #Bing (Loads IPV6 Check)
 api.bing.com                                #Bing
@@ -150,10 +149,14 @@ ceipmsn.com                                 #SeaPort (Search Enhancement Broker 
 survey.support.services.microsoft.com       #Survey - Popup Window
 
 dell15.msn.com                              #MSN - Redirects to msn.com
+hp13.us.msn.com                             #MSN - Redirects to msn.com
 toshiba13.msn.com                           #MSN - Redirects to msn.com
 
 search.msn.com                              #MSN - Search
 search.msn.de                               #MSN - Search
+
+###############################################################################################
+###############################################################################################
 
 cds1204.lon.llnw.net                        # ? Limelight Networks (CDN)
 cds1289.lon.llnw.net                        # ? Limelight Networks (CDN)
@@ -248,17 +251,23 @@ prod.do.dsp.mp.microsoft.com.edgekey.net    #Updates ?
 
 adclub.net                                  #Ads ?
 r.msn.com                                   #Ads ?
+
 o.xbox.com                                  #Tracking ? (Blank)
 geo.prod.do.dsp.mp.microsoft.com            #Tracking ?
 geover.prod.do.dsp.mp.microsoft.com         #Tracking ?
+
 msantispy.com                               #Defunct ?
 msecn.net                                   #Defunct ?
 msnhome.org                                 #Defunct ?
 
+activity.windows.com                        #Server Sync ?  (According to Microsoft)
+edge.activity.windows.com                   #Server Sync ?  (According to Microsoft)
+enterprise.activity.windows.com             #Server Sync ?  (According to Microsoft)
+test.activity.windows.com                   #Server Sync ?  (According to Microsoft)
+
 aad.cs.dds.microsoft.com
 acctcdnmsftuswe2.azureedge.net
 acctcdnvzeuno.azureedge.net
-activity.windows.com
 adl.windows.com
 a-ring-fallback.msedge.net
 array613.prod.do.dsp.mp.microsoft.com
@@ -316,7 +325,6 @@ ds.microsoft.com
 ds.ssw.live.com
 edgebooks.rec.mp.microsoft.com
 edgewelcomecdn.microsoft.com
-enterprise.activity.windows.com
 exp.mp.dse.microsoft.com
 fe2.update.microsoft.com.akadns.net
 filestore.community.answers.ms.akadns.net
@@ -364,6 +372,8 @@ l-0010.l-msedge.net
 l-0011.l-msedge.net
 l-0012.l-msedge.net
 l-0013.l-msedge.net
+l-0014.l-msedge.net
+l-0015.l-msedge.net
 lb1.www.ms.akadns.net
 licensingphone.mp.microsoft.com
 ls2web.redmond.corp.microsoft.com
@@ -451,7 +461,6 @@ storagetos.datamart.windows.com
 storecatalogrevocation.storequality.microsoft.com
 storesdk.dsx.mp.microsoft.com
 svmstrgprodus.blob.core.windows.net
-test.activity.windows.com
 trafficmanager.net
 trafficshaping.dsp.mp.microsoft.com
 trustwave.blob.core.windows.net

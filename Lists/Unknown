@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/10/2020  16:12  (4:12 PM)  - Central Standard Time
+# Updated: 7/14/2020  12:39  (12:39 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -27,6 +27,9 @@ virtualizationreview.1105cms01.com        #1105 Media
 api.h1.he7ll.com              #Adult Sites
 api.he7ll.com                 #Adult Sites
 he7ll.com                     #Adult Sites
+11287825.pix-cdn.org          #Adult Sites
+12111539.pix-cdn.org          #Adult Sites
+pix-cdn.org                   #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 assoc-na.associates-amazon.com   #Amazon  (https://assoc-na.associates-amazon.com/abid/um?s=144-1347093-7830501&m=ATVPDKIKX0DER)
@@ -85,6 +88,11 @@ offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
 router.adhoc4.net           #(Either Ad or Malware)
 xadsmart.com                #(Either Ad or Malware)
+ads.red                     #(Either Ad or Malware)
+aoycwla4enxzvkh.ru          #(Either Ad or Malware) - ads.red
+cdn.advgalaxy.com           #(Either Ad or Tracker)
+z.cdn.advgalaxy.com         #(Either Ad or Tracker)
+ueopf.com                   #(Either Ad or Tracker)
 a1955.b.akamai.net
 adoric-om.com
 adscheaper.com
@@ -237,6 +245,12 @@ intheswim.com               #Mostly negative reviews  / All items are out of sto
 # Tracker
 #############################
 stcounter.com                 #Dead?
+logsss.com                    #Dead?
+id-generator.logsss.com       #Dead?
+ma.logsss.com                 #Dead?
+slapi-bts.logsss.com          #Dead?
+api-bts.logsss.com            #Dead?
+a.logsss.com                  #Dead?
 kqzamd.com                           #Says Tracker - Might Be Malware
 tr.kqzamd.com                        #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                 #Seen with Adult Sites
@@ -827,8 +841,7 @@ wazespeechactiviation-pa.googleapis.com     #Waze
 cdn-main1.123formbuilder.com                      #Website Builder
 cdn-main.123formbuilder.com                       #Website Builder
 cdn-main2.123formbuilder.com                      #Website Builder
-cf.zdassets.com                                #Zdassets
-static.zdassets.com                            #Zdassets
+cf.zdassets.com                                #ZenDesk ?
 i5-opt-v0.wal.co                                   #Walmart (i5-opt-v0.wal.co/random?prx-test-mode=ak-rr&i=0)
 i5-opt-v0.cf-wal.co                                #Walmart (i5-opt-v0.cf-wal.co/random?prx-test-mode=ns1-proximity&i=0)
 ueip.vmware.com                                  #Vmware

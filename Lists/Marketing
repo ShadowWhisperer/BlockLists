@@ -1,6 +1,6 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
+# Updated: 7/14/2020  12:39  (12:39 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -113,6 +113,7 @@ storage.supremeauction.com
 ##############################
 adoric.com
 engagio.com
+gomoxie.solutions
 outrch.com
 outreach.io
 pixlee.com
@@ -140,8 +141,6 @@ candid.media                       #Candid.io
 digitalriver.com                   #Digital Driver
 digitalrivercontent.net            #Digital Driver
 safeshopper.com                    #Digital Driver
-content.etilize.com.wcdnga.com     #Etilize
-etilize.com                        #Etilize
 extole.com                         #Extole
 extole.io                          #Extole
 ladsp.jp                           #F@N Communications
@@ -172,6 +171,7 @@ richcontext.com                    #RichContext
 cdn.richcontext.com                #RichContext
 riskified.com                      #Riskified
 searchspring.net                   #SearchSpring
+cdn.searchspring.net               #SearchSpring
 segmentify.com                     #Segmentify
 cquotient.com                      #SalesForce
 force.com                          #SalesForce
@@ -216,6 +216,7 @@ boldcommerce.com          #BoldC ommerce
 heliumdev.com             #Helium
 fsb.hextom.com            #Hextom
 hextom.com                #Hextom
+usb.hextom.com            #Hextom
 lay-buys.com              #Lay-Buys
 metrilo.com               #Metrilo
 qikify.com                #Qikify
@@ -262,6 +263,8 @@ personyze.com                   #Personyze
 d36gjhyr65lj31.cloudfront.net   #PlusThis
 plusthis.com                    #PlusThis
 static.plusthis.com             #PlusThis
+cb.sailthru.com                 #SailThru
+link-nj1.sailthru.com           #SailThru
 sail-horizon.com                #SailThru
 sailthru.com                    #SailThru
 cdn.sendpulse.com               #SendPulse

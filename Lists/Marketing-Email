@@ -1,12 +1,13 @@
 #
 #    File: Marketing-Email   (Email Based Marketing)
-# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
+# Updated: 7/14/2020  12:39  (12:39 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+24sender.com
 addshoppers.com
 al2.convertkit.com
 alphacampaignmonitor.com
@@ -9482,6 +9483,7 @@ salesmanago.pl
 searshc.com
 seguno.com
 sendgrid.net
+sendmsg.co
 sendtomyfriend.com
 sgwebhook.convertkit.com
 shop.convertkit.com
