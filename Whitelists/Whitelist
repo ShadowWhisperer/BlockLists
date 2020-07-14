@@ -34,23 +34,23 @@ analytics-login.norton.com    #Software - Norton (Won't Login)
 shasta-rrs.symantec.com       #Software - Norton (Won't Scan)
 spclient.wg.spotify.com       #Software - Spotify - Audio
 
-accounts.google.com                        #Google - All - Login
-cryptauthenrollment.googleapis.com         #Google - Android - Set Payment Info
-kh.google.com                              #Google - Maps - Earth View
-chrome.google.com                          #Google - Chrome - Store - Extensions - Page
-lh3.googleusercontent.com                  #Google - Chrome - Store - Extensions - Icons
-clients2.google.com                        #Google - Chrome - Store - Extensions - Download
-clients4.google.com                        #Google - Chrome - Sync Account
-disconnect.me                              #Google - Chrome - Extension
-eff.org                                    #Google - Chrome - Extension
-tools.google.com                           #Google - Chrome - Update
-apis.google.com                            #Google - Chrome - Google
-gstatic.com                                #Google - Chrome - Google
-redirector.gvt1.com                        #Google - Chrome - Google
-storage.googleapis.com                     #Google - Chrome - Google
-translate.googleapis.com                   #Google - Chrome - Google
-clients6.google.com                        #Google - Drive - Dowload From Browser
-geo0.ggpht.com                             #Google - Earth - Street View
+accounts.google.com                    #Google - All - Login
+cryptauthenrollment.googleapis.com     #Google - Android - Set Payment Info
+kh.google.com                          #Google - Maps - Earth View
+chrome.google.com                      #Google - Chrome - Store - Extensions - Page
+lh3.googleusercontent.com              #Google - Chrome - Store - Extensions - Icons
+clients2.google.com                    #Google - Chrome - Store - Extensions - Download
+clients4.google.com                    #Google - Chrome - Sync Account
+disconnect.me                          #Google - Chrome - Extension
+eff.org                                #Google - Chrome - Extension
+tools.google.com                       #Google - Chrome - Update
+apis.google.com                        #Google - Chrome - Google
+gstatic.com                            #Google - Chrome - Google
+redirector.gvt1.com                    #Google - Chrome - Google
+storage.googleapis.com                 #Google - Chrome - Google
+translate.googleapis.com               #Google - Chrome - Google
+clients6.google.com                    #Google - Drive - Dowload From Browser
+geo0.ggpht.com                         #Google - Earth - Street View
 g.live.com                                         #Microsoft - .Net Framework
 blob.officehome.msocdn.com                         #Microsoft - Office 365 - Login
 compass-ssl.microsoft.com                          #Microsoft - Office 365 - Website Tile Images
@@ -108,6 +108,7 @@ ae01.alicdn.com                            # AliExpress - Images
 gannett-cdn.com                            # Argus Leader
 etrk.asus.com                              # Asus - Download Drivers
 gravatar.com                               # Avatar Icons
+liveapi.yext.com                           # Cabelas - Check In Stock
 cdn.rlcdn.com                              # Cabelas - Images
 graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
 s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
@@ -249,6 +250,8 @@ buff.ly                      #Tracker - Breaks Links
 classic.avantlink.com        #Tracker - Breaks Links
 click.dji.com                #Tracker - Breaks Links
 click.linksynergy.com        #Tracker - Breaks Links
+mandrillapp.com              #Tracker - Breaks Links
+target.georiot.com           #Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
 refer.ccbill.com
