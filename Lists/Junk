@@ -1,12 +1,11 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 7/9/2020  16:31  (4:31 PM)  - Central Standard Time
+# Updated: 7/16/2020  22:42  (10:42 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
-
 
 
 superantispyware.com                          #AntiMalware  SuperAntiSpyware
@@ -86,7 +85,6 @@ grammarly.io                                  #Browser Extension
 notification.adblockplus.org                  #Browser Extension
 search.bleengo.com                            #Browser Extension
 static.grammarly.com                          #Browser Extension
-
 
 
 secure.retailmenot.com                        #Cash Back / Coupons
@@ -179,192 +177,192 @@ williamhill.com                               #Gambling
 harpquiz.com                                  #Quiz
 magiquiz.com                                  #Quiz
 
-bytedance.com                                   #App  TikTok
-dm.bytedance.com                                #App  TikTok
-muscdn.com                                      #App  TikTok
-p16-tiktokcdn-com.akamaized.net                 #App  TikTok
-s16.tiktokcdn.com                               #App  TikTok
-sf-tb-sg.ibytedtos.com                          #App  TikTok
-tiktokcdn.com                                   #App  TikTok
-tiktok.com                                      #App  TikTok
-tiktokv.com                                     #App  TikTok
-v16-tiktokcdn-com.akamaized.net                 #App  TikTok
-adguard.com                                   #Software - AdGuard
-adguard.org                                   #Software - AdGuard
-adtidy.net                                    #Software - AdGuard
-api.adguard.com                               #Software - AdGuard
-local.adguard.org                             #Software - AdGuard
-static.adguard.com                            #Software - AdGuard
-admuncher.com                                 #Software - AdMuncher
-curseapp.net                                  #Software - Curse       (In-Game Voice Chat)
-dashlane.com                                  #Software - Daskline    (Password Manager)
-flipboard.com                                 #Software - Flipbloard
-cdn.flipboard.com                             #Software - Flipbloard
-glarysoft.com                                 #Software - Glary Utilities
-download.iolo.net                             #Software - Iolo (System Mechanic)
-iolo.com                                      #Software - Iolo (System Mechanic)
-iolo.net                                      #Software - Iolo (System Mechanic)
-svc.iolo.com                                  #Software - Iolo (System Mechanic)
-duapp.com                                     #Software - Nox (Android Emulator)
-bignox.com                                    #Software - Nox (Android Emulator)
-plex.direct                                   #Software - Plex  (Stream)
-appexnw.com                                   #Software - Pokki (Start Menu)
-pokki.com                                     #Software - Pokki (Start Menu)
-pokkinw.com                                   #Software - Pokki (Start Menu)
-real.com                                      #Software - RealPlayer
-weatherbug.com                                #Software - Weatherbug
-weatherbug.net                                #Software - Weatherbug
-ampsvc.com                                    #Software - WildTangent Games
-dp2manifester.ampsvc.com                      #Software - WildTangent Games
-manifester.ampsvc.com                         #Software - WildTangent Games
-wildgames.com                                 #Software - WildTangent Games
-wildtangent.com                               #Software - WildTangent Games
-api.api.winzip.com                            #Software - Winzip
-winzip.com                                    #Software - Winzip
-kingsoft-office-service.com                   #Software - WPS Office
-kingsoftstore.com                             #Software - WPS Office
-versiontracker.com                            #Software - WPS Office
-wps.cn                                        #Software - WPS Office
-wps.com                                       #Software - WPS Office
-zoom.us                                       #Software - Zoom
-zoom.com                                      #Software - Zoom
+bytedance.com                                  #App  TikTok
+dm.bytedance.com                               #App  TikTok
+muscdn.com                                     #App  TikTok
+p16-tiktokcdn-com.akamaized.net                #App  TikTok
+s16.tiktokcdn.com                              #App  TikTok
+sf-tb-sg.ibytedtos.com                         #App  TikTok
+tiktokcdn.com                                  #App  TikTok
+tiktok.com                                     #App  TikTok
+tiktokv.com                                    #App  TikTok
+v16-tiktokcdn-com.akamaized.net                #App  TikTok
 
-pair.com                                      #Web Hosting  (Belgium)
-hospedagemdesites.ws                          #Web Hosting  (Brazil)  LocaWeb
-locaweb.com.br                                #Web Hosting  (Brazil)
-qbox.me                                       #Web Hosting  (China)
-wz.cz                                         #Web Hosting  (Czech Republic)
-24.eu                                         #Web Hosting  (Europe)
-hosttech.eu                                   #Web Hosting  (Europe)
-cafe24.com                                    #Web Hosting  (Korea)
-dothome.co.kr                                 #Web Hosting  (Korea)
-big07.pl                                      #Web Hosting  (Poland)
-nazwa.pl                                      #Web Hosting  (Poland)
-hostland.pro                                  #Web Hosting  (Russia)
-hostland.ru                                   #Web Hosting  (Russia)
-sprinthost.ru                                 #Web Hosting  (Russia)
-tmweb.ru                                      #Web Hosting  (Russia)
-xsph.ru                                       #Web Hosting  (Russia)
-webcindario.com                               #Web Hosting  (Spain)
-websitehome.co.uk                             #Web Hosting  (UK)
-303.lt                                        #Web Hosting
-mellle.com                                    #Web Hosting
-plesk.com                                     #Web Hosting
-justhost.com                                  #Web Hosting
-2sx.com                                       #Web Hosting
-aerobaticapp.com                              #Web Hosting
-alfaspace.net                                 #Web Hosting
-arvixe.com                                    #Web Hosting
-bizland.com                                   #Web Hosting
-bluehost.com                                  #Web Hosting
-chez-alice.fr                                 #Web Hosting
-domainpro.de                                  #Web Hosting
-ferozo.com                                    #Web Hosting
-flywheelsites.com                             #Web Hosting
-fortunecity.com                               #Web Hosting
-freeyellow.com                                #Web Hosting
-gb.net                                        #Web Hosting
-getforge.io                                   #Web Hosting
-hosteur.com                                   #Web Hosting
-inmotionhosting.com                           #Web Hosting
-inter.net                                     #Web Hosting
-istcool.de                                    #Web Hosting
-kameleoon.eu                                  #Web Hosting
-levillage.org                                 #Web Hosting
-myregisteredsite.com                          #Web Hosting
-n3.net                                        #Web Hosting
-pagina.be                                     #Web Hosting
-simplenet.com                                 #Web Hosting
-site44.com                                    #Web Hosting
-strefa.pl                                     #Web Hosting
-t35.com                                       #Web Hosting
-uw.hu                                         #Web Hosting
-virtualave.net                                #Web Hosting
-xrea.com                                      #Web Hosting
-xtreemhost.com                                #Web Hosting
+admuncher.com                                  #Software - AdMuncher
+curseapp.net                                   #Software - Curse       (In-Game Voice Chat)
+dashlane.com                                   #Software - Daskline    (Password Manager)
+flipboard.com                                  #Software - Flipbloard
+cdn.flipboard.com                              #Software - Flipbloard
+glarysoft.com                                  #Software - Glary Utilities
+download.iolo.net                              #Software - Iolo (System Mechanic)
+iolo.com                                       #Software - Iolo (System Mechanic)
+iolo.net                                       #Software - Iolo (System Mechanic)
+svc.iolo.com                                   #Software - Iolo (System Mechanic)
+duapp.com                                      #Software - Nox (Android Emulator)
+bignox.com                                     #Software - Nox (Android Emulator)
+plex.direct                                    #Software - Plex  (Stream)
+appexnw.com                                    #Software - Pokki (Start Menu)
+pokki.com                                      #Software - Pokki (Start Menu)
+pokkinw.com                                    #Software - Pokki (Start Menu)
+real.com                                       #Software - RealPlayer
+weatherbug.com                                 #Software - Weatherbug
+weatherbug.net                                 #Software - Weatherbug
+ampsvc.com                                     #Software - WildTangent Games
+dp2manifester.ampsvc.com                       #Software - WildTangent Games
+manifester.ampsvc.com                          #Software - WildTangent Games
+wildgames.com                                  #Software - WildTangent Games
+wildtangent.com                                #Software - WildTangent Games
+api.api.winzip.com                             #Software - Winzip
+winzip.com                                     #Software - Winzip
+kingsoft-office-service.com                    #Software - WPS Office
+kingsoftstore.com                              #Software - WPS Office
+versiontracker.com                             #Software - WPS Office
+wps.cn                                         #Software - WPS Office
+wps.com                                        #Software - WPS Office
+zoom.us                                        #Software - Zoom
+zoom.com                                       #Software - Zoom
 
-cdn.ebaumsworld.com                           #Website - eBaum's World (Contain's adult content)
-ebaumsworld.com                               #Website - eBaum's World (Contain's adult content)
-images.ebaumsworld.com                        #Website - eBaum's World (Contain's adult content)
-rt.com                                        #Website - RT (News Site operated by Russian Gov.)
+pair.com                                       #Web Hosting  (Belgium)
+hospedagemdesites.ws                           #Web Hosting  (Brazil)  LocaWeb
+locaweb.com.br                                 #Web Hosting  (Brazil)
+qbox.me                                        #Web Hosting  (China)
+wz.cz                                          #Web Hosting  (Czech Republic)
+24.eu                                          #Web Hosting  (Europe)
+hosttech.eu                                    #Web Hosting  (Europe)
+cafe24.com                                     #Web Hosting  (Korea)
+dothome.co.kr                                  #Web Hosting  (Korea)
+big07.pl                                       #Web Hosting  (Poland)
+nazwa.pl                                       #Web Hosting  (Poland)
+hostland.pro                                   #Web Hosting  (Russia)
+hostland.ru                                    #Web Hosting  (Russia)
+sprinthost.ru                                  #Web Hosting  (Russia)
+tmweb.ru                                       #Web Hosting  (Russia)
+xsph.ru                                        #Web Hosting  (Russia)
+webcindario.com                                #Web Hosting  (Spain)
+websitehome.co.uk                              #Web Hosting  (UK)
+303.lt                                         #Web Hosting
+mellle.com                                     #Web Hosting
+plesk.com                                      #Web Hosting
+justhost.com                                   #Web Hosting
+2sx.com                                        #Web Hosting
+aerobaticapp.com                               #Web Hosting
+alfaspace.net                                  #Web Hosting
+arvixe.com                                     #Web Hosting
+bizland.com                                    #Web Hosting
+bluehost.com                                   #Web Hosting
+chez-alice.fr                                  #Web Hosting
+domainpro.de                                   #Web Hosting
+ferozo.com                                     #Web Hosting
+flywheelsites.com                              #Web Hosting
+fortunecity.com                                #Web Hosting
+freeyellow.com                                 #Web Hosting
+gb.net                                         #Web Hosting
+getforge.io                                    #Web Hosting
+hosteur.com                                    #Web Hosting
+inmotionhosting.com                            #Web Hosting
+inter.net                                      #Web Hosting
+istcool.de                                     #Web Hosting
+kameleoon.eu                                   #Web Hosting
+levillage.org                                  #Web Hosting
+myregisteredsite.com                           #Web Hosting
+n3.net                                         #Web Hosting
+pagina.be                                      #Web Hosting
+simplenet.com                                  #Web Hosting
+site44.com                                     #Web Hosting
+strefa.pl                                      #Web Hosting
+t35.com                                        #Web Hosting
+uw.hu                                          #Web Hosting
+virtualave.net                                 #Web Hosting
+xrea.com                                       #Web Hosting
+xtreemhost.com                                 #Web Hosting
 
-angellrackets.com                             #Website Builder
-bitballoon.com                                #Website Builder
-bravesites.com                                #Website Builder
-cabanova.fr                                   #Website Builder
-citymax.com                                   #Website Builder
-cloversites.com                               #Website Builder
-doodlekit.com                                 #Website Builder
-droppages.com                                 #Website Builder
-getshogun-cache-production.s3.amazonaws.com   #Website Builder
-cdn.getshogun.com                             #Website Builder
-getshogun.com                                 #Website Builder
-homeworkgenerator.co.uk                       #Website Builder
-hypermart.net                                 #Website Builder
-masterweb.id                                  #Website Builder
-moonfruit.com                                 #Website Builder
-netfirms.com                                  #Website Builder
-ning.com                                      #Website Builder
-ucraft.me                                     #Website Builder
-ukit.me                                       #Website Builder
-urest.org                                     #Website Builder
-webeden.co.uk                                 #Website Builder
-webydo.com                                    #Website Builder
-xtgem.com                                     #Website Builder
-zohosites.com                                 #Website Builder
+cdn.ebaumsworld.com                            #Website - eBaum's World (Contain's adult content)
+ebaumsworld.com                                #Website - eBaum's World (Contain's adult content)
+images.ebaumsworld.com                         #Website - eBaum's World (Contain's adult content)
+rt.com                                         #Website - RT (News Site operated by Russian Gov.)
 
-lycos.com                                     #Search Engine - Links to malware
+angellrackets.com                              #Website Builder
+bitballoon.com                                 #Website Builder
+bravesites.com                                 #Website Builder
+cabanova.fr                                    #Website Builder
+citymax.com                                    #Website Builder
+cloversites.com                                #Website Builder
+doodlekit.com                                  #Website Builder
+droppages.com                                  #Website Builder
+getshogun-cache-production.s3.amazonaws.com    #Website Builder
+cdn.getshogun.com                              #Website Builder
+getshogun.com                                  #Website Builder
+homeworkgenerator.co.uk                        #Website Builder
+hypermart.net                                  #Website Builder
+masterweb.id                                   #Website Builder
+moonfruit.com                                  #Website Builder
+netfirms.com                                   #Website Builder
+ning.com                                       #Website Builder
+ucraft.me                                      #Website Builder
+ukit.me                                        #Website Builder
+urest.org                                      #Website Builder
+webeden.co.uk                                  #Website Builder
+webydo.com                                     #Website Builder
+xtgem.com                                      #Website Builder
+zohosites.com                                  #Website Builder
 
-sogou.com                                     #Search Engine [China]
-soso.com                                      #Search Engine [China]
-apps.bdimg.com                                #Search Engine [China]
-baidu.com                                     #Search Engine [China]
-bdimg.com                                     #Search Engine [China]
-baidu.co.th                                   #Search Engine [China]
-so.com                                        #Search Engine [French]
-gncia.fr                                      #Search Engine [French]
-francite.com                                  #Search Engine [French]
-yandex.net                                    #Search Engine [Russian]
-naver.com                                     #Search Engine [South Korea]
-ask-tb.com                                    #Search Engine   Ask (Toolbar
-anx.tb.ask.com                                #Search Engine   Ask
-ask.com                                       #Search Engine   Ask
-live.tb.ask.com                               #Search Engine   Ask
-search.ask.com                                #Search Engine   Ask
-search.tb.ask.com                             #Search Engine   Ask
-ss-sym.search.ask.com                         #Search Engine   Ask
-tbapi.search.ask.com                          #Search Engine   Ask
-search.comodo.com                             #Search Engine   Comodo
-search.com                                    #Search Engine   CBS
-cdn.cliqz.com                                 #Search Engine   Cliqz
-cliqz.com                                     #Search Engine   Cliqz
-favicons.cliqz.com                            #Search Engine   Cliqz
-img.cliqz.com                                 #Search Engine   Cliqz
-search.juno.com                               #Search Engine   Juno
-sugg.search.yahoo.net                         #Search Engine   Yahoo (Suggestions)
-toolbar.yahoo.com                             #Search Engine   Yahoo (Toolbar)
-search.yahoo.com                              #Search Engine   Yahoo
-us.search.yahoo.com                           #Search Engine   Yahoo
-copernicus-software.stores.yahoo.net          #Search Engine   Yahoo
-search.zonealarm.com                          #Search Engine   ZoneAlarm (Safe Search)
+lycos.com                                      #Search Engine - Links to malware
 
-hi5.com                                       #Social Media (Contains Adult Sites)
+sogou.com                                      #Search Engine [China]
+soso.com                                       #Search Engine [China]
+apps.bdimg.com                                 #Search Engine [China]
+baidu.com                                      #Search Engine [China]
+bdimg.com                                      #Search Engine [China]
+baidu.co.th                                    #Search Engine [China]
+so.com                                         #Search Engine [French]
+gncia.fr                                       #Search Engine [French]
+francite.com                                   #Search Engine [French]
+api.lilo.org                                   #Search Engine [French]
+lilo.org                                       #Search Engine [French]
+search.lilo.org                                #Search Engine [French]
+search.uselilo.org                             #Search Engine [French]
+uselilo.org                                    #Search Engine [French]
+yandex.net                                     #Search Engine [Russian]
+naver.com                                      #Search Engine [South Korea]
+ask-tb.com                                     #Search Engine   Ask (Toolbar
+anx.tb.ask.com                                 #Search Engine   Ask
+ask.com                                        #Search Engine   Ask
+live.tb.ask.com                                #Search Engine   Ask
+search.ask.com                                 #Search Engine   Ask
+search.tb.ask.com                              #Search Engine   Ask
+ss-sym.search.ask.com                          #Search Engine   Ask
+tbapi.search.ask.com                           #Search Engine   Ask
+search.comodo.com                              #Search Engine   Comodo
+search.com                                     #Search Engine   CBS
+cdn.cliqz.com                                  #Search Engine   Cliqz
+cliqz.com                                      #Search Engine   Cliqz
+favicons.cliqz.com                             #Search Engine   Cliqz
+img.cliqz.com                                  #Search Engine   Cliqz
+search.juno.com                                #Search Engine   Juno
+sugg.search.yahoo.net                          #Search Engine   Yahoo (Suggestions)
+toolbar.yahoo.com                              #Search Engine   Yahoo (Toolbar)
+search.yahoo.com                               #Search Engine   Yahoo
+us.search.yahoo.com                            #Search Engine   Yahoo
+copernicus-software.stores.yahoo.net           #Search Engine   Yahoo
+search.zonealarm.com                           #Search Engine   ZoneAlarm (Safe Search)
 
-mediaconverteronline.com                      #Video Converter
+hi5.com                                        #Social Media (Contains Adult Sites)
 
-downloadaccelerator.com                       #Video Downloader
-savetubevideo.com                             #Video Downloader
-snappea.com                                   #Video Downloader
+mediaconverteronline.com                       #Video Converter
 
-whatsapp.net                                  #VOIP
+downloadaccelerator.com                        #Video Downloader
+savetubevideo.com                              #Video Downloader
+snappea.com                                    #Video Downloader
 
-
-
-qibla.com                                     #Islamic
-oicc.org                                      #Islamic
+whatsapp.net                                   #VOIP
 
 
-cyclope-series.com                            #Employee Monitoring Software
+
+qibla.com                                      #Islamic
+oicc.org                                       #Islamic
+
+
+cyclope-series.com                             #Employee Monitoring Software
 
 
 
