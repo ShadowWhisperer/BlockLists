@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/16/2020  22:42  (10:42 PM)  - Central Standard Time
+# Updated: 7/20/2020  10:06  (10:06 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -297,6 +297,7 @@ ms.sc-jpl.com                                             #SnapChat
 rtam-collector.snapchat.com                               #SnapChat
 sc-jpl.com                                                #SnapChat
 scm.sc-jpl.com                                            #SnapChat
+shows.snapchat.com                                        #SnapChat
 s.sc-jpl.com                                              #SnapChat
 st.sc-jpl.com                                             #SnapChat
 app.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
@@ -434,8 +435,6 @@ friend.gc.apple.com                              #Apple
 gateway-carry.icloud.com                         #Apple
 gil.apple.com.akadns.net                         #Apple
 gir.apple.com                                    #Apple
-gsa.apple.com.akadns.net                         #Apple
-gsa.apple.com                                    #Apple
 gsas.apple.com.akadns.net                        #Apple
 gsas.apple.com                                   #Apple
 gsp2.apple.com                                   #Apple
@@ -550,6 +549,7 @@ shepherd.ff.avast.com                    #Avast / AVG
 su.ff.avast.com                          #Avast / AVG
 yesno.ff.avast.com                       #Avast / AVG
 bazaarvoice.com                                #Bazaarvoice
+bazaarvoice-prod-01.dn.apigee.net              #Bazaarvoice
 d3rpajgr3c5p5n.cloudfront.net                  #Bazaarvoice
 photos-bazaar-euw1.prod.bazaarvoice.com        #Bazaarvoice
 photos-bazaar-use1.nexus.bazaarvoice.com       #Bazaarvoice
@@ -560,6 +560,7 @@ static.curations.bazaarvoice.com               #Bazaarvoice
 li.cnn.com                                   #CNN
 newsource-embed-prd.ns.cnn.com               #CNN
 smartsourcestaging.dell.com                      #Dell
+www1.ins.dell.com                                #Dell
 block.dropbox.com                            #DropBox
 block-edge-1.dropbox.com                     #DropBox
 block-edge.dropbox.com                       #DropBox
@@ -607,9 +608,18 @@ t.update.fbsbx.com                           #Facebook
 s9.gp1.wac.gammacdn.net                        #FedEx
 foxbusinessp.factsetdigitalsolutions.com           #Fox News
 h20255.www2.hp.com                             #HP
+edge-chat.instagram.com                  #Instagram
 instagram.c10r.facebook.com              #Instagram
+instagram.fcai3-2.fna.fbcdn.net          #Instagram
+instagram.fist4-1.fna.fbcdn.net          #Instagram
+instagram.fjed4-3.fna.fbcdn.net          #Instagram
 maps.instagram.com                       #Instagram
+scontent-atl3-1.cdninstagram.com         #Instagram
+scontent-cdt1-1.cdninstagram.com         #Instagram
 scontent-nrt1-1.cdninstagram.com         #Instagram
+scontent-nrt1-1.cdninstagram.com         #Instagram
+scontent-prg1-1.cdninstagram.com         #Instagram
+scontent-yyz1-1.cdninstagram.com         #Instagram
 z-p42-instagram.c10r.facebook.com        #Instagram
 bob-fedex-fsg002.gameloft.com                #GameLoft
 bob-hermes.gameloft.com                      #GameLoft
@@ -741,6 +751,7 @@ wpad.isd2184.net                           #Luverne - Public School District
 zrhuhdohuypmmq.isd2184.net                 #Luverne - Public School District
 chimpstatic.com                              #MailChimp
 conduit.mailchimpapp.com                     #MailChimp
+devicediscovery.ccs.mcafee.com               #McAfee
 balrog-aus5.r53-2.services.mozilla.com     #Mozilla
 balrog-cloudfront.prod.mozaws.net          #Mozilla
 live.thunderbird.net                       #Mozilla
@@ -765,7 +776,9 @@ probe-ixunicast.prod.ftl.netflix.com           #Netflix
 lrs.netgear.com                                  #NetGear
 countly.netgear.com                              #NetGear
 prod.online.pos.svc.ovi.com                    #Nokia
+fe0001.norton.com                            #Norton
 fire-base.com                                #Norton
+mts.norton.com                               #Norton
 nag.norton.com                               #Norton
 upload1.symantec.com                         #Norton
 upload2.symantec.com                         #Norton
@@ -832,7 +845,10 @@ api.vsco.co                                    #Vsco
 p.vsco.co                                      #Vsco
 sts3.wsj.net                                 #Wall Street Journal
 vir.wsj.net                                  #Wall Street Journal
+cres.waze.com                               #Waze
 gapi.waze.com                               #Waze
+inbox-na.waze.com                           #Waze
+rtproxy-na-l7.waze.com                      #Waze
 social-na.waze.com                          #Waze
 wazespeechactiviation-pa.googleapis.com     #Waze
 123formbuilder.com                                #Website Builder
