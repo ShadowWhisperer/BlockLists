@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/21/2020  23:29  (11:29 PM)  - Central Standard Time
+# Updated: 7/24/2020  16:49  (4:49 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -237,6 +237,7 @@ olympoption.com             #Existing Lists
 #############################
 webtools.media              #Associated with scam site "cdn.get4k.tv"
 blacksportsonline.com       #Fake News ?
+qbgarage.com                #Fake QuickBooks Help Page ?  Has real info
 api.fondy.eu                #Credit Card Processor *Mostly negative reviews
 fondy.eu                    #Credit Card Processor *Mostly negative reviews
 eastwood.com                #Mostly negative reviews
@@ -294,6 +295,7 @@ keynote.litmos.com                                    #SAP Litmos
 litmos.com                                            #SAP Litmos
 click.e.scheels.com                                          #Scheels
 orderlogicapp.com                                           #Shopify
+cognac-prod.appspot.com                                   #SnapChat
 loca.sc-jpl.com                                           #SnapChat
 loc.sc-jpl.com                                            #SnapChat
 ms.sc-jpl.com                                             #SnapChat
@@ -307,7 +309,8 @@ app.snipcart.com                                             #SnipCart - Shoppin
 cdn.snipcart.com                                             #SnipCart - Shopping Cart Integration (Could Track Items)
 waws-prod-bn1-003.sip.azurewebsites.windows.net              #SnipCart - Shopping Cart Integration (Could Track Items)
 id.sonyentertainmentnetwork.com                                         #Sony (Might Break Login, untested)
-api.vanilla.futurecdn.net                                          #tomsguide.com
+api.vanilla.futurecdn.net                                                   #tomsguide.com
+a8c9afcbaae2911e999ab06856fdecad-1850093500.us-west-2.elb.amazonaws.com     #tomshardware.com
 maliva-mcs.byteoversea.com                                             #tiktok.com   On Site
 mon-va.byteoversea.com                                                 #tiktok.com   On Site
 sgali-mcs.byteoversea.com                                              #tiktok.com   On Site

@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 7/20/2020  10:06  (10:06 AM)  - Central Standard Time
+# Updated: 7/24/2020  16:49  (4:49 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -6971,6 +6971,7 @@ amdas1.clicktale.net
 amdas2.clicktale.net
 am-dashboard.macromill.com
 am-dashboard-stg.macromill.com
+amd-athena-rs-install-logs.s3.amazonaws.com
 amdb01.clicktale.net
 amdb02.clicktale.net
 am-display.hb.adx1.com
@@ -9613,6 +9614,7 @@ api.remerge.io
 api-reporting.abtasty.com
 apirequest.airfind.com
 api.resonate.com
+api.rest7.com
 api.returnpath.com
 api.rfksrv.com
 api.richaudience.com
@@ -13894,6 +13896,7 @@ bvu.adx1.com
 bvub.actonsoftware.com
 bwa.birst.com
 bw.commander1.com
+b.webmd.com
 b.webtrends.com
 bwia.agilecrm.com
 b.wishabi.com
@@ -17640,6 +17643,7 @@ client-error-log.dz.optimizely.com
 client-event-reporter.twitch.tv
 clientinsights.kontera.com
 client.justuno.com
+client-log.box.com
 client-logger.beta.salemove.com
 clientlog.midomi.com
 clientlog.portal.office.com
@@ -18056,6 +18060,7 @@ cmpmmimsonlineaus2.112.207.net
 cmpny18751.addressy.com
 cmp-origin-master-cf.digitru.st
 cmp-origin-master.digitru.st
+cmp.techadvisor.co.uk
 cmpush.ksmobile.net
 cmp.venca.commander1.com
 cmr.gemius.pl
@@ -21216,6 +21221,7 @@ cse-prod.ematicsolutions.com
 cset.corporate.intercom.io
 csg.blueconic.net
 c.sg.msn.com
+c.sharethis.mgr.consensu.org
 cs.hit.gemius.pl
 cshlf.blueconic.net
 cshnebrb.micpn.com
@@ -23823,6 +23829,7 @@ device.4seeresults.com
 device-api-staging.urbanairship.com
 device-api.urbanairship.com
 deviceatlas.com
+deviceid.ff.avast.com
 deviceidshare.twitch.tv
 device.insert.io
 device.maxmind.com
@@ -28647,6 +28654,7 @@ gbsicl43-ios.mobile-sdk-api.intercom.io
 gb-ssl.effectivemeasure.net
 gb-staging.identity.api.liveramp.com
 gbxcljfp-android.mobile-sdk-api.intercom.io
+gbxgateway.dell.com
 gc157.mta.exacttarget.com
 gc194.mta.exacttarget.com
 gc78.mta.exacttarget.com
@@ -28884,6 +28892,7 @@ geobeacon.ign.com
 geoblock.similarweb.com
 geo.bluecava.com
 geobytes.com
+geo.cardinalcommerce.com
 geo-chk.prod.snackly.co
 geo.choice.faktor.io
 geocode.arcgis.com
@@ -30412,6 +30421,7 @@ hb-api-fra02.omnitagjs.com
 hb-api.omnitagjs.com
 hb-api-usa01.omnitagjs.com
 hb-api-usa02.omnitagjs.com
+hb.aplus.net
 hb.autodesk.com
 hb.bidgear.com
 hbbqgfy3-android.mobile-sdk-api.intercom.io
@@ -30790,6 +30800,7 @@ hhh.onthe.io
 hhilton.sjv.io
 hhl.adx1.com
 hhn-v4.pops.fastly-insights.com
+h.hollywood.com
 hhru.helpshift.com
 hi8lton.sjv.io
 hi9lton.sjv.io
@@ -30989,6 +31000,7 @@ hive.beeketing.com
 hivewyre.containers.piwik.pro
 hivewyre.piwik.pro
 hi.webtrends.com
+h.iwin.com
 hizhkluz.micpn.com
 hjhaw.voluumtrk3.com
 hjilton.sjv.io
@@ -33481,6 +33493,7 @@ ipaddress.org
 ip-address.ru
 ipaddressworld.com
 ip.adjust.com
+ip-adress.com
 ip-adress.eu
 ipa-ipinvite.iperceptions.com
 ipam.extranet.weborama.com
@@ -33579,6 +33592,7 @@ iptrack02.webtrekk.net
 iptrack03.webtrekk.net
 iptrack04.webtrekk.net
 iptrack05.webtrekk.net
+iptrackeronline.com
 iptrack.io
 ip.tyk.nu
 ipu4.pricespider.com
@@ -33596,6 +33610,7 @@ ipv6.ipinfo.io
 ipva4.icanhazip.com
 ipv.icanhazip.com
 ipvigilante.com
+ip-whois.net
 ipwtlfqa.micpn.com
 i.pyze.com
 iqads.2cnt.net
@@ -49465,6 +49480,7 @@ responsetap.com
 responzive.iljmp.com
 ressourcecompetence.agilecrm.com
 ressources.mindtake.com
+rest7.com
 restapi.amap.com
 restapi.boa.exacttarget.com
 restapi-devedition.s4.exacttarget.com
@@ -63508,6 +63524,7 @@ teampass.vuble.tv
 teamrmhc1.rpxnow.com
 teams-admin.optimizely.com
 teams.adx1.com
+teams.events.data.microsoft.com
 teams.optimizely.com
 team.sortable.com
 teams.powerbi.com
@@ -71625,6 +71642,8 @@ whatismyip.akamai.com
 whatismyip.com
 whatismyip.com.br
 whatismyip.li
+whatismyip.net
+whatismyip.org
 whatismypublicip.com
 whatis.techtarget.com
 whatmyip.us
@@ -71877,6 +71896,7 @@ wm.banners.sextracker.com
 wmfd.iljmp.com
 wmfsmarketingsolutions.incisivemedia.com
 wmgk.sslproxy.gigya.com
+wm.intuit.com
 wmi.oo000oo.clubomniture.suiteall.112.207.net
 wm.mtree.com
 wmp-forumde.digidip.net
