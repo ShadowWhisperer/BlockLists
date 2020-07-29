@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/24/2020  16:49  (4:49 PM)  - Central Standard Time
+# Updated: 7/28/2020  19:23  (7:23 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -343,13 +343,17 @@ analysis.fi
 api.huqindustries.co.uk
 apis.kostprice.com
 app.launchdarkly.com
+cdn.everup.io
 charles.huqindustries.co.uk
 cm.adsafety.net
 c.zrcir.com
 d3js.org
+d3rejxwqd62g63.cloudfront.net
 dotdash.map.fastly.net
 dtzbdy9anri2p.cloudfront.net
 ecdn.analysis.fi
+everup.io
+exlusepolly.com
 felix.data.tm-awx.com
 geolookup-a.akamaihd.net
 gsspcln.jp
@@ -362,6 +366,7 @@ mlab-ns.appspot.com
 p13nlog-1106815646.us-east-1.elb.amazonaws.com
 report-uri.robinhood.com
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
+sensebot-na.oss-us-east-1.aliyuncs.com
 static.intentarget.com
 status-sh.cloudcade.com
 tags.adsafety.net
@@ -371,7 +376,24 @@ tockance.com
 trackuhub.com
 universal.iper2.com
 zrcir.com
-exlusepolly.com
+
+
+#############################
+# Pay To Access / View
+#############################
+api.truthfinder.com              #Background Check
+backgroundchecks.org             #Background Check
+beenverified.com                 #Background Check
+checkout.staterecords.org        #Background Check
+frcdn.beenverified.com           #Background Check
+graph.staterecords.org           #Background Check
+iowa.staterecords.org            #Background Check
+jumptracker.com                  #Background Check
+publicrecords.searchsystems.net  #Background Check
+results.staterecords.org         #Background Check
+searchsystems.net                #Background Check
+staterecords.org                 #Background Check
+truthfinder.com                  #Background Check
 
 
 #############################
@@ -380,6 +402,7 @@ exlusepolly.com
 ali213.co                                           #Pirated Games
 player.h-cdn.com                                    #Was in Bitcoin lists - Says it causes issuess after video Ad
 na1r.services.adobe.com                                               #Adobe - Product Activation ?
+gdanstum.net                                               #AdFly
 bin5y4muil.execute-api.us-east-1.amazonaws.com                    #Amazon AWS
 ec2-52-193-201-206.ap-northeast-1.compute.amazonaws.com           #Amazon AWS
 firehose.us-east-1.amazonaws.com                                  #Amazon AWS
