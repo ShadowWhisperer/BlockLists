@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/28/2020  19:23  (7:23 PM)  - Central Standard Time
+# Updated: 7/28/2020  22:52  (10:52 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -338,6 +338,7 @@ miriamholid.fun                                                #Either Tracker o
 mlstat.com                                                     #Either Tracker or Malware (On Browser Hijack Page)  https://www.mlstat.com/statistics/appid/wgimage.gif?appID=0&lpID=5804&systemID=833&eventID=1&OSID=0&clientVersion=&clientBuildNumber=&clientLanguageCode=&rand=0.0810061757677687
 heatmap.services                                               #Either Tracker or Malware (Temporarily Down for Maintenance)
 #######################################################
+acsbap.com
 adcs.rqmob.com
 analysis.fi
 api.huqindustries.co.uk

@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 7/28/2020  19:23  (7:23 PM)  - Central Standard Time
+# Updated: 7/28/2020  22:52  (10:52 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -20316,7 +20316,6 @@ bd-fl.r-ad.ne.jp
 bd-fl-stg.r-ad.ne.jp
 bdkntsju.12gbfree.com
 bd.moatads.com
-b._dns-sd._udp.0.32.170.10.in-addr.arpamatch.basebanner.com
 b.dp.yieldmanager.net
 bd.r-ad.ne.jp
 bdrcr.nexage.com
@@ -57869,6 +57868,7 @@ tp.ads.yahoo.com
 t.pardot.com
 tpbid.com
 tpcf.feedify.net
+tpc.googlesyndication.com
 tp.cpcempower.com
 tpdrpcgvkc.us-east-1.elasticbeanstalk.com
 tpe-dmp.tenmax.io

@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 7/28/2020  19:23  (7:23 PM)  - Central Standard Time
+# Updated: 7/28/2020  22:52  (10:52 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -969,7 +969,6 @@
 2017.chartbeat.com
 201935363-prod.rfksrv.com
 2019.chartbeat.com
-202.213.30.69.in-addr.arpaexelate.rtb.adx1.com
 2026.api.swrve.com
 2026.content.swrve.com
 20272.engine.mobileapptracking.com
@@ -25194,6 +25193,7 @@ ezeeworld.com
 eze-v4.pops.fastly-insights.com
 ezkm5xxlit9qhegtbhpxg9vqqjl8o1507540601.nuid.imrworldwide.com
 ezlynx-prod.firebaseio.com
+ezodn.com
 ezoic.com
 ezpanel.ezoic.com
 ezpay.adx1.com
@@ -26862,6 +26862,7 @@ gdpr.branch.io
 gdpr-dev.demandbase.com
 gdpr-es.eu.acxiom.com
 gdpr.eu.acxiom.com
+gdpr.internetbrands.com
 gdpr-prod.demandbase.com
 gdpr-requests.utils.appdynamics.com
 gdpr.singular.net
@@ -44720,8 +44721,6 @@ prod-match-west-haproxylb.rundsp.com
 prodnode-uk.imrworldwide.com
 prodnode-us.imrworldwide.com
 prod.oba.iponweb.net
-prod.online.pos.svc.ovi.eu-central-1.pos.here.com
-prod.online.pos.svc.ovi.us-east-1.pos.here.com
 prod.optimahub.com
 prodperfect.com
 prod.pos.svc.ovi.us-east-1.pos.here.com
@@ -59530,7 +59529,6 @@ tcs-tracking.adtelligence.de
 tcstraps.iljmp.com
 tc.touchcommerce.com
 tcu.blueconic.net
-t.custora.com.cdn.cloudflare.netroyale-ssl.cdn.spongecell.com
 t.dailymail.co.uk
 t.d.ants.vn
 tdcv3.talkingdata.net
@@ -67552,6 +67550,7 @@ widget.tapad.com
 widget.terapeak.com
 widget.uservoice.com
 widget.webtrends.com
+widget.zoorate.com
 wieistmeineip.de
 wienerstadtwerke01.webtrekk.net
 wienerstadtwerke03.webtrekk.net
@@ -69124,6 +69123,7 @@ zoominfo.com
 zoom.links.channelintelligence.com
 zoomtorino.count.ly
 zoopla.onelink.me
+zoorate.com
 zoover.adclixx.net
 zoover.adtrackers.net
 zoover.bannertrack.net
