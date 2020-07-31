@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/28/2020  22:52  (10:52 PM)  - Central Standard Time
+# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -107,10 +107,12 @@ images.highspeedbackbone.net
 images.pricegrabber.com
 js.himediads.com
 loading-delivery2.com
+m2-c.pmsrv.co
 mb104.com
 n2s.co.kr
 partner.mediametrics.ru
 ping-traffic.info
+pmsrv.co
 potpourrichordataoscilloscope.com
 reklam9.com
 stardeals.mobi
@@ -318,7 +320,6 @@ api.gdsec.net                                                    #Tutela ?
 gdsec.net                                                        #Tutela ?
 client.amplifi.com                                          #Unifi
 ubnt.i.lithium.com                                          #Unifi - Not sure if still used. Haven't seen in a while
-dako.maillist-manage.com                                 #zoho.com - Dakota Silencer
 #######################################################
 sg.tdm.qq.com                                               #Android Games  (Tencent Games)
 ipv6-sh.itop.qq.com                                         #Android Games  (Tencent Games)
@@ -895,4 +896,5 @@ lh.secure.yahoo.com                          #Yahoo
 ###########################################################
 vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for displaying timed text in videos
 ##################################################################
-api.na1.region.vmwservices.com   #Android Phone
+api.na1.region.vmwservices.com                                       #Android Phone
+goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com   #Samsung Phone

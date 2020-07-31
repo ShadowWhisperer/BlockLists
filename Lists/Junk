@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 7/20/2020  10:06  (10:06 AM)  - Central Standard Time
+# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -30,6 +30,13 @@ pandasecurity.com                             #Antivirus    Panda
 pandasoftware.com                             #Antivirus    Panda
 stopzilla.com                                 #Antivirus    StopZilla
 totalav.com                                   #Antivirus    TotalAV
+detail.webrootcloudav.com                     #Antivirus    Webroot
+g2.p4.webrootcloudav.com                      #Antivirus    Webroot
+sn-euw1.webrootcloudav.com                    #Antivirus    Webroot
+sn-usw2.webrootcloudav.com                    #Antivirus    Webroot
+snu.webrootcloudav.com                        #Antivirus    Webroot
+sn.webrootcloudav.com                         #Antivirus    Webroot
+updates.webroot.com                           #Antivirus    Webroot
 webrootcloudav.com                            #Antivirus    Webroot
 webroot.com                                   #Antivirus    Webroot
 
@@ -179,6 +186,7 @@ magiquiz.com                                  #Quiz
 
 bytedance.com                                  #App  TikTok
 dm.bytedance.com                               #App  TikTok
+isnssdk.com                                    #App  TikTok
 muscdn.com                                     #App  TikTok
 p16-tiktokcdn-com.akamaized.net                #App  TikTok
 s16.tiktokcdn.com                              #App  TikTok
@@ -285,15 +293,16 @@ angellrackets.com                              #Website Builder
 bitballoon.com                                 #Website Builder
 bravesites.com                                 #Website Builder
 cabanova.fr                                    #Website Builder
+cdn.getshogun.com                              #Website Builder
 citymax.com                                    #Website Builder
 cloversites.com                                #Website Builder
 doodlekit.com                                  #Website Builder
 droppages.com                                  #Website Builder
 getshogun-cache-production.s3.amazonaws.com    #Website Builder
-cdn.getshogun.com                              #Website Builder
 getshogun.com                                  #Website Builder
 homeworkgenerator.co.uk                        #Website Builder
 hypermart.net                                  #Website Builder
+jigsy.com                                      #Website Builder
 masterweb.id                                   #Website Builder
 moonfruit.com                                  #Website Builder
 netfirms.com                                   #Website Builder

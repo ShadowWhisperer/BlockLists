@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 7/28/2020  22:52  (10:52 PM)  - Central Standard Time
+# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -6290,6 +6290,7 @@ analytics-djmusic-site.at
 analytics-djmusic-site.com
 analytics-djmusic-site.de
 analytics.dnnapi.com
+analytics.dnsfilter.com
 analytics.doccheck.com
 analytics.docdoc.ru
 analytics.dogsbody.com
@@ -8798,8 +8799,11 @@ app-log.immomo.com
 applog.matrix.easebar.com
 applog.matrix.netease.com
 applog.musical.ly
+applog.musical.ly.edgekey.net
 app.logrocket.com
 applogs.pixelfederation.com
+applog-useast1a.musical.ly
+applog-useast2a.musical.ly
 applovin-asia-rtb.liftoff.io
 applovin-east-rtb.liftoff.io
 applovin-europe-rtb.liftoff.io
@@ -9818,6 +9822,7 @@ a.unicredit-italia.it
 aura.saas.appdynamics.com
 aurizone.agilecrm.com
 auroravizion.iljmp.com
+auryc.com
 a-us-east.rfihub.com.akadns.net
 au-secondary.apac-staging.identity.api.liveramp.com
 a.use-enco.com
@@ -11587,6 +11592,7 @@ bidder9-imp-stage.tribalfusion.com
 bidder9-imp.tribalfusion.com
 bidder9.tribalfusion.com
 bidder.aws-virginia.adacts.com
+bidder.criteo.com
 bidder.dsp.adacts.com
 bidder-eu.adacts.com
 bidder-eu-central.taptapnetworks.com
@@ -13827,6 +13833,7 @@ cdn1.zoomanalytics.co
 cdn25.lemnisk.co
 cdn25-s.lemnisk.co
 cdn2.airfind.com
+cdn2.auryc.com
 cdn-2.convertexperiments.com
 cdn2.crispadvertising.com
 cdn2.gigya.com
@@ -13914,17 +13921,6 @@ cdn.adx1.co.adx1.com
 cdn.adx1.cocdn.adx1.com
 cdn.adx1.codn.adx1.com
 cdn.adx1.com
-cdn.adx1.com.adx1.com
-cdn.adx1.comcdn.adx1.com
-cdn.adx1.comdn.adx1.com
-cdn.adx1.comn.adx1.com
-cdn.adx1.con.adx1.com
-cdn.adx1dn.adx1.com
-cdn.adx1.n.adx1.com
-cdn.adx1n.adx1.com
-cdn.adx.adx1.com
-cdn.adxcdn.adx1.com
-cdn.adxn.adx1.com
 cdn.airfind.com
 cdn.airpr.com
 cdn-aitg.widerplanet.com
@@ -13959,6 +13955,7 @@ cdn.atwola.com
 cdn.au1.gigya.com
 cdn.audiencemanager.de
 cdn.augur.io
+cdn.auryc.com
 cdn-aus-v3.conductrics.com
 cdn.avandor.com
 cd.navdmp.com
@@ -14262,6 +14259,7 @@ cdn.onlinesucces.nl
 cdn.onnetwork.tv
 cdn.onthe.io
 cdn.openstat.com
+cdn.optimizely.com
 cdn-or-cia2853.actonsoftware.com
 cdn.oribi.io
 cdnorigin.banners.advidi.com
@@ -14328,6 +14326,7 @@ cdns5.gigya.com
 cdns.amgdgt.com
 cdns.au1.gigya.com
 cdns.canddi.com
+cdn-scripts.signifyd.com
 cdn-sec.tacoda.at.atwola.com
 cdn-secure.liverail.com
 cdn-secure.videohub.tv
@@ -19888,6 +19887,7 @@ d1.dhgate.com
 d1ffafozi03i4l.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
 d1hc14f07g70ck.cloudfront.net
+d1igp3oop3iho5.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
 d1vl8wytztdz.cloudfront.net
@@ -30435,6 +30435,7 @@ imgs.iplogger.org
 img.sociaplus.com
 img-sparkasse-koelnbonn.wt-eu02.net
 img.speedcurve.com
+imgs.signifyd.com
 img-test.litix.io
 img-test.macromill.com
 imgtmp.adm.cnzz.com
@@ -32179,6 +32180,7 @@ juke.mmi.tns-ua.com
 jul4aenjbvoouaum8mtsghguem6ih1514984415.nuid.imrworldwide.com
 julep.btttag.com
 jumanji.saas.appdynamics.com
+jumbe.zaius.com
 ju.mediav.com
 jumia01.webtrekk.net
 jumio.pathfactory.com
@@ -32426,6 +32428,7 @@ khn.blueconic.net
 khzsa1fn.micpn.com
 kia.cxense.com
 kia.solution.weborama.fr
+kia-tagging-tagserver-prod.azurewebsites.net
 kib.adx1.com
 kibana.airfind.com
 kibana.airpr.com
@@ -33724,6 +33727,9 @@ log12.f-tra.jp
 log.152153.com
 log15.byteoversea.com
 log16.byteoversea.com
+log16.byteoversea.com.edgekey.net
+log16-normal-c-useast1a.tiktokv.com
+log16-normal-c-useast2a.tiktokv.com
 log.17zuoye.net
 log1.adsplay.net
 log1.cmpassport.com
@@ -33757,13 +33763,16 @@ log2.molitv.cn
 log2.mtime.cn
 log2.musical.ly
 log2.musical.ly.domain.name
+log2.musical.ly.edgesuite.net
 log2.reflow.tv
 log-2.samsungacr.com
 log2.sniperlog.ru
 log2.spotify.com
 log2.tagtic.cn
 log2.tapatalk.com
+log2-useast1a.musical.ly
 log2-useast2a.musical.ly
+log2-useast2a.musical.ly.edgekey.net
 log2.uuserv10.com
 log30.doubleverify.com
 log-3347ea06.bzl.v2.we-stats.com
@@ -34798,6 +34807,7 @@ log.tapatalk.com
 log.tapchitaichinh.vn
 log.targetpush.co.kr
 log-tb.isnssdk.com
+log-tb.sgsnssdk.com
 log.tbs.qq.com
 log.tel.dolead.com
 logtest.moatads.com
@@ -34814,6 +34824,7 @@ log.thetripics.com
 log.ti-da.net
 log.tienphong.vn
 log.tiktokv.com
+log.tiktokv.com.edgesuite.net
 log.tinnhac.com
 log.tksmiami.com
 log.tool.hexun.com
@@ -34893,6 +34904,7 @@ logv7.xiti.com
 logv8.xiti.com
 logv9.xiti.com
 log.vads.net.vn
+log-va.tiktokv.com
 log.vcgame.cn
 log.vdisk.cn
 log.vegasslotspocket.com
@@ -36167,6 +36179,7 @@ mbank.hit.gemius.pl
 mbeauty.touchcommerce.com
 mbestdaymx.btttag.com
 mb.fullstory.com
+mboxedge35.tt.omtrdc.net
 mbpaop7l.micpn.com
 mbr-targeting.com
 mbs.iljmp.com
@@ -39141,6 +39154,7 @@ mta-sts.adx1.com
 mta-sts.h1zc6.voluumtrk3.com
 mta-sts.mail.adx1.com
 mta-sts.mail.reachspaces.adx1.com
+mt.auryc.com
 mtauto2.t.domdex.com
 mtc.nhk.or.jp
 mt.cnzz.com
@@ -47349,6 +47363,7 @@ rtl.oewabox.at
 rtlog.byteoversea.com
 rtlog.isnssdk.com
 rtlog.musical.ly
+rtlog.musical.ly.edgekey.net
 rtlog.tiktokv.com
 rtlventures.blueconic.net
 rtlvtest1.2cnt.net
@@ -64137,7 +64152,6 @@ trk.carrefour.pl
 trk.cashmylinks.com
 trkcdn.atomex.net
 trk.cetrk.com
-trk.cetrk.comtrk.cetrk.com
 trk.checkavailbility.com
 trk.chick-fil-a.com
 trk.choicehotels.com
@@ -66710,6 +66724,7 @@ w1.tcr9.tynt.com
 w2-exp.jivox.com
 w2.jivox.com
 w2.marinsm.com
+w2txo5aagwcwol66q42o7pusytgr5vdtruilx4nq1169bd87a439af80sac.d.aa.online-metrix.net
 w2yjlqaabu1rjjx0.everesttech.net
 w3c.metalyzer.com
 w3counter.com
@@ -67194,6 +67209,7 @@ web.localytics.com
 weblogger1.analytics.go.com
 webmasterkai.sitetracker.com
 webmasters.sextracker.com
+webmdcom.tt.omtrdc.net
 webmddfp936579382290.s.moatpixel.com
 webmeter2.imrworldwide.com
 webmeter2.redsheriff.com
@@ -68442,10 +68458,15 @@ xkfldp1rce3w9kgpydewoz8frlmn31505450130.nuid.imrworldwide.com
 xlauncher-logs.s3.amazonaws.com
 xl.jivox.com
 xlog.byteoversea.com
+xlog.byteoversea.com.edgesuite.net
 xlog.snssdk.com
 xlog.tiktokv.com
+xlog.tiktokv.com.edgesuite.net
 xlog-va.byteoversea.com
+xlog-va.byteoversea.com.edgesuite.net
 xlog-va.musical.ly
+xlog-va.musical.ly.edgesuite.net
+xlog-va.tiktokv.com
 xlogz.com
 xltech.agilecrm.com
 xlygx-yun.stor.sinaapp.com
@@ -68474,7 +68495,6 @@ xoomenergy.sjv.io
 xopen.ksmobile.com
 xoxomaplianta.ltdcdn.vindicosuite.com
 xp1.ru4.com
-xp1.ru4.comm.xp1.ru4.com
 xpanama.net
 xp.apple.com
 x-pdx1.vindicosuite.com

@@ -1,6 +1,6 @@
 #
 #    File: Typo   (Typosquatting / Misspelling of websites. Custom script + domaincheckplugin.com/typo)
-# Updated: 7/20/2020  10:06  (10:06 AM)  - Central Standard Time
+# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -414,7 +414,6 @@ adobe.cok
 adobe.cokm
 adobe.colm
 adob.ecom
-adobe..com
 adobec.om
 adobe.comj
 adobe.comk
@@ -657,7 +656,6 @@ allstate.cok
 allstate.cokm
 allstate.colm
 allstat.ecom
-allstate..com
 allstatec.om
 allstate.comj
 allstate.comk
@@ -821,7 +819,6 @@ amazon.cok
 amazon.cokm
 amazon.colm
 amazo.ncom
-amazon..com
 amazonc.om
 amazon.comj
 amazon.comk
@@ -1008,7 +1005,6 @@ americanexpress.colm
 americanex-press.com
 americanexp-ress.com
 americanexpres.scom
-americanexpress..com
 americanexpressc.om
 americanexpress.comj
 americanexpress.comk
@@ -1169,7 +1165,6 @@ amfam.cok
 amfam.cokm
 amfam.colm
 amfa.mcom
-amfam..com
 amfamc.om
 amfam.comj
 amfam.comk
@@ -1258,7 +1253,6 @@ amica.cok
 amica.cokm
 amica.colm
 amic.acom
-amica..com
 amicac.om
 amica.comj
 amica.comk
@@ -1482,7 +1476,6 @@ angieslist.cok
 angieslist.cokm
 angieslist.colm
 angieslis.tcom
-angieslist..com
 angieslistc.om
 angieslist.comj
 angieslist.comk
@@ -1669,7 +1662,6 @@ a-pple.com
 ap-ple.com
 app-le.com
 appl.ecom
-apple..com
 applec.om
 apple.comj
 apple.comk
@@ -1834,7 +1826,6 @@ asus.cok
 asus.cokm
 asus.colm
 asu.scom
-asus..com
 asusc.om
 asus.comj
 asus.comk
@@ -1930,7 +1921,6 @@ att.cok
 att.cokm
 att.colm
 at.tcom
-att..com
 attc.om
 att.comj
 att.comk
@@ -2115,7 +2105,6 @@ auto-owners.colm
 aut-oowners.com
 auto--owners.com
 auto-owner.scom
-auto-owners..com
 auto-ownersc.om
 autoo-wners.com
 autoowners.com
@@ -2238,7 +2227,6 @@ avg.cok
 avg.cokm
 avg.colm
 av.gcom
-avg..com
 avgc.om
 avg.comj
 avg.comk
@@ -2347,7 +2335,6 @@ avira.cok
 avira.cokm
 avira.colm
 avir.acom
-avira..com
 avirac.om
 avira.comj
 avira.comk
@@ -2371,7 +2358,6 @@ avira.dcom
 avira.dd
 avira.dde
 avir.ade
-avira..de
 avirad.e
 avira.de3
 avira.de4
@@ -2732,7 +2718,6 @@ bankofamerica.cok
 bankofamerica.cokm
 bankofamerica.colm
 bankofameric.acom
-bankofamerica..com
 bankofamericac.om
 bankofamerica.comj
 bankofamerica.comk
@@ -2949,7 +2934,6 @@ bankwithssb.cok
 bankwithssb.cokm
 bankwithssb.colm
 bankwithss.bcom
-bankwithssb..com
 bankwithssbc.om
 bankwithssb.comj
 bankwithssb.comk
@@ -3179,7 +3163,6 @@ barnesandnoble.cok
 barnesandnoble.cokm
 barnesandnoble.colm
 barnesandnobl.ecom
-barnesandnoble..com
 barnesandnoblec.om
 barnesandnoble.comj
 barnesandnoble.comk
@@ -3373,7 +3356,6 @@ bcbs.cok
 bcbs.cokm
 bcbs.colm
 bcb.scom
-bcbs..com
 bcbsc.om
 bcbs.comj
 bcbs.comk
@@ -3531,7 +3513,6 @@ bestbuy.cok
 bestbuy.cokm
 bestbuy.colm
 bestbu.ycom
-bestbuy..com
 bestbuyc.om
 bestbuy.comj
 bestbuy.comk
@@ -3752,7 +3733,6 @@ bloomberg.cok
 bloomberg.cokm
 bloomberg.colm
 bloomber.gcom
-bloomberg..com
 bloombergc.om
 bloomberg.comj
 bloomberg.comk
@@ -3979,7 +3959,6 @@ britannica.cok
 britannica.cokm
 britannica.colm
 britannic.acom
-britannica..com
 britannicac.om
 britannica.comj
 britannica.comk
@@ -4184,7 +4163,6 @@ broadcastify.cok
 broadcastify.cokm
 broadcastify.colm
 broadcastif.ycom
-broadcastify..com
 broadcastifyc.om
 broadcastify.comj
 broadcastify.comk
@@ -4309,6 +4287,8 @@ broqdcastify.com
 brosadcastify.com
 brosdcastify.com
 brotannica.com
+brotherearh.com
+brothereath.com
 browadcastify.com
 browdcastify.com
 broxadcastify.com
@@ -4505,7 +4485,6 @@ businessinsider.cok
 businessinsider.cokm
 businessinsider.colm
 businessinside.rcom
-businessinsider..com
 businessinsiderc.om
 businessinsider.comj
 businessinsider.comk
@@ -4772,7 +4751,6 @@ cabelas.cok
 cabelas.cokm
 cabelas.colm
 cabela.scom
-cabelas..com
 cabelasc.om
 cabelas.comj
 cabelas.comk
@@ -4977,7 +4955,6 @@ callofduty.cok
 callofduty.cokm
 callofduty.colm
 callofdut.ycom
-callofduty..com
 callofdutyc.om
 callofduty.comj
 callofduty.comk
@@ -5079,9 +5056,7 @@ cam.ac.uik
 cam.ac.uj
 cam.ac.ujk
 ca.mac.uk
-cam..ac.uk
 cam.a.cuk
-cam.ac..uk
 cam.acu.k
 cam.acuk
 cama.c.uk
@@ -5212,7 +5187,6 @@ cambridge.oreg
 cambridge.orf
 cambridge.orfg
 cambridg.eorg
-cambridge..org
 cambridgeo.rg
 cambridge.orgb
 cambridge.orgf
@@ -5434,7 +5408,6 @@ capitalone.colm
 ca-pitalone.com
 cap-italone.com
 capitalon.ecom
-capitalone..com
 capitalonec.om
 capitalone.comj
 capitalone.comk
@@ -5686,7 +5659,6 @@ chase.cok
 chase.cokm
 chase.colm
 chas.ecom
-chase..com
 chasec.om
 chase.comj
 chase.comk
@@ -5880,7 +5852,6 @@ citibank.cok
 citibank.cokm
 citibank.colm
 citiban.kcom
-citibank..com
 citibankc.om
 citibank.comj
 citibank.comk
@@ -5964,7 +5935,6 @@ citi.cok
 citi.cokm
 citi.colm
 cit.icom
-citi..com
 citic.om
 citi.comj
 citi.comk
@@ -6184,7 +6154,6 @@ craigslist.cok
 craigslist.cokm
 craigslist.colm
 craigslis.tcom
-craigslist..com
 craigslistc.om
 craigslist.comj
 craigslist.comk
@@ -6419,7 +6388,6 @@ creditonebank.cok
 creditonebank.cokm
 creditonebank.colm
 creditoneban.kcom
-creditonebank..com
 creditonebankc.om
 creditonebank.comj
 creditonebank.comk
@@ -6672,7 +6640,6 @@ csbsheldon.cok
 csbsheldon.cokm
 csbsheldon.colm
 csbsheldo.ncom
-csbsheldon..com
 csbsheldonc.om
 csbsheldon.comj
 csbsheldon.comk
@@ -7044,7 +7011,6 @@ debian.oreg
 debian.orf
 debian.orfg
 debia.norg
-debian..org
 debiano.rg
 debian.orgb
 debian.orgf
@@ -7157,7 +7123,6 @@ dell.cok
 dell.cokm
 dell.colm
 del.lcom
-dell..com
 dellc.om
 dell.comj
 dell.comk
@@ -7406,7 +7371,6 @@ dictionary.cok
 dictionary.cokm
 dictionary.colm
 dictionar.ycom
-dictionary..com
 dictionaryc.om
 dictionary.comj
 dictionary.comk
@@ -7733,7 +7697,6 @@ discogs.cok
 discogs.cokm
 discogs.colm
 discog.scom
-discogs..com
 discogsc.om
 discogs.comj
 discogs.comk
@@ -7833,7 +7796,6 @@ discord.cok
 discord.cokm
 discord.colm
 discor.dcom
-discord..com
 discordc.om
 discord.comj
 discord.comk
@@ -8010,7 +7972,6 @@ discovercard.cok
 discovercard.cokm
 discovercard.colm
 discovercar.dcom
-discovercard..com
 discovercardc.om
 discovercard.comj
 discovercard.comk
@@ -8082,7 +8043,6 @@ discover.cok
 discover.cokm
 discover.colm
 discove.rcom
-discover..com
 discoverc.om
 discover.comj
 discover.comk
@@ -8176,7 +8136,6 @@ discovery.cok
 discovery.cokm
 discovery.colm
 discover.ycom
-discovery..com
 discoveryc.om
 discovery.comj
 discovery.comk
@@ -8425,7 +8384,6 @@ disney.cok
 disney.cokm
 disney.colm
 disne.ycom
-disney..com
 disneyc.om
 disney.comj
 disney.comk
@@ -8519,7 +8477,6 @@ disneyplus.colm
 disney-plus.com
 disneyp-lus.com
 disneyplu.scom
-disneyplus..com
 disneyplusc.om
 disneyplus.comj
 disneyplus.comk
@@ -8904,7 +8861,6 @@ dropbox.colm
 dro-pbox.com
 drop-box.com
 dropbo.xcom
-dropbox..com
 dropboxc.om
 dropbox.comj
 dropbox.comk
@@ -9111,7 +9067,6 @@ duckduckgo.cok
 duckduckgo.cokm
 duckduckgo.colm
 duckduckg.ocom
-duckduckgo..com
 duckduckgoc.om
 duckduckgo.comj
 duckduckgo.comk
@@ -9379,7 +9334,6 @@ ebay.cok
 ebay.cokm
 ebay.colm
 eba.ycom
-ebay..com
 ebayc.om
 ebay.comj
 ebay.comk
@@ -9422,7 +9376,6 @@ ebay.iot
 ebay.ir
 ebay.irt
 eba.yit
-ebay..it
 ebayi.t
 ebay.it5
 ebay.it6
@@ -9693,7 +9646,6 @@ epicgames.colm
 e-picgames.com
 ep-icgames.com
 epicgame.scom
-epicgames..com
 epicgamesc.om
 epicgames.comj
 epicgames.comk
@@ -9870,7 +9822,6 @@ epson.colm
 e-pson.com
 ep-son.com
 epso.ncom
-epson..com
 epsonc.om
 epson.comj
 epson.comk
@@ -10054,7 +10005,6 @@ espn.colm
 es-pn.com
 esp-n.com
 esp.ncom
-espn..com
 espnc.om
 espn.comj
 espn.comk
@@ -10151,7 +10101,6 @@ espncricinfo.colm
 es-pncricinfo.com
 esp-ncricinfo.com
 espncricinf.ocom
-espncricinfo..com
 espncricinfoc.om
 espncricinfo.comj
 espncricinfo.comk
@@ -10364,7 +10313,6 @@ esurance.cok
 esurance.cokm
 esurance.colm
 esuranc.ecom
-esurance..com
 esurancec.om
 esurance.comj
 esurance.comk
@@ -10614,7 +10562,6 @@ facebook.cok
 facebook.cokm
 facebook.colm
 faceboo.kcom
-facebook..com
 facebookc.om
 facebook.comj
 facebook.comk
@@ -10781,7 +10728,6 @@ fanart.trv
 fanart.ttv
 fanartt.tv
 fanar.ttv
-fanart..tv
 fanartt.v
 fanart.tvb
 fanart.tvc
@@ -10859,7 +10805,6 @@ fandom.cok
 fandom.cokm
 fandom.colm
 fando.mcom
-fandom..com
 fandomc.om
 fandom.comj
 fandom.comk
@@ -11003,7 +10948,6 @@ farmers.cok
 farmers.cokm
 farmers.colm
 farmer.scom
-farmers..com
 farmersc.om
 farmers.comj
 farmers.comk
@@ -11189,7 +11133,6 @@ fedex.cok
 fedex.cokm
 fedex.colm
 fede.xcom
-fedex..com
 fedexc.om
 fedex.comj
 fedex.comk
@@ -11384,7 +11327,6 @@ firefox.cok
 firefox.cokm
 firefox.colm
 firefo.xcom
-firefox..com
 firefoxc.om
 firefox.comj
 firefox.comk
@@ -11580,7 +11522,6 @@ foxnews.cok
 foxnews.cokm
 foxnews.colm
 foxnew.scom
-foxnews..com
 foxnewsc.om
 foxnews.comj
 foxnews.comk
@@ -11776,7 +11717,6 @@ frontier.cok
 frontier.cokm
 frontier.colm
 frontie.rcom
-frontier..com
 frontierc.om
 frontier.comj
 frontier.comk
@@ -12070,7 +12010,6 @@ gamestop.colm
 gamesto-p.com
 gamesto.pcom
 gamestop-.com
-gamestop..com
 gamestopc.om
 gamestop.comj
 gamestop.comk
@@ -12247,7 +12186,6 @@ geico.cok
 geico.cokm
 geico.colm
 geic.ocom
-geico..com
 geicoc.om
 geico.comj
 geico.comk
@@ -12413,7 +12351,6 @@ getfedora.oreg
 getfedora.orf
 getfedora.orfg
 getfedor.aorg
-getfedora..org
 getfedorao.rg
 getfedora.orgb
 getfedora.orgf
@@ -12666,7 +12603,6 @@ giftcardmall.cok
 giftcardmall.cokm
 giftcardmall.colm
 giftcardmal.lcom
-giftcardmall..com
 giftcardmallc.om
 giftcardmall.comj
 giftcardmall.comk
@@ -12870,7 +12806,6 @@ github.cok
 github.cokm
 github.colm
 githu.bcom
-github..com
 githubc.om
 github.comj
 github.comk
@@ -13011,7 +12946,6 @@ gmail.cok
 gmail.cokm
 gmail.colm
 gmai.lcom
-gmail..com
 gmailc.om
 gmail.comj
 gmail.comk
@@ -13183,7 +13117,6 @@ gofundme.cok
 gofundme.cokm
 gofundme.colm
 gofundm.ecom
-gofundme..com
 gofundmec.om
 gofundme.comj
 gofundme.comk
@@ -13355,7 +13288,6 @@ goldmansachs.cok
 goldmansachs.cokm
 goldmansachs.colm
 goldmansach.scom
-goldmansachs..com
 goldmansachsc.om
 goldmansachs.comj
 goldmansachs.comk
@@ -13567,7 +13499,6 @@ google.cok
 google.cokm
 google.colm
 googl.ecom
-google..com
 googlec.om
 google.comj
 google.comk
@@ -13612,7 +13543,6 @@ google.iot
 google.ir
 google.irt
 googl.eit
-google..it
 googlei.t
 google.it5
 google.it6
@@ -13914,7 +13844,6 @@ gunbroker.cok
 gunbroker.cokm
 gunbroker.colm
 gunbroke.rcom
-gunbroker..com
 gunbrokerc.om
 gunbroker.comj
 gunbroker.comk
@@ -14157,7 +14086,6 @@ harvard.edku
 harvard.edru
 harvard.edsu
 harvar.dedu
-harvard..edu
 harvarde.du
 harvard.edu7
 harvard.edu8
@@ -14329,7 +14257,6 @@ hdfcbank.cok
 hdfcbank.cokm
 hdfcbank.colm
 hdfcban.kcom
-hdfcbank..com
 hdfcbankc.om
 hdfcbank.comj
 hdfcbank.comk
@@ -14519,7 +14446,6 @@ hibid.cok
 hibid.cokm
 hibid.colm
 hibi.dcom
-hibid..com
 hibidc.om
 hibid.comj
 hibid.comk
@@ -14799,7 +14725,6 @@ homedepot.colm
 homede-pot.com
 homedep-ot.com
 homedepo.tcom
-homedepot..com
 homedepotc.om
 homedepot.comj
 homedepot.comk
@@ -14939,7 +14864,6 @@ hotmail.cok
 hotmail.cokm
 hotmail.colm
 hotmai.lcom
-hotmail..com
 hotmailc.om
 hotmail.comj
 hotmail.comk
@@ -15044,7 +14968,6 @@ hp.colm
 h-p.com
 h.pcom
 hp-.com
-hp..com
 hpc.om
 hp.comj
 hp.comk
@@ -15114,6 +15037,7 @@ htrakt.tv
 htreasurydirect.gov
 htripadvisor.com
 httpadobe.com
+httpblogspot.com
 htunderbird.net
 htwitch.tv
 htwitter.com
@@ -15298,7 +15222,6 @@ huffingtonpost.colm
 huffington-post.com
 huffingtonp-ost.com
 huffingtonpos.tcom
-huffingtonpost..com
 huffingtonpostc.om
 huffingtonpost.comj
 huffingtonpost.comk
@@ -15464,7 +15387,6 @@ hulu.cok
 hulu.cokm
 hulu.colm
 hul.ucom
-hulu..com
 huluc.om
 hulu.comj
 hulu.comk
@@ -15533,7 +15455,6 @@ humana.cok
 humana.cokm
 humana.colm
 human.acom
-humana..com
 humanac.om
 humana.comj
 humana.comk
@@ -15676,7 +15597,6 @@ humblebundle.cok
 humblebundle.cokm
 humblebundle.colm
 humblebundl.ecom
-humblebundle..com
 humblebundlec.om
 humblebundle.comj
 humblebundle.comk
@@ -15998,7 +15918,6 @@ icicibank.cok
 icicibank.cokm
 icicibank.colm
 iciciban.kcom
-icicibank..com
 icicibankc.om
 icicibank.comj
 icicibank.comk
@@ -16167,7 +16086,6 @@ icloud.cok
 icloud.cokm
 icloud.colm
 iclou.dcom
-icloud..com
 icloudc.om
 icloud.comj
 icloud.comk
@@ -16368,7 +16286,6 @@ ikea.cok
 ikea.cokm
 ikea.colm
 ike.acom
-ikea..com
 ikeac.om
 ikea.comj
 ikea.comk
@@ -16497,7 +16414,6 @@ imdb.cok
 imdb.cokm
 imdb.colm
 imd.bcom
-imdb..com
 imdbc.om
 imdb.comj
 imdb.comk
@@ -16679,7 +16595,6 @@ indiegogo.cok
 indiegogo.cokm
 indiegogo.colm
 indiegog.ocom
-indiegogo..com
 indiegogoc.om
 indiegogo.comj
 indiegogo.comk
@@ -16889,7 +16804,6 @@ ingrammicro.cok
 ingrammicro.cokm
 ingrammicro.colm
 ingrammicr.ocom
-ingrammicro..com
 ingrammicroc.om
 ingrammicro.comj
 ingrammicro.comk
@@ -17101,7 +17015,6 @@ instagram.cok
 instagram.cokm
 instagram.colm
 instagra.mcom
-instagram..com
 instagramc.om
 instagram.comj
 instagram.comk
@@ -17244,7 +17157,6 @@ intel.cok
 intel.cokm
 intel.colm
 inte.lcom
-intel..com
 intelc.om
 intel.comj
 intel.comk
@@ -17362,7 +17274,6 @@ intuit.cok
 intuit.cokm
 intuit.colm
 intui.tcom
-intuit..com
 intuitc.om
 intuit.comj
 intuit.comk
@@ -17634,7 +17545,6 @@ iowafarmbureau.cok
 iowafarmbureau.cokm
 iowafarmbureau.colm
 iowafarmburea.ucom
-iowafarmbureau..com
 iowafarmbureauc.om
 iowafarmbureau.comj
 iowafarmbureau.comk
@@ -17860,7 +17770,6 @@ iowastatebank.ner
 iowastatebank.nert
 iowastatebank.nest
 iowastateban.knet
-iowastatebank..net
 iowastatebankn.et
 iowastatebank.net5
 iowastatebank.net6
@@ -18127,7 +18036,6 @@ itunes.cok
 itunes.cokm
 itunes.colm
 itune.scom
-itunes..com
 itunesc.om
 itunes.comj
 itunes.comk
@@ -18345,7 +18253,6 @@ jcpenney.colm
 jc-penney.com
 jcp-enney.com
 jcpenne.ycom
-jcpenney..com
 jcpenneyc.om
 jcpenney.comj
 jcpenney.comk
@@ -18731,7 +18638,6 @@ jurrensfuneralhome.cok
 jurrensfuneralhome.cokm
 jurrensfuneralhome.colm
 jurrensfuneralhom.ecom
-jurrensfuneralhome..com
 jurrensfuneralhomec.om
 jurrensfuneralhome.comj
 jurrensfuneralhome.comk
@@ -19117,7 +19023,6 @@ kaiserpermanente.orfg
 kaiser-permanente.org
 kaiserp-ermanente.org
 kaiserpermanent.eorg
-kaiserpermanente..org
 kaiserpermanenteo.rg
 kaiserpermanente.orgb
 kaiserpermanente.orgf
@@ -19366,7 +19271,6 @@ kaspersky.colm
 kas-persky.com
 kasp-ersky.com
 kaspersk.ycom
-kaspersky..com
 kasperskyc.om
 kaspersky.comj
 kaspersky.comk
@@ -19529,7 +19433,6 @@ keloland.cok
 keloland.cokm
 keloland.colm
 kelolan.dcom
-keloland..com
 kelolandc.om
 keloland.comj
 keloland.comk
@@ -19741,7 +19644,6 @@ kiwaradio.cok
 kiwaradio.cokm
 kiwaradio.colm
 kiwaradi.ocom
-kiwaradio..com
 kiwaradioc.om
 kiwaradio.comj
 kiwaradio.comk
@@ -19940,7 +19842,6 @@ kmart.cok
 kmart.cokm
 kmart.colm
 kmar.tcom
-kmart..com
 kmartc.om
 kmart.comj
 kmart.comk
@@ -20078,7 +19979,6 @@ kohls.cok
 kohls.cokm
 kohls.colm
 kohl.scom
-kohls..com
 kohlsc.om
 kohls.comj
 kohls.comk
@@ -20323,7 +20223,6 @@ lastpass.colm
 last-pass.com
 lastp-ass.com
 lastpas.scom
-lastpass..com
 lastpassc.om
 lastpass.comj
 lastpass.comk
@@ -20572,7 +20471,6 @@ libertymutual.cok
 libertymutual.cokm
 libertymutual.colm
 libertymutua.lcom
-libertymutual..com
 libertymutualc.om
 libertymutual.comj
 libertymutual.comk
@@ -20793,7 +20691,6 @@ linkedin.cok
 linkedin.cokm
 linkedin.colm
 linkedi.ncom
-linkedin..com
 linkedinc.om
 linkedin.comj
 linkedin.comk
@@ -20938,7 +20835,6 @@ live.cok
 live.cokm
 live.colm
 liv.ecom
-live..com
 livec.om
 live.comj
 live.comk
@@ -20996,7 +20892,6 @@ live.ner
 live.nert
 live.nest
 liv.enet
-live..net
 liven.et
 live.net5
 live.net6
@@ -21216,7 +21111,6 @@ logitech.cok
 logitech.cokm
 logitech.colm
 logitec.hcom
-logitech..com
 logitechc.om
 logitech.comj
 logitech.comk
@@ -21385,7 +21279,6 @@ lowes.cok
 lowes.cokm
 lowes.colm
 lowe.scom
-lowes..com
 lowesc.om
 lowes.comj
 lowes.comk
@@ -21633,7 +21526,6 @@ lyoncosheriff.cok
 lyoncosheriff.cokm
 lyoncosheriff.colm
 lyoncosherif.fcom
-lyoncosheriff..com
 lyoncosheriffc.om
 lyoncosheriff.comj
 lyoncosheriff.comk
@@ -21934,7 +21826,6 @@ majorgeeks.cok
 majorgeeks.cokm
 majorgeeks.colm
 majorgeek.scom
-majorgeeks..com
 majorgeeksc.om
 majorgeeks.comj
 majorgeeks.comk
@@ -22155,7 +22046,6 @@ malwarebytes.cok
 malwarebytes.cokm
 malwarebytes.colm
 malwarebyte.scom
-malwarebytes..com
 malwarebytesc.om
 malwarebytes.comj
 malwarebytes.comk
@@ -22359,7 +22249,6 @@ mapquest.colm
 ma-pquest.com
 map-quest.com
 mapques.tcom
-mapquest..com
 mapquestc.om
 mapquest.comj
 mapquest.comk
@@ -22603,7 +22492,6 @@ mastercard.cok
 mastercard.cokm
 mastercard.colm
 mastercar.dcom
-mastercard..com
 mastercardc.om
 mastercard.comj
 mastercard.comk
@@ -22658,7 +22546,6 @@ mastercard.uis
 mastercard.ujs
 mastercard.uks
 mastercar.dus
-mastercard..us
 mastercardu.s
 mastercard.usa
 mastercard.usd
@@ -22965,7 +22852,6 @@ mediafire.cok
 mediafire.cokm
 mediafire.colm
 mediafir.ecom
-mediafire..com
 mediafirec.om
 mediafire.comj
 mediafire.comk
@@ -23248,7 +23134,6 @@ merriam-webster.colm
 merria-mwebster.com
 merriam--webster.com
 merriam-webste.rcom
-merriam-webster..com
 merriam-websterc.om
 merriamw-ebster.com
 merriamwebster.com
@@ -23442,7 +23327,6 @@ metlife.cok
 metlife.cokm
 metlife.colm
 metlif.ecom
-metlife..com
 metlifec.om
 metlife.comj
 metlife.comk
@@ -23656,7 +23540,6 @@ microsoft.cok
 microsoft.cokm
 microsoft.colm
 microsof.tcom
-microsoft..com
 microsoftc.om
 microsoft.comj
 microsoft.comk
@@ -23829,7 +23712,6 @@ midwayusa.cok
 midwayusa.cokm
 midwayusa.colm
 midwayus.acom
-midwayusa..com
 midwayusac.om
 midwayusa.comj
 midwayusa.comk
@@ -24012,7 +23894,6 @@ minecraft.ner
 minecraft.nert
 minecraft.nest
 minecraf.tnet
-minecraft..net
 minecraftn.et
 minecraft.net5
 minecraft.net6
@@ -24336,7 +24217,6 @@ mozilla.cok
 mozilla.cokm
 mozilla.colm
 mozill.acom
-mozilla..com
 mozillac.om
 mozilla.comj
 mozilla.comk
@@ -24393,7 +24273,6 @@ mozilla.oreg
 mozilla.orf
 mozilla.orfg
 mozill.aorg
-mozilla..org
 mozillao.rg
 mozilla.orgb
 mozilla.orgf
@@ -24583,7 +24462,6 @@ msn.cok
 msn.cokm
 msn.colm
 ms.ncom
-msn..com
 msnc.om
 msn.comj
 msn.comk
@@ -24732,7 +24610,6 @@ myspace.colm
 mys-pace.com
 mysp-ace.com
 myspac.ecom
-myspace..com
 myspacec.om
 myspace.comj
 myspace.comk
@@ -24977,7 +24854,6 @@ nationwide.cok
 nationwide.cokm
 nationwide.colm
 nationwid.ecom
-nationwide..com
 nationwidec.om
 nationwide.comj
 nationwide.comk
@@ -25202,7 +25078,6 @@ netflix.cok
 netflix.cokm
 netflix.colm
 netfli.xcom
-netflix..com
 netflixc.om
 netflix.comj
 netflix.comk
@@ -25278,6 +25153,7 @@ newe4gg.com
 newebg.com
 newebgg.com
 newedgg.com
+neweeg.com
 neweegg.com
 newefg.com
 newefgg.com
@@ -25312,7 +25188,6 @@ newegg.cok
 newegg.cokm
 newegg.colm
 neweg.gcom
-newegg..com
 neweggc.om
 newegg.comj
 newegg.comk
@@ -25455,7 +25330,6 @@ njm.cok
 njm.cokm
 njm.colm
 nj.mcom
-njm..com
 njmc.om
 njm.comj
 njm.comk
@@ -25624,7 +25498,6 @@ norton.cok
 norton.cokm
 norton.colm
 norto.ncom
-norton..com
 nortonc.om
 norton.comj
 norton.comk
@@ -25757,7 +25630,6 @@ nvidia.cok
 nvidia.cokm
 nvidia.colm
 nvidi.acom
-nvidia..com
 nvidiac.om
 nvidia.comj
 nvidia.comk
@@ -26031,7 +25903,6 @@ office365.cokm
 office365.colm
 office365c.om
 office36.5com
-office365..com
 office365.comj
 office365.comk
 office365.comm
@@ -26108,7 +25979,6 @@ office.cok
 office.cokm
 office.colm
 offic.ecom
-office..com
 officec.om
 office.comj
 office.comk
@@ -26170,7 +26040,6 @@ office.ner
 office.nert
 office.nest
 offic.enet
-office..net
 officen.et
 office.net5
 office.net6
@@ -26554,7 +26423,6 @@ onlinesbi.cok
 onlinesbi.cokm
 onlinesbi.colm
 onlinesb.icom
-onlinesbi..com
 onlinesbic.om
 onlinesbi.comj
 onlinesbi.comk
@@ -26855,7 +26723,6 @@ openoffice.orfg
 o-penoffice.org
 op-enoffice.org
 openoffic.eorg
-openoffice..org
 openofficeo.rg
 openoffice.orgb
 openoffice.orgf
@@ -27035,7 +26902,6 @@ opensuse.orfg
 o-pensuse.org
 op-ensuse.org
 opensus.eorg
-opensuse..org
 opensuseo.rg
 opensuse.orgb
 opensuse.orgf
@@ -27126,7 +26992,6 @@ opera.colm
 o-pera.com
 op-era.com
 oper.acom
-opera..com
 operac.om
 opera.comj
 opera.comk
@@ -27346,7 +27211,6 @@ op-ticsplanet.com
 optics-planet.com
 opticsp-lanet.com
 opticsplane.tcom
-opticsplanet..com
 opticsplanetc.om
 opticsplanet.comj
 opticsplanet.comk
@@ -27579,7 +27443,6 @@ outlook.cok
 outlook.cokm
 outlook.colm
 outloo.kcom
-outlook..com
 outlookc.om
 outlook.comj
 outlook.comk
@@ -27772,7 +27635,6 @@ pandora.colm
 -pandora.com
 p-andora.com
 pandor.acom
-pandora..com
 pandorac.om
 pandora.comj
 pandora.comk
@@ -27929,7 +27791,6 @@ pastebin.colm
 -pastebin.com
 p-astebin.com
 pastebi.ncom
-pastebin..com
 pastebinc.om
 pastebin.comj
 pastebin.comk
@@ -28070,7 +27931,6 @@ p-aypal.com
 pay-pal.com
 payp-al.com
 paypa.lcom
-paypal..com
 paypalc.om
 paypal.comj
 paypal.comk
@@ -28227,7 +28087,6 @@ pcworld.colm
 -pcworld.com
 p-cworld.com
 pcworl.dcom
-pcworld..com
 pcworldc.om
 pcworld.comj
 pcworld.comk
@@ -28521,7 +28380,6 @@ personaldefenseworld.colm
 -personaldefenseworld.com
 p-ersonaldefenseworld.com
 personaldefenseworl.dcom
-personaldefenseworld..com
 personaldefenseworldc.om
 personaldefenseworld.comj
 personaldefenseworld.comk
@@ -28837,7 +28695,6 @@ pinterest.colm
 -pinterest.com
 p-interest.com
 pinteres.tcom
-pinterest..com
 pinterestc.om
 pinterest.comj
 pinterest.comk
@@ -29062,7 +28919,6 @@ playstation.colm
 -playstation.com
 p-laystation.com
 playstatio.ncom
-playstation..com
 playstationc.om
 playstation.comj
 playstation.comk
@@ -29397,7 +29253,6 @@ premieronline.nest
 -premieronline.net
 p-remieronline.net
 premieronlin.enet
-premieronline..net
 premieronlinen.et
 premieronline.net5
 premieronline.net6
@@ -29632,7 +29487,6 @@ progressive.colm
 -progressive.com
 p-rogressive.com
 progressiv.ecom
-progressive..com
 progressivec.om
 progressive.comj
 progressive.comk
@@ -29912,7 +29766,6 @@ quicken.cok
 quicken.cokm
 quicken.colm
 quicke.ncom
-quicken..com
 quickenc.om
 quicken.comj
 quicken.comk
@@ -30143,7 +29996,6 @@ reddit.cok
 reddit.cokm
 reddit.colm
 reddi.tcom
-reddit..com
 redditc.om
 reddit.comj
 reddit.comk
@@ -30363,7 +30215,6 @@ roblox.cok
 roblox.cokm
 roblox.colm
 roblo.xcom
-roblox..com
 robloxc.om
 roblox.comj
 roblox.comk
@@ -30475,7 +30326,6 @@ roku.cok
 roku.cokm
 roku.colm
 rok.ucom
-roku..com
 rokuc.om
 roku.comj
 roku.comk
@@ -30694,7 +30544,6 @@ rottentomatoes.cok
 rottentomatoes.cokm
 rottentomatoes.colm
 rottentomatoe.scom
-rottentomatoes..com
 rottentomatoesc.om
 rottentomatoes.comj
 rottentomatoes.comk
@@ -30863,7 +30712,6 @@ royalbank.cok
 royalbank.cokm
 royalbank.colm
 royalban.kcom
-royalbank..com
 royalbankc.om
 royalbank.comj
 royalbank.comk
@@ -31146,7 +30994,6 @@ samdung.cok
 samdung.cokm
 samdung.colm
 samdun.gcom
-samdung..com
 samdungc.om
 samdung.comj
 samdung.comk
@@ -31340,7 +31187,6 @@ scheels.cok
 scheels.cokm
 scheels.colm
 scheel.scom
-scheels..com
 scheelsc.om
 scheels.comj
 scheels.comk
@@ -31484,7 +31330,6 @@ scholastic.cok
 scholastic.cokm
 scholastic.colm
 scholasti.ccom
-scholastic..com
 scholasticc.om
 scholastic.comj
 scholastic.comk
@@ -31937,7 +31782,6 @@ shopdisney.colm
 sho-pdisney.com
 shop-disney.com
 shopdisne.ycom
-shopdisney..com
 shopdisneyc.om
 shopdisney.comj
 shopdisney.comk
@@ -32059,7 +31903,6 @@ shopko.colm
 sho-pko.com
 shop-ko.com
 shopk.ocom
-shopko..com
 shopkoc.om
 shopko.comj
 shopko.comk
@@ -32184,7 +32027,6 @@ showmypc.colm
 showmy-pc.com
 showmyp-c.com
 showmyp.ccom
-showmypc..com
 showmypcc.om
 showmypc.comj
 showmypc.comk
@@ -32368,7 +32210,6 @@ shutterfly.cok
 shutterfly.cokm
 shutterfly.colm
 shutterfl.ycom
-shutterfly..com
 shutterflyc.om
 shutterfly.comj
 shutterfly.comk
@@ -32551,7 +32392,6 @@ skype.colm
 sky-pe.com
 skyp-e.com
 skyp.ecom
-skype..com
 skypec.om
 skype.comj
 skype.comk
@@ -32682,7 +32522,6 @@ snapchat.colm
 sna-pchat.com
 snap-chat.com
 snapcha.tcom
-snapchat..com
 snapchatc.om
 snapchat.comj
 snapchat.comk
@@ -32895,7 +32734,6 @@ sonos.cok
 sonos.cokm
 sonos.colm
 sono.scom
-sonos..com
 sonosc.om
 sonos.comj
 sonos.comk
@@ -32966,7 +32804,6 @@ sony.cok
 sony.cokm
 sony.colm
 son.ycom
-sony..com
 sonyc.om
 sony.comj
 sony.comk
@@ -33133,7 +32970,6 @@ speedtest.nest
 s-peedtest.net
 sp-eedtest.net
 speedtes.tnet
-speedtest..net
 speedtestn.et
 speedtest.net5
 speedtest.net6
@@ -33318,7 +33154,6 @@ spotify.colm
 s-potify.com
 sp-otify.com
 spotif.ycom
-spotify..com
 spotifyc.om
 spotify.comj
 spotify.comk
@@ -33597,7 +33432,6 @@ stackoverflow.cok
 stackoverflow.cokm
 stackoverflow.colm
 stackoverflo.wcom
-stackoverflow..com
 stackoverflowc.om
 stackoverflow.comj
 stackoverflow.comk
@@ -33788,7 +33622,6 @@ stanford.edku
 stanford.edru
 stanford.edsu
 stanfor.dedu
-stanford..edu
 stanforde.du
 stanford.edu7
 stanford.edu8
@@ -33915,7 +33748,6 @@ staples.colm
 sta-ples.com
 stap-les.com
 staple.scom
-staples..com
 staplesc.om
 staples.comj
 staples.comk
@@ -34048,7 +33880,6 @@ statefarm.cok
 statefarm.cokm
 statefarm.colm
 statefar.mcom
-statefarm..com
 statefarmc.om
 statefarm.comj
 statefarm.comk
@@ -34281,7 +34112,6 @@ steamcontent.cok
 steamcontent.cokm
 steamcontent.colm
 steamconten.tcom
-steamcontent..com
 steamcontentc.om
 steamcontent.comj
 steamcontent.comk
@@ -34461,7 +34291,6 @@ steampowered.colm
 steam-powered.com
 steamp-owered.com
 steampowere.dcom
-steampowered..com
 steampoweredc.om
 steampowered.comj
 steampowered.comk
@@ -34949,7 +34778,6 @@ target.cok
 target.cokm
 target.colm
 targe.tcom
-target..com
 targetc.om
 target.comj
 target.comk
@@ -35144,7 +34972,6 @@ tdameritrade.cok
 tdameritrade.cokm
 tdameritrade.colm
 tdameritrad.ecom
-tdameritrade..com
 tdameritradec.om
 tdameritrade.comj
 tdameritrade.comk
@@ -35370,7 +35197,6 @@ techradar.cok
 techradar.cokm
 techradar.colm
 techrada.rcom
-techradar..com
 techradarc.om
 techradar.comj
 techradar.comk
@@ -35693,7 +35519,6 @@ theguardian.cok
 theguardian.cokm
 theguardian.colm
 theguardia.ncom
-theguardian..com
 theguardianc.om
 theguardian.comj
 theguardian.comk
@@ -35898,7 +35723,6 @@ thesaurus.cok
 thesaurus.cokm
 thesaurus.colm
 thesauru.scom
-thesaurus..com
 thesaurusc.om
 thesaurus.comj
 thesaurus.comk
@@ -36136,7 +35960,6 @@ thunderbird.ner
 thunderbird.nert
 thunderbird.nest
 thunderbir.dnet
-thunderbird..net
 thunderbirdn.et
 thunderbird.net5
 thunderbird.net6
@@ -36299,7 +36122,6 @@ time.cok
 time.cokm
 time.colm
 tim.ecom
-time..com
 timec.om
 time.comj
 time.comk
@@ -36485,7 +36307,6 @@ tomtom.cok
 tomtom.cokm
 tomtom.colm
 tomto.mcom
-tomtom..com
 tomtomc.om
 tomtom.comj
 tomtom.comk
@@ -36578,7 +36399,6 @@ toshiba.cok
 toshiba.cokm
 toshiba.colm
 toshib.acom
-toshiba..com
 toshibac.om
 toshiba.comj
 toshiba.comk
@@ -36757,7 +36577,6 @@ trakt.trv
 trakt.ttv
 traktt.tv
 trak.ttv
-trakt..tv
 traktt.v
 trakt.tvb
 trakt.tvc
@@ -36961,7 +36780,6 @@ treasurydirect.golv
 treasurydirect.goov
 treasurydirect.gopv
 treasurydirec.tgov
-treasurydirect..gov
 treasurydirectg.ov
 treasurydirect.govb
 treasurydirect.govc
@@ -37220,7 +37038,6 @@ tripadvisor.colm
 tri-padvisor.com
 trip-advisor.com
 tripadviso.rcom
-tripadvisor..com
 tripadvisorc.om
 tripadvisor.comj
 tripadvisor.comk
@@ -37510,7 +37327,6 @@ twitch.thv
 twitch.trv
 twitch.ttv
 twitc.htv
-twitch..tv
 twitcht.v
 twitch.tvb
 twitch.tvc
@@ -37604,7 +37420,6 @@ twitter.cok
 twitter.cokm
 twitter.colm
 twitte.rcom
-twitter..com
 twitterc.om
 twitter.comj
 twitter.comk
@@ -37853,7 +37668,6 @@ ubisoft.cok
 ubisoft.cokm
 ubisoft.colm
 ubisof.tcom
-ubisoft..com
 ubisoftc.om
 ubisoft.comj
 ubisoft.comk
@@ -37976,7 +37790,6 @@ ubnt.cok
 ubnt.cokm
 ubnt.colm
 ubn.tcom
-ubnt..com
 ubntc.om
 ubnt.comj
 ubnt.comk
@@ -38095,7 +37908,6 @@ ubuntu.cok
 ubuntu.cokm
 ubuntu.colm
 ubunt.ucom
-ubuntu..com
 ubuntuc.om
 ubuntu.comj
 ubuntu.comk
@@ -38445,7 +38257,6 @@ unitedhealthgroup.colm
 unitedhealthgrou-p.com
 unitedhealthgrou.pcom
 unitedhealthgroup-.com
-unitedhealthgroup..com
 unitedhealthgroupc.om
 unitedhealthgroup.comj
 unitedhealthgroup.comk
@@ -38765,7 +38576,6 @@ urbandictionary.cok
 urbandictionary.cokm
 urbandictionary.colm
 urbandictionar.ycom
-urbandictionary..com
 urbandictionaryc.om
 urbandictionary.comj
 urbandictionary.comk
@@ -39015,7 +38825,6 @@ usatoday.cok
 usatoday.cokm
 usatoday.colm
 usatoda.ycom
-usatoday..com
 usatodayc.om
 usatoday.comj
 usatoday.comk
@@ -39133,7 +38942,6 @@ usbank.cok
 usbank.cokm
 usbank.colm
 usban.kcom
-usbank..com
 usbankc.om
 usbank.comj
 usbank.comk
@@ -39385,7 +39193,6 @@ venmo.cok
 venmo.cokm
 venmo.colm
 venm.ocom
-venmo..com
 venmoc.om
 venmo.comj
 venmo.comk
@@ -39497,7 +39304,6 @@ visa.cok
 visa.cokm
 visa.colm
 vis.acom
-visa..com
 visac.om
 visa.comj
 visa.comk
@@ -39726,7 +39532,6 @@ walgreens.cok
 walgreens.cokm
 walgreens.colm
 walgreen.scom
-walgreens..com
 walgreensc.om
 walgreens.comj
 walgreens.comk
@@ -39858,7 +39663,6 @@ walmart.cok
 walmart.cokm
 walmart.colm
 walmar.tcom
-walmart..com
 walmartc.om
 walmart.comj
 walmart.comk
@@ -40067,7 +39871,6 @@ weather.cok
 weather.cokm
 weather.colm
 weathe.rcom
-weather..com
 weatherc.om
 weather.comj
 weather.comk
@@ -40172,7 +39975,6 @@ webmd.cok
 webmd.cokm
 webmd.colm
 webm.dcom
-webmd..com
 webmdc.om
 webmd.comj
 webmd.comk
@@ -40326,7 +40128,6 @@ wellsfargo.cok
 wellsfargo.cokm
 wellsfargo.colm
 wellsfarg.ocom
-wellsfargo..com
 wellsfargoc.om
 wellsfargo.comj
 wellsfargo.comk
@@ -40544,7 +40345,6 @@ whatsa-pp.com
 whatsap-p.com
 whatsap.pcom
 whatsapp-.com
-whatsapp..com
 whatsappc.om
 whatsapp.comj
 whatsapp.comk
@@ -40706,7 +40506,6 @@ whitepages.colm
 white-pages.com
 whitep-ages.com
 whitepage.scom
-whitepages..com
 whitepagesc.om
 whitepages.comj
 whitepages.comk
@@ -40975,7 +40774,6 @@ wikipedia.colm
 wiki-pedia.com
 wikip-edia.com
 wikipedi.acom
-wikipedia..com
 wikipediac.om
 wikipedia.comj
 wikipedia.comk
@@ -41034,7 +40832,6 @@ wikipedia.orfg
 wiki-pedia.org
 wikip-edia.org
 wikipedi.aorg
-wikipedia..org
 wikipediao.rg
 wikipedia.orgb
 wikipedia.orgf
@@ -42143,7 +41940,6 @@ xerox.cok
 xerox.cokm
 xerox.colm
 xero.xcom
-xerox..com
 xeroxc.om
 xerox.comj
 xerox.comk
@@ -42342,7 +42138,6 @@ yahoo.cok
 yahoo.cokm
 yahoo.colm
 yaho.ocom
-yahoo..com
 yahooc.om
 yahoo.comj
 yahoo.comk
@@ -42423,7 +42218,6 @@ yale.edku
 yale.edru
 yale.edsu
 yal.eedu
-yale..edu
 yalee.du
 yale.edu7
 yale.edu8
@@ -42633,7 +42427,6 @@ yellowpages.colm
 yellow-pages.com
 yellowp-ages.com
 yellowpage.scom
-yellowpages..com
 yellowpagesc.om
 yellowpages.comj
 yellowpages.comk
@@ -42754,7 +42547,6 @@ yelp.colm
 yel-p.com
 yel.pcom
 yelp-.com
-yelp..com
 yelpc.om
 yelp.comj
 yelp.comk
@@ -42968,7 +42760,6 @@ youtube.cok
 youtube.cokm
 youtube.colm
 youtub.ecom
-youtube..com
 youtubec.om
 youtube.comj
 youtube.comk
