@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
+# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -167,7 +167,6 @@
 07.git.nym2.appnexus.com
 07.video-ak.cdn.spotify.com
 08b03-2059a.api.pushwoosh.com
-08.console-ssl-proxy.prod.ams1.adnexus.net
 08.video-ak.cdn.spotify.com
 09a4b-dff96.api.pushwoosh.com
 09f83-f0427.api.pushwoosh.com
@@ -1249,27 +1248,20 @@
 44a1d7dxyp.mentalist.kameleoon.com
 44a32-7d2d2.api.pushwoosh.com
 44.adsina.allyes.com
-44.ratbait.prod.lax1.adnexus.net
 44.video-ak.cdn.spotify.com
-4507.bm-impbus.prod.fra1.adnexus.net
-4518.bm-impbus.prod.fra1.adnexus.net
-4519.bm-impbus.prod.fra1.adnexus.net
 451.smaato.net
 45.adsina.allyes.com
 45eijvhgj2.com
 45fuzf.focot.focus-outdoors.com
 45n5zt.focot.focus-outdoors.com
-45.ratbait.prod.lax1.adnexus.net
 45tu1c0.com
 45.video-ak.cdn.spotify.com
 4697c-51dde.api.pushwoosh.com
 46f12-be2e4.api.pushwoosh.com
-46.ratbait.prod.lax1.adnexus.net
 46.video-ak.cdn.spotify.com
 47466367.adtag.admarketplace.net
 47b50-11004.api.pushwoosh.com
 47c24-bc3a4.api.pushwoosh.com
-47.ratbait.prod.nym2.adnexus.net
 47.video-ak.cdn.spotify.com
 4802.170.blueseek.com
 482408343.search.media.net
@@ -1299,7 +1291,6 @@
 49.74.190.35.bc.googleusercontent.com
 49bc.rubiconproject.com
 49oa3o49b6.com
-49.ratbait.prod.lax1.adnexus.net
 49.video-ak.cdn.spotify.com
 4a629-3a030.api.pushwoosh.com
 4.adbrite.com
@@ -1359,7 +1350,6 @@
 5000banners.com
 500-100349.link.iwanttodeliver.com
 5015.xg4ken.com
-50.ratbait.prod.lax1.adnexus.net
 50.video-ak.cdn.spotify.com
 5173.adpower.cn
 5173.com.adpower.cn
@@ -1386,12 +1376,9 @@
 5598c-74b03.api.pushwoosh.com
 55995-519009.link.iwanttodeliver.com
 55p.de17a.com
-55.redis.prod.lax1.adnexus.net
 55.video-ak.cdn.spotify.com
 560183740bc38303d0000248.maestroad.checkm8.com
 561.bitterstrawberry.com
-5650.bm-impbus.prod.ams1.adnexus.net
-5653.bm-impbus.prod.ams1.adnexus.net
 56be7-abb98.api.pushwoosh.com
 56.video-ak.cdn.spotify.com
 5726.bapi.adsafeprotected.com
@@ -1601,11 +1588,7 @@
 68a6d200.contentabc.com
 68ff6-16562.api.pushwoosh.com
 68.video-ak.cdn.spotify.com
-690.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net
 69189576.adtag.admarketplace.net
-691.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net
-692.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net
-693.bm-nginx-loadbalancer.mgmt.fra1.adnexus.net
 6940-234431.link.iwanttodeliver.com
 6940-267539.link.iwanttodeliver.com
 6940-280179.link.iwanttodeliver.com
@@ -1617,7 +1600,6 @@
 695de-68039.api.pushwoosh.com
 6961.bapi.adsafeprotected.com
 69903739.adtag.admarketplace.net
-69.bm-creative-scanner.prod.lax1.adnexus.net
 69cc6-bd6bb.api.pushwoosh.com
 69fe0-69b30.api.pushwoosh.com
 69.video-ak.cdn.spotify.com
@@ -1668,11 +1650,8 @@
 7114.bapi.adsafeprotected.com
 7142.bapi.adsafeprotected.com
 71535-43e80.api.pushwoosh.com
-717.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-718.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 7194.bapi.adsafeprotected.com
 7198.bapi.adsafeprotected.com
-719.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 71dxk5.focot.focus-outdoors.com
 71iapp-cp.nuggad.net
 71iapp.nuggad.net
@@ -1681,27 +1660,15 @@
 71.video-ak.cdn.spotify.com
 7202.bapi.adsafeprotected.com
 72069579.adtag.admarketplace.net
-720.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 72114357.adtag.admarketplace.net
-721.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 722few.focot.focus-outdoors.com
-723.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 7246.bapi.adsafeprotected.com
 7247.bapi.adsafeprotected.com
-724.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 7250.bapi.adsafeprotected.com
 7251.bapi.adsafeprotected.com
-725.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-727.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-728.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-729.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 72d329.r.axf8.net
 72.video-ak.cdn.spotify.com
 73083-a8218.api.pushwoosh.com
-730.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-731.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-732.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
-733.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 7347.bapi.adsafeprotected.com
 736p3eoxzr.mentalist.kameleoon.com
 737.basebanner.com
@@ -1754,11 +1721,8 @@
 7969.bapi.adsafeprotected.com
 7979-69504_159.c.adprotect.net
 7979.nosubid.blueseek.com
-797.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
 7996d-6e902.api.pushwoosh.com
-799.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
 79aoxw.focot.focus-outdoors.com
-79.bm-creative-scanner.prod.lax1.adnexus.net
 79f97.v.fwmrm.net
 79ucic4ss8.com
 79.video-ak.cdn.spotify.com
@@ -1830,27 +1794,20 @@
 7xsxh7.focot.focus-outdoors.com
 7y8uow.focot.focus-outdoors.com
 7yk51p.focot.focus-outdoors.com
-801.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
-803.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
 803d.v.fwmrm.net
-805.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
-806.bm-nginx-loadbalancer.mgmt.nym2.adnexus.net
 8078-269713.link.iwanttodeliver.com
 8078-272413.link.iwanttodeliver.com
 8078-274449.link.iwanttodeliver.com
 80f97-73f8e.api.pushwoosh.com
 80.video-ak.cdn.spotify.com
-811.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 81a11-63bb8.api.pushwoosh.com
 81c69-0036a.api.pushwoosh.com
 81saob.focot.focus-outdoors.com
 81.video-ak.cdn.spotify.com
 821.tm.zedo.com
-823.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 823.tm.zedo.com
 82449-6b792.api.pushwoosh.com
 82514306.adtag.admarketplace.net
-825.bm-nginx-loadbalancer.mgmt.ams1.adnexus.net
 8261-131979.link.iwanttodeliver.com
 8261-131981.link.iwanttodeliver.com
 8261-264151.link.iwanttodeliver.com
@@ -1860,7 +1817,6 @@
 82617ddd.webengage.co
 826.tm.zedo.com
 828baf211209b56c80811c195411bd02.adk2.co
-82.bm-creative-scanner.prod.lax1.adnexus.net
 82o9v830.com
 82.video-ak.cdn.spotify.com
 8304.bapi.adsafeprotected.com
@@ -2007,7 +1963,6 @@
 971.bitterstrawberry.com
 97416-76aa1.api.pushwoosh.com
 97532p.focot.focus-outdoors.com
-97.bm-creative-scanner.prod.lax1.adnexus.net
 97.video-ak.cdn.spotify.com
 98bf9h8jbg.com
 98c34-fef42.api.pushwoosh.com
@@ -2240,7 +2195,6 @@ a.app.adk2.com
 a.appbaqend.com
 a.applovin.com
 a.applvn.com
-aaptiv.getambassador.com
 aap-web-front.adform.com
 aarp.celtra.com
 aas-nv-a.aaxads.com
@@ -5315,155 +5269,6 @@ ad.doublecheng.com
 ad.doubleclick.be
 ad.doubleclick.de
 ad.doubleclick.net
-ad.doubleclick.net.10798.9029.302br.net
-ad.doubleclick.net.12275.9037.302br.net
-ad.doubleclick.net.12310.9037.302br.net
-ad.doubleclick.net.1.6100.302br.net
-ad.doubleclick.net.17382.9085.302br.net
-ad.doubleclick.net.17421.9086.302br.net
-ad.doubleclick.net.17681.9110.302br.net
-ad.doubleclick.net.17720.9085.302br.net
-ad.doubleclick.net.21261.9124.302br.net
-ad.doubleclick.net.21556.9075.302br.net
-ad.doubleclick.net.21587.9075.302br.net
-ad.doubleclick.net.21806.9075.302br.net
-ad.doubleclick.net.21843.9126.302br.net
-ad.doubleclick.net.23589.9075.302br.net
-ad.doubleclick.net.23624.9164.302br.net
-ad.doubleclick.net.23670.9164.302br.net
-ad.doubleclick.net.25507.9190.302br.net
-ad.doubleclick.net.27537.9212.302br.net
-ad.doubleclick.net.28094.9203.302br.net
-ad.doubleclick.net.28748.9225.302br.net
-ad.doubleclick.net.28825.9214.302br.net
-ad.doubleclick.net.28828.9214.302br.net
-ad.doubleclick.net.29092.9225.302br.net
-ad.doubleclick.net.29779.9240.302br.net
-ad.doubleclick.net.30975.9240.302br.net
-ad.doubleclick.net.31415.9240.302br.net
-ad.doubleclick.net.31953.9226.302br.net
-ad.doubleclick.net.32155.9242.302br.net
-ad.doubleclick.net.35554.9269.302br.net
-ad.doubleclick.net.36487.9250.302br.net
-ad.doubleclick.net.36936.9252.302br.net
-ad.doubleclick.net.37049.9291.302br.net
-ad.doubleclick.net.37370.9292.302br.net
-ad.doubleclick.net.37383.9294.302br.net
-ad.doubleclick.net.37439.9293.302br.net
-ad.doubleclick.net.37686.9298.302br.net
-ad.doubleclick.net.37688.9298.302br.net
-ad.doubleclick.net.39364.9305.302br.net
-ad.doubleclick.net.39645.9124.302br.net
-ad.doubleclick.net.40082.9307.302br.net
-ad.doubleclick.net.40365.9250.302br.net
-ad.doubleclick.net.40536.9311.302br.net
-ad.doubleclick.net.40547.9311.302br.net
-ad.doubleclick.net.40682.9311.302br.net
-ad.doubleclick.net.41174.9315.302br.net
-ad.doubleclick.net.41204.9315.302br.net
-ad.doubleclick.net.41210.9315.302br.net
-ad.doubleclick.net.41749.9317.302br.net
-ad.doubleclick.net.41878.9317.302br.net
-ad.doubleclick.net.41896.9317.302br.net
-ad.doubleclick.net.42594.9325.302br.net
-ad.doubleclick.net.43077.9285.302br.net
-ad.doubleclick.net.43089.9285.302br.net
-ad.doubleclick.net.43156.9329.302br.net
-ad.doubleclick.net.43640.9333.302br.net
-ad.doubleclick.net.43719.9335.302br.net
-ad.doubleclick.net.43730.9335.302br.net
-ad.doubleclick.net.43739.9335.302br.net
-ad.doubleclick.net.44554.9336.302br.net
-ad.doubleclick.net.44899.9339.302br.net
-ad.doubleclick.net.44955.9250.302br.net
-ad.doubleclick.net.47423.9311.302br.net
-ad.doubleclick.net.47943.9357.302br.net
-ad.doubleclick.net.48506.9318.302br.net
-ad.doubleclick.net.48538.9318.302br.net
-ad.doubleclick.net.48743.9318.302br.net
-ad.doubleclick.net.48749.9318.302br.net
-ad.doubleclick.net.48877.9318.302br.net
-ad.doubleclick.net.49191.9363.302br.net
-ad.doubleclick.net.50641.9279.302br.net
-ad.doubleclick.net.50909.9336.302br.net
-ad.doubleclick.net.51025.9336.302br.net
-ad.doubleclick.net.51163.9318.302br.net
-ad.doubleclick.net.51920.9250.302br.net
-ad.doubleclick.net.52222.9318.302br.net
-ad.doubleclick.net.52734.9390.302br.net
-ad.doubleclick.net.54549.9199.302br.net
-ad.doubleclick.net.54603.9199.302br.net
-ad.doubleclick.net.57014.9404.302br.net
-ad.doubleclick.net.57176.9406.302br.net
-ad.doubleclick.net.58262.9404.302br.net
-ad.doubleclick.net.58356.9318.302br.net
-ad.doubleclick.net.58404.9318.302br.net
-ad.doubleclick.net.58607.9318.302br.net
-ad.doubleclick.net.59220.9318.302br.net
-ad.doubleclick.net.59270.9318.302br.net
-ad.doubleclick.net.59457.9318.302br.net
-ad.doubleclick.net.59706.9318.302br.net
-ad.doubleclick.net.59815.9318.302br.net
-ad.doubleclick.net.59922.9318.302br.net
-ad.doubleclick.net.60063.9318.302br.net
-ad.doubleclick.net.60198.9318.302br.net
-ad.doubleclick.net.60309.9318.302br.net
-ad.doubleclick.net.61138.9450.302br.net
-ad.doubleclick.net.61144.9450.302br.net
-ad.doubleclick.net.62883.9469.302br.net
-ad.doubleclick.net.62969.9384.302br.net
-ad.doubleclick.net.65242.9499.302br.net
-ad.doubleclick.net.65550.9503.302br.net
-ad.doubleclick.net.65563.9503.302br.net
-ad.doubleclick.net.66022.9501.302br.net
-ad.doubleclick.net.66067.9501.302br.net
-ad.doubleclick.net.66087.9501.302br.net
-ad.doubleclick.net.66214.9501.302br.net
-ad.doubleclick.net.66624.9513.302br.net
-ad.doubleclick.net.67004.9515.302br.net
-ad.doubleclick.net.67029.9521.302br.net
-ad.doubleclick.net.67362.9336.302br.net
-ad.doubleclick.net.67404.9336.302br.net
-ad.doubleclick.net.67422.9336.302br.net
-ad.doubleclick.net.67437.9336.302br.net
-ad.doubleclick.net.67587.9336.302br.net
-ad.doubleclick.net.68347.9418.302br.net
-ad.doubleclick.net.69485.9566.302br.net
-ad.doubleclick.net.71088.9418.302br.net
-ad.doubleclick.net.72751.9369.302br.net
-ad.doubleclick.net.73176.9620.302br.net
-ad.doubleclick.net.73393.9621.302br.net
-ad.doubleclick.net.73505.9620.302br.net
-ad.doubleclick.net.73537.9620.302br.net
-ad.doubleclick.net.73573.9619.302br.net
-ad.doubleclick.net.73703.9618.302br.net
-ad.doubleclick.net.73722.9620.302br.net
-ad.doubleclick.net.74642.9336.302br.net
-ad.doubleclick.net.74799.9336.302br.net
-ad.doubleclick.net.74879.9336.302br.net
-ad.doubleclick.net.75153.9336.302br.net
-ad.doubleclick.net.75230.9336.302br.net
-ad.doubleclick.net.75252.9336.302br.net
-ad.doubleclick.net.75299.9625.302br.net
-ad.doubleclick.net.75846.9630.302br.net
-ad.doubleclick.net.76170.9635.302br.net
-ad.doubleclick.net.76720.9611.302br.net
-ad.doubleclick.net.77655.9663.302br.net
-ad.doubleclick.net.77704.9503.302br.net
-ad.doubleclick.net.77760.9501.302br.net
-ad.doubleclick.net.78312.9671.302br.net
-ad.doubleclick.net.78455.9671.302br.net
-ad.doubleclick.net.78575.9672.302br.net
-ad.doubleclick.net.78670.9671.302br.net
-ad.doubleclick.net.79458.9678.302br.net
-ad.doubleclick.net.79704.9326.302br.net
-ad.doubleclick.net.79713.9326.302br.net
-ad.doubleclick.net.79761.9680.302br.net
-ad.doubleclick.net.79781.9126.302br.net
-ad.doubleclick.net.80062.9336.302br.net
-ad.doubleclick.net.80120.9336.302br.net
-ad.doubleclick.net.80231.9336.302br.net
-ad.doubleclick.net.80280.9336.302br.net
 ad.doublemax.net
 ad.douga-kan.com
 ad.download.cnet.com
@@ -7039,7 +6844,6 @@ adrevservice.com
 ad.reyazilim.com
 ad.rfp.fout.jp
 adrianevolpe.multimania.com
-adrianogoldschmied.ingest.reporting.creator-prod.zmags.com
 ad.rich1.adbn.ru
 adright.adk2x.com
 adright.co
@@ -15400,7 +15204,6 @@ a-global-in-001.insnw.net
 a.global.msads.net
 a.goadservices.com
 agof.de
-agolde.ingest.reporting.creator-prod.zmags.com
 agora.advertising.com
 agora.nuggad.net
 agorapulse-manager.eu-west-1.elasticbeanstalk.com
@@ -15679,7 +15482,6 @@ allegra.1.p2l.info
 allegro-allegro.bannerflow.com
 alleliteads.com
 allenedmonds.ojrq.net
-allenergysolar.getambassador.com
 allergy.1.p2l.info
 allerhande.mainroll.com
 allermediamobse.nuggad.net
@@ -16550,7 +16352,6 @@ api-gateway.uat.dev.sizmek.com
 api-gateway.us-west-2.elasticbeanstalk.com
 api.gemini.yahoo.com
 api.getadmiral.com
-api.getambassador.com
 api.getui.com
 api-gi.getui.com
 api.gi.igexin.com
@@ -16951,6 +16752,7 @@ app.clickadilla.com
 app.clickyab.com
 app-community.pubmatic.com
 app.content.ad
+app.convertbox.com
 app.cpmktg.com
 app.curalate.com
 app-debug.dev.pardot.com
@@ -16961,7 +16763,6 @@ appdigitalstory.admicro.vn
 appdiscovery.apptap.com
 app.districtm.net
 app.doubleverify.com
-appeagle.getambassador.com
 appengage-fyber.fyber.com
 appengage-video.fyber.com
 appengage-video.sponsorpay.com
@@ -16972,7 +16773,6 @@ appep.ina.media.net
 app.exponential.com
 app.extremereach.com
 appgalleries.inmobi.com
-app.getambassador.com
 app.getcoopt.com
 app.getwoohoo.com
 app.gumgum.com
@@ -17844,7 +17644,6 @@ audimark.adswizz.com
 audimark.deliveryengine.adswizz.com
 audioarctic.com
 audioboom.deliveryengine.adswizz.com
-audiodigest.getambassador.com
 audiogo.adswizz.com
 audiology.deliveryengine.adswizz.com
 audiomack.deliveryengine.adswizz.com
@@ -18124,7 +17923,6 @@ aws-production-video-broker-eu-west-1.video-v2.fyber.com
 aws.rubiconproject.com
 aws-staging-banner-eu-west-1.staging-banner.fyber.com
 awsstaging.flashtalking.com
-aws-staging-tracker-eu-west-1.staging-tracker.fyber.com
 aws-tam.unbounce.com
 awstats.adsame.com
 aws.vizury.com
@@ -18241,18 +18039,14 @@ b22.sitemeter.com
 b23z9m.focot.focus-outdoors.com
 b241f-57b57.api.pushwoosh.com
 b262b-cff23.api.pushwoosh.com
-b2bdemo.getambassador.com
 b2bmarketing.localiq.com
 b2b.shinystat.com
-b2bsuccessdemo.getambassador.com
 b2b.tapjoy.com
-b2cdemo.getambassador.com
 b2cdn.automatad.com
 b2c-feedapi-a.prod.vidible.tv
 b2c-feedapi.prod.vidible.tv
 b2c-feedapi.vidible.tv
 b2cglobal-tagan.adlightning.com
-b2csuccessdemo.getambassador.com
 b2kill.tsx.org
 b2pgxo.focot.focus-outdoors.com
 b2.sitemeter.com
@@ -20131,7 +19925,6 @@ baseballforall.lockerdome.com
 baseballhq.localiq.com
 basebanner.com
 base-cdn.admarvel.com
-base.getambassador.com
 baserca.marfeel.com
 baseurl.admarvel.com
 basic-trending.eu-central-1.elasticbeanstalk.com
@@ -21035,8 +20828,6 @@ bl-useast1.webspectator.com
 blushingbeast.com
 blushingboundary.com
 blutonic.net
-bm201805.ams1.adnexus.net
-bm201902.ams1.adnexus.net
 bm203430.nym2.appnexus.com
 bm203440.nym2.appnexus.com
 bm87576.fra1.appnexus.com
@@ -21221,7 +21012,6 @@ boxingjunkie.localiq.com
 boxpr.admicro.vn
 boxx.adspirit.de
 boxy-bea-iad2.rubiconproject.com
-boxycharm.getambassador.com
 boylesports-boylesports.bannerflow.com
 bp.ads.link4ads.com
 bpath.com
@@ -21289,7 +21079,6 @@ brandless.pxf.io
 brandmanager.balihoo.com
 brandmanager.stage.balihoo.com
 brandmovers.net
-brandoshmando.getambassador.com
 brand.rakutenmarketing.com
 brandreach.com
 brandreachsys.com
@@ -22930,6 +22719,7 @@ cdn.contentabc.com
 cdn.content.ads.chaturbate.com
 cdn-content.ampproject.org
 cdn.content.exoticads.com
+cdn.convertbox.com
 cdn.cpmstar.com
 cdn-creatives-akamai-prd.unityads.unity3d.com
 cdn-creatives-akamai-stg.unityads.unity3d.com
@@ -23012,8 +22802,6 @@ cdn.fyber.com
 cdnga.admitad.com
 cdn-g.amazon-adsystem.com
 cdn.geodns.tubemogul.com
-cdn.getambassador.com
-cdn.getambassador.com.sandbox.getambassador.com
 cdn.go.affec.tv
 cdn.goodwaygroup.com
 cdn.goroost.com
@@ -23497,7 +23285,6 @@ celtra.com
 celtra.ntv.io
 celtra-uber-personal-messaging.celtra.com
 cemnet.advertserve.com
-cengagebrain.getambassador.com
 cent.adbureau.net
 centaur-images.adbureau.net
 centauri-tun1-mass-peer.advance.net
@@ -23742,7 +23529,6 @@ chef.a-ads.com
 chef.tresensa.com
 chef.vidible.tv
 chef.zedo.com
-chegg.getambassador.com
 chelsea.widget.custhelp.com
 chemicalcoach.com
 chemicalsnake.com
@@ -23925,7 +23711,6 @@ circleci.infra.mediamath.com
 circleci.mediamath.com
 circleciprod.mediamath.com
 circlecitest.mediamath.com
-circlemedia.getambassador.com
 circuit.advertserve.com
 circuitnet.advertserve.com
 circustrack.optimove.net
@@ -24780,7 +24565,6 @@ codecoverage.staging-1.staging.leanplum.com
 codecoverage-ui.staging-1.staging.leanplum.com
 code.directadvert.ru
 code.fastclick.net
-codefellows.getambassador.com
 code.impresionesweb.com
 code.kutoku.com
 codenew.impresionesweb.com
@@ -24831,7 +24615,6 @@ collector-kinesis.ibtxf8dswp.eu-west-1.elasticbeanstalk.com
 collector.marketing.ad4mat.net
 collector.placelocal.com
 collect.rockyou.com
-collegeave.getambassador.com
 collegeprowler.adblade.com
 col.mobileads.msn.com
 colo1.adriver.ru
@@ -25199,7 +24982,6 @@ convctr.overture.com
 convctrs.overture.com
 convdamp.taboola.com
 convdb.buysellads.com
-conventions.getambassador.com
 convergedigital.mainroll.com
 convergence.intellicontact.com
 conversantmedia.com
@@ -25218,9 +25000,9 @@ conversions.rts.doublepimp.com
 conversions.smartyads.com
 conversion.webspectator.com
 convertalinktest.awin.com
+convertbox.com
 converter.flashtalking.com
 convertiseio.affise.com
-convertkit.getambassador.com
 convert-sr.streamrail.net
 convert-tracking.elasticbeanstalk.com
 conveump.admailtiser.com
@@ -25299,7 +25081,6 @@ corba.adtech.fr
 corba.adtech.us
 cor.beeviewd.com
 cor.bestcontentonline.com
-cordiagrad.getambassador.com
 cordial.com
 core1.adservingfactory.com
 core1.adunity.com
@@ -25680,7 +25461,6 @@ cretalive-obj.adman.gr
 cretalive.os.tc
 creview.adbureau.net
 creview-images.adbureau.net
-crewclothing.ingest.reporting.creator-prod.zmags.com
 cr.fiksu.com
 cricket.inq.com
 cricket.mobileposse.com
@@ -25965,10 +25745,8 @@ customersupport.fyber.com
 customerthink.advertserve.com
 customer-track.eu-west-1.elasticbeanstalk.com
 custom.exoclick.com
-custom.getambassador.com
 customink.adlegend.com
 custom.mobpartner.mobi
-custom-redirect.getambassador.com
 custom.serving-sys.com
 custom.sponsormob.com
 custom.supersonicads.com
@@ -26480,7 +26258,6 @@ data.mobclix.com
 data.monarchads.com
 data.nuggad.net
 data-platform-grafana.staging-1.staging.leanplum.com
-data-platform-ingestion-service.staging-1.staging.leanplum.com
 data-platform-jobs.prod-1.prod.leanplum.com
 data-platform-jobs.prod.leanplum.com
 data-platform-jobs.qa-1.qa.leanplum.com
@@ -27213,7 +26990,6 @@ depositphotos.pushwoosh.com
 depot.novem.pl
 depthdropmaster.us-west-2.elasticbeanstalk.com
 depthquestsserver-live.h2npnkkxe2.us-west-2.elasticbeanstalk.com
-deputy.getambassador.com
 dequest.goodwaygroup.com
 de.rayjump.com
 de.realmedia.com
@@ -27294,7 +27070,6 @@ dev.addapptr.com
 dev.adflex.vn
 devadi.insightexpress.com
 dev.admanmedia.com
-dev-admin.getambassador.com
 devado.multimania.com
 dev-ads.aerserv.com
 dev.ads.aerserv.com
@@ -27327,12 +27102,8 @@ dev.canada.pinterest.adtz.com
 dev.cd-cpa.facebook-ads.adtz.com
 dev.cd-creditocliente.facebook-ads.adtz.com
 dev.cd-intercompany.facebook-ads.adtz.com
-dev-cdn-2.getambassador.com.dev-sandbox.getambassador.com
-dev-cdn-2.getambassador.com.sandbox.getambassador.com
 dev-cdn.districtm.ca
 dev.cdn.districtm.io
-dev-cdn.getambassador.com.dev-sandbox.getambassador.com
-dev-cdn.getambassador.com.sandbox.getambassador.com
 dev.cd-recala.facebook-ads.adtz.com
 dev.chevrolet-mexico.facebook-ads.adtz.com
 dev.chevroletmundial-mexico.facebook-ads.adtz.com
@@ -27392,7 +27163,6 @@ developers.autopilothq.com
 developers.cityads.com
 developers.cpcempower.com
 developers.curalate.com
-developers.dev.getambassador.com
 developers.microad.co.jp
 developers.mopub.com
 developer.sponsormob.com
@@ -29465,7 +29235,6 @@ elliman.imprev.net
 elliman.qa-dest.imprev.net
 elliman.qa.imprev.net
 elliman.staging.imprev.net
-elliquark.getambassador.com
 elmundo-by.accengage.net
 elonezet.netadclick.com
 eloquentdesign.intellicontact.com
@@ -29514,7 +29283,6 @@ emailer.outbrain.de
 emailer.outbrain.fr
 emailer.outbrain.it
 emailer.outbrain.org
-email.getambassador.com
 email-grafana.prod-1.prod.leanplum.com
 email-grafana.staging-1.staging.leanplum.com
 email.heyzap.com
@@ -29867,7 +29635,6 @@ eqix-ema-sv.amobee.com
 equifax.adbureau.net
 equilibrium.sonobi.com
 equinix.inq.com
-equityfeed.getambassador.com
 equjpswd.12gbfree.com
 eq.utopiad.com
 equuleus.iad.appboy.com
@@ -30068,7 +29835,6 @@ et-cn.apac.gslb.inmobi.com
 et-cn.w.inmobi.com
 etemaaddaily.feedify.net
 e-test.adzerk.net
-ethanallen.ingest.reporting.creator-prod.zmags.com
 ethfw0370q.com
 e.thirdpresence.com
 ethnicpass.pimproll.com
@@ -30442,7 +30208,6 @@ ex.adsage.com
 example-app.dev.pardot.com
 example.celtra.com
 example.content.ad
-example.getambassador.com
 example.mgid.com
 example.popunder.net
 example-service.staging-1.staging.leanplum.com
@@ -31351,7 +31116,6 @@ files.cointraffic.io
 files.cpcempower.com
 files-dfw.pardot.com
 file-service.staging-1.staging.leanplum.com
-files.getambassador.com
 files.innovid.com
 files.livejasmin.com
 files.nexage.com
@@ -31431,7 +31195,6 @@ fioricet.3.p2l.info
 fioricet.4.p2l.info
 fi.overture.com
 fips.uimserv.net
-firecracker.getambassador.com
 firefox7.msdwnld.com
 firefox8.msdwnld.com
 firefox.msdwnld.com
@@ -31955,8 +31718,6 @@ fr-himedia.cdn.videoplaza.tv
 fr-himedia.videoplaza.tv
 fr-himedia.vp.videoplaza.tv
 fridge.consumable.com
-friends-dev.getambassador.com
-friends.getambassador.com
 friends-prod.us-east-1.elasticbeanstalk.com
 frightenedpotato.com
 fr.indexexchange.com
@@ -32663,7 +32424,6 @@ get.marfeel.com
 getmusicfree.aavalue.com
 geton.intellicontact.com
 get.optad360.io
-getoutfitted.getambassador.com
 get.playwire.com
 getpopunder.com
 getpushmonkey.com
@@ -32863,7 +32623,6 @@ glovoapi-eb.eu-west-1.elasticbeanstalk.com
 glov.pxf.io
 glow2.facebook-ads.adtz.com
 glow.facebook-ads.adtz.com
-glscrip.getambassador.com
 glumbert.crwdcntrl.net
 glu.outbrain.com
 glu.outbrain.de
@@ -32955,7 +32714,6 @@ godes.en-promo.com
 go.dev.pardot.com
 go.digital.exponential.com
 go.districtm.net
-godivachocolatier.ingest.reporting.creator-prod.zmags.com
 go.doaffiliate.net
 go.ebis.ne.jp
 goe.moatads.com
@@ -33018,7 +32776,6 @@ go.moartraffic.com
 go.mobpartner.mobi
 go.nanigans.com
 gondolagnome.com
-gong.getambassador.com
 gonzalezz.admanmedia.com
 gonzogrape.gumgum.com
 goo2anywhere.com
@@ -33258,7 +33015,6 @@ greasysquare.com
 greatads.blogads.com
 greatfallstribune.localiq.com
 greatlakes.placelocal.com
-greatland.getambassador.com
 greatoffers.aavalue.com
 greatsong.cdn.videoplaza.tv
 greedseed.world
@@ -33269,7 +33025,6 @@ greenhousewarehouse.ojrq.net
 green-red.com
 greensheet.placelocal.com
 greensmartliving.pxf.io
-greensolartechnologies.getambassador.com
 greentube.adspirit.net
 greenvilleonline.localiq.com
 greetzebra.com
@@ -33283,7 +33038,6 @@ griffin.affise.com
 gr.info.lgsmartad.com
 griprum9h9.mentalist.kameleoon.com
 grizly-tagan.adlightning.com
-grizz-snippet.herokuapp.com.sandbox.getambassador.com
 grmtech.net
 grocery.localiq.com
 grocery-pup.pxf.io
@@ -33318,7 +33072,6 @@ grtb-la.lfstmedia.com
 grtb-nj.lfstmedia.com
 grtb-sc.lfstmedia.com
 grtb-tw.lfstmedia.com
-gruntstyle.getambassador.com
 grupom-adtz.facebook-ads.adtz.com
 grupom.facebook-ads.adtz.com
 grupozeta.pushwoosh.com
@@ -33557,7 +33310,6 @@ happenhistory.com
 happygilmore.advance.net
 happygilmore.lockerdome.com
 happysockstrack.optimove.net
-happytails.getambassador.com
 ha.pro-market.net
 haproxy01-apac-bidder.manage.com
 haproxy01-east-bidder.manage.com
@@ -33711,7 +33463,6 @@ head-fiorg.skimlinks.com
 headwaters.intellicontact.com
 headyhook.com
 healmsuoguurd.eu
-healsfurniture.ingest.reporting.creator-prod.zmags.com
 healthadnet.adprimemedia.com
 healthcare.localiq.com
 healthequity.widget.custhelp.com
@@ -33811,7 +33562,6 @@ hentaipics.multimania.com
 heracles.cpcempower.com
 hera.cpcempower.com
 herald-review.placelocal.com
-heraxhero.getambassador.com
 herboristgirl.multimania.com
 hercules.cpcempower.com
 hercules.iad.appboy.com
@@ -33827,7 +33577,6 @@ hertz.medallia.com
 hexa.silverpush.co
 hexusnet.skimlinks.com
 hey.hellobar.com
-heyo.getambassador.com
 heyzap.com
 hf18yg8q.com
 h.f1.impact-ad.jp
@@ -33855,9 +33604,6 @@ hiekeegi.com
 hiendbg.adocean.pl
 hifitest.adspirit.de
 hiflogs.zedo.com
-hifxaus.getambassador.com
-hifx.getambassador.com
-hifxnz.getambassador.com
 higherlowergame.os.tc
 higherperspective-img.rbl.ms
 highfalutinbox.com
@@ -34146,7 +33892,6 @@ hrads.valuead.com
 hrahdmon.com
 hrapi.innovid.com
 hrblock.adlegend.com
-hrblock.getambassador.com
 hrblock.medallia.com
 hr.bongacams.com
 hrcdewpm.12gbfree.com
@@ -34283,16 +34028,13 @@ hueadsortb.com
 hueadsxml.com
 huffingtonpost.crwdcntrl.net
 hugde.adocean.pl
-hughesnet.getambassador.com
 hugoglosyblog.os.tc
 hugwealth.com
 hu.info.lgsmartad.com
 hukuki.os.tc
 hultsitecoremvc-live.elasticbeanstalk.com
 huluad.com
-hulu.getambassador.com
 hulu.pixel.invitemedia.com
-humanity.getambassador.com
 humbnails.infolinks.com
 humdrumhat.com
 hummingbird.mopub.com
@@ -34347,7 +34089,6 @@ hyperion.adtech.fr
 hyperion.adtech.us
 hypersexe.multimania.com
 hypertender.com
-hyphensleep.getambassador.com
 hypnoticwound.com
 hyprmx.com
 hystericalhelp.com
@@ -34894,7 +34635,6 @@ igate-ns.advance.net
 igaw-cm.ad-brix.com
 igawcrashlytics.ad-brix.com
 i.geistm.com
-igetit.getambassador.com
 igexin.com
 igin.startappservice.com
 igmggltp.12gbfree.com
@@ -35197,6 +34937,7 @@ images.channeladvisor.com
 images.chartboost.com
 images-cldlog.startappservice.com
 images.click.in
+images.convertbox.com
 images.cpa.adthink.com
 images.creator-prod.zmags.com
 images.c.switchadhub.com
@@ -35840,7 +35581,6 @@ indexww.com
 india1.ads.yahoo.com
 indiads.com
 indiagw.zedo.com
-indiahicks.ingest.reporting.creator-prod.zmags.com
 indianairishbaseball.lockerdome.com
 indianexpress.izooto.com
 indianriverpressjournal.localiq.com
@@ -36036,7 +35776,6 @@ in-setindia.a.videoplaza.tv
 in-setindia.cdn.videoplaza.tv
 in-setindia.videoplaza.tv
 inside.adpushup.com
-inside.getambassador.com
 inside.groupm.com
 inside.outbrain.com
 inside.pubmatic.com
@@ -36497,7 +36236,6 @@ issues.adconion.com
 issues.mediamath.com
 ist2019.k8s-hetzner-dev.lifestreet.com
 istanbulsohbetchatcom.adhood.com
-istio-test-ingestion-service.dp.staging-1.staging.leanplum.com
 istockphoto.7eer.net
 ist-production-new.us-east-1.elasticbeanstalk.com
 istream.rakutenmarketing.com
@@ -37301,7 +37039,6 @@ k.ad.nl
 k.adnxs.com
 k.adpost.com
 kafka.staging.leanplum.com
-kajabi.getambassador.com
 kakhacker.os.tc
 kalacanlicom.adhood.com
 kalemat.adk2x.com
@@ -38262,7 +37999,6 @@ lebanonfiles.os.tc
 lebara-mobile.pxf.io
 leconomiste.os.tc
 le.cpcempower.com
-lecturio.getambassador.com
 leda.multimania.com
 ledortoir.multimania.com
 leeenterprises-tagan.adlightning.com
@@ -38297,7 +38033,6 @@ le-monde-ams.gscontxt.net
 lemur.alignable.com
 lending-club-auto.pxf.io
 lendingclub.pxf.io
-lendkey.getambassador.com
 lenovo.7eer.net
 lenovo.inq.com
 lenovotw.7eer.net
@@ -38459,14 +38194,12 @@ liftlocal.placelocal.com
 lift.logly.co.jp
 liftmaster.balihoo.com
 lift.openx.com
-lifx.getambassador.com
 ligadx.com
 ligatus.com
 ligatus.de
 lightborg.com
 lightbox.unbounce.com
 lightcushion.com
-lighthoof.getambassador.com
 lighthouse.corp.appnexus.com
 lightinthebox.7eer.net
 lightningcast.ace.advertising.com
@@ -38551,7 +38284,6 @@ linx-cache.microad.jp
 linx.extremereach.com
 linx.microad.jp
 linx.send.microad.jp
-lipmonthly.getambassador.com
 li.pxl.ace.advertising.com
 liquidationchannel.widget.custhelp.com
 liquidator.7eer.net
@@ -39104,9 +38836,7 @@ lululemon.like2buy.curalate.com
 lululemonuk.like2buy.curalate.com
 lumberamount.com
 lumileads.affise.com
-lumination.getambassador.com
 lumitos.adspirit.de
-lumoid.getambassador.com
 lumomedia4.flamingstudiospso.click2sell.eu
 lumpylumber.com
 lund-ip.tritondigitalmedia.com
@@ -39206,7 +38936,6 @@ m1639.ic-live.com
 m1673.ic-live.com
 m1839.ic-live.com
 m1-c.adyield.co
-m1finance.getambassador.com
 m1.fwmrm.net
 m1.ib.adnxs.com
 m1.zedo.com
@@ -39654,7 +39383,6 @@ mason.7eer.net
 mason.kargo.com
 mason.svc.kargo.com
 mass-admin.advance.net
-massdiscounters.ingest.reporting.creator-prod.zmags.com
 mas-sdk.amazon-adsystem.com
 massdrop.7eer.net
 mas.silverpush.co
@@ -39684,6 +39412,7 @@ mata.ero-advertising.com
 mat.basebanner.com
 matc.basebanner.com
 match.1.rtb.revcloud.adaos-ads.net
+match.360yield.com
 match.adfarm1.adition.com
 match.adlegend.com
 match.admailtiser.com
@@ -39993,7 +39722,6 @@ medallia.com
 med-api.admost.com
 medbanner.advertserve.com
 medbanner.com
-medcerts.getambassador.com
 medecinsdumonde-by.accengage.net
 med.heyzap.com
 medi1tv-ma.os.tc
@@ -40366,7 +40094,6 @@ medifast1.adlegend.com
 mediterranea.facebook-ads.adtz.com
 medjet.ojrq.net
 medleyads.com
-medstudy.getambassador.com
 medtest.nexage.com
 medusasailor.com
 meedia.adspirit.de
@@ -40827,7 +40554,6 @@ mixmax-files-production.elasticbeanstalk.com
 mixmax-publications-production.us-east-1.elasticbeanstalk.com
 mixpo.com
 mixsys.adsame.com
-mizzenandmain.getambassador.com
 mizzouracquetball.lockerdome.com
 mj.cpcempower.com
 mk08gc12ah.mentalist.kameleoon.com
@@ -41234,7 +40960,6 @@ monktest.webengage.com
 monk.webengage.com
 monocle-dev.advance.net
 monopolybingo.tresensa.com
-monq.getambassador.com
 mon.simpli.fi
 monster.adlegend.com
 monsterbash.tresensa.com
@@ -41568,7 +41293,6 @@ murge.adspirit.net
 murkymeeting.com
 murraynewlandscom.skimlinks.com
 muscle-relaxers.1.p2l.info
-muse.getambassador.com
 mushroomhunting.tresensa.com
 music.163.com.adserver.com
 music1-ip.tritondigitalmedia.com
@@ -41721,7 +41445,6 @@ mydash.yieldlab.net
 mydas.mobi
 mydata.appnexus.com
 mydellminicom.skimlinks.com
-my.dev.getambassador.com
 my.dianomi.com
 my.ebis.ne.jp
 myfamilyclub.ojrq.net
@@ -41731,7 +41454,6 @@ myfax.7eer.net
 myfiles.nexage.com
 myflaviaus.adlegend.com
 my.getadmiral.com
-my.getambassador.com
 mygiftcardsplus.7eer.net
 my.groovinads.com
 myhappy-news.com
@@ -41756,7 +41478,6 @@ my-mediaprima.a.videoplaza.tv
 my-mediaprima.cdn.videoplaza.tv
 my-mediaprima.videoplaza.tv
 my.mgid.com
-mymsuccess.getambassador.com
 mynettr.adocean.pl
 mynewsassistant.intellicontact.com
 myopenads.com
@@ -42053,7 +41774,6 @@ nectar.facebook-ads.adtz.com
 nectar.juicemobile.com
 ned.admanmedia.com
 needle.com
-needsupply.ingest.reporting.creator-prod.zmags.com
 negbg.adocean.pl
 neighborlywatch.com
 neiturnermediagroup.advertserve.com
@@ -42119,7 +41839,6 @@ netjs.adpush.cn
 netmng.com
 net.mobvista.com
 netplus.bench.cedexis.com
-netpromoter.getambassador.com
 net.rayjump.com
 netrbx.com
 netronline.com.cdn.ezoic.net
@@ -42322,7 +42041,6 @@ new-wpstage.adelphic.com
 new-www.outbrain.com
 neww.yieldmo.com
 newyearads.com
-newyork.ingest.reporting.creator-prod.zmags.com
 newyork.localiq.com
 nexage.advertising.com
 nexage.com
@@ -43085,7 +42803,6 @@ ntrack.novem.pl
 ntt.teads.tv
 ntv.io
 nt.vrvm.com
-nucleuslife.getambassador.com
 nuco.adgear.com
 nu.cpcempower.com
 nudebritneyspear.multimania.com
@@ -45112,7 +44829,6 @@ pages.curalate.com
 pages.epom.com
 pageserver-production.g8bexvxtjx.us-east-1.elasticbeanstalk.com
 pageseven.os.tc
-pages.getambassador.com
 pages.gitlab.sele.co
 pages.instapage.com
 pagesjaunes-by.accengage.net
@@ -45281,7 +44997,6 @@ partners.chartboost.com
 partners.content.ad
 partners.content-ad.net
 partners.cpcempower.com
-partners.getambassador.com
 partners.greystripe.com
 partnerships.adcolony.com
 partners.kameleoon.com
@@ -45511,8 +45226,6 @@ penske-tagan.adlightning.com
 penspade.com
 penta.a.one.impact-ad.jp
 pentamob.com
-pentesting1.dev.getambassador.com
-pentesting2.dev.getambassador.com
 penthousepets.tsx.org
 peoplefun.pushwoosh.com
 people.triplelift.com
@@ -45555,7 +45268,6 @@ perfspot.crwdcntrl.net
 perfumania.zmags.com
 peridot.spinbox.net
 peridot.synacor.com
-perkbox.getambassador.com
 perl.awempire.com
 permobads22000.pubmatic.com
 permutive.amp.permutive.com
@@ -45584,7 +45296,6 @@ pervorm-nl.mmgl.cd.serving-sys.com
 pesbqkopdm.com
 pesmaster.os.tc
 pet.adsafeprotected.com
-petcube.getambassador.com
 peter-millar-petebot-server.us-west-2.elasticbeanstalk.com
 peterose.lockerdome.com
 petiteumbrella.com
@@ -45842,7 +45553,6 @@ pioneeradventure.rockyou.com
 pi.pardot.com
 pipe.adform.net
 pipeaota.com
-pipelinedeals.getambassador.com
 pipemoi4.multimania.com
 pi.perf.pardot.com
 pi-phx-lb1.pardot.com
@@ -46658,7 +46368,6 @@ pl.allinviews.com
 plan.across.it
 planc.intellicontact.com
 plancool.multimania.com
-planday.getambassador.com
 planet49.com
 planetcast.intellicontact.com
 planetdefense.tresensa.com
@@ -47067,6 +46776,7 @@ popup.outbrain.fr
 popup.outbrain.it
 popup.outbrain.org
 popup.taboola.com
+popup.yourpractice.online
 popxxx.net
 porn4.multimania.com
 pornbox.sextgem.com
@@ -47118,7 +46828,6 @@ portier-uat.advance.net
 porto.os.tc
 posadas.medallia.com
 posibilities_en.popunder.net
-posigen.getambassador.com
 positivemedia.intellicontact.com
 positiveparentingsolutions.pxf.io
 positivo.smartadserver.com
@@ -48470,11 +48179,7 @@ purchmedia.celtra.com
 purch-sync.go.sonobi.com
 purch.sync.go.sonobi.com
 puresexe.multimania.com
-pure.snippet-local.dev-sandbox.getambassador.com
-pure.snippet-local.getambassador.com.sandbox.getambassador.com
-pure.snippet-local.sandbox.getambassador.com
 purifydigital.affise.com
-purple.getambassador.com
 purple.pxf.io
 pursuanthealth.com
 puserving.com
@@ -49118,7 +48823,6 @@ rainbow.topbucks.com
 rainbow-uk.mythings.com
 rainbow-us.mythings.com
 rainbowx.mythings.com
-rainforestqa.dev.getambassador.com
 rainmaker.production-public.tubi.io
 raintwig.com
 rainydaymarketing.affise.com
@@ -49278,7 +48982,6 @@ reactads.cdn.adglare.net
 reactads.engine.adglare.net
 react.aori.com
 reactions.advance.net
-reactions.getambassador.com
 reactions-uat.advance.net
 reactor.xtify.com
 readgoldfish.com
@@ -49383,6 +49086,7 @@ recommends.media.net
 recom.popin.cc
 recon.advertserve.com
 reconditerake.com
+reconditerespect.com
 recorder.placelocal.com
 reco.twiago.com
 recover.adriver.ru
@@ -49404,7 +49108,6 @@ redblue.flashtalking.com
 redbox.ojrq.net
 redbutton-adproxy-lb-prod.redbutton.de
 redcarpet.kargo.com
-redcord.getambassador.com
 redcross-mid-prod3-t.adobe-campaign.com
 redding.localiq.com
 redefine2.hit.stat24.com
@@ -49473,7 +49176,6 @@ refeeder-stage.advance.net
 referal.begun.ru
 referdriving.com
 reference.fyber.com
-refer.getambassador.com
 refer.media.net
 referral.game-insight.com
 referral.smi2.net
@@ -49507,6 +49209,7 @@ registry.test.gen.adsrvr.org
 registry.trellian.com
 regskbjj.12gbfree.com
 regs.tappx.com
+regularplants.com
 reibel.multimania.com
 reid.intellicontact.com
 reimage.adk2.co
@@ -49690,7 +49393,6 @@ request2.sele.co
 request.czilladx.com
 request-global.czilladx.com
 request.sele.co
-requests.getambassador.com
 request-sp.sele.co
 request-staging.czilladx.com
 request-tracker.k8s-prod.fiksu.com
@@ -50172,7 +49874,6 @@ ronsearch.adk2x.com
 roofrelation.com
 roomertravel.adlegend.com
 rooster.intellicontact.com
-roosterly.getambassador.com
 rootclick.com
 rootconf.media.net
 root.lockerdome.com
@@ -50726,6 +50427,7 @@ rtb-use.mfadsrvr.com
 rtb-us.impresionesweb.com
 rtb-us-va.adhigh.net
 rtb-usw1.adelement.com
+rtb-us-west1.openx.net
 rtb-uswest-1.vizury.com
 rtb-uswest.adservme.com
 rtb-uswest.adventurefeeds.com
@@ -51660,8 +51362,6 @@ sa-only.outbrain.org
 sa.outbrain.com
 sa.outbrain.org
 sap.adriver.ru
-sapeuro.getambassador.com
-sapgbp.getambassador.com
 sapi.adsafeprotected.com
 sapi.adsniper.ru
 sapi.zemanta.com
@@ -51856,7 +51556,6 @@ s-c-service.innovid.com
 scs.mediamath.com
 s-cs.send.microad.jp
 scsun-news.localiq.com
-scsupholsteryplc.ingest.reporting.creator-prod.zmags.com
 sctimes.localiq.com
 sc.tradetracker.net
 scusa.inq.com
@@ -52250,6 +51949,7 @@ secureimages.channeladvisor.com
 secure.img-cdn2.mediaplex.com
 secure.img-cdn.mediaplex.com
 secure.impresionesweb.com
+secure.insightexpressai.com
 secure.juicyads.com
 secure-lax.adnxs.com
 secure.leadback.advertising.com
@@ -53888,7 +53588,6 @@ smi2net.dev.smi2.net
 smi2ru.ivan.dev.smi2.net
 smi.directadvert.ru
 smile.7eer.net
-smiledirectclub.getambassador.com
 smilingshake.com
 smilingwaves.com
 s.mixadvert.com
@@ -54386,7 +54085,6 @@ spin.kargo.com
 spin.spinbox.net
 spinytom.tresensa.com
 spirebaboon.com
-spiritedgifts.ingest.reporting.creator-prod.zmags.com
 spiritualityhealth.advertserve.com
 spiroox.com
 spixel.adsafeprotected.com
@@ -55181,7 +54879,6 @@ staging.taboola.com
 staging.tagdelivery.com
 staging.tenjin.com
 staging-tlx.3lift.com
-staging-tracker.fyber.com
 staging.trader.adgear.com
 staging-uk.indexexchange.com
 staging.unityads.unity3d.com
@@ -55206,6 +54903,7 @@ stakingscrew.com
 stakingslope.com
 staleseat.com
 staleshow.com
+stalesummer.com
 sta.login4.silverpop.com
 stamfordadvocate.share.ntv.io
 stampy.skimlinks.com
@@ -55991,7 +55689,6 @@ stuartnews.localiq.com
 stuartweitzman.needle.com
 stubhub.widget.custhelp.com
 studads.com
-studentloanservice.getambassador.com
 studiestoday.feedify.net
 studio2.innovid.com
 studio8-beta.teads.tv
@@ -56076,9 +55773,7 @@ subway.facebook-ads.adtz.com
 subway.medallia.com
 succeedscene.com
 success.adroll.com
-successexample.getambassador.com
 success.pardot.com
-success-playground.getambassador.com
 success.unbounce.com
 suche.gmx.net
 suckmypics.tsx.org
@@ -56114,12 +55809,10 @@ sunbelt.revenue.net
 sundaysky-sync-us.teads.tv
 sundog.intellicontact.com
 sunflower.nui.media
-sungevity.getambassador.com
 sunicontent.videoplaza.tv
 sunmediaads.com
 sunnysportstracksdk.optimove.net
 sunrise.inq.com
-sunrun.getambassador.com
 suo.lp.mydas.mobi
 sup.adfox.ru
 supanet.espotting.com
@@ -57051,7 +56744,6 @@ t.eclick.vn
 tecnopragma.intellicontact.com
 te.cpcempower.com
 tedioustooth.com
-teeki.getambassador.com
 teenager.quotes.com
 teenpages.tsx.org
 teensailor.tsx.org
@@ -57117,7 +56809,6 @@ tennessee.localiq.com
 tenorshare.pxf.io
 tenplay.adalyser.com
 tenuate.1.p2l.info
-tepwireless.getambassador.com
 ter-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 ter-adserver-a-origin-us-east-1.prod.adtechus.com
 ter-adserver-a-origin-us-west-1.prod.adtechus.com
@@ -57141,7 +56832,6 @@ test10.ads.yahoo.com
 test1.adfox.ru
 test1.adition.com
 test1.adsame.com
-test1.getambassador.com
 test1.help.adfox.ru
 test1-lax.adsrvr.org
 test1-sg2.adsrvr.org
@@ -57235,7 +56925,6 @@ test.emule.msdwnld.com
 test.espotting.com
 test.expertcity.com
 test.gemini.yahoo.com
-testgoat.dev.getambassador.com
 testgrafana.devops.staging-1.staging.leanplum.com
 test.grafana.staging-1.staging.leanplum.com
 test-http-server.k8s-hetzner-dev.lifestreet.com
@@ -57382,7 +57071,6 @@ theblaze-img.rbl.ms
 thebodyperfect.pushowl.com
 thebostonchannel.placelocal.com
 thebrainyard.engine.adglare.net
-thebuckle.ingest.reporting.creator-prod.zmags.com
 thecalifornian.localiq.com
 thecardroom.lockerdome.com
 thecepelin.adspirit.net
@@ -58313,6 +58001,7 @@ traffic-prod.outbrain.org
 traffic.pubexchange.com
 trafficreps.com
 trafficrouter.io
+traffic.ru
 trafficshark.affise.com
 trafficshield-prod.elasticbeanstalk.com
 trafficshieldsdk.revmob.com
@@ -59805,6 +59494,7 @@ us.tracking.justpremium.com
 us-transportnation.videoplaza.tv
 usub.izooto.com
 usucmweb.dotomi.com
+us-u.openx.net
 us-v3.tracking.justpremium.com
 usva.ssp.tidaltv.com
 us-veritas.cdn.videoplaza.tv
@@ -60051,7 +59741,6 @@ vaapplovinrtb.lfstmedia.com
 vabid.dev.sift.co
 vabid.prod.sift.co
 vacation.advolution.de
-vacationstrategy.getambassador.com
 vaci.iasds01.com
 va.cpcempower.com
 vacstxcz.12gbfree.com
@@ -60790,7 +60479,6 @@ vid44000.pubmatic.com
 vid95vl24x.com
 vid.adbrite.com
 vid.adledge.com
-vidafx.getambassador.com
 vid.applovin.com
 vidasco.rotator.hadj7.adjuggler.net
 vidazoo-bi-worker-connection.vidazoo.com
@@ -62258,7 +61946,6 @@ whitepages-d3.openxenterprise.com
 whitney-sp.placelocal.com
 whizzco.com
 whoareyou.outbrain.com
-wholefoods.ingest.reporting.creator-prod.zmags.com
 whooshkaa.mc.tritondigital.com
 who.outbrain.com
 who.outbrain.de
@@ -62293,6 +61980,7 @@ widgetfinder.outbrain.it
 widgetfinder.outbrain.org
 widget.getsatisfaction.com
 widget.goadservices.com
+widget.intercom.io
 widget.linkwithin.com
 widget-mediator.zopim.com
 widget.mixpo.com
@@ -62451,7 +62139,6 @@ wisconsinrapidstribune.localiq.com
 wisepops.com
 wishabi.ca
 wishbone.tresensa.com
-wishpond.getambassador.com
 wisn.placelocal.com
 wistfulflight.com
 wittychimp.os.tc
@@ -63432,9 +63119,7 @@ xhuc.net
 xib.adnxs.com
 xici.adsame.com
 xiciafp.allyes.com
-xidax.getambassador.com
 xilfqkxezy.com
-ximble.getambassador.com
 xinhuanet.adsame.com
 x.innovid.com
 xj.cpcempower.com
@@ -63559,7 +63244,6 @@ xn--nda-1da.adledge.com
 xn--ngbav1b5cj6a.poweredby.goroost.com
 xnurqg2bwwm.proxy.teads.tv
 xn--wathcartoons-mdb.os.tc
-xometry.getambassador.com
 xonecole-img.rbl.ms
 xos.adbureau.net
 xosdigital-d3.openxenterprise.com
@@ -64098,7 +63782,6 @@ zenhomes.engine.adglare.net
 zenith.facebook-ads.adtz.com
 zenna.affise.com
 zenovia-match.dotomi.com
-zenplanner.getambassador.com
 zentr.cc
 zentrick.com
 zentrick.io
@@ -64144,11 +63827,9 @@ zillow-tagan.adlightning.com
 zimbra.corp.appnexus.com
 zimbra.webspectator.com
 z-in.amazon-adsystem.com
-zinus.getambassador.com
 ziopemmjh3.com
 zippormedia-tagan.adlightning.com
 zippyfrog.co
-zipwhip.getambassador.com
 zj4rmu4vrsi2r26ww9lpqc4tm1.bttrack.com
 zj.cpcempower.com
 zjh.adsame.com
@@ -64162,7 +63843,6 @@ zlotnan.tresensa.com
 zlp6s.pw
 zm7ma7za22.us-west-2.elasticbeanstalk.com
 zmags.com
-zmagsdotcom.ingest.reporting.creator-prod.zmags.com
 zm.cpcempower.com
 zme8o3l1c4.com
 zmjagawa.com
@@ -64175,7 +63855,6 @@ znjmpc.focot.focus-outdoors.com
 zo7gihmry2.com
 zoc3b8.focot.focus-outdoors.com
 zodiac-zodiac.bannerflow.com
-zogsports.getambassador.com
 zoloft.1.p2l.info
 zoloft.3.p2l.info
 zoloft.4.p2l.info
@@ -64199,7 +63878,6 @@ zorg.zanox.com
 zorka.affise.com
 zorosrv.com
 zorwrite.com
-zottosleep.getambassador.com
 zozo.os.tc
 zpudub.focot.focus-outdoors.com
 zq.cpcempower.com

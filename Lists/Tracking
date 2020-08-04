@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
+# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1221,6 +1221,7 @@
 2796.content.swrve.com
 279-ct.c3tag.com
 27d967596c0631a8b86809c23c6cf18c.api.appsee.com
+27df153ccb3047d89a0174f48d6d6747-3e8f6ac6dc32.cdn.forter.com
 27.us.wr.pixapi.net
 2811.api.swrve.com
 2811.content.swrve.com
@@ -1844,6 +1845,7 @@
 3e2d9b3c3024988c1f008a31593a9f99.ulink.adjust.com
 3e4d9071eff2e7cd02e79e85ca205d7c.pre.footprintpredict.com
 3e65a041.hullapp.io
+3e8f6ac6dc32.cdn4.forter.com
 3eb092c6e88433869dee8df67e2952c5.nonstoppartner.net
 3ee2ac32.hullapp.io
 3-eu.tribalfusion.com
@@ -4838,6 +4840,7 @@ adsk.hit.gemius.pl
 adskinz.agilecrm.com
 adsl.imrworldwide.com
 adsmeans.com
+adsmeasurement.com
 adsmeda.com
 adsnative.rtb.adx1.com
 adsp1.i2i.jp
@@ -8127,6 +8130,7 @@ api.home.igaworks.com
 api.hostip.info
 api.huckabuy.com
 api.hullapp.io
+api-iam.intercom.io
 api.ignitionone.com
 api.indicative.com
 api.infinario.com
@@ -10079,6 +10083,7 @@ aws.lijit.com
 aws-or.bidswitch.net
 awsrodc.demandbase.com
 aws.sharethrough.com
+aws-staging-tracker-eu-west-1.staging-tracker.fyber.com
 aws.tracker.squidanalytics.com
 awstrack.me
 aws-useast-lb01.shoppertrak.com
@@ -12109,6 +12114,7 @@ brandera.insightfirst.com
 brandermillwoods.rtrk.com
 branding.onthe.io
 brandlift.vizu.com
+brandlock.io
 brand.markmonitor.com
 brandmetrics.com
 brandmuscle.piwik.pro
@@ -13809,6 +13815,7 @@ c.dk.msn.com
 cdk.piwik.pro
 cdk.piwikpro.com
 cdn-0.d41.co
+cdn0.forter.com
 cdn10.kissmetrics.com
 cdn12.lemnisk.co
 cdn12-s.lemnisk.co
@@ -13848,6 +13855,7 @@ cdn2.truconversion.com
 cdn3.airfind.com
 cdn3.appnext.com
 cdn-3.convertexperiments.com
+cdn3.forter.com
 cdn3.gigya.com
 cdn3.onthe.io
 cdn3.researchnow.com
@@ -13857,6 +13865,7 @@ cdn3.telemetryverification.net
 cdn3.userzoom.com
 cdn454.telemetryverification.net
 cdn4.crispadvertising.com
+cdn4.forter.com
 cdn4.gigya.com
 cdn4.mxpnl.com
 cdn4.richaudience.com
@@ -13891,6 +13900,7 @@ cdn801.rontar.com
 cdn8.crispadvertising.com
 cdn8.lemnisk.co
 cdn901.rontar.com
+cdn9.forter.com
 cdn-a6967.actonsoftware.com
 cdna.adgrx.com
 cdn.a.adx1.com
@@ -24940,6 +24950,7 @@ events.sisense.com
 events.split.io
 events.staging.bounceexchange.com
 events.techtarget.com
+events.tremorhub.com
 events.umeng.com
 events.urbanairship.com
 events-us-east-1.ipredictive.com
@@ -25243,6 +25254,7 @@ f7uf1fcnjx2pxhflwtlkpr8jbvxxp1509506200.nuid.imrworldwide.com
 f8ctylzhpd4fljgksikq64vaqsyt41509466311.nuid.imrworldwide.com
 f8pasplittas7sdiw7jedhdlhsstd1509225510.nuid.imrworldwide.com
 f8tenant.default.console.ws.adacts.com
+f919c26b9c554c20a1ff89ba54fb5952-3e8f6ac6dc32.cdn.forter.com
 f958a440-882b-4908-a685-f676702e9f50.nuid.imrworldwide.com
 f966b2d277d74e71ba3d1818bc5ce7f7.edns.ip-api.com
 f9988daa8cd1f55e99fbb9d829314bc9.nonstoppartner.net
@@ -26026,6 +26038,7 @@ formyip.com
 forskning.tns-cs.net
 forstit.solution.weborama.fr
 forstok.piwik.pro
+forter.com
 fortified.iljmp.com
 fortressleads.agilecrm.com
 forttroff.tapfiliate.com
@@ -27213,6 +27226,7 @@ geo.pcmag.com
 geo.placead.placecast.net
 geoplugin.net
 geo-prod.do.dsp.mp.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com
 geo-prod.launch.liveramp.com
 geoproxy.criteo.net
 geoproxy.da1.vip.prod.criteo.net
@@ -27230,6 +27244,7 @@ geosync.solution.weborama.fr
 geo-tracker.ads.memob.com
 geovelo.agilecrm.com
 geover-prod.do.dsp.mp.microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
 geovisite.com
 geovisites.com
 geo.yahoo.com
@@ -28085,24 +28100,30 @@ gs-loc.apple.com
 gsmbcdty.micpn.com
 gs.m.cn.miaozhen.com
 gsp10-ssl.apple.com
+gsp10-ssl.ls.apple.com
 gsp17-2-ssl.apple.com
 gsp17-ssl.apple.com
 gsp1.apple.com
 gsp1-ssl.apple.com
 gsp2-ssl.apple.com
+gsp36-ssl.ls.apple.com
 gsp3-ssl.apple.com
 gsp4-ssl.apple.com
 gsp5-ssl.apple.com
 gsp64-ssl.ls.apple.com
+gsp64-ssl.ls-apple.com.akadns.net
 gsp6-ssl.apple.com
 gsp7-ssl.apple.com
+gsp85-ssl.ls.apple.com
 gsp8-ssl.apple.com
 gsp9-ssl.apple.com
 gs.parse.ly
 gsp.count.brat-online.ro
 gspe1-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
+gspe85-ssl.ls.apple.com
 gspro.hit.gemius.pl
+gsp-ssl-commute.ls.apple.com
 gsp-ssl.ls.apple.com
 gs.statcounter.com
 gstatic.mopinion.com
@@ -29499,6 +29520,7 @@ hullapp.io
 hull.io
 hulton.sjv.io
 hulu.conviva.com
+hulu.hb-api.omtrdc.net
 hulu.hb.omtrdc.net
 hulu.sc.omtrdc.net
 humana.sslproxy.gigya.com
@@ -30914,7 +30936,6 @@ insight.catalystapps.com
 insight.cloud.tencent.com
 insight.cmdgroup.com
 insight.co.kr
-insight.com
 insight.com.edgekey.net
 insight.com.vc
 insight.connectad.io
@@ -31132,6 +31153,7 @@ instana.io
 instant-analytics.abtasty.com
 instantpersonalization.abtasty.com
 instar-robotics.matomo.cloud
+instartlogic.com
 instavr.agilecrm.com
 insticator-938462-hdb.adomik.com
 instreamvideo-sync.rutarget.ru
@@ -31418,6 +31440,7 @@ ip.hiido.com
 iphonediags.apple.com
 iphone.hit.gemius.pl
 iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 iphonesubmissions.apple.com
 ip.icanhazip.com
 ipify.org
@@ -31841,6 +31864,7 @@ jccmetrowest.rtrk.com
 j.clickdensity.com
 jclub.open.securedvisit.com
 jcp-app.quantummetric.com
+jcp-cdn.truefitcorp.com
 jcp-images.quantummetric.com
 jcp.quantummetric.com
 jcp-sync.quantummetric.com
@@ -32577,6 +32601,7 @@ koelnrsc.ivwbox.de
 koeppeldirect.piwik.pro
 kogan.sjv.io
 kogs01.webtrekk.net
+koh-cdns.truefitcorp.com
 kohler-app.quantummetric.com
 kohlermetrics.kohler.com
 kohlermetricssecure.kohler.com
@@ -32586,6 +32611,7 @@ kohls.onelink.me
 kohls.rdr.channelintelligence.com
 kohls.sc.omtrdc.net
 kohls.sjv.io
+kohls.tt.omtrdc.net
 kolachefactorycorpsa.rtrk.com
 kolleksj.timetrackingweb.com
 kom-a.tlnk.io
@@ -34026,6 +34052,7 @@ log.deep-ad.com
 log.devillion.com
 log.diggoods.com
 log.direct.co.kr
+log.dmtry.com
 logdog.loggly.com
 log.doubleverify.com
 log.draw.io
@@ -38441,6 +38468,7 @@ moma.airbrake.io
 momently.com
 mom-ex.tekblue.net
 mom.freelogs.com
+mon1.kohls.com
 mon24.l2pdus.mookie1.com
 mon.byteoversea.com
 mondadoriitalia01.wt-eu02.net
@@ -40045,6 +40073,7 @@ nexus-us.ensighten.com
 nexus-us-midwest.ensighten.com
 nexus-us-west2.ensighten.com
 nexus-us-west.ensighten.com
+nexus-websocket-a.intercom.io
 nfbal.trackvoluum.com
 nfbcboards.stats.com
 nffcboards.stats.com
@@ -40766,6 +40795,8 @@ nossl.aafp.org
 nosto.com
 no-stress.justclick.ru
 notebooksbilliger02.webtrekk.net
+notes-analytics-events.apple.com
+notes-analytics-events.news.apple-dns.net
 noti-analytics.pushengage.com
 notification.crittercism.com
 notification.eu.crittercism.com
@@ -44236,6 +44267,7 @@ portal.appdynamics.com
 portal.batmobi.net
 portal-bell.touchcommerce.com
 portal-bofa.touchcommerce.com
+portal.brandlock.io
 portal.btttag.com
 portal-cdn.appdynamics.com
 portal.channelsight.com
@@ -46382,6 +46414,7 @@ reporting.cloudcare.avg.com
 reporting-common.brand.stg.markmonitor.com
 reporting.cossette.adgear.com
 reporting.cpxinteractive.com
+reporting.creator-prod.zmags.com
 reporting.demo.trader.adgear.com
 reporting.eltoro.com
 reporting.espotting.com
@@ -47020,6 +47053,7 @@ rojaklah.api.useinsider.com
 rojectnu01.webtrekk.net
 roke.rkdms.com
 roktb.adx1.com
+roku.adsmeasurement.com
 roku-beacons.xumo.com
 roku.links.channelintelligence.com
 rokurowingchannel.sp.backtrace.io
@@ -50514,6 +50548,7 @@ signet-prod.saas.appdynamics.com
 signet.saas.appdynamics.com
 signettest.saas.appdynamics.com
 signify.blueconic.net
+signifyd.com
 signin.dstillery.com
 signin.dynatrace.com
 signin.globalwebindex.net
@@ -55278,6 +55313,7 @@ staging-sql.beeketing.com
 staging-static.apptimize.com
 staging.svc.tapad.com
 staging.taplytics.com
+staging-tracker.fyber.com
 staging-tracking-bo.beeketing.com
 staging-trac.mediaiqdigital.com
 staging-uc-exporter.abtasty.com
@@ -64640,6 +64676,7 @@ ttgtmedia.com
 t.thebrighttag.com
 ttht.tlnk.io
 ttkcgr8v.micpn.com
+ttmetrics.jcpenney.com
 tt.netseer.com
 t.tns-counter.ru
 ttodyssey.wbinsights.com
@@ -65103,6 +65140,7 @@ unify.tapad.com
 uni.ivwbox.de
 unilabsrl.agilecrm.com
 unilever01.webtrekk.net
+unilever2.demdex.net
 unimed.oewabox.at
 unionadmin.cnzz.com
 union.cnzz.com

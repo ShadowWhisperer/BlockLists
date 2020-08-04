@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 7/7/2020  21:33  (9:33 PM)  - Central Standard Time
+# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -63,6 +63,9 @@ softonic.info                                 #Software Hosting
 
 taskernet.com                                 #Android [APP] Tasker - Allows custom scripts to run in the background on a schedule
 
+localhost.run                                 #Share Localhost
+showoff.io                                    #Share Localhost
+
 
 
 #  Domains Used On/By Infected Machines  (Potentially)
@@ -70,10 +73,11 @@ taskernet.com                                 #Android [APP] Tasker - Allows cus
 #
 #   Money Transfer  =  Websites used to send money to someone else
 #          Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
+#        Webscript  =  Run scripts online
 #
 
-remitly.com                            #Money Transfer  (Personally seen in Tech Support scam case)
-remitly.io                             #Money Transfer  (Personally seen in Tech Support scam case)
+remitly.com                            #Money Transfer  (Seen in Tech Support scam case)
+remitly.io                             #Money Transfer  (Seen in Tech Support scam case)
 
 beeceptor.com                          #Webhook
 httpreq.com                            #Webhook
@@ -82,11 +86,12 @@ requestbin.com                         #Webhook
 requestinspector.com                   #Webhook
 requestwatch.com                       #Webhook
 
-api.c99.nl                             #Can be used as a port scanner
-
-pythonanywhere.com                     #Run Python & Bash over the net
+webscript.io                           #Webscript
+pythonanywhere.com                     #Webscript
 
 cdn.snipr.gg                           #Hacking Tool: Credential Stuffing Toolkit
 snipr.gg                               #Hacking Tool: Credential Stuffing Toolkit
 
 godaddysites.com                       #Un-Finished sites - Usually malware (Not always)
+
+api.c99.nl                             #Can be used as a port scanner

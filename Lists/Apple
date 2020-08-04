@@ -1,6 +1,6 @@
 #
 #    File: Apple   (Bloat / Push Notifications)
-# Updated: 7/20/2020  10:06  (10:06 AM)  - Central Standard Time
+# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -24,6 +24,7 @@ quicktimepro.apple.com               # App - Quicktime
 pancake.apple.com                    # Authorization for Home Sharing
 pancake.cdn-apple.com.akadns.net     # Authorization for Home Sharing
 
+api.smoot.apple.com                  # Spotlight Suggestions
 smoot.apple.com                      # Spotlight Suggestions
 
 courier-push-apple-com.akadns.net          # Push Notification Service

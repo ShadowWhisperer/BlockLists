@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 7/31/2020  12:40  (12:40 PM)  - Central Standard Time
+# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -24,9 +24,6 @@ projectwonderful.com                 #Defunct ?  (Last Twiiter July 11, 2010)
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
 virtualizationreview.1105cms01.com        #1105 Media
-11287825.pix-cdn.org          #Adult Sites
-12111539.pix-cdn.org          #Adult Sites
-pix-cdn.org                   #Adult Sites
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 assoc-na.associates-amazon.com   #Amazon  (https://assoc-na.associates-amazon.com/abid/um?s=144-1347093-7830501&m=ATVPDKIKX0DER)
@@ -345,6 +342,7 @@ analysis.fi
 api.huqindustries.co.uk
 apis.kostprice.com
 app.launchdarkly.com
+cdn.acsbap.com
 cdn.everup.io
 charles.huqindustries.co.uk
 cm.adsafety.net
@@ -824,11 +822,17 @@ wasabi.pluto.tv                                       #Pluto.TV
 video.pluto.tv                                        #Pluto.TV
 lat-services.api.data.roku.com                     #Roku TV - Tracking ?
 api.sr.roku.com                                    #Roku TV - Crach Log?
-traces.sr.roku.com                                 #Roku TV
+amarillo.sb.roku.com                               #Roku TV
+amoeba-plus.web.roku.com                           #Roku TV
+amoeba.web.roku.com                                #Roku TV
+cloudservices.roku.com                             #Roku TV
 display.ravm.tv                                    #Roku TV
 keysvc.cs.roku.com                                 #Roku TV
+liberty.sb.roku.com                                #Roku TV
+liberty.sw.roku.com                                #Roku TV
+navigation.sr.roku.com                             #Roku TV
 samples.voice.cti.roku.com                         #Roku TV
-amoeba.web.roku.com                                #Roku TV
+traces.sr.roku.com                                 #Roku TV
 monorail-edge.shopifysvc.com                              #Shopify
 monorail-production-web-tier2-central.shopifycloud.com    #Shopify
 monorail-production-web-tier2.shopifycloud.com            #Shopify
@@ -898,3 +902,4 @@ vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for disp
 ##################################################################
 api.na1.region.vmwservices.com                                       #Android Phone
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com   #Samsung Phone
+
