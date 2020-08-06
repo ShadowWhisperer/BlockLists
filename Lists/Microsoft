@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 7/14/2020  12:39  (12:39 PM)  - Central Standard Time
+# Updated: 8/5/2020  21:18  (9:18 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -253,8 +253,6 @@ adclub.net                                  #Ads ?
 r.msn.com                                   #Ads ?
 
 o.xbox.com                                  #Tracking ? (Blank)
-geo.prod.do.dsp.mp.microsoft.com            #Tracking ?
-geover.prod.do.dsp.mp.microsoft.com         #Tracking ?
 
 msantispy.com                               #Defunct ?
 msecn.net                                   #Defunct ?
@@ -378,6 +376,7 @@ lb1.www.ms.akadns.net
 licensingphone.mp.microsoft.com
 ls2web.redmond.corp.microsoft.com
 markets.books.microsoft.com
+clientconfig.passport.net
 mediadiscovery.microsoft.com
 mediaredirect.microsoft.com
 metaservices.microsoft.com

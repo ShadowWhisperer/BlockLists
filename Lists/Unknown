@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
+# Updated: 8/5/2020  21:18  (9:18 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -202,6 +202,7 @@ supersimpletools.com
 #############################
 option.boldapps.net              #BoldCommerce
 boldapps.net                     #BoldCommerce (Certain Marketing, Not sure what "option.boldapps.net" does)
+appdirect.com                    #Email Based Marketing ?
 marketing.fitbit.com             #Fitbit - Might break email layout
 kaizenet.com                     #Kaizenet
 lab.kaizenet.com                 #Kaizenet (Flagged as Malware)

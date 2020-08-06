@@ -1,6 +1,6 @@
 #
 #    File: Marketing-Email   (Email Based Marketing)
-# Updated: 7/14/2020  12:39  (12:39 PM)  - Central Standard Time
+# Updated: 8/5/2020  21:18  (9:18 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -203,6 +203,9 @@ link.m.convertkit.com
 link.n.convertkit.com
 link.test.convertkit.com
 listgrowth.ctctcdn.com
+list-manage1.com
+list-manage2.com
+list-manage.com
 localconfirmsubscription.com
 localcreatesend.com
 localemailserver.com
@@ -9482,7 +9485,6 @@ rs6.net
 salesmanago.pl
 searshc.com
 seguno.com
-sendgrid.net
 sendmsg.co
 sendtomyfriend.com
 sgwebhook.convertkit.com
