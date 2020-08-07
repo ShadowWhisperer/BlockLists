@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 8/5/2020  21:18  (9:18 PM)  - Central Standard Time
+# Updated: 8/7/2020  15:08  (3:08 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -184,6 +184,7 @@ williamhill.com                               #Gambling
 harpquiz.com                                  #Quiz
 magiquiz.com                                  #Quiz
 
+amemv.com                                      #App  TikTok
 bytedance.com                                  #App  TikTok
 dm.bytedance.com                               #App  TikTok
 isnssdk.com                                    #App  TikTok
@@ -217,6 +218,7 @@ weatherbug.com                                 #Software - Weatherbug
 weatherbug.net                                 #Software - Weatherbug
 remotewd.com                                   #Software - Western Digital (Cloud Storage)
 wd2go.com                                      #Software - Western Digital (Cloud Storage)
+wdtest8.com                                    #Software - Western Digital (Cloud Storage)
 ampsvc.com                                     #Software - WildTangent Games
 dp2manifester.ampsvc.com                       #Software - WildTangent Games
 manifester.ampsvc.com                          #Software - WildTangent Games

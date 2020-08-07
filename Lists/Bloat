@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
+# Updated: 8/7/2020  15:08  (3:08 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -73,7 +73,6 @@ tns-gallup.dk                                   #Survey
 ups.surveyrouter.com                            #Survey
 you-cubez.com                                   #Survey
 amdsurveys.com                                  #Survey - AMD
-esurveyapi.asus.com                             #Survey - ASUS
 d2yyd1h5u9mauk.cloudfront.net                   #Survey - Delighted
 delighted.com                                   #Survey - Delighted
 getfeedback.com                                 #Survey - Get Feedback
@@ -153,6 +152,10 @@ cookiebot-assets.envato-static.com                      #Cookie Consent / Contro
 cookiebot.com                                           #Cookie Consent / Control
 cookieinfoscript.com                                    #Cookie Consent / Control
 cookielaw.org                                           #Cookie Consent / Control
+gdpr-consent-tool.privacymanager.io                     #Cookie Consent / Control
+gdpr.privacymanager.io                                  #Cookie Consent / Control
+gdpr-web-dau-prod.privacymanager.io                     #Cookie Consent / Control
+gdpr-wrapper.privacymanager.io                          #Cookie Consent / Control
 iubenda.com                                             #Cookie Consent / Control
 privacy.outdoorsg.com                                   #Cookie Consent / Control
 prod.truendo.com                                        #Cookie Consent / Control
@@ -161,6 +164,7 @@ sa437gl.wpc.kappacdn.net                                #Cookie Consent / Contro
 scripts.webcontentassessor.com                          #Cookie Consent / Control
 sdk.privacy-center.org                                  #Cookie Consent / Control
 truendo.com                                             #Cookie Consent / Control
+vendors.privacymanager.io                               #Cookie Consent / Control
 webcontentassessor.com                                  #Cookie Consent / Control
 
 chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
