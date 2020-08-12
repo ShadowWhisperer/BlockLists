@@ -1,6 +1,6 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Updated: 8/7/2020  15:08  (3:08 PM)  - Central Standard Time
+# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -11,11 +11,17 @@
 ######################################
 247.ai
 247-inc.net
+accdn.lpsnmedia.livepersonk.akadns.net
+accdn.lpsnmedia.net
 app.qualified.com
 client.crisp.chat
 crisp.chat
 inthechat.com
 js.qualified.com
+liveperson.com
+lpcdn.lpsnmedia.livepersonk.akadns.net
+lpcdn.lpsnmedia.net
+lpsnmedia.net
 qualified.com
 salesiq.zoho.com
 srchat.sportradar.com
@@ -55,6 +61,9 @@ presence.api.drift.com
 solocpm.com
 tiledesk.com
 vergic.com
+visitor-services.boldchat.com
+vmp.boldchat.com
+vms.boldchat.com
 vmss.boldchat.com
 wchat.us2.freshchat.com
 
@@ -62,6 +71,7 @@ wchat.us2.freshchat.com
 #  Live
 ######################################
 1talking.net
+accounts.livechatinc.com
 activengage.com
 apexchat.com
 apex.live
@@ -118,9 +128,11 @@ reamaze.io
 salesforceliveagent.com
 scripting.ngagelive.com
 secure.helpscout.net
+secure.livechatinc.com
 server.ngagelive.com
 smartsuppchat.com
 smartsupp.com
+startech-cv19.nanorep.co
 static.me-talk.ru
 static.olark.com
 tidio.co
@@ -129,13 +141,19 @@ velaro.com
 volusionchat.appspot.com
 wchat.freshchat.com
 
-
 #  Other
 ######################################
-ladesk.com                    #Send Email / Visitor Tracking
+ladesk.com                       #Send Email / Visitor Tracking
 
-iframe.chatid.com             #ChatID, Inc.
-chatidcdn.com                 #ChatID, Inc.
+chat2desk.com                    #Chat2Desk
+livechat.chat2desk.com           #Chat2Desk
+
+iframe.chatid.com                #ChatID, Inc.
+chatidcdn.com                    #ChatID, Inc.
+
+birkenstock.api.kustomerapp.com  #Kustomer
+cdn.kustomerapp.com              #Kustomer
+kustomerapp.com                  #Kustomer
 
 chat.api.autohome.com.cn
 embed.tawk.to

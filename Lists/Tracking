@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/7/2020  15:08  (3:08 PM)  - Central Standard Time
+# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -173,6 +173,7 @@
 0xfed4qj.micpn.com
 0xsn02mb963dyrnk19nngmh5kp0skfz6.edns.ip-api.com
 0xvhyayvvoojbsjwbanplogbrz1up1505353271.nuid.imrworldwide.com
+100016075.collect.igodigital.com
 100021497.collect.igodigital.com
 10005501.track.convertexperiments.com
 10005615.track.convertexperiments.com
@@ -4112,7 +4113,6 @@ acaa-va5.everesttech.net
 academy-app.quantummetric.com
 academy.dynamicyield.com
 academy.evergage.com
-academy.gigya.com
 academy.manage.ensighten.com
 academyofaviation.agilecrm.com
 academy.roistat.com
@@ -4193,19 +4193,15 @@ account-nyc.jumpshot.com
 account.o.mouseflow.com
 account.rfksrv.com
 account.rontar.com
-accounts-ad-nl.sslproxy.gigya.com
 accounts-analyticsapp.paytm.com
 accounts-api.appdynamics.com
 accounts.appdynamics.com
-accounts.au1.gigya.com
 accounts.backtrace.io
 accounts.decibelinsight.net
 accounts.dscvr.1010data.com
 account-selection-ui.demandbase.com
 account-settings.appsflyer.com
-accounts.eu1.gigya.com
 accounts.eyereturn.com
-accounts.gigya.com
 accounts-globe-com-ph.api.us.janrain.com
 accounts.growingio.com
 accounts.hullapp.io
@@ -4214,7 +4210,6 @@ accounts.mediaiqdigital.com
 accounts.petametrics.com
 accounts.samba.tv
 accounts.sp.backtrace.io
-accounts.us1.gigya.com
 account.umeng.com
 account.webtrends.com
 acc-post.app.incisivemedia.com
@@ -4526,7 +4521,6 @@ adfs365.infogix.com
 adfs4.infogix.com
 adfs.acxiom.com
 adfs-dev.jivox.com
-adfs.gigya.com
 adfspool.siteimprove.com
 adfs-test.conviva.com
 adf-tm.everesttech.net
@@ -4549,7 +4543,6 @@ adinsight.eu
 adintegration.lijit.com
 a.directtv.com
 a.directv.com
-adi.sslproxy.gigya.com
 adiu.amap.com
 adj.st
 adjust.com
@@ -4674,7 +4667,6 @@ adobecorp.sc.omtrdc.net
 adobe.demdex.net
 adobedtm.com
 adobe-dtm.staticsfly.com
-adobe.gigya.com
 adobeinternalmobiles.tt.omtrdc.net
 adobe.io
 adobes.marugame-seimen.com
@@ -5089,6 +5081,7 @@ a.foxsportswest.com
 a.fqtag.com
 africanmanager.matomo.cloud
 afsanalytics.com
+afsdktests.com
 aftpi.flextrack.msi-aci.com
 aftp.linksynergy.com
 a.fxnetworks.com
@@ -5168,7 +5161,6 @@ ag.yieldoptimizer.com
 a.gymjob.com
 aha.1plusx.com
 aha-move.firebaseio.com
-aha.my.console.gigya.com
 a.hasbro.com
 ahk.ctnsnet.com
 ahs.sp1.convertro.com
@@ -5490,7 +5482,6 @@ aligtr084.mmstat.com
 aline.1annuaire.com
 alipay.apilocate.amap.com
 ali-stats.jpush.cn
-aljazeera.sslproxy.gigya.com
 al.jp.widerplanet.com
 alkuponhu-ams.gravityrd-services.com
 all.adadvisor.net
@@ -5520,7 +5511,6 @@ allinlearning-d8241.firebaseio.com
 allmodernapp.onelink.me
 allowip.cnzz.com
 alloy.vidora.com
-allposters.sslproxy.gigya.com
 all-rdr.adadvisor.net
 allreverse.iljmp.com
 allreviews.dowfocus.cpa.clicksure.com
@@ -7984,11 +7974,9 @@ angd.widerplanet.com
 angebot0.ivwbox.de
 angelpub.blueconic.net
 angelsense.tapfiliate.com
-angieslist.sslproxy.gigya.com
 angl.pagecount.com
 animated-assets.micpn.com
 animatron.tapfiliate.com
-animaxtaiwan.sslproxy.gigya.com
 animefanworld-d4f17.firebaseio.com
 animeim.powered-by.zango.com
 animoto.c3metrics.com
@@ -8531,7 +8519,6 @@ api.geopoint.yoose.com
 api.getclicky.com
 api.getdrip.com
 api.getexceptional.com
-api.gigya.com
 api.gk.au0.mparticle.com
 api.gk.mparticle.com
 api.gk.opstest.mparticle.com
@@ -9497,7 +9484,6 @@ arbopl.bbelements.com
 arcgis.com
 arcgisonline.com
 archcapital.saas.appdynamics.com
-archetypes.sslproxy.gigya.com
 archive01.adlooxtracking.com
 archive03.adlooxtracking.com
 archive04.adlooxtracking.com
@@ -10109,10 +10095,6 @@ au11-tracker.inside-graph.com
 au12-cdn.inside-graph.com
 au12-live.inside-graph.com
 au12-tracker.inside-graph.com
-au1a-email-mng.gigya.com
-au1.gigya.com
-au1-st1.gigya.com
-au1-st2.gigya.com
 au.2.cqcounter.com
 au2.effectivemeasure.net
 au2mator.agilecrm.com
@@ -10298,7 +10280,6 @@ autocomplete.geocoder.cit.api.here.com
 autoconfig.adx1.com
 autocounter.lentainform.com
 autodesk.evergage.com
-autodesk.sslproxy.gigya.com
 autoelevate.agilecrm.com
 autofels645443b8.worldgravity.com
 autoge.onthe.io
@@ -10333,7 +10314,6 @@ auto.sophus3.com
 auto.t.domdex.com
 autotrade.metriweb.be
 autotrader.ads.placeiq.com
-autotrader.sslproxy.gigya.com
 au-tracker.inside-graph.com
 au.umeng.co
 au.umeng.com
@@ -11121,7 +11101,6 @@ bahbii9l.micpn.com
 baike.adx1.com
 baise.adx1.com
 baker-uswest-adx.spotad.co
-bakkerswereld.sslproxy.gigya.com
 balanced-collect.deltadna.net
 balanced-engage.deltadna.net
 balancer.devtodev.com
@@ -11344,10 +11323,8 @@ bb-sync.quantummetric.com
 bbvaccine.rpxnow.com
 bb.viator.com
 bc0a.com
-bc1.gigya.com
 bc2461.efeedbacktrk.com
 bc2b7166.hullapp.io
-bc2.gigya.com
 bc60.playfabapi.com
 bc75f2aecbee4a15a5d240164e11514a.api.appsee.com
 bca.gbc.criteo.net
@@ -11947,7 +11924,6 @@ bhanu.loggly.com
 bhbisselldevnew.122.207.net
 bhdlknpptzsk1qgrd3u0lsi5nk3ya1514594731.nuid.imrworldwide.com
 bhg.btttag.com
-bhg.sslproxy.gigya.com
 bhhshudsonvalley.rtrk.com
 bhmanagement169.rtrk.com
 bhphoto.btttag.com
@@ -12108,7 +12084,6 @@ birst.com
 birstupdates.bws.birst.com
 biscoind.blueconic.net
 bis.gazeta.pl
-bishulim.sslproxy.gigya.com
 bismetrics.experian.com
 bitam.com
 bitbang01.webtrekk.net
@@ -12225,6 +12200,7 @@ blogtest.placed.com
 blogwerk.wemfbox.ch
 bloombergdfpcw4670778881.s.moatpixel.com
 bloombergjsvideo123543211.s.moatpixel.com
+bloomreach.com
 blosee.analytics.qlook.net
 blossoming.iljmp.com
 blpb4wu1mxkehlxuwglp8mzch3cxr1509455380.nuid.imrworldwide.com
@@ -12595,6 +12571,7 @@ br.returnpath.com
 br-rx.atatus.com
 br.shoppertrak.com
 br.shop.pricespider.com
+brsrvr.com
 brubakerunlimited.iljmp.com
 brucelead.com
 brucele.adx1.com
@@ -12806,7 +12783,6 @@ business.t.domdex.com
 busker-register.adx1.com
 busuu.adclear.net
 butcherbox.evergage.com
-butfr.sslproxy.gigya.com
 button.clickability.com
 buttons-config.sharethis.com
 buwnajjcjjex8zhiehp27ctkgw4ees7j.edns.ip-api.com
@@ -14057,7 +14033,6 @@ cb.amazingcounters.com
 cb.chartbeat.com
 cb.click.org
 cbcpc.sitescout.com
-cbc.sslproxy.gigya.com
 cb-dev.krxd.net
 cbdoilsandedibles.tapfiliate.com
 c.be.msn.com
@@ -14182,7 +14157,6 @@ cdn1.adadvisor.net
 cdn-1.convertexperiments.com
 cdn1.crispadvertising.com
 cdn1.ctxt.tribalfusion.com
-cdn1.gigya.com
 cdn1.mediaforge.com
 cdn1.mobfox.com
 cdn1.netcoresmartech.com
@@ -14201,7 +14175,6 @@ cdn2.airfind.com
 cdn2.auryc.com
 cdn-2.convertexperiments.com
 cdn2.crispadvertising.com
-cdn2.gigya.com
 cdn2.iplogger.org
 cdn2.mouseflow.com
 cdn2.onthe.io
@@ -14214,7 +14187,6 @@ cdn3.airfind.com
 cdn3.appnext.com
 cdn-3.convertexperiments.com
 cdn3.forter.com
-cdn3.gigya.com
 cdn3.onthe.io
 cdn3.researchnow.com
 cdn3.richaudience.com
@@ -14224,7 +14196,6 @@ cdn3.userzoom.com
 cdn454.telemetryverification.net
 cdn4.crispadvertising.com
 cdn4.forter.com
-cdn4.gigya.com
 cdn4.mxpnl.com
 cdn4.richaudience.com
 cdn4.specificclick.net
@@ -14238,7 +14209,6 @@ cdn505.rontar.com
 cdn506.rontar.com
 cdn507.rontar.com
 cdn508.rontar.com
-cdn5.gigya.com
 cdn5.onthe.io
 cdn5.specificclick.net
 cdn5.tribalfusion.com
@@ -14320,7 +14290,6 @@ cdn-as.rd.linksynergy.com
 cdn.at.atwola.com
 cdn.atdmt.com
 cdn.atwola.com
-cdn.au1.gigya.com
 cdn.audiencemanager.de
 cdn.augur.io
 cdn.auryc.com
@@ -14491,7 +14460,6 @@ cdn-eu-17.fra1.do.onthe.io
 cdn-eu-18.fra1.do.onthe.io
 cdn-eu-19.fra1.do.onthe.io
 cdn-eu-1.fra1.do.onthe.io
-cdn.eu1.gigya.com
 cdn-eu-20.fra1.do.onthe.io
 cdn-eu-2.fra1.do.onthe.io
 cdn-eu-3.fra1.do.onthe.io
@@ -14532,7 +14500,6 @@ cdn.gameanalytics.com
 cdn-gc.matheranalytics.com
 cdn-gcp.siftscience.com
 cdn.getclicky.com
-cdn.gigya.com
 cdn-gl.imrworldwide.com
 cdn-gm.exactag.com
 cdn.go.arbo.bbelements.com
@@ -14685,13 +14652,8 @@ cdn.rollbar.com
 cdn.rpxnow.com
 cdn.rutarget.ru
 cdn.rvty.net
-cdns1.gigya.com
-cdns2.gigya.com
-cdns3.gigya.com
-cdns4.gigya.com
-cdns5.gigya.com
 cdns.amgdgt.com
-cdns.au1.gigya.com
+cdns.brsrvr.com
 cdns.canddi.com
 cdn-scripts.signifyd.com
 cdn-sec.tacoda.at.atwola.com
@@ -14701,8 +14663,6 @@ cdn.segment.com
 cdn.segment.io
 cdn.sellpoint.net
 cdn-settings.segment.com
-cdns.eu1.gigya.com
-cdns.gigya.com
 cdn.shareaholic.com
 cdn.shareaholic.net
 cdn-sic.33across.com
@@ -14723,7 +14683,6 @@ cdn-social.janrain.com
 cdnsonata.taptapnetworks.com
 cdn.speedcurve.com
 cdn.spongecell.com
-cdns.ru1.gigya.com
 cdnssl.clicktale.net
 cdn-stage-fastly.krxd.net
 cdn-staging.appdynamics.com
@@ -14741,7 +14700,6 @@ cdn.statics.live.spongecell.com
 cdn.stat-rock.com
 cdn.statstrk01.com
 cdns.turn.com
-cdns.us1.gigya.com
 cdn.swrve.com
 cdn.synthesio.com
 cdn.tacoda.at.atwola.com
@@ -14773,7 +14731,6 @@ cdn.uc.atwola.com
 cdn.udmserve.net
 cdn-ui-dev.exactag.com
 cdn.umeng.com
-cdn.us1.gigya.com
 cdn.usefathom.com
 cdn-usent.kampyle.com
 cdn.useproof.com
@@ -14810,7 +14767,6 @@ cdn.zergnet.com
 cdo-v3-prod.firebaseio.com
 cdp.cloud.unity3d.com
 cdp.cux.io
-cdp.eu4.gigya.com
 cdp.in.treasuredata.com
 cdp-tokyo.in.treasuredata.com
 cdr.comscore.com
@@ -15047,24 +15003,20 @@ chaseusbs823221627973.s.moatpixel.com
 chasingfireflies.btttag.com
 chat-a.callmeasurement.com
 chat.adx1.com
-chat.au1.gigya.com
 chatbooks.helpshift.com
 chat.callmeasurement.com
 chat.convertcart.com
 chat.datadoghq.com
 chatear.weborama.com
 chateauxdeslangues.agilecrm.com
-chat.eu1.gigya.com
 chatfile.renlearn.com
 chatfile-rli.cloud.renlearn.com
-chat.gigya.com
 chatroutereast.touchcommerce.com
 chatrouterv3.touchcommerce.com
 chat.simpleanalytics.io
 chat.touchcommerce.com
 chat.trackalyzer.com
 chat.urbanairship.com
-chat.us1.gigya.com
 chazdean.touchcommerce.com
 chd.parrable.com
 cheaperia.digidip.net
@@ -15134,25 +15086,15 @@ ch-gmtdmp.mookie1.com
 ch.groundtruth.com
 chicago18.events.brightedge.com
 chicago.events.brightedge.com
-chicagotribune.sslproxy.gigya.com
 chicory.t.domdex.com
 chicos.evergage.com
 chiefdigitalofficer.evergage.com
 chiemgau.ivwbox.de
 chi-insights-collector.newrelic.com
-chilango.sslproxy.gigya.com
 chilewich.blueconic.net
 chiliitalia01.wt-eu02.net
 chinacheckjs.researchnow.com
 china.iplogger.org
-china-proxy1.us1.gigya.com
-china-proxy2.us1.gigya.com
-china-proxy3.us1.gigya.com
-china-proxy4.us1.gigya.com
-china-proxy5.us1.gigya.com
-china-proxy6.us1.gigya.com
-china-proxy7.us1.gigya.com
-china-proxy8.us1.gigya.com
 chinatestak.omniture.com
 chinazddos.sinaapp.com
 chineselaundry.btttag.com
@@ -16422,6 +16364,7 @@ clients.richrelevance.com
 clients.sortable.com
 client.staging.pxi.pub
 clientstat.castup.net
+client-stats.gaijin.net
 client-stats.warthunder.com
 clientstorage.cxense.com
 client.trackpush.com
@@ -16854,7 +16797,6 @@ cm.yieldoptimizer.com
 cmyip.com
 c.my.msn.com
 c.mystat-in.net
-cn1.gigya.com
 cn5-n.tlnk.io
 cn.abtasty.com
 cn-admin.macromill.com
@@ -17664,12 +17606,8 @@ com-lifecake-main.collector.snplow.net
 commagnetic.t.domdex.com
 commander1.com
 commandersact.com
-comments.au1.gigya.com
 comments.backtrace.io
-comments.eu1.gigya.com
-comments.gigya.com
 comments-test.backtrace.io
-comments.us1.gigya.com
 commerce.adobedtm.com
 commerce.boomtrain.com
 commerce.ss-omtrdc.net
@@ -17725,7 +17663,6 @@ compromisonaranja.bitam.com
 compusa.rdr.channelintelligence.com
 compuserve.insightfirst.com
 computerbild-forum.digidip.net
-computerworld.sslproxy.gigya.com
 compwoch.ivwbox.de
 com.re.getclicky.com
 com.rtb.adx1.com
@@ -17820,8 +17757,6 @@ connected.acxiom.com
 connectedhome.digidip.net
 connect.factual.com
 connect.fullstory.com
-connectgiga.sslproxy.gigya.com
-connect-il2.gigya.com
 connection-test.newrelic.com
 connection.weborama.com
 connect.ivwbox.de
@@ -17875,7 +17810,6 @@ console-data-qa-a001-ash-dev.krxd.net
 console-data-studio-a001-ash-dev.krxd.net
 console-data.wysistat.com
 console.dsp.adacts.com
-console.gigya.com
 console-hilton.conductrics.com
 console.iplogger.org
 console.mtraction.com
@@ -18085,6 +18019,7 @@ copla.iljmp.com
 coppel-app.quantummetric.com
 copperberg.agilecrm.com
 cora-bud.gravityrd-services.com
+c.oracleinfinity.io
 coral-media-dsp1.rtb.adx1.com
 coralmedia.rtb.adx1.com
 coralogix.com
@@ -18238,7 +18173,6 @@ costar-dev.saas.appdynamics.com
 costar-prod.saas.appdynamics.com
 cotidianul.2cnt.net
 cotidianul.count.brat-online.ro
-cottonelle.sslproxy.gigya.com
 cottonon.api.useinsider.com
 coty.1010data.com
 coty-app.quantummetric.com
@@ -19500,7 +19434,6 @@ counter.seopult.ru
 counter.sexhound.de
 counter.sextracker.be
 counters.freelotto.com
-counters.gigya.com
 counter.sibnet.ru
 counter.sina.com.cn
 counter.smar7apps.com
@@ -19650,7 +19583,6 @@ cpcit.loggly.com
 cpcontacts.pharmapartner.mgr.consensu.org
 cpcontacts.wiki.adx1.com
 cpfvtest.2cnt.net
-cp.gigya.com
 cpg.t.domdex.com
 c.ph.msn.com
 cph-v4.pops.fastly-insights.com
@@ -19794,6 +19726,7 @@ crittercism.com
 crittermap-bc865.firebaseio.com
 crk.gemius.pl
 crl.dynatrace.com
+crlog-crcn.adobe.com
 crm.adx1.com
 crm.ants.vn
 crm_cdk.saas.appdynamics.com
@@ -19905,10 +19838,8 @@ cs.montrealplus.ca
 csm.sv.us.criteo.net
 csm.us.criteo.net
 csm.va.us.criteo.net
-csnchicago.sslproxy.gigya.com
 cs.netseer.com
 c.snow.com
-csnphilly.sslproxy.gigya.com
 cso.git.adx1.com
 csoku.voluumtrk3.com
 csoportal.markmonitor.com
@@ -20447,7 +20378,6 @@ dalenys.et.e.sparkpost.com
 dali.brandseye.com
 dal.ispot.tv
 dallasmorningnews.blueconic.net
-dallasnews.sslproxy.gigya.com
 dal-v4.pops.fastly-insights.com
 da.media6degrees.com
 d.analytics.yahoo.com
@@ -21967,7 +21897,6 @@ de.coremetrics.com
 de-default.hit.gemius.pl
 ded.gostats.com
 dedovcmf.micpn.com
-deejayit.sslproxy.gigya.com
 deep.adx1.com
 deepdiscount.evergage.com
 deepdive.tribalfusion.com
@@ -22031,8 +21960,6 @@ dellone.loggly.com
 dellprod.saas.appdynamics.com
 dell.rdr.channelintelligence.com
 dell.touchcommerce.com
-deloitte-eu.sslproxy.gigya.com
-deloitte.my.console.gigya.com
 deloresmguay1.typeform.com
 deltaairlines.btttag.com
 delta.celebrus.com
@@ -22075,7 +22002,6 @@ demoenergyrisk.app.incisivemedia.com
 demo-fxweek.app.incisivemedia.com
 demofxweek.app.incisivemedia.com
 demog-au.imrworldwide.com
-demo.gigya.com
 demo.growingio.com
 demo.gwallet.com
 demo-hedgefundsreview.app.incisivemedia.com
@@ -22319,7 +22245,6 @@ developers.appnext.com
 developers.appsflyer.com
 developers.crittercism.com
 developers.foursquare.com
-developers.gigya.com
 developers.iplogger.org
 developers.kissmetrics.com
 developers.sharethrough.com
@@ -22498,7 +22423,6 @@ dev.visualwebsiteoptimizer.com
 dev.vuble.tv
 dev-waters.app.incisivemedia.com
 devwaters.app.incisivemedia.com
-dev-wiki.gigya.com
 devwiki.mobfox.com
 dev-www.bizible.com
 dev-www.macromill.com
@@ -23333,7 +23257,6 @@ downloads08.adx1.com
 downloads.adx1.com
 download.scorecardresearch.com
 downloads.dynatrace.com
-downloads.gigya.com
 downloads.hpanalytics.net
 downloads.iperceptions.com
 downloads.kissmetrics.com
@@ -23460,7 +23383,6 @@ ds4cloud.pricespider.com
 ds.adapf.com
 dsajyuxsuzv1bsqjfundls0wsqs631507500612.nuid.imrworldwide.com
 ds-aksb-a.akamaihd.net
-ds.au1.gigya.com
 ds.bluecava.com
 d-sciencefiction.t.domdex.com
 d.scorecardresearch.com
@@ -23470,14 +23392,12 @@ dsc.tutela.com
 ds.data.here.com
 dsdq3.trackvoluum.com
 d-seasonal.t.domdex.com
-ds.eu1.gigya.com
 dsg2app.btttag.com
 dsg2.btttag.com
 dsg2m.btttag.com
 dsg.activate.ensighten.com
 dsg.blueconic.net
 dsg.btttag.com
-ds.gigya.com
 dsg.images.harmony.epsilon.com
 dsg.saas.appdynamics.com
 dsgtab.btttag.com
@@ -23567,7 +23487,6 @@ dstillery.ads.placeiq.com
 dstillery.com
 dstillerydisplay193070235277.s.moatpixel.com
 dstreetpl.savecart.pl
-ds.us1.gigya.com
 dsvr.iperceptions.com
 dt02.revsci.net
 dt4ever.com
@@ -23870,6 +23789,7 @@ easyvoyagesas.t.domdex.com
 eat24.onelink.me
 eatetrisblitz.api.swrve.com
 eazy.adclear.net
+eba-amadeus.netdna-ssl.com
 ebags.rdr.channelintelligence.com
 eb.alcmpn.com
 ebapi.pswec.com
@@ -23879,6 +23799,7 @@ ebay4u.justclick.ru
 ebay-app.quantummetric.com
 ebay.dash.admetrics.io
 ebaydev.infiniteanalytics.com
+ebayinc.demdex.net
 ebay.ivwbox.de
 ebaypay-app.quantummetric.com
 ebaypayeu-app.quantummetric.com
@@ -24142,12 +24063,6 @@ eindhoven.blueconic.net
 einsfestivalliveaccount01.wt-eu02.net
 einsfest.ivwbox.de
 eintrachtbraunschweig01.webtrekk.net
-eipalloc-0657b463.gigya.com
-eipalloc-22930d1f.gigya.com
-eipalloc-2357b446.gigya.com
-eipalloc-2b57b44e.gigya.com
-eipalloc-31d1c453.gigya.com
-eipalloc-a496c1c0.gigya.com
 eiq.evergage.com
 ei.rlcdn.com
 ei-weight.rlcdn.com
@@ -24276,7 +24191,6 @@ email.eu.crittercism.com
 email.foursquare.com
 email.gameanalytics.com
 email.gaug.es
-email.gigya.com
 email.groundtruth.com
 email.heapanalytics.com
 emailhippo.agilecrm.com
@@ -24623,7 +24537,6 @@ entertainmentonebeneluxnl.solution.weborama.fr
 entertainment.t.domdex.com
 entitlements.kochava.com
 entity-search.service.newrelic.com
-entremujeresclarin.sslproxy.gigya.com
 entry.adrizer.com
 envision.links.channelintelligence.com
 envision.pricespider.com
@@ -24838,13 +24751,9 @@ eu01.nr-data.net
 eu1-00000009.userreplay.net
 eu1-00000031.userreplay.net
 eu1-00000038.userreplay.net
-eu1a-email-mng.gigya.com
-eu1.gigya.com
 eu1.heatmap.it
 eu1.siteimprove.com
 eu1-spiky.wzrkt.com
-eu1-st1.gigya.com
-eu1-st2.gigya.com
 eu1.wzrkt.com
 eu2.adlooxtracking.com
 eu2-cdn.inside-graph.com
@@ -25093,6 +25002,7 @@ events.amplitude.com
 events.apester.com
 events.api.boomtrain.com
 events-api.crazyegg.com
+events.api.godaddy.com
 events-api.iris.tv
 events-api.otherlevels.com
 events.appnext.com
@@ -25338,7 +25248,6 @@ express.ivwbox.de
 expresspullnsave.rtrk.com
 expressroulartaanalytics.solution.weborama.fr
 express-sync.quantummetric.com
-express.uk.sslproxy.gigya.com
 ex.proxem.com
 exps.adx1.com
 exrrzuuo.micpn.com
@@ -25536,22 +25445,8 @@ faq.chartbeat.com
 faq.juicer.cc
 farfetch.onelink.me
 farkash.iljmp.com
-farm1.gigya.com
-farm2.au1.gigya.com
-farm2.eu1.gigya.com
-farm2.gigya.com
-farm2.us1.gigya.com
-farm3.eu1.gigya.com
-farm3.gigya.com
-farm4.eu1.gigya.com
-farm4.gigya.com
-farm5.au1.gigya.com
-farm5.eu1.gigya.com
-farm5.gigya.com
-farm5.us1.gigya.com
 farmakom.agilecrm.com
 farmanigroup.agilecrm.com
-farm.gigya.com
 fas.chicos.com
 fashion.rtbhouse.com
 fassetmanager.webtrends.com
@@ -25616,6 +25511,7 @@ f.bronto.com
 fb.singular.net
 fbtrack.webtrekk.net
 fb.umeng.com
+fbwallcheck.api-alliance.com
 fbxhuvjepucusnvbwya76akvizvzf1507500622.nuid.imrworldwide.com
 fc0075821737d99b95b3b7529362e54d.api.appsee.com
 fc0a73e3db6d3675ec02da7cdabdb2e2.pre.footprintpredict.com
@@ -25629,6 +25525,7 @@ fcfd8053.hullapp.io
 fcg.adx1.com
 fchkmxlv.micpn.com
 fcjsplubbur33x9xusp0e7uy9nya51509505441.nuid.imrworldwide.com
+fcmatch.google.com
 fcp1xskc.micpn.com
 f.crashlytics.com
 fcs.demo.appdynamics.com
@@ -25807,10 +25704,6 @@ fidelity.activate.ensighten.com
 fidelity.api.evgnet.com
 fidelity.evergage.com
 fidelity-media-ssp.rtb.adx1.com
-fidm.au1.gigya.com
-fidm.eu1.gigya.com
-fidm.gigya.com
-fidm.us1.gigya.com
 fidrzivu.micpn.com
 fiduxial.agilecrm.com
 fieldandstream.btttag.com
@@ -26150,7 +26043,6 @@ foodchainid.containers.piwik.pro
 foodchainid.piwik.pro
 foodservice.channelsight.com
 foodspring01.wt-eu02.net
-food.sslproxy.gigya.com
 foodxpert.moengage.com
 foo.freelogs.com
 foo.loggly.com
@@ -26209,7 +26101,6 @@ forms.id-visitors.com
 forms.parse.ly
 forms.touchcommerce.com
 forms.visistat.com
-formula1-eu.sslproxy.gigya.com
 formyip.com
 forskning.tns-cs.net
 forstit.solution.weborama.fr
@@ -27052,7 +26943,6 @@ geid.wbtrk.net
 geizhals.oewabox.at
 gelbeseiten01.webtrekk.net
 gel.everesttech.net
-gelocal.sslproxy.gigya.com
 gemadhu.hit.gemius.pl
 gemexicom.matomo.cloud
 gemey2010.solution.weborama.fr
@@ -27490,7 +27380,6 @@ g-f5fun.count.brat-online.ro
 g-f5news.count.brat-online.ro
 gfe.nvidia.com
 gf-p.alcmpn.com
-gfrmedia-san.sslproxy.gigya.com
 gfwmo.trackvoluum.com
 gfwsl.geforce.com
 gfx.filmweb.pl
@@ -27660,7 +27549,6 @@ glumobile.helpshift.com
 glympse.com
 gma4goat4f.s.ad6media.fr
 gmads.mookie1.com
-gm.au1.gigya.com
 gmb.acecounter.com
 g.mbm.cn.miaozhen.com
 gmbqfbai5nfkgygcakzwk9zw6z9v63so.edns.ip-api.com
@@ -27669,10 +27557,8 @@ gmcrmtest.acxiom.com
 gmdl.ksmobile.com
 g.mediav.com
 gmelius-01.firebaseio.com
-gm.eu1.gigya.com
 gmf.celebrus.com
 gm.gds.mmstat.com
-gm.gigya.com
 gmgroup.blueconic.net
 gmhiezx3.micpn.com
 g.miaozhen.com
@@ -27685,7 +27571,6 @@ gmrecall.acxiom.com
 gmsm.redsheriff.com
 gmtassetsllc.iljmp.com
 gmtdmp.mookie1.com
-gm.us1.gigya.com
 gmx.ivwbox.de
 gmx.oewabox.at
 gmx-ssl.wemfbox.ch
@@ -27727,7 +27612,6 @@ go.adlt.bbelements.com
 go.adlv.bbelements.com
 go.adnet.bbelements.com
 goalcom.ivwbox.de
-goal.sslproxy.gigya.com
 go.amplitude.com
 goanimate.evergage.com
 go.appsflyer.com
@@ -27785,7 +27669,6 @@ go.fullstory.com
 go.gameanalytics.com
 go.gba.bbelements.com
 gog.containers.piwik.pro
-go.gigya.com
 go.goldbachpoland.bbelements.com
 gogolecm.hit.gemius.pl
 gogolookmobile-test.firebaseio.com
@@ -28216,11 +28099,6 @@ gsassets2.getsocial.io
 gsa.statcounter.com
 gsbstanford.iljmp.com
 g.scorecardresearch.com
-gscounters.au1.gigya.com
-gscounters.eu1.gigya.com
-gscounters.gigya.com
-gscounters.ru1.gigya.com
-gscounters.us1.gigya.com
 gsdk.proximabeta.com
 gsea.ivwbox.de
 g.segment.com
@@ -28347,6 +28225,7 @@ guj.122.207.net
 gulet.adclear.net
 gulfenergy.blueconic.net
 gulfstream.blueconic.net
+gum.criteo.com
 gumgum.ads.placeiq.com
 gumi.helpshift.com
 gummydrop.tlnk.io
@@ -28367,6 +28246,7 @@ gve-r.tlnk.io
 gvrdlhyx.micpn.com
 gvzlthudczksuymongaw8uvhx36j41509474760.nuid.imrworldwide.com
 gw.adx1.com
+gwallcheck.api-alliance.com
 gwallet.com
 gw.flurry.com
 gw.geoedge.be
@@ -28508,7 +28388,6 @@ halfbrick.helpshift.com
 halfords.insightfirst.com
 halfpricehomes.privy.com
 hall9000.redintelligence.net
-hallmark.sslproxy.gigya.com
 h.allrecipes.com
 hamanasi.btttag.com
 hamilton-app-cms-prod-actions.firebaseio.com
@@ -28813,7 +28692,6 @@ helpdesk.brightedge.com
 helpdesk.commandersact.com
 helpdesk.dstillery.com
 helpdesk.econda-monitor.de
-helpdesk.gigya.com
 helpdesk.liftoff.io
 helpdesk.placed.com
 helpdesk.simpleanalytics.io
@@ -29099,6 +28977,7 @@ hitcolface2.gemius.pl
 hitcolface3.gemius.pl
 hitcounter.govmetric.com
 hitcounter-inkfrog-production-619769769.us-east-1.elb.amazonaws.com
+hitcounter.ru
 hitcounter.servmetric.com
 hit.ebsh.io
 hitgate.gemius.pl
@@ -29502,7 +29381,6 @@ hqstructuredproducts.app.incisivemedia.com
 hq-waters.app.incisivemedia.com
 hqwaters.app.incisivemedia.com
 hr.batmobi.net
-hr-cv.gigya.com
 hr-gmtdmp.mookie1.com
 hr.hit.gemius.pl
 hr.ivwbox.de
@@ -29656,7 +29534,6 @@ hulu.conviva.com
 hulu.hb-api.omtrdc.net
 hulu.hb.omtrdc.net
 hulu.sc.omtrdc.net
-humana.sslproxy.gigya.com
 human-chl.a.pxi.pub
 humax.links.channelintelligence.com
 humax.links.origin.channelintelligence.com
@@ -29967,7 +29844,6 @@ idcab.solution.weborama.fr
 idcardcentre.agilecrm.com
 id-cdn.effectivemeasure.net
 id.clarivoy.com
-___id___.c.mystat-in.net
 idcs.interclick.com
 id.cxense.com
 ideas.bronto.com
@@ -30231,13 +30107,9 @@ idriskprod.acxiom.com
 idrisktest.acxiom.com
 id.rlcdn.com
 ids.ad.gt
-ids.au1.gigya.com
-ids.eu1.gigya.com
-ids.gigya.com
 id.siteimprove.com
 id-ssl.effectivemeasure.net
 idstage.acxiom.com
-ids.us1.gigya.com
 idsync-ext-weight-2.rlcdn.com
 idsync.frontend-preprod.weborama.fr
 idsync.frontend.weborama.fr
@@ -30599,7 +30471,6 @@ imp1.bidgear.com
 imp2.bizographics.com
 imp9shkjhmgpg43bbk9ve5n0e.litix.io
 impactanalytics.azurewebsites.net
-impact.gigya.com
 impactradius.com
 impactradius-event.com
 impactradius-tag.com
@@ -30782,7 +30653,6 @@ info.evidon.com
 info.exactag.com
 info.flagcounter.com
 info.flurry.com
-info.gigya.com
 infogix.com
 infogixmsg.infogix.com
 info.glympse.com
@@ -32064,7 +31934,6 @@ jobseeker-sjc.gravityrd-services.com
 jobseeker-syd.gravityrd-services.com
 jobs.logrocket.com
 jobsohio-cdn.clarivoy.com
-jobstreet.sslproxy.gigya.com
 jobwohn.oewabox.at
 joeandvit.tradefuse.cpa.clicksure.com
 jo.effectivemeasure.net
@@ -32414,7 +32283,6 @@ kaspersky.com.ssl.d2.sc.omtrdc.net
 kaspersky.d3.sc.omtrdc.net
 kaspersky.ru.ssl.d2.sc.omtrdc.net
 katalon-vn.matomo.cloud
-kataweb.sslproxy.gigya.com
 katespadeprod.infiniteanalytics.com
 katespade.sp1.convertro.com
 katespadewww.btttag.com
@@ -32669,7 +32537,6 @@ knocker01.r01.dev.openstat.com
 knockoutdebt.directtrack.com
 knowledgebase.decibelinsight.com
 knowledgecentre.netcoresmartech.com
-knowledge.gigya.com
 knowledgetrain.agilecrm.com
 knowledgewiki.rtbhouse.com
 knoxvilletva.rtrk.com
@@ -32749,7 +32616,6 @@ kpionline7.bitam.com
 kpionline8.bitam.com
 kpionline.bitam.com
 kpmediagaua.hit.gemius.pl
-kpmg.sslproxy.gigya.com
 kpmluxcb.micpn.com
 kpn.blueconic.net
 kpn.solution.weborama.fr
@@ -32830,7 +32696,6 @@ kunversion.rpxnow.com
 kupbilet.hit.gemius.pl
 kuqvpodp.micpn.com
 kuraraynoritake.matomo.cloud
-kurier.sslproxy.gigya.com
 kushite1.click.org
 kustomnote.evergage.com
 kutupayisi.agilecrm.com
@@ -33144,17 +33009,13 @@ lb9.s400.meetrics.net
 lb-admin.macromill.com
 lb.afftrack.com
 lbal.wowanalytics.co.uk
-lb.au1.gigya.com
 lb-au.vidora.com
 lbc-studios-inc.helpshift.com
 lbcwamfactory.solution.weborama.fr
 lbcwf.frontend.weborama.fr
 lb.dev.adx1.com
 lb.deviceatlas.com
-lb-d.us1.gigya.com
 l.betrad.com
-lb.eu1.gigya.com
-lb-f2.eu1.gigya.com
 lbfz7b4l.micpn.com
 lbg-eum-proxy.appdynamics.com
 lb-global.vidora.com
@@ -33432,7 +33293,6 @@ lib2.sinaapp.com
 lib4.libstat.com
 lib6.libstat.com
 libcidclient.samba.tv
-libelle.sslproxy.gigya.com
 liberaadro.hit.gemius.pl
 libertatea.count.brat-online.ro
 liberty.infogix.com
@@ -33630,7 +33490,6 @@ live.bizible.com
 livecandela.rtrk.com
 livecaresupport.sp.backtrace.io
 live.cdn.spongecell.com
-livechat.gigya.com
 live.crazyegg.com
 live.dynatrace.com
 live-gelunbu-api.ksmobile.net
@@ -34463,7 +34322,6 @@ loginbox.onelink.me
 login.bronto.com
 login-canary.flurry.com
 loginchecker.rightmessage.com
-login.console.gigya.com
 log.incredibar-search.com
 login.cxense.com
 login-dev.resonate.com
@@ -34485,7 +34343,6 @@ login.linkpulse.com
 login.linkshare.com
 login.logrocket.com
 login-medianest.rvty.net
-login-mediaset-com.sslproxy.gigya.com
 login.netcoresmartech.com
 login.newrelic.com
 login-origin.newrelic.com
@@ -35545,7 +35402,6 @@ lumomedia4.flamingstudiospso.c2strack.com
 lung.rpxnow.com
 lurn.clickperfect.com
 lurninc.iljmp.com
-lushusa.sslproxy.gigya.com
 luvianetwork.hasoffers.com
 lux-dev.speedcurve.com
 luxotticaitalia01.wt-eu02.net
@@ -35921,7 +35777,6 @@ magento.api.adx1.com
 magento.bronto.com
 magento.convertcart.com
 magento.datascience.abtasty.com
-magento.gigya.com
 magento.innovation.abtasty.com
 magento.xml.adx1.com
 magiclinks.trackonomics.net
@@ -36033,7 +35888,6 @@ manage-api.ensighten.com
 manage-beta.ensighten.com
 managed.internal.dynatrace.com
 manage.ensighten.com
-manage.gigya.com
 manage-legacy.ensighten.com
 management-api.agkn.com
 managementone.agilecrm.com
@@ -36871,6 +36725,7 @@ meip.eu
 meistermedia.blueconic.net
 meitetsu.m-pathy.com
 meitre.trackinglibrary.prodperfect.com
+me.jsuol.com.br
 meliusanalytics.sisense.com
 mellmo.airbrake.io
 melodics.sp.backtrace.io
@@ -38241,7 +38096,6 @@ mike12101.blueprint1.cpa.clicksure.com
 mikegillette.iljmp.com
 mike.iljmp.com
 mileiq.onelink.me
-milenio.sslproxy.gigya.com
 milesaway.oracle.cpa.clicksure.com
 milestone.evergage.com
 milira.justclick.ru
@@ -38257,7 +38111,6 @@ milly.evergage.com
 mimanage.behacdn.ksmobile.net
 mi.mspu.us.re.getclicky.com
 mi-mw01.imrworldwide.com
-mindbodygreen.sslproxy.gigya.com
 mindentkapnihu.worldgravity.com
 mindflash.evergage.com
 mindheart.iljmp.com
@@ -38308,7 +38161,6 @@ mirra.links.channelintelligence.com
 mirra.links.origin.channelintelligence.com
 mirror.infonline.de
 mirror.ioam.de
-mirror-uk.sslproxy.gigya.com
 mirtesenruanalytics.solution.weborama.fr
 misclaire.moengage.com
 misc.vuble.tv
@@ -39467,8 +39319,6 @@ my.cludo.com
 mycompany.loggly.com
 mycomputer.superstats.com
 my.comscore.com
-my.console.gigya.com
-my.console.ru1.gigya.com
 mycounter.ua
 mycroft.jivox.com
 mydays01.wt-eu02.net
@@ -39653,7 +39503,6 @@ mzf.matomo.cloud
 mzweb.ivwbox.de
 n-105359288-0-01065000-1548678908-5c4ef6fc029e2.track.cux.io
 n-1059583936-0-92579700-1528453102-5b1a57eee20ab.track.cux.io
-n10.us1.gigya.com
 n-1102314450-0-16216800-1547445400-5c3c2498279b9.track.cux.io
 n-119319772-0-70514600-1481664585-58506849ac2c2.track.cux.io
 n11-ams.gravityrd-services.com
@@ -39676,7 +39525,6 @@ n-1943584558-0-13734800-1548006788-5c44b584218c3.track.cux.io
 n1-aux-log.vertamedia.com
 n1.feedback.ksmobile.net
 n1.macromill.com
-n1.us1.gigya.com
 n-2037852207-0-76385500-1538656788-5bb60a14ba819.track.cux.io
 n-2063616061-0-89693900-1549882110-5c6152fedafea.track.cux.io
 n-2079597378-0-79950700-1503925307-59a4143bc3356.track.cux.io
@@ -39686,40 +39534,32 @@ n-249041756-0-23190000-1519072867-5a8b366338a1e.track.cux.io
 n24.ivwbox.de
 n2-aux-log.vertamedia.com
 n2.mouseflow.com
-n2.us1.gigya.com
 n-315412899-0-87789500-1547162660-5c37d424d6586.track.cux.io
 n3-aux-log.vertamedia.com
 n3.clicktripz.com
 n3twork.us-west-2.stinger-ad.bidr.io
-n3.us1.gigya.com
 n-452076256-0-93114500-1529659781-5b2cc185e358e.track.cux.io
 n4-aux-log.vertamedia.com
 n4b8epxg3p.s.ad6media.fr
-n4.us1.gigya.com
 n-51265091-0-05757500-1495632821-59258bb50e129.track.cux.io
 n-535119503-0-98961700-1548675559-5c4ee9e7f19f2.track.cux.io
 n5-aux-log.vertamedia.com
 n5q5bjll.micpn.com
-n5.us1.gigya.com
 n-661270903-0-31173400-1521552087-5ab10ad74c1f8.track.cux.io
 n6-aux-log.vertamedia.com
 n6bvzmqhvhtyj0090tr6kqau7ynia1514984477.nuid.imrworldwide.com
-n6.us1.gigya.com
 n-732376765-0-20010300-1506413839-59ca0d0f30de9.track.cux.io
 n-794166328-0-67248800-1547854454-5c426276a4328.track.cux.io
 n7-aux-log.vertamedia.com
 n7k01-inet-ny8-v300-sec2.us.criteo.net
 n7k01-inet-sv6-v300-glbp6.us.criteo.net
-n7.us1.gigya.com
 n7v3e8x0.micpn.com
 n-806908056-0-96496600-1548170618-5c47357aeb9c9.track.cux.io
 n-835334528-0-67355300-1547546374-5c3daf06a4bc0.track.cux.io
 n-849599982-0-41525100-1547573066-5c3e174a65653.track.cux.io
 n-8546091-0-53589300-1546887213-5c33a02d82d99.track.cux.io
 n8-aux-log.vertamedia.com
-n8.us1.gigya.com
 n9-aux-log.vertamedia.com
-n9.us1.gigya.com
 nabisco.channelsight.com
 nabwealth.sc.omtrdc.net
 n.accessmylibrary.com
@@ -39766,7 +39606,6 @@ narrative.io
 narutowallpaper.powered-by.zango.com
 narvar.com
 nas01.r01.dev.openstat.com
-nascar.sslproxy.gigya.com
 nascompares.agilecrm.com
 naspweb.rtrk.com
 nat.aws.kontera.com
@@ -39944,24 +39783,9 @@ nessus-scanner-2.logs.datadoghq.com
 nessus-scanner-3.logs.datadoghq.com
 nessus-scanner.logs.datadoghq.com
 nestleboissoninstantaneechocolat.solution.weborama.fr
-nestle-br.sslproxy.gigya.com
-nestle-car.sslproxy.gigya.com
-nestle-ca.sslproxy.gigya.com
 nestlecereals.solution.weborama.fr
-nestle-co.sslproxy.gigya.com
-nestle-do.sslproxy.gigya.com
-nestle-ec.sslproxy.gigya.com
-nestle.gigya.com
-nestle-me.sslproxy.gigya.com
-nestle-mx.sslproxy.gigya.com
-nestle-my.sslproxy.gigya.com
 nestle.nessie.neodatagroup.com
-nestle-pa.sslproxy.gigya.com
-nestle-ph.sslproxy.gigya.com
 nestle.solution.weborama.fr
-nestle-th.sslproxy.gigya.com
-nestle-us.sslproxy.gigya.com
-nestle-vn.sslproxy.gigya.com
 nestlewaters.solution.weborama.fr
 net10.touchcommerce.com
 netadapj.rtb.adx1.com
@@ -40034,7 +39858,6 @@ networkpixel-auto.t.domdex.com
 networkprod001-fkb.connexity.net
 networkprod001-sea.connexity.net
 networkstats.advidi.com
-networkworld.sslproxy.gigya.com
 netzclub01.wt-eu02.net
 netze-bw01.wt-eu02.net
 netzeitu.ivwbox.de
@@ -40244,7 +40067,6 @@ nickjr.helpshift.com
 nicklasos.onthe.io
 nico.click.org
 nicoclub-auto.t.domdex.com
-nicodermcq.sslproxy.gigya.com
 nicolascousin.loggly.com
 ni.com.ssl.d2.sc.omtrdc.net
 nielsen.com
@@ -41159,7 +40981,6 @@ nyblog.gameanalytics.com
 nyc1.privy.com
 nyc.events.brightedge.com
 nycvpn.ignitionone.com
-nydaily.sslproxy.gigya.com
 nyhedsapp.firebaseio.com
 ny.ipinfo.io
 nyjexp001.exelator.com
@@ -41460,7 +41281,6 @@ oldxe3.insightfirst.com
 oldxe4.insightfirst.com
 oldxe5.insightfirst.com
 old.xml.adx1.com
-ole.ar.sslproxy.gigya.com
 oleg71d.justclick.ru
 oleg.adx1.com
 olegnekrom.justclick.ru
@@ -41999,6 +41819,7 @@ oqk-c.tlnk.io
 oracle.112.207.net
 oracle.112.2o7.net
 oracle.bronto.com
+oracleinfinity.io
 oradestiri.2cnt.net
 orangedotcomnl.solution.weborama.fr
 orangegames.helpshift.com
@@ -42039,7 +41860,6 @@ origin.collective-media.net
 origin-console.backtrace.io
 origin.crazyegg.com
 origin-get.backtrace.io
-origin.gigya.com
 origin.guzzoni-apple.com.akadns.netapi.glympse.com
 origin.iplogger.org
 origin.metalyzer.com
@@ -42343,7 +42163,6 @@ pagesdt.sisense.com
 pages.dynamicyield.com
 pages.flurry.com
 pages.gameanalytics.com
-pages.gigya.com
 pages.ignitionone.com
 pagesjaunes.estat.com
 pages-juxiao.mediav.com
@@ -42466,7 +42285,6 @@ paramus-cdn.clarivoy.com
 parentalcontrols.marketscore.com
 parentingjournal.privy.com
 parent.oewabox.at
-parents.sslproxy.gigya.com
 parexel.evergage.com
 parfmdreams01.wt-eu02.net
 pariswallpapers.powered-by.zango.com
@@ -42617,7 +42435,6 @@ pbr-catalogue.m6r.eu
 pbrowser-proxy22.brightedge.com
 p.brsrvr.com
 pbr-static.m6r.eu
-pbs.sslproxy.gigya.com
 pb.tynt.com
 pbx.adx1.com
 pbxanime.powered-by.zango.com
@@ -42908,7 +42725,6 @@ pg2.solution.weborama.fr
 pg.alcmpn.com
 pgapi.ksmobile.com
 pgatour.com.ssl.d2.sc.omtrdc.net
-pgatour.sslproxy.gigya.com
 p.gazeta.pl
 pgbadger.maxmind.com
 pg.channelsight.com
@@ -44057,7 +43873,6 @@ platform.ematicsolutions.com
 platform.fifty.io
 platform.foursquare.com
 platform.gcp.blis.com
-platform.gigya.com
 platform.ignitionone.com
 platformlink.demandbase.com
 platform.lotame.com
@@ -44223,7 +44038,6 @@ poinx.solution.weborama.fr
 pokasvobodna.justclick.ru
 pokdfopk.cmail20.com
 pokemonporn.powered-by.zango.com
-pokernews.sslproxy.gigya.com
 polaris.cxsearch.cxense.com
 polaris.tns-cs.net
 polarmobile.com
@@ -44389,7 +44203,6 @@ postdev.app.incisivemedia.com
 post-devel.app.incisivemedia.com
 postdevel.app.incisivemedia.com
 postest.dev.metalyzer.com
-post-gazette.sslproxy.gigya.com
 post-gm.gwallet.com
 postgradecollege436611.typeform.com
 post-hq.app.incisivemedia.com
@@ -44673,7 +44486,6 @@ prism.app-us1.com
 prism.connexity.net
 prismdk.hit.gemius.pl
 prisme.kontera.com
-pri.sslproxy.gigya.com
 privacyapi.evidon.com
 privacy.branch.io
 privacy.ensighten.com
@@ -45644,8 +45456,6 @@ ra01.atl1.turn.com
 ra01.sjc2.turn.com
 ra1balancer.gwallet.com
 ra1balancerrs.gwallet.com
-ra2-il.gigya.com
-ra3-il.gigya.com
 ra-americas.researchnow.com
 ra-apac.researchnow.com
 raasnet.com
@@ -45713,7 +45523,6 @@ rahmat.loggly.com
 rahn-education.agilecrm.com
 ra-idp.researchnow.com
 rai-italia01.wt-eu02.net
-ra-il.gigya.com
 rails4test.apptentive.com
 railsplitter-canary.flurry.com
 railsplitter-e2e.flurry.com
@@ -45731,7 +45540,6 @@ rakuten.112.207.net
 rakuten.c3metrics.com
 rakutenpay.sc.omtrdc.net
 ra.linksynergy.com
-ra-lnd.gigya.com
 ralphlauren.saas.appdynamics.com
 raman.netcoresmartech.com
 rambler.ru
@@ -45740,7 +45548,6 @@ ramblingrenovators.mpnrs.com
 ramonbilbaoes.solution.weborama.fr
 ramsayandwellington.one-integration.ci.convertro.com
 ramses3.1annuaire.com
-ra-mv.gigya.com
 ran01.webtrekk.net
 rancher.ac-nonprod.ignitionone.com
 rancher.ac-prod.ignitionone.com
@@ -45767,14 +45574,12 @@ rank.spot.im
 ranks.sextracker.com
 rankxpress.iljmp.com
 ran-reporting.rakutenmarketing.com
-ra-ny.gigya.com
 raphustle.powered-by.zango.com
 rapid.agilecrm.com
 rapidinc.click.org
 rapidresponse.directtrack.com
 rapi.walkme.com
 rappi.onelink.me
-rappler2.sslproxy.gigya.com
 r.appsflyer.com
 r.ap-south-1.awstrack.me
 r.ap-southeast-2.awstrack.me
@@ -45937,7 +45742,6 @@ realmadrid.neodatagroup.com
 realmediacollect.insightfirst.com
 realmedia.insightfirst.com
 realmofvalor.helpshift.com
-realsimple.sslproxy.gigya.com
 real.sp.analytics.yahoo.com
 realstats.dhgate.com
 real-time-analytics.com
@@ -45973,7 +45777,6 @@ receive.inplay.scanscout.com
 receiver-eap.dynatrace.com
 receiver-prod.dynatrace.com
 receiver.spa.dynatrace.com
-recetasnestle.sslproxy.gigya.com
 recette.mediabong.net
 recette.vuble.tv
 recirculation.spot.im
@@ -46026,7 +45829,6 @@ redeffect.redsheriff.com
 redefineadpl.hit.gemius.pl
 redefine.hit.gemius.pl
 redemptions.privy.com
-rede.natura.sslproxy.gigya.com
 rediff.scorecardresearch.com
 rediff-w3.scorecardresearch.com
 redintelligence.net
@@ -46192,7 +45994,6 @@ redsheriff.com
 redstatcounter.com
 redtims.redsheriff.com
 redtrack.io
-redtri.sslproxy.gigya.com
 redvertisment.com
 reebok-australia.sjv.io
 reebokstore.trackonomics.net
@@ -46285,7 +46086,6 @@ remote.incisivemedia.com
 renaultdatapooldoubletracking.solution.weborama.fr
 renaultnl.solution.weborama.fr
 renderer-assets.typeform.com
-renewableenergyworld.sslproxy.gigya.com
 renfe.com.d3.sc.omtrdc.net
 renlearn.com
 reno01.webtrekk.net
@@ -46482,7 +46282,6 @@ reports.appsflyer.com
 reports.apxor.com
 reports.arrivalist.com
 reports-as.web.analytics.yahoo.com
-reports.au1.gigya.com
 reports.bauer-media.fuseplatform.net
 reports-bg.web.analytics.yahoo.com
 reports.boldchat.com
@@ -46509,7 +46308,6 @@ reports-dk.imrworldwide.com
 reports.doubleclick.com
 reports.doubleclick.net
 reports.enphaseenergy.com
-reports.eu1.gigya.com
 reports.evocalize.com
 reports.extreme-dm.com
 reports.eyereturn.com
@@ -46523,7 +46321,6 @@ reports.footmarks.com
 reports.footprintlive.com
 reports.foreseeresults.com
 reports.gayadnetwork.com
-reports.gigya.com
 reports.gosquared.com
 reports.harrenmedia.com
 reports.hibu.com
@@ -46585,7 +46382,6 @@ reports.uat.carestack.com
 reports.ubimo.com
 reports-uk.imrworldwide.com
 reports.unacast.com
-reports.us1.gigya.com
 reports.valo.ai
 reports.vervemobile.com
 reports.vizury.com
@@ -47002,7 +46798,6 @@ roby-technologies.agilecrm.com
 roche-applied-science.com.d3.sc.omtrdc.net
 rocketadserver.com
 rocketchat.agilecrm.com
-rocket.gigya.com
 rocketgirls.iljmp.com
 rocketindustrial.btttag.com
 rocketmortgage.onelink.me
@@ -47405,10 +47200,6 @@ ru01.webtrekk.net
 ru02-hits.spylog.com
 ru03-hits.spylog.com
 ru09-hits.spylog.com
-ru1-direct.gigya.com
-ru1.gigya.com
-ru1-st1.gigya.com
-ru1-st2.gigya.com
 ru4.com
 ru.abtasty.com
 ruadcodedsp.rontar.com
@@ -48196,7 +47987,6 @@ sabiamedia.afftrack.com
 sabio.ads.placeiq.com
 sabre.saas.appdynamics.com
 sab.richaudience.com
-sacbee.sslproxy.gigya.com
 saccess.hikaritv.net
 sacfw1.c3metrics.com
 sacfw2.c3metrics.com
@@ -48603,7 +48393,6 @@ sando.ussandostatin.com
 sandoz.solution.weborama.fr
 sandra1466.typeform.com
 sands-cdn.clarivoy.com
-sanduskyregister.sslproxy.gigya.com
 sandyspov.privy.com
 sanfrancisco18.events.brightedge.com
 sanfrancisco.events.brightedge.com
@@ -49705,7 +49494,6 @@ sellhub.terapeak.com
 sellmohrcars.blueconic.net
 sellpoint.net
 sell.terapeak.com
-seloger.sslproxy.gigya.com
 semanticlocation-pa.googleapis.com
 semasio.com
 semasio.net
@@ -50527,7 +50315,6 @@ sindahotel.adx1.com
 s.inedomedia.com.re.getclicky.com
 sinfo.dtcidev.co
 s.infogram.com
-singaporeair.sslproxy.gigya.com
 single.upsight-api.com
 singular1.apsalar.com
 singular2.apsalar.com
@@ -53268,7 +53055,6 @@ soced.ui.weborama.com
 social.actonsoftware.com
 socialbase.evergage.com
 socialblade.com
-social-cars.sslproxy.gigya.com
 social-connect.spot.im
 social.conviva.com
 social.coremetrics.com
@@ -53276,13 +53062,6 @@ social.cxense.com
 socialdna.33across.com
 socialheat.younetmedia.com
 social.iplogger.org
-socialize-api.gigya.com
-socialize.au1.gigya.com
-socialize.eu1.gigya.com
-socialize.gigya.com
-socialize.ru1.gigya.com
-socialize.us1d.gigya.com
-socialize.us1.gigya.com
 social.justuno.com
 sociallyrich.tapfiliate.com
 socialmagic.onthe.io
@@ -53320,7 +53099,6 @@ sofi-app.quantummetric.com
 softcore.xxxcounter.com
 softonic.112.207.net
 softonic-analytics.net
-softonic.sslproxy.gigya.com
 softsolutionsclub.matomo.cloud
 softsurroundingscom.btttag.com
 softsurroundingsoutletcom.btttag.com
@@ -53552,6 +53330,7 @@ somtrdc.jobstreet.com.sg
 somtrdc.jobstreet.vn
 somtr.financialengines.com
 sonarapi.fedex.epsihost.com
+sonar.fedex.epsihost.com
 sonarqube.mparticle.com
 sonar.semantiqo.com
 sonarsk.hit.gemius.pl
@@ -53563,7 +53342,6 @@ sond.tapfiliate.com
 sonesta-app.quantummetric.com
 s-onetag.com
 songsdownloadall.innocraft.cloud
-sonicbids.sslproxy.gigya.com
 sonicinteractive.iljmp.com
 sonicnet.insightfirst.com
 sonoranintegrations.actonsoftware.com
@@ -54538,11 +54316,7 @@ ssl.o.webmd.com
 sslp1.acecounter.com
 ssl.perfectaudience.com
 ssl-politiken.tns-dk.2cnt.net
-sslproxy.au1.gigya.com
-sslproxy.eu1.gigya.com
-sslproxy.gigya.com
 sslproxy-prod.adobedtm.com
-sslproxy.us1.gigya.com
 ssl.quantserve.com
 ssl.re.getclicky.com
 ssl-rekl.tns-cs.net
@@ -54935,7 +54709,6 @@ ssxcqxin.micpn.com
 ssxd.mediav.com
 st1.dialogtech.com
 st1.hit.gemius.pl
-st1.us1d.gigya.com
 st1v2.campaign-archive.com
 st2.dialogtech.com
 st2.dynamicyield.com
@@ -55092,7 +54865,6 @@ staging-beacon-7.newrelic.com
 staging-beacon-8.newrelic.com
 staging-beacon-9.newrelic.com
 staging.be.apptentive.com
-staging.blog.gigya.com
 staging-blog.spot.im
 staging-bplatform-bo.beeketing.com
 staging.brightedge.com
@@ -55122,11 +54894,9 @@ staging-defect.dynatrace.com
 staging.deltaflow.petametrics.com
 staging.demandbase.com
 staging.demo.appdynamics.com
-stagingdemo.gigya.com
 staging-demo.ppcprotect.com
 staging-dev-collection01.decibelinsight.net
 staging-discuss.newrelic.com
-staging.downloads.gigya.com
 staging.fastly-insights.com
 staging.front.banners.advidi.com
 staging.fullstory.com
@@ -55241,7 +55011,6 @@ staging.woopra.com
 staging.wootric.com
 stagingwp-us.acxiom.com
 stagingwp-us-qa.acxiom.com
-staging.www.gigya.com
 staging-www.ispot.tv
 staging-x.flurry.com
 staging.x.vindicosuite.com
@@ -58598,7 +58367,6 @@ status.foursquare.com
 status.fullstory.com
 status.geojs.io
 status.getsentry.com
-status.gigya.com
 status.graphly.io
 status.heapanalytics.com
 status.helpshift.com
@@ -59065,7 +58833,6 @@ studio.ispot.tv
 studio.survata.com
 studivz.ivwbox.de
 studybayapp.matomo.cloud
-stuffnz.sslproxy.gigya.com
 stun.l.google.com
 stun.spamanalyst.com
 stun.xpanama.net
@@ -60117,6 +59884,7 @@ tag-cdn.juicer.cc
 tag-cdn-staging.perfectaudience.com
 tag.clrstm.com
 tagcommander.com
+tag.contactatonce.com
 tagcontrolapi.evidon.com
 tagcontrol-cdn.evidon.com
 tagcontrolcollector.evidon.com
@@ -61104,7 +60872,6 @@ tf1-mobi.estat.com
 tf1.solution.weborama.fr
 tf.airfind.com
 tfcl.agilecrm.com
-tfc.sslproxy.gigya.com
 t.felmat.net
 t.firstpromoter.com
 tflcar-auto.t.domdex.com
@@ -61169,7 +60936,6 @@ thecoldestwater.iljmp.com
 theconnectedrider.tapfiliate.com
 thecontainerstore.evergage.com
 thecreditcountess.privy.com
-thecutekid.sslproxy.gigya.com
 thedealcollect.insightfirst.com
 thedeal.insightfirst.com
 thedeal-ssl.insightfirst.com
@@ -61336,6 +61102,7 @@ tiger.vizu.com
 tigsports.blueconic.net
 tikivn.api.sociaplus.com
 tikonl.ivwbox.de
+tile.equipmenttrader.com
 tiltingpoint.helpshift.com
 t.image3.pushauction.com
 t.image4.pushauction.com
@@ -61424,6 +61191,7 @@ tlnk.branch.io
 tlnk.io
 tlntest.piwik.pro
 tlog.richaudience.com
+t.loopgift.com
 tl-p.alcmpn.com
 tlp.thelondonpaper.com
 tl.r7ls.net
@@ -61442,7 +61210,6 @@ t-metaps-biz.control.kochava.com
 tm.everesttech.net
 tmfp.agkn.com
 tmgdigital.blueconic.net
-tm.gigya.com
 tm.httptrack.com
 t.micpn.com
 t.mindtake.com
@@ -61477,6 +61244,7 @@ tmteam.piwik.pro
 tmu-collect.tealiumiq.com
 tmu-datacloud.tealiumiq.com
 tmu-my.tealiumiq.com
+tm.uol.com.br
 tmwpuxfyac4fq3qavxknrtgmjc4ks1516222680.nuid.imrworldwide.com
 tmx.bestbuy.com
 t.myvisualiq.net
@@ -61538,7 +61306,6 @@ tokyo-my.mobfox.com
 to.loggly.com
 tol-spoxy.spot.im
 tomd24ju.micpn.com
-tomer.gigya.com
 tomo-app.quantummetric.com
 tomorrow.count.ly
 toms-app.quantummetric.com
@@ -61550,7 +61317,6 @@ tonies.piwik.pro
 t.onthe.io
 tonywalkerfinancial.agilecrm.com
 tonyyoung-cdn.clarivoy.com
-toolbar.cdn.gigya.com
 toolbelt.treasuredata.com
 tool.cnzz.com
 tool.gameanalytics.com
@@ -65753,7 +65519,6 @@ tribalfusion.com
 tribehr.evergage.com
 triboo01.webtrekk.net
 tribpubdfp745347008913.s.moatpixel.com
-tribune.sslproxy.gigya.com
 tribunetrainingacade.rtrk.com
 t.richaudience.com
 trident.channelsight.com
@@ -66342,6 +66107,7 @@ ts.webclicks24.com
 tsystems01.webtrekk.net
 tt0zwgh90kegauyasdnpjsyl9q6plpe5.edns.ip-api.com
 tt-10162-1.seg.t.tailtarget.com
+t.tailtarget.com
 ttcportals.com.re.getclicky.com
 ttd.ads.placeiq.com
 ttd-seg.jivox.com
@@ -66434,7 +66200,6 @@ t.valcyte.com
 tvanalytics.net
 tv.birst.com
 tvf.zango.com
-tvguide.sslproxy.gigya.com
 tvi.hit.gemius.pl
 tvinfo.ivwbox.de
 t.visualrevenue.com
@@ -66901,11 +66666,9 @@ updateinfo.devmate.com
 update.maxmind.com
 updater.appesteem.com
 updates.appdynamics.com
-updates.au1.gigya.com
 updates.bugsnag.com
 updates.devmate.com
 update.sdk.batmobi.net
-updates.eu1.gigya.com
 updates.liveramp.com
 updates.maxmind.com
 updates.onlinesucces.nl
@@ -67032,15 +66795,7 @@ us16.campaign-archive.com
 us17.campaign-archive.com
 us18.campaign-archive.com
 us19.campaign-archive.com
-us1a-email-mng.gigya.com
-us1a.gigya.com
-us1b.gigya.com
-us1b-st1.gigya.com
 us1.campaign-archive.com
-us1d.gigya.com
-us1-direct.gigya.com
-us1-email-mng.gigya.com
-us1.gigya.com
 us1.heatmap.it
 us1.image3.pushauction.com
 us1.image4.pushauction.com
@@ -67067,14 +66822,11 @@ us1-prod-outbound-io-outbound-e10ea.firebaseio.com
 us1-prod-outbound-io-outbound-f15b6.firebaseio.com
 us1.siteimprove.com
 us1.ss-omtrdc.net
-us1-st1.gigya.com
-us1-st2.gigya.com
 us2-00000003.userreplay.net
 us20.campaign-archive.com
 us2.campaign-archive.com
 us2-cdn.inside-graph.com
 us.2.cqcounter.com
-us2.gigya.com
 us2.gmads.mookie1.com
 us2.heatmap.it
 us2-live.inside-graph.com
@@ -67285,6 +67037,7 @@ uslg89eamk4rqt24gds5m4w4pg4o61504934810.nuid.imrworldwide.com
 us-library.klarnaservices.com
 us.linkshare.com
 us-live.inside-graph.com
+usllpic0-6674e3e4f710239751ce99c5ea24505d608350d3-sac.d.aa.online-metrix.net
 usllpic0-9f593f7738210935efa1ce480e945b6c6d5e6d0b-sac.d.aa.online-metrix.net
 us.log.bumlam.com
 usmap.zeotap.com
@@ -67406,7 +67159,6 @@ u-time.umeng.com
 utkaltimes.moengage.com
 ut.linksynergy.com
 utm-sdk.beeketing.com
-utopiatv.sslproxy.gigya.com
 ut-poc.linksynergy.com
 utrace.de
 ut.ra.linksynergy.com
@@ -67724,7 +67476,6 @@ v.effectivemeasure.net
 vegalash.sjv.io
 ve-gmtdmp.mookie1.com
 vehael.agilecrm.com
-vehicleservicepros.sslproxy.gigya.com
 velasresorts.evergage.com
 velomania.onthe.io
 velon.blueconic.net
@@ -68154,7 +67905,6 @@ vnumedia03.webtrekk.net
 vnumedia04.webtrekk.net
 vocabulary-fbs-1.firebaseio.com
 vocalmatic.iljmp.com
-voc-customdomainprefix.sslproxy.gigya.com
 vocento.cxsearch.cxense.com
 vocento.recs.cxense.com
 voc.foresee.com
@@ -68687,7 +68437,6 @@ weather.ksmobile.com
 weather.ksmobile.net
 weatherman.blueconic.net
 weather.onelink.me
-weather.sslproxy.gigya.com
 weather.weather.insightfirst.com
 weather.whenu.com
 web001.apsalar.com
@@ -68874,7 +68623,6 @@ web.hammacher.com
 webhdfs-prxy-ams2.gravityrd-services.com
 webhdfs-prxy-ams.gravityrd-services.com
 webhook.pingdom.com
-webhooktest-irtw.gigya.com
 webhost.allegiancetech.com
 webinar.airpr.com
 webinar.growingio.com
@@ -69107,7 +68855,6 @@ we-stats.com
 westeins.2cnt.net
 westeins.ivwbox.de
 westelm.open.securedvisit.com
-westelm.sslproxy.gigya.com
 westerndigital.links.channelintelligence.com
 westerndigital.links.origin.channelintelligence.com
 westernunion.evergage.com
@@ -69237,15 +68984,12 @@ wifi.ksmobile.net
 wiftpublishercom.sjv.io
 wikia-arts.t.domdex.com
 wikia-food.t.domdex.com
-wiki-demo.gigya.com
-wikifiles.gigya.com
 wikitree.matomo.cloud
 wikiwand.uservoice.com
 wil-acs01.shoppertrak.com
 wildcard.service.newrelic.com
 wildcard.sitestat.com
 wilderness.rpxnow.com
-wildfire.gigya.com
 wildfire.sp.backtrace.io
 wildfoodsco.tapfiliate.com
 wiley.grapeshot.co.uk
@@ -69365,7 +69109,6 @@ wm.banners.sextracker.be
 wm.banners.sextracker.com
 wmfd.iljmp.com
 wmfsmarketingsolutions.incisivemedia.com
-wmgk.sslproxy.gigya.com
 wm.intuit.com
 wmi.oo000oo.clubomniture.suiteall.112.207.net
 wm.mtree.com
@@ -69781,7 +69524,6 @@ www2.discountcatalyticconverters.com
 www2.dstillery.com
 www2.effectivemeasure.net
 www2.freestats.com
-www2.gigya.com
 www2.hitslink.com
 www2.hotlog.ru
 www2.ignitionone.com
@@ -69903,7 +69645,6 @@ www9.effectivemeasure.net
 www9.hotlog.ru
 www9.mystats.nl
 www9.sitetracker.com
-www-abc-es.sslproxy.gigya.com
 wwwadj.infogix.com
 www-analytics.ripe.net
 www-api.justuno.com
@@ -69978,7 +69719,6 @@ wykop.hit.gemius.pl
 wyl-5.tlnk.io
 wyndham.btttag.com
 wyndhamnonprod500z.btttag.com
-wyndhamrewards.sslproxy.gigya.com
 wynnresorts-app.quantummetric.com
 wyqhlkbcyypxorxtxgl9kfaeamvrb1505353300.nuid.imrworldwide.com
 wysistat.com
@@ -70759,6 +70499,7 @@ zms.zalando.com
 zn_0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
 zn0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
 znabk5oa.micpn.com
+znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
 znekusxyrbvg6i8pb-cdkglobal.siteintercept.qualtrics.com
 znmmvaov.micpn.com
 znnpnlnknns.blueconic.net

@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/7/2020  15:08  (3:08 PM)  - Central Standard Time
+# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -44,6 +44,7 @@ ioninteractive.com            #Ion Interactive
 tpx.everquote.com                 #MSN
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
+ecp.yusercontent.com          #Oath Inc.
 fpdbs.paypal.com                  #Paypal (Logo?)
 api.queryly.com                   #Queryly
 queryly.com                       #Queryly
@@ -259,11 +260,13 @@ tr.kqzamd.com                        #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                 #Seen with Adult Sites
 fwtrck.com                                     #Seen with Adult Sites
 ##############################
-t.marketing.activision.com                                     #Activision
-anaplan.com                                                     #AnaPlan
+t.marketing.activision.com                                  #Activision
+anaplan.com                                                   #AnaPlan
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
-appcelerator.com                                                #Appcelerator
-urs.cnet.com                                                 #Cnet (easyXDM)
+appcelerator.com                                              #Appcelerator
+gaming-config.asus.com                                           #Asus
+netid.ff.avast.com                                          #Avast
+urs.cnet.com                                                  #Cnet (easyXDM)
 expresswifi.com    #                                      #Facebook
 lookaside.facebook.com                                    #Facebook
 z-m.c10r.facebook.com                                     #Facebook

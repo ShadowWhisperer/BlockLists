@@ -1,6 +1,6 @@
 #
 #    File: Tunnels   (VPNs & Proxies)  *** NOT ALL ARE CHECKED ***
-# Updated: 6/24/2020  22:51  (10:51 PM)  - Central Standard Time
+# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -71,6 +71,7 @@ fiberprox.com
 fiberprox.net
 fishproxy.com
 fixproxy.com
+fpn.firefox.com
 fproxy.net
 free4proxy.tv
 freebypassproxy.com
@@ -165,6 +166,8 @@ perfect-privacy.com
 polandgrows.com
 polargrizzly.com
 pplsearcher.com
+privateinternetaccess.com
+protonvpn.com
 proxfree.com
 proxify.com
 proxify.co.uk
@@ -228,6 +231,8 @@ surf100.com
 surfall.net
 surfeasy.com
 swordvpn.com
+testpilot.firefox.com
+testpilot.r53-2.services.mozilla.com
 the-cloak.com
 thexite.net
 tor2web.org
@@ -258,6 +263,7 @@ vload.net
 vobas.com
 vpernet.com
 vpn.avg.tools.avast.com
+vpn.azure.com
 vpnbook.com
 vpnbrowse.com
 vpntunnel.com

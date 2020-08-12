@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/7/2020  15:08  (3:08 PM)  - Central Standard Time
+# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -121,6 +121,7 @@ addnow.com                                              #Webpages - Social Media
 addthiscdn.com                                          #Webpages - Social Media
 addthis.com                                             #Webpages - Social Media
 addthisedge.com                                         #Webpages - Social Media
+v1.addthisedge.com                                      #Webpages - Social Media
 linksalpha.com                                          #Webpages - Social Media
 media.line.naver.jp                                     #Webpages - Social Media
 opensharecount.com                                      #Webpages - Social Media
@@ -321,6 +322,7 @@ apps.facebook.com                                       #Facebook
 b-api.facebook.com                                      #Facebook
 b-graph.facebook.com                                    #Facebook
 error.facebook.com                                      #Facebook
+fb-graph.asus.com                                       #Facebook
 graph.facebook.com                                      #Facebook
 chat-pa.clients6.google.com                             #Google    Chat
 firebaseinappmessaging.googleapis.com                   #Google  FireBase
