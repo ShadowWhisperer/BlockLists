@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
+# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -37,6 +37,10 @@ dw7nrwnn2bkh1.cloudfront.net       #CNN
 registry.api.cnn.io                #CNN
 live.github.com                       #Github (Push Notifications?)
 alive.github.com                      #Github
+hearstgames.com                    #Hearst Games
+joker.hearstgames.com              #Hearst Games
+labs.hearstgames.com               #Hearst Games
+riddler.hearstgames.com            #Hearst Games
 o.joinhoney.com                   #Honey
 isweb.no                             #In Sight
 postclickmarketing.com        #Ion Interactive
@@ -259,7 +263,7 @@ kqzamd.com                           #Says Tracker - Might Be Malware
 tr.kqzamd.com                        #Says Tracker - Might Be Malware
 sdg.fwtrck.com                                 #Seen with Adult Sites
 fwtrck.com                                     #Seen with Adult Sites
-##############################
+###############################################################################
 t.marketing.activision.com                                  #Activision
 anaplan.com                                                   #AnaPlan
 prod-classifyclient.normandy.prod.cloudops.mozgcp.net       #Amazon AWS
@@ -267,12 +271,14 @@ appcelerator.com                                              #Appcelerator
 gaming-config.asus.com                                           #Asus
 netid.ff.avast.com                                          #Avast
 urs.cnet.com                                                  #Cnet (easyXDM)
+best.discord.media                                          #Discord
 expresswifi.com    #                                      #Facebook
 lookaside.facebook.com                                    #Facebook
 z-m.c10r.facebook.com                                     #Facebook
 brainkeeper.gw-ec.com                                        #GearBest
 cur.gearbest.com                                             #GearBest
 oss.hpconnected.com                                       #HP
+osfsr.lenovomm.com                                    #Lenovo
 methodmi.com                                        #Methodmi
 bidsimulator.com                                    #Methodmi
 view.bidsimulator.com                               #Methodmi

@@ -1,106 +1,107 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
+# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-fonts.acer.com                                  #Font  Acer
-edgefonts.net                                   #Font    Adobe
-fonts.adobe.com                                 #Font    Adobe
-typekit.com                                     #Font    Adobe
-use.typekit.com                                 #Font    Adobe
-typekit.net                                     #Font    Adobe
-use.edgefonts.net                               #Font    Adobe
-use.typekit.net                                 #Font    Adobe
-file.myfontastic.com                            #Font  Fontastic.me
-fontastic.me                                    #Font  Fontastic.me
-myfontastic.com                                 #Font  Fontastic.me
-fontplus.aem.kao.com                            #Font  FontPlus (Softbank Tech Corp.) Marketing / Analytics
-fonts.gstatic.com                               #Font  Google
-fonts.googleapis.com                            #Font  Google
-f.kinja-static.com                              #Font     Kinja
-hello.myfonts.net                               #Font  My Fonts
-myfonts.net                                     #Font  My Fonts
-fontawesome.com                                 #Font      Font Awesome
-kit.fontawesome.com                             #Font      Font Awesome
-kit-free.fontawesome.com                        #Font      Font Awesome
-kit-pro.fontawesome.com                         #Font      Font Awesome
-pro.fontawesome.com                             #Font      Font Awesome
-use.fontawesome.com                             #Font      Font Awesome
-fortawesome.com                                 #Font  Fort Awesome
-fonticons.com                                   #Font  Fort Awesome
-fontplus.jp                                     #Font      Font Plus
-webfont.fontplus.jp                             #Font      Font Plus
-fonts.shopifycdn.com                            #Font  Shopify
-cloud.webtype.com                               #Font    WebType
-pls.webtype.com                                 #Font    WebType
-webtype.com                                     #Font    WebType
-drh-fonts.img.digitalrivercontent.net           #Font     Specific
-fonts.ea.com.c.footprint.net                    #Font     Specific
-fonts.ea.com                                    #Font     Specific
-fonts.fandango.com                              #Font     Specific
-fonts.foxsports.com                             #Font     Specific
-fonts.intercomcdn.com                           #Font     Specific
-fonts.iu.edu                                    #Font     Specific
-fonts.jimstatic.com                             #Font     Specific
-fonts.ngeo.com                                  #Font     Specific
-fonts.sidearmsports.com                         #Font     Specific
-fonts.sony.net                                  #Font     Specific
-fonts.staticworld.net                           #Font     Specific
-fonts.voxmedia.com                              #Font     Specific
-fonts.walmart.com                               #Font     Specific
-fonts.wpcdn.pl                                  #Font     Specific
-fonts.wsj.net                                   #Font     Specific
-g1.nyt.com                                      #Font     Specific
-gel.files.bbci.co.uk                            #Font     Specific
-static-web-assets.gnl-common.bbcverticals.com   #Font     Specific
+fonts.acer.com                                          #Font  Acer
+edgefonts.net                                           #Font    Adobe
+fonts.adobe.com                                         #Font    Adobe
+typekit.com                                             #Font    Adobe
+use.typekit.com                                         #Font    Adobe
+typekit.net                                             #Font    Adobe
+use.edgefonts.net                                       #Font    Adobe
+use.typekit.net                                         #Font    Adobe
+file.myfontastic.com                                    #Font  Fontastic.me
+fontastic.me                                            #Font  Fontastic.me
+myfontastic.com                                         #Font  Fontastic.me
+fontplus.aem.kao.com                                    #Font  FontPlus (Softbank Tech Corp.) Marketing / Analytics
+fonts.gstatic.com                                       #Font  Google
+fonts.googleapis.com                                    #Font  Google
+f.kinja-static.com                                      #Font     Kinja
+hello.myfonts.net                                       #Font  My Fonts
+myfonts.net                                             #Font  My Fonts
+fontawesome.com                                         #Font      Font Awesome
+kit.fontawesome.com                                     #Font      Font Awesome
+kit-free.fontawesome.com                                #Font      Font Awesome
+kit-pro.fontawesome.com                                 #Font      Font Awesome
+pro.fontawesome.com                                     #Font      Font Awesome
+use.fontawesome.com                                     #Font      Font Awesome
+fortawesome.com                                         #Font  Fort Awesome
+use.fortawesome.com                                     #Font  Fort Awesome
+fonticons.com                                           #Font  Fort Awesome
+fontplus.jp                                             #Font      Font Plus
+webfont.fontplus.jp                                     #Font      Font Plus
+fonts.shopifycdn.com                                    #Font  Shopify
+cloud.webtype.com                                       #Font    WebType
+pls.webtype.com                                         #Font    WebType
+webtype.com                                             #Font    WebType
+drh-fonts.img.digitalrivercontent.net                   #Font     Specific
+fonts.ea.com.c.footprint.net                            #Font     Specific
+fonts.ea.com                                            #Font     Specific
+fonts.fandango.com                                      #Font     Specific
+fonts.foxsports.com                                     #Font     Specific
+fonts.intercomcdn.com                                   #Font     Specific
+fonts.iu.edu                                            #Font     Specific
+fonts.jimstatic.com                                     #Font     Specific
+fonts.ngeo.com                                          #Font     Specific
+fonts.sidearmsports.com                                 #Font     Specific
+fonts.sony.net                                          #Font     Specific
+fonts.staticworld.net                                   #Font     Specific
+fonts.voxmedia.com                                      #Font     Specific
+fonts.walmart.com                                       #Font     Specific
+fonts.wpcdn.pl                                          #Font     Specific
+fonts.wsj.net                                           #Font     Specific
+g1.nyt.com                                              #Font     Specific
+gel.files.bbci.co.uk                                    #Font     Specific
+static-web-assets.gnl-common.bbcverticals.com           #Font     Specific
 
-brazzerssurvey.com                              #Survey
-inmoment.com                                    #Survey
-lb.polldaddy.com                                #Survey
-opinionbar.com                                  #Survey
-polldaddy.com                                   #Survey
-poll.fm                                         #Survey
-riddle.com                                      #Survey
-samplicio.us                                    #Survey
-secure.polldaddy.com                            #Survey
-survey.io                                       #Survey
-surveyrouter.com                                #Survey
-tns-gallup.dk                                   #Survey
-ups.surveyrouter.com                            #Survey
-you-cubez.com                                   #Survey
-amdsurveys.com                                  #Survey - AMD
-d2yyd1h5u9mauk.cloudfront.net                   #Survey - Delighted
-delighted.com                                   #Survey - Delighted
-getfeedback.com                                 #Survey - Get Feedback
-websites.cdn.getfeedback.com                    #Survey - Get Feedback
-hpsasudf.ext.hp.com                             #Survet - HP
-survey.instagram.com                            #Survey - Instagram
-iteratehq.com                                   #Survey - Iterate
-globaltestmarket.com                            #Survey - Life Points
-lifepointspanel.com                             #Survey - Life Points
-demographics.neat.com                           #Survey - Neat Scanner
-nicequest.com                                   #Survey - Nicequest
-survey.nicequest.com                            #Survey - Nicequest
-research.net                                    #Survey - Research
-d2bnxibecyz4h5.cloudfront.net                   #Survey - Survey Gizmo
-surveygizmo.com                                 #Survey - Survey Gizmo
-surveyking.com                                  #Survey - Survery Kings
-survey-kings.com                                #Survey - Survery Kings
-surveymonkey-assets.s3.amazonaws.com            #Survey - Survey Monkey
-surveymonkey.com                                #Survey - Survey Monkey
-surveymonkey.de                                 #Survey - Survey Monkey
-usabilla.com                                    #Survey - Survey Monkey (usabilla)
-survicate.com                                   #Survey - Survicate
-survey.webrootanywhere.com                      #Survey - Webroot
-yesinsights.com                                 #Survey - Yes Insights
-questionpro.com                                 #Survey - Question Pro
-surveys.questionpro.com                         #Survey - Question Pro
+brazzerssurvey.com                                      #Survey
+inmoment.com                                            #Survey
+lb.polldaddy.com                                        #Survey
+opinionbar.com                                          #Survey
+polldaddy.com                                           #Survey
+poll.fm                                                 #Survey
+riddle.com                                              #Survey
+samplicio.us                                            #Survey
+secure.polldaddy.com                                    #Survey
+survey.io                                               #Survey
+surveyrouter.com                                        #Survey
+tns-gallup.dk                                           #Survey
+ups.surveyrouter.com                                    #Survey
+you-cubez.com                                           #Survey
+amdsurveys.com                                          #Survey - AMD
+d2yyd1h5u9mauk.cloudfront.net                           #Survey - Delighted
+delighted.com                                           #Survey - Delighted
+getfeedback.com                                         #Survey - Get Feedback
+websites.cdn.getfeedback.com                            #Survey - Get Feedback
+hpsasudf.ext.hp.com                                     #Survet - HP
+survey.instagram.com                                    #Survey - Instagram
+iteratehq.com                                           #Survey - Iterate
+globaltestmarket.com                                    #Survey - Life Points
+lifepointspanel.com                                     #Survey - Life Points
+demographics.neat.com                                   #Survey - Neat Scanner
+nicequest.com                                           #Survey - Nicequest
+survey.nicequest.com                                    #Survey - Nicequest
+research.net                                            #Survey - Research
+d2bnxibecyz4h5.cloudfront.net                           #Survey - Survey Gizmo
+surveygizmo.com                                         #Survey - Survey Gizmo
+surveyking.com                                          #Survey - Survery Kings
+survey-kings.com                                        #Survey - Survery Kings
+surveymonkey-assets.s3.amazonaws.com                    #Survey - Survey Monkey
+surveymonkey.com                                        #Survey - Survey Monkey
+surveymonkey.de                                         #Survey - Survey Monkey
+usabilla.com                                            #Survey - Survey Monkey (usabilla)
+survicate.com                                           #Survey - Survicate
+survey.webrootanywhere.com                              #Survey - Webroot
+yesinsights.com                                         #Survey - Yes Insights
+questionpro.com                                         #Survey - Question Pro
+surveys.questionpro.com                                 #Survey - Question Pro
 
-videodownloaderultimate.com                          #Browser Extension - Video Downloader Professional
+videodownloaderultimate.com                             #Browser Extension - Video Downloader Professional
 
 followistic.com                                         #Webpages - Email Notifications
 api.followistic.com                                     #Webpages - Email Notifications
@@ -139,10 +140,9 @@ powr.io                                                 #Webpages - Social Media
 browser-update.org                                      #Webpages - Checks Browser Version
 accountkit.com                                          #Webpages - Login to an existing accounts on other sites
 sdk.snapkit.com                                         #Webpages - Login to an existing accounts on other sites
+images.dmca.com                                         #Webpages - Logo (Digital Millennium Copyright Act)
 copypoison.com                                          #Webpages - Prevent copying of text on a page
 speakpipe.com                                           #Webpages - Send audio messages over websites
-
-images.dmca.com                                         #Webpages - Logo (Digital Millennium Copyright Act)
 
 cc.cdn.civiccomputing.com                               #Cookie Consent / Control
 cdn.cookielaw.org                                       #Cookie Consent / Control
@@ -193,6 +193,7 @@ program.avast.com                                       #Antivirus   Avast
 tuneup.avast.tools.avcdn.net                            #Antivirus   Avast
 tuneup.engine.avcdn.net                                 #Antivirus   Avast
 uupdate.avast.com                                       #Antivirus   Avast
+assets-client.avgbrowser.com                            #Antivirus     AVG  Browser
 avgbrowser.com                                          #Antivirus     AVG  Browser
 browser-update.avg.com                                  #Antivirus     AVG  Browser
 ext-update.avgbrowser.com                               #Antivirus     AVG  Browser
@@ -309,10 +310,11 @@ liveupdate.gocyberlink.com                              #Cyberlink
 detect.cyberlink.com                                    #Cyberlink
 dna.cyberlink.com                                       #Cyberlink
 liveupdate.cyberlink.com                                #Cyberlink
+content.dellsupportcenter.com                           #Dell  Support Center
+dellsupportcenter.com                                   #Dell  Support Center
 apidp.dell.com                                          #Dell
 cloud.dell.com                                          #Dell
 dellincca.dell.com                                      #Dell
-dellsupportcenter.com                                   #Dell
 dellupdater.dell.com                                    #Dell
 df-staging.dell.com                                     #Dell
 update.backup.techconcierge.dell.com                    #Dell

@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 8/12/2020  00:07  (12:07 AM)  - Central Standard Time
+# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -70,7 +70,12 @@ p.sfx.ms                                    #App     OneDrive
 storage.live.com                            #App     OneDrive
 onenote.net                                 #App   OneNote
 cdn.onenote.net                             #App   OneNote
+microsoft-my.sharepoint-df.com              #App     SharePoint
+microsoft.sharepoint-df.com                 #App     SharePoint
+msft-my.spoppe.com                          #App     SharePoint
+msft.spoppe.com                             #App     SharePoint
 sharepoint.com                              #App     SharePoint
+sharepoint-df.com                           #App     SharePoint
 sharepointonline.com                        #App     SharePoint
 spoppe.com                                  #App     SharePoint
 static2.sharepointonline.com                #App     SharePoint
@@ -478,6 +483,7 @@ wer.microsoft.com
 wfbdevicemanagementprod.blob.core.windows.net
 widgets.membership.s-msft.com
 widgets.services.microsoft.com
+win10-trt.msedge.net
 wip.mam.manage.microsoft.com
 woodgrovebank.com
 xboxab.com
