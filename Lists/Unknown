@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -81,18 +81,27 @@ ateoildim.club              #(Either Ad or Malware)
 besa-mad.com                #(Either Ad or Malware)
 ca.clcknads.pro             #(Either Ad or Malware)
 cdn.clicksondelivery.com    #(Either Ad or Malware)
+commercialvalue.org         #(Either Ad or Malware)
 edvfwlacluo.com             #(Either Ad or Malware)
+gadsatz.com                 #(Either Ad or Malware)
 mugleafly.com               #(Either Ad or Malware)
 naneso.com                  #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
+onsertilyas.club            #(Either Ad or Malware)
 router.adhoc4.net           #(Either Ad or Malware)
+rpjzlykhkdc.com             #(Either Ad or Malware)
+svclqyctlijue.com           #(Either Ad or Malware)
+vggxxhton.com               #(Either Ad or Malware)
 xadsmart.com                #(Either Ad or Malware)
+zjkypuacaawx.com            #(Either Ad or Malware)
 ads.red                     #(Either Ad or Malware)
 aoycwla4enxzvkh.ru          #(Either Ad or Malware) - ads.red
 cdn.advgalaxy.com           #(Either Ad or Tracker)
 z.cdn.advgalaxy.com         #(Either Ad or Tracker)
 ueopf.com                   #(Either Ad or Tracker)
+
+
 a1955.b.akamai.net
 adoric-om.com
 adscheaper.com
@@ -192,6 +201,7 @@ api.timeforagreement.com            #From known malware/scam -- awajl.hoesforyou
 timeforagreement.com                #From known malware/scam -- awajl.hoesforyou.net --> track.clickchewer.com --> unitedflings.com --> 'timeforagreement.com'
 benrubigallery.com             #Looks like normal site. Google links redirect to malware domains
 126.am
+bowot.com
 e2ertt.com
 geniusdisplay.com
 itpatratr.com
@@ -215,6 +225,7 @@ wideopenmediagroup.com           #Wide Open Media Group
 mailing.wideopenmediagroup.com   #Wide Open Media Group
 affex.org                        #Zieltraffic (Defunct?)
 inkshouse.com
+maropost.com
 mix-uni.ru
 scarabresearch.com
 s.w.org
@@ -278,6 +289,7 @@ z-m.c10r.facebook.com                                     #Facebook
 brainkeeper.gw-ec.com                                        #GearBest
 cur.gearbest.com                                             #GearBest
 oss.hpconnected.com                                       #HP
+engage.hulu.com                                             #Hulu
 osfsr.lenovomm.com                                    #Lenovo
 methodmi.com                                        #Methodmi
 bidsimulator.com                                    #Methodmi
@@ -386,6 +398,7 @@ t.motrixi.com
 tockance.com
 trackuhub.com
 universal.iper2.com
+yeshen.com
 zrcir.com
 
 
@@ -782,6 +795,8 @@ incapdns.net                                  #Incapsula (Site Security)
 n2e79bn.x.incapdns.net                        #Incapsula (Site Security)
 rin7m.x.incapdns.net                          #Incapsula (Site Security)
 acp-magento.appspot.com                      #InstantSearch+
+lglime.com                                      #LG
+static-avc.lglime.com                           #LG
 media-akam.licdn.com                           #LinkedIn - Most have single pixel (tracker), some have images
 autodiscover.cityofluverne.org             #Luverne - City
 hdwvmasogicqg.isd2184.net                  #Luverne - Public School District
@@ -837,7 +852,6 @@ amarillo.sb.roku.com                               #Roku TV
 amoeba-plus.web.roku.com                           #Roku TV
 amoeba.web.roku.com                                #Roku TV
 cloudservices.roku.com                             #Roku TV
-display.ravm.tv                                    #Roku TV
 keysvc.cs.roku.com                                 #Roku TV
 liberty.sb.roku.com                                #Roku TV
 liberty.sw.roku.com                                #Roku TV

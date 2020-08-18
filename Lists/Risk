@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -38,8 +38,9 @@ kornet.net                                    #ISP    Worst Spam     Oct. 2019
 moldtelecom.md                                #ISP    Worst Spam     Oct. 2019
 airtel.in                                     #ISP    Worst Spam     Feb. 2019
 
-
 aapks.com                                     #APK Hosting (Android Apps)
+
+bitbucket.io                                  #Code Hosting - Hosts a lot of malware / scam sites
 
 apponic.com                                   #Software Hosting
 avanquest.com                                 #Software Hosting
@@ -65,7 +66,6 @@ taskernet.com                                 #Android [APP]  Tasker - Allows sc
 
 localhost.run                                 #Share Localhost
 showoff.io                                    #Share Localhost
-
 
 
 #  Domains Used On/By Infected Machines  (Potentially)

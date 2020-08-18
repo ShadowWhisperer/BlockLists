@@ -1,6 +1,6 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -69,6 +69,7 @@ timeonegroup.com
 ########################################
 #  Direct Marketing
 ########################################
+adnetiks.com               #Adnetiks
 clickfirstmarketing.com    #Click First Marketing
 digitaldonut.com           #Digital Doughnut
 digitaldoughnut.net        #Digital Doughnut
@@ -97,7 +98,6 @@ i.frog.ink                     #InkFrog
 imgs.inkfrog.com               #InkFrog
 inkfrog.com                    #InkFrog
 open.inkfrog.com               #InkFrog
-thmb.inkfrog.com               #InkFrog
 ajax.salefreaks.com               #SaleFreaks
 salefreaks.com                    #SaleFreaks
 sellercore.com                      #SellerCore
@@ -204,9 +204,10 @@ turnto.com                         #TurnTo
 static.www.turnto.com              #TurnTo
 yopify.com                         #Yopify
 vendio.com                         #Vendio
-leadpages.com
 leadpages.co
+leadpages.com
 leadpages.net
+lpages.co
 
 
 #############################
@@ -275,6 +276,13 @@ zentail.com                     #Zentail
 act-on.com
 novaonx.com
 markethero.io
+
+
+##############################
+# Marketing Research
+##############################
+irquest.com       #Interrogare
+interrogare.de    #Interrogare
 
 
 ##############################
@@ -415,6 +423,10 @@ sendinblue.com         #Email & SMS
 marsello.com           #Email, SMS, Popups
 app.marsello.com       #Email, SMS, Popups
 ########################
+cdn.emailer.emfluence.com     #Emfluence
+d181jrjebmi235.cloudfront.net #Emfluence
+emailer.emfluence.com         #Emfluence
+########################
 getsitecontrol.com     #Widgets - Website conversion optimization
 ########################
 repeatreturns.com      #Repeat Returns
@@ -424,6 +436,7 @@ loyalsys.io            #Customer Loyalty
 ########################
 bluehornet.com         #Digital Marketing
 episerver.net          #Digital Marketing
+mapp.com               #Digital Marketing
 ########################
 acoustic.com           #Acoustic
 mkt81.net              #Acoustic
@@ -431,6 +444,7 @@ altrooz.com            #Altrooz
 beelert.com            #Beelert
 contently.com          #Contently
 platform.linkedin.com  #LinkedIn
+sociabble.com          #Sociabble
 103bees.com
 1s3h4f7sl.com
 acgmarketing.com

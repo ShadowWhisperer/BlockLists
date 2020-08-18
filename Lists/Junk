@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -208,6 +208,7 @@ tiktokv.com                                          #App  TikTok
 v16-tiktokcdn-com.akamaized.net                      #App  TikTok
 
 admuncher.com                                        #Software - AdMuncher
+appsgeyser.com                                       #Software - AppsGeyser  (App Creator)
 curseapp.net                                         #Software - Curse       (In-Game Voice Chat)
 dashlane.com                                         #Software - Daskline    (Password Manager)
 flipboard.com                                        #Software - Flipbloard
@@ -302,10 +303,12 @@ virtualave.net                                       #Web Hosting
 xrea.com                                             #Web Hosting
 xtreemhost.com                                       #Web Hosting
 
-cdn.ebaumsworld.com                                  #Website - eBaum's World (Contain's adult content)
-ebaumsworld.com                                      #Website - eBaum's World (Contain's adult content)
-images.ebaumsworld.com                               #Website - eBaum's World (Contain's adult content)
+cdn.ebaumsworld.com                                  #Website - eBaum's World (Contains adult content)
+ebaumsworld.com                                      #Website - eBaum's World (Contains adult content)
+images.ebaumsworld.com                               #Website - eBaum's World (Contains adult content)
 rt.com                                               #Website - RT (News Site operated by Russian Gov.)
+en.vidmo.org                                         #Website - Vidmo (Contains adult videos)
+vidmo.org                                            #Website - Vidmo (Contains adult videos)
 
 angellrackets.com                                    #Website Builder
 bitballoon.com                                       #Website Builder

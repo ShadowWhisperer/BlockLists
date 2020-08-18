@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -235,6 +235,7 @@
 108434.hittail.com
 10870841.collect.igodigital.com
 10896.engine.mobileapptracking.com
+10965948.collect.igodigital.com
 10a570de64d054322bdc3229f0d37e54.api.appsee.com
 10duke.com
 10.pixel.parsely.com
@@ -3380,6 +3381,7 @@ a10222.actonsoftware.com
 a10309001.actonsoftware.com
 a10442.actonsoftware.com
 a1069.actonsoftware.com
+a10829270344.cdn.optimizely.com
 a-10.admetric.io
 a11020.actonsoftware.com
 a1139.oadz.com
@@ -3569,6 +3571,7 @@ a23732.actonsoftware.com
 a23786.actonsoftware.com
 a23808.actonsoftware.com
 a2384.actonsoftware.com
+a23874797.cdn.optimizely.com
 a23874.actonsoftware.com
 a23879.actonsoftware.com
 a23923.actonsoftware.com
@@ -4781,6 +4784,7 @@ aestats.microsoft.com
 aetna-analytics.user-segment.mathtag.com
 a.et.nytimes.com
 aetuim-uncategorized.t.domdex.com
+aetv.hb.omtrdc.net
 aeuuoics.micpn.com
 a.everesttech.net
 a.evergage.com
@@ -8607,6 +8611,7 @@ api.typeform.com
 api-uc.growingio.com
 api.uk.exponea.com
 api-ulta.rfksrv.com
+api.umbel.com
 api.umeng.com
 api.unacast.com
 api.upgrade.ppcprotect.com
@@ -8777,6 +8782,7 @@ app7.brightedge.com
 app7.staging.brightedge.com
 app8.brightedge.com
 app9.brightedge.com
+appadhoc.com
 app.adjust.com
 app.adjust.io
 app.admetrics.io
@@ -13377,6 +13383,7 @@ cam4.firebaseio.com
 cambiumconsulting.agilecrm.com
 cambly.firebaseio.com
 cambridgecollege.evergage.com
+cam.demdex.net
 camden.logs.roku.com
 ca-media.contentanalyticsinc.com
 camfind.netseer.com
@@ -13694,6 +13701,7 @@ ccm-test.urbaninsight.com
 c.cnzz.com
 c.coll2onf.com
 c.company-target.com
+c.contentsquare.net
 c.conversionlogic.net
 ccpaairflow.wbinsights.com
 ccpa-service.sp-prod.net
@@ -14285,6 +14293,7 @@ cdn.useproof.com
 cdn.userleap.com
 cdn.userreplay.net
 cdn.userreport.com
+cdn.userty.com
 cdn.uservoice.com
 cdn-us.mouseflow.com
 cdn-v3.conductrics.com
@@ -17045,9 +17054,11 @@ collector-pxzkfhwd1c.px-cloud.net
 collector.pyze.com
 collector.retailcrm.pro
 collector.roistat.com
+collector-roku.tvsquared.com
 collectors.au.sumologic.com
 collector.schibsted.io
 collector.scopely.io
+collector-service.api.lbry.tv
 collector-single-fastly.a.pxi.pub
 collectors.sumologic.com
 collector-staging.lightstep.com
@@ -17429,6 +17440,8 @@ content.securedvisit.com
 content.shareaholic.com
 content.sharethrough.com
 contents.igaworks.com
+contentsquare.com
+contentsquare.net
 content.ss-omtrdc.net
 content-staging.sharethrough.com
 content.swrve.com
@@ -18686,6 +18699,7 @@ count999.51yes.com
 countactivedeadlinesecondsad.datadoghq.com
 count.adpower.cn
 count.advanseads.com
+count.appadhoc.com
 count.brat-online.ro
 count.channeladvisor.com
 count.cnblogs.com
@@ -19583,6 +19597,7 @@ d1igp3oop3iho5.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
 d1vl8wytztdz.cloudfront.net
+d1wbpdtjl5.execute-api.us-east-1.amazonaws.com
 d1z2jf7jlzjs58.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
@@ -21948,6 +21963,7 @@ discoverydev.branch.io
 discovery.groundtruth.com
 discovery.realtime.email
 discovery.ulink.adjust.com
+dis.criteo.com
 discuss.appsflyer.com
 discussions.returnpath.com
 discuss.newrelic.com
@@ -23725,6 +23741,7 @@ entertainmentonebeneluxnl.solution.weborama.fr
 entertainment.t.domdex.com
 entitlements.kochava.com
 entity-search.service.newrelic.com
+entrinsik.com
 entry.adrizer.com
 envision.links.channelintelligence.com
 envision.pricespider.com
@@ -24357,6 +24374,7 @@ experian-prod.saas.appdynamics.com
 experience.fullstory.com
 experiencekissimmee.blueconic.net
 experiences-api.reevoo.com
+experiment.appadhoc.com
 experimentation.us.api.intuit.com
 expertanswercenter.techtarget.com
 expert.branch.io
@@ -27357,6 +27375,7 @@ guthyrenker.touchcommerce.com
 gv1.xdrig.com
 gvc-app.quantummetric.com
 gve-r.tlnk.io
+g.vev.io
 gvrdlhyx.micpn.com
 gvzlthudczksuymongaw8uvhx36j41509474760.nuid.imrworldwide.com
 gwallcheck.api-alliance.com
@@ -29731,6 +29750,7 @@ info.redsheriff.com
 infor.hit.gemius.pl
 info.richrelevance.com
 informa.blueconic.net
+informamarkets.com
 informanalysis.privy.com
 inform-api.ensighten.com
 informatica.com
@@ -31303,6 +31323,7 @@ kb.2cnt.net
 kb.adacts.com
 kb.agilecrm.com
 kbb.ads.placeiq.com
+kbb.demdex.net
 kb.bluekai.com
 kbbmotorcycleheader294526713134.s.moatpixel.com
 kb.cuebiq.com
@@ -37166,6 +37187,7 @@ mm.atdmt.com
 mma.touchcommerce.com
 mmaweekly-community.spot.im
 mmdatarpt.macromill.com
+mmdmakemydealcom.112.2o7.net
 mmedia.saas.appdynamics.com
 mmi.cn.miaozhen.com
 mmi.terapeak.com
@@ -38093,6 +38115,7 @@ mvideo.solution.weborama.fr
 mvlrp3gc.micpn.com
 mvmd.blueconic.net
 mvmmknh5.micpn.com
+mvpindex.com
 mvp.mediav.com
 mvv.logger.baofeng.com
 mvyfgd.customlinks.appsflyer.com
@@ -39559,6 +39582,7 @@ notori.oewabox.at
 notrack.specificclick.net
 notrack.vindicosuite.com
 notyouraverage.iljmp.com
+nova.collect.igodigital.com
 novatracking.superawesome.com
 novisign.agilecrm.com
 novocellsemi.actonsoftware.com
@@ -45279,6 +45303,7 @@ ripffk3itywzmho8uawkwmeicg0hf1516625317.nuid.imrworldwide.com
 ripmediagroup.id-visitors.com
 riptapparel.privy.com
 ris.api.iris.microsoft.com
+riskanalytics.com
 risk.app.incisivemedia.com
 riskbooks-prototype.incisivemedia.com
 risk.clearbit.com
@@ -47361,6 +47386,7 @@ scripts.demandbase.com
 scripts.foureyes.io
 scripts.ioam.de
 scripts.kissmetrics.com
+scripts.mymarketingreports.com
 scripts.opticalanalytics.io
 scripts.sophus3.com
 scripts.stage.kissmetrics.com
@@ -47426,6 +47452,7 @@ sdk-analytics.inner-active.mobi
 sdk-analytics.metaps.com
 sdk-analytics.reasonsecurity.com
 sdk-api-v1.singular.net
+sdk.appadhoc.com
 sdk.appnext.com
 sdk.appsflyer.com
 sdk.apptentive.com
@@ -48991,6 +49018,7 @@ siteimproveanalytics.com
 siteimproveanalytics.io
 siteimprove.com
 siteintercept.allegiancetech.com
+siteintercept.qualtrics.com
 site.johnlewis.com
 sitemanager.shoppertrak.com
 sitemgrapi.spa.dynatrace.com
@@ -54643,6 +54671,7 @@ stats.arbetarskydd.se
 stats.arencenter.org
 stats.areppim.com
 stats.argang.de
+stats.arinet.com
 stats.arnes.si
 stats.artchoral.org
 stats.articatech.net
@@ -58573,6 +58602,7 @@ tc.maxmind.com
 tcmsearch.markmonitor.com
 t.cnzz.com
 t.contentinsights.com
+t.contentsquare.net
 t.convertcart.com
 tcp-app.quantummetric.com
 tcp-sync.quantummetric.com
@@ -59566,6 +59596,8 @@ t.mail.disneydestinations.com
 tmam-app.quantummetric.com
 tmam.quantummetric.com
 t.mashable.com
+tmbi.demdex.net
+tmbi.tt.omtrdc.net
 tmcamex.helpshift.com
 tmcmworldwideusmcm3846t.btttag.com
 t.medialytics.com
@@ -63743,6 +63775,7 @@ tractionize.com
 tractiontools.agilecrm.com
 tractorsupply-app.quantummetric.com
 tractorsupply-sync.quantummetric.com
+tractorsupply.tt.omtrdc.net
 tradassermentee.agilecrm.com
 tradedesk-ues.pinsightmedia.com
 tradelikeapro.justclick.ru
@@ -64329,6 +64362,7 @@ truoptik.com
 trustamerica.loggly.com
 truste.c3metrics.com
 trustedmediabrands.grapeshot.co.uk
+trustedmediabrands.sc.omtrdc.net
 trust.newrelic.com
 trust.turn.com
 trustx.digitru.st
@@ -64701,6 +64735,7 @@ ubimoinappdisplay34181600889.s.moatpixel.com
 ubiqcookie.pricespider.com
 ubiq-tests.proxem.com
 ubisoftinternational.demdex.net
+ubm-us.net
 ubtkilpp.micpn.com
 uc6mc0vesbs2sugtuhuewq7xxynim1507564250.nuid.imrworldwide.com
 ucare.infogix.com
@@ -64870,6 +64905,7 @@ uluhonolulu.evergage.com
 ulv.statistics.aatkit.com
 um57s.voluumtrk3.com
 umamistreet.analytics.qlook.net
+umbel.com
 umb.evergage.com
 umbrella.us-east-1.stinger-ad.bidr.io
 umeng.co
@@ -65339,6 +65375,7 @@ users.techtarget.com
 usersurge.com
 usertesting.com
 usertesting.trackinglibrary.prodperfect.com
+userty.com
 useruploads.visualwebsiteoptimizer.com
 userverlua-gce-jp-1.bswx-sandbox.iponweb.net
 userverlua-gce-or-1.bswx-sandbox.iponweb.net
@@ -66019,6 +66056,7 @@ view.mediav.com
 view.navdmp.com
 view.outboundmarketing.markmonitor.com
 view-prod.ad.singular.net
+view.s11.exacttarget.com
 view.sisense.com
 views.moengage.com
 viewsonic.links.channelintelligence.com

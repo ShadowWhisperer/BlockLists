@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1326,6 +1326,7 @@
 5000banners.com
 500-100349.link.iwanttodeliver.com
 5015.xg4ken.com
+5095325.fls.doubleclick.net
 50.video-ak.cdn.spotify.com
 5173.adpower.cn
 5173.com.adpower.cn
@@ -5441,6 +5442,7 @@ ad.exagame.net
 adex.basebanner.com
 adexchange.djaxadserver.com
 adexchangeprediction.adk2x.com
+adexchangesrv.com
 ad.excite.co.jp
 adex.cloud
 adexc.net
@@ -7009,6 +7011,7 @@ adrianevolpe.multimania.com
 ad.rich1.adbn.ru
 adright.adk2x.com
 adright.co
+adright.com
 ad.rincondelvago.com
 ad.ringtoneking.de
 adrino.pl
@@ -17048,6 +17051,7 @@ api.publishers.adasiaholdings.com
 api-publishers.propellerads.com
 api.pubmatic.com
 api.pubnative.net
+api.purpleads.io
 api.pursuanthealth.com
 api.push-ad.com
 api.pushcrew.com
@@ -17287,6 +17291,9 @@ app2.intellicontact.com
 app2.mopub.com
 app3.push-ad.com
 app4.intellicontact.com
+app-ab40.marketo.com
+app-abb.marketo.com
+appab.fixelapp.com
 appad.adiquity.com
 app.adespresso.com
 app-adforce.jp
@@ -17320,7 +17327,6 @@ app-backend.adzerk.com
 app.bannerflow.com
 appbaqend.com
 app.beta.avocet.io
-app.boa.exct.net
 appboy.com
 appbrain.com
 app.carambo.la
@@ -17425,7 +17431,6 @@ app.outbrain.org
 app.ownlocal.com
 app.pardot.com
 app.picreel.com
-app.poc.exct.net
 app.popin.cc
 app.promo.tubemogul.com
 app.pubserver.adhood.com
@@ -17438,18 +17443,8 @@ approanmedia.affise.com
 approval.qwapi.com
 app.rtb.adhood.com
 app.rtbiq.com
-app.s10.exct.net
-app.s11.exct.net
-app.s1.exct.net
-app.s1.qa1.exct.net
-app.s1.qa3.exct.net
-app.s2.qa1.exct.net
-app.s4.exct.net
-app.s50.exct.net
 apps6.cointraffic.io
 apps6-dev.cointraffic.io
-app.s6.exct.net
-app.s7.exct.net
 apps.admitad.com
 apps.admob.com
 apps.adtz.com
@@ -17521,7 +17516,6 @@ apps.zanox.com
 app.taboola.com
 apptap.com
 apptap-interactions.elasticbeanstalk.com
-app.test.exct.net
 app.theadx.com
 apptivation.adtheorent.com
 apptocash.com
@@ -19708,6 +19702,7 @@ banners.clubworldgroup.com
 banners.com
 banners.com.br
 banners.compartment.se
+banners.compassion.com
 banners.content.collectmyclips.com
 banners.contentfeed.net
 banners.content.rude.com
@@ -24072,7 +24067,6 @@ class-svr2.advance.net
 class-svr3.advance.net
 classsyr-dev.advance.net
 classuplab.os.tc
-cl.boa.exct.net
 clcbench.chi.cedexis.com
 clcbench.slc.cedexis.com
 clck.adintend.com
@@ -24083,6 +24077,7 @@ clc.stackoverflow.com
 cld.edg.startappservice.com
 cldfm.adtdp.com
 cleanmedia.net
+clearadnetwork.com
 clearbid.uberads.com
 clearbrain.com
 clearcabbage.com
@@ -24099,7 +24094,6 @@ cleverads.vn
 clevernt.com
 cleverpush.com
 cle.vid.springserve.com
-cl.exct.net
 clg.doublemax.net
 c.liadm.com
 clic2pub.adk2x.com
@@ -24132,7 +24126,6 @@ clickeu.basebanner.com
 clickeu.continular.com
 clickeu.genorithm.com
 click-euro.acuityplatform.com
-click.exct.net
 click-haproxy.supersonicads.com
 clickheat.topbucks.com
 clickhk.taboola.com
@@ -24382,23 +24375,7 @@ cloud-video.unrulymedia.com
 cloud.video.unrulymedia.com
 cloudx.adverticum.net
 clovenmedia.affise.com
-cl.s100.exct.net
-cl.s10.exct.net
-cl.s11.exct.net
-cl.s1.qa1.exct.net
-cl.s1.qa2.exct.net
-cl.s1.qa3.exct.net
-cl.s2.qa1.exct.net
-cl.s2.qa2.exct.net
-cl.s2.qa3.exct.net
-cl.s4.exct.net
-cl.s50.exct.net
-cl.s5.exct.net
-cl.s6.exct.net
-cl.s7.exct.net
-cl.s8.exct.net
 cls.vrvm.com
-cl.test.exct.net
 cltr.vrtzads.com
 clubentredeux.multimania.com
 cluber.os.tc
@@ -26691,6 +26668,7 @@ d.cf.msas.media.net
 dc.impact-ad.jp
 dcinfos.eu-west-1.elasticbeanstalk.com
 dckappa.widespace.com
+dclk-match.dotomi.com
 dco-ads.adsrvr.org
 dco.advertising.com
 dco.atomex.net
@@ -27809,6 +27787,7 @@ display.mgmt.xad.com
 display.monarchads.com
 display-onboarding.xad.com
 display.online-adnetwork.com
+display.ravm.tv
 displayrtb.monarchads.com
 displaytrack.fuel451.com
 display.tubemogul.com
@@ -29915,18 +29894,7 @@ ers.ero-advertising.com
 ert.adman.gr
 ertise.com
 eruegjil.12gbfree.com
-e.s10.exct.net
-e.s11.exct.net
-e.s1.exct.net
-e.s1.qa1.exct.net
-e.s1.qa3.exct.net
-e.s2.exct.net
 es-419.tubemogul.com
-e.s4.exct.net
-e.s50.exct.net
-e.s6.exct.net
-e.s7.exct.net
-e.s8.exct.net
 es.ad4mat.net
 es.adledge.com
 es.ad.lgsmartad.com
@@ -31499,6 +31467,8 @@ fitzacker.os.tc
 five.cdn.auditude.com
 fiveppc.adspirit.net
 fixedpos.advertserve.com
+fixel.ai
+fixelapp.com
 fixelwebapp.us-east-1.elasticbeanstalk.com
 fiyhacker.os.tc
 fizhacker.os.tc
@@ -32660,6 +32630,7 @@ getsatisfaction.com
 getscorecash.com
 getstarted.infolinks.com
 gettrk.vidible.tv
+get.truex.com
 getui.com
 get.unbounce.com
 getup.valueclick.com
@@ -33918,6 +33889,7 @@ hm.adform.net
 hmb8qt.focot.focus-outdoors.com
 hm.console.xtify.com
 hm.inq.com
+hm.jeinvegpool.com
 hm.media.net
 h.mnet-ad.net
 hmnlta.adk2.co
@@ -34148,6 +34120,7 @@ h.switchadhub.com
 hsxserver-prod.elasticbeanstalk.com
 htimg.ebis.ne.jp
 ht.indexww.com
+htlb.casalemedia.com
 html5.admicro.vn
 html5.adsrvr.org
 html5.host.bannerflow.com
@@ -34906,7 +34879,6 @@ image.cp.ligatus.com
 image-dev.advance.net
 image.directadvert.ru
 image.espotting.com
-image.exct.net
 image.fiksu.com
 imagegateway-env.eu-west-2.elasticbeanstalk.com
 image.gimbal.com
@@ -34937,32 +34909,22 @@ images100.affili.net
 images120.affili.net
 images180.affili.net
 images1.lavanetwork.net
-image.s1.qa1.exct.net
-image.s1.qa2.exct.net
-image.s1.qa3.exct.net
 images1.taboola.com
 images2.blogads.com
-image.s2.qa1.exct.net
-image.s2.qa2.exct.net
-image.s2.qa3.exct.net
 images2.taboola.com
 images2.zemanta.com
 images.3lift.com
 images3.linkwithin.com
 images3.taboola.com
-image.s4.exct.net
 images4.linkwithin.com
 images4.taboola.com
 images50.affili.net
 images5.linkwithin.com
 images5.taboola.com
 images60.affili.net
-image.s6.exct.net
 images6.linkwithin.com
 images70.affili.net
-image.s7.exct.net
 images80.affili.net
-image.s8.exct.net
 images90.affili.net
 images9.engageya.com
 images.adiquity.com
@@ -36632,6 +36594,7 @@ je.cpcempower.com
 jeeves.flycast.com
 jeffreytucker-img.rbl.ms
 jeh1uu.focot.focus-outdoors.com
+jeinvegpool.com
 jekyll.veeseo.com
 jelkiiel.12gbfree.com
 jen01.zemanta.com
@@ -38264,21 +38227,6 @@ linear-dev.dev.linear.aws.fwmrm.net
 linear-prd.prd.linear.aws.fwmrm.net
 linear-stg-one11.stg.linear.aws.fwmrm.net
 lineitems.storage.adform.com
-line.s10.exct.net
-line.s11.exct.net
-line.s1.exct.net
-line.s1.qa1.exct.net
-line.s1.qa3.exct.net
-line.s2.qa1.exct.net
-line.s2.qa2.exct.net
-line.s2.qa3.exct.net
-line.s4.exct.net
-line.s50.exct.net
-line.s6.exct.net
-line.s7.exct.net
-line.s8.exct.net
-line.s9.qa3.exct.net
-line.test.exct.net
 lingerie-sexy.en-promo.com
 lingerie-sexy-homme.en-promo.com
 link4ads.com
@@ -40857,6 +40805,7 @@ mobpartner.mobi
 mobpowertech.com
 mobra.lockerdome.com
 mobrand.affise.com
+mobreach.com
 mobrider.com
 mobsai.affise.com
 mobsonic.affise.com
@@ -41007,6 +40956,7 @@ moon2.adriver.ru
 moon3.adriver.ru
 moonlighting-ad-instance.us-east-1.elasticbeanstalk.com
 moonlightramble.lockerdome.com
+mopedisods.com
 mopub-apac-bidder.manage.com
 mopub-bidder.ads.wish.com
 mopubbidder-east.extend.tv
@@ -42600,6 +42550,7 @@ notify.adleadevent.com
 notify.ads.wish.com
 notify.beap.gemini.yahoo.com
 notify.mgid.com
+notify.pushengage.com
 notify.traffic-media.co.uk
 notik.dsp.platform.io
 notozzieguillen.lockerdome.com
@@ -42854,6 +42805,7 @@ nursingcenter.advertserve.com
 nutrush.tresensa.com
 nuttyorganization.com
 nuvvbuzs.12gbfree.com
+nuxad.com
 nv.5.p2l.info
 nv9btt.focot.focus-outdoors.com
 nv.cpcempower.com
@@ -43633,6 +43585,7 @@ onboarding.pushowl.com
 onbuy.pxf.io
 oncall.tubemogul.com
 onclickads.net
+onclickalgo.com
 onclick.dashboard.propellerads.com
 onclickperformance.com
 onclkds.com
@@ -47140,6 +47093,7 @@ preview-vip.fwmrm.net
 preview.yieldmo.com
 previousplayground.com
 previouspotato.com
+p.rfihub.com
 prg3429.smartadserver.com
 prg3431.smartadserver.com
 prg8.smartadserver.com
@@ -48192,6 +48146,7 @@ purch-sync.go.sonobi.com
 purch.sync.go.sonobi.com
 puresexe.multimania.com
 purifydigital.affise.com
+purpleads.io
 purple.pxf.io
 pursuanthealth.com
 puserving.com
@@ -48290,7 +48245,6 @@ pventures.affise.com
 pvf.tubemogul.com
 p.videologygroup.com
 pvmax.tenmax.io
-pvmiq.exct.net
 pv-new.awin1.com
 pvnsolutions.com
 pv.pubexchange.com
@@ -48896,6 +48850,7 @@ ravalads.com
 ravenna-admit-production.elasticbeanstalk.com
 ravenna-hub-production.elasticbeanstalk.com
 raven.pek1.pulse.inmobi.com
+ravm.tv
 rawlings.lockerdome.com
 r.axf8.net
 rayban-uk.notifications-e1.veinteractive.com
@@ -50550,6 +50505,7 @@ rugunbls.12gbfree.com
 ruidosonews.localiq.com
 r.uimserv.net
 ru.info.lgsmartad.com
+rukoval.com
 rules2.aatkit.com
 rules2.addapptr.com
 rules3.aatkit.com
@@ -50691,7 +50647,6 @@ s-106.algovid.com
 s-107.algovid.com
 s-108.algovid.com
 s-109.algovid.com
-s10.exct.net
 s10.hiadspaces.ero-advertising.com
 s10.hipaces.ero-advertising.com
 s10.his.ero-advertising.com
@@ -50754,7 +50709,6 @@ s1.czgde.adocean.pl
 s1.delfilt.adocean.pl
 s1.edipresse.adocean.pl
 s1-eu.adform.net
-s1.exct.net
 s1.fwmrm.net
 s1.gg.adocean.pl
 s1.gojobsru.adocean.pl
@@ -50975,7 +50929,6 @@ s4.ads.tradeads.eu
 s4.appbrain.com
 s4.bluestreak.com
 s4.buysellads.com
-s4.exct.net
 s4.hit.stat24.com
 s4.hit.stat.pl
 s4m.io
@@ -51062,7 +51015,6 @@ s6.ad.adocean.pl
 s6.bluestreak.com
 s6da.vidible.tv
 s6dl.vidible.tv
-s6.exct.net
 s6.novem.pl
 s6pc2p.focot.focus-outdoors.com
 s6.shinystat.com
@@ -51097,7 +51049,6 @@ s-78.predictvideo.com
 s7.adaces.ero-advertising.com
 s7.bluestreak.com
 s7c66wkh8k.com
-s7.exct.net
 s7.shinystat.com
 s7t.teads.tv
 s-80.algovid.com
@@ -51408,6 +51359,7 @@ savorystructure.com
 saxon.iad-03.appboy.com
 saxp.zedo.com
 sayhello.popunder.ru
+saymedia.com
 saymedia-useast.adnxs.com
 saymedia-uswest.adnxs.com
 saysidewalk.com
@@ -51529,6 +51481,7 @@ scratchsofa.com
 scratch-telemetry-s.us-east-1.elasticbeanstalk.com
 scrawnystart.com
 screechingfurniture.com
+screechingslip.com
 screenpopper.com
 screenshot.3lift.com
 screenshot.brandads.net
@@ -53470,6 +53423,7 @@ smallbusiness.maxpoint.com
 small.edgecast.bench.cedexis.com
 sma-rsw1.remote.extremereach.com
 sma-rsw2.remote.extremereach.com
+smart2cnjuh34jb.com
 smartadcheck.de
 smartads.bidagent.xad.com
 smartadserverapis.com
@@ -57308,6 +57262,7 @@ tkrecorder.aotter.net
 tkr.yieldmo.com
 tktracker.aotter.net
 tkx2-prod.anvato.net
+tkx.apis.anvato.net
 tl.adcocktail.com
 tlb.zedo.com
 t.lga.contextweb.com
@@ -57945,6 +57900,7 @@ trafficinside.adspirit.net
 trafficjunky.com
 trafficjunky.net
 traffic.kargo.com
+trafficmagnates.com
 trafficmanager.w55c.net
 traffic-media.co.uk
 trafficmoose.adk2x.com
@@ -59069,6 +59025,7 @@ urlrouter.us-west-2.elasticbeanstalk.com
 urls.admixer.net
 url-service-front-dev.us-east-2.elasticbeanstalk.com
 ursa-wrapper-prod.7dmzdeebic.us-east-1.elasticbeanstalk.com
+uruswan.com
 us01.adywind.com
 us01.rayjump.com
 us01.salmonads.com
@@ -60200,6 +60157,7 @@ vet-us-east-1.track.smaato.net
 v-eu.amazon-adsystem.com
 v-eu-preprod.amazon-adsystem.com
 veve.com
+veviopass.com
 vevlysingar.fo
 vewjesrqvi.mentalist.kameleoon.com
 v.extreme-dm.com
@@ -61193,9 +61151,6 @@ v.vungle.com
 vw.cpcempower.com
 v.webengage.com
 vw.hybrid.ai
-vw.s1.qa1.exct.net
-vw.s1.qa3.exct.net
-vw.s2.qa1.exct.net
 vwus.mmgl.cd.serving-sys.com
 vw.vrvm.com
 vx.adgear.com
@@ -62910,6 +62865,7 @@ www-goiowaawesome-com.cdn.ampproject.org
 www-google-com.cdn.ampproject.org
 www-hawkeyenation-com.cdn.ampproject.org
 www-interface.adriver.ru
+www-keloland-com.cdn.ampproject.org
 www-lhr1.awin1.com
 www-lhr1.zenaps.com
 wwwlinks.undertone.com
@@ -62993,6 +62949,7 @@ x3.extreme-dm.com
 x3r8jm.focot.focus-outdoors.com
 x3w7lvezss.com
 x4a72ybjx74.f3fd2.proxy.teads.tv
+x4pollyxxpush.com
 x7.adnxs.com
 x7xirtzmot.com
 x86adserve006.adtech.de
@@ -63151,6 +63108,7 @@ xml.media.net
 xml.mediashakers.com
 xml-merch.advance.net
 xml-mlive.advance.net
+xml.mobreach.com
 xmlmonetize.com
 xml.mopushy.com
 xml-njo.advance.net

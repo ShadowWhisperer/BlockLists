@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/13/2020  20:02  (8:02 PM)  - Central Standard Time
+# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -72,6 +72,7 @@ survey.io                                               #Survey
 surveyrouter.com                                        #Survey
 tns-gallup.dk                                           #Survey
 ups.surveyrouter.com                                    #Survey
+wenjuan.com                                             #Survey
 you-cubez.com                                           #Survey
 amdsurveys.com                                          #Survey - AMD
 d2yyd1h5u9mauk.cloudfront.net                           #Survey - Delighted
@@ -122,12 +123,13 @@ addnow.com                                              #Webpages - Social Media
 addthiscdn.com                                          #Webpages - Social Media
 addthis.com                                             #Webpages - Social Media
 addthisedge.com                                         #Webpages - Social Media
-v1.addthisedge.com                                      #Webpages - Social Media
 linksalpha.com                                          #Webpages - Social Media
 media.line.naver.jp                                     #Webpages - Social Media
 opensharecount.com                                      #Webpages - Social Media
+p.dlx.addthis.com                                       #Webpages - Social Media
 pluso.ru                                                #Webpages - Social Media
 s7.addthis.com                                          #Webpages - Social Media
+s9.addthis.com                                          #Webpages - Social Media
 share.pluso.ru                                          #Webpages - Social Media
 sharethis.com                                           #Webpages - Social Media
 sharethis.net                                           #Webpages - Social Media
@@ -135,6 +137,7 @@ static1.twitcount.com                                   #Webpages - Social Media
 static.zotabox.com                                      #Webpages - Social Media
 twitcount.com                                           #Webpages - Social Media
 uptolike.com                                            #Webpages - Social Media
+v1.addthisedge.com                                      #Webpages - Social Media
 zotabox.com                                             #Webpages - Social Media
 powr.io                                                 #Webpages - Social Media / Other Plugins
 browser-update.org                                      #Webpages - Checks Browser Version
@@ -170,6 +173,7 @@ webcontentassessor.com                                  #Cookie Consent / Contro
 
 chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
+use-application-dns.net                                 #Alt DNS - FireFox (Doh)
 google-public-dns-a.google.com                          #Alt DNS - Google
 google-public-dns-b.google.com                          #Alt DNS - Google
 dns.google.com                                          #Alt DNS - Google
@@ -197,6 +201,7 @@ assets-client.avgbrowser.com                            #Antivirus     AVG  Brow
 avgbrowser.com                                          #Antivirus     AVG  Browser
 browser-update.avg.com                                  #Antivirus     AVG  Browser
 ext-update.avgbrowser.com                               #Antivirus     AVG  Browser
+installer.avgbrowser.com                                #Antivirus     AVG  Browser
 update.avgbrowser.com                                   #Antivirus     AVG  Browser
 isearch.avg.com                                         #Antivirus     AVG  Browser Search Engine
 update-tuneup.avg.com                                   #Antivirus     AVG    TuneUp
