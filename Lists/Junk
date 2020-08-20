@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
+# Updated: 8/19/2020  22:27  (10:27 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -229,6 +229,11 @@ appexnw.com                                          #Software - Pokki (Start Me
 pokki.com                                            #Software - Pokki (Start Menu)
 pokkinw.com                                          #Software - Pokki (Start Menu)
 real.com                                             #Software - RealPlayer
+cameras-cam.cdn.weatherbug.net                       #Software - Weatherbug
+cmselements.weatherbug.com                           #Software - Weatherbug
+cmsmini.weatherbug.com                               #Software - Weatherbug
+desk-story.pulse.weatherbug.net                      #Software - Weatherbug
+photos-photo.cdn.weatherbug.net                      #Software - Weatherbug
 weatherbug.com                                       #Software - Weatherbug
 weatherbug.net                                       #Software - Weatherbug
 remotewd.com                                         #Software - Western Digital (Cloud Storage)

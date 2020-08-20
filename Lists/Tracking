@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
+# Updated: 8/19/2020  22:27  (10:27 PM)  - Central Standard Time
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -6161,7 +6161,6 @@ analytics.ebene11.com
 analytics.ecampusnews.com
 analytics.eclick.vn
 analytics.eclipso.de
-analytics.ecosia.org
 analytics.ecvv.com
 analytics.edeveloperz.com
 analytics.edgekey.net
@@ -15185,7 +15184,6 @@ click.classaffiliates.com
 click.click2push.com
 click.clickbyte-media.com
 click.clickcommander.com
-click.clickkmobi.com
 click.clickmara.com
 click.clickmon.co.kr
 click.clickntrax.com
@@ -15571,7 +15569,6 @@ clicks.bannerboxes.com
 clicks.beap.ad.yieldmanager.net
 clicks.beap.bc.yahoo.com
 clicks.bestgrabit.com
-clicks.bestqualitysearch.com
 clicks.binarypromos.com
 clicks.binaryumpire.com
 clicks.birdieone.com
@@ -15692,7 +15689,6 @@ click.spiritemail.info
 click.spot.im
 click.spottt.com
 clicks.prizegrabtrack.com
-clicks.pureleads.com
 clicks.qlmedia.com
 clicks.quartzy.com
 clicks.rapide-info.co.uk
@@ -24215,6 +24211,7 @@ events.cid.samba.tv
 events-collector.spot.im
 event.scorecardresearch.com
 events.datadoghq.com
+events.data.microsoft.com
 events.dynamicyield.com
 events.emogi.com
 events.evergage.com
@@ -33211,7 +33208,6 @@ logging.vungle.com
 logging.wilmaa.com
 logging.windows.microsoft.com
 log.ginkobox.fr
-log.gitgrub.pro
 log.glenmarkpharma.com
 loggly.com
 log.gns.go.com
@@ -33228,7 +33224,6 @@ log.haberturk.com
 log.hailuojia.com
 log.haim.it
 log.haotukankan.com
-log.hashing.win
 log.hdtv.letv.com
 log.he2d.com
 log.hearingaidforums.com
@@ -33302,7 +33297,6 @@ loginbox.onelink.me
 login.bronto.com
 login-canary.flurry.com
 loginchecker.rightmessage.com
-log.incredibar-search.com
 login.cxense.com
 login-dev.resonate.com
 login-dev.saastest.appdynamics.com
@@ -33390,7 +33384,6 @@ log.laxmbgaqm.com
 log.leadbolt.net
 log.leadboxer.com
 log.lecicogne.net
-log.ledhenone.com
 log.legawa.com
 log.legnostorto.com
 log.lemonpi.io
@@ -33689,7 +33682,6 @@ logs.blackbay.com
 logs.boxcast.com
 logs.browserstack.com
 logs.buildomserv.com
-logs.bytefence.com
 logs.ca-central-1.amazonaws.com
 logs.cafewell.com
 log.scanmypost.co.uk
@@ -33810,7 +33802,6 @@ logs-prod.launch.liveramp.com
 logs.pursuanthealth.com
 logs.qcri.org
 logs.quality.qiku.com
-logs.reasonsecurity.com
 logs.redbus.com
 logs.rezora.com
 logs.roings.com
@@ -33840,7 +33831,6 @@ log.standsapp.org
 log.star.ele.me
 log.starhalo.mobi
 logstashpro-a.akamaihd.net
-log.staticsfs.host
 log.stat.kugou.com
 logstat.kugou.com
 log.stats.miui.com
@@ -34144,7 +34134,6 @@ logws1363.ati-host.net
 logws1399.ati-host.net
 log.ws.kaleidescape.com
 log.wtlogin.qq.com
-log.www.ledhenone.com
 log.www.uniquenessadministrative.info
 log.www.wpvvusso.xyz
 logw.xiti.com
@@ -42308,7 +42297,6 @@ pixel.ionos.fr
 pixel.ionos.it
 pixel.ionos.mx
 pixel.jahloo.de
-pixel.justresonter.com
 pixel.k8s.prod.blend.com
 pixel.kau.li
 pixel.keywee.co
@@ -47450,7 +47438,6 @@ sdk-analytics.inlocoengage.com
 sdk-analytics.inlocomedia.com
 sdk-analytics.inner-active.mobi
 sdk-analytics.metaps.com
-sdk-analytics.reasonsecurity.com
 sdk-api-v1.singular.net
 sdk.appadhoc.com
 sdk.appnext.com
@@ -48927,6 +48914,7 @@ simg.zergnet.com
 similarweb.com
 simpleanalytics.com
 simpleanalytics.io
+simple-counter.com
 simpledatingblog.privy.com
 simplereach.com
 simple-site.piwik.pro
@@ -53320,6 +53308,7 @@ stac.blueconic.net
 stacemployee.uservoice.com
 stackadapt.ads.placeiq.com
 stackdriver-prometheus.ua-ops-analytics.gcp.urbanairship.com
+stack-tracking.corpweb.aws.cudasvc.com
 stacy-keibler-pictures.powered-by.zango.com
 stadtbremerhaven.digidip.net
 staffhub.helpshift.com
@@ -53719,7 +53708,6 @@ stat.automobile.de
 stat.axelspringer.hu
 stat.axi-service.com
 stat.babsft.com
-stat.babylon-services.com
 stat.babywindvane.com
 stat.baehr-verpackung.de
 stat.baike.com
@@ -55437,7 +55425,6 @@ stats.ginkobox.fr
 stats.ginyas.com
 stats.gionee.com
 stats.gioneemobile.net
-stats.gitgrub.pro
 stats.gixioanalytics.com
 stats.glb.paypal.com
 stats.glenmarkpharma.com
@@ -55505,7 +55492,6 @@ stats.harlequin.com
 stats.harpercollins.com
 stats.harrods.com
 stats.hashcloak.com
-stats.hashing.win
 stats.hashtagcircle.com
 stats.hatchling.org
 stats.hatierchinois.fr
@@ -55737,7 +55723,6 @@ stats.lead.mysitehosted.com
 stats.leahcollection.com
 stats.leasy.dk
 stats.lecicogne.net
-stats.ledhenone.com
 stats.leexpertde.de
 stats.legnostorto.com
 stats.legrandorguedesvoix.ch
@@ -55821,7 +55806,6 @@ stats.matajiwa.com
 stats.matomy.com
 stats.matraxis.net
 stats.matthiashille.com
-stats.maxdevzone.com
 stats.maximumcash.com
 stats.maxplayers.net
 stats.maxxim.de
@@ -56438,7 +56422,6 @@ stats.staronecom.com
 stats.startbet.es
 stats.statbroadcast.com
 stats.staticindex.com
-stats.staticsfs.host
 stats.statsdatasrv.com
 stats.stats.fr
 stats.statsmyapp.com
@@ -56650,7 +56633,6 @@ stats.ustudio.com
 stats-us-tx-2.buysellads.com
 stats.uswitch.com
 stats.utahstateaggies.com
-stats.utyuytjn.com
 stats.valo.ai
 stats.vandalsweb.com
 stats.vanhack.ca
@@ -56799,7 +56781,6 @@ stats.wuper.de
 stats.wwd.com
 stats.wwitv.com
 stats.www.ibm.com
-stats.www.ledhenone.com
 stats.www.tksmiami.com
 stats.www.wpvvusso.xyz
 stats.wynk.in
@@ -58501,7 +58482,6 @@ taplytics.com
 tap.mxptint.net
 t.appsflyer.com
 tapresearch.com
-tap-s-2076851614.us-east-1.elb.amazonaws.compix-geo.revsci.net
 taptalks.tapad.com
 tap.tapad.com
 taptapnetworks.com
@@ -60747,7 +60727,6 @@ tracker.iws.vc
 tracker.jawcloud.co
 tracker.jcstracker.net
 tracker.jmpremierservices.com
-tracker.junbi-tracker.com
 tracker.kali.org
 tracker.kantan-access.com
 tracker.keywordintent.com
@@ -60833,7 +60812,6 @@ tracker.plasticlovers.co.uk
 tracker.platoon.navercorp.com
 tracker.play2048.net
 tracker.plerdy.com
-tracker.pomf.se
 tracker.pornoshara.tv
 tracker.pracuj.pl
 tracker.prd.bda.rtbf.be
@@ -60987,7 +60965,6 @@ tracker.winudf.com
 tracker.wordstream.com
 tracker.wps.cn
 tracker.wpserveur.net
-tracker.www.junbi-tracker.com
 tracker.x4w.co
 tracker.xelion.fr
 tracker.xend.com.ph
@@ -61117,7 +61094,6 @@ track.g4click.com
 track.g4s6.com
 track.ga
 track.gaconnector.com
-track.galaxy-love.com
 track.game18click.com
 track.gameanalytics.com
 track.gamesamba.com
@@ -62882,7 +62858,6 @@ track.motehole.com
 track.motormobile.com
 track.movad.net
 track.movieland.com
-track.mp3bars.com
 track.mp3vizor.com
 track.mrskininteractive.com
 track.mrs.org
@@ -63257,7 +63232,6 @@ track.savingshelper-adserver01.com
 track.saygames.io
 track.sbcrecycle.com
 track.sbslclick.com
-track.scanguard.com
 track.scanmyphones.com
 track.schoolyam.com
 track.scoota.co
@@ -64175,7 +64149,6 @@ trk.mymobibox.mobi
 trk.names.co.uk
 trk.networkcomputing.com
 trk.newearthmaps.com
-trk.notifscreen.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trkn.us
