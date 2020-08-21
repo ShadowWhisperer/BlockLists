@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/19/2020  22:27  (10:27 PM)  - Central Standard Time
+# Updated: 8/20/2020  23:36 (11:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -4289,12 +4289,10 @@ addurancenl.solution.weborama.fr
 ade0164.d41.co
 ad-e1.media6degrees.com
 ad-e2.media6degrees.com
-ade.applicationinsights.io
 ade-beta.media6degrees.com
 adeclc.com
 adecn-w.atdmt.com
 adee.hit.gemius.pl
-ade.int.applicationinsights.io
 adelixir.com
 adelphic.ads.placeiq.com
 ademails.com
@@ -4683,7 +4681,6 @@ advertiser.superstats.com
 advertiser.wbtrk.net
 advertise.ubermedia.com
 advertlineadge.hit.gemius.pl
-advertoly.com
 advertom.com
 adverttraf.com
 advicead.hit.gemius.pl
@@ -4942,9 +4939,6 @@ a-iad.1rx.io
 ai-api.snrbox.com
 ai-api.synerise.com
 ai.autoid.com
-aibillingblackforest.applicationinsights.io
-aibillingfairfax.applicationinsights.io
-aibillingmooncake.applicationinsights.io
 ai.branch.io
 ai.celebros-analytics.com
 aiconelevadores.agilecrm.com
@@ -4959,12 +4953,10 @@ aigtravelguard.blueconic.net
 aiins-docomo.instana.io
 a.iljmp.com
 aimatch.com
-aimc.aimon.applicationinsights.io
 aimfar.solution.weborama.fr
 aimfr.solution.weborama.fr
 aimg.domdex.com
 a.imgvc.com
-aimon.gsm.applicationinsights.io
 a.impactradius-tag.com
 aimp.citacx.acxiom.com
 aimsuccessin.moengage.com
@@ -5277,7 +5269,6 @@ allstate.evergage.com
 alltravel.rtrk.com
 allume.sjv.io
 allyfashion.sjv.io
-almintegration.aimon.applicationinsights.io
 almlabs.airbrake.io
 almosafer-app.quantummetric.com
 almostheaven.agilecrm.com
@@ -5684,7 +5675,6 @@ analytics.agoda.com
 analytics.agorapulse.com
 analytics.agroofy.com
 analytics.aimediagroup.com
-analytics.aimon.applicationinsights.io
 analytics.aimtell.com
 analytics-a.industrialpixel.com
 analytics.airfind.com
@@ -6466,7 +6456,6 @@ analytics.instakingz.com
 analytics.instal.com
 analytics.instamatix.de
 analytics.instnode.com
-analytics.int.applicationinsights.io
 analytics.integrate.com
 analytics.in-tend.co.uk
 analytics.interactgo.com
@@ -7729,6 +7718,7 @@ anmet.originenergy.com.au
 an.milb.com
 an.mlb.com
 annakournikova.powered-by.zango.com
+annalect.com
 annalectheartsciencedcm112139058417.s.moatpixel.com
 annefrank.containers.piwik.pro
 annefrank.piwik.pro
@@ -7912,10 +7902,7 @@ aphixsoftware.agilecrm.com
 aphrodite.porntrack.com
 api1938.d41.co
 api1947.d41.co
-api1.aimon.applicationinsights.io
-api1.applicationinsights.io
 api1.conviva.com
-api1.int.applicationinsights.io
 api-2-0.spot.im
 api2196.d41.co
 api2474.d41.co
@@ -7924,10 +7911,8 @@ api2932.d41.co
 api2938.d41.co
 api2942.d41.co
 api-297715e5.us.v2.we-stats.com
-api2.aimon.applicationinsights.io
 api2.amplitude.com
 api2.analysys.cn
-api2.applicationinsights.io
 api2.appsflyer.com
 api2.batmobi.net
 api2.bounceexchange.com
@@ -7935,7 +7920,7 @@ api2.branch.io
 api2.brightedge.com
 api2.chartbeat.com
 api2.ematicsolutions.com
-api2.int.applicationinsights.io
+api.2ip.ua
 api2.lightstep.com
 api2.mediaforge.com
 api2-portal.brightedge.com
@@ -7947,9 +7932,6 @@ api3728.d41.co
 api3795.d41.co
 api3847.d41.co
 api3912.d41.co
-api3.aimon.applicationinsights.io
-api3.applicationinsights.io
-api3.int.applicationinsights.io
 api3.pricespider.com
 api3.siftscience.com
 api4077.d41.co
@@ -7967,9 +7949,6 @@ api4773.d41.co
 api4813.d41.co
 api4883.d41.co
 api4920.d41.co
-api4.aimon.applicationinsights.io
-api4.applicationinsights.io
-api4.int.applicationinsights.io
 api4.liverail.com
 api5039.d41.co
 api5137.d41.co
@@ -7983,10 +7962,7 @@ api5578.d41.co
 api5599.d41.co
 api5820.d41.co
 api5975.d41.co
-api5.aimon.applicationinsights.io
-api5.applicationinsights.io
 api5.batmobi.net
-api5.int.applicationinsights.io
 api6123.d41.co
 api6721.d41.co
 api6742.d41.co
@@ -8042,7 +8018,6 @@ api.adrta.com
 api-ad-rtb.mobfox.com
 api.advidi.com
 api.adwyze.com
-api.aimon.applicationinsights.io
 api.airbrake.io
 api.airfind.com
 api.albacross.com
@@ -8083,7 +8058,6 @@ api.api.omnitagjs.com
 api-app.ants.vn
 api.appcelerator.net
 api.appdynamics.com
-api.applicationinsights.io
 api.appnext.com
 api.apps.airfind.com
 api.apps.bounceexchange.com
@@ -8281,7 +8255,6 @@ api.indicative.com
 api.infinario.com
 apiinit.amap.com
 api.instabug.com
-api.int.applicationinsights.io
 api.intel.dynamicyield.com
 api.intentiq.com
 api.interia.nsaudience.pl
@@ -9857,6 +9830,7 @@ audio.callmeasurement.com
 audiode.ivwbox.de
 audio.digidip.net
 audioz.matomo.cloud
+audit.303br.net
 audit.app.manage.ensighten.com
 audit.ioam.de
 audit.manage.ensighten.com
@@ -12148,7 +12122,6 @@ bread.brandseye.com
 breaker.blueconic.net
 breakingmedia.blueconic.net
 breederscup.blueconic.net
-breeze.aimon.applicationinsights.io
 brendonhu.worldgravity.com
 breuninger01.webtrekk.net
 brewerschoice.agilecrm.com
@@ -14329,10 +14302,7 @@ cdr.comscore.com
 cdrfr.blueconic.net
 c-drp.effectivemeasure.net
 cds.adapf.com
-cds.aimon.applicationinsights.io
-cds.applicationinsights.io
 cds.gtp.izatcloud.net
-cds.int.applicationinsights.io
 cds-kolekcja-prod-pl-24feb2020.rpxnow.com
 cds.zango.com
 cdt-n.tlnk.io
@@ -17064,6 +17034,7 @@ collector.statowl.com
 collectors.us2.sumologic.com
 collector.tealeaf.ibmcloud.com
 collector.tescocompare.com
+collector.valassis.com
 collect.state.centrum24.pl
 collect.tealiumiq.com
 collect-test.arabam.com
@@ -21452,14 +21423,12 @@ dev.admaster.com.cn
 dev-adm-booking.macromill.com
 dev-admin.videocollect.macromill.com
 dev.adpredictive.io
-dev.aimon.applicationinsights.io
 dev.airfind.com
 dev.amplitude.com
 dev.analytics.sam4m.com
 dev-aorta.clickagy.com
 dev.api.jivox.com
 dev.api.speedcurve.com
-dev.applicationinsights.io
 dev-asiarisk.app.incisivemedia.com
 devasiarisk.app.incisivemedia.com
 devaws.clicktale.net
@@ -21565,7 +21534,6 @@ dev-fxweek.app.incisivemedia.com
 devfxweek.app.incisivemedia.com
 dev.glympse.com
 dev-greyhound.bizsys.urbanairship.com
-dev.gsm.applicationinsights.io
 dev-hedgefundsreview.app.incisivemedia.com
 devhedgefundsreview.app.incisivemedia.com
 dev.heroes.liftoff.io
@@ -24419,7 +24387,6 @@ exponentialrandomized875428645731.s.moatpixel.com
 exponento.truconversion.com
 export01-dk.imrworldwide.com
 export02-au.imrworldwide.com
-export.aimon.applicationinsights.io
 exportdata.appsflyer.com
 export-reporting.brand.stg.markmonitor.com
 export-service.foresee.com
@@ -25029,6 +24996,7 @@ firstlite.agilecrm.com
 first.onthe.io
 firstparty.alloyio.com
 firstpromoter.com
+firstrain.com
 fir-z5android.firebaseio.com
 fishbrain-dev.onelink.me
 fishbrain.helpshift.com
@@ -25109,6 +25077,7 @@ fleetfeetatlanta.actonsoftware.com
 fleshlight.sjv.io
 flex.atdmt.com
 flexiroam.agilecrm.com
+flexispy.com
 flexshopper.evergage.com
 flexshopper.evgnet.com
 flextrack.msi-aci.com
@@ -27042,7 +27011,6 @@ grapeshot.com
 grapeshot.co.uk
 graph01.richaudience.com
 graph.accountkit.com
-graph.aimon.applicationinsights.io
 graph.bluecava.com
 graph.fake.bluecava.com
 graph.gcloud.bluecava.com
@@ -27193,7 +27161,6 @@ growth.branch.io
 growth.pyze.com
 grow.urbanairship.com
 grp.dynamicyield.com
-grp.int.applicationinsights.io
 grrcrtv.blueconic.net
 grrrl.agilecrm.com
 grtb-asia-east1a.tribalfusion.com
@@ -28669,7 +28636,6 @@ hydrogen.slp.us-east-1.pos.here.com
 hylink-cm.cn.miaozhen.com
 hymt4znzfmdoenniybgvfrisfgfyt1516664931.nuid.imrworldwide.com
 hyperfocus.agilecrm.com
-hyperion.aimon.applicationinsights.io
 hyperion.fs.crsspxl.com
 hypertext.service.newrelic.com
 hyperthrive.iljmp.com
@@ -30270,7 +30236,6 @@ intermarche2009.solution.weborama.fr
 intermarket.grapeshot.co.uk
 intermedia.evergage.com
 internal.33across.com
-internal.api.aimon.applicationinsights.io
 internal-apis.corp.liveramp.com
 internal.beeketing.com
 internal.canary.gce.petametrics.com
@@ -30302,7 +30267,6 @@ intf.cnzz.com
 intg-awne-dsm01.macromill.com
 intg-awne-swk01.macromill.com
 intg-awne-zab01.macromill.com
-int.gsm.applicationinsights.io
 intg.snapchat.com
 intl-prod.placed.com
 intracto.blueconic.net
@@ -30583,7 +30547,6 @@ irgs.irganalytics.com
 ir-ing.clicktale.net
 ir-ing-district.clicktale.net
 iris06-gold-ssl.gameloft.com
-iris.aimon.applicationinsights.io
 irishindependent.grapeshot.co.uk
 irishtimes.grapeshot.co.uk
 iris.tv
@@ -32814,7 +32777,6 @@ log.amap.com
 log.amazonvipservice.com
 log.americaeconomia.com
 log.amitshah.net
-loganalytics.applicationinsights.io
 log.analytics-logs.club
 log.andrewwooster.com
 log.androidmd.hero678.com
@@ -40653,7 +40615,6 @@ originus.pixel.newscgp.com
 origin.vizu.com
 origo-bud.gravityrd-services.com
 origo.worldgravity.com
-orion.aimon.applicationinsights.io
 orionapi.teemo.co
 orion.eyereturn.com
 orion.teemo.co
@@ -43304,7 +43265,6 @@ prod-fra.truendo.com
 prod.geo.gluops.com
 prod.geoservice.gluops.com
 prod-greyhound.bizsys.urbanairship.com
-prod.gsm.applicationinsights.io
 prod.hdflash.brightedge.com
 prodhub-backup.int.insightrocket.com
 prodhub.insightrocket.com
@@ -44092,7 +44052,6 @@ quick.insightfirst.com
 quicklink.click.org
 quickmoney.1annuaire.com
 quickpivot.evergage.com
-quickpulse.aimon.applicationinsights.io
 quickresource.eyereturn.com
 quic-v4.pops.fastly-insights.com
 quillconnect.firebaseio.com
@@ -45541,6 +45500,7 @@ roularta.sb.blueconic.net
 route.api.here.com
 route.cit.api.here.com
 router.cint.com
+routerfeedback.asus.com
 roveconcepts.evergage.com
 rover.cuebiq.com
 rowdy.callrail.com
@@ -52376,6 +52336,7 @@ spweb.whenu.com
 spx.owneriq.net
 spxrtb-us-east.tribalfusion.com
 sp-ycpi.analytics.yahoo.com
+spyfone.com
 spyhuman.com
 sp.yieldify.com
 spymasterpro.com
@@ -52389,7 +52350,6 @@ sql.treasuredata.com
 sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
-sqrapi-wcus.applicationinsights.io
 sqreemotherdisplay835039469131.s.moatpixel.com
 sqrt.onthe.io
 s.quantummetric.com
@@ -59162,7 +59122,6 @@ test.iplogger.org
 test-ird.app.incisivemedia.com
 testird.app.incisivemedia.com
 test.ivwbox.de
-testjs.applicationinsights.io
 testkricha.onthe.io
 testle.fqtag.com
 testlibs.coremetrics.com
@@ -66730,6 +66689,7 @@ wealthsimple.sjv.io
 weanswer.matomo.cloud
 we-are-adot.com
 weareweb.iljmp.com
+weather-analytics-events.apple.com
 weather.cc.acs-p.nw.ops.here.com
 weather.cc.api.here.com
 weather.cn.ksmobile.com

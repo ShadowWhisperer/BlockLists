@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 8/19/2020  22:27  (10:27 PM)  - Central Standard Time
+# Updated: 8/20/2020  23:36 (11:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -76,6 +76,10 @@ bravesoftware.com                                   #Browser
 co.cc                                               #Browser
 coccoc.com                                          #Browser
 maxthon.com                                         #Browser
+c.union.ucweb.com                                   #Browser
+img.ucweb.com                                       #Browser
+image.uc.cn                                         #Browser
+uc.cn                                               #Browser
 ucweb.com                                           #Browser
 updates.bravesoftware.com                           #Browser
 
@@ -168,7 +172,6 @@ pfmsqosprod.northeurope.cloudapp.azure.com          #Foreign   Game Servers (Cau
 pfmsqosprod.southafricanorth.cloudapp.azure.com     #Foreign   Game Servers (Causes High Ping, If from USA)
 pfmsqosprod.southeastasia.cloudapp.azure.com        #Foreign   Game Servers (Causes High Ping, If from USA)
 pfmsqosprod.westeurope.cloudapp.azure.com           #Foreign   Game Servers (Causes High Ping, If from USA)
-uc.cn                                               #Foreign   Internet Company (Singapore/China)  [Alibaba Group]
 hrvatskitelekom.hr                                  #Foreign   Phone Service
 t-com.hr                                            #Foreign   Phone Service
 163.com                                             #Foreign   Multiple (China)
@@ -241,10 +244,14 @@ wd2go.com                                            #Software - Western Digital
 wdtest8.com                                          #Software - Western Digital (Cloud Storage)
 ampsvc.com                                           #Software - WildTangent Games
 dp2manifester.ampsvc.com                             #Software - WildTangent Games
+hp.wildgames.com                                     #Software - WildTangent Games
 manifester.ampsvc.com                                #Software - WildTangent Games
 wildgames.com                                        #Software - WildTangent Games
 wildtangent.com                                      #Software - WildTangent Games
 api.api.winzip.com                                   #Software - Winzip
+api.winzip.com                                       #Software - Winzip
+tray.winzip.com                                      #Software - Winzip
+updaterv.winzip.com                                  #Software - Winzip
 winzip.com                                           #Software - Winzip
 kingsoft-office-service.com                          #Software - WPS Office
 kingsoftstore.com                                    #Software - WPS Office
@@ -376,6 +383,7 @@ img.cliqz.com                                        #Search Engine   Cliqz
 search.juno.com                                      #Search Engine   Juno
 sugg.search.yahoo.net                                #Search Engine   Yahoo (Suggestions)
 toolbar.yahoo.com                                    #Search Engine   Yahoo (Toolbar)
+au.search.yahoo.com                                  #Search Engine   Yahoo
 search.yahoo.com                                     #Search Engine   Yahoo
 us.search.yahoo.com                                  #Search Engine   Yahoo
 copernicus-software.stores.yahoo.net                 #Search Engine   Yahoo
@@ -395,9 +403,6 @@ whatsapp.net                                         #VOIP
 
 qibla.com                                            #Islamic
 oicc.org                                             #Islamic
-
-
-cyclope-series.com                                   #Employee Monitoring Software
 
 
 
