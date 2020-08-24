@@ -42,7 +42,7 @@ _Free_, _Junk_, _Marketing*_, _Suspicious_, and _Unknown_ may break some website
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
 [VirusTotal](https://www.virustotal.com/gui/home/url)  
   
-[SSL Labs](https://www.ssllabs.com/ssltest/)  
+[SSL Lookup](https://www.ultratools.com/tools/sslExam)  
 [Whois](https://www.whois.com/whois/)  
   
 [Spamhaus Statistics](https://www.spamhaus.org/statistics/countries/)  
