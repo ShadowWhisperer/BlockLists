@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 8/18/2020  14:58  (2:58 PM)  - Central Standard Time
+# Updated: 8/25/2020  17:01 (5:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -137,6 +137,7 @@ activation2.playready.microsoft.com         #Game Pirate Prevention
 playready.microsoft.com                     #Game Pirate Prevention
 
 config.teams.microsoft.com                  #Microsoft Teams
+cxcs.microsoft.net                          #Microsoft Teams
 statics.teams.cdn.office.net                #Microsoft Teams
 teams.microsoft.com                         #Microsoft Teams
 tr.teams.microsoft.com                      #Microsoft Teams

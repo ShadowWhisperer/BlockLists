@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/21/2020  16:18 (4:18 PM CST)
+# Updated: 8/25/2020  17:01 (5:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13454,6 +13454,7 @@ brownie.solution.weborama.fr
 brownshoe.sp1.convertro.com
 browsee.io
 browser.events.data.microsoft.com
+browser.events.data.msn.com
 browserhawk.com
 browser-http-intake.logs.datadoghq.com
 browser.pipe.aria.microsoft.com
@@ -14908,6 +14909,7 @@ ccacademy.agilecrm.com
 cc.acs-p.nw.ops.here.com
 cc.amazingcounters.com
 c.ca.msn.com
+cc-api-cp.adobe.io
 cc-api-data.adobe.io
 cc.api.here.com
 cc-api-storage.adobe.io
@@ -18654,6 +18656,7 @@ content.cxense.com
 contentinsights.com
 content.iplogger.org
 contentive.evergage.com
+content-jcp.getmetrical.com
 content.jetlore.com
 content-library.demandbase.com
 content.liftoff.io
@@ -20635,6 +20638,7 @@ cs.specificclick.net
 cs-staging.clicktale.net
 cssubmissions.apple.com
 cssubmissions-uat.corp.apple.com
+cstat.apple.com
 c.statcounter.com
 cstatic.weborama.fr
 cs.tekblue.net
@@ -22474,6 +22478,7 @@ deezeractivationfr.solution.weborama.fr
 default.channelsight.com
 default.hit.gemius.pl
 defect.dynatrace.com
+deff.nelreports.net
 defshop01.webtrekk.net
 degewo01.webtrekk.net
 degezon.matomo.cloud
@@ -24998,6 +25003,7 @@ enter.sextracker.com
 entertai.ivwbox.de
 entertainmentonebeneluxnl.solution.weborama.fr
 entertainment.t.domdex.com
+entitlements.adobe.io
 entitlements.kochava.com
 entity-search.service.newrelic.com
 entrinsik.com
@@ -25458,6 +25464,7 @@ events-api.crazyegg.com
 events.api.godaddy.com
 events-api.iris.tv
 events-api.otherlevels.com
+events.api.secureserver.net
 events.appnext.com
 events.appsflyer.com
 events.apptornado.com
@@ -25473,6 +25480,7 @@ events-collector.spot.im
 event.scorecardresearch.com
 events.datadoghq.com
 events.data.microsoft.com
+events.data.msn.com
 events.dynamicyield.com
 events.emogi.com
 events.evergage.com
@@ -26255,6 +26263,8 @@ fipsta.worldfitness.de
 firebase.firebaseio.com
 firebaseinstallations.googleapis.com
 firebaseio.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firecracker-prod.firebaseio.com
 firecraft-studios.helpshift.com
@@ -27731,6 +27741,7 @@ getintentdisplay518651277482.s.moatpixel.com
 get.keen.io
 get.leadfeeder.com
 getlocalmeasure.piwikpro.com
+getmetrical.com
 getmusicvideocodes.powered-by.zango.com
 get.mycounter.ua
 get-myip.com
@@ -31171,6 +31182,7 @@ insideha.ivwbox.de
 inside.hotjar.com
 insiders.userzoom.com
 insidesecure.count.ly
+insight-1616140656.us-west-2.elb.amazonaws.com
 insight.3cinteractive.com
 insight3.m-pathy.com
 insight6.m-pathy.com
@@ -32120,6 +32132,7 @@ j.clickdensity.com
 jclub.open.securedvisit.com
 jcp-app.quantummetric.com
 jcp-cdn.truefitcorp.com
+jcpenney.demdex.net
 jcp-images.quantummetric.com
 jcp.quantummetric.com
 jcp-sync.quantummetric.com
@@ -36739,6 +36752,7 @@ measureonlinecampaigns.researchnow.com
 measureoss.datadoghq.com
 measure.researchnow.com
 measure.richmetrics.com
+measure.truex.com
 mebed.dm-event.net
 mec.c3metrics.com
 me-cdn.effectivemeasure.net
@@ -37006,6 +37020,7 @@ metlife.touchcommerce.com
 metric.adacreisen.de
 metric.admetric.io
 metric.advanceautoparts.com
+metric.al
 metric.allrecipes.com
 metric.allrecipes.com.mx
 metric.allrecipes.co.uk
@@ -45020,6 +45035,7 @@ pulseinsights.com
 pulse.integralads.com
 pulsemaps.com
 pulse.pricespider.com
+pulse.svod.aetnd.com
 pulse.w3counter.com
 pumain18791z.btttag.com
 pumaru18791z.btttag.com
@@ -52916,6 +52932,7 @@ smt.admaster.com.cn
 smtc.jetstar.com
 smtc.qantas.com
 smtc.qantas.com.au
+smt.jcpenney.com
 smtp1.bws.birst.com
 smtp1.younetmedia.com
 smtp2.demandbase.com
@@ -55191,6 +55208,7 @@ stat.dziennik.pl
 stat.ea3w.com
 stat.eagleplatform.com
 stat.ebarter24.com
+statefarmmutualautomobileinsurancecompany.demdex.net
 stat.egloos.com
 stat.eiga.com
 stat.ekologia.pl
@@ -56901,6 +56919,7 @@ stats.boycoybell.com
 stats.boyfriendnetwork.com
 stats.bpevent.hu
 stats.bpmonline.com
+stats.bradmax.com
 stats.brandhoot.com
 stats.brandroid.org
 stats.branflix.com
@@ -65334,6 +65353,7 @@ tjd19.cxense.com
 tjd20.cxense.com
 tjd21.cxense.com
 tjmpromos.iljmp.com
+t.journity.com
 tjsgaragedoorservice.rtrk.com
 tjx.112.207.net
 tjxbfc1n.micpn.com
@@ -77118,6 +77138,7 @@ zmessenger.piwik.pro
 zms.zalando.com
 zn_0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
 zn0pxrmhobblncaad-hpsupport.siteintercept.qualtrics.com
+zn3vmohmtf6pdgzej-synchronysurvey.siteintercept.qualtrics.com
 znabk5oa.micpn.com
 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
 znekusxyrbvg6i8pb-cdkglobal.siteintercept.qualtrics.com

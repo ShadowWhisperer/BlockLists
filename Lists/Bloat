@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/21/2020  16:18 (4:18 PM CST)
+# Updated: 8/25/2020  17:01 (5:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -182,8 +182,11 @@ dns.google                                              #Alt DNS - Google
 mailshell.net                                           #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 avastbrowser.com                                        #Antivirus   Avast - Browser
 browser-update.avast.com                                #Antivirus   Avast - Browser
+engagement.avastbrowser.com                             #Antivirus   Avast - Browser
+ext-update.avastbrowser.com                             #Antivirus   Avast - Browser
 securebrowser.avast.tools.avcdn.net                     #Antivirus   Avast - Browser
 securebrowser.com                                       #Antivirus   Avast - Browser
+update.avastbrowser.com                                 #Antivirus   Avast - Browser
 asu.aa.avast.com                                        #Antivirus   Avast
 dnd.tools.avast.com                                     #Antivirus   Avast
 emupdate.avast.com                                      #Antivirus   Avast

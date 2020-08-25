@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/20/2020  23:36 (11:36 PM CST)
+# Updated: 8/25/2020  17:01 (5:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -116,6 +116,7 @@ himediads.com
 images.highspeedbackbone.net
 images.pricegrabber.com
 js.himediads.com
+link.theplatform.com
 loading-delivery2.com
 m2-c.pmsrv.co
 mb104.com
@@ -362,6 +363,7 @@ acsbap.com
 adcs.rqmob.com
 analysis.fi
 api.huqindustries.co.uk
+api.jcpclick.com
 apis.kostprice.com
 app.launchdarkly.com
 cdn.acsbap.com
@@ -381,6 +383,7 @@ geolookup-a.akamaihd.net
 gsspcln.jp
 huqindustries.co.uk
 iper2.com
+jcpclick.com
 js.track-analytics.com
 leiki.com
 meters.cbp-sd.com
@@ -460,11 +463,13 @@ r5-pc-steam-1240670023.us-west-2.elb.amazonaws.com                #Amazon AWS
 rebillialive-30481093.us-east-1.elb.amazonaws.com                 #Amazon AWS
 sqs.us-west-2.amazonaws.com                                       #Amazon AWS
 blogsmithmedia.com                                  #AOL
+guzzoni-apple-com.v.aaplimg.com                  #Apple - Siri ?
 apple.com.edgekey.net.globalredir.akadns.net     #Apple
 apple-dns.net                                    #Apple
 bag.itunes.apple.com                             #Apple
 basejumper.apple.com                             #Apple
 c.apple.news                                     #Apple
+carrierbundle.itunes.apple.com                   #Apple
 cdn.cvws.apple-dns.net                           #Apple
 cds.apple.com                                    #Apple
 cdsassets.apple.com                              #Apple
@@ -494,6 +499,7 @@ gsp-ssl.ls2-apple.com.akadns.net                 #Apple
 gz8rm.apple.com                                  #Apple
 hello.connectivity.me.com                        #Apple
 homesharing.itunes.apple.com                     #Apple
+humb.apple.com                                   #Apple
 icalbridge.apple.com                             #Apple
 icalserver.apple.com                             #Apple
 iclab.apple.com                                  #Apple
@@ -529,6 +535,7 @@ partiality.itunes.apple.com                      #Apple
 pd.itunes.apple.com                              #Apple
 pd-st.itunes.apple.com                           #Apple
 play.itunes.apple.com                            #Apple
+play.itunes.apple.com.edgesuite.net              #Apple
 porco.apple.com                                  #Apple
 proddav.apple.com                                #Apple
 profile.ess.apple.com                            #Apple
@@ -926,4 +933,3 @@ vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for disp
 ##################################################################
 api.na1.region.vmwservices.com                                       #Android Phone
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com   #Samsung Phone
-
