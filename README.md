@@ -1,27 +1,27 @@
     Ads              Advertisements, Banners, Widgets & Push Notifications  
     Adult            Porn / 18+ Content  
     Apple            Bloat / Push Notifications  
-    Bitcoin          Bitcoin Miner & Related Sites  
+    Bitcoin          Bitcoin domains (Not directly malware)
     Bloat            Fonts, Surveys, Domains not required for software to function  
-    Chat             Live / Bot Chat Dialog Boxes  
+    Chat             Live / Bot chat dialog boxes  
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting & Blogs  
     Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
-    Marketing        Web Marketing / Ebay Listing Tools  
+    Marketing        Marketing, Ebay Listing Tools, etc  
     Marketing-Email  Email Based Marketing  
-    Microsoft        Apps, Bing, Bloat, Tiles, Unknown  
-    Remote           Domains used by software to remotely control your stuff  
+    Microsoft        Apps, Bing, Bloat, Tiles, etc  
+    Remote           Domains used for remote sessions  
     Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
     Scam             Fraud / Fake / Misleading Sites (Not malware)  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
     Suspicious       Domains I am uncertain of. Contains a mixture of possible Ads, Trackers, Malware  
-    Top_Level        Top Level Domains: Will block most non-traditional domains  
+    Top_Level        Top Level Domains. Sorted by Continent, then country
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
     Tunnels          VPNs & Proxies
-    Typo             Typosquatting / Misspelling of websites.  
-    Unknown          Similar to Suspicious, but is more organized.  
+    Typo             Typosquatting / Misspelling of websites  
+    Unknown          Similar to 'Suspicious', but is organized  
   
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
