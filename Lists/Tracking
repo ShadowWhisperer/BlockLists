@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/26/2020  21:42 (9:42 PM CST)
+# Updated: 8/26/2020  22:28 (10:28 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2982,7 +2982,6 @@ a.consumerreports.org
 acorn-int.maelstrom.gameservices.xboxlive.com
 acorns.sjv.io
 acp.1rx.io
-acp-ss-ue1.adobe.io
 acquia-api.conductrics.com
 acquire.privy.com
 a.crashlytics.com
@@ -3356,7 +3355,6 @@ adobe.demdex.net
 adobedtm.com
 adobe-dtm.staticsfly.com
 adobeinternalmobiles.tt.omtrdc.net
-adobe.io
 adobes.marugame-seimen.com
 adobes.pmi.org
 adobes.toridoll.com
@@ -12319,10 +12317,7 @@ cc9ae03bebbb37f848953b47ce5e8663.ulink.adjust.com
 cc.acs-p.nw.ops.here.com
 cc.amazingcounters.com
 c.ca.msn.com
-cc-api-cp.adobe.io
-cc-api-data.adobe.io
 cc.api.here.com
-cc-api-storage.adobe.io
 ccc01.wt-eu02.net
 ccc.adacts.com
 cc.chango.com
@@ -12335,7 +12330,6 @@ ccf7a271e4dc4dab.u2.bumlam.com
 c.chango.com
 c.channeltraffic.net
 cch-g.tlnk.io
-cchome.adobe.io
 cc.i2i.jp
 ccinext.count.ly
 ccjnhnqfnvsr3otokvf59ns52.litix.io
@@ -20110,7 +20104,6 @@ enter.sextracker.com
 entertai.ivwbox.de
 entertainmentonebeneluxnl.solution.weborama.fr
 entertainment.t.domdex.com
-entitlements.adobe.io
 entitlements.kochava.com
 entity-search.service.newrelic.com
 entrinsik.com
@@ -23614,6 +23607,7 @@ hb.justclick.ru
 hb.liveitup.com
 hbogo.com.112.207.net
 hb.pcworld.com
+hbrt.adobe.com
 hb.s.ad6media.fr
 hbsdk-config.log.smaato.net
 hb.studieplan.nl
@@ -27413,8 +27407,6 @@ l.clicktale.net
 l.collective-media.net
 lcpkg.ksmobile.com
 l.crashlytics.com
-lcs-cops.adobe.io
-lcs-robs.adobe.io
 lcy-v4.pops.fastly-insights.com
 ld2-jp.imrworldwide.com
 lda-jp.imrworldwide.com
@@ -34104,7 +34096,6 @@ notify1.brucelead.com
 notify.1p.bugsnag.appstore.a2z.com
 notify.aca.bugsnag.appstore.a2z.com
 notify.aca.ftv.bugsnag.appstore.a2z.com
-notify.adobe.io
 notify.apptentive.com
 notify.bugsnag.appstore.a2z.com
 notify.bugsnag.com
@@ -35241,7 +35232,6 @@ p06.t.en25.com
 p07.t.en25.com
 p0.ipstatp.com
 p0.raasnet.com
-p13n.adobe.io
 p1.brightfunnel.com
 p1.danskebank.dk
 p1mbftp.prod.evergage.com
