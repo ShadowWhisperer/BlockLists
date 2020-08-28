@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/26/2020  22:28 (10:28 PM CST)
+# Updated: 8/28/2020  16:55 (4:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2611,6 +2611,7 @@ a10829270344.cdn.optimizely.com
 a-10.admetric.io
 a1139.oadz.com
 a-11.admetric.io
+a125375509.cdn.optimizely.com
 a125664b4a576a879e6bcb2557bb22c9.api.appsee.com
 a-12.admetric.io
 a12.bellsouth.com
@@ -12410,6 +12411,7 @@ cdn3.airfind.com
 cdn3.appnext.com
 cdn3.forter.com
 cdn3.onthe.io
+cdn3.optimizely.com
 cdn3.researchnow.com
 cdn3.richaudience.com
 cdn3.rutarget.ru
@@ -12706,6 +12708,7 @@ cdn-origin.woopra.com
 cdn.otherlevels.com
 cdn.owneriq.net
 cdnp1.yieldoptimizer.com
+cdn.parrable.com
 cdn.parsely.com
 cdn.pathfactory.com
 cdn.pdst.fm
@@ -13804,6 +13807,7 @@ clickmagick.com
 click.mail03.travian.com
 click.mailer.hoteltonight.com
 click.mail.fidelity.com
+click.mail.onedrive.com
 click.mail.preferrednewsletters.com
 click.m.ambientplatform.vn
 click.mancheck.com
@@ -15385,6 +15389,7 @@ collector-pxgm4fv3vc.px-cloud.net
 collector-pxhv1dpin4.px-cloud.net
 collector-pxifr9inqp.px-cloud.net
 collector-pxij55yhvs.px-cloud.net
+collector-pxikkul2rm.perimeterx.net
 collector-pxj1n025xg.px-cloud.net
 collector-pxj5wgkw4q.px-cloud.net
 collector-pxjj060g79.px-cloud.net
@@ -20064,6 +20069,7 @@ eng.websidestory.com
 enigma.kissmetrics.com
 enio.justclick.ru
 en.ipinfo.io
+en.ipip.net
 eniro.hit.gemius.pl
 eniro.tns-cs.net
 enjoylearninglife.iljmp.com
@@ -26071,6 +26077,7 @@ iowa80.evergage.com
 iowadot.maps.arcgis.com
 ioxea.voluumtrk3.com
 ip-1.com
+ip2nation.com
 ip.42.pl
 ip4.icanhazip.com
 ip4.me
@@ -26132,6 +26139,7 @@ ip-info.org
 ip-info.xyz
 ipinvite.iperceptions.com
 ipinyou.cm.admaster.com.cn
+ipip.net
 ip.itracker360.com
 i.pixel.trafficmp.com
 ipla.hit.gemius.pl
@@ -33344,6 +33352,7 @@ myip.heltech.se
 myip.ht
 myip.info
 myipinfo.net
+myip.ipip.net
 myip.is
 myip.israel.net
 myip.jacware.com
@@ -46374,6 +46383,7 @@ ssl.chartbeat.com
 ssl.chartbeat.net
 ssl.clicksure.com
 ssl-compass.oewabox.at
+ssl.cqcounter.com
 ssl-dagbladet.tns-cs.net
 ssldata.thepointsguy.com
 ssl-dba.tns-dk.2cnt.net
@@ -57494,6 +57504,7 @@ tpt.mysocialpixel.com
 tpu.2cnt.net
 t.pushauction.com
 tp.videohub.tv
+tpx.everquote.com
 tqgj.mediav.com
 tqp-4.tlnk.io
 t.quisma.com

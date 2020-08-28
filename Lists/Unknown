@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/25/2020  17:01 (5:01 PM CST)
+# Updated: 8/28/2020  16:55 (4:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -11,19 +11,10 @@
 #############################
 # Ads
 #############################
-api.coxmt.com                        #Defunct ?
-centraltag.com                       #Defunct ?
-coxmt.com                            #Defunct ?
-directrev.com                        #Defunct ?
-go.coxmt.com                         #Defunct ?
-i-vengo.com                          #Defunct ?
-trueffect.com                        #Defunct ?
-turbobytes.com                       #Defunct ?
-optomaton.com                        #Defunct ?  (Moved to ve.com)
-projectwonderful.com                 #Defunct ?  (Last Twiiter July 11, 2010)
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
 virtualizationreview.1105cms01.com        #1105 Media
+entitlements.adobe.io                #Adobe
 altbeacon.org             #AltBeacon
 data.altbeacon.org        #AltBeacon
 assoc-na.associates-amazon.com   #Amazon  (https://assoc-na.associates-amazon.com/abid/um?s=144-1347093-7830501&m=ATVPDKIKX0DER)
@@ -31,42 +22,27 @@ mas-ext.amazon.com               #Amazon
 mas-sdk.amazon.com               #Amazon
 msh.amazon.co.uk                 #Amazon
 new.avira.com                #Avira
-berush.com                     #BeRush
-pm.berush.com                  #BeRush
 dw7nrwnn2bkh1.cloudfront.net       #CNN
-registry.api.cnn.io                #CNN
 live.github.com                       #Github (Push Notifications?)
 alive.github.com                      #Github
-hearstgames.com                    #Hearst Games
-joker.hearstgames.com              #Hearst Games
-labs.hearstgames.com               #Hearst Games
-riddler.hearstgames.com            #Hearst Games
 o.joinhoney.com                   #Honey
-isweb.no                             #In Sight
+isweb.no                             #InSight
 postclickmarketing.com        #Ion Interactive
 ioninteractive.com            #Ion Interactive
-tpx.everquote.com                 #MSN
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
 ecp.yusercontent.com          #Oath Inc.
 fpdbs.paypal.com                  #Paypal (Logo?)
-api.queryly.com                   #Queryly
-queryly.com                       #Queryly
-quora-prod-tch-vpc-1136165707.us-east-1.elb.amazonaws.com    #Quora
-tch710729.tch.quora.com                                      #Quora
-realpush.network                #RealPush
-select5.realpush.network        #RealPush
+quora-prod-tch-vpc-1136165707.us-east-1.elb.amazonaws.com  #Quora
+tch710729.tch.quora.com                                    #Quora
+api.promotions.skype.com           #Skype
 promotions.skype.com               #Skype
 bo.promotions.skype.com            #Skype
 vliplatform.com              #viPlayer  (elblogdelnarco.com)
 ptest.ysm.yahoo.com              #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
 wistia.com                  #Wistia
-thumb-cf.flixcdn.com            #Xhamster (Adult)
-thumbs.nosto.com            # (CrossBreedHolsters.com)
-userwave.com                #(Either Ad or Malware)  *Broken Links on homepage
-xml.userwave.com            #(Either Ad or Malware)  *Broken Links on homepage
-goodnotification.net        #(Either Ad or Malware)  *Claims to be Adsaro
+
 2agshdqwvcqs.website        #(Either Ad or Malware)  *Owned by Data-Cash
 bj.byteweb.it               #(Either Ad or Malware)  *Redirected site to scam page (bestprizesday2.life)
 pornwave.com                #(Either Ad or Malware)  *Redirected site to malware page (watchmygirlfriend.to)
@@ -74,48 +50,37 @@ prwidgets.com               #(Either Ad or Malware)  *Redirected site to malware
 t.grtyi.com                 #(Either Ad or Malware)  *Adult List
 t.hrtya.com                 #(Either Ad or Malware)  *Adult List
 t.irtyf.com                 #(Either Ad or Malware)  *Adult List
-adskyo.com                  #(Either Ad or Malware)  *IP
-nativad.net                 #(Either Ad or Malware)  *IP
 adhoc4.net                  #(Either Ad or Malware)
-ads.red                     #(Either Ad or Malware)
-ateoildim.club              #(Either Ad or Malware)
-besa-mad.com                #(Either Ad or Malware)
+router.adhoc4.net           #(Either Ad or Malware)
+clcknads.pro                #(Either Ad or Malware)
 ca.clcknads.pro             #(Either Ad or Malware)
+besa-mad.com                #(Either Ad or Malware)
 cdn.clicksondelivery.com    #(Either Ad or Malware)
-commercialvalue.org         #(Either Ad or Malware)
 edvfwlacluo.com             #(Either Ad or Malware)
-gadsatz.com                 #(Either Ad or Malware)
 mugleafly.com               #(Either Ad or Malware)
 naneso.com                  #(Either Ad or Malware)
 offerimage.com              #(Either Ad or Malware)
 ofhappinyer.com             #(Either Ad or Malware)
 onsertilyas.club            #(Either Ad or Malware)
-router.adhoc4.net           #(Either Ad or Malware)
 svclqyctlijue.com           #(Either Ad or Malware)
 vkcdnservice.com            #(Either Ad or Malware)
 xadsmart.com                #(Either Ad or Malware)
 zjkypuacaawx.com            #(Either Ad or Malware)
-aoycwla4enxzvkh.ru          #(Either Ad or Malware) - ads.red
-cdn.advgalaxy.com           #(Either Ad or Tracker)
-z.cdn.advgalaxy.com         #(Either Ad or Tracker)
 ueopf.com                   #(Either Ad or Tracker)
 a1955.b.akamai.net
+bettercontentservice.top
 a.bettercontentservice.top
 adoric-om.com
 adscheaper.com
 api-05.com
 api2.appscraft.mobi
-bettercontentservice.top
 bksn.se
 bnhtml.com
 data.potpourrichordataoscilloscope.com
 df0davzd72429.cloudfront.net
 eurosptp.com
 exp.eurosptp.com
-himediads.com
-images.highspeedbackbone.net
 images.pricegrabber.com
-js.himediads.com
 link.theplatform.com
 loading-delivery2.com
 m2-c.pmsrv.co
@@ -285,6 +250,7 @@ urs.cnet.com                                                  #Cnet (easyXDM)
 best.discord.media                                          #Discord
 expresswifi.com    #                                      #Facebook
 lookaside.facebook.com                                    #Facebook
+mqtt-mini.facebook.com                                    #Facebook
 z-m.c10r.facebook.com                                     #Facebook
 brainkeeper.gw-ec.com                                        #GearBest
 cur.gearbest.com                                             #GearBest
@@ -317,6 +283,7 @@ keynote.litmos.com                                    #SAP Litmos
 litmos.com                                            #SAP Litmos
 click.e.scheels.com                                          #Scheels
 orderlogicapp.com                                           #Shopify
+aws.duplex.snapchat.com                                   #SnapChat
 cognac-prod.appspot.com                                   #SnapChat
 loca.sc-jpl.com                                           #SnapChat
 loc.sc-jpl.com                                            #SnapChat
@@ -801,6 +768,7 @@ incapdns.net                                  #Incapsula (Site Security)
 n2e79bn.x.incapdns.net                        #Incapsula (Site Security)
 rin7m.x.incapdns.net                          #Incapsula (Site Security)
 acp-magento.appspot.com                      #InstantSearch+
+whitelist.trustedservices.intel.com                #Intel
 lglime.com                                      #LG
 static-avc.lglime.com                           #LG
 media-akam.licdn.com                           #LinkedIn - Most have single pixel (tracker), some have images

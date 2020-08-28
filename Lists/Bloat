@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/25/2020  17:01 (5:01 PM CST)
+# Updated: 8/28/2020  16:55 (4:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -132,6 +132,7 @@ s7.addthis.com                                          #Webpages - Social Media
 s9.addthis.com                                          #Webpages - Social Media
 share.pluso.ru                                          #Webpages - Social Media
 sharethis.com                                           #Webpages - Social Media
+w.sharethis.com                                         #Webpages - Social Media
 sharethis.net                                           #Webpages - Social Media
 static1.twitcount.com                                   #Webpages - Social Media
 static.zotabox.com                                      #Webpages - Social Media
@@ -237,8 +238,9 @@ ratings-wrs.symantec.com                                #Antivirus   Norton
 ipv6-iaus.trendmicro.com                                #Antivirus   TrendMicro
 ipv6.iau.trendmicro.com                                 #Antivirus   TrendMicro
 
-adobeid-na1.services.adobe.com                          #Software   Adobe - Cloud Services
+cc-api-data.adobe.io                                    #Software   Adobe - Cloud Services
 cloud.acrobat.com                                       #Software   Adobe - Cloud Services
+dc-api.adobe.io                                         #Software   Adobe - Document Cloud
 cdn3.bluestacks.com                                     #Software   BlueStacks (Android Emulator)
 cdn-bgp.bluestacks.com                                  #Software   BlueStacks (Android Emulator)
 cloud.bluestacks.com                                    #Software   BlueStacks (Android Emulator)
@@ -289,7 +291,6 @@ user.utorrent.com                                       #Software   µTorrent
 utclient.utorrent.com                                   #Software   µTorrent
 
 emapi.prm.data.ea.com                                   #Games [Studio]  EA
-river-mobile.data.ea.com                                #Games [Studio]  EA
 eamobile.com                                            #Games [Studio]  EA
 m2u.sn.eamobile.com                                     #Games [Studio]  EA
 product.sn.eamobile.com                                 #Games [Studio]  EA
@@ -481,6 +482,10 @@ wo.vzwwo.com                                            #Verizon   Wifi Calling
 acms.carconnectivity.org                                #Android  Screen Mirror
 carconnectivity.org                                     #Android  Screen Mirror
 
+a5.behance.net                                          #Android  [App]   Adobe Photoshop (User Avatar)
+cc-api-behance.adobe.io                                 #Android  [App]   Adobe Photoshop (User Avatar)
+mir-cdn.behance.net                                     #Android  [App]   Adobe Photoshop (User Avatar)
+mir-s3-cdn-cf.behance.net                               #Android  [App]   Adobe Photoshop (User Avatar)
 pc.airdroid.com                                         #Android  [App]   AirDroid (Home Tab - Forum Integration)
 pc.airdroid.com.s3-website-us-east-1.amazonaws.com      #Android  [App]   AirDroid (Home Tab - Forum Integration)
 srv3.airdroid.com                                       #Android  [App]   AirDroid (Home Tab - Forum Integration)
@@ -504,6 +509,7 @@ cleaner.noxgroup.org                                    #Android  [App]   NoxCle
 noxgroup.org                                            #Android  [App]   NoxCleaner
 mobimagic.com                                           #Android  [App]   Safe Security - Antivirus, Booster, Phone Cleaner
 safesecurityapps.com                                    #Android  [App]   Safe Security - Antivirus, Booster, Phone Cleaner
+gtq-lenses.sct.sc-prod.net                              #Android  [App]   SnapChat - Lenses
 classicwords.net                                        #Android  [Game]  Classic Words
 coverfire.s3.dualstack.us-east-1.amazonaws.com          #Android  [Game]  Coverfire
 soniccd-cdn.s3.amazonaws.com                            #Android  [Game]  Sonic CD

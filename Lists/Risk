@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 8/20/2020  23:36 (11:36 PM CST)
+# Updated: 8/28/2020  16:55 (4:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -63,6 +63,7 @@ oovoo.com                                     #Software Hosting
 qarchive.org                                  #Software Hosting
 softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
+winsite.com                                   #Software Hosting
 
 taskernet.com                                 #Android [APP]  Tasker - Allows scheduled custom scripts to run in the background
 

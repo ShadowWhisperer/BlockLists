@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 8/25/2020  17:01 (5:01 PM CST)
+# Updated: 8/28/2020  16:55 (4:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -30,6 +30,7 @@ service.weather.microsoft.com                   #Win 10 Tile
 tile-service.weather.microsoft.com              #Win 10 Tile
 travel.tile.appex.bing.com                      #Win 10 Tile
 weather.microsoft.com                           #Win 10 Tile
+weather.services.appex.bing.com                 #Win 10 Tile
 weather.tile.appex.bing.com                     #Win 10 Tile
 
 cdf-anon.gtm.xboxlive.com                       #Xbox
@@ -43,7 +44,6 @@ da.xboxservices.com                             #Xbox
 settings-ssl.xboxlive.com                       #Xbox
 title.auth.xboxlive.com                         #Xbox
 title.mgt.xboxlive.com                          #Xbox
-windowsphone.xbox.com                           #Xbox
 x1ds.xboxlive.com                               #Xbox
 xnotify.xboxlive.com                            #Xbox
 
@@ -99,6 +99,7 @@ sway.com                                    #App     Sway
 cmsresources.windowsphone.com               #App     Windows Phone (From Win 10 Tower)
 config.scm.windowsphone.com                 #App     Windows Phone (From Win 10 Tower)
 ess.windowsphone.net                        #App     Windows Phone (From Win 10 Tower)
+windowsphone.xbox.com                       #App     Windows Phone (From Win 10 Tower)
 
 www2.bing.com                               #Bing (Loads IPV6 Check)
 api.bing.com                                #Bing
@@ -220,6 +221,9 @@ roa-efz.ms-acdc.office.com                  # ? Office
 sfnam.loki.delve.office.com                 # ? Office
 substrate.office.com                        # ? Office
 yyz-efz.ms-acdc.office.com                  # ? Office
+
+bg1.v4.a.dl.ws.microsoft.com                # ? Window 8 - App Store
+bg.v4.emdl.ws.microsoft.com                 # ? Window 8 - App Store
 
 array101-prod.do.dsp.mp.microsoft.com       #Updates ?
 array102-prod.do.dsp.mp.microsoft.com       #Updates ?
