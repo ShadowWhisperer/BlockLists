@@ -12,6 +12,7 @@ mesu.apple.com                    #Apple - System Update
 appldnld.apple.com.akadns.net     #Apple - Updates
 appldnld.apple.com                #Apple - Updates
 appldnld                          #Apple - Updates
+gdmf.apple.com.akadns.net         #Apple - Updates
 gdmf.apple.com                    #Apple - Updates
 gs.apple.com.akadns.net           #Apple - Updates
 gs.apple.com                      #Apple - Updates
@@ -38,6 +39,7 @@ spclient.wg.spotify.com       #Software - Spotify - Audio
 
 accounts.google.com                    #Google - All - Login
 cryptauthenrollment.googleapis.com     #Google - Android - Set Payment Info
+play-lh.googleusercontent.com          #Google - Android - Store Images
 kh.google.com                          #Google - Maps - Earth View
 chrome.google.com                      #Google - Chrome - Store - Extensions - Page
 lh3.googleusercontent.com              #Google - Chrome - Store - Extensions - Icons
@@ -236,11 +238,14 @@ nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
 uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
 api2.sr.roku.com                           # App - The Roku Channel
+oempprd.samsungcloudsolution.com           # Samsung - App Updates
+oempprd.samsungcloudsolution.net           # Samsung - App Updates
 api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 
 
 # Breaks Some Sites
 ########################
+mkt6385.com                  #Marketing - Breaks Confirmation Email
 lddy.no                      #Marketing - Breaks Links
 pjtra.com                    #Marketing - Breaks Links
 shareasale.com               #Marketing - Breaks Links
