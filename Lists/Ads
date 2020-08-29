@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 8/28/2020  16:55 (4:55 PM CST)
+# Updated: 8/29/2020  00:18 (12:18 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -578,6 +578,7 @@
 2930b-22ae8.api.pushwoosh.com
 29470-675.link.iwanttodeliver.com
 298a4-2f32b.api.pushwoosh.com
+29ccd.v.fwmrm.net
 2.adbrite.com
 2.afs.googleadservices.com
 2baners.ero-advertising.com
@@ -12708,6 +12709,7 @@ ads.publish2.com
 ads.publisitios.com
 ads.publited.com
 ads.publix.com
+ads.pubmatic.com
 ads.pubventuresmedia.com
 ads.puffnetwork.com
 ads.puhutv.com
@@ -13470,6 +13472,7 @@ ads.stepstone.no
 ads-ster.adhese.com
 ads-stg.yieldmo.com
 ads.stg.yieldmo.com
+ads.stickyadstv.com
 ads.stileproject.com
 ads.stinkyboard.com
 ads.stiripentrucopii.com
@@ -17370,6 +17373,7 @@ api-us-west.adlithium.com
 apiv0.adfox.ru
 apiv1.adfox.ru
 api-v3.tinypass.com
+api.vanilla.futurecdn.net
 api-vast-dc3.videoamp.com
 api.vertamedia.com
 api.viafoura.co
@@ -18092,6 +18096,7 @@ assets.pardot.com
 assets.perf.pardot.com
 assets.placelocal.com
 assets.popmarker.com
+assets.purch.com
 assets.rbl.ms
 assets.revcontent.com
 assets-rfm.rubiconproject.com
@@ -18180,6 +18185,7 @@ at.amoad.com
 at.atwola.com.adcom.akadns.net
 atbp.tsx.org
 atch.basebanner.com
+a.teads.com
 a.teads.tv
 atedra.com
 atemda.com
@@ -21053,6 +21059,7 @@ bootsnipp-env.elasticbeanstalk.com
 bootstraps.timesink.com
 bootstrap.vertamedia.com
 bo.placeyourview.com
+bordeaux.futurecdn.net
 boredborder.com
 boredcrown.com
 boren.marfeel.com
@@ -21960,6 +21967,7 @@ cars-callback.ojrq.net
 carscannon.com
 carsibasihabercom.adhood.com
 casa.adnxs.com
+casale-match.dotomi.com
 casalemedia.com
 casalemedia.com.edgesuite.net
 cas-bk.outbrain.de
@@ -30684,6 +30692,7 @@ gammastats.com
 gam.ownlocal.com
 ganglia.admicro.vn
 gannett.adtechus.com
+gannett-d.openx.net
 gannett-heliosiq.adtechus.com
 gannettnj.localiq.com
 gannett-sb-ec.adtechus.com
@@ -31767,6 +31776,7 @@ hbint.emxdgt.com
 hblg.media.net
 hb.lifecycle.norton.com
 hb.nexage.com
+hbopenbid.pubmatic.com
 hbpl-images.adbureau.net
 hb.rayjump.com
 hbr-d3.openxenterprise.com
@@ -32813,6 +32823,7 @@ im.adtechus.com
 im-a-dummy.stage.sxp.smartclip.net
 image2000.mtreexxx.net
 image3.static.adflex.vn
+image6.pubmatic.com
 image.adc-serv.net
 image.adc-srv.net
 image-adf.microad.jp
@@ -38253,6 +38264,7 @@ msq-adthink.nuggad.net
 msq-antennereunion.nuggad.net
 msq-ouestfrance.nuggad.net
 ms.silverpush.co
+mssl.fwmrm.net
 ms.smartstream.tv
 m-sso.openx.com
 ms-stage.gumgum.com
@@ -40462,6 +40474,7 @@ opps.basebanner.com
 opps.taboola.com
 opps.zorosrv.com
 opros.yadro.ru
+ops.bestofmedia.com
 ops-cdn.undertone.com
 op.skimresources.com
 ops.outbrain.de
@@ -48395,6 +48408,7 @@ silverback.alignable.com
 silverpop.com
 silverpush.affise.com
 silverpush.co
+simage2.pubmatic.com
 s-img.adskeeper.co.uk
 simg.media.net
 s-img.mgid.com
@@ -55010,6 +55024,7 @@ videomediagroup.com
 video.mediamind.com
 video.mediavine.com
 video.mgid.com
+video.moatads.com
 video.monarchads.com
 video-native.mgid.com
 video-native.steepto.com
@@ -56219,6 +56234,7 @@ widgetsfinder.outbrain.de
 widgetsfinder.outbrain.fr
 widgetsfinder.outbrain.it
 widgetsfinder.outbrain.org
+widgets.future-fie-assets.co.uk
 widgets.future-fie.co.uk
 widgets.future-hawk-content.co.uk
 widgets.hawk-assets.co.uk
