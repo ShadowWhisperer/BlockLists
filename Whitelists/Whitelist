@@ -238,9 +238,12 @@ nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
 uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
 api2.sr.roku.com                           # App - The Roku Channel
+configs.ott.aetnd.com                      # App - A&E - Check for internet access
+signature.video.aetnd.com                  # App - A&E - Crashs App
 oempprd.samsungcloudsolution.com           # Samsung - App Updates
 oempprd.samsungcloudsolution.net           # Samsung - App Updates
 api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
+liberty.sw.roku.com                        # TCL - Roku System Update Check
 
 
 # Breaks Some Sites
