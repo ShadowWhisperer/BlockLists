@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 8/29/2020  00:18 (12:18 AM CST)
+# Updated: 8/29/2020  20:49 (8:49 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12478,6 +12478,7 @@ cdn-ams-v3.conductrics.com
 cdn-ap.33across.com
 cdn-api.arcpublishing.com
 cdn-apiservices.krxd.net
+cdn.appdynamics.com
 cdn-app-eu.lp4.io
 cdnappicons.appsflyer.com
 cdn.appnext.com
@@ -16470,6 +16471,7 @@ cpg.t.domdex.com
 c.ph.msn.com
 cph-v4.pops.fastly-insights.com
 cpixgenlimited647378862214.s.moatpixel.com
+cplay.watch.aetnd.com
 cpn.bouncex.net
 cpn-preflight.bouncex.net
 cpp.solution.weborama.fr
@@ -17906,6 +17908,7 @@ de.cdn-v3.conductrics.com
 decibelinsight.com
 decibelinsight.net
 decide.mixpanel.com
+decision.ns1.video.aetnd.com
 decision.taplytics.com
 deckers.c3metrics.com
 decksdirect.evergage.com
@@ -21101,6 +21104,7 @@ feelingtouch.helpshift.com
 feel.privy.com
 fe-fi.imrworldwide.com
 fe-it.imrworldwide.com
+felix.data.tm-awx.com
 felixschllergroup01.wt-eu02.net
 femaledaily.api.sociaplus.com
 fem.femara.com
@@ -22596,6 +22600,7 @@ get-ca.provenpixel.com
 get.channelsight.com
 get.civicscience.com
 getclicky.com
+get.convrse.media
 getdeeplink.linksynergy.com
 getdrip.com
 getdrip.s3.amazonaws.com
@@ -22609,6 +22614,7 @@ get.hull.io
 get.indicative.com
 getintentdisplay518651277482.s.moatpixel.com
 get.keen.io
+get-latest.convrse.media
 get.leadfeeder.com
 getlocalmeasure.piwikpro.com
 getmetrical.com
@@ -37837,6 +37843,7 @@ public.53.localytics.com
 public.amberdata.io
 public-analytics.us-east-1.prod.public.atl-paas.net
 public-api.devmate.com
+public-api.wordpress.com
 public-assets.callrail.com
 public-assets.typeform.com
 public.gameanalytics.com
@@ -55125,6 +55132,7 @@ stm-cdn.cn.miaozhen.com
 stm.cn.miaozhen.com
 stm-collect.cn.miaozhen.com
 stm-collect-demo.cn.miaozhen.com
+stmg-prod.mirror.co.uk
 st-mig-smtp.shoppertrak.com
 stms.53.com
 st.newyorklife.com
@@ -66482,6 +66490,7 @@ wap.amap.com
 wapi.db-ip.com
 wapi.ndtv.com
 wapi.terapeak.com
+wapo-analytics.zeustechnology.com
 w.apprep.smartscreen.microsoft.com
 wa.proflowers.com
 wa.racetickets.com

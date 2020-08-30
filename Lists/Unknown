@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 8/29/2020  00:18 (12:18 AM CST)
+# Updated: 8/29/2020  20:49 (8:49 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -32,9 +32,7 @@ ioninteractive.com            #Ion Interactive
 neatab.com                  #Neat A/B Testing
 staging.neatab.com          #Neat A/B Testing
 ecp.yusercontent.com          #Oath Inc.
-fpdbs.paypal.com                  #Paypal (Logo?)
-quora-prod-tch-vpc-1136165707.us-east-1.elb.amazonaws.com  #Quora
-tch710729.tch.quora.com                                    #Quora
+fpdbs.paypal.com                 #Paypal (Logo?)
 api.promotions.skype.com           #Skype
 promotions.skype.com               #Skype
 bo.promotions.skype.com            #Skype
@@ -42,7 +40,6 @@ vliplatform.com              #viPlayer  (elblogdelnarco.com)
 ptest.ysm.yahoo.com              #Yahoo   (http://ptest.ysm.yahoo.com/ypa/?ct=2&c=aa0000001&u=http%3A%2F%2Fsearchly.org%2Fs%3Fq%3Dsd%26submit%3D&r=http%3A%2F%2Fsearchly.org%2F&w=1&tv=&tt=sd&lo=&ty=test&ts=1585669393037&ao=&h=1&CoNo=3101986f54e414a6&dT=1&er=0&si=p-adSlot%3A600x494%2CalgoSlot%3A600x494)
 distillery.wistia.com       #Wistia
 wistia.com                  #Wistia
-
 2agshdqwvcqs.website        #(Either Ad or Malware)  *Owned by Data-Cash
 bj.byteweb.it               #(Either Ad or Malware)  *Redirected site to scam page (bestprizesday2.life)
 pornwave.com                #(Either Ad or Malware)  *Redirected site to malware page (watchmygirlfriend.to)
@@ -345,7 +342,6 @@ dtzbdy9anri2p.cloudfront.net
 ecdn.analysis.fi
 everup.io
 exlusepolly.com
-felix.data.tm-awx.com
 geolookup-a.akamaihd.net
 gsspcln.jp
 huqindustries.co.uk
@@ -822,14 +818,21 @@ wasabi.pluto.tv                                       #Pluto.TV
 video.pluto.tv                                        #Pluto.TV
 lat-services.api.data.roku.com                     #Roku TV - Tracking ?
 api.sr.roku.com                                    #Roku TV - Crach Log?
+439.dms-us.ott.kaltura.com                         #Roku TV
 amarillo.sb.roku.com                               #Roku TV
 amoeba-plus.web.roku.com                           #Roku TV
 amoeba.web.roku.com                                #Roku TV
+assets.sr.roku.com                                 #Roku TV
 cloudservices.roku.com                             #Roku TV
+content.sr.roku.com                                #Roku TV
+epgreg.sr.roku.com                                 #Roku TV
+glu7wnxq4a.execute-api.eu-west-1.amazonaws.com     #Roku TV
+images.orp2.ott.kaltura.com                        #Roku TV
 keysvc.cs.roku.com                                 #Roku TV
 liberty.sb.roku.com                                #Roku TV
-liberty.sw.roku.com                                #Roku TV
 navigation.sr.roku.com                             #Roku TV
+nmxott.akamaized.net                               #Roku TV
+rest-us.ott.kaltura.com                            #Roku TV
 samples.voice.cti.roku.com                         #Roku TV
 traces.sr.roku.com                                 #Roku TV
 monorail-edge.shopifysvc.com                              #Shopify
