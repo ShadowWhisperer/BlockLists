@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 8/25/2020  17:01 (5:01 PM CST)
+# Updated: 9/2/2020  12:37 (12:37 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -22,6 +22,7 @@ lavasoft.com                                        #Antivirus    Adaware
 webcompanion.com                                    #Antivirus    Adaware
 bitdefender.com                                     #Antivirus    Bit Defender
 bitdefender.net                                     #Antivirus    Bit Defender
+nimbus.bitdefender.net                              #Antivirus    Bit Defender
 da3e3.net                                           #Antivirus    Bit Defender
 e5.sk                                               #Antivirus    Eset
 eset.com                                            #Antivirus    Eset
@@ -322,7 +323,8 @@ xtreemhost.com                                       #Web Hosting
 cdn.ebaumsworld.com                                  #Website - eBaum's World (Contains adult content)
 ebaumsworld.com                                      #Website - eBaum's World (Contains adult content)
 images.ebaumsworld.com                               #Website - eBaum's World (Contains adult content)
-rt.com                                               #Website - RT (News Site operated by Russian Gov.)
+mystart.incredimail.com                              #Website - Incredimail (Browser Homepage Hijack)
+rt.com                                               #Website - RT (News site operated by Russian Gov.)
 en.vidmo.org                                         #Website - Vidmo (Contains adult videos)
 vidmo.org                                            #Website - Vidmo (Contains adult videos)
 

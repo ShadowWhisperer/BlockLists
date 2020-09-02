@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 8/28/2020  16:55 (4:55 PM CST)
+# Updated: 9/2/2020  12:37 (12:37 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -131,7 +131,11 @@ pluso.ru                                                #Webpages - Social Media
 s7.addthis.com                                          #Webpages - Social Media
 s9.addthis.com                                          #Webpages - Social Media
 share.pluso.ru                                          #Webpages - Social Media
+l.sharethis.com                                         #Webpages - Social Media
 sharethis.com                                           #Webpages - Social Media
+ss.sharethis.com                                        #Webpages - Social Media
+sync.sharethis.com                                      #Webpages - Social Media
+t.sharethis.com                                         #Webpages - Social Media
 w.sharethis.com                                         #Webpages - Social Media
 sharethis.net                                           #Webpages - Social Media
 static1.twitcount.com                                   #Webpages - Social Media
@@ -606,6 +610,7 @@ playerio.com                                            #Android  [Game Creator]
 d3699v4tsyfjnd.cloudfront.net                           #Android  [Game Engine]   Unity 3D
 unity3d.com                                             #Android  [Game Engine]   Unity 3D
 aptoide.com                                             #Android  [APK Downloads]
+cdn6.aptoide.com                                        #Android  [APK Downloads]
 
 ipv4.connman.net                                        #Arch / Others - Internet Access Check
 connectivity-check.ubuntu.com                           #Ubuntu - Internet Access Check

@@ -1,6 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Updated: 8/19/2020  22:27  (10:27 PM)  - Central Standard Time
+# Updated: 9/2/2020  12:37 (12:37 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -465,16 +465,17 @@
 
 .0rg           Invalid
 .c0m           Invalid
-.exe           Invalid
 .g0v           Invalid
+.exe           Invalid
+.js            Invalid
 
 .eh            Unassigned
 .fw            Unassigned
 .mf            Not Used - Saint Martin (North America)
 
+
 .tf            Multiple - French Southern & Antarctic Lands
 .bv            No Continent - Bouvet Island
-
 
 .africa        Africa
 .cf            Africa - African Republic
