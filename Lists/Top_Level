@@ -1,6 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Updated: 9/3/2020  20:16 (8:16 PM CST)
+# Updated: 9/4/2020  15:50 (3:50 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -46,12 +46,18 @@
 #
 
 
-.engeniusrouter   # ?  -  After Some Avast Domains
+.engeniusrouter   #  After Some Avast Domains
 
+
+.abb
+.abbott
 .academy
 .accountant
 .accountants
+.aco
 .actor
+.adac
+.ads
 .aero
 .agency
 .ai
@@ -59,6 +65,7 @@
 .airforce
 .apartments
 .app
+.arab
 .archi
 .army
 .arpa
@@ -74,10 +81,13 @@
 .band
 .bar
 .bargains
+.baseball
+.basketball
 .bayern
 .beer
 .best
 .bet
+.bible
 .bid
 .bike
 .bingo
@@ -87,12 +97,19 @@
 .blackfriday
 .blue
 .boats
+.bond
+.book
+.booking
 .boston
+.bot
 .boutique
+.box
+.broadway
 .brown
 .build
 .builders
 .business
+.buy
 .buzz
 .cab
 .cafe
@@ -110,8 +127,11 @@
 .casino
 .cat
 .catering
+.catholic
 .center
 .ceo
+.chanel
+.channel
 .charity
 .chat
 .cheap
@@ -130,22 +150,29 @@
 .college
 .community
 .company
+.compare
 .computer
 .condos
 .construction
 .consulting
+.contact
 .contractors
 .cooking
 .cool
 .coop
 .country
+.coupon
 .coupons
 .courses
 .credit
 .creditcard
 .cricket
+.crown
 .cruises
+.dad
 .dance
+.deal
+.dealer
 .degree
 .delivery
 .democrat
@@ -161,12 +188,15 @@
 .directory
 .disabled
 .discount
+.docs
 .doctor
 .dog
 .dom
 .domains
 .download
+.duck
 .earth
+.eat
 .eco
 .education
 .energy
@@ -187,7 +217,9 @@
 .fans
 .farm
 .fashion
+.fast
 .film
+.final
 .finance
 .financial
 .fish
@@ -197,6 +229,8 @@
 .flights
 .florist
 .flowers
+.fly
+.food
 .football
 .forsale
 .foundation
@@ -222,13 +256,16 @@
 .gratis
 .green
 .gripe
+.grocery
 .group
+.guardian
 .guitars
 .guru
 .haus
 .health
 .healthcare
 .help
+.here
 .hiphop
 .hiv
 .hockey
@@ -240,6 +277,7 @@
 .hospital
 .host
 .hosting
+.hot
 .house
 .how
 .html
@@ -265,12 +303,15 @@
 .kiwi
 .land
 .lat
+.law
 .lawyer
 .lease
 .legal
 .lgbt
 .life
+.lifestyle
 .lighting
+.like
 .limited
 .limo
 .link
@@ -287,15 +328,22 @@
 .luxe
 .luxury
 .maison
+.makeup
+.man
 .management
+.map
 .market
 .marketing
+.markets
 .mba
+.meet
 .melbourne
+.meme
 .memorial
 .men
 .menu
 .miami
+.mlb
 .mobi
 .moda
 .moe
@@ -307,29 +355,42 @@
 .nagoya
 .name
 .navy
+.nba
 .network
+.new
 .news
+.nfl
 .ninja
+.now
 .observer
+.office
 .okinawa
 .one
 .onl
 .online
 .ooo
+.open
+.orange
 .organic
 .ovh
 .partners
 .parts
 .party
+.pay
 .pet
+.pharmacy
+.phone
 .photo
 .photography
 .photos
 .php
 .pics
 .pictures
+.ping
 .pink
 .pizza
+.place
+.play
 .plumbing
 .plus
 .poker
@@ -343,7 +404,10 @@
 .pub
 .qpon
 .racing
+.raid
+.read
 .realestate
+.realtor
 .realty
 .recipes
 .red
@@ -364,24 +428,34 @@
 .rip
 .rocks
 .rodeo
+.room
+.rsvp
 .run
 .ryukyu
+.safety
 .sale
 .salon
 .sarl
 .school
 .schule
 .science
+.search
+.secure
 .security
 .services
 .shoes
 .shop
 .shopping
 .show
+.silk
 .singles
 .site
 .size
 .ski
+.skin
+.sky
+.smart
+.smile
 .soccer
 .social
 .software
@@ -389,7 +463,10 @@
 .solutions
 .soy
 .space
+.sport
+.spreadbetting
 .srl
+.star
 .storage
 .store
 .stream
@@ -403,6 +480,8 @@
 .surf
 .surgery
 .systems
+.tab
+.talk
 .tattoo
 .tax
 .taxi
@@ -414,19 +493,25 @@
 .theatre
 .tickets
 .tienda
+.tiffany
 .tips
 .tires
 .tld
 .today
 .tools
 .top
+.total
 .tours
 .town
 .toys
 .trade
+.trading
 .training
 .travel
+.travelers
+.trust
 .tube
+.tunes
 .university
 .uno
 .vacations
@@ -435,12 +520,14 @@
 .vet
 .viajes
 .video
+.viking
 .villas
 .vin
 .vip
 .vision
 .vodka
 .vote
+.voting
 .voto
 .voyage
 .wang
@@ -451,30 +538,41 @@
 .wiki
 .win
 .wine
+.winners
 .work
+.works
 .world
+.wow
 .wtf
 .xin
 .xyz
 .yachts
 .yoga
 .yokohama
+.you
 .zip
 .zone
 
 
-.0rg           Invalid
-.c0m           Invalid
-.g0v           Invalid
-.exe           Invalid
 
-.bin           Invalide
+.exe           Invalid
+.bin           Invalid
 .js            Invalid
 
 .eh            Unassigned
 .fw            Unassigned
 .mf            Not Used - Saint Martin (North America)
 
+.aaa           AAA Insurance
+.aeg           Electrolux - Home Appliances
+.aetna         Aetna Inc. - Health Care Company
+.aarp          American Association of Retired Persons
+.abarth        Abarth - Car Company
+.able          Able Inc. - Non-profit for disabled peole
+.afl           Australian Football League
+
+.alsace        lsatia - Cultural region in eastern France
+.bzh           Brittany / Breton Culture & Languages
 
 .tf            Multiple - French Southern & Antarctic Lands
 .bv            No Continent - Bouvet Island
@@ -526,6 +624,7 @@
 .sc            Africa - Seychelles
 .sl            Africa - Sierra Leone
 .za            Africa - South Africa
+.ss            Africa - South Sudan
 .sd            Africa - Sudan
 .tz            Africa - Tanzania
 .tg            Africa - Togo
@@ -534,7 +633,8 @@
 .zm            Africa - Zambia
 .zw            Africa - Zimbabwe
 
-.eg            Africa / Asia - Egypt
+.eg            Africa / Asia   - Egypt
+.madrid        Africa / Europe - Madrid, Spain
 
 .aq            Antarctica
 .gs            Antarctica - South Georgia / South Sandwich Islands

@@ -1,38 +1,40 @@
 #
 #    File: Apple   (Bloat / Push Notifications)
-# Updated: 8/4/2020  08:10  (8:10 AM)  - Central Standard Time
+# Updated: 9/4/2020  15:50 (3:50 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-captive.apple.com                    # Captive Portal - Looks For Wifi Login
-attwifi.apple.com                    # Captive Portal - Looks For Wifi Login
+captive.apple.com                         # Captive Portal - Looks For Wifi Login
+attwifi.apple.com                         # Captive Portal - Looks For Wifi Login
 
-aolauth.icloud.com                   # App - AIM
-aolauthtest.icloud.com               # App - AIM
-apfw.apple.com                       # App - AirPort Utility
-apsu.apple.com                       # App - AirPort Utility
-wu-calculator.apple.com              # App - Calculator
-guzzoni.apple.com                    # App - Siri
-wu-stocks.apple.com                  # App - Stocks
-qtpartners.apple.com                 # App - Quicktime
-qtsoftware.apple.com                 # App - Quicktime
-quicktimepro.apple.com               # App - Quicktime
+aolauth.icloud.com                        # App - AIM
+aolauthtest.icloud.com                    # App - AIM
+apfw.apple.com                            # App - AirPort Utility
+apsu.apple.com                            # App - AirPort Utility
+wu-calculator.apple.com                   # App - Calculator
+guzzoni.apple.com                         # App - Siri
+wu-stocks.apple.com                       # App - Stocks
+qtpartners.apple.com                      # App - Quicktime
+qtsoftware.apple.com                      # App - Quicktime
+quicktimepro.apple.com                    # App - Quicktime
 
-pancake.apple.com                    # Authorization for Home Sharing
-pancake.cdn-apple.com.akadns.net     # Authorization for Home Sharing
+pancake.apple.com                         # Authorization for Home Sharing
+pancake.cdn-apple.com.akadns.net          # Authorization for Home Sharing
+pancake.g.aaplimg.com                     # Authorization for Home Sharing
 
-api.smoot.apple.com                  # Spotlight Suggestions
-smoot.apple.com                      # Spotlight Suggestions
+api-glb-msp.smoot.apple.com               # Spotlight Suggestions
+api.smoot.apple.com                       # Spotlight Suggestions
+smoot.apple.com                           # Spotlight Suggestions
 
-courier-push-apple-com.akadns.net          # Push Notification Service
-courier-sandbox-push-apple.com.akadns.net  # Push Notification Service
-push-apple.com.akadns.net                  # Push Notification Service
-push-apple.com                             # Push Notification Service
-push.apple.com                             # Push Notification Service
-us-courier.apple.com.akadns.net            # Push Notification Service
+courier-push-apple-com.akadns.net         # Push Notification Service
+courier-sandbox-push-apple.com.akadns.net # Push Notification Service
+push-apple.com.akadns.net                 # Push Notification Service
+push-apple.com                            # Push Notification Service
+push.apple.com                            # Push Notification Service
+us-courier.apple.com.akadns.net           # Push Notification Service
 
 fmip.me.com                          # Find My iPhone
 p01-fmip.icloud.com                  # Find My iPhone
