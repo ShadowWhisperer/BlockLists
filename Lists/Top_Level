@@ -1,6 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Updated: 9/2/2020  12:37 (12:37 PM CST)
+# Updated: 9/3/2020  20:16 (8:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -467,6 +467,8 @@
 .c0m           Invalid
 .g0v           Invalid
 .exe           Invalid
+
+.bin           Invalide
 .js            Invalid
 
 .eh            Unassigned

@@ -1,6 +1,6 @@
 #
 #    File: Unknown   (Site that have appeared in my logs / Research I have found from other lists)
-# Updated: 9/2/2020  12:37 (12:37 PM CST)
+# Updated: 9/3/2020  20:16 (8:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -11,6 +11,7 @@
 #############################
 # Ads
 #############################
+unoadsrv.com                       #Defunct?
 1105cms01.com                             #1105 Media
 1105media.com                             #1105 Media
 virtualizationreview.1105cms01.com        #1105 Media
@@ -726,7 +727,6 @@ gem-pa.googleapis.com                          #Google
 googlecommerce.com                             #Google
 googlehomefoyer-pa.googleapis.com              #Google
 googleoptimize.com                             #Google
-i.clean.gg                                     #Google
 infinitedata-pa.googleapis.com                 #Google
 j.clean.gg                                     #Google
 khmdb.google.com                               #Google
@@ -908,8 +908,6 @@ atsv2-fp.wg1.b.yahoo.com                     #Yahoo
 fc.yahoo.com                                 #Yahoo
 ganon.yahoo.com                              #Yahoo
 lh.secure.yahoo.com                          #Yahoo
-###########################################################
-vjs.zencdn.net                   #WebVTT (Web Video Text Tracks) - Used for displaying timed text in videos
 ##################################################################
 api.na1.region.vmwservices.com                                       #Android Phone
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com   #Samsung Phone
