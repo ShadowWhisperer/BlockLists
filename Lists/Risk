@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 8/28/2020  16:55 (4:55 PM CST)
+# Updated: 9/11/2020  11:06 (11:06 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -41,6 +41,7 @@ airtel.in                                     #ISP    Worst Spam     Feb. 2019
 aapks.com                                     #APK Hosting (Android Apps)
 
 bitbucket.io                                  #Code Hosting - Hosts a lot of malware / scam sites
+stackblitz.io                                 #Code Hosting - Hosts a lot of malware / scam sites
 
 appdomain.cloud                               #Cloud Storage (IBM) - Known to have malware
 

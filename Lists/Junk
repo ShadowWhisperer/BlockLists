@@ -1,220 +1,270 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 9/3/2020  20:16 (8:16 PM CST)
+# Updated: 9/11/2020  11:06 (11:06 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+superantispyware.com                                 #AntiMalware  SuperAntiSpyware
+enigmasoftware.com                                   #AntiMalware  SpyHunter
+360.cn                                               #Antivirus    360 Total Security
+360.com                                              #Antivirus    360 Total Security
+360os.com                                            #Antivirus    360 Total Security
+360safe.com                                          #Antivirus    360 Total Security
+360totalsecurity.com                                 #Antivirus    360 Total Security
+orion.ts.360.com                                     #Antivirus    360 Total Security
+s.360safe.com                                        #Antivirus    360 Total Security
+adaware.com                                          #Antivirus    Adaware
+lavasoft.com                                         #Antivirus    Adaware
+webcompanion.com                                     #Antivirus    Adaware
+bitdefender.com                                      #Antivirus    Bit Defender
+bitdefender.net                                      #Antivirus    Bit Defender
+nimbus.bitdefender.net                               #Antivirus    Bit Defender
+da3e3.net                                            #Antivirus    Bit Defender
+e5.sk                                                #Antivirus    Eset
+eset.com                                             #Antivirus    Eset
+fsapi.com                                            #Antivirus    F-Secure
+f-secure.com                                         #Antivirus    F-Secure
+ijinshan.com                                         #Antivirus    Kingsoft
+cloudantivirus.com                                   #Antivirus    Panda
+pandasecurity.com                                    #Antivirus    Panda
+pandasoftware.com                                    #Antivirus    Panda
+stopzilla.com                                        #Antivirus    StopZilla
+api.totalav.com                                      #Antivirus    TotalAV
+totalav.com                                          #Antivirus    TotalAV
+webshield.totalav.com                                #Antivirus    TotalAV
+detail.webrootcloudav.com                            #Antivirus    Webroot
+g2.p4.webrootcloudav.com                             #Antivirus    Webroot
+sn-euw1.webrootcloudav.com                           #Antivirus    Webroot
+sn-usw2.webrootcloudav.com                           #Antivirus    Webroot
+snu.webrootcloudav.com                               #Antivirus    Webroot
+sn.webrootcloudav.com                                #Antivirus    Webroot
+updates.webroot.com                                  #Antivirus    Webroot
+webrootcloudav.com                                   #Antivirus    Webroot
+webroot.com                                          #Antivirus    Webroot
 
-superantispyware.com                                #AntiMalware  SuperAntiSpyware
-enigmasoftware.com                                  #AntiMalware  SpyHunter
-360.cn                                              #Antivirus    360 Total Security
-360.com                                             #Antivirus    360 Total Security
-360os.com                                           #Antivirus    360 Total Security
-360safe.com                                         #Antivirus    360 Total Security
-360totalsecurity.com                                #Antivirus    360 Total Security
-orion.ts.360.com                                    #Antivirus    360 Total Security
-s.360safe.com                                       #Antivirus    360 Total Security
-adaware.com                                         #Antivirus    Adaware
-lavasoft.com                                        #Antivirus    Adaware
-webcompanion.com                                    #Antivirus    Adaware
-bitdefender.com                                     #Antivirus    Bit Defender
-bitdefender.net                                     #Antivirus    Bit Defender
-nimbus.bitdefender.net                              #Antivirus    Bit Defender
-da3e3.net                                           #Antivirus    Bit Defender
-e5.sk                                               #Antivirus    Eset
-eset.com                                            #Antivirus    Eset
-fsapi.com                                           #Antivirus    F-Secure
-f-secure.com                                        #Antivirus    F-Secure
-ijinshan.com                                        #Antivirus    Kingsoft
-cloudantivirus.com                                  #Antivirus    Panda
-pandasecurity.com                                   #Antivirus    Panda
-pandasoftware.com                                   #Antivirus    Panda
-stopzilla.com                                       #Antivirus    StopZilla
-api.totalav.com                                     #Antivirus    TotalAV
-totalav.com                                         #Antivirus    TotalAV
-webshield.totalav.com                               #Antivirus    TotalAV
-detail.webrootcloudav.com                           #Antivirus    Webroot
-g2.p4.webrootcloudav.com                            #Antivirus    Webroot
-sn-euw1.webrootcloudav.com                          #Antivirus    Webroot
-sn-usw2.webrootcloudav.com                          #Antivirus    Webroot
-snu.webrootcloudav.com                              #Antivirus    Webroot
-sn.webrootcloudav.com                               #Antivirus    Webroot
-updates.webroot.com                                 #Antivirus    Webroot
-webrootcloudav.com                                  #Antivirus    Webroot
-webroot.com                                         #Antivirus    Webroot
+2link.be                                             #Bookmark Site
+bestelinks.nl                                        #Bookmark Site
+boogolinks.nl                                        #Bookmark Site
+eigenstart.be                                        #Bookmark Site
+favorietje.nl                                        #Bookmark Site
+favos.nl                                             #Bookmark Site
+fopu.com                                             #Bookmark Site
+icio.us                                              #Bookmark Site
+jouwpagina.be                                        #Bookmark Site
+jouwpagina.nl                                        #Bookmark Site
+linkarena.com                                        #Bookmark Site
+linkoverzicht.be                                     #Bookmark Site
+maakjestart.nl                                       #Bookmark Site
+ontoplist.com                                        #Bookmark Site
+pagina.nl                                            #Bookmark Site
+pagina.nu                                            #Bookmark Site
+startbeurs.be                                        #Bookmark Site
+startbewijs.be                                       #Bookmark Site
+startbewijs.nl                                       #Bookmark Site
+startclub.nl                                         #Bookmark Site
+startje.com                                          #Bookmark Site
+startkabel.nl                                        #Bookmark Site
+startplezier.nl                                      #Bookmark Site
+startspin.be                                         #Bookmark Site
+startspin.nl                                         #Bookmark Site
+startvista.be                                        #Bookmark Site
+top-100.pl                                           #Bookmark Site
+toplista.pl                                          #Bookmark Site
+webgidsje.nl                                         #Bookmark Site
 
-2link.be                                            #Bookmark Site
-bestelinks.nl                                       #Bookmark Site
-boogolinks.nl                                       #Bookmark Site
-eigenstart.be                                       #Bookmark Site
-favorietje.nl                                       #Bookmark Site
-favos.nl                                            #Bookmark Site
-fopu.com                                            #Bookmark Site
-icio.us                                             #Bookmark Site
-jouwpagina.be                                       #Bookmark Site
-jouwpagina.nl                                       #Bookmark Site
-linkarena.com                                       #Bookmark Site
-linkoverzicht.be                                    #Bookmark Site
-maakjestart.nl                                      #Bookmark Site
-ontoplist.com                                       #Bookmark Site
-pagina.nl                                           #Bookmark Site
-pagina.nu                                           #Bookmark Site
-startbeurs.be                                       #Bookmark Site
-startbewijs.be                                      #Bookmark Site
-startbewijs.nl                                      #Bookmark Site
-startclub.nl                                        #Bookmark Site
-startje.com                                         #Bookmark Site
-startkabel.nl                                       #Bookmark Site
-startplezier.nl                                     #Bookmark Site
-startspin.be                                        #Bookmark Site
-startspin.nl                                        #Bookmark Site
-startvista.be                                       #Bookmark Site
-top-100.pl                                          #Bookmark Site
-toplista.pl                                         #Bookmark Site
-webgidsje.nl                                        #Bookmark Site
+brave.com                                            #Browser
+bravesoftware.com                                    #Browser
+co.cc                                                #Browser
+coccoc.com                                           #Browser
+c.union.ucweb.com                                    #Browser
+image.uc.cn                                          #Browser
+img.ucweb.com                                        #Browser
+maxthon.com                                          #Browser
+orbitum.com                                          #Browser
+uc.cn                                                #Browser
+ucweb.com                                            #Browser
+updates.bravesoftware.com                            #Browser
 
-brave.com                                           #Browser
-bravesoftware.com                                   #Browser
-co.cc                                               #Browser
-coccoc.com                                          #Browser
-c.union.ucweb.com                                   #Browser
-image.uc.cn                                         #Browser
-img.ucweb.com                                       #Browser
-maxthon.com                                         #Browser
-orbitum.com                                         #Browser
-uc.cn                                               #Browser
-ucweb.com                                           #Browser
-updates.bravesoftware.com                           #Browser
-
-adblockplus.org                                     #Browser Extension
-adtidy.org                                          #Browser Extension
-adzero.org                                          #Browser Extension
-auth.grammarly.com                                  #Browser Extension
-bleengo.com                                         #Browser Extension
-chrome.adtidy.org                                   #Browser Extension
-data.grammarly.com                                  #Browser Extension
-gingersoftware.com                                  #Browser Extension
-gnar.grammarly.com                                  #Browser Extension
-grammarly.com                                       #Browser Extension
-grammarly.io                                        #Browser Extension
-notification.adblockplus.org                        #Browser Extension
-search.bleengo.com                                  #Browser Extension
-static.grammarly.com                                #Browser Extension
+adblockplus.org                                      #Browser Extension
+adtidy.org                                           #Browser Extension
+adzero.org                                           #Browser Extension
+auth.grammarly.com                                   #Browser Extension
+bleengo.com                                          #Browser Extension
+chrome.adtidy.org                                    #Browser Extension
+data.grammarly.com                                   #Browser Extension
+gingersoftware.com                                   #Browser Extension
+gnar.grammarly.com                                   #Browser Extension
+grammarly.com                                        #Browser Extension
+grammarly.io                                         #Browser Extension
+notification.adblockplus.org                         #Browser Extension
+search.bleengo.com                                   #Browser Extension
+static.grammarly.com                                 #Browser Extension
 
 
-secure.retailmenot.com                              #Cash Back / Coupons
-ecbsn.com                                           #Cash Back (Ebates)
-ebates.com                                          #Cash Back
-rakuten.com                                         #Cash Back
-shopbackau.zendesk.com                              #Cash Back
-shopback.com.au                                     #Cash Back
-shopback.com                                        #Cash Back
-shopback.my                                         #Cash Back
-shopbacksg2.zendesk.com                             #Cash Back
-shopback.sg                                         #Cash Back
-splitter.ebates.com                                 #Cash Back
-static.ebates.com                                   #Cash Back
+secure.retailmenot.com                               #Cash Back / Coupons
+ecbsn.com                                            #Cash Back (Ebates)
+ebates.com                                           #Cash Back
+rakuten.com                                          #Cash Back
+shopbackau.zendesk.com                               #Cash Back
+shopback.com.au                                      #Cash Back
+shopback.com                                         #Cash Back
+shopback.my                                          #Cash Back
+shopbacksg2.zendesk.com                              #Cash Back
+shopback.sg                                          #Cash Back
+splitter.ebates.com                                  #Cash Back
+static.ebates.com                                    #Cash Back
 
-befrugal.com                                        #Coupons
-cdn.cpnscdn.com                                     #Coupons
-coupons.com                                         #Coupons
-cpnscdn.com                                         #Coupons
-shopathome.com                                      #Coupons
-steamloto.org                                       #Coupons
+befrugal.com                                         #Coupons
+cdn.cpnscdn.com                                      #Coupons
+coupons.com                                          #Coupons
+cpnscdn.com                                          #Coupons
+shopathome.com                                       #Coupons
+steamloto.org                                        #Coupons
 
-ig.com.br                                           #ISP (Brazil)
-xunlei.com                                          #ISP (China)
-aliceadsl.fr                                        #ISP (France)
-free.fr                                             #ISP (France)
-orange.fr                                           #ISP (France)
-pagesperso-orange.fr                                #ISP (France)
-proxad.net                                          #ISP (France)
-sfr.fr                                              #ISP (France)
-voila.fr                                            #ISP (France)
-wanadoo.es                                          #ISP (France)
-wanadoo.fr                                          #ISP (France)
-fibernet.hu                                         #ISP (Hungary)
-airtel.net                                          #ISP (India)
-irishbroadband.ie                                   #ISP (Ireland)
-bezeqint.net                                        #ISP (Israel)
-alice.it                                            #ISP (Italy)
-fastwebnet.it                                       #ISP (Italy)
-tim.it                                              #ISP (Italy)
-onvol.net                                           #ISP (Republic of Malta)
-telia.com                                           #ISP (Sweden)
-telia.se                                            #ISP (Sweden)
-tre.se                                              #ISP (Sweden)
-hinet.net                                           #ISP (Taiwan)
-btinternet.co.uk                                    #ISP (UK)
-claranetsoho.co.uk                                  #ISP (UK)
-freeuk.com                                          #ISP (UK)
-ic24.net                                            #ISP (UK)
-madasafish.com                                      #ISP (UK)
-briz.net                                            #ISP (Ukraine)
-briz.ua                                             #ISP (Ukraine)
-debaltsevo.net                                      #ISP (Ukraine)
-speednames.asia                                     #ISP
-speednames.com                                      #ISP
-speednames.co.uk                                    #ISP
-speednames.dk                                       #ISP
-speednames.eu                                       #ISP
+ig.com.br                                            #ISP (Brazil)
+xunlei.com                                           #ISP (China)
+aliceadsl.fr                                         #ISP (France)
+free.fr                                              #ISP (France)
+orange.fr                                            #ISP (France)
+pagesperso-orange.fr                                 #ISP (France)
+proxad.net                                           #ISP (France)
+sfr.fr                                               #ISP (France)
+voila.fr                                             #ISP (France)
+wanadoo.es                                           #ISP (France)
+wanadoo.fr                                           #ISP (France)
+fibernet.hu                                          #ISP (Hungary)
+airtel.net                                           #ISP (India)
+irishbroadband.ie                                    #ISP (Ireland)
+bezeqint.net                                         #ISP (Israel)
+alice.it                                             #ISP (Italy)
+fastwebnet.it                                        #ISP (Italy)
+tim.it                                               #ISP (Italy)
+onvol.net                                            #ISP (Republic of Malta)
+telia.com                                            #ISP (Sweden)
+telia.se                                             #ISP (Sweden)
+tre.se                                               #ISP (Sweden)
+hinet.net                                            #ISP (Taiwan)
+btinternet.co.uk                                     #ISP (UK)
+claranetsoho.co.uk                                   #ISP (UK)
+freeuk.com                                           #ISP (UK)
+ic24.net                                             #ISP (UK)
+madasafish.com                                       #ISP (UK)
+briz.net                                             #ISP (Ukraine)
+briz.ua                                              #ISP (Ukraine)
+debaltsevo.net                                       #ISP (Ukraine)
+speednames.asia                                      #ISP
+speednames.com                                       #ISP
+speednames.co.uk                                     #ISP
+speednames.dk                                        #ISP
+speednames.eu                                        #ISP
 
-miui.com                                            #Foreign   Android Rom
-shinobi.jp                                          #Foreign   Celebrity Buzz
-eu.com                                              #Foreign   Domain Register
-list.ru                                             #Foreign   Email
-mail.ru                                             #Foreign   Email
-tmall.com                                           #Foreign   Email
-vtr.net                                             #Foreign   Email
-pfmsqosprod.australiaeast.cloudapp.azure.com        #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.australiasoutheast.cloudapp.azure.com   #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.eastasia.cloudapp.azure.com             #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.japaneast.cloudapp.azure.com            #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.japanwest.cloudapp.azure.com            #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.northeurope.cloudapp.azure.com          #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.southafricanorth.cloudapp.azure.com     #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.southeastasia.cloudapp.azure.com        #Foreign   Game Servers (Causes High Ping, If from USA)
-pfmsqosprod.westeurope.cloudapp.azure.com           #Foreign   Game Servers (Causes High Ping, If from USA)
-hrvatskitelekom.hr                                  #Foreign   Phone Service
-t-com.hr                                            #Foreign   Phone Service
-163.com                                             #Foreign   Multiple (China)
-onet.pl                                             #Foreign   News (Poland)
-republika.pl                                        #Foreign   News (Poland)
-smi2.ru                                             #Foreign   News (Russia)
-bokee.net                                           #Foreign   Social Media
-mirtesen.ru                                         #Foreign   Social Media
-vk.me                                               #Foreign   Social Media
-daum.net                                            #Foreign   Web Portal (South Korea)
+miui.com                                             #Foreign   Android Rom
+shinobi.jp                                           #Foreign   Celebrity Buzz
+eu.com                                               #Foreign   Domain Register
+list.ru                                              #Foreign   Email
+mail.ru                                              #Foreign   Email
+tmall.com                                            #Foreign   Email
+vtr.net                                              #Foreign   Email
+hrvatskitelekom.hr                                   #Foreign   Phone Service
+t-com.hr                                             #Foreign   Phone Service
+163.com                                              #Foreign   Multiple (China)
+onet.pl                                              #Foreign   News (Poland)
+republika.pl                                         #Foreign   News (Poland)
+smi2.ru                                              #Foreign   News (Russia)
+bokee.net                                            #Foreign   Social Media
+mirtesen.ru                                          #Foreign   Social Media
+vk.me                                                #Foreign   Social Media
+daum.net                                             #Foreign   Web Portal (South Korea)
 
-pch.com                                             #Prizes / Giveaways
-thedailywinnings.com                                #Prizes / Giveaways
+pch.com                                              #Prizes / Giveaways
+thedailywinnings.com                                 #Prizes / Giveaways
 
-acraffiliates.com                                   #Gambling
-annuaire-x.com                                      #Gambling
-btggaming.com                                       #Gambling
-bwin.com                                            #Gambling
-ladbrokes.com                                       #Gambling
-playtech.com                                        #Gambling
-williamhill.com                                     #Gambling
+acraffiliates.com                                    #Gambling
+annuaire-x.com                                       #Gambling
+btggaming.com                                        #Gambling
+bwin.com                                             #Gambling
+ladbrokes.com                                        #Gambling
+playtech.com                                         #Gambling
+williamhill.com                                      #Gambling
 
-harpquiz.com                                        #Quiz
-magiquiz.com                                        #Quiz
+harpquiz.com                                         #Quiz
+magiquiz.com                                         #Quiz
 
+
+abtest-sg-tiktok.byteoversea.com                     #App  TikTok
 amemv.com                                            #App  TikTok
+api16-core-c-useast1a.tiktokv.com                    #App  TikTok
+api16-core-c-useast2a.tiktokv.com                    #App  TikTok
+api16-core-va.tiktokv.com                            #App  TikTok
+api16-va.tiktokv.com                                 #App  TikTok
+api19-core-c-alisg.tiktokv.com                       #App  TikTok
+api19-core-c-useast1a.tiktokv.com                    #App  TikTok
+api19-core-c-useast2a.tiktokv.com                    #App  TikTok
+api19-core-va.tiktokv.com                            #App  TikTok
+api19-normal-c-alisg.tiktokv.com                     #App  TikTok
+api19-normal-c-useast1a.tiktokv.com                  #App  TikTok
+api19-va.tiktokv.com                                 #App  TikTok
+api22-core-c-alisg.tiktokv.com                       #App  TikTok
+api22-core-c-useast1a.tiktokv.com                    #App  TikTok
+api22-normal-c-alisg.tiktokv.com                     #App  TikTok
+api22-normal-c-useast1a.tiktokv.com                  #App  TikTok
 bytedance.com                                        #App  TikTok
+dm16-useast1a.tiktokv.com                            #App  TikTok
 dm.bytedance.com                                     #App  TikTok
+hotapi.sgsnssdk.com                                  #App  TikTok
 isnssdk.com                                          #App  TikTok
+jsb-sg.byteoversea.com                               #App  TikTok
+mon-va.tiktokv.com                                   #App  TikTok
 muscdn.com                                           #App  TikTok
+p16-amd-va.tiktokcdn.com                             #App  TikTok
+p16.muscdn.com                                       #App  TikTok
+p16-sign-va.tiktokcdn.com                            #App  TikTok
 p16-tiktokcdn-com.akamaized.net                      #App  TikTok
+p16.tiktokcdn.com                                    #App  TikTok
+pull-cmaf-f16-ab.tiktokcdn.com                       #App  TikTok
+pull-cmaf-f16-sg01.tiktokcdn.com                     #App  TikTok
+pull-cmaf-f16.tiktokcdn.com                          #App  TikTok
+pull-cmaf-f5.tiktokcdn.com                           #App  TikTok
+pull-f5-ab.tiktokcdn.com                             #App  TikTok
+pull-f5-sg01.tiktokcdn.com                           #App  TikTok
+pull-f5.tiktokcdn.com                                #App  TikTok
+pull-flv-f11-ab.tiktokcdn.com                        #App  TikTok
+pull-flv-f11.tiktokcdn.com                           #App  TikTok
+pull-flv-f1-ab.tiktokcdn.com                         #App  TikTok
+pull-flv-f1.tiktokcdn.com                            #App  TikTok
+pull-flv-l11.tiktokcdn.com                           #App  TikTok
+pull-flv-l1.tiktokcdn.com                            #App  TikTok
+pull-hls-f11-ab.tiktokcdn.com                        #App  TikTok
+pull-hls-f11.tiktokcdn.com                           #App  TikTok
+pull-hls-f16-sg01.tiktokcdn.com                      #App  TikTok
+pull-hls-f1-ab.tiktokcdn.com                         #App  TikTok
+pull-hls-f1.tiktokcdn.com                            #App  TikTok
+pull-hls-f5-ab.tiktokcdn.com                         #App  TikTok
+pull-hls-f5.tiktokcdn.com                            #App  TikTok
+pull-hls-l11.tiktokcdn.com                           #App  TikTok
+pull-hls-l1.tiktokcdn.com                            #App  TikTok
+pull-hls-q5.tiktokcdn.com                            #App  TikTok
+pull-hls-w5.tiktokcdn.com                            #App  TikTok
+pull-q5.tiktokcdn.com                                #App  TikTok
+pull-rtmp-f11-ab.tiktokcdn.com                       #App  TikTok
+pull-rtmp-f11.tiktokcdn.com                          #App  TikTok
+pull-rtmp-f1-ab.tiktokcdn.com                        #App  TikTok
+pull-rtmp-f1.tiktokcdn.com                           #App  TikTok
+pull-rtmp-l11.tiktokcdn.com                          #App  TikTok
+pull-rtmp-l1.tiktokcdn.com                           #App  TikTok
+pull-w5.tiktokcdn.com                                #App  TikTok
 s16.tiktokcdn.com                                    #App  TikTok
 sf-tb-sg.ibytedtos.com                               #App  TikTok
 tiktokcdn.com                                        #App  TikTok
 tiktok.com                                           #App  TikTok
 tiktokv.com                                          #App  TikTok
 v16-tiktokcdn-com.akamaized.net                      #App  TikTok
+v25.tiktokcdn.com                                    #App  TikTok
+webcast16-normal-c-alisg.tiktokv.com                 #App  TikTok
+webcast-va.tiktokv.com                               #App  TikTok
 
 admuncher.com                                        #Software - AdMuncher
 appsgeyser.com                                       #Software - AppsGeyser  (App Creator)
@@ -414,7 +464,6 @@ oicc.org                                             #Islamic
 
 
 1757173384.rsc.cdn77.org
-alot.com
 api.eviesays.com
 api.pocketgeek.com
 api.screencastify.com
@@ -437,6 +486,5 @@ prod-minicms-1377071205.us-east-1.elb.amazonaws.com
 runewslenta.com
 screencastify.com
 supereva.it
-widget.eviesays.com
 youlucky2014.com
 zemana.com
