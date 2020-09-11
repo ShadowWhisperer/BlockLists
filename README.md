@@ -16,13 +16,12 @@
     Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
     Scam             Fraud / Fake / Misleading Sites (Not malware)  
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
-    Suspicious       Domains I am uncertain of. Contains a mixture of possible Ads, Trackers, Malware  
+    Suspicious       Domains I am uncertain of. Contains a mixture of everything  
     Top_Level        Top Level Domains. Sorted by Continent, then country
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
     Tunnels          VPNs & Proxies
     Typo             Typosquatting / Misspelling of websites  
-    Unknown          Similar to 'Suspicious', but is organized  
-  
+      
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
