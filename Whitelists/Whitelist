@@ -56,18 +56,8 @@ translate.googleapis.com               #Google - Chrome - Google
 clients6.google.com                    #Google - Drive - Dowload From Browser
 geo0.ggpht.com                         #Google - Earth - Street View
 g.live.com                                         #Microsoft - .Net Framework
-blob.officehome.msocdn.com                         #Microsoft - Office 365 - Login
-compass-ssl.microsoft.com                          #Microsoft - Office 365 - Website Tile Images
-blobs.officehome.msocdn.com                        #Microsoft - Office Site
-ajax.aspnetcdn.com                                 #Microsoft - Office - Download
-az725175.vo.msecnd.net                             #Microsoft - Office - Download
-office.live.com                                    #Microsoft - Office - Download
-statics-marketingsites-eus-ms-com.akamaized.net    #Microsoft - Office - Download - 2010
-statics-marketingsites-wcus-ms-com.akamaized.net   #Microsoft - Office - Download - 2010
-activation-v2.sls.microsoft.com                    #Microsoft - Office - Active
-go.microsoft.com                                   #Microsoft - Office - Active
-officeclient.microsoft.com                         #Microsoft - Office - Active
 licensing.mp.microsoft.com                         #Microsoft - Active Windows
+time.windows.com                                   #Microsoft - Clock
 client.hip.live.com                                #Microsoft - Create Email Account
 eus.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
 scu.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
@@ -79,12 +69,25 @@ login.microsoftonline.com                          #Microsoft - Email - Login
 mdw-efz.ms-acdc.office.com                         #Microsoft - Email - Login
 wus.client.hip.live.com                            #Microsoft - Email - Capcha
 i1.social.s-msft.com                               #Microsoft - Forums Page
-time.windows.com                                   #Microsoft - Clock
+ee38.playfabapi.com                                #Microsoft - Games - Breaks Online - Halo: Master Chief Collection
+peoplehub.xboxlive.com                             #Microsoft - Games - Breaks Social - Halo: Master Chief Collection
+title.mgt.xboxlive.com                             #Microsoft - Games - Breaks Laumch
 zone.msn.com                                       #Microsoft - MSN Games
 img-s-msn-com.akamaized.net                        #Microsoft - MSN Images
 dns.msftncsi.com                                   #Microsoft - Network Icon Status
 msftconnecttest.com                                #Microsoft - Network Icon Status
 msftncsi.com                                       #Microsoft - Network Icon Status
+blob.officehome.msocdn.com                         #Microsoft - Office 365 - Login
+compass-ssl.microsoft.com                          #Microsoft - Office 365 - Website Tile Images
+blobs.officehome.msocdn.com                        #Microsoft - Office Site
+ajax.aspnetcdn.com                                 #Microsoft - Office - Download
+az725175.vo.msecnd.net                             #Microsoft - Office - Download
+office.live.com                                    #Microsoft - Office - Download
+statics-marketingsites-eus-ms-com.akamaized.net    #Microsoft - Office - Download - 2010
+statics-marketingsites-wcus-ms-com.akamaized.net   #Microsoft - Office - Download - 2010
+activation-v2.sls.microsoft.com                    #Microsoft - Office - Active
+go.microsoft.com                                   #Microsoft - Office - Active
+officeclient.microsoft.com                         #Microsoft - Office - Active
 statics-uhf-wus.akamaized.net                      #Microsoft - Support Pages
 wdcp.microsoft.com                                 #Microsoft - Windows Defender Updates
 displaycatalog.mp.microsoft.com                    #Microsoft - Windows Store
@@ -98,8 +101,8 @@ next-services.apps.microsoft.com                   #Microsoft - Windows 8 Store
 device.auth.xboxlive.com                           #Microsoft - Windows 10 Store
 user.auth.xboxlive.com                             #Microsoft - Windows 10 Store
 xsts.auth.xboxlive.com                             #Microsoft - Windows 10 Store
-fe2cr.update.microsoft.com                         #Microsoft - Windows Updates (Windows 10)
-slscr.update.microsoft.com                         #Microsoft - Windows Updates (Windows 10)
+fe2cr.update.microsoft.com                         #Microsoft - Windows 10 Updates
+slscr.update.microsoft.com                         #Microsoft - Windows 10 Updates
 download.windowsupdate.com                         #Microsoft - Windows Updates
 update.microsoft.com                               #Microsoft - Windows Updates
 windowsupdate.com                                  #Microsoft - Windows Updates
@@ -248,24 +251,26 @@ liberty.sw.roku.com                        # TCL - Roku System Update Check
 
 # Breaks Some Sites
 ########################
-mkt6385.com                  #Marketing - Breaks Confirmation Email
-lddy.no                      #Marketing - Breaks Links
-pjtra.com                    #Marketing - Breaks Links
-shareasale.com               #Marketing - Breaks Links
-click.mc.crimsontrace.com    #Tracker - Breaks Links (Crimson Trace)
-click.email.newegg.com       #Tracker - Breaks Links (Newegg)
-geoip-db.com                 #Tracker - Breaks HP Parts Page
-7eer.net                     #Tracker - Breaks Links
-assoc-redirect.amazon.com    #Tracker - Breaks Links
-avantlink.com                #Tracker - Breaks Links
-buff.ly                      #Tracker - Breaks Links
-cdn.webclicks24.com          #Tracker - Breaks Links
-classic.avantlink.com        #Tracker - Breaks Links
-click.dji.com                #Tracker - Breaks Links
-click.linksynergy.com        #Tracker - Breaks Links
-mandrillapp.com              #Tracker - Breaks Links
-target.georiot.com           #Tracker - Breaks Links
-tracking.truthfinder.com     #Tracker - Breaks Links
+mkt6385.com                     #Marketing - Breaks Confirmation Email
+lddy.no                         #Marketing - Breaks Links
+pjtra.com                       #Marketing - Breaks Links
+shareasale.com                  #Marketing - Breaks Links
+click.mc.crimsontrace.com       #Tracker - Breaks Links (Crimson Trace)
+click.email.newegg.com          #Tracker - Breaks Links (Newegg)
+geoip-db.com                    #Tracker - Breaks HP Parts Page
+7eer.net                        #Tracker - Breaks Links
+assoc-redirect.amazon.com       #Tracker - Breaks Links
+avantlink.com                   #Tracker - Breaks Links
+buff.ly                         #Tracker - Breaks Links
+cdn.webclicks24.com             #Tracker - Breaks Links
+classic.avantlink.com           #Tracker - Breaks Links
+click.dji.com                   #Tracker - Breaks Links
+click.linksynergy.com           #Tracker - Breaks Links
+mandrillapp.com                 #Tracker - Breaks Links
+target.georiot.com              #Tracker - Breaks Links
+tracking.truthfinder.com        #Tracker - Breaks Links
+rta.xboxlive.com                #Tracker - Breaks games that use Xbox Live (Multiplayer)
+trib.al                         #URL Shortener / Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
 refer.ccbill.com
