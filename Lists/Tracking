@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 9/11/2020  11:06 (11:06 AM CST)
+# Updated: 9/15/2020  15:20 (3:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3185,6 +3185,7 @@ adcounter7.uptolike.com
 adcounter8.uptolike.com
 adcounter9.uptolike.com
 adcreative.vindicosuite.com
+adc.xxxlshop.de
 adcz.hit.gemius.pl
 adddirector.vindicosuite.com
 addfreestats.com
@@ -10032,6 +10033,7 @@ assets.logrocket.com
 assets.logrocket.io
 assets-lon5.everesttech.net
 assets.meter.activemetering.com
+assets.micpn.com
 assets.nationalgeographic.com
 assets.newsinc.com
 assets.non-prod.analytics.dealer.com
@@ -12862,6 +12864,7 @@ candidgroup.containers.piwik.pro
 candidgroup.piwik.pro
 candybanana-videogames.t.domdex.com
 candywarehouse.evergage.com
+cannontwin.com
 canon.adrime.com
 canonicalizer.ucsuri.tcs
 canon.links.channelintelligence.com
@@ -13984,6 +13987,7 @@ cii.links.channelintelligence.com
 ci.intuit.com
 cij-h.tlnk.io
 c.il.msn.com
+cimage.adobe.com
 ci-mpsnare.iesnare.com
 ci-mpsnare.iesnare.co.uk
 cincinnatistate.rtrk.com
@@ -14563,6 +14567,7 @@ click.mail.preferrednewsletters.com
 click.m.ambientplatform.vn
 click.mancheck.com
 click.maxxandmore.com
+click.mc.caldwellshooting.com
 click.m.codefuel.com
 clickme.click.org
 click.media1apps.com
@@ -16362,6 +16367,7 @@ config-service.krxd.net
 config-service-staging.krxd.net
 config-stg.ironbeast.io
 config.uca.cloud.unity3d.com
+configuration.ls.apple.com
 configuration.ma.tune.com
 confluence.ensighten.com
 confluence.kissmetrics.com
@@ -21337,6 +21343,7 @@ events.evergage.com
 events.fivetran.com
 events.foreseeresults.com
 events.getellie.com
+events.gfe.nvidia.com
 events.godaddy.com
 events.groundtruth.com
 events.iap.unity3d.com
@@ -23159,6 +23166,7 @@ geoip.hotstar.com
 geoip.id.sqexeu.com
 geoip.ifunny.co
 geoip.imimg.com
+geoip.immediatemedia.co.uk
 geoip.improvetool.com
 geoip.infra-team.com
 geoip.inquirer.net
@@ -24162,6 +24170,8 @@ gsp36-ssl.ls.apple.com
 gsp3-ssl.apple.com
 gsp4-ssl.apple.com
 gsp51-ssl.ls.apple.com
+gsp57-ssl-locus.ls.apple.com
+gsp57-ssl-revgeo.ls.apple.com
 gsp5-ssl.apple.com
 gsp64-ssl.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
@@ -24172,8 +24182,10 @@ gsp8-ssl.apple.com
 gsp9-ssl.apple.com
 gs.parse.ly
 gsp.count.brat-online.ro
+gspe19-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
+gspe35-ssl.ls-apple.com.akadns.net
 gspe85-ssl.ls.apple.com
 gspro.hit.gemius.pl
 gsp-ssl-commute.ls.apple.com
@@ -31163,6 +31175,7 @@ markusdan.iljmp.com
 marmo.user-segment.mathtag.com
 marriott.btttag.com
 marriott.com.ssl.d2.sc.omtrdc.net
+marriottinternationa.tt.omtrdc.net
 marrybabyvn.api.useinsider.com
 marshfasteners.rtrk.com
 mars.solution.weborama.fr
@@ -33562,6 +33575,7 @@ morlia.helpshift.com
 mormoraiaitalia01.wt-eu02.net
 morpho.sp.backtrace.io
 morriwu8mit2vkppn90ktbdfkyxfi1507564030.nuid.imrworldwide.com
+mortgage-location.bankrate.com
 mos.appsflyer.com
 motd.api.glympse.com
 motif.nexus.liveramp.com
@@ -33980,6 +33994,7 @@ mspu.us.re.getclicky.com
 msp-v4.pops.fastly-insights.com
 ms.rundsp.com
 mstadt.ivwbox.de
+mstcs.info
 mstm.cn.miaozhen.com
 mstore.btttag.com
 mstr.sharethrough.com
@@ -34822,6 +34837,7 @@ n.exactag.com
 nex.adx.mediav.com
 nexdt.adjust.com
 nexonm.helpshift.com
+nexstar.blueconic.net
 nexstardigital.us-east-1.stinger-ad.bidr.io
 next.adjust.com
 nextads.piwik.pro
@@ -47692,6 +47708,7 @@ sstats.buycostumes.com
 sstats.cartoonnetwork.com
 sstats.checksimple.com
 sstats.cntraveler.com
+sstats.competitivecyclist.com
 sstats.concierge.com
 sstats.condenast.com
 sstats.coop.dk
@@ -58720,6 +58737,7 @@ tagger.opecloud.com
 tagger-scmp.opecloud.com
 tag.getdrip.com
 tag.grapeshot.co.uk
+taggy.cohesionapps.com
 tag.idsync.analytics.yahoo.com
 tag.juicer.cc
 tag.leadplace.fr
@@ -70901,6 +70919,7 @@ wh.httptrack.com
 which.sjv.io
 whiff.sjv.io
 wh.ip-adress.com
+whirlpool.demdex.net
 whisper.onelink.me
 whitecars-cdn.clarivoy.com
 whitecloud.iljmp.com

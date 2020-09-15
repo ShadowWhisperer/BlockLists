@@ -1,6 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Updated: 9/11/2020  11:06 (11:06 AM CST)
+# Updated: 9/15/2020  15:20 (3:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -10,6 +10,7 @@
 
 # Not Blocked
 ####################
+#
 #  .com
 #  .edu
 #  .gov
@@ -634,6 +635,7 @@
 .zw            Africa - Zimbabwe
 
 .eg            Africa / Asia   - Egypt
+
 .madrid        Africa / Europe - Madrid, Spain
 
 .aq            Antarctica

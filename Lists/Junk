@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 9/11/2020  11:06 (11:06 AM CST)
+# Updated: 9/15/2020  15:20 (3:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -161,23 +161,6 @@ speednames.co.uk                                     #ISP
 speednames.dk                                        #ISP
 speednames.eu                                        #ISP
 
-miui.com                                             #Foreign   Android Rom
-shinobi.jp                                           #Foreign   Celebrity Buzz
-eu.com                                               #Foreign   Domain Register
-list.ru                                              #Foreign   Email
-mail.ru                                              #Foreign   Email
-tmall.com                                            #Foreign   Email
-vtr.net                                              #Foreign   Email
-hrvatskitelekom.hr                                   #Foreign   Phone Service
-t-com.hr                                             #Foreign   Phone Service
-163.com                                              #Foreign   Multiple (China)
-onet.pl                                              #Foreign   News (Poland)
-republika.pl                                         #Foreign   News (Poland)
-smi2.ru                                              #Foreign   News (Russia)
-bokee.net                                            #Foreign   Social Media
-mirtesen.ru                                          #Foreign   Social Media
-vk.me                                                #Foreign   Social Media
-daum.net                                             #Foreign   Web Portal (South Korea)
 
 pch.com                                              #Prizes / Giveaways
 thedailywinnings.com                                 #Prizes / Giveaways
@@ -277,6 +260,7 @@ download.iolo.net                                    #Software - Iolo (System Me
 iolo.com                                             #Software - Iolo (System Mechanic)
 iolo.net                                             #Software - Iolo (System Mechanic)
 svc.iolo.com                                         #Software - Iolo (System Mechanic)
+sym.iolo.com                                         #Software - Iolo (System Mechanic)
 duapp.com                                            #Software - Nox (Android Emulator)
 bignox.com                                           #Software - Nox (Android Emulator)
 plex.direct                                          #Software - Plex  (Stream)
@@ -374,6 +358,7 @@ cdn.ebaumsworld.com                                  #Website - eBaum's World (C
 ebaumsworld.com                                      #Website - eBaum's World (Contains adult content)
 images.ebaumsworld.com                               #Website - eBaum's World (Contains adult content)
 mystart.incredimail.com                              #Website - Incredimail (Browser Homepage Hijack)
+noodlemagazine.com                                   #Website - Noodle Magazine (Contains adult videos)
 rt.com                                               #Website - RT (News site operated by Russian Gov.)
 en.vidmo.org                                         #Website - Vidmo (Contains adult videos)
 vidmo.org                                            #Website - Vidmo (Contains adult videos)
@@ -458,8 +443,6 @@ whatsapp.net                                         #VOIP
 
 
 
-qibla.com                                            #Islamic
-oicc.org                                             #Islamic
 
 
 
