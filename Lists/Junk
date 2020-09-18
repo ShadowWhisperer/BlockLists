@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 9/18/2020  00:09 (12:09 AM CST)
+# Updated: 9/18/2020  16:14 (4:14 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -178,6 +178,7 @@ magiquiz.com                                         #Quiz
 
 
 abtest-sg-tiktok.byteoversea.com                     #App  TikTok
+abtest-va-tiktok.byteoversea.com                     #App  TikTok
 amemv.com                                            #App  TikTok
 api16-core-c-useast1a.tiktokv.com                    #App  TikTok
 api16-core-c-useast2a.tiktokv.com                    #App  TikTok
@@ -307,6 +308,7 @@ locaweb.com.br                                       #Web Hosting  (Brazil)
 qbox.me                                              #Web Hosting  (China)
 wz.cz                                                #Web Hosting  (Czech Republic)
 hosttech.eu                                          #Web Hosting  (Europe)
+wonosoft.com                                         #Web Hosting  (Indonesia)
 cafe24.com                                           #Web Hosting  (Korea)
 dothome.co.kr                                        #Web Hosting  (Korea)
 big07.pl                                             #Web Hosting  (Poland)
@@ -318,14 +320,12 @@ tmweb.ru                                             #Web Hosting  (Russia)
 xsph.ru                                              #Web Hosting  (Russia)
 webcindario.com                                      #Web Hosting  (Spain)
 websitehome.co.uk                                    #Web Hosting  (UK)
-303.lt                                               #Web Hosting
-mellle.com                                           #Web Hosting
-plesk.com                                            #Web Hosting
-justhost.com                                         #Web Hosting
 2sx.com                                              #Web Hosting
+303.lt                                               #Web Hosting
 aerobaticapp.com                                     #Web Hosting
 alfaspace.net                                        #Web Hosting
 arvixe.com                                           #Web Hosting
+arvixevps.com                                        #Web Hosting
 bizland.com                                          #Web Hosting
 bluehost.com                                         #Web Hosting
 chez-alice.fr                                        #Web Hosting
@@ -340,11 +340,15 @@ hosteur.com                                          #Web Hosting
 inmotionhosting.com                                  #Web Hosting
 inter.net                                            #Web Hosting
 istcool.de                                           #Web Hosting
+justhost.com                                         #Web Hosting
 kameleoon.eu                                         #Web Hosting
 levillage.org                                        #Web Hosting
+mellle.com                                           #Web Hosting
 myregisteredsite.com                                 #Web Hosting
 n3.net                                               #Web Hosting
 pagina.be                                            #Web Hosting
+peopleshostvps.com                                   #Web Hosting
+plesk.com                                            #Web Hosting
 simplenet.com                                        #Web Hosting
 site44.com                                           #Web Hosting
 strefa.pl                                            #Web Hosting
