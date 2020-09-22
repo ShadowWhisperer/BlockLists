@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 9/18/2020  16:14 (4:14 PM CST)
+# Updated: 9/22/2020  00:25 (12:25 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -980,6 +980,7 @@
 253-ct.c3tag.com
 253-img.c3tag.com
 253-vt.c3tag.com
+254a.com
 255397.measurementapi.com
 256041.measurementapi.com
 258443738-prod.rfksrv.com
@@ -4021,6 +4022,7 @@ alexametrics.com
 alexa.qualaroo.com
 alexriedl.iljmp.com
 alfa.smartlook.com
+alfdt.com
 alfredflorist.rtrk.com
 algd.widerplanet.com
 algo01.webtrekk.net
@@ -11521,6 +11523,7 @@ api.tags-rc.phx.bluekai.com
 api.tapfiliate.com
 api.taplytics.com
 api.taptitan.ksmobile.com
+api.target2sell.com
 api.tealiumiq.com
 api.telemetry.watchabc.go.com
 api.terapeak.com
@@ -12365,6 +12368,7 @@ assets.geo.de
 assets.growingio.com
 assets.hotjar.com
 assets.hrnorth.se
+assets.infinity-tracking.net
 assets-intl.everesttech.net
 assets.iplogger.org
 assets.ispot.tv
@@ -12539,6 +12543,7 @@ ats.rlcdn.com
 attachments.apptentive.com
 attadworks.turn.com
 att-app.quantummetric.com
+att.demdex.net
 attdns.acxiom.com
 attfeedback.uservoice.com
 attmailvalidation.typeform.com
@@ -12551,6 +12556,7 @@ attribution.singular.net
 attributionstest.exactag.com
 attsandbox.touchcommerce.com
 attservicenet.typeform.com
+attservicesinc.tt.omtrdc.net
 att-survey.foreseeresults.com
 att-sync.quantummetric.com
 att-uat.analytics-egain.com
@@ -14652,6 +14658,7 @@ brownshoe.sp1.convertro.com
 browsee.io
 browser.events.data.microsoft.com
 browser.events.data.msn.com
+browser.events.data.trafficmanager.net
 browserhawk.com
 browser-http-intake.logs.datadoghq.com
 browser.pipe.aria.microsoft.com
@@ -15020,6 +15027,7 @@ c2.gostats.ro
 c2.gostats.ru
 c2.gostats.vn
 c2.mouseflow.com
+c2.qbk1.com
 c2s-dynadmic.liverail.com
 c2s-fbaudience.liverail.com
 c2s-iponweb.liverail.com
@@ -15464,6 +15472,7 @@ cbs-allaccess-ca.sjv.io
 cbsdfp5832910442.s.moatpixel.com
 cbsi.com.ssl.sc.omtrdc.net
 cbsi.demdex.net
+cbs-sports.app.link
 cbs.vindicosuite.com
 cbt1.visualwebsiteoptimizer.com
 cbtsleb.imrworldwide.com
@@ -15837,6 +15846,7 @@ cdn.mm.atwola.com
 cdn.mmstat.com
 cdn.mndtrk.com
 cdn.mobfox.com
+cdn.mobify.com
 cdn.mobileapptracking.com
 cdn.moengage.com
 cdnmon.cfigroup.com
@@ -20083,6 +20093,7 @@ customperformance.deere.com
 custom-pixel.advidi.com
 custom-qa.yieldify.com
 customreportssales.piwik.pro
+customs.affilired.com
 custom-test.yieldify.com
 custom-tracking.salesloft.com
 customtraffic.impactradius.com
@@ -20149,6 +20160,7 @@ cx.ish.atdmt.com
 cxlaxexprswy01.smo.connexity.net
 cxlaxexprswy02.smo.connexity.net
 cxp.mxptint.net
+cx.rightnow.com
 cxr.iljmp.com
 cxsuite.foresee.com
 cxsurvey.foresee.com
@@ -20958,6 +20970,7 @@ dccss.banggood.com
 dc.cux.io
 dc-d726.optimahub.com
 dcd-docomo.instana.io
+d.cdngeek.com
 dcem.dynamicyield.com
 dce.nextstat.com
 dceu.optimahub.com
@@ -20986,6 +20999,7 @@ d-cookware.t.domdex.com
 dco-pix.mathtag.com
 dc.optimahub.com
 dco.quantserve.com
+dc.oracleinfinity.io
 dco-reports.everesttech.net
 dco-reports-intl.everesttech.net
 dcos.lijit.com
@@ -23889,6 +23903,7 @@ ev.surveywall-api.survata.com
 evt.mxplay.com
 evt.tamoco.com
 ev.visualdna.com
+e-webtrack.net
 ewemlgxwb47gzhz7wrf17fi6z6yya1507505332.nuid.imrworldwide.com
 ewetel01.webtrekk.net
 ewr-v4.pops.fastly-insights.com
@@ -24068,6 +24083,7 @@ ezbuy.api.useinsider.com
 ezcall.airbrake.io
 ezeeworld.com
 eze-v4.pops.fastly-insights.com
+e.zg-api.com
 ezkm5xxlit9qhegtbhpxg9vqqjl8o1507540601.nuid.imrworldwide.com
 ezodn.com
 ezoic.com
@@ -28049,6 +28065,7 @@ icptrack.com
 i.crashlytics.com
 icsdirect.acxiom.com
 ics.userreport.com
+ict.infinity-tracking.net
 i.ctnsnet.com
 ic.tynt.com
 icxlegal.piwik.pro
@@ -28710,6 +28727,7 @@ infinity-c7.youboranqs01.com
 infinity-c8.youboranqs01.com
 infinity-c9.youboranqs01.com
 infinityid.condenastdigital.com
+infinity-tracking.net
 inflight.glympse.com
 info.1010data.com
 info2.bizible.com
@@ -29356,6 +29374,7 @@ intg-awne-dsm01.macromill.com
 intg-awne-swk01.macromill.com
 intg-awne-zab01.macromill.com
 intg.snapchat.com
+intljs.rmtag.com
 intl-prod.placed.com
 intramed.sisense.com
 intranet.adomik.com
@@ -29500,6 +29519,7 @@ i.pixel.trafficmp.com
 ipla.hit.gemius.pl
 iplocate.io
 iplocation.com
+iplocation.net
 iplogger.org
 iplogger.ru
 ipmonkey.com
@@ -29817,6 +29837,7 @@ jdpower.t.domdex.com
 jefferies.ulink.adjust.com
 jeffhorwathbuilders.rtrk.com
 jelly.brandseye.com
+jellyfish.com
 jendavid.iljmp.com
 jenkins2.secure.blismedia.com
 jenkins.adwyze.com
@@ -30024,6 +30045,7 @@ js.hs-analytics.net
 js.hsleadflows.net
 js.hubspotfeedback.com
 js.hull.io
+js.iterable.com
 js.itracker360.com
 js.ksmobile.com
 js.leadinspector.de
@@ -33790,6 +33812,7 @@ mattiz.justclick.ru
 ma.tune.com
 mature.xxxcounter.com
 maurices.activate.ensighten.com
+maurices.tt.omtrdc.net
 mau.sextracker.com
 maven.10duke.com
 maven.apptimize.com
@@ -38919,6 +38942,7 @@ payweb01.acxiom.com
 pba.aws.lijit.com
 pbb.bouncex.net
 pbbl.agkn.com
+pbbl.co
 pbc5q4kgzato8hhm1m887qtuk1n4d1507571450.nuid.imrworldwide.com
 p-behacdn.ksmobile.net
 p-beha.ksmobile.com
@@ -42102,6 +42126,7 @@ recorder.alfa.smartlook.com
 record.foresee.com
 recording.crazyegg.com
 record.innocraft.cloud
+reco.target2sell.com
 recplugin.atgsvcs.com
 rec.quartic.pl
 recreationalequipmen.tt.omtrdc.net
@@ -42896,6 +42921,8 @@ ri.clickability.com
 ricollect.insightfirst.com
 righteouscrayon.com
 rightmessage.com
+rightnow.com
+rightnowtech.com
 ri.insightfirst.com
 riju.ittest.33across.com
 rimondo-social-signup.rpxnow.com
@@ -42977,9 +43004,11 @@ r.mopub.dstillery.com
 rmp.1rx.io
 rm.recs.richrelevance.com
 rmrinivmnm0lrzahy2p8p5si3adlp1507020422.nuid.imrworldwide.com
+rmtag.com
 rmteswqb7n2wliy37kxguyfjboecj1509924101.nuid.imrworldwide.com
 r.mxptint.net
 r.myvisualiq.net
+rnengage.com
 r.nexac.com
 ro1adro.hit.gemius.pl
 ro.2.cqcounter.com
@@ -45453,6 +45482,7 @@ serene.iljmp.com
 serenityppc.iljmp.com
 seriflabs.sp.backtrace.io
 serp1.justclick.ru
+serv-api.target2sell.com
 serve.adacts.com
 serve.adclixx.net
 serve.adtrackers.net
@@ -49422,6 +49452,7 @@ spir.hit.gemius.pl
 spiritmarket.iljmp.com
 spixlcont.ivwbox.de
 spixl.ivwbox.de
+s.pixsrvcs.com
 splash.brightedge.com
 splendidspoon.sjv.io
 spl.hit.gemius.pl
@@ -49796,6 +49827,7 @@ srv.dynamicyield.com
 srv.exposebox.com
 srv.main.ebayrtm.com
 srvparis.weborama.com
+srv.pixel.parsely.com
 srvr.iljmp.com
 srvtrck.com
 sr-weight.rlcdn.com
@@ -51493,6 +51525,7 @@ static.support.kochava.com
 static.sv.us.criteo.net
 static-tagr.gd1.mookie1.com
 static.tapfiliate.com
+static.target2sell.com
 stat.ict-as.dk
 static.tealium.com
 static.terapeak.com
@@ -64251,6 +64284,7 @@ taptalks.tapad.com
 tap.tapad.com
 taptapnetworks.com
 tapwithus.iljmp.com
+target2sell.com
 targetcircle.com
 target.com.ssl.d2.sc.omtrdc.net
 targetdfp320149284940.s.moatpixel.com
@@ -64887,6 +64921,8 @@ telize.com
 telkku.spring-tns.net
 telkomsel.api.useinsider.com
 telmar.rkdms.com
+telogical.com
+telogicalsystems.com
 telstra.imrworldwide.com
 tel.telegraaf.nl
 telusmobility.touchcommerce.com
@@ -65241,6 +65277,7 @@ thrivetracker.com
 t-hr.mindtake.com
 throttled.api.test.appsee.com
 thrtle.com
+t.hrtyk.com
 ths.bingle.com.au
 th-ssl.effectivemeasure.net
 t.httptrack.com
@@ -71607,6 +71644,7 @@ tracking-stage.truconversion.com
 tracking.staging.bjshomedelivery.com
 tracking.staginghemnet.se
 tracking.staging.limbiqq.com
+tracking-staging.stylitics.com
 tracking.stampready.net
 tracking.stapels.nl
 tracking.stateofart.com
@@ -74545,6 +74583,7 @@ tractorsupply-app.quantummetric.com
 tractorsupply-sync.quantummetric.com
 tractorsupply.tt.omtrdc.net
 tradedesk-ues.pinsightmedia.com
+tradelab.com
 tradelikeapro.justclick.ru
 trader.ssp.adacts.com
 tradetracker.com
@@ -75142,6 +75181,7 @@ trust.turn.com
 trustx.digitru.st
 trustxdisplaydebug678918506508.s.moatpixel.com
 trxtraining.c3metrics.com
+try.abtasty.com
 try.albacross.com
 try-api.perfectaudience.com
 try.backtrace.io
@@ -75431,6 +75471,7 @@ t.zelboraf.com
 tzenniopticalwwwzenniopti6678t.btttag.com
 tzortzis.mindtake.com
 t.zqtk.net
+t.ztsrv.com
 tz.ts.vindicosuite.com
 u002fupx.provenpixel.com
 u002fwww.adjust.com
@@ -75554,6 +75595,7 @@ ue2e.tlnk.io
 uebthqpyso3ureoo3pspvtwqiwvvn1514618332.nuid.imrworldwide.com
 ue.kicker.de
 uelbdc74fn.s.ad6media.fr
+uem.marykay.com
 ues.kicker.de
 u.fastg8.iponweb.net
 u.fastly-insights.com
@@ -76972,6 +77014,7 @@ vspa.admaster.com.cn
 vs.target.com
 vstats.digitaltrends.com
 vstats.net
+vsvipmw01.rightnowtech.com
 vs.webtrekk.net
 vt.c3metrics.com
 vt.c3tag.com

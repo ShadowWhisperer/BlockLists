@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 9/18/2020  16:14 (4:14 PM CST)
+# Updated: 9/22/2020  00:25 (12:25 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -117,6 +117,10 @@ shopback.sg                                          #Cash Back
 splitter.ebates.com                                  #Cash Back
 static.ebates.com                                    #Cash Back
 
+front19.omegle.com                                   #Chatroom  [Omegle] Talk to random people
+omegle.com                                           #Chatroom  [Omegle] Talk to random people
+wawadmin.omegle.com                                  #Chatroom  [Omegle] Talk to random people
+
 befrugal.com                                         #Coupons
 cdn.cpnscdn.com                                      #Coupons
 coupons.com                                          #Coupons
@@ -176,7 +180,6 @@ williamhill.com                                      #Gambling
 harpquiz.com                                         #Quiz
 magiquiz.com                                         #Quiz
 
-
 abtest-sg-tiktok.byteoversea.com                     #App  TikTok
 abtest-va-tiktok.byteoversea.com                     #App  TikTok
 amemv.com                                            #App  TikTok
@@ -205,6 +208,7 @@ mon-va.tiktokv.com                                   #App  TikTok
 muscdn.com                                           #App  TikTok
 p16-amd-va.tiktokcdn.com                             #App  TikTok
 p16.muscdn.com                                       #App  TikTok
+p16-sign-sg.tiktokcdn.com                            #App  TikTok
 p16-sign-va.tiktokcdn.com                            #App  TikTok
 p16-tiktokcdn-com.akamaized.net                      #App  TikTok
 p16.tiktokcdn.com                                    #App  TikTok
@@ -241,12 +245,15 @@ pull-rtmp-l11.tiktokcdn.com                          #App  TikTok
 pull-rtmp-l1.tiktokcdn.com                           #App  TikTok
 pull-w5.tiktokcdn.com                                #App  TikTok
 s16.tiktokcdn.com                                    #App  TikTok
+sf16-muse-va.ibytedtos.com                           #App  TikTok
 sf-tb-sg.ibytedtos.com                               #App  TikTok
 tiktokcdn.com                                        #App  TikTok
 tiktok.com                                           #App  TikTok
 tiktokv.com                                          #App  TikTok
 v16-tiktokcdn-com.akamaized.net                      #App  TikTok
 v25.tiktokcdn.com                                    #App  TikTok
+v77.tiktokcdn.com                                    #App  TikTok
+verification-va.byteoversea.com                      #App  TikTok
 webcast16-normal-c-alisg.tiktokv.com                 #App  TikTok
 webcast-va.tiktokv.com                               #App  TikTok
 
@@ -362,7 +369,7 @@ cdn.ebaumsworld.com                                  #Website - eBaum's World (C
 ebaumsworld.com                                      #Website - eBaum's World (Contains adult content)
 images.ebaumsworld.com                               #Website - eBaum's World (Contains adult content)
 mystart.incredimail.com                              #Website - Incredimail (Browser Homepage Hijack)
-noodlemagazine.com                                   #Website - Noodle Magazine (Contains adult videos)
+noodlemagazine.com                                   #Website - Noodle Magazine (Mostly adult videos)
 rt.com                                               #Website - RT (News site operated by Russian Gov.)
 en.vidmo.org                                         #Website - Vidmo (Contains adult videos)
 vidmo.org                                            #Website - Vidmo (Contains adult videos)

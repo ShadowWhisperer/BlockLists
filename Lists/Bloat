@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 9/18/2020  16:14 (4:14 PM CST)
+# Updated: 9/22/2020  00:25 (12:25 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -15,6 +15,8 @@ use.typekit.com                                         #Font    Adobe
 typekit.net                                             #Font    Adobe
 use.edgefonts.net                                       #Font    Adobe
 use.typekit.net                                         #Font    Adobe
+fast.fonts.net                                          #Fonts     Fonts.net
+fonts.net                                               #Fonts     Fonts.net
 file.myfontastic.com                                    #Font  Fontastic.me
 fontastic.me                                            #Font  Fontastic.me
 myfontastic.com                                         #Font  Fontastic.me
@@ -273,7 +275,6 @@ activity-stream-icons.services.mozilla.com              #Software   FireFox
 classify-client.services.mozilla.com                    #Software   FireFox
 detectportal.firefox.com                                #Software   FireFox
 firefox.settings.services.mozilla.com                   #Software   FireFox
-push.services.mozilla.com                               #Software   FireFox
 snippets.cdn.mozilla.net                                #Software   FireFox
 snippets.mozilla.com                                    #Software   FireFox
 tiles-cloudfront.cdn.mozilla.net                        #Software   FireFox
