@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 9/22/2020  00:25 (12:25 AM CST)
+# Updated: 9/24/2020  13:06 (1:06 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -261,8 +261,10 @@ admuncher.com                                        #Software - AdMuncher
 appsgeyser.com                                       #Software - AppsGeyser  (App Creator)
 curseapp.net                                         #Software - Curse       (In-Game Voice Chat)
 dashlane.com                                         #Software - Daskline    (Password Manager)
-flipboard.com                                        #Software - Flipbloard
+api.flipboard.com                                    #Software - Flipbloard
 cdn.flipboard.com                                    #Software - Flipbloard
+flipboard.com                                        #Software - Flipbloard
+ue.flipboard.com                                     #Software - Flipbloard
 glarysoft.com                                        #Software - Glary Utilities
 download.iolo.net                                    #Software - Iolo (System Mechanic)
 iolo.com                                             #Software - Iolo (System Mechanic)

@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 9/22/2020  00:25 (12:25 AM CST)
+# Updated: 9/24/2020  13:06 (1:06 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -9916,6 +9916,7 @@ adserver.mkultra.es
 adserver.mlp.reactor.cc
 adserver.mls-rv.de
 adserver.mnanet.com.br
+adserver.mobi
 adserver.mobiler-gartenservice.de
 adserver.mobrudiment.ru
 adserver.mockbin.org
@@ -19411,6 +19412,7 @@ api.outbrain.it
 api.outbrain.org
 api.parking.godaddy.com
 api.permutive.com
+api.piclick.kr
 apipilot.silverpop.com
 api.pmgmads.com
 api.pmmapads.com
@@ -25253,6 +25255,7 @@ cdn-media.brightline.tv
 cdnmedia.mixpo.com
 cdn.media.net
 cdn.mediavine.com
+cdn.megadata.co.kr
 cdn.mg2connext.com
 cdn.mgid.com
 cdn.microad.jp
@@ -25471,6 +25474,7 @@ cdn-t.amazon-adsystem.com
 cdn.tapjoy.com
 cdn.tappx.com
 cdn.taptica.com
+cdn.targetpush.co.kr
 cdn.target.smi2.net
 cdn.targetspot.com
 cdn-tb1.adform.net
@@ -26562,6 +26566,7 @@ cmhtml.uk.overture.com
 cmhtml.vendare.overture.com
 cmh.tw.yahoo.overture.com
 cm.ibs.overture.com
+cm.igaw.io
 cm.it.kataweb.overture.com
 cm.ivillage.overture.com
 cm.jp.overture.com
@@ -27671,6 +27676,7 @@ croissant-dsp.adriver.ru
 cronbaytech.affise.com
 crontasks.propellerads.com
 cross.aniview.com
+crossinstall.io
 crosspromo.voodoo.io
 crosswordswithfriends.tresensa.com
 crowd.advance.net
@@ -28688,7 +28694,9 @@ decrux.fra-01.braze.eu
 ded3e-a638c.api.pushwoosh.com
 deeb.opt.fimserve.com
 deelymedia.adk2x.com
+deepdivead.zum.com
 deepdive.exponential.com
+deepdive.zum.com
 deep-sentinel-home-security.pxf.io
 de.espotting.com
 de.euserv.accomm.adaos-ads.net
@@ -32634,6 +32642,7 @@ finder.outbrain.it
 finder.outbrain.org
 findexa.adbureau.net
 findmypastcom-img.rbl.ms
+findnewline.com
 findthebest-d3.openxenterprise.com
 finegirlz.tsx.org
 finewaytracksdk.optimove.net
@@ -33057,6 +33066,7 @@ fr.labs.teads.tv
 fr.login.beta.channeladvisor.com
 fr.maxiadv.com
 fr.monitoring.teads.tv
+froggyads.com
 frolnk.com
 fromnothing.fingereach.com
 front.aid-ad.jp
@@ -34125,6 +34135,7 @@ gptw-prod.us-east-1.elasticbeanstalk.com
 gpu4001.ds.ams1.inmobi.com
 gpu4001.ds.ev1.inmobi.com
 gpush.cogocast.net
+gp.vrixon.com
 gqqdlckj8y.com
 gr8r8d.elasticbeanstalk.com
 gra-base14-556049.dpsexp.sam4m.com
@@ -35507,6 +35518,7 @@ igate.advance.net
 igate-ns.advance.net
 igaw-cm.ad-brix.com
 igawcrashlytics.ad-brix.com
+igaworks.mediacategory.com
 i.geistm.com
 igexin.com
 igin.startappservice.com
@@ -36005,6 +36017,8 @@ imgs.jads.co
 imgs.juicyads.com
 img.smi2.net
 imgsrc.adtiming.com
+imgsrv.piclick.cn
+imgsrv.piclick.me
 img.stage.vidible.tv
 img.staging.paperg.com
 img.steepto.com
@@ -36118,6 +36132,7 @@ imp.outbrain.org
 imp.pdb.madserving.com
 imp.performanceplay.co.kr
 imp.performax.cz
+imp.piclick.kr
 imp-pm-ap.jampp.com
 imp-pn-ap.jampp.com
 imp.pvnsolutions.com
@@ -36454,6 +36469,7 @@ insightexpress.com
 insightxe.looksmart.com
 insite.intellicontact.com
 inskinad.com
+inskinmedia.com
 insnw.net
 inspect.lockerdome.com
 inspikon.com
@@ -39096,6 +39112,7 @@ magento.dsp.platform.io
 magic2media.affise.com
 magicbanner.pdxweb.net
 magic-monsters.tresensa.com
+magic.piclick.kr
 magics.inmobi.cn
 magna.facebook-ads.adtz.com
 magnet.advance.net
@@ -39931,6 +39948,7 @@ media.boomads.com
 media.brandreachsys.com
 media.carambo.la
 media.carpediem.fr
+mediacategory.com
 media-cdn.beachfrontreach.com
 media.celtra.com
 media.centro.net
@@ -40873,6 +40891,7 @@ monktest.webengage.com
 monk.webengage.com
 monocle-dev.advance.net
 monopolybingo.tresensa.com
+monorail-edge.shopifysvc.com
 mon.simpli.fi
 monster.adlegend.com
 monsterbash.tresensa.com
@@ -41743,6 +41762,7 @@ newegg.needle.com
 newellrubbermaid.com
 new.eu-central-1.tracking.quality.awin.com
 newfe.ad.dotandad.com
+newfeatureview.perfectionholic.com
 newfebads.com
 newfriads.com
 new.gtsads.com
@@ -44400,6 +44420,7 @@ pandora.adswizz.com
 pandoraas-mid-prod1-t.adobe-campaign.com
 pandora-clientcredit-iprospect.facebook-ads.adtz.com
 pandora.deliveryengine.adswizz.com
+pandoramedia-mkt-prod1-t.campaign.adobe.com
 pandoratest.adswizz.com
 pandoratest.ui.adswizz.com
 pand-weba-xc3zvb95udg7-vmgemy96tp.elasticbeanstalk.com
@@ -44938,6 +44959,9 @@ pic.bloggerads.net
 piccdn.bloggerads.net
 pic.cytcm.com
 pick.adpiano.com
+piclick.cn
+piclick.kr
+piclick.me
 picnicwebnl-dev.eu-west-1.elasticbeanstalk.com
 picreel.com
 pictela.adtechus.com
@@ -46574,6 +46598,7 @@ promo.yahoo.com
 promposal.tresensa.com
 pronetadvertising.com
 prontera.inlocomedia.com
+proofleads.com
 proof.mediaz.vn
 pro.outbrain.de
 pro.outbrain.fr
@@ -52749,6 +52774,7 @@ ssp.hadarone.com
 ssphwy.com.admedia.com
 ssp.hybrid.ai
 sspi.adpopcorn.com
+ssp.igaw.io
 ssp.int.api.tappx.com
 ssp-integ.streamrail.net
 sspi-web-bidder.adpopcorn.com
@@ -52782,6 +52808,8 @@ ssp.vertamedia.com
 ssp.videmob.com
 ssp-vidmatic-gcp.streamrail.net
 ssp-vidmatic.streamrail.net
+ssp-web-bidder.igaw.io
+ssp-web-request.igaw.io
 ssp.webtradingspot.com
 ssp.xapads.com
 sspz.streamrail.net
@@ -53510,6 +53538,7 @@ static.vidazoo.com
 staticw2.yotpo.com
 static.way2traffic.com
 static-website.teads.tv
+static.wired.com
 static-wl3editor.awempire.com
 staticx1.dditscdn.com
 staticx2.dditscdn.com
@@ -54599,6 +54628,7 @@ targetix.net
 target.mmgl.cd.serving-sys.com
 targetnet.com
 targetpractice.flashtalking.com
+targetpush.co.kr
 targetsandbox.pxf.io
 targets-api-python.us-east-1.elasticbeanstalk.com
 target.smi2.net
@@ -56797,6 +56827,7 @@ unrealmarketing.com
 unreshiramor.com
 unroth.fra-01.braze.eu
 unrotomon.com
+unruly.co
 unrulymedia.com
 unrulyx-eu-215.unrulymedia.com
 unrulyx-eu-216.unrulymedia.com
@@ -58563,6 +58594,7 @@ vrevenue.outbrain.de
 vrevenue.outbrain.fr
 vrevenue.outbrain.it
 vrevenue.outbrain.org
+vrixon.com
 vrizead.com
 vr.izooto.com
 vroku-bi-connections.shoofle.tv

@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 9/22/2020  00:25 (12:25 AM CST)
+# Updated: 9/24/2020  13:06 (1:06 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -50,6 +50,7 @@ fonts.intercomcdn.com                                   #Font     Specific
 fonts.iu.edu                                            #Font     Specific
 fonts.jimstatic.com                                     #Font     Specific
 fonts.ngeo.com                                          #Font     Specific
+fonts.nymag.com                                         #Font     Specific
 fonts.sidearmsports.com                                 #Font     Specific
 fonts.sony.net                                          #Font     Specific
 fonts.staticworld.net                                   #Font     Specific
@@ -57,6 +58,7 @@ fonts.voxmedia.com                                      #Font     Specific
 fonts.walmart.com                                       #Font     Specific
 fonts.wpcdn.pl                                          #Font     Specific
 fonts.wsj.net                                           #Font     Specific
+fonts.zumst.com                                         #Font     Specific
 g1.nyt.com                                              #Font     Specific
 gel.files.bbci.co.uk                                    #Font     Specific
 nimblefonts.nimbledeals.com                             #Font     Specific
@@ -542,6 +544,8 @@ tetrisrushlive.appspot.com                              #Android  [Game]  Tetris
 relicrun.s3.amazonaws.com                               #Android  [Game]  Tomb Raider: Relic Run
 relicrun.cdn.sqexeu.com                                 #Android  [Game]  Tomb Raider: Relic Run
 relicrun-sink-dv.sqexeu.com                             #Android  [Game]  Tomb Raider: Relic Run
+peoplefungames.appspot.com                              #Android  [Game]  Wordscapes
+word-cross.appspot.com                                  #Android  [Game]  Wordscapes
 
 amt-games.com                                           #Android  [App Studio]    AMT Games
 dkgamedev.com                                           #Android  [App Studio]    Asamtee Games
