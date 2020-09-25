@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 9/24/2020  13:06 (1:06 PM CST)
+# Updated: 9/25/2020  15:32 (3:32 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12385,6 +12385,7 @@ assets.factual.com
 assets.firstpromoter.com
 assets.foxmetrics.com
 assets.geo.de
+assets.giocdn.com
 assets.growingio.com
 assets.hotjar.com
 assets.hrnorth.se
@@ -19203,6 +19204,7 @@ corp-fw-syd.imrworldwide.com
 corp-fw-uk.imrworldwide.com
 corp.groundtruth.com
 corp-gw01.imrworldwide.com
+corp.intimatemerger.com
 corp.markmonitor.com
 corp.mediav.com
 corp.metaps.com
@@ -25874,6 +25876,7 @@ geoloc9.geovisite.com
 geoloc.api.taxi
 geoloc.arte.tv
 geolocation.1trust.app
+geolocation.co.jp
 geolocation.daznservices.com
 geolocation-db.com
 geo-location-dev.s-onetag.com
@@ -29417,6 +29420,7 @@ intg-awne-dsm01.macromill.com
 intg-awne-swk01.macromill.com
 intg-awne-zab01.macromill.com
 intg.snapchat.com
+intimatemerger.com
 intljs.rmtag.com
 intl-prod.placed.com
 intramed.sisense.com
@@ -30539,6 +30543,7 @@ kpionline5.bitam.com
 kpionline7.bitam.com
 kpionline8.bitam.com
 kpionline.bitam.com
+kpis.jp
 kpmediagaua.hit.gemius.pl
 kpn.solution.weborama.fr
 kpruanalytics.solution.weborama.fr
@@ -65362,6 +65367,7 @@ tid.burstnet.com
 tigerlilyswimwear.btttag.com
 tiger.matomo.cloud
 tiger.vizu.com
+tigger-citadel.touchtype-fluency.com
 tikivn.api.sociaplus.com
 tikonl.ivwbox.de
 tile.equipmenttrader.com
@@ -75189,6 +75195,7 @@ trk.zipyourflyer.com
 tr.lfeeder.com
 tr.line.me
 tr.locsensads.com
+tr.marsflag.com
 tropo01.webtrekk.net
 trovimap.loggly.com
 trowepricerps.images.sundaysky.com
@@ -76826,6 +76833,7 @@ visamoweb.acxiom.com
 visibleconsumerinsight.com
 visiblemeasures.com
 vision2003.etvcorp.track.clicksure.com
+visionanalytics.co
 visioncos.netop.com
 visioneer.links.origin.channelintelligence.com
 visionretailing.evergage.com
@@ -78479,6 +78487,7 @@ www3-cdn.effectivemeasure.net
 www3.clustrmaps.com
 www3.effectivemeasure.net
 www3.freestats.com
+www3.geolocation.co.jp
 www3.gfa.org
 www3.hotlog.ru
 www3.malk.pxi.pub
