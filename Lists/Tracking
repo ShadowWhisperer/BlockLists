@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 9/25/2020  15:32 (3:32 PM CST)
+# Updated: 9/29/2020  23:40 (11:40 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3218,6 +3218,7 @@ a.demandbase.com
 adentifi.com
 adesp.neodatagroup.com
 ad-eu-west.ipredictive.com
+ad-events.flashtalking.com
 adevents.neodatagroup.com
 adeventtracker.spotify.com
 adexchange.analyticson.com
@@ -11842,6 +11843,7 @@ app-eu.lp4.io
 app-eu.moengage.com
 appevents.impactradius.com
 app.exposebox.com
+app.fera.ai
 app.flare-analytics.com
 app.flurry.com
 app.fullstory.com
@@ -13741,6 +13743,7 @@ beacon.rum.dynapis.info
 beacon.ruthasa.com
 beacon.ruvodipuglia.smartduc.it
 beacons-1.extremereach.io
+beacons2.extremereach.io
 beacons2.gvt2.com
 beacons3.gvt2.com
 beacons4.gvt2.com
@@ -15023,6 +15026,7 @@ c1.gostats.ru
 c1.gostats.vn
 c1.iplogger.org
 c1.microsoft.com
+c1.rfihub.net
 c1.smartclick.net
 c1.statcounter.com
 c1.websitealive.com
@@ -15307,6 +15311,7 @@ candidate.atom.adjust.com
 candidgroup.containers.piwik.pro
 candidgroup.piwik.pro
 candybanana-videogames.t.domdex.com
+candyrack.ds-cdn.com
 candywarehouse.evergage.com
 cannontwin.com
 canon.adrime.com
@@ -15801,6 +15806,7 @@ cdn-fastly-008.traffic-director-alias.krxd.net
 cdn-fastly-009.traffic-director-alias.krxd.net
 cdn-fastly.krxd.net
 cdn-fastly.liftoff.io
+cdn.fera.ai
 cdn.firstpromoter.com
 cdn.flurry.com
 cdn.fqtag.com
@@ -18175,6 +18181,7 @@ collect.allianz-technology.ch
 collect-ap-northeast-1.tealiumiq.com
 collect-ap-southeast-2.tealiumiq.com
 collect.cap.ch
+collect.cloudsponge.com
 collect.cn.miaozhen.com
 collect.elvia.ch
 collect-eu-central-1.tealiumiq.com
@@ -20132,6 +20139,7 @@ custom-tracking.salesloft.com
 customtraffic.impactradius.com
 custom.yieldify.com
 cutecalculator.com
+cutercounter.com
 cuttingedgeinfo.bronto.com
 cux.io
 cv6-u.tlnk.io
@@ -20223,6 +20231,7 @@ d10lpsik1i8c69.cloudfront.net
 d11e618678w89x.cloudfront.net
 d15b70d4eda17e2b5cb486cc1a3db25e.pre.footprintpredict.com
 d1864d91e2ebc4365a9022b45b186e2d1c225793.cws.conviva.com
+d1aqhv4sn5kxtx.cloudfront.net
 d1.btttag.com
 d1d3jupgwm7m5r.cloudfront.net
 d1.dhgate.com
@@ -23655,6 +23664,7 @@ eu9.heatmap.it
 eu9l4dq0x3mlqjstgmddy6fwy6gcn1509532131.nuid.imrworldwide.com
 eu-analytics.sam4m.com
 eu-analytics.walkme.com
+eu-api-ocf.samsungpositioning.com
 eu-api.walkme.com
 eu.appsec.insight.rapid7.com
 eu.bbelements.com
@@ -23864,6 +23874,8 @@ events.dynamicyield.com
 events.elev.io
 events.emogi.com
 events.evergage.com
+events.fera.ai
+events.fera.ai.herokudns.com
 events.fgol.mobi
 events.fivetran.com
 events.foreseeresults.com
@@ -25190,6 +25202,7 @@ fy.eu-west-1.bid.bidr.io
 fyjn.tlnk.io
 fysical.com
 fy.us-east-1.bid.bidr.io
+fyusion.innocraft.cloud
 fyvede01.wt-eu02.net
 fyzicalpalmbeach.rtrk.com
 fzofckmbwguarteciq1npieeiss1p1514431012.nuid.imrworldwide.com
@@ -25610,6 +25623,8 @@ geoapi.indiatimes.com
 geo.api.qualaroo.com
 geo-assets.tedcdn.com
 geo.atdmt.com
+geo.bananastand.io
+geo.bananastand.io.herokudns.com
 geo.battle.net
 geobeacon.ign.com
 geoblock.similarweb.com
@@ -26172,6 +26187,7 @@ gmb.acecounter.com
 g.mbm.cn.miaozhen.com
 gmcrm.acxiom.com
 gmcrmtest.acxiom.com
+gm.demdex.net
 gmdl.ksmobile.com
 g.mediav.com
 gmf.celebrus.com
@@ -26722,6 +26738,7 @@ gspe85-ssl.ls.apple.com
 gspro.hit.gemius.pl
 gsp-ssl-commute.ls.apple.com
 gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
 gs.statcounter.com
 gstatic.mopinion.com
 gstats.spylog.com
@@ -26948,6 +26965,7 @@ hawaii.rtrk.com
 hawkersmx.solution.weborama.fr
 hawkeye-appdebugalb-ext-2051820525.ap-south-1.elb.amazonaws.com
 hawkeye.logger.baofeng.com
+hawk.laptopmag.com
 hawk-tech.co.uk
 hayes.jumpshot.com
 hayu.sjv.io
@@ -30144,6 +30162,7 @@ js.upsight-api.com
 js.usemessages.com
 js.users.51.la
 js.vpptechnologies.com
+js-webt-lol.9cache.com
 jtco.iljmp.com
 jtest.btttag.com
 jtsv01.webtrekk.net
@@ -33906,6 +33925,7 @@ mb.fullstory.com
 mboxedge35.tt.omtrdc.net
 mbr-targeting.com
 mbs.iljmp.com
+mbusa-tagging-prod.azureedge.net
 mcafee12.tt.omtrdc.net
 mcatrack.airbrake.io
 mcc.ksmobile.com
@@ -35660,6 +35680,7 @@ migrate.webtrends.com
 mike12101.blueprint1.cpa.clicksure.com
 mikegillette.iljmp.com
 mike.iljmp.com
+mikmak-attach-prod.firebaseio.com
 mileiq.onelink.me
 milesaway.oracle.cpa.clicksure.com
 milestone.evergage.com
@@ -45754,6 +45775,7 @@ service.us2.sumologic.com
 serviceusers.brand.stg.markmonitor.com
 serving.stat-rock.com
 servmetric.com
+servt.vid-play.com
 servustv.oewabox.at
 seshat.mpnrs.com
 se.sitestat.com
@@ -49453,6 +49475,7 @@ spartanrace.c3metrics.com
 spartanutrition.tapfiliate.com
 spaulding.iljmp.com
 sp.backtrace.io
+sp.cargurus.com
 spd.atdmt.com
 speakly.count.ly
 spe.atdmt.com
@@ -65370,6 +65393,7 @@ tiger.vizu.com
 tigger-citadel.touchtype-fluency.com
 tikivn.api.sociaplus.com
 tikonl.ivwbox.de
+tile.commercialtrucktrader.com
 tile.equipmenttrader.com
 tiltingpoint.helpshift.com
 t.image3.pushauction.com
@@ -75453,6 +75477,7 @@ tv.birst.com
 tvf.zango.com
 tvi.hit.gemius.pl
 tvinfo.ivwbox.de
+t.vi-serve.com
 t.visualrevenue.com
 tv.jsrdn.com
 tvlandcollect.insightfirst.com

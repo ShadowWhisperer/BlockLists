@@ -1,31 +1,32 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 9/24/2020  13:06 (1:06 PM CST)
+# Updated: 9/29/2020  23:40 (11:40 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-fonts.acer.com                                          #Font  Acer
-edgefonts.net                                           #Font    Adobe
-fonts.adobe.com                                         #Font    Adobe
-typekit.com                                             #Font    Adobe
-use.typekit.com                                         #Font    Adobe
-typekit.net                                             #Font    Adobe
-use.edgefonts.net                                       #Font    Adobe
-use.typekit.net                                         #Font    Adobe
-fast.fonts.net                                          #Fonts     Fonts.net
-fonts.net                                               #Fonts     Fonts.net
+fonts.acer.com                                          #Font      Acer
+edgefonts.net                                           #Font  Adobe
+fonts.adobe.com                                         #Font  Adobe
+typekit.com                                             #Font  Adobe
+use.typekit.com                                         #Font  Adobe
+typekit.net                                             #Font  Adobe
+use.edgefonts.net                                       #Font  Adobe
+use.typekit.net                                         #Font  Adobe
+fast.fonts.net                                          #Font      Fonts.net
+fonts.net                                               #Font      Fonts.net
 file.myfontastic.com                                    #Font  Fontastic.me
 fontastic.me                                            #Font  Fontastic.me
 myfontastic.com                                         #Font  Fontastic.me
-fontplus.aem.kao.com                                    #Font  FontPlus (Softbank Tech Corp.) Marketing / Analytics
+fontplus.aem.kao.com                                    #Font      FontPlus (Softbank Tech Corp.) Marketing / Analytics
 fonts.gstatic.com                                       #Font  Google
 fonts.googleapis.com                                    #Font  Google
-f.kinja-static.com                                      #Font     Kinja
+f.kinja-static.com                                      #Font      Kinja
 hello.myfonts.net                                       #Font  My Fonts
 myfonts.net                                             #Font  My Fonts
+d3s44e87wooplq.cloudfront.net                           #Font      Font Awesome
 fontawesome.com                                         #Font      Font Awesome
 kit.fontawesome.com                                     #Font      Font Awesome
 kit-free.fontawesome.com                                #Font      Font Awesome
@@ -37,32 +38,34 @@ use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
 fontplus.jp                                             #Font      Font Plus
 webfont.fontplus.jp                                     #Font      Font Plus
+realtype.jp                                             #Font  RealType
+font.realtype.jp                                        #Font  RealType
 fonts.shopifycdn.com                                    #Font  Shopify
-cloud.webtype.com                                       #Font    WebType
-pls.webtype.com                                         #Font    WebType
-webtype.com                                             #Font    WebType
-drh-fonts.img.digitalrivercontent.net                   #Font     Specific
-fonts.ea.com.c.footprint.net                            #Font     Specific
-fonts.ea.com                                            #Font     Specific
-fonts.fandango.com                                      #Font     Specific
-fonts.foxsports.com                                     #Font     Specific
-fonts.intercomcdn.com                                   #Font     Specific
-fonts.iu.edu                                            #Font     Specific
-fonts.jimstatic.com                                     #Font     Specific
-fonts.ngeo.com                                          #Font     Specific
-fonts.nymag.com                                         #Font     Specific
-fonts.sidearmsports.com                                 #Font     Specific
-fonts.sony.net                                          #Font     Specific
-fonts.staticworld.net                                   #Font     Specific
-fonts.voxmedia.com                                      #Font     Specific
-fonts.walmart.com                                       #Font     Specific
-fonts.wpcdn.pl                                          #Font     Specific
-fonts.wsj.net                                           #Font     Specific
-fonts.zumst.com                                         #Font     Specific
-g1.nyt.com                                              #Font     Specific
-gel.files.bbci.co.uk                                    #Font     Specific
-nimblefonts.nimbledeals.com                             #Font     Specific
-static-web-assets.gnl-common.bbcverticals.com           #Font     Specific
+cloud.webtype.com                                       #Font      WebType
+pls.webtype.com                                         #Font      WebType
+webtype.com                                             #Font      WebType
+drh-fonts.img.digitalrivercontent.net                   #Font  Specific
+fonts.ea.com.c.footprint.net                            #Font  Specific
+fonts.ea.com                                            #Font  Specific
+fonts.fandango.com                                      #Font  Specific
+fonts.foxsports.com                                     #Font  Specific
+fonts.intercomcdn.com                                   #Font  Specific
+fonts.iu.edu                                            #Font  Specific
+fonts.jimstatic.com                                     #Font  Specific
+fonts.ngeo.com                                          #Font  Specific
+fonts.nymag.com                                         #Font  Specific
+fonts.sidearmsports.com                                 #Font  Specific
+fonts.sony.net                                          #Font  Specific
+fonts.staticworld.net                                   #Font  Specific
+fonts.voxmedia.com                                      #Font  Specific
+fonts.walmart.com                                       #Font  Specific
+fonts.wpcdn.pl                                          #Font  Specific
+fonts.wsj.net                                           #Font  Specific
+fonts.zumst.com                                         #Font  Specific
+g1.nyt.com                                              #Font  Specific
+gel.files.bbci.co.uk                                    #Font  Specific
+nimblefonts.nimbledeals.com                             #Font  Specific
+static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 
 brazzerssurvey.com                                      #Survey
 inmoment.com                                            #Survey
@@ -137,17 +140,18 @@ s7.addthis.com                                          #Webpages - Social Media
 s9.addthis.com                                          #Webpages - Social Media
 share.pluso.ru                                          #Webpages - Social Media
 l.sharethis.com                                         #Webpages - Social Media
+platform-api.sharethis.com                              #Webpages - Social Media
 sharethis.com                                           #Webpages - Social Media
-ss.sharethis.com                                        #Webpages - Social Media
-sync.sharethis.com                                      #Webpages - Social Media
-t.sharethis.com                                         #Webpages - Social Media
-w.sharethis.com                                         #Webpages - Social Media
 sharethis.net                                           #Webpages - Social Media
+ss.sharethis.com                                        #Webpages - Social Media
 static1.twitcount.com                                   #Webpages - Social Media
 static.zotabox.com                                      #Webpages - Social Media
+sync.sharethis.com                                      #Webpages - Social Media
+t.sharethis.com                                         #Webpages - Social Media
 twitcount.com                                           #Webpages - Social Media
 uptolike.com                                            #Webpages - Social Media
 v1.addthisedge.com                                      #Webpages - Social Media
+w.sharethis.com                                         #Webpages - Social Media
 zotabox.com                                             #Webpages - Social Media
 powr.io                                                 #Webpages - Social Media / Other Plugins
 browser-update.org                                      #Webpages - Checks Browser Version
@@ -280,24 +284,25 @@ firefox.settings.services.mozilla.com                   #Software   FireFox
 snippets.cdn.mozilla.net                                #Software   FireFox
 snippets.mozilla.com                                    #Software   FireFox
 tiles-cloudfront.cdn.mozilla.net                        #Software   FireFox
-af.opera.com                                            #Software      Opera - Autofill
-desktop-assistant-sub.osp.opera.software                #Software      Opera - Desktop Assistant
-browser-notifications.opera.com                         #Software      Opera - Notifications
-sd-suggestions.operacdn.com                             #Software      Opera - Speed Dial Suggestions
-plugon.us                                               #Software    ShowMyPc  After Exit
-steambroadcast.akamaized.net                            #Software      Steam - Broadcast Gameplay
-ipv6check-udp.steamcontent.com                          #Software      Steam
-ipv6check-http.steamcontent.com                         #Software      Steam
-bench.utorrent.com                                      #Software   µTorrent
-macupdate.utorrent.com                                  #Software   µTorrent
-router.utorrent.com                                     #Software   µTorrent
-search.utorrent.com                                     #Software   µTorrent
-toolbar.utorrent.com                                    #Software   µTorrent
-update.bittorrent.com                                   #Software   µTorrent
-update.utorrent.com                                     #Software   µTorrent
-update.utorrent.li                                      #Software   µTorrent
-user.utorrent.com                                       #Software   µTorrent
-utclient.utorrent.com                                   #Software   µTorrent
+mymotocast.com                                          #Software      Motorola  - MotoCast (Defunct)
+af.opera.com                                            #Software    Opera - Autofill
+desktop-assistant-sub.osp.opera.software                #Software    Opera - Desktop Assistant
+browser-notifications.opera.com                         #Software    Opera - Notifications
+sd-suggestions.operacdn.com                             #Software    Opera - Speed Dial Suggestions
+plugon.us                                               #Software      ShowMyPc  After Exit
+steambroadcast.akamaized.net                            #Software    Steam - Broadcast Gameplay
+ipv6check-udp.steamcontent.com                          #Software    Steam
+ipv6check-http.steamcontent.com                         #Software    Steam
+bench.utorrent.com                                      #Software      µTorrent
+macupdate.utorrent.com                                  #Software      µTorrent
+router.utorrent.com                                     #Software      µTorrent
+search.utorrent.com                                     #Software      µTorrent
+toolbar.utorrent.com                                    #Software      µTorrent
+update.bittorrent.com                                   #Software      µTorrent
+update.utorrent.com                                     #Software      µTorrent
+update.utorrent.li                                      #Software      µTorrent
+user.utorrent.com                                       #Software      µTorrent
+utclient.utorrent.com                                   #Software      µTorrent
 
 emapi.prm.data.ea.com                                   #Games [Studio]  EA
 eamobile.com                                            #Games [Studio]  EA
