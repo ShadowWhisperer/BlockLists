@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 9/29/2020  23:40 (11:40 PM CST)
+# Updated: 10/2/2020  00:03 (12:03 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -105,6 +105,7 @@ surveymonkey.com                                        #Survey - Survey Monkey
 surveymonkey.de                                         #Survey - Survey Monkey
 usabilla.com                                            #Survey - Survey Monkey (usabilla)
 survicate.com                                           #Survey - Survicate
+survio.com                                              #Survey - Survio
 survey.webrootanywhere.com                              #Survey - Webroot
 yesinsights.com                                         #Survey - Yes Insights
 questionpro.com                                         #Survey - Question Pro

@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 9/24/2020  13:06 (1:06 PM CST)
+# Updated: 10/2/2020  00:03 (12:03 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -371,7 +371,6 @@ cdn.ebaumsworld.com                                  #Website - eBaum's World (C
 ebaumsworld.com                                      #Website - eBaum's World (Contains adult content)
 images.ebaumsworld.com                               #Website - eBaum's World (Contains adult content)
 mystart.incredimail.com                              #Website - Incredimail (Browser Homepage Hijack)
-noodlemagazine.com                                   #Website - Noodle Magazine (Mostly adult videos)
 rt.com                                               #Website - RT (News site operated by Russian Gov.)
 en.vidmo.org                                         #Website - Vidmo (Contains adult videos)
 vidmo.org                                            #Website - Vidmo (Contains adult videos)
