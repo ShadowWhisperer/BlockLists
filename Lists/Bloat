@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 10/2/2020  16:32 (4:32 PM CST)
+# Updated: 10/9/2020  12:41 (12:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -79,6 +79,7 @@ secure.polldaddy.com                                    #Survey
 survey.io                                               #Survey
 surveyrouter.com                                        #Survey
 tns-gallup.dk                                           #Survey
+typeform.com                                            #Survey
 ups.surveyrouter.com                                    #Survey
 wenjuan.com                                             #Survey
 you-cubez.com                                           #Survey
@@ -117,7 +118,8 @@ videodownloaderultimate.com                             #Browser Extension - Vid
 followistic.com                                         #Webpages - Email Notifications
 api.followistic.com                                     #Webpages - Email Notifications
 static.followistic.com                                  #Webpages - Email Notifications
-licensebuttons.net                                      #Webpages - Icon
+licensebuttons.net                                      #Webpages - Icons
+badges.instagram.com                                    #Webpages - Icons
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com      #Webpages - Icon (licensebuttons.net)
 i.creativecommons.org                                   #Webpages - Icon (licensebuttons.net)
 donorbox.org                                            #Webpages - Icon (Donate Button)
@@ -133,16 +135,17 @@ addnow.com                                              #Webpages - Social Media
 addthiscdn.com                                          #Webpages - Social Media
 addthis.com                                             #Webpages - Social Media
 addthisedge.com                                         #Webpages - Social Media
+api-public.addthis.com                                  #Webpages - Social Media
 linksalpha.com                                          #Webpages - Social Media
+l.sharethis.com                                         #Webpages - Social Media
 media.line.naver.jp                                     #Webpages - Social Media
 opensharecount.com                                      #Webpages - Social Media
 p.dlx.addthis.com                                       #Webpages - Social Media
+platform-api.sharethis.com                              #Webpages - Social Media
 pluso.ru                                                #Webpages - Social Media
 s7.addthis.com                                          #Webpages - Social Media
 s9.addthis.com                                          #Webpages - Social Media
 share.pluso.ru                                          #Webpages - Social Media
-l.sharethis.com                                         #Webpages - Social Media
-platform-api.sharethis.com                              #Webpages - Social Media
 sharethis.com                                           #Webpages - Social Media
 sharethis.net                                           #Webpages - Social Media
 ss.sharethis.com                                        #Webpages - Social Media
@@ -424,7 +427,6 @@ people-pa.googleapis.com                                #Google
 realtimesupport.clients6.google.com                     #Google
 sandbox.l.google.com                                    #Google
 sb-ssl.google.com                                       #Google
-sites.google.com                                        #Google
 suggestqueries.google.com                               #Google
 toolbar.google.com                                      #Google
 trends.google.com                                       #Google
@@ -457,6 +459,7 @@ mus.lenovo.com                                          #IBM / Lenovo
 graph.instagram.com                                     #Instagram
 api.intelsa.intel.com                                   #Intel   [Software]  Security Assistant
 tkassets.com                                            #Intel   [Software]  True Key
+gameplayapi.intel.com                                   #Intel   Game Graphics Optimization Check
 gameplay.intel.com                                      #Intel   Game Graphics Optimization Check
 ekop.intel.com                                          #Intel
 iasbroker.intel.com                                     #Intel

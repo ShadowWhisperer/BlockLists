@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 10/2/2020  16:32 (4:32 PM CST)
+# Updated: 10/9/2020  12:41 (12:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -115,6 +115,7 @@ g.msn.com.nsatc.net                            #Spotlight (Ads, Notifications, S
 query.prod.cms.rt.microsoft.com                #Spotlight (Ads, Notifications, Suggested Apps, Tips, Wallpaper)
 
 ceipmsn.com                                    #SeaPort (Search Enhancement Broker process)
+g.ceipmsn.com                                  #SeaPort (Search Enhancement Broker process)
 
 survey.support.services.microsoft.com          #Survey - Popup Window
 
@@ -264,9 +265,11 @@ kv401-prod.do.dsp.mp.microsoft.com             #Updates ?
 prod.do.dsp.mp.microsoft.com.edgekey.net       #Updates ?
 
 adclub.net                                     #Ads ?
-r.msn.com                                      #Ads ?
 
 o.xbox.com                                     #Tracking ? (Blank)
+
+amp-test.com                                   # On msn.com
+udc.amp-test.com                               # On msn.com
 
 msantispy.com                                  #Defunct ?
 msecn.net                                      #Defunct ?
