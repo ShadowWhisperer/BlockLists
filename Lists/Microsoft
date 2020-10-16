@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 10/9/2020  12:41 (12:41 PM CST)
+# Updated: 10/16/2020  10:10 (10:10 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -447,6 +447,7 @@ ra.live.com
 rarewaves.blob.core.windows.net
 redir1.cloudapp.net
 rewards.microsoft.com
+prod.rewardsplatform.microsoft.com
 rssgov.windows.microsoft.com
 rzpict1.blob.core.windows.net
 s-0001.s-msedge.net

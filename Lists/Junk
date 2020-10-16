@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 10/9/2020  12:41 (12:41 PM CST)
+# Updated: 10/16/2020  10:10 (10:10 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -138,6 +138,7 @@ voila.fr                                             #ISP (France)
 wanadoo.es                                           #ISP (France)
 wanadoo.fr                                           #ISP (France)
 fibernet.hu                                          #ISP (Hungary)
+prtelecom.hu                                         #ISP (Hungary)
 airtel.net                                           #ISP (India)
 irishbroadband.ie                                    #ISP (Ireland)
 bezeqint.net                                         #ISP (Israel)
@@ -291,9 +292,11 @@ remotewd.com                                         #Software - Western Digital
 wd2go.com                                            #Software - Western Digital (Cloud Storage)
 wdtest8.com                                          #Software - Western Digital (Cloud Storage)
 ampsvc.com                                           #Software - WildTangent Games
+api.wildtangent.com                                  #Software - WildTangent Games
 dp2manifester.ampsvc.com                             #Software - WildTangent Games
 hp.wildgames.com                                     #Software - WildTangent Games
 manifester.ampsvc.com                                #Software - WildTangent Games
+onlinecheck.wildtangent.com                          #Software - WildTangent Games
 wildgames.com                                        #Software - WildTangent Games
 wildtangent.com                                      #Software - WildTangent Games
 api.api.winzip.com                                   #Software - Winzip
