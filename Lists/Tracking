@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 10/16/2020  15:11 (3:11 PM CST)
+# Updated: 10/17/2020  19:36 (7:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -455,6 +455,8 @@
 173848.measurementapi.com
 173860.measurementapi.com
 17390.engine.mobileapptracking.com
+173e2529.akstat.io
+173e255b.akstat.io
 174030.measurementapi.com
 174126.measurementapi.com
 17428.engine.mobileapptracking.com
@@ -499,6 +501,7 @@
 179470.tlnk.io
 179686451-prod-email.rfksrv.com
 179686451-prod.rfksrv.com
+17c8edc7.akstat.io
 17.pixel.parsely.com
 17.us.wr.pixapi.net
 180032.measurementapi.com
@@ -13564,6 +13567,7 @@ assets3.getsocial.io
 assets-acceptance.sharethrough.com
 assets.acceptance.sharethrough.com
 assets.adobedtm.com
+assets.a-mo.net
 assets.amung.us
 assets.apptentive.com
 assets.bounceexchange.com
@@ -14419,6 +14423,7 @@ bam-6.nr-data.net
 bam-7.nr-data.net
 bam-8.nr-data.net
 bam-9.nr-data.net
+bam-cell.nr-data.net
 bam.eu01.nr-data.net
 bamideas.piwikpro.com
 bam.nr-data.net
@@ -16725,6 +16730,7 @@ catsearch.us1.ss-omtrdc.net
 catsnthings.fun
 cavenderauto-cdn.clarivoy.com
 caviar-support.helpshift.com
+cavisson.com
 cav.truoptik.com
 ca.xs.mookie1.com
 cb1.dev.rtb.owneriq.net
@@ -17124,6 +17130,7 @@ cdn.labs.livesession.io
 cdn.liftoff.io
 cdn.linkmink.com
 cdn.listrakbi.com
+cdn.livefyre.com
 cdn.liverail.com
 cdn.livesession.io
 cdn.localytics.com
@@ -17142,6 +17149,7 @@ cdn.media6degrees.com
 cdn.mediaforge.com
 cdn.media.pushspring.com
 cdn.mediavoice.com
+cdn.memo.co
 cdn.merklesearch.com
 cdn.metalyzer.com
 cdn.mm.atwola.com
@@ -22340,6 +22348,7 @@ dc6.s79.research.de.com
 dc72976c7e9a4e749e3af5d95.litix.io
 dc7.s79.research.de.com
 dc-869c.optimahub.com
+dc8xl0ndzn2cb.cloudfront.net
 dcac9f112259fb94748b699712417eeb.nonstoppartner.net
 dc.adadvisor.net
 dcae342a598889af575aa5a391e48de4.api.appsee.com
@@ -24494,6 +24503,7 @@ eloqua.com
 eloqua-trackings.unity3d.com
 elpix01.touchcommerce.com
 elpix02.touchcommerce.com
+elsa.memoinsights.com
 els.econda-monitor.de
 elsevierinc.sc.omtrdc.net
 elstatic.weborama.fr
@@ -25253,7 +25263,6 @@ events.dynamicyield.com
 events.elev.io
 events.emogi.com
 events.evergage.com
-events.fairchildlive.com
 events.fera.ai
 events.fera.ai.herokudns.com
 events.fgol.mobi
@@ -29419,6 +29428,7 @@ i1-js-14-3-01-13960-904132444-i.init.cedexis-radar.net
 i1.onthe.io
 i1.putags.com
 i1qbhvfnnwojdkysklz80oqi5jpsy1507501502.nuid.imrworldwide.com
+i2-cmcwakawvvprfowttjikxpfgqqsjdv.init.cedexis-radar.net
 i2i.jp
 i2.mouseflow.com
 i2.onthe.io
@@ -32536,6 +32546,7 @@ liftforward.trackinglibrary.prodperfect.com
 lift.mixpanel.com
 liftoff.io
 lift.unacast.com
+lightboxapi2.azurewebsites.net
 lightboxapi.azurewebsites.net
 lightboxcdn.com
 lighthouse.tapfiliate.com
@@ -35793,6 +35804,7 @@ members.adjust.com
 members.app.woopra.com
 memo2.nl
 memob.com
+memoinsights.com
 memrise.helpshift.com
 mena.acxiom.com
 mena-gmtdmp.mookie1.com
@@ -38690,6 +38702,7 @@ netstats-1.www.ibm.com
 netstats-2.www.ibm.com
 nettium.piwik.pro
 net.touchcommerce.com
+netvision.cavisson.com
 networkacceptance.prod.adpredictive.io
 network.ingest.crittercism.com
 network.ivwbox.de
@@ -80162,6 +80175,7 @@ tr.line.me
 tr.locsensads.com
 tr.marsflag.com
 tropo01.webtrekk.net
+tr.outbrain.com
 trovimap.loggly.com
 trowepricerps.images.sundaysky.com
 trp-app.quantummetric.com
@@ -80458,6 +80472,7 @@ twitchtv.ivwbox.de
 twitch.us-east-1.stinger-ad.bidr.io
 twitch.us-west-2.stinger-ad.bidr.io
 twitstat.com
+twitter-alternate.app.link
 twitter.techtarget.com
 twitter.tlnk.io
 twnetde.ivwbox.de
@@ -82917,6 +82932,7 @@ widget-cdn.rpxnow.com
 widget.fitanalytics.com
 widget.jivox.com
 widget.onthe.io
+widget-pixels.outbrain.com
 widget.privy.com
 widget.quantcast.com
 widget.rcallr.com

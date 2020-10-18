@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 10/16/2020  15:11 (3:11 PM CST)
+# Updated: 10/17/2020  19:36 (7:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -14,7 +14,7 @@
 01-1099pro-nym2.ad.corp.appnexus.com
 0127.adsame.com
 01a6d-0fa8d.api.pushwoosh.com
-01.api.fra1.appnexus.net+
+01.api.fra1.appnexus.net
 01.ast.nyc2.appnexus.com
 01.att-corp-integration.lax1.appnexus.com
 01.att-dns-forwarder.lax1.appnexus.com
@@ -301,6 +301,7 @@
 11b564193.webengage.co
 11b5642bb.webengage.co
 11b56463d.webengage.co
+11-courier.push.apple.com
 11hrcnll.com
 11lmt6lnrr.mentalist.kameleoon.com
 11.o7.net
@@ -315,6 +316,7 @@
 1276.adsina.allyes.com
 12903-257019.link.iwanttodeliver.com
 12903-257031.link.iwanttodeliver.com
+12-courier.push.apple.com
 12f7d-291c4.api.pushwoosh.com
 12gbfree.com
 1305b-d5787.api.pushwoosh.com
@@ -389,6 +391,7 @@
 1679.bitterstrawberry.com
 1684.bitterstrawberry.com
 1687.ic-live.com
+16-courier.push.apple.com
 16fba-f74ca.api.pushwoosh.com
 16yp1ji92a.com
 1703.ic-live.com
@@ -396,6 +399,7 @@
 17173im.allyes.com
 1736.bitterstrawberry.com
 17a46-e3188.api.pushwoosh.com
+17-courier.push.apple.com
 1800petmeds.adlegend.com
 18183-720ed.api.pushwoosh.com
 181fm.adswizz.com
@@ -407,6 +411,7 @@
 1846.bitterstrawberry.com
 1866b-158e0.api.pushwoosh.com
 18.afs.googleadservices.com
+18-courier.push.apple.com
 18rockets.acuityplatform.com
 19195-178959.link.iwanttodeliver.com
 192.168.ads2.contentabc.com
@@ -423,6 +428,7 @@
 19753-191755.link.iwanttodeliver.com
 19753-283825.link.iwanttodeliver.com
 19bk5lo5q2.com
+19-courier.push.apple.com
 1a8f0-a4d80.api.pushwoosh.com
 1a8fe-a464d.api.pushwoosh.com
 1.adbrite.com
@@ -462,6 +468,7 @@
 1weather-quark.onelouder.com
 1wkvvts8is.com
 1worldonline.com
+1x1.a-mo.net
 1yonge-2.lb.engagecore.com
 1yonge-3.lb.engagecore.com
 1zv9jakhux.com
@@ -540,6 +547,7 @@
 247support.adtech.us
 247teencash.net
 24-ads.adaos-ads.net
+24-courier.push.apple.com
 24hf.inq.com
 24m.nuggad.net
 24vunvrv.com
@@ -561,6 +569,7 @@
 25ddf-5b0e3.api.pushwoosh.com
 2688.bitterstrawberry.com
 26b63-fc0eb.api.pushwoosh.com
+26-courier.push.apple.com
 271-258019.link.iwanttodeliver.com
 271-276159.link.iwanttodeliver.com
 271-283547.link.iwanttodeliver.com
@@ -695,6 +704,7 @@
 343.bitterstrawberry.com
 3452345.dsp.platform.io
 346ac-792f7.api.pushwoosh.com
+34-courier.push.apple.com
 34pavouhj7.com
 35038-95bb9.api.pushwoosh.com
 35099-298489.link.iwanttodeliver.com
@@ -702,6 +712,7 @@
 3562.bitterstrawberry.com
 35787-307527.link.iwanttodeliver.com
 3598.bitterstrawberry.com
+35-courier.push.apple.com
 3600.bitterstrawberry.com
 360.unbounce.com
 360yield.com
@@ -730,6 +741,7 @@
 39-374701.link.iwanttodeliver.com
 39-89325.link.iwanttodeliver.com
 398.genorithm.com
+39-courier.push.apple.com
 39irqwnzlv.com
 3.adbrite.com
 3amcouk.skimlinks.com
@@ -739,6 +751,7 @@
 3c8e6-b5aa1.api.pushwoosh.com
 3ccdd-45370.api.pushwoosh.com
 3c.gmx.net
+3-courier.push.apple.com
 3d2.omnivirt.com
 3d.adblade.com
 3.damoh.gmx.net
@@ -805,9 +818,11 @@
 45eijvhgj2.com
 45tu1c0.com
 4697c-51dde.api.pushwoosh.com
+46-courier.push.apple.com
 46f12-be2e4.api.pushwoosh.com
 47b50-11004.api.pushwoosh.com
 47c24-bc3a4.api.pushwoosh.com
+47-courier.push.apple.com
 4802.170.blueseek.com
 482408343.search.media.net
 48352-efdca.api.pushwoosh.com
@@ -848,6 +863,7 @@
 4c28d6.r.axf8.net
 4c892-6b262.api.pushwoosh.com
 4cd57-2de6e.api.pushwoosh.com
+4-courier.push.apple.com
 4dsply.com
 4ecservices.goadservices.com
 4eokxha0ov.mentalist.kameleoon.com
@@ -975,6 +991,7 @@
 6293.bapi.adsafeprotected.com
 629a7-476bd.api.pushwoosh.com
 6348.bapi.adsafeprotected.com
+6360663.fls.doubleclick.net
 63b76-6464b.api.pushwoosh.com
 63da4-d8d3a.api.pushwoosh.com
 6449-200185.link.iwanttodeliver.com
@@ -1014,6 +1031,7 @@
 6.adsco.re
 6bmibf2gam.us-east-1.elasticbeanstalk.com
 6ca9a-e83d9.api.pushwoosh.com
+6-courier.push.apple.com
 6d79qh7j.com
 6dc8d-046d5.api.pushwoosh.com
 6dd22-5654c.api.pushwoosh.com
@@ -1102,6 +1120,7 @@
 7a024-3c898.api.pushwoosh.com
 7boxencq60.mentalist.kameleoon.com
 7ceb0.v.fwmrm.net
+7-courier.push.apple.com
 7dmzdeebic.us-east-1.elasticbeanstalk.com
 7dp6g2rqzn.com
 7e1d2-dstack.v.fwmrm.net
@@ -1158,6 +1177,7 @@
 8861b-b238d.api.pushwoosh.com
 88a17-acbea.api.pushwoosh.com
 88hb7evabd.com
+8980432.fls.doubleclick.net
 8b3439.r.axf8.net
 8cb8a3.r.axf8.net
 8cu1r8q6k.c.ina.media.net
@@ -1247,6 +1267,7 @@
 9ata.ero-advertising.com
 9.bapi.adsafeprotected.com
 9.continular.com
+9-courier.push.apple.com
 9d060c.r.axf8.net
 9dacbd.r.axf8.net
 9dced-822ad.api.pushwoosh.com
@@ -27762,6 +27783,7 @@ cls.vrvm.com
 cltr.vrtzads.com
 clubhits.tsx.org
 clubworks.medallia.com
+cluep.com
 clusava.fra-01.braze.eu
 cluste.ad-serverparc.nl
 cluster-02.topbucks.com
@@ -30491,6 +30513,7 @@ dev.applifier.com
 dev.appnexus.com
 dev.apps.adtz.com
 devart.adbureau.net
+dev-as.cluep.com
 dev.bizum-groupm.facebook-ads.adtz.com
 devblog.mediamath.com
 dev.bootea-uk.pinterest.adtz.com
@@ -33872,6 +33895,7 @@ feeds-class.advance.net
 feed.sdna.com
 feed.searchanyway.com
 feeds-edit.advance.net
+feeds-elections.foxnews.com
 feeds.feedburner.com
 feeds-incoming.advance.net
 feeds.nextperf.net
@@ -34302,6 +34326,7 @@ foxdealer.gimbal.com
 fox-d.justpremium.com
 foxnews.cdn.auditude.com
 foxnews.dev.extremereach.com
+foxnews-d.openx.net
 foxnews.extremereach.com
 foxnews.mdialog.com
 foxnews.sl.advertising.com
@@ -37820,6 +37845,7 @@ inimage.carambo.la
 in.info.lgsmartad.com
 initiative.twitter.adtz.com
 init-latency-test.supersonicads.com
+init.push.apple.com
 init.startappexchange.com
 init.startappservice.com
 init.supersonicads.com
@@ -41105,6 +41131,7 @@ mcdev.vungle.com
 mcdienstenepidemics-env.elasticbeanstalk.com
 mcdn.adspeed.com
 mcdonough.placelocal.com
+mcdp-sadc1.outbrain.com
 mcdsbikinis.tsx.org
 mc.fillvdo.com
 mcgi.v.qq.com.adserver.com
@@ -44667,6 +44694,7 @@ onclarck.com
 onclickads.net
 onclickalgo.com
 onclick.dashboard.propellerads.com
+onclickgenius.com
 onclickmax.com
 onclickperformance.com
 onclkds.com
@@ -45411,6 +45439,7 @@ p1.vip.sc9.admob.com
 p1.zemanta.com
 p201298.mybestdc.com
 p203248.mybestdc.com
+p20648.cedexis-test.com
 p20uslbapi.xtify.com
 p20uslbsdkapi.xtify.com
 p210964.mybestdc.com
@@ -45561,6 +45590,12 @@ p328123.mybestdc.com
 p328424.cdaz.icu
 p329076.mybestdc.com
 p331571.cdaz.icu
+p33235.cedexis-test.com
+p33240.cedexis-test.com
+p33244.cedexis-test.com
+p33250.cedexis-test.com
+p33258-cloud.cedexis-test.com
+p33260.cedexis-test.com
 p332672.cdaz.icu
 p332672.mybestdc.com
 p332880.mybestdc.com
@@ -45692,7 +45727,12 @@ p3.chartboost.com
 p40039.cdaz.icu
 p400.atemda.com
 p4010.adskape.ru
+p40236.cedexis-test.com
+p40238.cedexis-test.com
+p40266.cedexis-test.com
 p40443.mybestdc.com
+p41281.cedexis-test.com
+p43813.cedexis-test.com
 p45873.mybestdc.com
 p48056.cdaz.icu
 p48056.mybestdc.com
@@ -45829,6 +45869,7 @@ pages.taboola.com
 pages.thetradedesk.com
 pageview.goroost.com
 pagit.popads.net
+paid.outbrain.com
 paid.outbrain.de
 paid.outbrain.fr
 paid.outbrain.it
@@ -47418,6 +47459,7 @@ prebid.admedia.com
 prebid.adnxs.com
 prebid.adsparc.com
 prebid.advertserve.com
+prebid.a-mo.net
 prebid.appnexus.com
 prebid-a.rubiconproject.com
 prebid-a.rubiconproject.net.akadns.net
@@ -49211,6 +49253,7 @@ reactor.xtify.com
 readgoldfish.com
 readingguilt.com
 readingopera.com
+readmo.yahoo.com
 re.adnxs.com
 re.ads.justpremium.com
 read.unbounce.com
@@ -58473,6 +58516,7 @@ upsource.internal.connatix.com
 up.stickertable.com
 upstream.instapage.com
 upstream.where.com
+uptimecdn.com
 up.win-now.co
 upworthy-img.rbl.ms
 upx.tsx.org
@@ -59045,6 +59089,7 @@ v6.startappservice.com
 v8-collector-live.us-west-2.elasticbeanstalk.com
 va3-dsr.lb.indexww.com
 va3.lb.indexww.com
+va6-bid.adsrvr.org
 vaadxrtb.lfstmedia.com
 va.akamai.startappservice.com
 va-aka.startappservice.com
@@ -59343,6 +59388,7 @@ vegaspartyslots.tresensa.com
 vegas.valueclick.com
 veinteractive.com
 vela.awempire.com
+vela.iad-01.braze.com
 vela.iad.appboy.com
 velis.adk2x.com
 velis-inv-sg.admixer.net
@@ -61132,6 +61178,7 @@ wn-iad02.e-planning.net
 wn-iad.e-planning.net
 wn-sjc.e-planning.net
 wo.gumgum.com
+wojdn.com
 wolf.realmedia.com
 wolqundera.com
 wolterskluwer.cdn.adglare.net
