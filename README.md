@@ -1,6 +1,6 @@
     Ads              Advertisements, Banners, Widgets & Push Notifications  
     Adult            Porn / 18+ Content  
-    Apple            Bloat / Push Notifications  
+    Apple            Bloat
     Bitcoin          Bitcoin domains (Not directly malware)
     Bloat            Fonts, Surveys, Domains not required for software to function  
     Chat             Live / Bot chat dialog boxes  
@@ -19,8 +19,8 @@
     Suspicious       Domains I am uncertain of. Contains a mixture of everything  
     Top_Level        Top Level Domains. Sorted by Continent, then country
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
-    Tunnels          VPNs & Proxies
-    Typo             Typosquatting / Misspelling of websites  
+    Tunnels          VPNs & Proxies  
+    Typo             Misspelling of websites / Typosquatting  
       
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
