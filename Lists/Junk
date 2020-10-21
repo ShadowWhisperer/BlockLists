@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 10/16/2020  10:10 (10:10 AM CST)
+# Updated: 10/21/2020  17:51 (5:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -309,8 +309,9 @@ kingsoftstore.com                                    #Software - WPS Office
 versiontracker.com                                   #Software - WPS Office
 wps.cn                                               #Software - WPS Office
 wps.com                                              #Software - WPS Office
-zoom.us                                              #Software - Zoom
+d24cgw3uvb9a9h.cloudfront.net                        #Software - Zoom
 zoom.com                                             #Software - Zoom
+zoom.us                                              #Software - Zoom
 
 pair.com                                             #Web Hosting  (Belgium)
 hospedagemdesites.ws                                 #Web Hosting  (Brazil)  LocaWeb
@@ -319,6 +320,7 @@ qbox.me                                              #Web Hosting  (China)
 wz.cz                                                #Web Hosting  (Czech Republic)
 hosttech.eu                                          #Web Hosting  (Europe)
 wonosoft.com                                         #Web Hosting  (Indonesia)
+mixh.jp                                              #Web Hosting  (Japan)
 cafe24.com                                           #Web Hosting  (Korea)
 dothome.co.kr                                        #Web Hosting  (Korea)
 big07.pl                                             #Web Hosting  (Poland)
@@ -397,10 +399,14 @@ ning.com                                             #Website Builder
 ucraft.me                                            #Website Builder
 ukit.me                                              #Website Builder
 urest.org                                            #Website Builder
+wapka.mobi                                           #Website Builder
 webeden.co.uk                                        #Website Builder
 webydo.com                                           #Website Builder
 xtgem.com                                            #Website Builder
 zohosites.com                                        #Website Builder
+
+chat.chatovod.ru                                     #Website Plugin - Multi-user Chat
+chatovod.ru                                          #Website Plugin - Multi-user Chat
 
 lycos.com                                            #Search Engine - Links to malware
 
@@ -421,12 +427,13 @@ uselilo.org                                          #Search Engine [French]
 yandex.net                                           #Search Engine [Russian]
 naver.com                                            #Search Engine [South Korea]
 ask-tb.com                                           #Search Engine   Ask (Toolbar
+amg-ss.ask.com                                       #Search Engine   Ask
 anx.tb.ask.com                                       #Search Engine   Ask
-ssmsp.ask.com                                        #Search Engine   Ask
 ask.com                                              #Search Engine   Ask
 live.tb.ask.com                                      #Search Engine   Ask
 search.ask.com                                       #Search Engine   Ask
 search.tb.ask.com                                    #Search Engine   Ask
+ssmsp.ask.com                                        #Search Engine   Ask
 ss-sym.search.ask.com                                #Search Engine   Ask
 tbapi.search.ask.com                                 #Search Engine   Ask
 search.comodo.com                                    #Search Engine   Comodo

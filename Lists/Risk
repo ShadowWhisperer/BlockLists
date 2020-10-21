@@ -1,6 +1,6 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 9/11/2020  11:06 (11:06 AM CST)
+# Updated: 10/21/2020  17:51 (5:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -72,6 +72,9 @@ localhost.run                                 #Share Localhost
 showoff.io                                    #Share Localhost
 
 
+
+
+
 #  Domains Used On/By Infected Machines  (Potentially)
 #========================================================================================
 #
@@ -80,8 +83,8 @@ showoff.io                                    #Share Localhost
 #        Webscript  =  Run scripts online
 #
 
-remitly.com                            #Money Transfer  (Seen in Tech Support scam case)
-remitly.io                             #Money Transfer  (Seen in Tech Support scam case)
+remitly.com                            #Money Transfer  (Seen in Tech Support Scam)
+remitly.io                             #Money Transfer  (Seen in Tech Support Scam)
 
 beeceptor.com                          #Webhook
 httpreq.com                            #Webhook
@@ -89,6 +92,7 @@ ironikus.com                           #Webhook
 requestbin.com                         #Webhook
 requestinspector.com                   #Webhook
 requestwatch.com                       #Webhook
+webhook.site                           #Webhook
 
 webscript.io                           #Webscript
 pythonanywhere.com                     #Webscript

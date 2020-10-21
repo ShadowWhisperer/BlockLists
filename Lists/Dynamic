@@ -1,12 +1,13 @@
 #
 #    File: Dynamic   (Dynamic DNS:  DNS --> IP)
-# Updated: 9/4/2020  15:50 (3:50 PM CST)
+# Updated: 10/21/2020  17:51 (5:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+0000000000000000000000.com
 0rg.us
 0x.no
 100mountain.com
@@ -1403,6 +1404,7 @@ slyip.net
 smelly.cc
 sne.jp
 socialadhesion.com
+softether.net
 solfa.org
 solidmation.com
 sonnish.com

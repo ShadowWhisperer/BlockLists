@@ -1,6 +1,6 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Updated: 10/9/2020  12:41 (12:41 PM CST)
+# Updated: 10/21/2020  17:51 (5:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -341,6 +341,7 @@ kiosk.tm                      #Kiosk
 mediarithmics.com             #Mediarithmics
 mkmarketingservices.com       #MK Marketing
 ninthdecimal.com              #Ninth Decimal
+marketizator.com              #OmniConvert
 omniconvert.com               #OmniConvert
 orbeeauto.com                 #Orbee Auto
 orbee.co                      #Orbee Auto
@@ -371,6 +372,7 @@ masoffer.net                  #  (Vietnam)
 ##############################
 getcake.com        #Cake
 maxbounty.com      #MaxBounty
+mb38.com           #MaxBounty
 mb103.com          #MaxBounty
 instabid.tech      #YOptima
 yoptima.com        #YOptima
@@ -403,11 +405,13 @@ adapt.io
 #############################
 #  Search
 #############################
-algolia.com               #Algolia
-algolia.io                #Algolia
-doofinder.com             #Doofinder
-findify.io                #Findify
-searchspring.com          #Search Spring
+algolia.com                  #Algolia
+algolia.io                   #Algolia
+algolianet.com               #Algolia
+rcsnjttpht-2.algolianet.com  #Algolia
+doofinder.com                #Doofinder
+findify.io                   #Findify
+searchspring.com             #Search Spring
 
 
 #############################
