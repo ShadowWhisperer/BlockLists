@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 10/21/2020  17:51 (5:51 PM CST)
+# Updated: 10/23/2020  16:41 (4:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3335,6 +3335,7 @@ adminv2.touchcommerce.com
 adminv3.touchcommerce.com
 admin-vpn.monetate.net
 admiral.mgr.consensu.org
+admissions.calvin.edu
 admissionsservices.insightfirst.com
 admnew.dynamicyield.com
 admob.umeng.com
@@ -4149,6 +4150,7 @@ allreverse.iljmp.com
 allreviews.dowfocus.cpa.clicksure.com
 all.spot.im
 allstate.evergage.com
+all-tracker.appspot.com
 alltravel.rtrk.com
 allume.sjv.io
 allyfashion.sjv.io
@@ -8107,6 +8109,7 @@ analytics-ingress.bitmovin.com
 analytics-ingress-global.bitmovin.com
 analytics-ingress.pandorastreaming.com
 analytics.inhost.com.ua
+analytics.init.de
 analytics.inits.io
 analytics.initworks.com
 analytics.injob.it
@@ -14222,6 +14225,7 @@ apps.bronto.com
 app.scanscout.com
 app.scorecardresearch.com
 apps.crashlytics.com
+app-script.monsido.com
 apps.crittercism.com
 apps-dashboard.rtbhouse.com
 apps.demo.dynatrace.com
@@ -17836,6 +17840,7 @@ cb.chartbeat.com
 cb.click.org
 cb-dev.krxd.net
 cbdoilsandedibles.tapfiliate.com
+cbe.capturehighered.net
 c.be.msn.com
 c.betrad.com
 c.bigmir.net
@@ -18090,6 +18095,7 @@ cdn.cf.dynamicyield.com
 cdn.cformanalytics.com
 cdn.chartbeat.com
 cdn.chartbeat.net
+cdn.c-i.as
 cdn.clearbit.com
 cdn.clickagy.com
 cdn.clickmagick.com
@@ -20380,6 +20386,7 @@ cnt.adrime.com
 cnt.alawar.com
 cnt.fout.jp
 cnt.gemius.pl
+cnt.hd21.com
 cntr.adrime.com
 cntr-di5.com
 cntr-di7.com
@@ -21219,6 +21226,7 @@ config-stg.ironbeast.io
 config.uca.cloud.unity3d.com
 configuration.ls.apple.com
 configuration.ma.tune.com
+conf.log-marketing.jp
 confluence.ensighten.com
 confluence.kissmetrics.com
 conforama.solution.weborama.fr
@@ -24367,6 +24375,7 @@ discourse.amplitude.com
 discourse.hotjar.com
 discover.appnext.com
 discover.bluekai.com
+discover.desales.edu
 discover.deviceatlas.com
 discover.dynatrace.com
 discover.kampyle.com
@@ -26976,6 +26985,7 @@ feeds.markmonitor.com
 feeds.provenpixel.com
 feeds.webtrekk.com
 feed-updates.rtbhouse.com
+feed-xml.com
 feelingtouch.helpshift.com
 feel.privy.com
 fe-fi.imrworldwide.com
@@ -28708,6 +28718,7 @@ global.returnpath.net
 global.sisense.com
 global.skyhookwireless.com
 global.smarterhq.io
+globalstats.ekmsecure.com
 globalstats.hotlog.ru
 global-v2.clearbit.com
 globalwealthfirm.iljmp.com
@@ -29657,6 +29668,7 @@ hello.spredfast.com
 hellospy.com
 hellotoby.api.useinsider.com
 hellovote.piwikpro.com
+hello.zonos.com
 help0.flashlight.ksmobile.com
 helpabyssrium1.ksmobile.com
 helpabyssriumios1.ksmobile.com
@@ -29847,6 +29859,7 @@ highloadcomua.onthe.io
 highmark.infogix.com
 highrise.helpshift.com
 highriskpay.iljmp.com
+hiido.com
 hiilton.sjv.io
 hijabenka.moengage.com
 hijlton.sjv.io
@@ -30040,6 +30053,7 @@ hk.as.criteo.net
 hk-astg.widerplanet.com
 hk.astg.widerplanet.com
 hk-cdn.effectivemeasure.net
+hk-cm.ysm.yahoo.com
 hk.cn.criteo.net
 hkfylggs6wxmiftfskpjfucgza7yi1508211711.nuid.imrworldwide.com
 hkg2.exelator.com
@@ -30961,6 +30975,7 @@ id-visitors.com
 idx4.matomo.cloud
 idx.c3tag.com
 idx.listrakbi.com
+id.zalo.me
 ieah8.voluumtrk3.com
 ie-gmtdmp.mookie1.com
 iei.rlcdn.com
@@ -33178,7 +33193,9 @@ ksmobile.com
 ksmobile.net
 ksmovxnctwo007bov3uju8i8yonwn1509501300.nuid.imrworldwide.com
 ksn-a-stat-geo.kaspersky-labs.com
+ksn-cinfo-geo.kas-labs.com
 ksn-cinfo-geo.kaspersky-labs.com
+ksn-crypto-info-geo.kas-labs.com
 ksn-crypto-stat-geo.kas-labs.com
 ksn-file-geo.kaspersky-labs.com
 ksn-info-geo.kaspersky-labs.com
@@ -33673,6 +33690,7 @@ lib.vmweb.net
 licasd.com
 licensesolution.iljmp.com
 license.webtrends.com
+licensing.bitmovin.com
 licensing.bws.birst.com
 lickus.tractionize.com
 li.d.chango.com
@@ -34785,6 +34803,7 @@ log.mangaina.com
 log.maniacalrage.net
 log.maniadb.com
 log.mappy.net
+log-marketing.jp
 logmatic.io
 log.mbna.dekopay.com
 log.mediacategory.com
@@ -36814,6 +36833,7 @@ mecenergizerinnovid582388940514.s.moatpixel.com
 mechtayte.justclick.ru
 mecze24.pljidm.hit.gemius.pl
 medbridge.postaffiliatepro.com
+medeanalytics.com
 media01.imrworldwide.com
 media03.imrworldwide.com
 media04.imrworldwide.com
@@ -42318,6 +42338,7 @@ pilotpggermanyadform245155997265.s.moatpixel.com
 pilotpggermanyadformvideo546326201518.s.moatpixel.com
 pi.lytics.io
 pimco-app.quantummetric.com
+pindrop.com
 pinebelt-cdn.clarivoy.com
 pine.monetate.net
 ping1.tnt-ea.com
@@ -44643,6 +44664,7 @@ pxses.smowtion.com
 px.smowtion.com
 px.survata.com
 px.surveywall-api.survata.com
+px.za.zaloapp.com
 pydoc.datadoghq.com
 pyk.imrworldwide.com
 pypi.admetrics.io
@@ -45490,6 +45512,7 @@ remote-data-staging.urbanairship.com
 remote-data.urbanairship.com
 remote.demandbase.com
 remote.glympse.com
+rem-track.bild.de
 renaultdatapooldoubletracking.solution.weborama.fr
 renaultnl.solution.weborama.fr
 renfe.com.d3.sc.omtrdc.net
@@ -46183,6 +46206,7 @@ rootscaen.btttag.com
 roq.ad
 rosegal.onelink.me
 rosenberg.appmetrica.webvisor.com
+rosetta.prod.ps.bild.de
 rosselgroup.sdk.beemray.com
 rosszlanyok-bud.gravityrd-services.com
 ro.statcounter.com
@@ -46329,6 +46353,7 @@ rsp.lightstep.com
 rsrc.flurry.com
 r.srvtrck.com
 rs.staging.fullstory.com
+rssx.hp.com
 rssyufamul71sxhepopuwl1hzqsil1509617951.nuid.imrworldwide.com
 r.staging.fullstory.com
 rst.airfind.com
@@ -46524,6 +46549,7 @@ rubicon.digitru.st
 rubiconproject883925.s.moatpixel.com
 rubiconvideo300230105058.s.moatpixel.com
 rubicon.wellsfargo.com
+rubik-gslb.houston.hp.com
 rubulat.justclick.ru
 rubyseven.helpshift.com
 ru.cdn5.onthe.io
@@ -46715,6 +46741,7 @@ s2064197708.t.en25.com
 s2085537877.m.en25.com
 s20.flagcounter.com
 s20.histats.com
+s20.ucoz.net
 s2133745391.t.en25.com
 s2135709717.t.en25.com
 s2137961799.m.en25.com
@@ -48567,6 +48594,7 @@ sensa.touchcommerce.com
 sense360.com
 sense360eng.com
 sensic.net
+sensors.snaptube.app
 sentifi.com
 sentiment.doorbell.io
 sentinel.api.useinsider.com
@@ -52778,6 +52806,7 @@ spylog.com
 spymasterpro.com
 spyruswtg.ulink.adjust.com
 spytec.evergage.com
+sp.zalo.me
 sqad.c3metrics.com
 sql-data-provider.alfa.smartlook.com
 sql.treasuredata.com
@@ -54014,6 +54043,8 @@ stat.16lao.com
 stat.181lm.com
 stat.18guanjia.com
 stat.1internet.tv
+stat1-mlycdn.bmyy520.com
+stat1-mlycdn.bmyy520.com.cdn.cloudflare.net
 stat1.sextracker.com
 stat.1stgym.fi
 stat.1t.od.ua
@@ -55222,6 +55253,7 @@ static.searchiq.co
 static.secure.blismedia.com
 static-secure.scanscout.com
 static.segment.com
+static.sensorsdata.cn
 statics.growingio.com
 static.shareaholic.com
 static.sharethrough.com
@@ -71888,6 +71920,7 @@ sug.cm.ksmobile.net
 suggest.hotjar.com
 s.ugo.com
 suiteall.112.207.net
+suite.log-marketing.jp
 sullivantire.evergage.com
 sumcumo01.wt-eu02.net
 sumcumo.piwik.pro
@@ -72794,6 +72827,7 @@ targeting-dmp-dev.analytics.yahoo.com
 targeting.tronc.arcpublishing.com
 targeting.washpost.nile.works
 target-lvl3.efeedbacktrk.com
+target.microsoft.com
 target.rdr.channelintelligence.com
 target.smi2.ru
 target-zy.efeedbacktrk.com
@@ -73239,6 +73273,7 @@ telemetry_corpext.msitadfs.glbdns2.microsoft.com
 telemetry_corp.sts.microsoft.com
 telemetry.couchlab.org
 telemetry.dailymotion.com
+telemetry-data.r53-2.services.mozilla.com
 telemetry.dawnscanner.org
 telemetry-dce.gfe.nvidia.com
 telemetry.ddn789.com
@@ -74026,6 +74061,7 @@ t-oewa.2cnt.net
 t-oewa.oewabox.at
 tofu.brandseye.com
 tofurkey.urbanairship.com
+toggl.com
 toggl.com.re.getclicky.com
 toggler.wootric.com
 toggo.ivwbox.de
@@ -82910,6 +82946,7 @@ track.tmpservice.com
 track.to4tonado.net
 track.todaysmartliving.com
 track.todaysmoneyfinder.com
+track.toggl.com
 track.toggl.space
 track.tolgay.de
 track.tom-mailing.fr
@@ -83441,9 +83478,17 @@ tray-w-ex.tekblue.net
 tr.blismedia.com
 trbo.com
 trc.emv2.com
+trck.advicecroco.com
+trck.advicelion.com
+trck.at
 trck.bebi.com
+trck.eprimo.de
+trck.graider.com
+trck.herolens.com
 trc.kissmetrics.com
 trck.me
+trck.repesta.com
+trck.youvisit.com
 trc.taboola.com
 trczr.widengle.com
 trdemo.smarterhq.io
@@ -86548,6 +86593,7 @@ websummit.roistat.com
 web.sundaysky.com
 web-t.9gag.com
 webtask.auth.mparticle.com
+web.tracking.360game.vn
 webtrackingservices.com
 webtracking.touchclarity.com
 webtraffic.mastercontrol.com
@@ -86685,6 +86731,7 @@ wh.kissmetrics.com
 whoami.akamai.com
 whoami.akamai.net
 whoami.visualdna.com
+whoami-web.prod.ps.bild.de
 whodex.spredfast.com
 whoer.net
 whois.markmonitor.com
@@ -87972,6 +88019,7 @@ zap.mookie1.com
 zapr.in
 za-ssl.effectivemeasure.net
 zattevrienden.metriweb.be
+za.zalo.me
 zb5wybqr1jvgfqkoo3x06lknkawmp1516372140.nuid.imrworldwide.com
 zbz9b.voluumtrk3.com
 zccqurskve8tqfhncowh712f34zuh1516627665.nuid.imrworldwide.com

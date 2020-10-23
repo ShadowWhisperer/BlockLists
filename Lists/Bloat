@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 10/21/2020  17:51 (5:51 PM CST)
+# Updated: 10/23/2020  16:41 (4:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -44,6 +44,7 @@ fonts.shopifycdn.com                                    #Font  Shopify
 cloud.webtype.com                                       #Font      WebType
 pls.webtype.com                                         #Font      WebType
 webtype.com                                             #Font      WebType
+comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 drh-fonts.img.digitalrivercontent.net                   #Font  Specific
 fonts.ea.com.c.footprint.net                            #Font  Specific
 fonts.ea.com                                            #Font  Specific
@@ -94,6 +95,7 @@ iteratehq.com                                           #Survey - Iterate
 globaltestmarket.com                                    #Survey - Life Points
 lifepointspanel.com                                     #Survey - Life Points
 demographics.neat.com                                   #Survey - Neat Scanner
+qsurvey.mozilla.com                                     #Survey - Mozilla (Redirects to SurveyGizmo)
 nicequest.com                                           #Survey - Nicequest
 survey.nicequest.com                                    #Survey - Nicequest
 research.net                                            #Survey - Research
@@ -178,11 +180,13 @@ cookiebot-assets.envato-static.com                      #Cookie Consent / Contro
 cookiebot.com                                           #Cookie Consent / Control
 cookieinfoscript.com                                    #Cookie Consent / Control
 cookielaw.org                                           #Cookie Consent / Control
+cookiereports.com                                       #Cookie Consent / Control
 gdpr-consent-tool.privacymanager.io                     #Cookie Consent / Control
 gdpr.privacymanager.io                                  #Cookie Consent / Control
 gdpr-web-dau-prod.privacymanager.io                     #Cookie Consent / Control
 gdpr-wrapper.privacymanager.io                          #Cookie Consent / Control
 iubenda.com                                             #Cookie Consent / Control
+policy.cookiereports.com                                #Cookie Consent / Control
 privacy.outdoorsg.com                                   #Cookie Consent / Control
 prod.truendo.com                                        #Cookie Consent / Control
 rodo.agora.pl                                           #Cookie Consent / Control
@@ -278,7 +282,8 @@ getpocket.cdn.mozilla.net                               #Software   FireFox    P
 getpocket.com                                           #Software   FireFox    Pocket
 img-getpocket.cdn.mozilla.net                           #Software   FireFox    Pocket
 spocs.getpocket.com                                     #Software   FireFox    Pocket
-autopush.prod.mozaws.net                                #Software   FireFox    Push
+screenshotscdn.firefox.com                              #Software   FireFox    Screenshot  *Not seen in wild
+screenshots.firefox.com                                 #Software   FireFox    Screenshot  *Not seen in wild
 blocklists.settings.services.mozilla.com                #Software   FireFox    Safe Browsing
 shavar.prod.mozaws.net                                  #Software   FireFox    Safe Browsing
 shavar.services.mozilla.com                             #Software   FireFox    Safe Browsing
@@ -449,6 +454,7 @@ mq.dataservices.hp.com                                  #HP
 print-data.houston.hp.com                               #HP
 static.dataservices.hp.com                              #HP
 www-hpcom.glb1.hp.com                                   #HP
+pim.lenovo.com                                          #IBM / Lenovo  Cloud
 mus.lenovo.com.cn                                       #IBM / Lenovo  Updates
 ccg.lenovo.com                                          #IBM / Lenovo
 chifsr.lenovomm.com                                     #IBM / Lenovo
