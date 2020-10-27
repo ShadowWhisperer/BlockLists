@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 10/23/2020  16:41 (4:41 PM CST)
+# Updated: 10/26/2020  22:01 (10:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -25,8 +25,10 @@ nimbus.bitdefender.net                               #Antivirus    Bit Defender
 da3e3.net                                            #Antivirus    Bit Defender
 e5.sk                                                #Antivirus    Eset
 eset.com                                             #Antivirus    Eset
+account.can.ftrsecure.com                            #Antivirus    F-Secure
 fsapi.com                                            #Antivirus    F-Secure
 f-secure.com                                         #Antivirus    F-Secure
+ftrsecure.com                                        #Antivirus    F-Secure
 ijinshan.com                                         #Antivirus    Kingsoft
 cloudantivirus.com                                   #Antivirus    Panda
 pandasecurity.com                                    #Antivirus    Panda

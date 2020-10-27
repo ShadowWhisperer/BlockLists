@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 10/23/2020  16:41 (4:41 PM CST)
+# Updated: 10/26/2020  22:01 (10:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2411,6 +2411,7 @@
 8dih9a.v.admaster.com.cn
 8dis1u.v.admaster.com.cn
 8ditaa.v.admaster.com.cn
+8dkfarln27.execute-api.us-east-2.amazonaws.com
 8do5xa.v.admaster.com.cn
 8dooqa.v.admaster.com.cn
 8dozaa.v.admaster.com.cn
@@ -2658,6 +2659,7 @@ a2315.oadz.com
 a23874797.cdn.optimizely.com
 a2397.oadz.com
 a24687.blueprint1.cpa.clicksure.com
+a248.e.akamai.net
 a.24hourfitness.com
 a-2.admetric.io
 a2c57fd7998a2d67d16e7bda91c7fd06.ulink.adjust.com
@@ -3189,25 +3191,45 @@ adcodedsp.rontar.com
 adcode.rontar.com
 adcoi.trackvoluum.com
 adcoi.voluumtrk3.com
+adcorn.ru
 adcounter10.uptolike.com
+adcounter10.uptolike.ru
 adcounter11.uptolike.com
+adcounter11.uptolike.ru
 adcounter12.uptolike.com
+adcounter12.uptolike.ru
 adcounter13.uptolike.com
+adcounter13.uptolike.ru
 adcounter14.uptolike.com
+adcounter14.uptolike.ru
 adcounter15.uptolike.com
+adcounter15.uptolike.ru
 adcounter16.uptolike.com
+adcounter16.uptolike.ru
 adcounter17.uptolike.com
+adcounter17.uptolike.ru
 adcounter18.uptolike.com
+adcounter18.uptolike.ru
 adcounter19.uptolike.com
+adcounter19.uptolike.ru
 adcounter1.uptolike.com
+adcounter1.uptolike.ru
 adcounter2.uptolike.com
+adcounter2.uptolike.ru
 adcounter3.uptolike.com
+adcounter3.uptolike.ru
 adcounter4.uptolike.com
+adcounter4.uptolike.ru
 adcounter5.uptolike.com
+adcounter5.uptolike.ru
 adcounter6.uptolike.com
+adcounter6.uptolike.ru
 adcounter7.uptolike.com
+adcounter7.uptolike.ru
 adcounter8.uptolike.com
+adcounter8.uptolike.ru
 adcounter9.uptolike.com
+adcounter9.uptolike.ru
 adcreative.vindicosuite.com
 adc.xxxlshop.de
 adcz.hit.gemius.pl
@@ -3529,6 +3551,7 @@ adsmeans.com
 adsmeasurement.com
 adsmeda.com
 adsp1.i2i.jp
+adspect.ai
 adsr-lx.vindicosuite.com
 adsrv1.tapad.com
 adsrv-ap-southeast.tapad.com
@@ -3559,6 +3582,7 @@ adtime.cm.admaster.com.cn
 adtktx.onwemar.cpa.clicksure.com
 adtmrs.delti.com
 adtm.spreadshirts.net
+adtoniq.io
 adtrack.adleadevent.com
 adtrack.appcpi.net
 adtrackers.net
@@ -4232,6 +4256,7 @@ alweb.staging-euc1.rfksrv.com
 alweb.staging.rfksrv.com
 alweb.uat.rfksrv.com
 al.widerplanet.com
+alytics.ru
 am01.adlooxtracking.com
 am02.adlooxtracking.com
 am03.adlooxtracking.com
@@ -9034,6 +9059,7 @@ analytics.markusmayer.net
 analytics.markus.ovh
 analytics.markusschatzl.de
 analytics-mar.lacek.net
+analytics.marquiz.ru
 analytics.mars.martiniwerbeagentur.de
 analytics.marstechnology.design
 analytic.smartecom.io
@@ -13390,6 +13416,7 @@ api-cirqua.adapf.com
 api-cis.exponea.com
 api.cleantalk.org
 api.clearview.ai
+api.clientseoreport.com
 api.clrstm.com
 api.cludo.com
 api.cn.miaozhen.com
@@ -13404,6 +13431,7 @@ api.crashing.qa.bounceexchange.com
 api.crashlytics.com
 api.crispadvertising.com
 api.crittercism.com
+apicrm.alytics.ru
 api.cux.io
 api.dans-parsley-change-test.env.sandbox53.localytics.com
 api.datadoghq.com
@@ -13729,6 +13757,7 @@ api.skyhookwireless.com
 api.smartechmetrics.com
 api.smartscreen.microsoft.com
 api.smg.com
+apis.murdoog.com
 api-smvgroup.db-ip.com
 api.snapkit.com
 api.snapppt.com
@@ -17607,6 +17636,7 @@ calendar.rontar.com
 calendly.trackinglibrary.prodperfect.com
 caleres-app.quantummetric.com
 callback.batmobi.net
+callbackhunter.com
 callblock.ksmobile.net
 callbox.callmeasurement.com
 callington.iljmp.com
@@ -17618,6 +17648,7 @@ callrail.com
 callreports.com
 calls.net
 calltracker.id-visitors.com
+calltracking.alytics.ru
 calltrackingmetrics.com
 call-tracking.responsetap.com
 calm.onelink.me
@@ -18290,6 +18321,7 @@ cdn.parrable.com
 cdn.parsely.com
 cdn.pathfactory.com
 cdn.pdst.fm
+cdn.perfdrive.com
 cdn.petametrics.com
 cdn.pingdom.com
 cdn.piwik.pro
@@ -18627,6 +18659,7 @@ chalmers.techtarget.com
 chamanmv1.rtrk.com
 chameleon-studio.helpshift.com
 chanalytics.merchantadvantage.com
+changeagain.me
 changelog.confluence.piwik.pro
 changelog.crazyegg.com
 changelog.firstpromoter.com
@@ -19890,6 +19923,7 @@ clientreport.random-logic.com
 clients.adrime.com
 clients.bluecava.com
 clients.datamark.net
+clientseoreport.com
 clientsettings.renlearn.com
 clients.fitanalytics.com
 clientsftp.foreseeresults.com
@@ -20419,6 +20453,7 @@ code.etracker.com
 code.kissmetrics.com
 codemasters.helpshift.com
 code.mixpanel.com
+code.murdoog.com
 code.randomhouse.com
 codespark.onelink.me
 code.superstats.com
@@ -21060,6 +21095,7 @@ collector.statowl.com
 collectors.us2.sumologic.com
 collector.tealeaf.ibmcloud.com
 collector.tescocompare.com
+collector.unsplash.com
 collector.valassis.com
 collector.xhamster7.com
 collector.zum.com
@@ -22729,6 +22765,7 @@ d1hc14f07g70ck.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
+d1lxhc4jvstzrp.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
 d1oesr9v7fk227.cloudfront.net
 d1usx49nhcilp7.cloudfront.net
@@ -25556,6 +25593,7 @@ egger01.webtrekk.net
 e.go-mpulse.net
 egov.trackinglibrary.prodperfect.com
 eharmony-app.quantummetric.com
+eharmony.hrzn-nxt.com
 eharmony.onelink.me
 ehc.bronto.com
 ehg-advertisementbv.hitbox.com
@@ -26057,6 +26095,7 @@ errorreports.couponcabin.com
 errors.adwyze.com
 errors.apptornado.com
 errors-eu.imrworldwide.com
+errors.hentaiboss.com
 err.spring-tns.net
 erstegroup01.webtrekk.net
 erst.piwik.pro
@@ -26446,6 +26485,7 @@ events.staging.bounceexchange.com
 events.techtarget.com
 events.tremorhub.com
 events.ub-analytics.com
+events.ubembed.com
 events.umeng.com
 events.urbanairship.com
 events-us-east-1.ipredictive.com
@@ -30588,6 +30628,7 @@ i1.putags.com
 i1qbhvfnnwojdkysklz80oqi5jpsy1507501502.nuid.imrworldwide.com
 i2-cmcwakawvvprfowttjikxpfgqqsjdv.init.cedexis-radar.net
 i2i.jp
+i2-lnsxtzcgscdljemknrpovnpgjiptlt.init.cedexis-radar.net
 i2.mouseflow.com
 i2.onthe.io
 i2.putags.com
@@ -30737,6 +30778,7 @@ idevaffiliate.com
 idfcltd.sc.omtrdc.net
 idfcnetbanking.sc.omtrdc.net
 idg01.wt-eu02.net
+id.geistm.com
 idg.grapeshot.co.uk
 idg.hit.gemius.pl
 id.gmads.mookie1.com
@@ -31749,7 +31791,6 @@ insights.foresee.com
 insights.gatedcontent.com
 insights.gilead.eu
 insights.gilonline.nl
-insights.globalspec.com
 insights.goodyield.com
 insights.govdelivery.com
 insights.granicus.com
@@ -32632,6 +32673,7 @@ jp.livelog.nexon.com
 jp-lsmfcs-cluster.rd.linksynergy.com
 jp-lsmfcs.rd.linksynergy.com
 jp-map.mediaforge.com
+jpmcbankna.demdex.net
 jp.miaozhen.com
 jp.pagecount.com
 j.privy.com
@@ -37073,6 +37115,7 @@ meteofrance.solution.weborama.fr
 meteora.co
 meter.2cnt.net
 meter.activemetering.com
+metering.platform.latimes.com
 metest.semasio.net
 metlife.delivery.acxiom.com
 metlife.touchcommerce.com
@@ -37353,6 +37396,7 @@ metrics.carpricesecrets.com
 metrics.cars.com
 metrics.carzone.ie
 metrics.catawiki.net
+metricscat.com
 metrics.catho.com.br
 metrics.cb2.com
 metrics.cbc.ca
@@ -38618,6 +38662,7 @@ modules.jumpshot.com
 modus01.webtrekk.net
 modus.nike.com
 moebelde01.wt-eu02.net
+moen.demdex.net
 moengage.com
 moevideoruanalytics.solution.weborama.fr
 moevideo-sync.rutarget.ru
@@ -39158,6 +39203,7 @@ mspua.hit.gemius.pl
 mspu.us.re.getclicky.com
 msp-v4.pops.fastly-insights.com
 ms.rundsp.com
+ms.sc-jpl.com
 mstadt.ivwbox.de
 mstcs.info
 mstm.cn.miaozhen.com
@@ -40718,6 +40764,8 @@ okcupid.onelink.me
 okdwbvvquqxcynqxzdyfajfo8iajd1505357820.nuid.imrworldwide.com
 oklahoma.evergage.com
 ok.marketing.walkme.com
+okmeter.io
+okmeter.ru
 okmusik01.webtrekk.net
 okr-1.tlnk.io
 okr.sharethrough.com
@@ -41348,6 +41396,7 @@ outsidemagazine.cmail20.com
 out.telemetry.mozilla.org
 outward-analytics.elasticbeanstalk.com
 ovalweek.com
+overlay-track.sailthru.cloud
 overlord.qpipe-s.globalwebindex.net
 over.onelink.me
 oversea.amap.com
@@ -42116,6 +42165,7 @@ pdw-scl.userreport.com
 pdw-usr.userreport.com
 pdx1-ucid.vindicosuite.com
 pdx-col.eum-appdynamics.com
+pdxelk.dealerspike.com
 pdxmta01.webtrends.com
 pdxmta02.webtrends.com
 pdxvpn.webtrends.com
@@ -42376,6 +42426,7 @@ pings.conviva.com
 pingsl.avast.com
 ping-staging.luckyorange.net
 pings.vidpulse.com
+ping.swagtraffcom.com
 ping.taplytics.com
 ping.ublock.org
 ping.ui.com
@@ -43877,6 +43928,7 @@ post.update.chartbeat.com
 post.update.clrstm.com
 postview-devk.metalyzer.com
 postview.metalyzer.com
+potomac-clickstream.capitalone.com
 powerade.rpxnow.com
 powerbi.com
 powerbuy.api.useinsider.com
@@ -45239,6 +45291,7 @@ recommendation-api.s-onetag.com
 recommendations.shareaholic.com
 recommendations-v2.shareaholic.com
 recommender.m6r.eu
+recommender.scarabresearch.com
 recommend.justuno.com
 recommend.vidpulse.com
 reco.monetate.net
@@ -45878,6 +45931,7 @@ report-zt.1rx.io
 representativeray.com
 repsly.evergage.com
 republer-sync.rutarget.ru
+republic-prod.firebaseio.com
 repux.tapfiliate.com
 req.hit-parade.com
 request.adrcdn.com
@@ -46366,6 +46420,7 @@ rt2.inistrack.net
 rt.360dialog.io
 rta2.metro.co.uk
 rta.auth.mparticle.com
+rtam-collector.snapchat.com
 rt.analytics.anvato.net
 rt.appsflyer.com
 rta.pubocean.com
@@ -48823,6 +48878,7 @@ service.roistat.com
 services.53.localytics.com
 services.acxiom.com
 services.adlooxtracking.com
+services.ae.alytics.ru
 services.arcgis.com
 services.arcgisonline.com
 services.bluekai.com
@@ -52785,6 +52841,7 @@ sprintnss.touchcommerce.com
 sprint.touchcommerce.com
 sprint.vuble.tv
 s.privy.com
+sp.rmbl.ws
 sprouts.1010data.com
 spscas.hitachi-solutions.co.jp
 sps.data.here.com
@@ -72123,6 +72180,7 @@ surveywall-api.survata.com
 survey.watson.microsoft.com
 survey.wootric.com
 survio.tapfiliate.com
+survstat.ru
 s.userzoom.com
 suspro.justclick.ru
 sut.dailyfx.com
@@ -73853,6 +73911,7 @@ thirdrose-lifestyle.t.domdex.com
 thirstylettuce.com
 thisisacoolthing.com
 thisisanothercoolthing.com
+thisisbeacon.com
 thisisfine-testing.piwik.pro
 thitruongsi.api.useinsider.com
 thobbycrafthobbycraft3038t.btttag.com
@@ -74006,6 +74065,7 @@ tmp.igaworks.com
 tmp.nexac.com
 tmp.onlinesucces.nl
 tmrqhn6v4qjsi2xe3g8aagmcgwhda1516679330.nuid.imrworldwide.com
+tms.capitalone.com
 tmscdn.cn.coremetrics.com
 tmscdn.coremetrics.com
 tmscdn.de.coremetrics.com
@@ -76171,6 +76231,7 @@ tracker.therubberclinic.com
 tracker.thetongji.com
 tracker.thinkermail.com
 tracker.thinkindot.com
+tracker.thisisbeacon.com
 tracker.tiltwin.com
 tracker.timesgroup.com
 tracker.tintucvietnam.vn
@@ -76700,6 +76761,7 @@ track.idoia-mag.fr
 track.idtargeting.com
 track.ieemsa.com
 track.ienjoycpa.com
+trackier.com
 trackif.com
 track.ifeedbooks.com
 track.ifyeusa.org
@@ -84988,6 +85050,7 @@ us-live.inside-graph.com
 usllpic04ydessvlpyuixho7jxszf3bmlfh3s5cw6f90fe24a237a4a9sac.d.aa.online-metrix.net
 usllpic0-6674e3e4f710239751ce99c5ea24505d608350d3-sac.d.aa.online-metrix.net
 usllpic0-9f593f7738210935efa1ce480e945b6c6d5e6d0b-sac.d.aa.online-metrix.net
+usllpic0elan7wnavucqrcmo377gqek3slogn4bqf9cafc82b3016395sac.d.aa.online-metrix.net
 usllpic0fok2zffsulx74rq4oe3ds2zlgugbxueld7bbff3ab25ae0f8sac.d.aa.online-metrix.net
 usllpic0rozfdmey3nia5hbz6ycnow2dunvjbadia3029b84069e8a40sac.d.aa.online-metrix.net
 us.log.bumlam.com
@@ -87074,6 +87137,7 @@ wtfast.tapfiliate.com
 wtfismyip.com
 wt.netcoresmartech.com
 wt.o.nytimes.com
+wt.outfunnel.com
 wtp101.com
 w-tracker.marinsm.com
 wtredis001.apsalar.com
