@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 10/23/2020  16:41 (4:41 PM CST)
+# Updated: 10/28/2020  20:53 (8:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -26,6 +26,7 @@ ecs.office.com                                 #App   Office
 1drv.ms                                        #App     OneDrive
 oneclient.sfx.ms                               #App     OneDrive
 onedrive.akadns.net                            #App     OneDrive
+onedriveclucprodbn20010.blob.core.windows.net  #App     OneDrive
 p.sfx.ms                                       #App     OneDrive
 storage.live.com                               #App     OneDrive
 onenote.net                                    #App   OneNote
@@ -64,6 +65,7 @@ windowsphone.xbox.com                          #App     Windows Phone (From Win 
 api.bing.com                                   #Bing
 bing.com                                       #Bing
 bing.net                                       #Bing
+commerce.bing.com                              #Bing
 customsearch.ai                                #Bing
 platform.bing.com                              #Bing
 ssl.bing.com                                   #Bing

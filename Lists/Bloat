@@ -1,11 +1,17 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 10/26/2020  22:01 (10:01 PM CST)
+# Updated: 10/28/2020  20:53 (8:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
+
+ipv4.connman.net                                        #Arch / Others - Internet Access Check
+connectivity-check.ubuntu.com                           #Ubuntu - Internet Access Check
+start.ubuntu.com                                        #Ubuntu - Default Browser Homepage
+
+alliance4creativity.com                                 #Anti-Piracy
 
 fonts.acer.com                                          #Font      Acer
 edgefonts.net                                           #Font  Adobe
@@ -36,6 +42,8 @@ use.fontawesome.com                                     #Font      Font Awesome
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
+linearicons.com                                         #Font    LinearIcons
+cdn.linearicons.com                                     #Font    LinearIcons
 fontplus.jp                                             #Font      Font Plus
 webfont.fontplus.jp                                     #Font      Font Plus
 realtype.jp                                             #Font  RealType
@@ -46,6 +54,7 @@ pls.webtype.com                                         #Font      WebType
 webtype.com                                             #Font      WebType
 comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 drh-fonts.img.digitalrivercontent.net                   #Font  Specific
+fonts.65twenty.com                                      #Font  Specific
 fonts.ea.com.c.footprint.net                            #Font  Specific
 fonts.ea.com                                            #Font  Specific
 fonts.fandango.com                                      #Font  Specific
@@ -55,6 +64,7 @@ fonts.iu.edu                                            #Font  Specific
 fonts.jimstatic.com                                     #Font  Specific
 fonts.ngeo.com                                          #Font  Specific
 fonts.nymag.com                                         #Font  Specific
+fonts.r7.com                                            #Font  Specific
 fonts.sidearmsports.com                                 #Font  Specific
 fonts.sony.net                                          #Font  Specific
 fonts.staticworld.net                                   #Font  Specific
@@ -441,10 +451,10 @@ voledevice-pa.googleapis.com                            #Google
 www3.l.google.com                                       #Google
 youtubei.googleapis.com                                 #Google
 ytimg-edge-static.l.google.com                          #Google
-hpcloud.hp.com                                          #HP  [Software]   Cloud
-hpcloud.hp.net                                          #HP  [Software]   Cloud
-rocketlifeproduction.com                                #HP  [Software]  Photo Creations
-communicator.rocketlifeproduction.com                   #HP  [Software]  Photo Creations
+hpcloud.hp.com                                          #HP     Cloud
+hpcloud.hp.net                                          #HP     Cloud
+rocketlifeproduction.com                                #HP    Photo Creations
+communicator.rocketlifeproduction.com                   #HP    Photo Creations
 h20572.www2.hp.com                                      #HP   Help & Support
 aclm.external.hp.com                                    #HP   Drivers / Updates ?
 cprs.hp.com                                             #HP
@@ -650,9 +660,3 @@ d3699v4tsyfjnd.cloudfront.net                           #Android  [Game Engine] 
 unity3d.com                                             #Android  [Game Engine]   Unity 3D
 aptoide.com                                             #Android  [APK Downloads]
 cdn6.aptoide.com                                        #Android  [APK Downloads]
-
-ipv4.connman.net                                        #Arch / Others - Internet Access Check
-connectivity-check.ubuntu.com                           #Ubuntu - Internet Access Check
-start.ubuntu.com                                        #Ubuntu - Default Browser Homepage
-
-alliance4creativity.com                                 #Anti-Piracy

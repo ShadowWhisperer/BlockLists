@@ -1,6 +1,6 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Updated: 10/21/2020  17:51 (5:51 PM CST)
+# Updated: 10/28/2020  20:53 (8:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12,12 +12,14 @@
 adelaide.remotepc.com
 albany.remotepc.com
 albuquerque.remotepc.com
+alpemix.com
 amsterdam.remotepc.com
 anchor.attremotesupport.com
 anydesk.com
 anyplace-control.com
 asia.remotepc.com
 assets.cdngetgo.com
+assist.zoho.com
 atlanta.remotepc.com
 attremotesupport.com
 auckland.remotepc.com
@@ -25,6 +27,7 @@ austin.remotepc.com
 authentication.logmeininc.com
 azchicago2.remotepc.com
 baltimore.remotepc.com
+beanywhere.com
 belgrad.remotepc.com
 bluffdale.remotepc.com
 bocaraton.remotepc.com
@@ -58,6 +61,7 @@ cleveland.remotepc.com
 client.teamviewer.com
 coloradosprings.remotepc.com
 columbus.remotepc.com
+comserver.corporate.beanywhere.com
 configdl.teamviewer.com
 config.instantsupport.help
 connectwise.com
@@ -65,6 +69,7 @@ copenhagen.remotepc.com
 czechrepublic.remotepc.com
 dallasdt.remotepc.com
 dallas.remotepc.com
+dameware.com
 data-center.logmein-gateway.com
 dc.logmein-gateway.com
 denver.remotepc.com
@@ -172,6 +177,7 @@ mikogo.com
 milan.remotepc.com
 milwaukee.remotepc.com
 minneapolis.remotepc.com
+mspanywhere-us1-download-elb-292950435.us-west-2.elb.amazonaws.com
 mumbai.remotepc.com
 munich.remotepc.com
 my.splashtop.com
@@ -192,6 +198,7 @@ oregon.remotepc.com
 orlando.remotepc.com
 palermo.remotepc.com
 paris.remotepc.com
+pax-manager.myparallels.com
 perth.remotepc.com
 philadelphia.remotepc.com
 phoenix.remotepc.com
@@ -201,6 +208,7 @@ pittsburgh.remotepc.com
 portland.remotepc.com
 ps.psremote.com
 psremote.com
+radmin.com
 raleigh.remotepc.com
 rantoul.remotepc.com
 realvnc.com
@@ -220,6 +228,7 @@ relay-d888bdf1.net.anydesk.com
 relay-dc242902.net.anydesk.com
 relay-dc7501e7.net.anydesk.com
 relay-ff61a4a8.net.anydesk.com
+remmina.org
 remote-desktop-control.com
 remotedesktop.google.com
 remotely-anywhere.ch
@@ -302,12 +311,14 @@ sydney.remotepc.com
 tampa.remotepc.com
 taos.remotepc.com
 teamviewer.com
+techws.corporate.beanywhere.com
 telaviv.remotepc.com
 tightvnc.com
 toronto.remotepc.com
 ultraviewer.net
 ultravnc.en.softonic.com
 update.logmein.com
+us1.download.beanywhere.com
 uvnc.com
 vancouver.remotepc.com
 virginia.remotepc.com

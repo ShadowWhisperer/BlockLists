@@ -1,6 +1,6 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Updated: 10/21/2020  17:51 (5:51 PM CST)
+# Updated: 10/28/2020  20:53 (8:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -37,6 +37,7 @@ whoson.com
 ada.support
 aihelp.net
 api.artibot.ai
+api.inbenta.io
 app.artibot.ai
 app.conversiobot.com
 artibot.ai
@@ -57,6 +58,7 @@ conversio-bot-media.s3.amazonaws.com
 coreliscare-com.mb.softbank.jp
 drift.com
 freshbots.ai
+inbenta.io
 intercom.com
 landbot.io
 liveperson.net
@@ -66,6 +68,7 @@ nuance-va.com
 percept.ai
 presence.api.drift.com
 proxy.aihelp.net
+sdk.inbenta.io
 solocpm.com
 tiledesk.com
 va.v.liveperson.net
@@ -75,6 +78,7 @@ visitor-services.boldchat.com
 vmp.boldchat.com
 vms.boldchat.com
 vmss.boldchat.com
+webmecanik.inbenta.com
 
 
 #  Live
@@ -120,6 +124,7 @@ freshchat.com
 go.activengage.com
 happyfoxchat.com
 helpscout.net
+interacton4.infomedia.co.id
 internal-proxy.tidio.co
 iowadepartment.nanorep.co
 jivochat.com
