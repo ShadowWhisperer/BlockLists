@@ -1,30 +1,3 @@
-appleid.apple.com.akadns.net      #Apple - App Store - Login
-appleid.cdn-apple.com             #Apple - App Store - Login
-ax.init.itunes.apple.com          #Apple - App Store
-osxapps.itunes.apple.com          #Apple - App Store
-search.itunes.apple.com           #Apple - App Store
-swcatalog.apple.com               #Apple - Apple Software Update - Check for updates
-idmsa.apple.com                   #Apple - iCloud Website Login
-clouddrive.com                    #Apple - iCloud
-gsa.apple.com.akadns.net          #Apple - System Update
-gsa.apple.com                     #Apple - System Update
-mesu.apple.com                    #Apple - System Update
-appldnld.apple.com.akadns.net     #Apple - Updates
-appldnld.apple.com                #Apple - Updates
-appldnld                          #Apple - Updates
-gdmf.apple.com.akadns.net         #Apple - Updates
-gdmf.apple.com                    #Apple - Updates
-gs.apple.com.akadns.net           #Apple - Updates
-gs.apple.com                      #Apple - Updates
-init.itunes.apple.com             #Apple - Updates
-mesu.g.aaplimg.com                #Apple - Updates
-secure-appldnld.apple.com         #Apple - Updates
-swcdn.apple.com                   #Apple - Updates
-swcdnlocator.apple.com            #Apple - Updates
-swdownload.apple.com              #Apple - Updates
-swquery.apple.com                 #Apple - Updates
-swscan.apple.com                  #Apple - Updates
-web-experience.itunes.apple.com   #Apple - Website - Images
 
 adwcleaner.toolslib.net       #Software - Adwcleaner
 my-win.avast.com              #Software - AVG Activate Free Version
@@ -32,86 +5,43 @@ ping.avast.com                #Software - AVG Install Freezes
 s-nuistatic.avcdn.net         #Software - AVG Website Login
 cache-cms-ext-us.battle.net   #Software - Battle.net (What's New)
 sugarsync.com                 #Software - Cloud Storage
+geolocation.garmin.com        #Software - Garmin Express (Check for map updates)
 mirrors.kodi.tv               #Software - Kodi
 analytics-login.norton.com    #Software - Norton (Won't Login)
 shasta-rrs.symantec.com       #Software - Norton (Won't Scan)
 spclient.wg.spotify.com       #Software - Spotify - Audio
 
-accounts.google.com                    #Google - All - Login
-cryptauthenrollment.googleapis.com     #Google - Android - Set Payment Info
-play-lh.googleusercontent.com          #Google - Android - Store Images
-kh.google.com                          #Google - Maps - Earth View
-chrome.google.com                      #Google - Chrome - Store - Extensions - Page
-lh3.googleusercontent.com              #Google - Chrome - Store - Extensions - Icons
-clients2.google.com                    #Google - Chrome - Store - Extensions - Download
-clients4.google.com                    #Google - Chrome - Sync Account
-disconnect.me                          #Google - Chrome - Extension
-eff.org                                #Google - Chrome - Extension
-tools.google.com                       #Google - Chrome - Update
-apis.google.com                        #Google - Chrome - Google
-gstatic.com                            #Google - Chrome - Google
-redirector.gvt1.com                    #Google - Chrome - Google
-storage.googleapis.com                 #Google - Chrome - Google
-translate.googleapis.com               #Google - Chrome - Google
-clients6.google.com                    #Google - Drive - Dowload From Browser
-geo0.ggpht.com                         #Google - Earth - Street View
-g.live.com                                         #Microsoft - .Net Framework
-licensing.mp.microsoft.com                         #Microsoft - Active Windows
-time.windows.com                                   #Microsoft - Clock
-client.hip.live.com                                #Microsoft - Create Email Account
-eus.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
-scu.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
-ncu.client.hip.live.com                            #Microsoft - Create Email Account (Captcha)
-assets.onestore.ms                                 #Microsoft - Downloads Page
-dsm-efz.ms-acdc.office.com                         #Microsoft - Email - Imap
-login.live.com                                     #Microsoft - Email - Login
-login.microsoftonline.com                          #Microsoft - Email - Login
-mdw-efz.ms-acdc.office.com                         #Microsoft - Email - Login
-wus.client.hip.live.com                            #Microsoft - Email - Capcha
-i1.social.s-msft.com                               #Microsoft - Forums Page
-ee38.playfabapi.com                                #Microsoft - Games - Breaks Online - Halo: Master Chief Collection
-peoplehub.xboxlive.com                             #Microsoft - Games - Breaks Social - Halo: Master Chief Collection
-title.mgt.xboxlive.com                             #Microsoft - Games - Breaks Laumch
-zone.msn.com                                       #Microsoft - MSN Games
-img-s-msn-com.akamaized.net                        #Microsoft - MSN Images
-dns.msftncsi.com                                   #Microsoft - Network Icon Status
-msftconnecttest.com                                #Microsoft - Network Icon Status
-msftncsi.com                                       #Microsoft - Network Icon Status
-blob.officehome.msocdn.com                         #Microsoft - Office 365 - Login
-compass-ssl.microsoft.com                          #Microsoft - Office 365 - Website Tile Images
-blobs.officehome.msocdn.com                        #Microsoft - Office Site
-ajax.aspnetcdn.com                                 #Microsoft - Office - Download
-az725175.vo.msecnd.net                             #Microsoft - Office - Download
-office.live.com                                    #Microsoft - Office - Download
-statics-marketingsites-eus-ms-com.akamaized.net    #Microsoft - Office - Download - 2010
-statics-marketingsites-wcus-ms-com.akamaized.net   #Microsoft - Office - Download - 2010
-activation-v2.sls.microsoft.com                    #Microsoft - Office - Active
-go.microsoft.com                                   #Microsoft - Office - Active
-officeclient.microsoft.com                         #Microsoft - Office - Active
-statics-uhf-wus.akamaized.net                      #Microsoft - Support Pages
-wdcp.microsoft.com                                 #Microsoft - Windows Defender Updates
-displaycatalog.mp.microsoft.com                    #Microsoft - Windows Store
-services.apps.microsoft.com                        #Microsoft - Windows Store
-storeedgefd.dsx.mp.microsoft.com                   #Microsoft - Windows Store
-store-images.s-microsoft.com                       #Microsoft - Windows Store
-wscont1.apps.microsoft.com                         #Microsoft - Windows Store
-wscont2.apps.microsoft.com                         #Microsoft - Windows Store
-fe2.ws.microsoft.com                               #Microsoft - Windows 8 Store
-next-services.apps.microsoft.com                   #Microsoft - Windows 8 Store
-device.auth.xboxlive.com                           #Microsoft - Windows 10 Store
-user.auth.xboxlive.com                             #Microsoft - Windows 10 Store
-xsts.auth.xboxlive.com                             #Microsoft - Windows 10 Store
-fe2cr.update.microsoft.com                         #Microsoft - Windows 10 Updates
-slscr.update.microsoft.com                         #Microsoft - Windows 10 Updates
-download.windowsupdate.com                         #Microsoft - Windows Updates
-update.microsoft.com                               #Microsoft - Windows Updates
-windowsupdate.com                                  #Microsoft - Windows Updates
-msagfx.live.com                                    #Microsoft - Windows 10 Initial setup > User creation
-wscont.apps.microsoft.com                          #Microsoft - Windows 10 Update Assistant
 lm.licenses.adobe.com                      # Adobe - Activate Software
 sp.auth.adobe.com                          # Adobe - Login Sites
 swupmf.adobe.com                           # Adobe - Updates
 ae01.alicdn.com                            # AliExpress - Images
+appleid.apple.com.akadns.net                 # Apple - App Store - Login
+appleid.cdn-apple.com                        # Apple - App Store - Login
+ax.init.itunes.apple.com                     # Apple - App Store
+osxapps.itunes.apple.com                     # Apple - App Store
+search.itunes.apple.com                      # Apple - App Store
+swcatalog.apple.com                          # Apple - Apple Software Update - Check for updates
+idmsa.apple.com                              # Apple - iCloud Website Login
+clouddrive.com                               # Apple - iCloud
+gsa.apple.com.akadns.net                     # Apple - System Update
+gsa.apple.com                                # Apple - System Update
+mesu.apple.com                               # Apple - System Update
+appldnld.apple.com.akadns.net                # Apple - Updates
+appldnld.apple.com                           # Apple - Updates
+appldnld                                     # Apple - Updates
+gdmf.apple.com.akadns.net                    # Apple - Updates
+gdmf.apple.com                               # Apple - Updates
+gs.apple.com.akadns.net                      # Apple - Updates
+gs.apple.com                                 # Apple - Updates
+init.itunes.apple.com                        # Apple - Updates
+mesu.g.aaplimg.com                           # Apple - Updates
+secure-appldnld.apple.com                    # Apple - Updates
+swcdn.apple.com                              # Apple - Updates
+swcdnlocator.apple.com                       # Apple - Updates
+swdownload.apple.com                         # Apple - Updates
+swquery.apple.com                            # Apple - Updates
+swscan.apple.com                             # Apple - Updates
+web-experience.itunes.apple.com              # Apple - Website - Images
 gannett-cdn.com                            # Argus Leader
 etrk.asus.com                              # Asus - Download Drivers
 gravatar.com                               # Avatar Icons
@@ -135,6 +65,24 @@ smtp.mail.yahoo.com                        # Email - Yahoo
 imagesak.secureserver.net                  # Email - Godaddy
 dropbox.com                                # File Sharing
 dl.dropboxusercontent.com                  # File Sharing
+accounts.google.com                        # Google - All - Login
+cryptauthenrollment.googleapis.com         # Google - Android - Set Payment Info
+play-lh.googleusercontent.com              # Google - Android - Store Images
+kh.google.com                              # Google - Maps - Earth View
+chrome.google.com                          # Google - Chrome - Store - Extensions - Page
+lh3.googleusercontent.com                  # Google - Chrome - Store - Extensions - Icons
+clients2.google.com                        # Google - Chrome - Store - Extensions - Download
+clients4.google.com                        # Google - Chrome - Sync Account
+disconnect.me                              # Google - Chrome - Extension
+eff.org                                    # Google - Chrome - Extension
+tools.google.com                           # Google - Chrome - Update
+apis.google.com                            # Google - Chrome - Google
+gstatic.com                                # Google - Chrome - Google
+redirector.gvt1.com                        # Google - Chrome - Google
+storage.googleapis.com                     # Google - Chrome - Google
+translate.googleapis.com                   # Google - Chrome - Google
+clients6.google.com                        # Google - Drive - Dowload From Browser
+geo0.ggpht.com                             # Google - Earth - Street View
 whp-aus1.cold.extweb.hp.com                # HP: Driver Downloads
 whp-aus2.cold.extweb.hp.com                # HP: Driver Downloads
 cdn-us-cf2.yottaa.net                      # Images - Brownells
@@ -166,6 +114,59 @@ tessera.intellicast.com                    # KSFY - Radar Map
 widgets-green.media.weather.com            # KSFY - Radar Map
 widgets-red.media.weather.com              # KSFY - Radar Map
 widgets.media.weather.com                  # KSFY - Radar Map
+g.live.com                                       # Microsoft - .Net Framework
+licensing.mp.microsoft.com                       # Microsoft - Active Windows
+time.windows.com                                 # Microsoft - Clock
+client.hip.live.com                              # Microsoft - Create Email Account
+eus.client.hip.live.com                          # Microsoft - Create Email Account (Captcha)
+scu.client.hip.live.com                          # Microsoft - Create Email Account (Captcha)
+ncu.client.hip.live.com                          # Microsoft - Create Email Account (Captcha)
+assets.onestore.ms                               # Microsoft - Downloads Page
+dsm-efz.ms-acdc.office.com                       # Microsoft - Email - Imap
+login.live.com                                   # Microsoft - Email - Login
+login.microsoftonline.com                        # Microsoft - Email - Login
+mdw-efz.ms-acdc.office.com                       # Microsoft - Email - Login
+wus.client.hip.live.com                          # Microsoft - Email - Capcha
+i1.social.s-msft.com                             # Microsoft - Forums Page
+ee38.playfabapi.com                              # Microsoft - Games - Breaks Online - Halo: Master Chief Collection
+peoplehub.xboxlive.com                           # Microsoft - Games - Breaks Social - Halo: Master Chief Collection
+title.mgt.xboxlive.com                           # Microsoft - Games - Breaks Laumch
+zone.msn.com                                     # Microsoft - MSN Games
+img-s-msn-com.akamaized.net                      # Microsoft - MSN Images
+dns.msftncsi.com                                 # Microsoft - Network Icon Status
+msftconnecttest.com                              # Microsoft - Network Icon Status
+msftncsi.com                                     # Microsoft - Network Icon Status
+blob.officehome.msocdn.com                       # Microsoft - Office 365 - Login
+compass-ssl.microsoft.com                        # Microsoft - Office 365 - Website Tile Images
+blobs.officehome.msocdn.com                      # Microsoft - Office Site
+ajax.aspnetcdn.com                               # Microsoft - Office - Download
+az725175.vo.msecnd.net                           # Microsoft - Office - Download
+office.live.com                                  # Microsoft - Office - Download
+statics-marketingsites-eus-ms-com.akamaized.net  # Microsoft - Office - Download - 2010
+statics-marketingsites-wcus-ms-com.akamaized.net # Microsoft - Office - Download - 2010
+activation-v2.sls.microsoft.com                  # Microsoft - Office - Active
+go.microsoft.com                                 # Microsoft - Office - Active
+officeclient.microsoft.com                       # Microsoft - Office - Active
+statics-uhf-wus.akamaized.net                    # Microsoft - Support Pages
+wdcp.microsoft.com                               # Microsoft - Windows Defender Updates
+displaycatalog.mp.microsoft.com                  # Microsoft - Windows Store
+services.apps.microsoft.com                      # Microsoft - Windows Store
+storeedgefd.dsx.mp.microsoft.com                 # Microsoft - Windows Store
+store-images.s-microsoft.com                     # Microsoft - Windows Store
+wscont1.apps.microsoft.com                       # Microsoft - Windows Store
+wscont2.apps.microsoft.com                       # Microsoft - Windows Store
+fe2.ws.microsoft.com                             # Microsoft - Windows 8 Store
+next-services.apps.microsoft.com                 # Microsoft - Windows 8 Store
+device.auth.xboxlive.com                         # Microsoft - Windows 10 Store
+user.auth.xboxlive.com                           # Microsoft - Windows 10 Store
+xsts.auth.xboxlive.com                           # Microsoft - Windows 10 Store
+fe2cr.update.microsoft.com                       # Microsoft - Windows 10 Updates
+slscr.update.microsoft.com                       # Microsoft - Windows 10 Updates
+download.windowsupdate.com                       # Microsoft - Windows Updates
+update.microsoft.com                             # Microsoft - Windows Updates
+windowsupdate.com                                # Microsoft - Windows Updates
+msagfx.live.com                                  # Microsoft - Windows 10 Initial setup > User creation
+wscont.apps.microsoft.com                        # Microsoft - Windows 10 Update Assistant
 blocklist.addons.mozilla.org               # Mozilla - Firefox - Adons
 codex.nflxext.com                          # Netflix - Website - Main Page
 proxy.novafusion.ea.com                    # Origin - Activate Games
@@ -271,6 +272,7 @@ shareasale-analytics.com        #Tracker - Breaks Links
 target.georiot.com              #Tracker - Breaks Links
 tracking.truthfinder.com        #Tracker - Breaks Links
 rta.xboxlive.com                #Tracker - Breaks games that use Xbox Live (Multiplayer)
+kangaroo.vocento.com            #Tracker - Prevents site access -> abc.es
 trib.al                         #URL Shortener / Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
