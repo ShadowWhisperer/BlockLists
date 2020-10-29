@@ -1,6 +1,6 @@
 #
 #    File: Marketing-Email   (Email Based Marketing)
-# Updated: 10/26/2020  22:01 (10:01 PM CST)
+# Updated: 10/29/2020  17:52 (5:52 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -26,6 +26,7 @@ api-black.convertkit.com
 api.convertkit.com
 api-rails4.convertkit.com
 app.convertkit.com
+appdirect.com
 app.icontact.com
 app.jilt.com
 app.mailjet.com
