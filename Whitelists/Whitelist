@@ -252,6 +252,7 @@ liberty.sw.roku.com                        # TCL - Roku System Update Check
 
 # Breaks Some Sites
 ########################
+asadcdn.com                     #Ad/Tracker - Breaks Stes (Example: bild.de)
 mkt6385.com                     #Marketing - Breaks Confirmation Email
 lddy.no                         #Marketing - Breaks Links
 pjtra.com                       #Marketing - Breaks Links
