@@ -1,6 +1,6 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Updated: 10/28/2020  20:53 (8:53 PM CST)
+# Updated: 11/3/2020  10:35 (10:35 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -313,6 +313,7 @@ taos.remotepc.com
 teamviewer.com
 techws.corporate.beanywhere.com
 telaviv.remotepc.com
+tigervnc.org
 tightvnc.com
 toronto.remotepc.com
 ultraviewer.net
@@ -332,4 +333,5 @@ westpalm.remotepc.com
 ws.airdroid.com
 www1.remotepc.com
 wysepocketcloud.appspot.com
+x2go.org
 zurich.remotepc.com

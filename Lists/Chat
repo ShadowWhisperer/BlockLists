@@ -1,6 +1,6 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Updated: 10/28/2020  20:53 (8:53 PM CST)
+# Updated: 11/3/2020  10:35 (10:35 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -133,6 +133,7 @@ jsonp.contactatonce.com
 lithium.facebook.com
 live2support.com
 livechatinc.com
+live-chat-static.sprinklr.com
 livezilla.net
 messengerview.1talking.net
 me-talk.ru
@@ -142,6 +143,8 @@ nanorep.com
 ngagelive.com
 oggchat2.icoa.com
 olark.com
+prod2-live-chat-mqtt.sprinklr.com
+prod2-live-chat.sprinklr.com
 providesupport.com
 public.cobrowse.oraclecloud.com
 purechat.com

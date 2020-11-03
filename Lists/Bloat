@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 10/28/2020  20:53 (8:53 PM CST)
+# Updated: 11/3/2020  10:35 (10:35 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -62,6 +62,7 @@ fonts.foxsports.com                                     #Font  Specific
 fonts.intercomcdn.com                                   #Font  Specific
 fonts.iu.edu                                            #Font  Specific
 fonts.jimstatic.com                                     #Font  Specific
+fonts.mybet.com                                         #Font  Specific
 fonts.ngeo.com                                          #Font  Specific
 fonts.nymag.com                                         #Font  Specific
 fonts.r7.com                                            #Font  Specific
@@ -279,8 +280,10 @@ cloud.acrobat.com                                       #Software   Adobe - Clou
 dc-api.adobe.io                                         #Software   Adobe - Document Cloud
 cdn3.bluestacks.com                                     #Software   BlueStacks (Android Emulator)
 cdn-bgp.bluestacks.com                                  #Software   BlueStacks (Android Emulator)
+cdn-www.bluestacks.com                                  #Software   BlueStacks (Android Emulator)
 cloud.bluestacks.com                                    #Software   BlueStacks (Android Emulator)
 eb.bluestacks.com                                       #Software   BlueStacks (Android Emulator)
+webapi-cloud.bluestacks.com                             #Software   BlueStacks (Android Emulator)
 passwordsleakcheck-pa.googleapis.com                    #Software       Chrome (Compare site to leaked sites)  <Tracking>
 block-edge-anycast.dropbox.com                          #Software     DropBox
 ciscobinary.openh264.org                                #Software   FireFox    Bloat   openh264
@@ -484,6 +487,13 @@ iasbroker.intel.com                                     #Intel
 ias.intel.com                                           #Intel
 secureprotocolengine-test.intel.com                     #Intel
 push.prod.netflix.com                                   #Netflix
+anycast.ftl.netflix.com                                 #Netflix  AnyCast
+probe-ixanycast-isp.prod.ftl.netflix.com                #Netflix  AnyCast
+nrdp50-appboot.netflix.com                              #Netflix    Netflix Ready Device 
+nrdp51-appboot.netflix.com                              #Netflix    Netflix Ready Device 
+nrdp53-appboot.netflix.com                              #Netflix    Netflix Ready Device 
+nrdp.nccp.netflix.com                                   #Netflix    Netflix Ready Device 
+nrdp.prod.ftl.netflix.com                               #Netflix    Netflix Ready Device 
 samsungknox.com                                         #Samsung   Knox Security Tools
 gpm.samsungqbe.com                                      #Samsung + Google Play Music
 api-diagmon.samsungdm.com                               #Samsung

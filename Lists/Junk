@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 10/26/2020  22:01 (10:01 PM CST)
+# Updated: 11/3/2020  10:35 (10:35 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -149,6 +149,7 @@ bezeqint.net                                         #ISP (Israel)
 alice.it                                             #ISP (Italy)
 fastwebnet.it                                        #ISP (Italy)
 tim.it                                               #ISP (Italy)
+chello.nl                                            #ISP (Netherlands)
 onvol.net                                            #ISP (Republic of Malta)
 telia.com                                            #ISP (Sweden)
 telia.se                                             #ISP (Sweden)
@@ -207,6 +208,7 @@ dm.bytedance.com                                     #App  TikTok
 hotapi.sgsnssdk.com                                  #App  TikTok
 isnssdk.com                                          #App  TikTok
 jsb-sg.byteoversea.com                               #App  TikTok
+mcs-va.tiktokv.com                                   #App  TikTok
 mon-va.tiktokv.com                                   #App  TikTok
 muscdn.com                                           #App  TikTok
 p16-amd-va.tiktokcdn.com                             #App  TikTok
@@ -215,6 +217,7 @@ p16-sign-sg.tiktokcdn.com                            #App  TikTok
 p16-sign-va.tiktokcdn.com                            #App  TikTok
 p16-tiktokcdn-com.akamaized.net                      #App  TikTok
 p16.tiktokcdn.com                                    #App  TikTok
+p16-va.tiktokcdn.com                                 #App  TikTok
 pull-cmaf-f16-ab.tiktokcdn.com                       #App  TikTok
 pull-cmaf-f16-sg01.tiktokcdn.com                     #App  TikTok
 pull-cmaf-f16.tiktokcdn.com                          #App  TikTok
@@ -249,14 +252,19 @@ pull-rtmp-l1.tiktokcdn.com                           #App  TikTok
 pull-w5.tiktokcdn.com                                #App  TikTok
 s16.tiktokcdn.com                                    #App  TikTok
 sf16-muse-va.ibytedtos.com                           #App  TikTok
+sf16-scmcdn-sg.ibytedtos.com                         #App  TikTok
+sf16-scmcdn-va.ibytedtos.com                         #App  TikTok
 sf-tb-sg.ibytedtos.com                               #App  TikTok
 tiktokcdn.com                                        #App  TikTok
 tiktok.com                                           #App  TikTok
 tiktokv.com                                          #App  TikTok
 v16-tiktokcdn-com.akamaized.net                      #App  TikTok
+v16.tiktokcdn.com                                    #App  TikTok
+v16-web.tiktok.com                                   #App  TikTok
 v25.tiktokcdn.com                                    #App  TikTok
 v77.tiktokcdn.com                                    #App  TikTok
 verification-va.byteoversea.com                      #App  TikTok
+vm.tiktok.com                                        #App  TikTok
 webcast16-normal-c-alisg.tiktokv.com                 #App  TikTok
 webcast-va.tiktokv.com                               #App  TikTok
 
@@ -317,10 +325,14 @@ d24cgw3uvb9a9h.cloudfront.net                        #Software - Zoom
 zoom.com                                             #Software - Zoom
 zoom.us                                              #Software - Zoom
 
+zoho.com                                             #Cloud Based Software - Zoho
+zohowebstatic.com                                    #Cloud Based Software - Zoho
+
 pair.com                                             #Web Hosting  (Belgium)
 hospedagemdesites.ws                                 #Web Hosting  (Brazil)  LocaWeb
 locaweb.com.br                                       #Web Hosting  (Brazil)
 qbox.me                                              #Web Hosting  (China)
+pytsoluciones.com                                    #Web Hosting  (Colmbia)
 wz.cz                                                #Web Hosting  (Czech Republic)
 hosttech.eu                                          #Web Hosting  (Europe)
 wonosoft.com                                         #Web Hosting  (Indonesia)
@@ -328,7 +340,11 @@ mixh.jp                                              #Web Hosting  (Japan)
 cafe24.com                                           #Web Hosting  (Korea)
 dothome.co.kr                                        #Web Hosting  (Korea)
 big07.pl                                             #Web Hosting  (Poland)
+dfirma.pl                                            #Web Hosting  (Poland)
+dhosting.pl                                          #Web Hosting  (Poland)
+dkonto.pl                                            #Web Hosting  (Poland)
 nazwa.pl                                             #Web Hosting  (Poland)
+you2.pl                                              #Web Hosting  (Poland)
 hostland.pro                                         #Web Hosting  (Russia)
 hostland.ru                                          #Web Hosting  (Russia)
 sprinthost.ru                                        #Web Hosting  (Russia)
@@ -399,6 +415,7 @@ jigsy.com                                            #Website Builder
 masterweb.id                                         #Website Builder
 moonfruit.com                                        #Website Builder
 netfirms.com                                         #Website Builder
+netlify.app                                          #Website Builder
 ning.com                                             #Website Builder
 ucraft.me                                            #Website Builder
 ukit.me                                              #Website Builder
