@@ -1,6 +1,6 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 10/29/2020  17:52 (5:52 PM CST)
+# Updated: 11/4/2020  22:26 (10:26 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -112,10 +112,6 @@ wns.windows.com                                #Notifications
 aria.microsoft.com                             #Outlook Mobile
 pipe.aria.microsoft.com                        #Outlook Mobile
 
-arc.msn.com                                    #Spotlight (Ads, Notifications, Suggested Apps, Tips, Tracking, Wallpaper)
-g.msn.com.nsatc.net                            #Spotlight (Ads, Notifications, Suggested Apps, Tips, Wallpaper)
-query.prod.cms.rt.microsoft.com                #Spotlight (Ads, Notifications, Suggested Apps, Tips, Wallpaper)
-
 ceipmsn.com                                    #SeaPort (Search Enhancement Broker process)
 g.ceipmsn.com                                  #SeaPort (Search Enhancement Broker process)
 
@@ -169,6 +165,7 @@ xnotify.xboxlive.com                           #Xbox
 
 
 ###############################################################################################
+############################           BELOW = UNCERTAIN           ############################
 ###############################################################################################
 
 
@@ -222,65 +219,84 @@ tk2.plt.msn.com                                # ? MSN
 cys-efz.ms-acdc.office.com                     # ? Office
 enrichment.osi.office.net                      # ? Office
 f-0001.f-msedge.net                            # ? Office
+identity.osi.office.net                        # ? Office
 loki.delve.office.com                          # ? Office
 lpcres.delve.office.com                        # ? Office
 lyh-efz.ms-acdc.office.com                     # ? Office
 mem.gfx.ms                                     # ? Office
 messaging.office.com                           # ? Office
+mrodevicemgr.officeapps.live.com               # ? Office
+nexusrules.officeapps.live.com                 # ? Office
+nleditor.osi.office.net                        # ? Office
+officeaka.cloudapp.net                         # ? Office
+officehomeblobs.blob.core.windows.net          # ? Office
 roa-efz.ms-acdc.office.com                     # ? Office
 sfnam.loki.delve.office.com                    # ? Office
 substrate.office.com                           # ? Office
+videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
 
-array101-prod.do.dsp.mp.microsoft.com          #Updates ?
-array102-prod.do.dsp.mp.microsoft.com          #Updates ?
-array103-prod.do.dsp.mp.microsoft.com          #Updates ?
-array104-prod.do.dsp.mp.microsoft.com          #Updates ?
-array201-prod.do.dsp.mp.microsoft.com          #Updates ?
-array202-prod.do.dsp.mp.microsoft.com          #Updates ?
-array203-prod.do.dsp.mp.microsoft.com          #Updates ?
-array204-prod.do.dsp.mp.microsoft.com          #Updates ?
-array401-prod.do.dsp.mp.microsoft.com          #Updates ?
-array402-prod.do.dsp.mp.microsoft.com          #Updates ?
-array403-prod.do.dsp.mp.microsoft.com          #Updates ?
-array404-prod.do.dsp.mp.microsoft.com          #Updates ?
-array405-prod.do.dsp.mp.microsoft.com          #Updates ?
-array406-prod.do.dsp.mp.microsoft.com          #Updates ?
-array407-prod.do.dsp.mp.microsoft.com          #Updates ?
-array408-prod.do.dsp.mp.microsoft.com          #Updates ?
-array501.prod.do.dsp.mp.microsoft.com          #Updates ?
-array502.prod.do.dsp.mp.microsoft.com          #Updates ?
-array503.prod.do.dsp.mp.microsoft.com          #Updates ?
-array505.prod.do.dsp.mp.microsoft.com          #Updates ?
-array506.prod.do.dsp.mp.microsoft.com          #Updates ?
-array507.prod.do.dsp.mp.microsoft.com          #Updates ?
-array508.prod.do.dsp.mp.microsoft.com          #Updates ?
-cp101-prod.do.dsp.mp.microsoft.com             #Updates ?
-cp201-prod.do.dsp.mp.microsoft.com             #Updates ?
-cp401-prod.do.dsp.mp.microsoft.com             #Updates ?
-disc101-prod.do.dsp.mp.microsoft.com           #Updates ?
-disc201-prod.do.dsp.mp.microsoft.com           #Updates ?
-disc401-prod.do.dsp.mp.microsoft.com           #Updates ?
-kv101-prod.do.dsp.mp.microsoft.com             #Updates ?
-kv201-prod.do.dsp.mp.microsoft.com             #Updates ?
-kv401-prod.do.dsp.mp.microsoft.com             #Updates ?
-prod.do.dsp.mp.microsoft.com.edgekey.net       #Updates ?
+array101-prod.do.dsp.mp.microsoft.com          # ? Updates
+array102-prod.do.dsp.mp.microsoft.com          # ? Updates
+array103-prod.do.dsp.mp.microsoft.com          # ? Updates
+array104-prod.do.dsp.mp.microsoft.com          # ? Updates
+array201-prod.do.dsp.mp.microsoft.com          # ? Updates
+array202-prod.do.dsp.mp.microsoft.com          # ? Updates
+array203-prod.do.dsp.mp.microsoft.com          # ? Updates
+array204-prod.do.dsp.mp.microsoft.com          # ? Updates
+array401-prod.do.dsp.mp.microsoft.com          # ? Updates
+array402-prod.do.dsp.mp.microsoft.com          # ? Updates
+array403-prod.do.dsp.mp.microsoft.com          # ? Updates
+array404-prod.do.dsp.mp.microsoft.com          # ? Updates
+array405-prod.do.dsp.mp.microsoft.com          # ? Updates
+array406-prod.do.dsp.mp.microsoft.com          # ? Updates
+array407-prod.do.dsp.mp.microsoft.com          # ? Updates
+array408-prod.do.dsp.mp.microsoft.com          # ? Updates
+array501.prod.do.dsp.mp.microsoft.com          # ? Updates
+array502.prod.do.dsp.mp.microsoft.com          # ? Updates
+array503.prod.do.dsp.mp.microsoft.com          # ? Updates
+array505.prod.do.dsp.mp.microsoft.com          # ? Updates
+array506.prod.do.dsp.mp.microsoft.com          # ? Updates
+array507.prod.do.dsp.mp.microsoft.com          # ? Updates
+array508.prod.do.dsp.mp.microsoft.com          # ? Updates
+cp101-prod.do.dsp.mp.microsoft.com             # ? Updates
+cp201-prod.do.dsp.mp.microsoft.com             # ? Updates
+cp401-prod.do.dsp.mp.microsoft.com             # ? Updates
+disc101-prod.do.dsp.mp.microsoft.com           # ? Updates
+disc201-prod.do.dsp.mp.microsoft.com           # ? Updates
+disc401-prod.do.dsp.mp.microsoft.com           # ? Updates
+kv101-prod.do.dsp.mp.microsoft.com             # ? Updates
+kv201-prod.do.dsp.mp.microsoft.com             # ? Updates
+kv401-prod.do.dsp.mp.microsoft.com             # ? Updates
+prod.do.dsp.mp.microsoft.com.edgekey.net       # ? Updates
 
-adclub.net                                     #Ads ?
+o.xbox.com                                     # ? Tracking (Blank)
 
-o.xbox.com                                     #Tracking ? (Blank)
+amp-test.com                                   # ? On msn.com
+udc.amp-test.com                               # ? On msn.com
 
-amp-test.com                                   # On msn.com
-udc.amp-test.com                               # On msn.com
+msantispy.com                                  # ? Defunct
+msecn.net                                      # ? Defunct
+msnhome.org                                    # ? Defunct
 
-msantispy.com                                  #Defunct ?
-msecn.net                                      #Defunct ?
-msnhome.org                                    #Defunct ?
+activity.windows.com                           # ? Server Sync (According to Microsoft)
+edge.activity.windows.com                      # ? Server Sync (According to Microsoft)
+enterprise.activity.windows.com                # ? Server Sync (According to Microsoft)
+test.activity.windows.com                      # ? Server Sync (According to Microsoft)
 
-activity.windows.com                           #Server Sync ?  (According to Microsoft)
-edge.activity.windows.com                      #Server Sync ?  (According to Microsoft)
-enterprise.activity.windows.com                #Server Sync ?  (According to Microsoft)
-test.activity.windows.com                      #Server Sync ?  (According to Microsoft)
+acctcdnmsftuswe2.azureedge.net                 #Azure
+acctcdnvzeuno.azureedge.net                    #Azure
+bastion.azure.com                              #Azure
+bot-framework.azureedge.net                    #Azure
+fp-afd.azureedge.net                           #Azure
+fp-vp.azureedge.net                            #Azure
+fp-vs.azureedge.net                            #Azure
+greenid-prod.westus2.cloudapp.azure.com        #Azure
+msftspeechmodelsprod.azureedge.net             #Azure
+odinvzc.azureedge.net                          #Azure
+onecs-live.azureedge.net                       #Azure
+owassets.azureedge.net                         #Azure
+polaris-tagging-prod.azureedge.net             #Azure
 
 
 ###############################################################################################
@@ -288,8 +304,6 @@ test.activity.windows.com                      #Server Sync ?  (According to Mic
 
 
 aad.cs.dds.microsoft.com
-acctcdnmsftuswe2.azureedge.net
-acctcdnvzeuno.azureedge.net
 adl.windows.com
 a-ring-fallback.msedge.net
 array613.prod.do.dsp.mp.microsoft.com
@@ -311,7 +325,6 @@ blob.dm5prdstr14a.store.core.windows.net
 blob.dm5prdstr19a.store.core.windows.net
 blob.sn4prdstr02a.store.core.windows.net
 bn2-client-s.gateway.messenger.live.com
-bot-framework.azureedge.net
 cache.datamart.windows.com
 ccs-pe-us1.cloudapp.net
 cds26.ams9.msecn.net
@@ -353,21 +366,17 @@ exp.mp.dse.microsoft.com
 fe2.update.microsoft.com.akadns.net
 filestore.community.answers.ms.akadns.net
 footprintdns.com
-fp-afd.azureedge.net
-fp-vp.azureedge.net
-fp-vs.azureedge.net
 fs.microsoft.com
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
 go.microsoft.akadns.net
 graph.microsoft.com
 graph.windows.net
-greenid-prod.westus2.cloudapp.azure.com
 groove.microsoft.com
 groups.photos.microsoft.com
 i1.services.social.microsoft.com
 i2-technet.sec.s-msft.com
-identity.osi.office.net
+
 ie9comview.vo.msecnd.net
 ieonline.microsoft.com
 ieonlinews.microsoft.com
@@ -408,35 +417,28 @@ metaservices.microsoft.com
 microsoftedgetips.microsoft.com
 microsoftedgewelcome.microsoft.com
 modpim.com
-mrodevicemgr.officeapps.live.com
+
+
 mscrl.microsoft.com
 msc.wlxrs.com
 msdnshared.blob.core.windows.net
 msedge.net
 msegceporticoprodassets.blob.core.windows.net
-msftspeechmodelsprod.azureedge.net
 myhomemsn.com
-nexusrules.officeapps.live.com
-nleditor.osi.office.net
+
 oaspapps.com
-odinvzc.azureedge.net
 offerservicefallback.blob.core.windows.net
-officeaka.cloudapp.net
-officehomeblobs.blob.core.windows.net
-onecollector.cloudapp.aria.akadns.net
-onecs-live.azureedge.net
+
 oneocsp.microsoft.com
 onerm.olsvc.com
 optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
 outlook-exo.trafficmanager.net
-owassets.azureedge.net
 packages.dmd.metaservices.microsoft.com
 passport.net
 peer2-den02.msedge.net
 playfabapi.com
-polaris-tagging-prod.azureedge.net
 p.pfx.ms
 privacy.microsoft.com
 prod-api-community.windows.com
@@ -495,7 +497,6 @@ uasprod.blob.core.windows.net
 ugcorigin.s-microsoft.com
 urlappmapping.sfp.microsoft.com
 ussus3westprod.blob.core.windows.net
-videoplayercdn.osi.office.net
 vlscppe.microsoft.com
 vsmsoftware.net
 waws-prod-blu-059.cloudapp.net

@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 11/3/2020  10:35 (10:35 AM CST)
+# Updated: 11/4/2020  22:26 (10:26 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -130,8 +130,10 @@ cpnscdn.com                                          #Coupons
 shopathome.com                                       #Coupons
 steamloto.org                                        #Coupons
 
+solunet.com.ar                                       #ISP (Argentina)
 ig.com.br                                            #ISP (Brazil)
 xunlei.com                                           #ISP (China)
+stofanet.dk                                          #ISP (Denmark)
 aliceadsl.fr                                         #ISP (France)
 free.fr                                              #ISP (France)
 orange.fr                                            #ISP (France)
@@ -150,6 +152,7 @@ alice.it                                             #ISP (Italy)
 fastwebnet.it                                        #ISP (Italy)
 tim.it                                               #ISP (Italy)
 chello.nl                                            #ISP (Netherlands)
+netvisao.pt                                          #ISP (Portugal)
 onvol.net                                            #ISP (Republic of Malta)
 telia.com                                            #ISP (Sweden)
 telia.se                                             #ISP (Sweden)
@@ -211,6 +214,7 @@ jsb-sg.byteoversea.com                               #App  TikTok
 mcs-va.tiktokv.com                                   #App  TikTok
 mon-va.tiktokv.com                                   #App  TikTok
 muscdn.com                                           #App  TikTok
+musical.ly                                           #App  TikTok
 p16-amd-va.tiktokcdn.com                             #App  TikTok
 p16.muscdn.com                                       #App  TikTok
 p16-sign-sg.tiktokcdn.com                            #App  TikTok
@@ -337,6 +341,7 @@ wz.cz                                                #Web Hosting  (Czech Republ
 hosttech.eu                                          #Web Hosting  (Europe)
 wonosoft.com                                         #Web Hosting  (Indonesia)
 mixh.jp                                              #Web Hosting  (Japan)
+sakura.ne.jp                                         #Web Hosting  (Japan)
 cafe24.com                                           #Web Hosting  (Korea)
 dothome.co.kr                                        #Web Hosting  (Korea)
 big07.pl                                             #Web Hosting  (Poland)
@@ -404,6 +409,7 @@ bravesites.com                                       #Website Builder
 cabanova.fr                                          #Website Builder
 cdn.getshogun.com                                    #Website Builder
 citymax.com                                          #Website Builder
+clan.su                                              #Website Builder
 cloversites.com                                      #Website Builder
 doodlekit.com                                        #Website Builder
 droppages.com                                        #Website Builder
@@ -417,6 +423,7 @@ moonfruit.com                                        #Website Builder
 netfirms.com                                         #Website Builder
 netlify.app                                          #Website Builder
 ning.com                                             #Website Builder
+ucoz.ru                                              #Website Builder
 ucraft.me                                            #Website Builder
 ukit.me                                              #Website Builder
 urest.org                                            #Website Builder

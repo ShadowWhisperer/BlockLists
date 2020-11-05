@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 11/3/2020  10:35 (10:35 AM CST)
+# Updated: 11/4/2020  22:26 (10:26 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3273,6 +3273,8 @@ adfs-test.conviva.com
 adf-tm.everesttech.net
 adgallery.eyereturn.com
 adgenerator.nonstoppartner.net
+adgile.blob.core.windows.net
+adgile.media
 adglobal.hit.gemius.pl
 adgreed.com
 adgrx.com
@@ -3786,6 +3788,7 @@ agb.nonstoppartner.de
 agb.nonstoppartner.net
 ag.ctnsnet.com
 a.gelifesciences.com
+agency360.io
 agencyanalytics.iljmp.com
 agency-stage.truconversion.com
 agent-443-intake.logs.datadoghq.com
@@ -15987,6 +15990,7 @@ at1.listrakbi.com
 ata8964.d41.co
 a.tac.miaozhen.com
 a.tactics.com
+atag.adgile.media
 at-a-mtc.atwola.com
 atari.helpshift.com
 at-a-scd.atwola.com
@@ -16161,6 +16165,7 @@ audiences-test-oiada.bluekai.com
 audiences.visualdna.com
 audience.tapad.com
 audience.visiblemeasures.com
+audigent.com
 audio2.spotify.com
 audio.callmeasurement.com
 audiode.ivwbox.de
@@ -16179,6 +16184,7 @@ audtrk.mndtrk.com
 audyt.gemius.pl
 audzx.httptrack.com
 au.effectivemeasure.net
+aufp.io
 au.geojs.io
 au-gmtdmp.gd3.mookie1.com
 au-gmtdmp.mookie1.com
@@ -19348,6 +19354,7 @@ cdna.ciradar.com
 cdna.clicktale.net
 cdn.acsbap.com
 cdn.adacts.com
+cdn.adgile.media
 cdn.adgrx.com
 cdn.adjust.com
 cdn.adpredictive.com
@@ -24171,6 +24178,7 @@ d3e1b3a5.hullapp.io
 d3e54v103j8qbb.cloudfront.net
 d3go.helpshift.com
 d3haamwmfumm0r.cloudfront.net
+d3jaymjyiads5d.cloudfront.net
 d3lnso1ag1sznl.cloudfront.nets.effectivemeasure.net
 d3ojfshdw1hp8b.cloudfront.net
 d3owq2fdwtdp2j.cloudfront.net
@@ -27419,6 +27427,7 @@ ens-ca-central1-a.nexus.ensighten.com
 ens-durgavich.activate.ensighten.com
 ensighten.bhphoto.com
 ensighten.com
+ensighten.huntingtonbank.com
 ens-mbruty.activate.ensighten.com
 ens-orlet.activate.ensighten.com
 en.support.appsflyer.com
@@ -27814,6 +27823,7 @@ event-api.reverb.com
 eventbus.intuit.com
 event.collector.scopely.io
 event.condenastdigital.com
+eventd-cro.admatrix.jp
 event.havasedge.com
 event.hiconversion.com
 event.ia1.adxpose.com
@@ -31031,12 +31041,14 @@ hb-api.omnitagjs.com
 hb-api-usa01.omnitagjs.com
 hb-api-usa02.omnitagjs.com
 hb.aplus.net
+hb-a.services.vnc.com
 hb.autodesk.com
 hb.bidgear.com
 hbbtv.theadex.com
 hbbtv-track.redbutton.de
 hbbtv-track.wt-eu02.net
 hbcdn.spot.im
+hb-c.services.vnc.com
 hbdyn.spot.im
 hb-endpoint-elb-307841411.adomik.com
 hbevents.1rx.io
@@ -31953,6 +31965,7 @@ hunantv-mipdx.cn.miaozhen.com
 hungmkt.tauribot.cpa.clicksure.com
 hungrysharkworld.onelink.me
 hunkemoller01.webtrekk.net
+huntingtonbank.tt.omtrdc.net
 hunzikerrealty.rtrk.com
 huodong.umeng.com
 huomdgde.hit.gemius.pl
@@ -37143,6 +37156,7 @@ looksmart.t.domdex.com
 looksmart-travel.t.domdex.com
 lookup.bluecava.com
 loom.sp.backtrace.io
+loopanalytics.com
 looper-staging.perfectaudience.com
 loopmasters.postaffiliatepro.com
 loopme.ads.placeiq.com
@@ -37285,6 +37299,7 @@ lumberyard.sp.backtrace.io
 lumenethu.worldgravity.com
 lumity.pathfactory.com
 lumomedia4.flamingstudiospso.c2strack.com
+lum-sdk.io
 lung.rpxnow.com
 lurn.clickperfect.com
 lurninc.iljmp.com
@@ -38105,6 +38120,7 @@ mbeauty.touchcommerce.com
 mbestdaymx.btttag.com
 mb.fullstory.com
 mboxedge35.tt.omtrdc.net
+mboxedge.tt.omtrdc.net
 mbr-targeting.com
 mbs.iljmp.com
 mbusa-tagging-prod.azureedge.net
@@ -42277,6 +42293,7 @@ oneall.com
 one-analytics.placer.io
 oneaudience.com
 one-click1.svc.tapad.com
+onecollector.cloudapp.aria.akadns.net
 one-demo2.one-demo.convertro.com
 one-demo2.one-integration.ci.convertro.com
 one-demo.convertro.com
@@ -43486,6 +43503,7 @@ performance.demandbase.com
 performance.in.backtrace.io
 perform.dynatrace.com
 perf.weborama.fr
+pergavelshot.com
 perimeterx.com
 perimeterx.net
 perimeterx.pathfactory.com
@@ -46281,6 +46299,7 @@ queuer-prod-elb.53.localytics.com
 queuer.sandbox53.localytics.com
 queue.simpleanalytics.io
 queue.statistics.aatkit.com
+quickanalytics.ca
 quickbase.uservoice.com
 quick-facebook-chat.demo.beeketing.com
 quickhandy01.webtrekk.net
@@ -47586,6 +47605,7 @@ robokiller.onelink.me
 robotics.metaps.com
 roche-applied-science.com.d3.sc.omtrdc.net
 rocketadserver.com
+rocketanalytics.com
 rocketgirls.iljmp.com
 rocketindustrial.btttag.com
 rocketmortgage.onelink.me
@@ -48982,6 +49002,7 @@ sas15k01.com
 sascdn.com
 sa.scorecardresearch.com
 sasc.solidworks.com
+sashare.com
 sa.similarweb.com
 sa.simpleanalytics.com
 sass.eyereturn.com
@@ -50283,6 +50304,7 @@ services.scanscout.com
 services.sdiapi.com
 services.sheerid.com
 services.splunk.com
+services-ssl.boredpanda.com
 services.swoop.com
 services-test.iad.bluekai.com
 service.sumologic.com
@@ -76619,6 +76641,7 @@ targus.links.origin.channelintelligence.com
 tarneeb.loggly.com
 tar.userreplay.net
 task.airfind.com
+taskanalytics.com
 task.mediabong.net
 tasks.airfind.com
 tasks.kissmetrics.com
@@ -77378,6 +77401,7 @@ ter.zglive.ksmobile.net
 ter.zgsgllive.ksmobile.net
 tesr.112.207.net
 tessabititalia01.wt-eu02.net
+tesseradigital.com
 test0x1.onthe.io
 test103.onthe.io
 test.112.207.net
@@ -87008,7 +87032,6 @@ track.ultimate-guitar.com
 track.ultragaming.biz
 track.ultravpn.com
 track.umpirecourierservice.com
-track.umtrck.com
 track.undefeatedtribe.com
 track.undergroundreptiles.com
 track.understandsolar.com
@@ -89085,6 +89108,7 @@ v10.vortex-win.data.microsoft.com
 v12groupinc.com
 v1adainxzr7t7k4r7aftaipos501p1511322722.nuid.imrworldwide.com
 v1.api.useinsider.com
+v1.cnzz.com
 v1s.badgeville.com
 v1.spot.im
 v1.stat.ku6.com
@@ -90197,39 +90221,6 @@ webdessl.ivwbox.de
 web-dev.responsetap.com
 webdevsalonloftscom.airbrake.io
 web.diamond.co.uk
-webdisk.accessiblemetrics.com
-webdisk.adjust.com
-webdisk.airporttaxi.click.org
-webdisk.analyse.advertisingbox.com
-webdisk.analyticson.com
-webdisk.asiacreative.blis.com
-webdisk.bankoffer.click.org
-webdisk.banks.click.org
-webdisk.blog.rontar.com
-webdisk.cheapoffer.click.org
-webdisk.cheaptaxi.click.org
-webdisk.coley87ns2.click.org
-webdisk.extreme.click.org
-webdisk.hortiz.click.org
-webdisk.hta-be.click.org
-webdisk.insuranceoffer.click.org
-webdisk.insurances.click.org
-webdisk.makemoney.click.org
-webdisk.manchesterairporttaxi.click.org
-webdisk.market4solutions.click.org
-webdisk.master12.click.org
-webdisk.money7ns1.click.org
-webdisk.naenae87.click.org
-webdisk.online.click.org
-webdisk.pharmapartner.mgr.consensu.org
-webdisk.ppi.click.org
-webdisk.profit.click.org
-webdisk.rudy1997.click.org
-webdisk.rudy1.click.org
-webdisk.srudy12.click.org
-webdisk.taxi.click.org
-webdisk.taxiinmanchester.com.click.org
-webdisk.zane1212.12minutepayday.clicksure.click.org
 webe-base.emv3.com
 webed.dm-event.net
 web-edge-ssl-10.vscope.cloud
