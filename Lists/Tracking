@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 11/4/2020  22:26 (10:26 PM CST)
+# Updated: 11/5/2020  22:40 (10:40 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -10397,6 +10397,7 @@ analytics.newsvine.com
 analytics.newtelco.dev
 analytics.newtontech.net
 analytics.newvisionweb.co.uk
+analytics.newvrporn.com
 analytics.newwave.de
 analytics-nexaas-poc2.tripliceconsultoria.com.br
 analytics.nexite.cloud
@@ -13473,7 +13474,6 @@ analytics.uvwavetechnologies.com
 analytics.uzimahealth.org
 analytics.v10.link
 analytics.v13.ch
-analytics.v22017125339357449.supersrv.de
 analytics.v2.cloud.ahg-mobile.de
 analytics-v2.docs.staging.reelevant.dev
 analytics-v2-od-1886.omedym.io
@@ -14924,7 +14924,6 @@ api.powerbi.com
 api.powerlinks.com
 api.ppcprotect.com
 api.pricespider.com
-api.privacy-center.org
 api.privy.com
 api.production.ireland.demandbase.com
 api.production.jetlore.com
@@ -15197,6 +15196,8 @@ apm-fts-vv-sv-cv.demo.dynatrace.com
 apm.gdn.demo.dynatrace.com
 apm.iplogger.org
 apmqa.demo.dynatrace.com
+apm-server.djiops.com
+apm-server.djiops.com.w.cdngslb.com
 apmu-dev.dynatrace.com
 apmu.dynatrace.com
 apmu-vlabs.dynatrace.com
@@ -16312,6 +16313,8 @@ autorectest.clicktale.com
 autorepairrowlandheights-px.rtrk.com
 auto.sophus3.com
 auto.t.domdex.com
+autotrack.ebay.com
+autotrack.g.ebay.com
 autotrade.metriweb.be
 autotrader.ads.placeiq.com
 au-tracker.inside-graph.com
@@ -22992,6 +22995,7 @@ cortex-imp.tribalfusion.com
 cortex.vidora.com
 cortezz.justclick.ru
 cortonafairviewapts1.rtrk.com
+corus.hb.omtrdc.net
 corus.ytv.com
 corvus-sds.piwik.pro
 corvus-sds.piwikpro.com
@@ -24520,6 +24524,7 @@ dataium.t.domdex.com
 data.ksmobile.com
 data.ksmobile.net
 data.logentries.com
+datalogging-1.adwombat.com
 datalookup.sitestat.com
 datam01.adlooxtracking.com
 datam02.adlooxtracking.com
@@ -36145,7 +36150,6 @@ log.gwallet.com
 log.gyro-n.com
 log.h2506190.stratoserver.net
 log.haberturk.com
-log.haccesstvstreaming.com
 log.hailuojia.com
 log.haim.it
 log.haotukankan.com
@@ -36160,7 +36164,6 @@ log.hiiir.com
 log.hinterstellar.com
 log.hira-meki.jp
 log.hitsteps.com
-log.hloginassistant.co
 log.hm.baidu.com
 log.hm.e.shifen.com
 log.hoc123.net
@@ -43346,6 +43349,7 @@ pchicagotribune.chartbeat.net
 pc-humana-collect.tealiumiq.com
 pc-humana-my.tealiumiq.com
 pc-humana-visitor-service-us-east-1.tealiumiq.com
+pci3oo5mg4mn-a.akamaihd.net
 pclick.yahoo.com
 pcmagazin.digidip.net
 pcmagzin.ivwbox.de
@@ -44682,7 +44686,6 @@ pixel.reddit.com
 pixel.reignn.com
 pixel.re.it
 pixel.reklamstore.com
-pixel.rel7.com
 pixel.retargetapp.com
 pixel.rights.ninja
 pixel.rio.br
@@ -44842,7 +44845,6 @@ pixel.videohub.tv
 pixel.vidoomy.com
 pixel.vihub.ru
 pixel.viilee.net
-pixel.villandopingcon.site
 pixel.vincreason.club
 pixel.visiblemeasures.com
 pixel.viva.tv
@@ -55805,7 +55807,6 @@ stat.azharis.fr
 stat.az-ix.net
 stat.azizhanum.com.br
 stat.babsft.com
-stat.babylon-services.com
 stat.bacic5i5j.com
 stat.backswing.fi
 stat.backupexpress.fr
@@ -58005,6 +58006,7 @@ stat.maarakennuspuurunen.fi
 stat.macabrismix.com.pl
 stat.made-in-china.com
 stat.made-in-suedhessen.de
+stat.madnessporn.com
 stat.magazines.com
 stat.magenta.se
 stat.maihaniemi.fi
@@ -72092,7 +72094,6 @@ stats-ssl.mdanderson.org
 stats.sslping.com
 stats.ssl-services.com
 stats.sspaptec.com
-stats.ssp.news-host.pw
 stats.sssss.st
 stats.ssv-breitenwaida.at
 stats.stackexchange.com
@@ -75298,7 +75299,6 @@ stat.ziye8.com
 stat.zkmobi.com
 stat.zmek.eu
 stat.zockertown.de
-stat.zol.com.cn
 stat.zona.ru
 stat.zonetimes.com
 stat.zooproduct.com
@@ -75442,6 +75442,7 @@ storage.roistat.com
 storck.piwik.pro
 store2.live.ksmobile.net
 store3.live.ksmobile.net
+store-api.dji.com
 storefront.flurry.com
 storefront.linksynergy.com
 store.ksmobile.net
@@ -79222,7 +79223,6 @@ track.desireshampoo.com
 track.deveirman.it
 track.dev.empmonitor.com
 track.dev.force24.co.uk
-track.devineoffers.com
 track.dev.int.mqlocate.net
 track.dev.kedix.com
 track.devnco.fr
@@ -79544,7 +79544,6 @@ tracker.ad-saver.com
 tracker.ads.sportradar.com
 tracker.adultvideoscript.com
 tracker.advn.app
-tracker.adv.news-host.pw
 tracker.adwingate.com
 tracker.aebn.net
 tracker.affiliate.id-iqoption.com
@@ -82116,7 +82115,6 @@ tracking.ependitika.gr
 tracking.epicgames.com
 tracking.e-pjb.eu
 tracking.epplejeck-reitsport.de
-tracking.eproposition.com
 tracking.ericmichaelcraig.com
 tracking.ernstings-family.de
 tracking.ero-advertising.com
@@ -83377,7 +83375,6 @@ tracking.motorimagazine.it
 tracking.motorolasolutions.com
 tracking.mountainhighrec.com
 tracking.mourselmailer.com
-tracking.mp3vizor.com
 tracking.mqroo2.com
 tracking.mriexecutiverecruiters.com
 tracking.mrporter.com
@@ -85249,7 +85246,6 @@ track.kinkymaturesluts.com
 track.kiomi.com
 track.kissthepaw.com
 track.klickly.com
-track.klnttracker.com
 track.knlob.com
 track.knowledgevision.com
 track.kojiesan.in
@@ -85703,7 +85699,6 @@ track.move-itgps.com
 track.moviebok.com
 track.movieland.com
 track.movingworld.cz
-track.mp3vizor.com
 track.mpcq.com.au
 track.mrcyc.cl
 track.mrskininteractive.com
@@ -87845,7 +87840,6 @@ trk.railquince.bid
 trk.rainydaymarketing.com
 trk.raxco.com
 trk.rcmd.tda.io
-trk.rdtk.io
 trk.realestateexpress.com
 trk.register.it
 trk.relaytrk.com
