@@ -1,6 +1,6 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 11/4/2020  22:26 (10:26 PM CST)
+# Updated: 11/10/2020  18:27 (6:27 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -42,6 +42,8 @@ use.fontawesome.com                                     #Font      Font Awesome
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
+code.ionicframework.com                                 #Font      IonIcons
+ionicframework.com                                      #Font      IonIcons
 linearicons.com                                         #Font    LinearIcons
 cdn.linearicons.com                                     #Font    LinearIcons
 fontplus.jp                                             #Font      Font Plus
@@ -73,11 +75,13 @@ fonts.voxmedia.com                                      #Font  Specific
 fonts.walmart.com                                       #Font  Specific
 fonts.wpcdn.pl                                          #Font  Specific
 fonts.wsj.net                                           #Font  Specific
+fonts.ymcart.com                                        #Font  Specific
 fonts.zumst.com                                         #Font  Specific
 g1.nyt.com                                              #Font  Specific
 gel.files.bbci.co.uk                                    #Font  Specific
 nimblefonts.nimbledeals.com                             #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
+terra-1-g.djicdn.com                                    #Font  Specific
 
 brazzerssurvey.com                                      #Survey
 inmoment.com                                            #Survey
@@ -488,6 +492,11 @@ ias.intel.com                                           #Intel
 secureprotocolengine-test.intel.com                     #Intel
 push.prod.netflix.com                                   #Netflix
 anycast.ftl.netflix.com                                 #Netflix  AnyCast
+anycast-t1-c0-noscm.prod.ftl.netflix.com                #Netflix  AnyCast
+anycast-t1-c1-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
+anycast-t1-c2-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
+anycast-t1-c3-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
+anycast-t1-c4-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
 probe-ixanycast-isp.prod.ftl.netflix.com                #Netflix  AnyCast
 nrdp50-appboot.netflix.com                              #Netflix    Netflix Ready Device 
 nrdp51-appboot.netflix.com                              #Netflix    Netflix Ready Device 

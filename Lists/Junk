@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 11/4/2020  22:26 (10:26 PM CST)
+# Updated: 11/10/2020  18:27 (6:27 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -39,6 +39,7 @@ totalav.com                                          #Antivirus    TotalAV
 webshield.totalav.com                                #Antivirus    TotalAV
 detail.webrootcloudav.com                            #Antivirus    Webroot
 g2.p4.webrootcloudav.com                             #Antivirus    Webroot
+i1.ma.webrootcloudav.com                             #Antivirus    Webroot
 sn-euw1.webrootcloudav.com                           #Antivirus    Webroot
 sn-usw2.webrootcloudav.com                           #Antivirus    Webroot
 snu.webrootcloudav.com                               #Antivirus    Webroot
@@ -406,6 +407,7 @@ vidmo.org                                            #Website - Vidmo (Contains 
 angellrackets.com                                    #Website Builder
 bitballoon.com                                       #Website Builder
 bravesites.com                                       #Website Builder
+cabanova.com                                         #Website Builder
 cabanova.fr                                          #Website Builder
 cdn.getshogun.com                                    #Website Builder
 citymax.com                                          #Website Builder
@@ -437,6 +439,7 @@ chat.chatovod.ru                                     #Website Plugin - Multi-use
 chatovod.ru                                          #Website Plugin - Multi-user Chat
 
 lycos.com                                            #Search Engine - Links to malware
+search6.lycos.com                                    #Search Engine - Links to malware
 
 sogou.com                                            #Search Engine [China]
 soso.com                                             #Search Engine [China]
