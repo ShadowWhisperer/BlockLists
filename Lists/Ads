@@ -1,6 +1,6 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Updated: 11/13/2020  19:13 (7:13 PM CST)
+# Updated: 11/13/2020  21:36 (9:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -167,6 +167,7 @@
 7fkm2r4pzi.com
 7hor9gul4s.com
 7hu8e1u001.com
+7q1z79gxsi.global.ssl.fastly.net
 7qrsuw565o.com
 7rjln8orgh.com
 7swnm9dm8q.eu-west-1.elasticbeanstalk.com
@@ -1001,6 +1002,7 @@ ad.adsquangcao.com
 ad.adsrvr.cn
 ad.adsrvr.cn.m.alikunlun.com
 ad.adsrvr.me
+ad.adsrvr.org
 ad.ad-srv-track.com
 ad.adstailor.com
 ad.adtegrity.net
@@ -5427,6 +5429,13 @@ ads.adage.com
 ads.adagent.chacha.com
 ads.adaptly.com
 ads.adaptv.advertising.com
+ads-adaptv-a.prod.vidible.tv
+ads-adaptv-b.prod.vidible.tv
+ads-adaptv-b.stage.vidible.tv
+ads-adaptv-b.vidible.tv
+ads-adaptv.prod.vidible.tv
+ads-adaptv.stage.vidible.tv
+ads-adaptv.vidible.tv
 ads.adaptweb.com.br
 ads.adaxis.media
 ads.adbeat.club
@@ -18858,6 +18867,7 @@ apiconnecti-env.us-east-1.elasticbeanstalk.com
 apidockerfinal-env.eu-west-2.elasticbeanstalk.com
 api-env.elasticbeanstalk.com
 api-feed.com
+api.gannett-cdn.com
 api-gateway.us-west-2.elasticbeanstalk.com
 api.h1.he7ll.com
 api.he7ll.com
@@ -19050,6 +19060,10 @@ azalea-targeting-demo.us-west-2.elasticbeanstalk.com
 azj57rjy.com
 b0omr3wn6u4b.com
 b1g1w7wic0.com
+b1-nydc1.zemanta.com
+b1-sadc1.zemanta.com
+b1t-nydc1.zemanta.com
+b1t-sadc1.zemanta.com
 b2wads-apiadapter-1.us-east-1.elasticbeanstalk.com
 b3mbgmfymt.us-east-1.elasticbeanstalk.com
 b3z29k1uxb.com
@@ -21079,10 +21093,12 @@ c1.adform.net
 c1.filmvilag.org
 c2ecc2d3-20bf-412f-aa71-7311aa27a2be.eu-west-1.elasticbeanstalk.com
 c2shb.ssp.yahoo.com
+c2.taboola.com
 c2t-incoming-node.elasticbeanstalk.com
 c360-prod-prd-device.us-east-1.elasticbeanstalk.com
 c52llumx.com
 c8.net.ua
+ca4-bid.adsrvr.org
 c.aaxads.com
 cablato-ads-v2.rdfrbmmigg.eu-west-1.elasticbeanstalk.com
 cablato.com
@@ -21344,6 +21360,7 @@ cdn.convertbox.com
 cdn.dmp.wi-fi.ru
 cdn.doubleclick.thirdparty.ooyala.com
 cdn.doublepimpssl.com
+cdn.doubleverify.com
 cdn.epomads2.4shared.com
 cdn.feedbackify.com
 cdn.gotchosen.com
@@ -21374,6 +21391,7 @@ cdn-promote.weebly.com
 cdn-promox.pnperf.com
 cdn.pushbots.com
 cdn.pushcrew.com
+cdn-ssl.vidible.tv
 cdn-statics.cleeng.com
 cdn.sterta.pl
 cdn.taboola.com
@@ -21432,6 +21450,7 @@ chocohjuanfhdhf.com
 chocolateplatform.com
 choicesapilive-android.us-east-1.elasticbeanstalk.com
 choicesapilive.us-east-1.elasticbeanstalk.com
+choozle.com
 chromevp.us-west-2.elasticbeanstalk.com
 chunkycactus.com
 ciamedia.com
@@ -21620,6 +21639,7 @@ connextra.com
 consciouschairs.com
 consciousdirt.com
 consent.api.osano.com
+consent.cmp.oath.com
 consent.cookiefirst.com
 consent.truste.com
 consistpotato.com
@@ -24063,6 +24083,7 @@ nuttyorganization.com
 nuxad.com
 nvrblk.xyz
 nxek71b8s0.com
+ny1-bid.adsrvr.org
 nyanko-backups.ap-northeast-1.elasticbeanstalk.com
 nym1-ib.adnxs.com
 o1.sg.marketing.alignable.com
@@ -24474,7 +24495,6 @@ platform-one.co.jp
 platform-production.eu-west-2.elasticbeanstalk.com
 platform.shopmsg.me.herokudns.com
 platform.stumbleupon.com
-platform.twitter.com
 playback-prod.umypzxuqre.us-east-1.elasticbeanstalk.com
 player.isocrates.com
 player.pgqauempyk.eu-west-1.elasticbeanstalk.com
@@ -24580,6 +24600,7 @@ prebid.adnxs.com
 prebid.a-mo.net
 prebid-eu.creativecdn.com
 prebid.org
+prebid-server.rubiconproject.com
 preciouseffect.com
 preciousyoke.com
 predictvideo.com
@@ -25204,10 +25225,12 @@ rst.pornyhd.com
 rs-xpromotion.appspot.com
 rt1-t.samsunggalaxy.email
 rtb0.doubleverify.com
+rtbcdn.doubleverify.com
 rtbiq.com
 rtb.mfadsrvr.com
 rtbpop.com
 rtbpopd.com
+rtb-usw.mfadsrvr.com
 rtk.io
 rtmark.net
 rtrgt2.com
@@ -25413,6 +25436,7 @@ search-ca-prod-http2.us-west-1.elasticbeanstalk.com
 searchfacets-prd.eu-west-1.elasticbeanstalk.com
 search-maven-org-dev.wbmuvwtkgj.us-east-1.elasticbeanstalk.com
 searchprivacyweb-extensions.4zw2mn7zbw.us-east-1.elasticbeanstalk.com
+search.spotxchange.com
 searona.com
 seatsmoke.com
 seattleadvertising.com
@@ -25540,6 +25564,7 @@ sillyscrew.com
 silverback.alignable.com
 silverpop.com
 silverpush.co
+simage2.pubmatic.com
 similarsabine.com
 simplex-api-pci-prod-env.us-east-1.elasticbeanstalk.com
 simpli.fi
@@ -25974,6 +25999,7 @@ summercpm.xyz
 summerobject.com
 sunmediaads.com
 sunmedia.tv
+s.update.rubiconproject.com
 superadbid.com
 superads.cn
 superawesome.com
@@ -26454,6 +26480,7 @@ upaxis.com
 update-bridge-ng-prod.eu-central-1.elasticbeanstalk.com
 update-bridge-ng-prod.us-east-1.elasticbeanstalk.com
 upgastlyr.com
+upload.omnivirt.com
 uponit.com
 up.piloteraser.com
 uppyads.com
@@ -26489,6 +26516,7 @@ userwave.com
 use-tor.adsrvr.org
 us.np.adproxy.ndmdhs.com
 uss3star.com
+usw-ca2.adsrvr.org
 us-west-adx.aralego.net
 utarget.pro
 utarget.ru
@@ -26768,6 +26796,7 @@ widgets.turnto.com
 widget.stylitics.com
 widget.stylitics.com.cdn.cloudflare.net
 widgets.wp.com
+widgets.zemanta.com
 widget.tippebannere.no
 widget.trustpilot.com
 widget.twojapogoda.pl
@@ -26943,6 +26972,7 @@ yieldmagic.com
 yieldmanager.com
 yieldmanager.net
 yieldmo.com
+yieldopt.spreaker.com
 yieldpartners.com
 yieldr.com
 yi-lt.elasticbeanstalk.com

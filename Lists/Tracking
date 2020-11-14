@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 11/13/2020  19:45 (7:45 PM CST)
+# Updated: 11/13/2020  21:36 (9:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -581,6 +581,7 @@ ai07.imrworldwide.com
 ai08.imrworldwide.com
 ai09.imrworldwide.com
 ai10.imrworldwide.com
+ai.autoid.com
 aidata.io
 aimatch.com
 a.imgvc.com
@@ -11048,12 +11049,14 @@ api-analytics.us-west-2.elasticbeanstalk.com
 api-analytics.youscribe.com
 api-apm.instabug.com
 api.appodealx.com
+api.autoid.com
 api.cetrk.com
 api.churnsignal.com
 api.circularhub.com
 api.cleantalk.org
 api.clientseoreport.com
 api.datasteam.io
+api.db-ip.com
 api.dec.sitefinity.com
 api.dt4ever.com
 api-gdpr.voodoo-tech.io
@@ -11192,6 +11195,7 @@ assets.bounceexchange.com
 assets.geo.de
 assets.giocdn.com
 assets.nationalgeographic.com
+assets.video.yahoo.net
 associationanalytics.com
 as.stylebook.de
 a.standardandpoors.com
@@ -11506,6 +11510,7 @@ beacon.fusioncdn.com
 beacon.galatina.smartduc.it
 beacon.galatone.smartduc.it
 beacon.gallipoli.smartduc.it
+beacon.gcion.com
 beacon.genasystems.co.uk
 beacon.generatespace.co
 beacon.geo.netflix.com
@@ -11985,6 +11990,7 @@ brsrvr.com
 brucelead.com
 b.rwjf.org
 bsec.rwjf.org
+b.sharethrough.com
 bshzcwbh.klarnaservices.com
 b.simonandschuster.com
 b.sli-spark.com
@@ -12060,6 +12066,7 @@ caradstag.casa
 carc.carcinoid.com
 carcodesms.com
 cardlytics.com
+cars.qualtrics.com
 cartrocket.com
 cartstack.com
 castup.net
@@ -12070,6 +12077,7 @@ cavisson.com
 cb8qb7ptkzgxj7hzim0t1l3o6r67p1516222530.nuid.imrworldwide.com
 cbe.capturehighered.net
 c.be.msn.com
+c.betrad.com
 c.bigmir.net
 c.bing.com
 cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com
@@ -12164,11 +12172,13 @@ centralcore7.com
 certify-js.alexametrics.com
 cert.imrworldwide.com
 cetrk.com
+c.evidon.com
 cf7f797e-ae82-4c7b-ac59-7e2ad0d08610.nuid.imrworldwide.com
 cfhchqayl8x7tfdx6otx4hqpm0p9s1516680285.nuid.imrworldwide.com
 cfigroup.com
 c.fi.msn.com
 cformanalytics.com
+c.fqtag.com
 c.fr.msn.com
 c.gelifesciences.com
 c.gr.msn.com
@@ -13946,6 +13956,7 @@ crymyip.com
 cs9hjajhfwpfgbjgyyspeg6z6jd8x1508207690.nuid.imrworldwide.com
 cs.analytics.lego.com
 csc.beap.bc.yahoo.com
+cs.choozle.com
 c.se.msn.com
 c.sg.msn.com
 c.sharethis.mgr.consensu.org
@@ -14709,6 +14720,7 @@ ensighten.com
 ensighten.huntingtonbank.com
 ensy2ll8damkafnriif5qww9bgv7r1516681636.nuid.imrworldwide.com
 entrinsik.com
+eonlinevideos.akamaized.net
 epica.ai
 epochstats.com
 eproof.com
@@ -14813,6 +14825,7 @@ evidon.com
 evisitanalyst.com
 evolv.ai
 evolvemediametrics.com
+ev.surveywall-api.survata.com
 evt.mxplay.com
 ew.caixa.gov.br
 e-webtrack.net
@@ -15081,7 +15094,6 @@ gbl007.com
 gblwebcen.com
 gbpfcbrxzvmg9cr5vbx6a0lfv371y1510349881.nuid.imrworldwide.com
 gbxgateway.dell.com
-gcion.com
 gd.geobytes.com
 gdmconvtrck.com
 gdpr.internetbrands.com
@@ -15347,6 +15359,7 @@ gou29et3cudo0j1inc6wk5f551jvo1514609630.nuid.imrworldwide.com
 goutong.baidu.com
 govmetric.com
 gpaevztfylm5lxtz0uhdjaa6nnkk81504935370.nuid.imrworldwide.com
+gq.us.y.atwola.com
 grabify.link
 grafana.campaign-analytics.prod.leanplum.com
 grafana.campaign-analytics.staging.leanplum.com
@@ -15944,6 +15957,7 @@ info.telstra.com
 info.telstra.com.au
 infotrack.net
 info.vodafone.com.au
+ing-district.clicktale.net
 ingenioustechnologies.com
 ingest.machinify.com
 inistrack.net
@@ -19524,6 +19538,7 @@ narratiive.com
 narrative.io
 narvar.com
 native.ai
+native.sharethrough.com
 nats.xing.com
 navdmp.com
 navegg.com
@@ -19581,6 +19596,7 @@ newzmate.com
 nexac.com
 nextbigsound.com
 nextstat.com
+nexus.ensighten.com
 nexus.officeapps.live.com
 nfjqgexfjogexvbilgitypxuorwwi1504895770.nuid.imrworldwide.com
 nfltags.com
@@ -21196,6 +21212,7 @@ playground.xyz
 playtime-tm.everesttech.net
 plugs.jameco.com
 pma-network.com
+pmd205470tn-a.akamaihd.net
 pnhddmvzsru1snvjgfoedvqi45ghq1516348531.nuid.imrworldwide.com
 pnstat.com
 pocitadlolibise.seznam.cz
@@ -21330,6 +21347,7 @@ q3tobg5firr5csl7dicxqud8qscic1516690869.nuid.imrworldwide.com
 q49ggxje4tdpj2orcnywtscmu9h491505328470.nuid.imrworldwide.com
 q4cdn.com
 qa-dc.arrivalist.com
+q.adrta.com
 qatgafm76y951lsexbzz1lztstaws1516628878.nuid.imrworldwide.com
 qbputgvftcbcjzo4o3n7h3qfausyc1509210722.nuid.imrworldwide.com
 qejed9qduj6ksohwglavh22q7fwxg1510276722.nuid.imrworldwide.com
@@ -25573,6 +25591,7 @@ spscas.hitachi-solutions.co.jp
 s.publicoid.com
 s.publico.pt
 s.pubmine.com
+sp.usatoday.com
 spxl.socy.es
 spyfone.com
 spyhuman.com
@@ -47103,7 +47122,6 @@ symantec.tt.omtrdc.net
 sync.colossusssp.com
 sync.mathtag.com
 sync-tm.everesttech.net
-syndication.twitter.com
 synerise.com
 synthesio.com
 s.youtube.com
@@ -57133,17 +57151,20 @@ usersurge.com
 usersync.samplicio.us
 usertesting.com
 userty.com
+user.usatoday.com
 uservoice.com
 userzoom.com
 usesfathom.com
 us.imrworldwide.com
 uslg89eamk4rqt24gds5m4w4pg4o61504934810.nuid.imrworldwide.com
 us-library.klarnaservices.com
+us-sonar.sociomantic.com
 us-tk.mobpowertech.com
 us-track.wayin.com
 us-trc-events.taboola.com
 us-trc.taboola.com
 usvalzdiprd-external-6361273.us-east-1.elb.amazonaws.com
+us-west-1.onemobile.yahoo.com
 us-west-2.tracking.emerse.com
 uswestmonitoring.livesegmentservice.com
 us-west.tracking.emerse.com
