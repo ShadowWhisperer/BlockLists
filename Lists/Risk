@@ -1,44 +1,49 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Updated: 11/10/2020  18:27 (6:27 PM CST)
+# Updated: 11/13/2020  18:56 (6:56 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-#
-#  https://www.spamhaus.org/statistics/networks/
-#
+###########################################################################################
+#                      https://www.spamhaus.org/statistics/networks/                      #
+###########################################################################################
+tedata.net                                    #ISP    Worst  Botnet   Oct 2019
+te.eg                                         #ISP    Worst  Botnet   Oct 2019
+vnnic.vn                                      #ISP    Worst  Botnet   Oct 2019
+adityabirla.com                               #ISP    Worst  Botnet   Feb 2020
+algerietelecom.dz                             #ISP    Worst  Botnet   Feb 2020
+chinanet.cn.net                               #ISP    Worst  Botnet   Feb 2020
+cnc-noc.net                                   #ISP    Worst  Botnet   Feb 2020
+ptcl.net.pk                                   #ISP    Worst  Botnet   Feb 2020
+sancharnet.in                                 #ISP    Worst  Botnet   Feb 2020
+telkom.co.id                                  #ISP    Worst  Botnet   Feb 2020
+vnnic.net.vn                                  #ISP    Worst  Botnet   Feb 2020
+zx.nl                                         #ISP    Worst  Botnet   Feb 2020
+zvi.ru                                        #ISP    Worst  Botnet   Apr 2020
+zylon.net                                     #ISP    Worst  Botnet   May 2020
+charter.net                                   #ISP    Worst  Botnet   Nov 2020
+chinamobile.com                               #ISP    Worst  Botnet   Nov 2020
+ntl.com                                       #ISP    Worst  Botnet   Nov 2020
+rr.com                                        #ISP    Worst  Botnet   Nov 2020
 
-zylon.net                                     #ISP    Worst Botnet   May. 2020
-zvi.ru                                        #ISP    Worst Botnet   Apr. 2020
-adityabirla.com                               #ISP    Worst Botnet   Feb. 2020
-algerietelecom.dz                             #ISP    Worst Botnet   Feb. 2020
-chinanet.cn.net                               #ISP    Worst Botnet   Feb. 2020
-cnc-noc.net                                   #ISP    Worst Botnet   Feb. 2020
-ptcl.net.pk                                   #ISP    Worst Botnet   Feb. 2020
-sancharnet.in                                 #ISP    Worst Botnet   Feb. 2020
-telkom.co.id                                  #ISP    Worst Botnet   Feb. 2020
-vnnic.net.vn                                  #ISP    Worst Botnet   Feb. 2020
-tedata.net                                    #ISP    Worst Botnet   Oct. 2019
-te.eg                                         #ISP    Worst Botnet   Oct. 2019
-vnnic.vn                                      #ISP    Worst Botnet   Oct. 2019
-zx.nl                                         #ISP    Worst Botnet   Feb. 2020
+airtel.in                                     #ISP    Worst  Spam     Feb 2019
+kornet.net                                    #ISP    Worst  Spam     Oct 2019
+moldtelecom.md                                #ISP    Worst  Spam     Oct 2019
+htu.cc                                        #ISP    Worst  Spam     Feb 2020
+spectranet.com.ng                             #ISP    Worst  Spam     Feb 2020
+zzidc.com                                     #ISP    Worst  Spam     Feb 2020
+fos-vpn.org                                   #ISP    Worst  Spam     Apr 2020
+chinaccs.cn                                   #ISP    Worst  Spam     May 2020
+fink.org                                      #ISP    Worst  Spam     May 2020
+ghlc.biz                                      #ISP    Worst  Spam     Jun 2020
+inter-cloud.tech                              #ISP    Worst  Spam     Jun 2020
+colocrossing.com                              #ISP    Worst  Spam     Nov 2020
+###########################################################################################
+###########################################################################################
 
-ghlc.biz                                      #ISP    Worst Spam     Jun. 2020
-inter-cloud.tech                              #ISP    Worst Spam     Jun. 2020
-chinaccs.cn                                   #ISP    Worst Spam     May. 2020
-fink.org                                      #ISP    Worst Spam     May. 2020
-fos-vpn.org                                   #ISP    Worst Spam     Apr. 2020
-htu.cc                                        #ISP    Worst Spam     Feb. 2020
-spectranet.com.ng                             #ISP    Worst Spam     Feb. 2020
-zzidc.com                                     #ISP    Worst Spam     Feb. 2020
-kornet.net                                    #ISP    Worst Spam     Oct. 2019
-moldtelecom.md                                #ISP    Worst Spam     Oct. 2019
-airtel.in                                     #ISP    Worst Spam     Feb. 2019
-
-aapks.com                                     #APK Hosting (Android Apps)
 
 bitbucket.io                                  #Code Hosting - Hosts malware / scam sites
 codesandbox.io                                #Code Hosting - Hosts malware / scam sites
@@ -48,6 +53,8 @@ repl.it                                       #Code Hosting - Hosts malware / sc
 stackblitz.io                                 #Code Hosting - Hosts malware / scam sites
 
 appdomain.cloud                               #Cloud Storage (IBM) - Known to have malware
+
+aapks.com                                     #APK Hosting (Android Apps)
 
 apponic.com                                   #Software Hosting
 avanquest.com                                 #Software Hosting
@@ -70,22 +77,23 @@ softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
 winsite.com                                   #Software Hosting
 
-taskernet.com                                 #Android [APP]  Tasker - Allows scheduled custom scripts to run in the background
+taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
 
 localhost.run                                 #Share Localhost
 showoff.io                                    #Share Localhost
 
 
 
-
-
 #  Domains Used On/By Infected Machines  (Potentially)
-#========================================================================================
+#=====================================================================================================
 #
 #   Money Transfer  =  Websites used to send money to someone else
-#          Webhook  =  Inspect page requets  (Can be can recieve data from an infected system)
+#          Webhook  =  Inspect page requets  (Can be used to recieve data from an infected system)
 #        Webscript  =  Run scripts online
 #
+#=====================================================================================================
+#
+
 
 remitly.com                            #Money Transfer  (Seen in Tech Support Scam)
 remitly.io                             #Money Transfer  (Seen in Tech Support Scam)
@@ -98,8 +106,8 @@ requestinspector.com                   #Webhook
 requestwatch.com                       #Webhook
 webhook.site                           #Webhook
 
-webscript.io                           #Webscript
 pythonanywhere.com                     #Webscript
+webscript.io                           #Webscript
 
 cdn.snipr.gg                           #Hacking Tool: Credential Stuffing Toolkit
 snipr.gg                               #Hacking Tool: Credential Stuffing Toolkit

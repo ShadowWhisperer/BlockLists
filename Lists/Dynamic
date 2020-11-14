@@ -1,6 +1,6 @@
 #
 #    File: Dynamic   (Dynamic DNS:  DNS --> IP)
-# Updated: 11/10/2020  18:27 (6:27 PM CST)
+# Updated: 11/13/2020  18:56 (6:56 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -447,6 +447,7 @@ dynip.org
 dyn.mk
 dynns.com
 dyn-o-saur.com
+dyns.be
 dyns.cx
 dynserv.org
 dyns.net
