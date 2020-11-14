@@ -246,6 +246,10 @@ configs.ott.aetnd.com                      # App - A&E - Check for internet acce
 signature.video.aetnd.com                  # App - A&E - Crashs App
 oempprd.samsungcloudsolution.com           # Samsung - App Updates
 oempprd.samsungcloudsolution.net           # Samsung - App Updates
+otnprd8.samsungcloudsolution.net           # Samsung - Firmware Updates
+otnprd9.samsungcloudsolution.net           # Samsung - Firmware Updates
+otnprd10.samsungcloudsolution.net          # Samsung - Firmware Updates
+otnprd11.samsungcloudsolution.net          # Samsung - Firmware Updates
 api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 liberty.sw.roku.com                        # TCL - Roku System Update Check
 
