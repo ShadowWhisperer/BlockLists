@@ -1,6 +1,6 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Updated: 11/13/2020  18:56 (6:56 PM CST)
+# Updated: 11/17/2020  22:53 (10:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -21,8 +21,10 @@ lavasoft.com                                         #Antivirus    Adaware
 webcompanion.com                                     #Antivirus    Adaware
 bitdefender.com                                      #Antivirus    Bit Defender
 bitdefender.net                                      #Antivirus    Bit Defender
-nimbus.bitdefender.net                               #Antivirus    Bit Defender
 da3e3.net                                            #Antivirus    Bit Defender
+my.bitdefender.com                                   #Antivirus    Bit Defender
+nimbus.bitdefender.net                               #Antivirus    Bit Defender
+upgrade.bitdefender.com                              #Antivirus    Bit Defender
 e5.sk                                                #Antivirus    Eset
 eset.com                                             #Antivirus    Eset
 account.can.ftrsecure.com                            #Antivirus    F-Secure
@@ -40,6 +42,7 @@ webshield.totalav.com                                #Antivirus    TotalAV
 detail.webrootcloudav.com                            #Antivirus    Webroot
 g2.p4.webrootcloudav.com                             #Antivirus    Webroot
 i1.ma.webrootcloudav.com                             #Antivirus    Webroot
+skyversion.webrootcloudav.com                        #Antivirus    Webroot
 sn-euw1.webrootcloudav.com                           #Antivirus    Webroot
 sn-usw2.webrootcloudav.com                           #Antivirus    Webroot
 snu.webrootcloudav.com                               #Antivirus    Webroot
@@ -336,10 +339,12 @@ zohowebstatic.com                                    #Cloud Based Software - Zoh
 pair.com                                             #Web Hosting  (Belgium)
 hospedagemdesites.ws                                 #Web Hosting  (Brazil)  LocaWeb
 locaweb.com.br                                       #Web Hosting  (Brazil)
+youyoujf.com                                         #Web Hosting  (China)  Alibaba 
 qbox.me                                              #Web Hosting  (China)
 pytsoluciones.com                                    #Web Hosting  (Colmbia)
 wz.cz                                                #Web Hosting  (Czech Republic)
 hosttech.eu                                          #Web Hosting  (Europe)
+atw.hu                                               #Web Hosting  (Hungary)
 wonosoft.com                                         #Web Hosting  (Indonesia)
 mixh.jp                                              #Web Hosting  (Japan)
 sakura.ne.jp                                         #Web Hosting  (Japan)
