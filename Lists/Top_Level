@@ -1,6 +1,6 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Updated: 9/15/2020  15:20 (3:20 PM CST)
+# Updated: 11/19/2020  16:28 (4:28 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -731,6 +731,7 @@
 .ee            Europe - Estonia
 .fo            Europe - Faroe Islands
 .fi            Europe - Finland
+.hamburg       Europe - Germany
 .gi            Europe - Gibraltar
 .gr            Europe - Greece
 .hu            Europe - Hungary
