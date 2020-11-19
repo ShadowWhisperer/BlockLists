@@ -1,6 +1,6 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Updated: 11/17/2020  22:53 (10:53 PM CST)
+# Updated: 11/18/2020  21:59 (9:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -549,6 +549,7 @@ adrizer.com
 adr.kulingen.no
 adrolays.de
 adrta.com
+adsafeprotected.com
 adscale.pixel.invitemedia.com
 adscreendirect.com
 adservinganalytics.com
@@ -703,6 +704,7 @@ alleyskin.com
 all-tracker.appspot.com
 alogs.umengcloud.com
 alog.umengcloud.com
+alog.umeng.com
 alooma.com
 alpixtrack.com
 al-smetrics.vizio.com
@@ -727,6 +729,7 @@ amonetize.com
 amplitude.com
 amptrack.dailymail.co.uk
 ams.creativecdn.com
+am-track.pl
 am-trc-events.taboola.com
 am-trc.taboola.com
 amung.us
@@ -12077,6 +12080,7 @@ api2.amplitude.com
 api2.branch.io
 api.2ip.ua
 api.aa.almamedia.net
+api.airfind.com
 api.amplitude.com
 api-analytics.botovo.cz
 api-analytics.cipofalva.hu
@@ -12111,6 +12115,7 @@ api-analytics.us-west-2.elasticbeanstalk.com
 api-analytics.youscribe.com
 api-apm.instabug.com
 api.appodealx.com
+api.apptentive.com
 api.at.getsocial.io
 api.autoid.com
 api.cetrk.com
@@ -12142,6 +12147,7 @@ api.pxl.dailymotion.com
 api.rest7.com
 api-rest.analytics.nexonm.com
 api.rlcdn.com
+api.segment.io
 api.smartechmetrics.com
 apis.murdoog.com
 api.snapkit.com
@@ -13100,6 +13106,7 @@ bstat.tb.ask.com
 bt1yrqhoonwywnlqx1zocnwk9zsox1507541991.nuid.imrworldwide.com
 b.telus.com
 btf-analytics.s3.amazonaws.com
+btg.mtvnservices.com
 btstatic.com
 btttag.com
 budgetedbauer.com
@@ -13200,12 +13207,15 @@ cdn3.forter.com
 cdn9.forter.com
 cdn.abcotvs.net
 cdn.acsbap.com
+cdn.adsafeprotected.com
+cdn.airfind.com
 cdn.amplitude.com
 cdn-analytics.syndeca.com
 cdn-api.arcpublishing.com
 cdn.appdynamics.com
 cdn.avmws.com
 cdn.b0e8.com
+cdn.bizible.com
 cdn.blisspointmedia.com
 cdn.blueconic.net
 cdn.churnsignal.com
@@ -13243,7 +13253,9 @@ cdn.refersion.com
 cdn.retentionrock.com
 cdn.roiq.ranker.com
 cdn.roiq-vice.ranker.com
+cdn.rollbar.com
 cdn.segment.com
+cdn-settings.segment.com
 cdns.gigya.com
 cdn-sitegainer.com
 cdnsonata.taptapnetworks.com
@@ -13270,8 +13282,13 @@ cem.mbna.co.uk
 census-cn.imrworldwide.com
 census.trendmicro.com
 census.zorinos.com
+central.avsi.symantec.com
+central.b6.crsi.symantec.com
 central-core-7.com
 centralcore7.com
+central.crsi.symantec.com
+central.nrsi.symantec.com
+central.ss.crsi.symantec.com
 certify-js.alexametrics.com
 cert.imrworldwide.com
 cetrk.com
@@ -14408,6 +14425,7 @@ collector.tescocompare.com
 collector.unsplash.com
 collector.valassis.com
 collector.vhx.tv
+collector.viki.io
 collector.xhamster7.com
 collector.zum.com
 collect.state.centrum24.pl
@@ -14437,6 +14455,7 @@ condenastdigital.com
 conductrics.com
 conduit.redfast.com
 confesschairs.com
+config2.mparticle.com
 config.analytics.anvato.net
 config.uca.cloud.unity3d.com
 configuration.ls.apple.com
@@ -15394,6 +15413,7 @@ dent0e111yx6v.cloudfront.net
 dev.analytics.sam4m.com
 dev.email-analytics.admicro.vn
 devfw.imrworldwide.com
+device-api.urbanairship.com
 deviceatlas.com
 deviceid.ff.avast.com
 deviceidshare.twitch.tv
@@ -15475,6 +15495,7 @@ direct-aws-a1.com
 direct-azr-78.com
 director.sn.eamobile.com
 directtrack.com
+directv.demdex.net
 di.rlcdn.com
 discover.desales.edu
 discovery.analytics.zion.idtech.services
@@ -15934,6 +15955,7 @@ events1.avantisvideo.com
 events.apester.com
 events.api.godaddy.com
 events.api.secureserver.net
+events.appsflyer.com
 events.attentivemobile.com
 events.avantisvideo.com
 events.data.microsoft.com
@@ -16190,6 +16212,7 @@ free-counters.co.uk
 freecounters.co.uk
 freecounterstat.ovh
 freegeoip.app
+freegeoip.boldapps.net
 freegeoip.io
 freegeoip.live
 freegeoip.net
@@ -16213,6 +16236,7 @@ fumff33rfrtgys6brtevujfshebrz1513519230.nuid.imrworldwide.com
 furnishings.bellacor.com
 fvl1f.pw
 fw3idt4foyxue6paywcj256yvu0qy1514579661.nuid.imrworldwide.com
+fw.adsafeprotected.com
 fysical.com
 fzlnk.com
 fzofckmbwguarteciq1npieeiss1p1514431012.nuid.imrworldwide.com
@@ -16358,6 +16382,8 @@ geoip.liquidfiles.com
 geoip.littlethings.com
 geoip.livecall.io
 geo.iplocation.com
+geoiplookup.io
+geoiplookup.wikia.com
 geoip.makerbot.com
 geoip.masslive.com
 geoip.mdc.akamaized.net
@@ -16604,6 +16630,7 @@ gripcorn.com
 groundtruth.com
 groups.analytics.smartstream.tv
 growingio.com
+growthy-release-growthywebcollector-80.gcld-line.com
 gsi-one.org
 gs-loc.apple.com
 gs-loc-new.ls-apple.com.akadns.net
@@ -16834,6 +16861,7 @@ icptrack.com
 id.aftenbladet.no
 idealspot.com
 identity.ads.roku.com
+identity.mparticle.com
 ident.me
 idevaffiliate.com
 id.geistm.com
@@ -17454,6 +17482,7 @@ iperceptions.com
 ipfind.co
 ipfind.com
 ip-geo.appspot.com
+ip-geo-lookup.ec.pegs.com
 iphonediags.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
@@ -17670,6 +17699,7 @@ ksn-stat-install.kaspersky-labs.com
 ksn-url-geo.kaspersky-labs.com
 ksn-verdict-geo.kaspersky-labs.com
 ksw6urswrjq2onyqsemgxo1qgzqdy1516398050.nuid.imrworldwide.com
+kvinit-prod.api.kochava.com
 kwanzoo.com
 kzwiovvtllolztrllstmbmk0zmpcr1511325960.nuid.imrworldwide.com
 l2.io
@@ -17737,9 +17767,11 @@ lemnisk.co
 ler1sz0hnyhhov21vcbc6thiqbhcb1507497540.nuid.imrworldwide.com
 lewis.gct.com
 lexip.4pcdn.de
+lg1.logging.admicro.vn
 lg-beacons.xumo.com
 lg-lite-beacons.xumo.com
 lg.nanda.vn
+lg-release-tracking-8080.gcld-line.com
 l.hrzn-nxt.com
 liberty.logs.roku.com
 librato-collector.genius.com
@@ -22715,6 +22747,7 @@ remarketingpixel.com
 remarkety.com
 remember-me-production-web-nginx-tier2.shopifycloud.com
 remerge.io
+remote-data.urbanairship.com
 rem-track.bild.de
 renlearn.com
 rentracks.co.jp
@@ -23523,6 +23556,7 @@ s.blinds.com
 sb.scorecardresearch.com
 s.btstatic.com
 sbvj97zqnob9slrsafimoonuwhfxl1504887820.nuid.imrworldwide.com
+sb.voicefive.com
 sc.adambank.com
 s.cadent.bloomberglaw.com
 sc-analytics.appspot.com
@@ -24102,6 +24136,8 @@ shareaholic.net
 shared.pdffiller.com
 sharethrough.com
 shasta-anti-spam-stats.symantec.com
+shasta-sfg.dis.symantec.com
+shasta-sfg.norton.com
 shaw.analytics.xcal.tv
 s.hdsupplysolutions.com
 sheerid.com
@@ -26883,6 +26919,7 @@ spyhuman.com
 spylog.com
 spymasterpro.com
 sp.zalo.me
+sqm.telemetry.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
 squidanalytics.com
 squid.gazeta.pl
@@ -28894,11 +28931,13 @@ stat.i3.dmm.com
 stat.iamroot.cn
 stat.iastate.edu
 stat.iboat.ch
+static.adsafeprotected.com
 static.analytics.artirix.com
 static-analytics.nativeads.com
 stat.icauno.net
 static.browseranalytic.com
 static.chartbeat.com
+static.cloudflareinsights.com
 static.criteo.net
 stat.icegoo.com
 static.gazeta.pl
@@ -50126,6 +50165,7 @@ tag.be-map.it
 tag.benchplatform.com
 tag.bliink.io
 tag.boulanger.fr
+tag.bounceexchange.com
 tag.brandcdn.com
 tag.cartrawler.com
 tagcommander.com
@@ -50162,11 +50202,13 @@ tags.akohub.com
 tags.bluekai.com
 tags.esri.com
 tags.evolvemediallc.com
+tags.growingio.com
 tag.smdb.jp
 tags.refinery89.com
 tagsrvcs.com
 tag.starsmp.com
 tags.tiqcdn.com
+tags.t.tailtarget.com
 tags.vervemobile.com
 tagtracking.vibescm.com
 tag-us2.loopmertb.com
@@ -50584,6 +50626,7 @@ testvip-jp.imrworldwide.com
 t.felmat.net
 t.flickr.com
 t.goadservices.com
+t.growingio.com
 t.grtyj.com
 tgstat.ru
 tgtag.io
@@ -60123,6 +60166,7 @@ t.webtracker.jp
 twitstat.com
 twitter-count.r7.com
 twitter.tlnk.io
+tw.rightmessage.com
 ty9dudlgabrpob66kigq2byoc5kpu1507558080.nuid.imrworldwide.com
 t.yesware.com
 tynt.com
@@ -60130,6 +60174,7 @@ t.zelboraf.com
 t.ztsrv.com
 u09xlfv3x5qxoj4mwy8bffagx9tpb1505374030.nuid.imrworldwide.com
 u1savre6r0cdfdvoaqwjzno12gthx1507537800.nuid.imrworldwide.com
+u5.investingchannel.com
 u5tj64zlprfxdv9j7ol2fp9cj5xmk1509182322.nuid.imrworldwide.com
 uaas4og6fzfei8rsmyvzcnhh1dsnc1516441602.nuid.imrworldwide.com
 uaid.imrworldwide.com
@@ -60178,12 +60223,15 @@ uncn.jp
 uncommongoods-www.baynote.net
 uni-corn.net
 unid.go.com
+unified.adsafeprotected.com
 unifi-report.ubnt.com
 univide.com
 unwieldyhealth.com
 up0jt4e21jtwmw7a0low02bhpoipr1516217902.nuid.imrworldwide.com
 upalytics.com
 updater.appesteem.com
+upload2.fp.measure.office.com
+upload.fp.measure.office.com
 up.nytimes.com
 up.pixel.ad
 upravel.com
@@ -60319,6 +60367,7 @@ vicedata.com
 vidanalytics.taboola.com
 vida.ontraport.com
 vidcpm.com
+video.adsafeprotected.com
 video-analytics.l.google.com
 videohub.tv
 videostat.com
@@ -60366,6 +60415,7 @@ vkvkn4idx2nhxnqs8mhibycs0kdvn1507014591.nuid.imrworldwide.com
 vl.ff.avast.com
 vmweb.net
 vodlog-tracking7.high-cdn.com
+voicefive.com
 voices-api.themighty.com
 voicestar.com
 volocommerce.com
