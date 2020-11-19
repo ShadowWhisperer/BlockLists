@@ -1,6 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Updated: 11/13/2020  18:56 (6:56 PM CST)
+# Domains: 661
+# Updated: 11/19/2020  16:59 (4:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -80,6 +81,7 @@ fonts.ymcart.com                                        #Font  Specific
 fonts.zumst.com                                         #Font  Specific
 g1.nyt.com                                              #Font  Specific
 gel.files.bbci.co.uk                                    #Font  Specific
+media.tdameritrade.com                                  #Font  Specific
 nimblefonts.nimbledeals.com                             #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 terra-1-g.djicdn.com                                    #Font  Specific
@@ -177,6 +179,7 @@ twitcount.com                                           #Webpages - Social Media
 uptolike.com                                            #Webpages - Social Media
 v1.addthisedge.com                                      #Webpages - Social Media
 w.sharethis.com                                         #Webpages - Social Media
+x.dlx.addthis.com                                       #Webpages - Social Media
 zotabox.com                                             #Webpages - Social Media
 powr.io                                                 #Webpages - Social Media / Other Plugins
 browser-update.org                                      #Webpages - Checks Browser Version
@@ -215,6 +218,7 @@ webcontentassessor.com                                  #Cookie Consent / Contro
 
 chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
+mozilla.cloudflare-dns.com                              #Alt DNS - Cloudflare
 use-application-dns.net                                 #Alt DNS - FireFox (Doh)
 google-public-dns-a.google.com                          #Alt DNS - Google
 google-public-dns-b.google.com                          #Alt DNS - Google

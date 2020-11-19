@@ -1,6 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Updated: 11/13/2020  18:56 (6:56 PM CST)
+# Domains: 464
+# Updated: 11/19/2020  16:59 (4:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -489,6 +490,7 @@ storagetos.datamart.windows.com
 storecatalogrevocation.storequality.microsoft.com
 storesdk.dsx.mp.microsoft.com
 svmstrgprodus.blob.core.windows.net
+telecommandsvc.microsoft.com
 trafficmanager.net
 trafficshaping.dsp.mp.microsoft.com
 trustwave.blob.core.windows.net

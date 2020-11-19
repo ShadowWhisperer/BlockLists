@@ -1,6 +1,7 @@
 #
 #    File: Apple   (Bloat / Push Notifications)
-# Updated: 10/21/2020  17:51 (5:51 PM CST)
+# Domains: 24
+# Updated: 11/19/2020  16:59 (4:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -29,5 +30,8 @@ api-glb-msp.smoot.apple.com               # Spotlight Suggestions
 api-glb-use2b.smoot.apple.com             # Spotlight Suggestions
 api-glb-use2c.smoot.apple.com             # Spotlight Suggestions
 api.smoot.apple.com                       # Spotlight Suggestions
+cdn2.smoot.apple.com                      # Spotlight Suggestions
+cdn.smoot.apple.com                       # Spotlight Suggestions
+daypass.api-glb-chi.smoot.apple.com       # Spotlight Suggestions
 fbs.smoot.apple.com                       # Spotlight Suggestions
 smoot.apple.com                           # Spotlight Suggestions
