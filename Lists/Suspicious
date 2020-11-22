@@ -1,7 +1,7 @@
 #
 #    File: Suspicious   (Found while searching other domains. Contains mixture of uncertain domains)
-# Domains: 5,807
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 5,875
+# Updated: 11/21/2020  21:09 (9:09 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -548,10 +548,12 @@
 9circles.net
 9df4mz2kpm.com
 9lhc3x6whk.com
+a0da4d04aa96e49fdaa2530854154f11-14fdce253d04ea66.elb.us-east-2.amazonaws.com
 a1955.b.akamai.net
 a1-support.com
 a731.dscw10.akamai.net
 a743.gi3.akamai.net
+a759.w10.akamai.net
 a771.dscq.akamai.net
 a8.01cloud.jp
 a802.xn--38jf6c4pa86a1dv833cexrb.com
@@ -1512,6 +1514,8 @@ academy-miloa.com
 accelervte.com
 acceptableserver.com
 acclaimmaxsports.com
+acds.prod.vidible.tv
+acds-uswt1-ext-prod-a-280467477.us-west-1.elb.amazonaws.com
 acetradeoptions.com
 acexedge.com
 acloudimages.com
@@ -1910,6 +1914,7 @@ ahalogy.com
 ahnenforschung.de
 ahstrelgnh.com
 ahtivir.de
+aidc.apple.com
 aidyn.net
 ai.kaishabaikyaku.com
 aiogenerator.com
@@ -2100,6 +2105,8 @@ app.thediseasetracker.com
 apptracker.stream
 apptrialsource.com
 aqjdigkqvmakz.com
+aragornapp-v2-prod-or-lbj.inbake.com
+aragorn-oreg-prod.inbake.com
 arambinaryoptions.com
 archercressois.fr
 archerfeed.com
@@ -2598,6 +2605,7 @@ conversation.api.driftt.com
 conversationdriver.com
 conversio.com
 convtrak.com
+cookie-sync-1380929930.us-east-1.elb.amazonaws.com
 coolbanner9.com
 coole-tattoos.de
 coolfetishsite.com
@@ -2661,6 +2669,24 @@ cryptocompare.com
 cryptofgore.com
 cryptotab.com
 crystalout.surfernetwork.com
+cs1696.wpc.thetacdn.net
+cs1935.wpc.thetacdn.net
+cs413.wpc.alphacdn.net
+cs414.wpc.alphacdn.net
+cs550162656.adn.psicdn.net
+cs629.wpc.lambdacdn.net
+cs670.lb.wpc.apr-1b09e.edgecastdns.net
+cs670.wpc.thetacdn.net
+cs701.lb.wpc.apr-1b09e.edgecastdns.net
+cs704.wpc.thetacdn.net
+cs801177220.wpc.alphacdn.net
+cs815200983.wac.omegacdn.net
+cs815.wac.84914.omegacdn.net
+cs929.wpc.lambdacdn.net
+cs931.wpc.lambdacdn.net
+cs936.wpc.thetacdn.net
+cs964199420.wpc.mucdn.net
+cs964.wpc.9465e.mucdn.net
 csdevgrp.com
 csgocenter.com
 csi.l.google.com
@@ -2803,11 +2829,13 @@ dbpopcon.com
 db.riskwaters.com
 dc147.com
 dc1.networkbench.com
+dc3-user-sync-edge-1819895440.us-east-1.elb.amazonaws.com
 dcincable.com
 dcinside.com
 dckfilms.com
 dcoffer.adbiq.com
 dcp1uutw7eukq.cloudfront.net
+dcs-edge-usw2-620097651.us-west-2.elb.amazonaws.com
 dcs.esprit.fr
 d-drops.com
 d.e0mn.com
@@ -2925,7 +2953,12 @@ dropapk.to
 dropdesign.com.br
 ds1.dvtps.com
 ds2r9mr2r4h38.cloudfront.net
+ds-a.prod.vidible.tv
+ds-pr-bh.ybp.gysm.yahoodns.net
+ds.prod.vidible.tv
 dspx.cdn-solution.net
+ds-uset1-ext-prod-a-1310415597.us-east-1.elb.amazonaws.com
+ds-ycpi-pr-ybp.gysm.yahoodns.net
 dt.gnpge.com
 dtzads.com
 dtzbdy9anri2p.cloudfront.net
@@ -2937,6 +2970,7 @@ durasser.com
 dw7nrwnn2bkh1.cloudfront.net
 dwuzxuvwlq.winticket.jp
 dx.downxia.com
+dxedge-prod-lb-1585771072.us-west-2.elb.amazonaws.com
 dyn.vodafone.de
 dzitech.net
 e12827.dscb.akamaiedge.net
@@ -2969,6 +3003,8 @@ ecp.yusercontent.com
 edatasales.com
 eddenya.com
 edentalsites2.com
+edge2.gycs.b.yahoodns.net
+edge.gycpi.b.yahoodns.net
 edhq.com
 edty.com
 educationconnectors.com
@@ -3053,6 +3089,7 @@ excelonepizza.fr
 exclusivecasinonew.com
 exelate.com
 exlusepolly.com
+experience.sourcesync.io
 exp.eurosptp.com
 explainedpurposes.com
 exporder-patuility.com
@@ -3081,6 +3118,7 @@ fahrschultrainer.com
 faithstevens.com
 fallywood.com
 famads.com
+fam-geo-atsv2.prod.media.g03.yahoodns.net
 fangurubob.com
 fantasme-charnel.fr
 fan.twitch.tv
@@ -3272,6 +3310,7 @@ geller-pa.googleapis.com
 gemius.dk
 generations-vins.fr
 genyhome.com
+geo-atsv2.media.g03.yahoodns.net
 geoauth.google.com
 geode.donkeymob.com
 geo.go2s.co
@@ -3390,6 +3429,7 @@ gxc.google.com.hk
 gxordgtvjr.com
 gynarchie.fr
 gzphoenix.com
+h2.shared.global.fastly.net
 h88v.com
 h88v.net
 h8y9u9b2.ssl.hwcdn.net
@@ -3439,6 +3479,7 @@ higherlogic.com
 hitbigx.com
 hkhotpewfxr.com
 hklivefeed.tv
+hlsrv-uset1-ext-prod-a-1372580175.us-east-1.elb.amazonaws.com
 hochzeitsgedichte.de
 hoodriverpost22.com
 hop.clicktrack.ooo
@@ -3565,6 +3606,7 @@ intress.ee
 intself-boncenced.com
 investment.lianest.co.jp
 investor.google.com
+io-cookie-sync-1725936127.us-east-1.elb.amazonaws.com
 ios-tuner.pandora.com
 iosvpnsecure.com
 iosvpnsecurity.com
@@ -3633,6 +3675,7 @@ jourals-voincial.com
 joy-penguin.com
 jp-axia-pixel.m0mentum.net
 jrocketmassive.cf
+jrtr-oreg-prod.inbake.com
 js1157.yongkang6.com
 js2.verygoodvault.com
 js3492.yongkang6.com
@@ -3733,6 +3776,7 @@ lauraroebuck.com
 lazok.site
 lbiero.it
 l.btstatic.com
+lb-wpc.apr-1a57e.edgecastdns.net
 lcsuited45trk.com
 ldbtav.com
 leaderpub.fr
@@ -3890,6 +3934,7 @@ mashero.com
 maspwmfs.com
 masquescovid.com
 mas-sdk.amazon.com
+match-243508202.us-west-2.elb.amazonaws.com
 mateti.net
 mb104.com
 mbww.com
@@ -3909,6 +3954,7 @@ media.millenniumhotels.com
 mediamonks.com
 media.mybet.com
 media.netpositive.hu
+media-router-aol1.prod.g03.yahoodns.net
 media.wsodcdn.com
 medtecchina.com
 medusa-api.cbsileads.com
@@ -3957,6 +4003,7 @@ mmapiws.com
 mms.sp-stage.net
 mm-syringe.com
 mmuny.com
+m-node-alb-ssl-1211-1770145092.us-west-1.elb.amazonaws.com
 mobcastlead.com
 mobiclean.xyz
 mobilemacmini.wsmeco.com
@@ -4075,6 +4122,7 @@ myxheat.com
 n1ora14.online
 n2e79bn.x.incapdns.net
 n2.shared.global.fastly.net
+nado-ecs-lb-us-west-1-233928718.us-west-1.elb.amazonaws.com
 n.adxxx.me
 naimselmonaj.com
 nakedlime.com
@@ -4125,6 +4173,7 @@ newtopsites.com
 nextextlink.com
 nextopiasoftware-com-alb-1573797909.us-east-1.elb.amazonaws.com
 ng2.virgul.com
+nginx-uswt1-ext-prod-a-1411630665.us-west-1.elb.amazonaws.com
 nguooqblyjrz.com
 niagaracapital.com
 nimimit.de
@@ -4172,6 +4221,7 @@ nwwuhiukrq.com
 nxy.in
 nypost-com.videoplayerhub.com
 o0bc.com
+oao-js-tag.one-mobile-prod.aws.oath.cloud
 oaqjwapqdho.com
 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
 obesity-treatment.net
@@ -4211,6 +4261,7 @@ oms.citynews1130.com
 omstarfabricators.com
 onclickclear.com
 onead.onevision.com.tw
+onedrive.su
 onenext-live.prod.audience.acpm.fr
 onestepfaster.com
 onevision.com.tw
@@ -4493,9 +4544,13 @@ prod.glunies.com
 prodify.org
 prod.perf-serving.com
 prodrivers.ie
+prod-rotation-v2.guce.aws.oath.cloud
 productideas.appspot.com
 prod.ugdturner.com
 produkt-fuchs.com
+prod.ups-ats.aolp-ds-prd.aws.oath.cloud
+prod.ups-ats.us-west-1.aolp-ds-prd.aws.oath.cloud
+prod.ups-us-west-1.aolp-ds-prd.aws.oath.cloud
 profiles.google.com
 profitsitesbiz.com
 profreg.medscape.com
@@ -4604,6 +4659,7 @@ ratexchange.net
 ratingtoplist.com
 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
 rc.dxsvr.com
+rd.clk.thribee.com
 rdrtr.com
 re2ce.com
 reader.google.com
@@ -4611,6 +4667,7 @@ realdating-spot.com
 realfet.com
 realflirtdating11.com
 realmusicnow.com
+real.rotation.guce.aws.oath.cloud
 realtimeads.com
 rebeccarils.com
 recipeally.com
@@ -4687,6 +4744,7 @@ rog-live-service.asus.com
 romantic-lyrics.com
 rootdownloads.com
 rotatemyurls.com
+rotator-prod-or-lb.inbake.com
 routenplaner-server.com
 rover-host.com
 rro-ads.com
@@ -4851,6 +4909,7 @@ serversupport24x7.com
 service.giosg.com
 services.answerscloud.com
 services.gfe.nvidia.com
+service.sp-ats.aolp-ds-prd.aws.oath.cloud
 servicesupport.hicloud.com
 service.weben1.com
 servmill.com
@@ -4871,6 +4930,7 @@ sgflp.com
 sgi.offerscdn.net
 sgp389.com
 sg.tdm.qq.com
+s.gycs.b.yahoodns.net
 shakingclicks.com
 shakpotoke.com
 shalltry.com
@@ -4939,7 +4999,9 @@ smsfreek.com
 snapchat-commerce-public-readable.storage.googleapis.com
 snapchat-proxy.appspot.com
 snaplytics.io
+snapshot.carfax.com
 sni.mashero.com
+snip.ly
 snooply.com
 sntivir.de
 soap2day.to
@@ -4970,6 +5032,7 @@ souljah.com
 sourcade.es
 spacecodec.com
 spcdn.org
+spcms-global.pbp.gysm.yahoodns.net
 spicytalks.com
 spidersearch.com
 split.io
@@ -5016,6 +5079,7 @@ sslpxc.futurecdn.net.c.footprint.net
 ssl.sinergycosmetics.com
 sso.internetat.tv
 ssp3.ilawa.pl
+ssp-ats-prod-us-west-1.one-mobile-prod.aws.oath.cloud
 ss.xxxmyself.com
 stackpathcdn.com
 st.adxxx.me
@@ -5124,6 +5188,7 @@ syrields-trangola.com
 sysfileff.com
 system-restore.com
 t1.daumcdn.net
+t2-2.p-cdn.us
 t2ualmnw.com
 t6g.futurizm.jp
 t.6sc.co
@@ -5412,6 +5477,7 @@ ubertrk.com
 ubiservices.data.ubi.com
 ubnt.i.lithium.com
 uc123.com
+udc-ats.media.g03.yahoodns.net
 ueopf.com
 ueuodgnrhb.com
 ufasoft.com
@@ -5485,6 +5551,7 @@ v2.goldenwestads.com
 v2-publidash-api.voodoo.io
 v2.urlads.net
 v3.cache1.c.docs.google.com
+v4-edge.gycpi.b.yahoodns.net
 vacaneedasap.com
 valid2click.com
 valuedopinions.co.uk
@@ -5643,6 +5710,7 @@ whegadry.com
 whiteworldtech.com
 whittierblvd.com
 whm.rittcirhicene.com
+whois.ws
 whservidor.com
 widget.api.convrse.media
 widget-api-retail.convrse.media
