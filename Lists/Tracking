@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 61,397
-# Updated: 11/21/2020  21:09 (9:09 PM CST)
+# Domains: 61,419
+# Updated: 11/22/2020  19:39 (7:39 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -732,6 +732,7 @@ a.mibank.com
 amidt.adsafeprotected.com
 a.mobify.com
 amonetize.com
+ampcid.google.com
 amplitude.com
 amptrack.dailymail.co.uk
 ams.creativecdn.com
@@ -4562,6 +4563,7 @@ analytics.for-businesses.com
 analytics-for-confluence-cloud.addonengine.com
 analytics.fordguestexperience.com
 analytics.forenaenergy.gr
+analytics.foresee.com
 analytics.forestmedia.co.uk
 analytics.foretellreality.com
 analytics.forexblogs.net
@@ -12156,6 +12158,7 @@ api.mixpanel.com
 api.opsone.ch
 api.peers.tv
 api.pxl.dailymotion.com
+api.qubit.com
 api.rest7.com
 api-rest.analytics.nexonm.com
 api.rlcdn.com
@@ -12315,7 +12318,10 @@ atrack.avplayer.com
 a.tribalfusion.com
 atsfi.de
 ats.rlcdn.com
+att-app.quantummetric.com
 attorney.findlaw.com
+attservicesinc.tt.omtrdc.net
+att-sync.quantummetric.com
 a.tuifly.com
 a.twcable.com
 a.twcbc.com
@@ -12436,6 +12442,7 @@ beacon.1viewinsights.com
 beacon.2c-studio.com
 beacon.3buxadvantage.com
 beacon.3cx.us
+beacon46-sjc2.rubiconproject.com
 beacon.51talk.com
 beacon.9165619.com
 beacon.acaya-roca.smartduc.it
@@ -13085,6 +13092,7 @@ bouncex.net
 bpeg32wpctpb4agvb9adhm5ao1meq1516331260.nuid.imrworldwide.com
 bpsddnqweurmymypr9pamba1onnbh1508212791.nuid.imrworldwide.com
 b.publicmobile.ca
+brain.foresee.com
 branch.io
 brandlock.io
 brandmetrics.com
@@ -13277,6 +13285,7 @@ cdn.pdst.fm
 cdn.polyfill.io
 cdn.pricespider.com
 cdn.proof-x.com
+cdn.quantummetric.com
 cdn.ravenjs.com
 cdn.refersion.com
 cdn.retentionrock.com
@@ -13323,6 +13332,7 @@ central.ss.crsi.symantec.com
 certify-js.alexametrics.com
 cert.imrworldwide.com
 cetrk.com
+c.eu1.dyntrk.com
 c.evidon.com
 cf7f797e-ae82-4c7b-ac59-7e2ad0d08610.nuid.imrworldwide.com
 cfhchqayl8x7tfdx6otx4hqpm0p9s1516680285.nuid.imrworldwide.com
@@ -15171,6 +15181,7 @@ cssubmissions.apple.com
 cssubmissions-uat.corp.apple.com
 cstat.apple.com
 c.statcounter.com
+cst.innogames.de
 cstream.wi-fi.ru
 csv.loopme.me
 csync.loopme.me
@@ -15225,6 +15236,7 @@ d11e618678w89x.cloudfront.net
 d1aqhv4sn5kxtx.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1.dhgate.com
+d1fc8wv8zag5ca.cloudfront.net
 d1ffafozi03i4l.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
 d1hc14f07g70ck.cloudfront.net
@@ -15852,6 +15864,7 @@ ecn-analytics-nssl.emc.com
 ecomm.events
 econda-monitor.de
 econ.trib.al
+e.crashlytics.com
 ecustomeropinions.com
 e.cybertrader.com
 ed1w1gbcjxjteeae97mzhph5vr3jv1509531031.nuid.imrworldwide.com
@@ -16970,6 +16983,7 @@ hits.puls.lv
 hits-secure.guardian.co.uk
 hits.truehits.in.th
 hittail.com
+hit.uptrendsdata.com
 hitwebcounter.com
 h.iwin.com
 hk-cm.ysm.yahoo.com
@@ -19334,6 +19348,7 @@ matomo.vivancos.eu
 matomo.warburg.de
 matomo.workaround.org
 matrix.hbo.com
+mavenaudiences.com
 mavic852.com
 mawlaybob.com
 maxmind.com
@@ -21720,6 +21735,7 @@ p.ad.gt
 p.ads.roku.com
 pagecount.com
 page-events-ustats.udemy.com
+pages-stats.rbl.ms
 pagetracking.popmarker.com
 p.alocdn.com
 p.analytics.orbee.co
@@ -21768,6 +21784,7 @@ perimeterx.net
 permissionresearch.com
 perr.h-cdn.com
 personalization.bloomberg.com
+personalization.tombras.com
 petametrics.com
 pf.intuit.com
 pf.newegg.com
@@ -22363,6 +22380,7 @@ pixel.max-capital.net
 pixel.maxisdmstart.com.my
 pixel.mcclatchyinteractive.com
 pixel.mdgmedia.es
+pixel.mediaiqdigital.com
 pixel.meetlily.net
 pixel.memoriesdust.com
 pixel.meomart.com
@@ -50491,6 +50509,7 @@ tags-cdn.clarivoy.com
 tags.esri.com
 tags.evolvemediallc.com
 tags.growingio.com
+tags.mathtag.com
 tag.smdb.jp
 tags.refinery89.com
 tagsrvcs.com
@@ -50975,6 +50994,7 @@ tns-ua.com
 toggl.com
 toifeeds.indiatimes.com
 token.boh.com
+tombras.com
 topaz-analytics.com
 top-fwz1.mail.ru
 torch.business.com
@@ -51063,6 +51083,7 @@ track.accountingnewswatch.com
 track.across.it
 track.activ8.website
 track.activefleets.com
+track.activemetering.com
 track.acupath.ca
 track.ad20.net
 track.ad371.com
@@ -60580,6 +60601,7 @@ userreplay.net
 userreport.com
 usersegment.wpdigital.net
 usersonlinecounter.com
+user-stats.rbl.ms
 userstats.xboxlive.com
 usersurge.com
 usersvc.shutterfly.com
