@@ -1,7 +1,7 @@
 #
 #    File: Chat   (Live / Bot Chat Dialog Boxes)
-# Domains: 179
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 193
+# Updated: 11/24/2020  00:31 (12:31 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16,8 +16,11 @@
 accdn.lpsnmedia.livepersonk.akadns.net
 accdn.lpsnmedia.net
 app.qualified.com
+bot.ebilobster.ai
 client.crisp.chat
 crisp.chat
+crisp.im
+ebbot.app
 inthechat.com
 js.qualified.com
 liveperson.com
@@ -58,6 +61,7 @@ conversiobot.com
 conversio-bot-media.s3.amazonaws.com
 coreliscare-com.mb.softbank.jp
 drift.com
+dtbot.directtalk.com.br
 freshbots.ai
 inbenta.io
 intercom.com
@@ -94,13 +98,16 @@ api.chatlio.com
 api.livechatinc.com
 api.olark.com
 app.purechat.com
+assetscdn-wchat.freshchat.com
 avochato.com
 bespokechat.com
 bigcommerce.livechatinc.com
 bold360.com
 call.chatra.io
+cbo-loader.gubagoo.io
 cdn1.thelivechatsoftware.com
 cdn.bespokechat.com
+cdn.gubagoo.io
 cdn.livechatinc.com
 cdn.reamaze.com
 cdn-us-east.velaro.com
@@ -128,8 +135,11 @@ engagetosell.com
 engage.wixapps.net
 freshchat.com
 go.activengage.com
+gubagoo.io
 happyfoxchat.com
 helpscout.net
+imbox.io
+imbox.se
 interacton4.infomedia.co.id
 internal-proxy.tidio.co
 iowadepartment.nanorep.co
@@ -139,6 +149,7 @@ jsonp.contactatonce.com
 lithium.facebook.com
 live2support.com
 livechatinc.com
+livechat.messagebird.com
 live-chat-static.sprinklr.com
 livezilla.net
 messengerview.1talking.net
@@ -147,6 +158,7 @@ my.reachlocallivechat.com
 nanorep.co
 nanorep.com
 ngagelive.com
+node.gubagoo.io
 oggchat2.icoa.com
 olark.com
 prod2-live-chat-mqtt.sprinklr.com
@@ -184,6 +196,8 @@ wchat.au.freshchat.com
 wchat.freshchat.com
 w.chatlio.com
 wchat.us2.freshchat.com
+widget.imbox.io
+widget-launcher.imbox.io
 
 
 #  Other
