@@ -3,10 +3,10 @@
     Apple            Bloat
     Bitcoin          Bitcoin domains (Not directly malware)
     Bloat            Fonts, Surveys, Domains not required for software to function  
-    Chat             Live / Bot chat dialog boxes  
+    Chat             Chat Dialog Popups  
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
-    Free             Free/Cheap Hosting & Blogs  
+    Free             Free/Cheap Hosting, Blogs  
     Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Marketing, Ebay Listing Tools, etc  
