@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 61,947
-# Updated: 11/24/2020  18:08 (6:08 PM CST)
+# Domains: 61,992
+# Updated: 11/25/2020  15:35 (3:35 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -39,6 +39,7 @@
 13-ssl.ls.apple.com
 14-ssl.ls.apple.com
 15ae475e-f469-48dc-b127-16bd18c27e12.nuid.imrworldwide.com
+15gifts.com
 15-ssl.ls.apple.com
 16-ssl.ls.apple.com
 17-ssl.ls.apple.com
@@ -140,6 +141,7 @@
 3rucjprfifyzsofni6ap4insjzkuz1508205232.nuid.imrworldwide.com
 3-ssl.ls.apple.com
 3s.sreanalyze.com
+40nuggets.com
 40-ssl.ls.apple.com
 41-ssl.ls.apple.com
 42-ssl.ls.apple.com
@@ -272,6 +274,7 @@ a.24hourfitness.com
 a314.gameloft.com
 a37c7687-5fbc-42f7-a945-7bf12dc358a1.nuid.imrworldwide.com
 a42.mysonicwall.com
+a4p.adpartner.pro
 a6mvdktra9bwgytjndjglgpl4zgaa1507557101.nuid.imrworldwide.com
 a8jvqnwwlwybygcwpbwdlofage2tl1510353070.nuid.imrworldwide.com
 a.aaamidatlantic.com
@@ -323,6 +326,7 @@ aarki.com
 aas.bellemaison.jp
 aas.ismet.kz
 aas.visitsaudi.com
+aatrk.com
 aa.trkn.us
 aa.tv.com
 a.autoexpress.co.uk
@@ -484,6 +488,7 @@ adgile.media
 adgreed.com
 adgrx.com
 adinsight.eu
+adinton.com
 a.directtv.com
 a.directv.com
 adj.st
@@ -534,6 +539,7 @@ adomic.com
 adomik.com
 adomik.net
 adomik.org
+adpatrof.com
 a.dpmsrv.com
 adpredictive.com
 adpredictive.io
@@ -680,6 +686,7 @@ aidata.io
 aimatch.com
 a.imgvc.com
 a.independent.co.uk
+aiproxies.com
 airbrake.io
 airfind.com
 airpr.com
@@ -12213,6 +12220,7 @@ apac.tracking.emerse.com
 a.pcpro.co.uk
 a.pcrichard.com
 a.peoplepc.com
+apextag.com
 api2.amplitude.com
 api2.branch.io
 api.2ip.ua
@@ -12259,6 +12267,7 @@ api.autoid.com
 api.cetrk.com
 api.churnsignal.com
 api.circularhub.com
+api.civey.com
 api.cleantalk.org
 api.clientseoreport.com
 api.datasteam.io
@@ -12325,6 +12334,7 @@ appannie.com
 app.appsflyer.com
 appcelerator.com
 appcelerator.net
+app.civey.com
 appdynamics.com
 app.factors.ai
 app.fera.ai
@@ -12414,10 +12424,12 @@ asrrgtkhh4scjlql287g4nrsurlmt1507010631.nuid.imrworldwide.com
 assets.adobedtm.com
 assets.a-mo.net
 assets.bounceexchange.com
+assetscdn.stackla.com
 assets.geo.de
 assets.giocdn.com
 assets.nationalgeographic.com
 assets.video.yahoo.net
+assets.wogaa.sg
 associationanalytics.com
 as.stylebook.de
 a.standardandpoors.com
@@ -12428,7 +12440,6 @@ a.svenskfast.se
 as.welt.de
 a.tactics.com
 atatus.com
-at.atwola.com
 at.cbsi.com
 atdmt.com
 a.telus.com
@@ -12536,6 +12547,7 @@ b92.yahoo.co.jp
 b9.yahoo.co.jp
 babbfd13-01a1-4924-9302-649c2420d91e-panelresearch.googlevideo.com
 backtrace.io
+badgerstat.com
 badgeville.com
 bae5tracker.com
 b.aecf.org
@@ -12545,6 +12557,7 @@ bam.nr-data.net
 banners.analytics.organicfruitapps.com
 bannertrack.net
 baremetrics.com
+barilliance.com
 barra.iol.pt
 barranew.iol.pt
 bart.kcls.org
@@ -13141,6 +13154,7 @@ beeketing.com
 beemray.com
 beer2s.millerbrewing.com
 belladati.com
+bellmetric.net
 benidoranon.com
 berg-6-82.com
 b.escardio.org
@@ -13191,11 +13205,13 @@ bloomreach.com
 blpb4wu1mxkehlxuwglp8mzch3cxr1509455380.nuid.imrworldwide.com
 bluecava.com
 blueconic.net
+bluedme.com
 bluekai.com
 blueknow.com
 b.marketbase.co.uk
 b.medtronic.com
 bmetrack.com
+bmetric.com
 bnc.lt
 bnlocfppqzhyu1rj3riqh1ieppayn1511352312.nuid.imrworldwide.com
 bn.pixel.moatads.com
@@ -13204,6 +13220,7 @@ bob.dmpxs.com
 boincstats.com
 bombora.com
 bomlgiceujmxk9xrq0ao0rdxrcmfe1507564000.nuid.imrworldwide.com
+bonialconnect.com
 books-analytics-events.apple.com
 books-analytics-events.news.apple-dns.net
 boomerang.dell.com
@@ -13556,6 +13573,7 @@ ciradar.com
 circularhub.com
 circulate.com
 c.it.msn.com
+civey.com
 civicscience.com
 cjs.ptengine.com
 ckdgarn74zwmggwkiv0cnf5lesj2h1516338190.nuid.imrworldwide.com
@@ -14670,6 +14688,7 @@ contentsquare.net
 context.bestbuy.com
 contxtful.com
 conversionlogic.net
+conversionruler.com
 convertcart.com
 convert.com
 convertexperiments.com
@@ -15406,6 +15425,7 @@ d1usx49nhcilp7.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d1wbpdtjl5.execute-api.us-east-1.amazonaws.com
+d1x7eqknlm4fkm.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
 d22d1xpx4ztuef.cloudfront.net
@@ -15421,6 +15441,7 @@ d2p9l91d5g68ru.cloudfront.net
 d2ragrgodzj6m2.cloudfront.net
 d2wlwbnaa4keje.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
+d2y8psjfi06mva.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
@@ -15918,6 +15939,7 @@ ds-aksb-a.akamaihd.net
 dsms0mj1bbhn4.cloudfront.net
 dsp.adkernel.com
 dsp.io
+dsp-media.eskimi.com
 dsppixel.pinbn.net
 dss.platform.californiatimes.com
 dstats.zotabox.com
@@ -16129,6 +16151,7 @@ eproof.com
 epsihost.com
 epsilon.com
 eq2l5q1jlcbdilvkzj6gyi7aovcwz1509908590.nuid.imrworldwide.com
+eqy.link
 erqs5g8dlyzcadgo2npswsgqegsxo1516693827.nuid.imrworldwide.com
 err.joinhoney.com
 error-collector.ted.com
@@ -16361,6 +16384,7 @@ fem.femara.com
 femxntjytqioo9rx8u7g7ad5fbiw41508678560.nuid.imrworldwide.com
 fengkongcloud.com
 fe-no.imrworldwide.com
+fertilizeranaemiaupcoming.com
 fervortracer.com
 fese4quxrhn25rm67juy6bzrrtlsz1508210931.nuid.imrworldwide.com
 fezh9eejsk0ajb34iixwdd8heewis1516662374.nuid.imrworldwide.com
@@ -16679,6 +16703,7 @@ geoip.youversionapi.com
 geoip.z-dn.net
 geoip.zendapps.in
 geojs.io
+geoloc.3dvista.com
 geoloc.9cd47096ab1495d8d3b18667f6a52b9c.com
 geoloc.api.taxi
 geoloc.arte.tv
@@ -16737,6 +16762,7 @@ get-myip.com
 getmyip.win
 getsentry.com
 getsidekick.com
+get.smart-data-systems.com
 getsocial.io
 get.xxxl.jentis.com
 gexperiments1.com
@@ -16758,6 +16784,7 @@ g.jwpsrv.com
 glassboxdigital.com
 glassboxdigital.io
 gle.gleevec.com
+gl.hostcg.com
 glimr.io
 global.px.quantserve.com
 globalstats.ekmsecure.com
@@ -17054,6 +17081,7 @@ gsp9-ssl.apple.com
 gsp9-ssl.ls.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
 gspe19-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
 gspe85-ssl.ls.apple.com
 gsp-ssl-commute.ls.apple.com
@@ -17954,6 +17982,7 @@ i.t.net.ar
 ito2tuxvfwjhjv4bgmsk0t5lwb1xc1508203721.nuid.imrworldwide.com
 itracker360.com
 itspsmup.com
+i.tw.cx
 ivitrack.com
 ivnytx9tq2knro7stjdg6qpayw1mi1511341850.nuid.imrworldwide.com
 ivwbox.de
@@ -18002,6 +18031,7 @@ jrqtuk0iravokplxvapb35nnqeo711510243181.nuid.imrworldwide.com
 js.ad-score.com
 js-agent.newrelic.com
 js.analytics.smartstream.tv
+js.chilipiper.com
 js.dhresource.com
 js.driftt.com
 js.genieessp.com
@@ -18187,6 +18217,7 @@ leadspace.com
 leadsrx.com
 leancoding.co
 leapfaucet.com
+leftoverdense.com
 lemnisk.co
 ler1sz0hnyhhov21vcbc6thiqbhcb1507497540.nuid.imrworldwide.com
 lewis.gct.com
@@ -21088,6 +21119,7 @@ monsido.com
 monsterinsights.com
 mon.tiktokv.com
 monu.delivery
+mon-va.byteoversea.com
 mookie1.com
 moornetworks.trade
 moornetworks.watch
@@ -21609,6 +21641,7 @@ openstat.org
 openstat.ru
 opentrack.org
 openwebanalytics.com
+open.woodpeckerlog.com
 ophan.co.uk
 ophan.theguardian.com
 oppo.analytics.glance.inmobi.com
@@ -21616,7 +21649,6 @@ opr-activity.vskit.tv
 opsanalytics.ch
 opsone-analytics.ch
 opsone.ch
-opta.net
 optassets.ontraport.com
 opticalanalytics.io
 optilead.co.uk
@@ -22048,6 +22080,7 @@ pi-stats.com
 pit-835.bpsecure.com
 piwik.accessintel.com
 piwik.acdesignfrance.com
+piwik.advantic.de
 piwik.affolter.net
 piwik.alexnogard.com
 piwikanalytics.win
@@ -27155,6 +27188,7 @@ snippets-stats.zlb.phx.mozilla.net
 snoobi.eu
 snowplowanalytics.com
 snowplow-pixel.tradingview.com
+snowplow-web.wogaa.sg
 snplow.net
 snrcdn.net
 snta0034.com
@@ -27413,6 +27447,7 @@ spideraf.com
 sp.infinigrow.com
 s.pixanalytics.com
 s.pixsrvcs.com
+splittingpick.com
 splkmobile.com
 splunk.com
 spl.zeotap.com
@@ -51494,6 +51529,7 @@ thirstylettuce.com
 thisisacoolthing.com
 thisisanothercoolthing.com
 thisisbeacon.com
+t.home.news.cn
 thousandeyes.com
 thrivetracker.com
 thrtle.com
@@ -51515,6 +51551,7 @@ tk.cetrk.com
 t.kctag.net
 tklio.com
 tklnk.com
+t.ktxtr.com
 tl3drc0w7o6e1mcucfpcy9eu98dls1504919102.nuid.imrworldwide.com
 tl813.com
 t.leadmanagerfx.com
@@ -53293,6 +53330,7 @@ tracker.ru
 tracker.ruangguru.com
 tracker.rubyseven.com
 tracker.rutor.info
+tracker.samplicio.us
 tracker.sandrotracker.biz
 tracker.satu.kz
 tracker.scao.it
@@ -54763,6 +54801,7 @@ tracking.chestnut-villas.co.uk
 tracking.chewy.com
 tracking.chicagowebfactory.com
 tracking.childcarefunders.co.nz
+tracking.chilipiper.com
 tracking.chillyhilversum.be
 tracking.chinaexpressbd.com
 tracking.chi-nei-tsang-switzerland.ch
@@ -58449,6 +58488,7 @@ track.laniere.eu
 track.lan-newsletter.fr
 track.lapa.pub
 track.laredoute.fr
+trackla.stackla.com
 track.latinasex.com
 track.latinatranny.com
 track.latizna.com
@@ -61055,6 +61095,7 @@ unacast.com
 unagi.amazon.com
 uncn.jp
 uncommongoods-www.baynote.net
+unibots.warw.in
 uni-corn.net
 unid.go.com
 unified.adsafeprotected.com
@@ -61193,6 +61234,7 @@ ve1li5fzs0ob2rychfgwcrotcypw71516220932.nuid.imrworldwide.com
 vendorlist.consensu.org
 vendorweb.citibank.com
 vercel-analytics.com
+verification-va.byteoversea.com
 verifyclicksolutions.com
 vermiip.es
 verticalscope.com
@@ -61680,6 +61722,7 @@ who.nie.netease.com
 whqgwxguhmrewadyiamtrcf7kgebm1516221467.nuid.imrworldwide.com
 widengle.com
 widerplanet.com
+widget.civey.com
 widget.intercom.io
 widget-pixels.outbrain.com
 widget.zoorate.com
@@ -61696,8 +61739,10 @@ wm.intuit.com
 wm.prd.borderfree.com
 wm.sybase.com
 woekn27ihsjesg0ha8wtaqqkzpdru1514571050.nuid.imrworldwide.com
+wogaa.sg
 wolfgang.sonata.taptapnetworks.com
 wolf.imrworldwide.com
+woodpeckerlog.com
 woopra.com
 wootric.com
 worldgravity.com
