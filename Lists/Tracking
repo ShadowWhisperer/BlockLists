@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 61,925
-# Updated: 11/24/2020  00:31 (12:31 AM CST)
+# Domains: 61,947
+# Updated: 11/24/2020  18:08 (6:08 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -537,6 +537,7 @@ adomik.org
 a.dpmsrv.com
 adpredictive.com
 adpredictive.io
+adpxl.co
 adquality.ch
 adrcdn.com
 adri01.imrworldwide.com
@@ -12327,6 +12328,7 @@ appcelerator.net
 appdynamics.com
 app.factors.ai
 app.fera.ai
+app.leadberry.com
 appleconnect-uat.apple.com
 appleseed.apple.com
 appleseed-stage.apple.com
@@ -12361,6 +12363,7 @@ app.trustanalytica.com
 apptv.com
 app.usercentrics.eu
 app.usesfathom.com
+appvizer.one
 app.wecantrack.com
 appzi.io
 apsalar.com
@@ -13256,7 +13259,6 @@ brucelead.com
 b.rwjf.org
 b.scorecardresearch.com
 bsec.rwjf.org
-b.sharethrough.com
 bshzcwbh.klarnaservices.com
 b.simonandschuster.com
 b.sli-spark.com
@@ -13428,6 +13430,7 @@ cdn.proof-x.com
 cdn.quantummetric.com
 cdn.ravenjs.com
 cdn.refersion.com
+cdn.resonate.com
 cdn.retentionrock.com
 cdn.roiq.ranker.com
 cdn.roiq-vice.ranker.com
@@ -15515,6 +15518,7 @@ dd6zx4ibq538k.cloudfront.net
 ddacn6pr5v0tl.cloudfront.net
 ddlnk.net
 ddmanalytics.elasticbeanstalk.com
+ddpdnsirsodw8.cloudfront.net
 d.dropbox.com
 de01-au.imrworldwide.com
 de01-cn.imrworldwide.com
@@ -16394,6 +16398,7 @@ fivetran.com
 fixelpixel.net
 fk-tk.mobpowertech.com
 fl9zfcozwackq1yn0rvk2ncekhf1q1516218429.nuid.imrworldwide.com
+fl.adpxl.co
 flagcounter.com
 flare-analytics.com
 flexispy.com
@@ -16874,6 +16879,7 @@ grid.bidswitch.net
 grid-cdn.pdc.bidswitch.net
 gripcorn.com
 groundtruth.com
+group-ib.ru
 groups.analytics.smartstream.tv
 growingio.com
 growsurf.com
@@ -18097,6 +18103,7 @@ kq6dpekg1qudtxopifer33k4bnspc1509427312.nuid.imrworldwide.com
 kqbnpg6fgaancx1upbmkdibfxsouk1509503422.nuid.imrworldwide.com
 kqqujyoliqjueahxhggsww3j58bay1516626667.nuid.imrworldwide.com
 kqzamd.com
+kraken.rambler.ru
 krxd.net
 ksani9qxunzf00s8bt88imriv0duz1509920122.nuid.imrworldwide.com
 ksmobile.com
@@ -18166,6 +18173,7 @@ ldb-jp.imrworldwide.com
 ldrtrack.com
 ldwicedqfb9ds2i3ujfqwr8rkm0ta1514984331.nuid.imrworldwide.com
 lead-analytics.biz
+leadberry.com
 leadboxer.com
 leadexpress.nl
 leadfeeder.com
@@ -19410,6 +19418,7 @@ ls.chatid.com
 lt02.net
 luckyorange.com
 luckyorange.net
+lumberjack.razorpay.com
 lum-sdk.io
 luzern.web-analytics.ch
 lwc.livingwithcml.com
@@ -19471,7 +19480,6 @@ master.ulv.statistics.aatkit.com
 match.deepintent.com
 matchid.adfox.yandex.ru
 match.prod.bidr.io
-match.sharethrough.com
 matheranalytics.com
 mathtag.com
 matomo.101010.pl
@@ -21219,7 +21227,6 @@ narratiive.com
 narrative.io
 narvar.com
 native.ai
-native.sharethrough.com
 nats.xing.com
 navdmp.com
 navegg.com
@@ -22951,6 +22958,7 @@ placecast.net
 placed.com
 placeiq.com
 placer.io
+placidperson.com
 platform.cloud.coveo.com
 platform.linkedin.com
 player.stats.live-video.net
@@ -22964,6 +22972,7 @@ p.marktplaats.net
 pmd205470tn-a.akamaihd.net
 pnhddmvzsru1snvjgfoedvqi45ghq1516348531.nuid.imrworldwide.com
 pnstat.com
+pntheon.com
 pocitadlolibise.seznam.cz
 podfdch.com
 pokdfopk.cmail20.com
@@ -23051,6 +23060,7 @@ proxsee.io
 prx.wayfair.com
 ps.eyeota.net
 pshtrk.com
+p.smartertravel.com
 psoc-pixel.ebay.com
 psoc-pixel.g.ebay.com
 pstmrk.it
@@ -23604,6 +23614,7 @@ rmrinivmnm0lrzahy2p8p5si3adlp1507020422.nuid.imrworldwide.com
 r.msn.com
 rmtag.com
 rmteswqb7n2wliy37kxguyfjboecj1509924101.nuid.imrworldwide.com
+rmulus.com
 rnengage.com
 roat6ngixmjsiodmmzxvewsrqsuhu1508211022.nuid.imrworldwide.com
 rocketadserver.com
@@ -24141,6 +24152,7 @@ sdc.bawag.com
 sdc.firststatesuper.com.au
 sdcs.felissimo.co.jp
 s.delfi.ee
+sdiapi.com
 sdk-analytics.inlocoengage.com
 sdk-analytics.inlocomedia.com
 sdk.appadhoc.com
@@ -24631,7 +24643,6 @@ shanghai.imrworldwide.com
 shareaholic.com
 shareaholic.net
 shared.pdffiller.com
-sharethrough.com
 shasta-anti-spam-stats.symantec.com
 shasta-sfg.dis.symantec.com
 shasta-sfg.norton.com
@@ -24640,11 +24651,13 @@ s.hdsupplysolutions.com
 sheerid.com
 sheerid.net
 shellprod.msocdn.com
+sherpath.com
 shield.sitelock.com
 shmyip.com
 shopify.kount.net
 shopify.kount.net.cdn.cloudflare.net
 shopify.privy.com
+shopimind.com
 shoppertrak.com
 shops.lids.ca
 showip.net
@@ -27379,6 +27392,7 @@ sosc.hrs.com
 sosc.hrs.de
 so.swisscom.ch
 so.toptable.co.uk
+sourcedefense.com
 source-experience.myciright.com
 sourceknowledge.com
 sourcepoint.vice.com
@@ -27394,6 +27408,8 @@ specialscissors.com
 specificclick.net
 speedcurve.com
 speedtracer.apple.com
+spider.af
+spideraf.com
 sp.infinigrow.com
 s.pixanalytics.com
 s.pixsrvcs.com
@@ -27412,6 +27428,7 @@ spring-tns.net
 sprinkletxt.com
 sprinklr.com
 spscas.hitachi-solutions.co.jp
+sp-trk.com
 s.publicoid.com
 s.publico.pt
 s.pubmine.com
@@ -27793,6 +27810,7 @@ ssmr.so-net.ne.jp
 ss.musthird.com
 ss-omtrdc.net
 ssor.platform.californiatimes.com
+s.srvsynd.com
 sstat.3pagen.at
 sstat.3pagen.de
 sstat.detelefoongids.nl
@@ -50708,6 +50726,7 @@ stt.dell.com
 st.teamshirts.de
 st.telusmobility.com
 stt.nvidia.com
+st.top100.ru
 stubhub.com.ssl.d2.sc.omtrdc.net
 studioanalytics.adform.com
 stun.l.google.com
@@ -51036,6 +51055,7 @@ tail.digital
 tailsweep.com
 tailtarget.com
 talkingdata.net
+tamgrt.com
 tamoco.com
 t-analytics.com
 tapad.com
@@ -61185,7 +61205,9 @@ vgjofnjmrqx5kbzoixvnbsobgreof1505442050.nuid.imrworldwide.com
 vgrtq7rjwrel6a8bsah1uqiqazot11509509341.nuid.imrworldwide.com
 vhfconfig.cmail20.com
 viacom.trc.taboola.com
+vice01.sourcedefense.com
 vicedata.com
+vice-prod.sdiapi.com
 vidanalytics.taboola.com
 vida.ontraport.com
 vidcpm.com
