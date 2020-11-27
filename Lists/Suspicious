@@ -1,7 +1,7 @@
 #
 #    File: Suspicious   (Found while searching other domains. Contains mixture of uncertain domains)
-# Domains: 6,082
-# Updated: 11/25/2020  15:35 (3:35 PM CST)
+# Domains: 6,084
+# Updated: 11/27/2020  01:24 (1:24 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2442,6 +2442,7 @@ cdn15.acloudimages.com
 cdn1.accropress.com
 cdn1.efbet.net
 cdn1.htlbid.com
+cdn1.traderonline.com
 cdn2.mashero.com
 cdn.3plearning.net
 cdn.acloudvideos.com
@@ -2494,6 +2495,7 @@ cdnt6.wp.pl
 cdnt7.wp.pl
 cdnt8.wp.pl
 cdnt9.wp.pl
+cdn.traderonline.com
 cdn.transifex.com
 cdn.trustev.com
 cdn.twyne.io
@@ -3230,7 +3232,6 @@ fides-pol.apple.com
 filecluster.com
 file-extractor.com
 filesarehere.com
-files.bidsimulator.com
 filetransferenabled.mail.google.com
 filmload.xyz
 filmzhub.com
@@ -4084,6 +4085,7 @@ mhcache.com
 mialltrack.com
 microsoftstatistics.org
 mikkymax.com
+milanocambodia.com
 miljons.com
 millenniumhotels.com
 minddrivers.com
