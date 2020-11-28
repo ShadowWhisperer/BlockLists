@@ -1,7 +1,7 @@
 #
 #    File: Suspicious   (Found while searching other domains. Contains mixture of uncertain domains)
-# Domains: 6,084
-# Updated: 11/27/2020  01:24 (1:24 AM CST)
+# Domains: 6,126
+# Updated: 11/27/2020  21:16 (9:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -374,6 +374,7 @@
 36site.com
 37893138.com
 38883138.com
+3.base.de
 3dfishgame.com
 3-focus-opensocial.googleusercontent.com
 3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
@@ -2067,6 +2068,7 @@ api.beta.salemove.com
 apiblog.youtube.com
 api.delfi.ee
 apidemo.eazybiz.ng
+api.dynamo.video
 api.ebay-kleinanzeigen.de
 api.epicgames.dev
 api.ettoday.net
@@ -2164,6 +2166,8 @@ astraldirect.site
 astratracker.net
 atandmouse.com
 atharori.net
+atherosdrivers.com
+athumbs.thomann.de
 atlas.kintura.io
 atleticosc.com
 atoesprime.com
@@ -2225,6 +2229,7 @@ bango.net
 banner.zipangcasino.com
 banyanhill.com
 bardownload.com
+base.de
 baspomedia.ch
 batchgeo.com
 batpool.com
@@ -2259,6 +2264,7 @@ bestware.org
 bestwayint.com
 bestworthy.com
 beta.easy-hit-counters.com
+beta.facewallet.io
 beta-i.com
 beta-i.pt
 betteradsystem.com
@@ -2409,6 +2415,7 @@ cara-lyon.org
 carderbee.com
 careupnext.com
 carolinamunitions.com
+carrefour.es
 carsands.com
 cart-assistant.herokuapp.com
 carts.guru
@@ -2438,6 +2445,7 @@ c-ctrip.com
 cd-cont.com
 c.disquscdn.com.cdn.cloudflare.net
 cdmtrk.com
+cdn-02.krant.nl
 cdn15.acloudimages.com
 cdn1.accropress.com
 cdn1.efbet.net
@@ -2923,6 +2931,8 @@ designcarthosting.com
 desktop.google.com.hk
 desktop.l.google.com
 detainee.biz
+detect-prod-ingest.highdegree.io
+detect-test-ingest.highdegree.io
 detoxbuzznews.eu
 devcosrv.com
 developers.google.com
@@ -2945,6 +2955,7 @@ diableaucorps.com
 diagnostica-products.com
 diagswebextpro.houston.hp.com
 die-freesms-seite.com
+digigladd.com
 digital2cloud.com
 digitalfan.com
 digitalprivacyalert.org
@@ -3014,6 +3025,7 @@ downloads.majestic.com
 download-suite.com
 downxia.com
 dox4.com
+dpgmedia.nl
 dpjagan.com
 dpxq.com
 draydns.de
@@ -3044,6 +3056,7 @@ dw7nrwnn2bkh1.cloudfront.net
 dwuzxuvwlq.winticket.jp
 dx.downxia.com
 dxedge-prod-lb-1585771072.us-west-2.elb.amazonaws.com
+dynamo.video
 dyn.vodafone.de
 dzitech.net
 dzubavstal.com
@@ -3114,6 +3127,7 @@ emailverifypro.net
 embed.ly
 embot.takaratomymall.jp
 emch.com
+emea.r1-cdn.net
 emeraldtrk.com
 ems-a8net-tracking.easy-myshop.jp
 encap24x7.com
@@ -3192,6 +3206,7 @@ facebook-verklagen.com
 facenama.com
 faceofftools.online
 facetofaceart.com
+facewallet.io
 fahrschulquiz.com
 fahrschultrainer.com
 faithstevens.com
@@ -3232,6 +3247,8 @@ fides-pol.apple.com
 filecluster.com
 file-extractor.com
 filesarehere.com
+files.atherosdrivers.com
+files.dam.krant.nl
 filetransferenabled.mail.google.com
 filmload.xyz
 filmzhub.com
@@ -3380,6 +3397,7 @@ gdsec.net
 gds.name
 gdtconfig.gaeadata.com
 ge0ip.org
+geardownload.com
 geburtstags-ideen.de
 geekopolis.fr
 geenapptrack.com
@@ -3425,6 +3443,7 @@ giraffeeverest.com
 girlgamesforfree.net
 github.map.fastly.net
 gizmos.future-fie-assets.co.uk
+gladdiator.io
 glimmer.hearstapps.com
 globalcampaigntracker.com
 globallyreinvation.com
@@ -3571,6 +3590,7 @@ hlsrv-uset1-ext-prod-a-1372580175.us-east-1.elb.amazonaws.com
 hochzeitsgedichte.de
 hoodriverpost22.com
 hop.clicktrack.ooo
+hopla.online
 horny-lady-now.com
 horusii.vemba.io
 hot-men-spot1.com
@@ -3606,6 +3626,8 @@ iamcdn.net
 iap.gowadogo.com
 iatp.by
 ibrahimjabbari.com
+ibv.facewallet.io
+ibv.wi-fi.ru
 icaregift.net
 icaregifts.com
 i.cloudfastads.ru
@@ -3633,9 +3655,14 @@ iivt.com
 ikwauek.com
 il119.com
 iloveadeal.com
+images0.persgroep.net
+images1.persgroep.net
 images2-focus-opensocial.googleusercontent.com
+images2.persgroep.net
 images3-focus-opensocial.googleusercontent.com
+images3.persgroep.net
 images4-focus-opensocial.googleusercontent.com
+images4.persgroep.net
 images5-focus-opensocial.googleusercontent.com
 images6-focus-opensocial.googleusercontent.com
 images7-focus-opensocial.googleusercontent.com
@@ -3672,6 +3699,7 @@ informz.net
 infoscoronavirus.be
 infourok.ru
 info.vacancyfiller.com
+ingeniouspics.com
 inhabitmainlive.akamaized.net
 inhabit-service.cdn.arkadiumhosted.com
 initiative-deutschland.net
@@ -3719,6 +3747,7 @@ iqtest.de
 iqtestonline24.com
 irfanview-stop.com
 irmbordeaux.fr
+ironnet.com
 ironstrk.com
 irtyd.com
 i-secure.walmartimages.com
@@ -4057,6 +4086,7 @@ medals.bizrate.com
 med.greatviews.de
 media.amazon.map.fastly.net
 mediadrug.com
+media.dynamo.video
 mediafase.com
 medialand.tn
 medialead.it
@@ -4566,6 +4596,7 @@ pensilwarna.com
 peoplepower.hk
 performanceonclick.com
 permodo.com
+persgroep.nl
 pesser-collin.be
 petguide.com.vsassets.com
 pf.zillow.com
@@ -4611,6 +4642,7 @@ play2.flashx.pw
 play4.flashx.pw
 play5.flashx.pw
 play.coin.bajarlo.net
+player.pstatic.gr
 playlott.com
 play.mine.gay-hotvideo.net
 play.mix.kinostuff.com
@@ -4639,12 +4671,16 @@ popper-engine.production-public.tubi.io
 popplunder.com
 poprule.com
 portail-amateur.com
+portal.base.de
 portalcirebon.com
 portal.myweblogon.com
+portal.o2online.de
 porteaprof.fr
 postiinstagrammabili.com
 postinstagrammabili.com
 potpourrichordataoscilloscope.com
+poweredby.firstchoice.co.uk
+poweredby.tui.co.uk
 p.placemypixel.com
 pp-m.ns1p.net
 pprq7.com
@@ -4712,6 +4748,7 @@ proxdevcool.com
 psdata.psvgamestudio.com
 psocialx.com
 ps.pndsn.com
+p.stage.ad.gt
 ptest.ysm.yahoo.com
 ptiftoud.com
 ptogheeb.net
@@ -4966,6 +5003,7 @@ sb-ssl.l.google.com
 scarypix.com
 sca.samsung.com
 scestreat-nephen.com
+schema.org
 scholar.google.cn
 scholar.google.com
 scholar.google.com.hk
@@ -5029,7 +5067,9 @@ seductioncharme-amour.com
 seekandstock.com
 seekseek.com
 seetickets.com
+seg.dev.ad.gt
 segrato.com
+seg.stage.ad.gt
 sekahspotok.com
 sellsteamconsulting.com
 semanticprofiler.com
@@ -5038,6 +5078,7 @@ senderjs.net
 sendy.voodoo.io
 sensebot-na.oss-us-east-1.aliyuncs.com
 sensors.larkplayerapp.com
+sensor-test.highdegree.io
 sentinelcustomer.safenet-inc.com
 sentry.prod.mozaws.net
 seo2.zabidurytapas.com
@@ -6049,6 +6090,7 @@ z7752.com
 zabidurytapas.com
 z.adbiq.com
 zadn.vn
+zakupycodzienne.carrefour.pl
 zaloapp.com
 zalo.me
 za.org

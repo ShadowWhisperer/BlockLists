@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 62,064
-# Updated: 11/27/2020  01:24 (1:24 AM CST)
+# Domains: 62,131
+# Updated: 11/27/2020  21:16 (9:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -487,6 +487,7 @@ adgile.blob.core.windows.net
 adgile.media
 adgreed.com
 adgrx.com
+ad.gt
 adinsight.eu
 adinton.com
 a.directtv.com
@@ -712,6 +713,7 @@ alb.reddit.com
 alcmpn.com
 alexametrics.com
 alfdt.com
+alikeaudience.com
 ali-stats.jpush.cn
 allegiancetech.com
 allegiant-partners.actonservice.com
@@ -12202,6 +12204,7 @@ ans.sny.tv
 ans.sportsonearth.com
 ans.worldbaseballclassic.com
 ans.yesnetwork.com
+anthill.instapage.com
 antifraudjs.friends2follow.com
 antitheft.norton.com
 ants.vn
@@ -12502,7 +12505,21 @@ auth.omoplanet.com
 autocounter.lentainform.com
 autoid.com
 automation.whatismyip.com
+autotrack.ebay.at
+autotrack.ebay.be
+autotrack.ebay.ca
+autotrack.ebay.ch
 autotrack.ebay.com
+autotrack.ebay.com.au
+autotrack.ebay.co.uk
+autotrack.ebay.de
+autotrack.ebay.es
+autotrack.ebay.fr
+autotrack.ebay.ie
+autotrack.ebay.it
+autotrack.ebay.nl
+autotrack.ebay.ph
+autotrack.ebay.pl
 autotrack.g.ebay.com
 aux-log1-ah.vertamedia.com
 aux-log1-sh.adtelligent.com
@@ -13370,6 +13387,7 @@ cardlytics.com
 cars.qualtrics.com
 cartrocket.com
 cartstack.com
+cas.avalon.perfdrive.com
 castup.net
 catalina.com
 catalyst-analytics.eu
@@ -13432,6 +13450,7 @@ cdn-gl.imrworldwide.com
 cdn.heapanalytics.com
 cdn.imhd.io
 cdn.imrworldwide.com
+cdn.instapagemetrics.com
 cdn.krxd.net
 cdn.levelaccess.net
 cdn.listrakbi.com
@@ -14624,6 +14643,7 @@ collector.analytics.anvato.net
 collector-analytics.efigence.com
 collector.analytics.jibe.com
 collector.analytics.piksel.com
+collector.applemediaservices.com
 collector-axa.cloud.ca.com
 collector.brandify.com
 collector-cdn.github.com
@@ -14643,6 +14663,7 @@ collector.schibsted.io
 collector.scopely.io
 collector-service.api.lbry.tv
 collector.statowl.com
+collectors.us2.sumologic.com
 collector.tescocompare.com
 collector.unsplash.com
 collector.valassis.com
@@ -15305,6 +15326,7 @@ count.taobao.com
 coveo.com
 cp5me8z9qu8eljvyulcxxe1lcntrx1516401361.nuid.imrworldwide.com
 c.paypal.com
+cpex.cz
 c.ph.msn.com
 cplay.watch.aetnd.com
 cps-tracking.mobvista.com
@@ -15441,6 +15463,7 @@ d1vl8wytztdz.cloudfront.net
 d1wbpdtjl5.execute-api.us-east-1.amazonaws.com
 d1x7eqknlm4fkm.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
+d20kyoxkb5vbjm.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
 d22d1xpx4ztuef.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
@@ -15658,6 +15681,7 @@ demdex.net
 demo-beacons.xumo.com
 demog-au.imrworldwide.com
 dent0e111yx6v.cloudfront.net
+detect-prod-ingest.highdegree.io
 dev.analytics.sam4m.com
 dev.email-analytics.admicro.vn
 devfw.imrworldwide.com
@@ -15743,6 +15767,7 @@ direct-aws-a1.com
 direct-azr-78.com
 direct-events-collector.spot.im
 director.sn.eamobile.com
+direct.shopperapproved.com
 directtrack.com
 directv.demdex.net
 di.rlcdn.com
@@ -16059,6 +16084,7 @@ ebmok9wfteqh8q3dllo6msufgxwie1516220590.nuid.imrworldwide.com
 ec183922-46b7-41fd-93b6-58af87e441b1.nuid.imrworldwide.com
 ecdn.analysis.fi
 ec.editmysite.com
+ec.instapagemetrics.com
 eclkmpbn.com
 eclkspbn.com
 eclkspsa.com
@@ -16815,6 +16841,7 @@ glympse.com
 gm.demdex.net
 gmlymvyjltkjvthhfph4szptxgeyq1508203900.nuid.imrworldwide.com
 gmyze.com
+gocp.stroeermediabrands.de
 godatadriven.com
 gofck9dksjxvs3akbdtm02c7pac0p1516627918.nuid.imrworldwide.com
 gofghc142ywqttuiil7igylahzxpf1510241541.nuid.imrworldwide.com
@@ -17169,6 +17196,7 @@ heatmap-03.kameleoon.com
 heatmap-04.kameleoon.com
 heatmap.com
 heatmap.emma.tools
+heatmap-events-collector.instapage.com
 heatmap.it
 heatmap.me
 heb-metrics.heb.com
@@ -17288,6 +17316,7 @@ h.which.co.uk
 hwozm5ro1grgvzwd8kkrj1uitwxlw1513541821.nuid.imrworldwide.com
 hxapcgf7pyqwckylxywxpcdetr2od1507500850.nuid.imrworldwide.com
 hybbrj6dojwfbjweih02vbvuytupm1508659591.nuid.imrworldwide.com
+hybridtheory.com
 hymt4znzfmdoenniybgvfrisfgfyt1516664931.nuid.imrworldwide.com
 hyros.com
 i0.cz
@@ -18080,6 +18109,7 @@ json.geoiplookup.io
 jsonip.com
 jsrdn.com
 js.sentry-cdn.com
+js.stroeermediabrands.de
 js.usemessages.com
 js-webt-lol.9cache.com
 juicer.cc
@@ -18149,6 +18179,7 @@ klaviyo.com
 kleianalyticsfrontend.elasticbeanstalk.com
 klj7ks7suaveafy3uiqci7d9xivjw1509507931.nuid.imrworldwide.com
 klksqlhafcgccgzho4lwsxyghd56j1508195810.nuid.imrworldwide.com
+knotch-cdn.com
 knrpc.olark.com
 kobostats.azurewebsites.net
 kochava.com
@@ -18177,6 +18208,7 @@ ksn-crypto-info-geo.kas-labs.com
 ksn-crypto-stat-geo.kas-labs.com
 ksn-file-geo.kaspersky-labs.com
 ksn-info-geo.kaspersky-labs.com
+ksn-stat-geo.kaspersky-labs.com
 ksn-stat-install.kaspersky-labs.com
 ksn-url-geo.kaspersky-labs.com
 ksn-verdict-geo.kaspersky-labs.com
@@ -21145,6 +21177,7 @@ mon-ip.com
 mon.isnssdk.com
 monitor.channel4.com
 monitor.clickcease.com
+monitor.ebay.com
 monitor.isnssdk.com
 monitor.uu.qq.com
 monitus.net
@@ -21354,6 +21387,7 @@ newtrkdomain.com
 newzmate.com
 nexac.com
 nextbigsound.com
+nextroll.com
 nextstat.com
 nexus.ensighten.com
 nexus.officeapps.live.com
@@ -22049,6 +22083,7 @@ perf.cdnads.com
 perfdrive.com
 perfectaudience.com
 perf-events.cloud.unity3d.com
+perf.hsforms.com
 perfops.net
 performance-analytics.rubiconproject.com
 pergavelshot.com
@@ -22818,6 +22853,7 @@ pixel.sanar.online
 pixel.sayhie.com
 pixel.sbcloud.de
 pixel.schuppentier.org
+pixels.dev.ad.gt
 pixel.sdseacoast.com
 pixels.dsp.theadtech.com
 pixel-secure.solvemedia.com
@@ -22854,6 +22890,7 @@ pixel.spoutable.com
 pixel.srchlp.com
 pixel.sreweb.com
 pixel.srkn.org
+pixels.stage.ad.gt
 pixel.st1.antavo.com
 pixel.st1-staging.antavo.com
 pixel.st2.antavo.com
@@ -23019,6 +23056,7 @@ pixie.midomi.com
 pix.lendingtree.com
 pixl.org.uk
 pixl.varagesale.com
+pix.pub
 pix.pvd.to
 pix.rta247.com
 pix.telekom.de
@@ -23083,6 +23121,7 @@ prebid-analytics.c.appier.net
 prebid-analytics.openx.net
 predic.io
 premiumyva.appspot.com
+premonix.com
 presentationtracking.netflix.com
 pre.taptapnetworks.com
 pre-usermatch.targeting.unrulymedia.com
@@ -23094,6 +23133,7 @@ privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privftp.apple.com
 priv-policy.imrworldwide.com
 privymktg.com
+prnx.net
 processing.classaction.org
 prod-fra.truendo.com
 prod.geo.gluops.com
@@ -23230,6 +23270,7 @@ queue.simpleanalyticscdn.com
 queue.statistics.aatkit.com
 quickanalytics.ca
 quisma.com
+quiz.stroeermediabrands.de
 quotespeed.morningstar.com
 qy5q0anienqlejepfj0ocps9fj7to1507501391.nuid.imrworldwide.com
 qz4ffloujahlyxze9nu6rqu7ls9s91515415691.nuid.imrworldwide.com
@@ -23290,6 +23331,8 @@ rec.smartlook.com
 recs.shareaholic.com
 recv-wd.gridsumdissector.com
 redintelligence.net
+redirect.fxcm.com
+redirect.fxcorporate.com
 redlotus.com
 redretarget.com
 redshell.io
@@ -23589,6 +23632,7 @@ reports.vodafonecorepacket.ciena.com
 reports.wes.telemetry.net
 reports.wiki.zoho.com
 reports.xrosview.com
+reports.yellowbook.com
 reports.yesware.com
 reports.youbora.com
 reports.zalster.com
@@ -23698,6 +23742,7 @@ rocketanalytics.com
 roistat.com
 roku-beacons.xumo.com
 rollbar.com
+rollworks.com
 rontar.com
 roq.ad
 rosetta.prod.ps.bild.de
@@ -24610,6 +24655,7 @@ securitymetrics.com
 seeip.org
 segment.com
 segment.io
+segment.prod.bidr.io
 segmetrics.io
 self.events.data.microsoft.com
 sellpoint.net
@@ -24621,6 +24667,7 @@ sem-tracking-analytics.com
 sense360.com
 sense360eng.com
 sensic.net
+sensor.highdegree.io
 sensors.cloud.tencent.com
 sensorsdata.cn
 sensors.snaptube.app
@@ -27742,8 +27789,23 @@ s.rosettastone.eu
 s.rosettastone.fr
 s.rosettastone.it
 srv1.wa.marketingsolutions.yahoo.com
+srv.at.ebayrtm.com
+srv.au.ebayrtm.com
+srv.befr.ebayrtm.com
+srv.benl.ebayrtm.com
+srv.ca.ebayrtm.com
+srv.ch.ebayrtm.com
+srv.de.ebayrtm.com
+srv.es.ebayrtm.com
+srv.fr.ebayrtm.com
+srv.ie.ebayrtm.com
+srv.it.ebayrtm.com
 srv.main.ebayrtm.com
+srv.nl.ebayrtm.com
+srv.ph.ebayrtm.com
+srv.pl.ebayrtm.com
 srvtrck.com
+srv.uk.ebayrtm.com
 ssa.animalplanet.com
 ssa.cookingchanneltv.com
 ssa.discovery.com
@@ -29584,6 +29646,7 @@ static.hotjar.com
 static.imrworldwide.com
 stat.ickey.cn
 static.lamoda.pl
+static.mailerlite.com
 stat.icn.od.ua
 stat.icocofun.com
 stat.iconte.com.br
@@ -32663,6 +32726,7 @@ stats.analysissai.com
 stats.analyticsgoogle.net
 stats.analytics.yps.im
 stats.anarecinos.com
+statsa.nativeroll.tv
 stats.anaycom.fr
 stats.ancaconstruction31.fr
 stats.anceau-gerard-avocat.com
@@ -51068,6 +51132,7 @@ t2.hulu.com
 t2.huluim.com
 t3.gstatic.com
 t6csdfhe4t9qn94i6y8ilwwdisecc1504918640.nuid.imrworldwide.com
+t8.prnx.net
 t.9gag.com
 t.a3cloud.net
 tableau.com
@@ -61488,6 +61553,7 @@ weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net
 web-01-gbl.com
 web01.imrworldwide.com
+web4.realtracker.com
 web.admiral.com
 web-analystics.engagio.com
 webanalytics1.ovh.net
@@ -61824,6 +61890,7 @@ wr2eo6d4miqf2sirgsazajfribb1w1504943222.nuid.imrworldwide.com
 wrating.com
 wrdgswma3iyqcrpx2gdhslh8pwd5i1509493760.nuid.imrworldwide.com
 ws7efbsstedfed2vxuhozktsqlyyl1506922042.nuid.imrworldwide.com
+ws.aimbase.com
 wsassets.cobalt.com
 ws.audioeye.com
 wsback-track.prod.cloud.ogury.io
