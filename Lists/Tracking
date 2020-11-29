@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 62,131
-# Updated: 11/27/2020  21:16 (9:16 PM CST)
+# Domains: 62,170
+# Updated: 11/28/2020  20:16 (8:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -7944,6 +7944,7 @@ analytics.omnile.com
 analytics.omniscientai.com
 analytics.omnitracs.com
 analytics.omnitransnext.dat.nl
+analytics.omnivirt.com
 analytics.omofylofilia.gr
 analytics.omurga.net
 analytics.on2it.net
@@ -12280,6 +12281,7 @@ api.datasteam.io
 api.db-ip.com
 api.dec.sitefinity.com
 api.dt4ever.com
+api.edmunds.com
 api-gdpr.voodoo-tech.io
 api-gps-em.hismarttv.com
 api.growsurf.com
@@ -12305,6 +12307,7 @@ api.qubit.com
 api.rest7.com
 api-rest.analytics.nexonm.com
 api.rlcdn.com
+api.rollbar.com
 api.segment.io
 api.smartechmetrics.com
 apis.murdoog.com
@@ -12437,6 +12440,7 @@ assetscdn.stackla.com
 assets.geo.de
 assets.giocdn.com
 assets.nationalgeographic.com
+assets.ubembed.com
 assets.video.yahoo.net
 assets.wogaa.sg
 associationanalytics.com
@@ -12547,6 +12551,7 @@ aw3wexcpp0lljxyibn1xlgqhngmpr1504893220.nuid.imrworldwide.com
 awake-stats.jpush.cn
 awap.equifax.com
 aw.dwin1.com
+a.wishabi.com
 awjfuvytrxu6fyvtsvhponnbsxhii1516629144.nuid.imrworldwide.com
 awstrack.me
 ayhmthzxsamv0fws3g9illxwgwie41507541211.nuid.imrworldwide.com
@@ -13232,6 +13237,7 @@ blueconic.net
 bluedme.com
 bluekai.com
 blueknow.com
+bm.adentifi.com
 b.marketbase.co.uk
 b.medtronic.com
 bmetrack.com
@@ -13349,6 +13355,7 @@ bxd20ahirhmmfzf582eaqxkjjt6uq1510274240.nuid.imrworldwide.com
 bymtrackinglive.azurewebsites.net
 byside.com
 byteark-analytics.thairath.co.th
+c1.dmdt.io
 c1exchange.com
 c1.microsoft.com
 c1.patreon.com
@@ -13460,6 +13467,7 @@ cdn.lr-ingest.io
 cdn.mateti.net
 cdn.memo.co
 cdn.mobify.com
+cdn.navdmp.com
 cdn.neatab.com
 cdn-net.com
 cdn.onnetwork.tv
@@ -13492,6 +13500,7 @@ cdnssl.clicktale.net
 cdn.statstrk01.com
 cdn.threadloom.com
 cdn.tracking.bannerflow.com
+cdn.treasuredata.com
 cdn.ttgtmedia.com.wtxcdn.com
 cdn.viglink.com
 cdn.vuukle.com
@@ -14705,6 +14714,7 @@ config.uca.cloud.unity3d.com
 configuration.ls.apple.com
 connct-9.com
 connectfpc.zebra.com
+connect.nabthat.com
 connexity.net
 consciouscheese.com
 consensu.org
@@ -14729,6 +14739,7 @@ convert.com
 convertexperiments.com
 convertro.com
 conviva.com
+conv-tm.everesttech.net
 cookie.carfax.com
 cookies.pn.vg
 cookies.siemens.com
@@ -15476,6 +15487,7 @@ d2o5idwacg3gyw.cloudfront.net
 d2p3zdq8vjvnxd.cloudfront.net
 d2p9l91d5g68ru.cloudfront.net
 d2ragrgodzj6m2.cloudfront.net
+d2s8wlbatk24s7.cloudfront.net
 d2wlwbnaa4keje.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2y8psjfi06mva.cloudfront.net
@@ -16235,6 +16247,7 @@ eu.vortex.data.microsoft.com
 eventapi.afreecatv.com
 event-api.reverb.com
 eventbus.intuit.com
+event-collection.fevo.com
 eventd-cro.admatrix.jp
 event.havasedge.com
 event.insticator.com
@@ -16246,6 +16259,7 @@ eventlog.outbrain.de
 eventlog.outbrain.fr
 eventlog.outbrain.it
 eventlog.outbrain.org
+event.nextclick.co
 events1.avantisvideo.com
 events.apester.com
 events.api.godaddy.com
@@ -16363,6 +16377,7 @@ fbc.wcfbc.net
 fbwallcheck.api-alliance.com
 fbxhuvjepucusnvbwya76akvizvzf1507500622.nuid.imrworldwide.com
 fc8zfhhc9y0njtywuibzcyda6hrdc1509538221.nuid.imrworldwide.com
+fca-global.demdex.net
 fcjsplubbur33x9xusp0e7uy9nya51509505441.nuid.imrworldwide.com
 fcmatch.google.com
 fc.vodafone.de
@@ -16481,6 +16496,7 @@ focalex.com
 footprintpredict.com
 foraging.wagtailanalytics.com
 ford.demdex.net
+ford.tt.omtrdc.net
 forensiq.com
 foresee.com
 foreseeresults.com
@@ -17760,6 +17776,7 @@ insights.alibaba.com.edgekey.net
 insights.alphahq.com
 insights.alphonso.tv
 insight.samsunghealth.com
+insights.autofi.com
 insights.baycoastbank.com
 insights.betfred.com
 insights.biallo.de
@@ -18089,6 +18106,7 @@ jq9izok7y5w359dykmavujklds1kn1509463711.nuid.imrworldwide.com
 jrqtuk0iravokplxvapb35nnqeo711510243181.nuid.imrworldwide.com
 js.ad-score.com
 js-agent.newrelic.com
+js.alpixtrack.com
 js.analytics.smartstream.tv
 js.chilipiper.com
 js.dhresource.com
@@ -18314,6 +18332,7 @@ linkpulse.com
 linkshare.com
 linksynergy.com
 linksynergy.walmart.com
+linkto.ext.hp.com
 linktrackr.com
 liquid.agora.pl
 lisource.panel.kantartns.lt
@@ -19117,6 +19136,7 @@ logs.ap-south-1.amazonaws.com
 logs.ap-southeast-1.amazonaws.com
 logs.ap-southeast-2.amazonaws.com
 log.sarwo.hadi.setyana.net
+logs.autofi.com
 log.savannahchristian.com
 log.sawilsons.com
 logs.belka-games.com
@@ -21387,6 +21407,7 @@ newtrkdomain.com
 newzmate.com
 nexac.com
 nextbigsound.com
+nextclick.co
 nextroll.com
 nextstat.com
 nexus.ensighten.com
@@ -22633,6 +22654,7 @@ pixel.jeremyprioton.fr
 pixel.joeyrobert.org
 pixel.journera.com
 pixel.jrrvf.com
+pixel.jumptap.com
 pixel.k8s.prod.blend.com
 pixel.kafic.mk
 pixel.kairosfire.com
@@ -23080,6 +23102,7 @@ pma-network.com
 p.marktplaats.net
 pmd205470tn-a.akamaihd.net
 p.metrilo.com
+pm.geniusmonkey.com
 pnhddmvzsru1snvjgfoedvqi45ghq1516348531.nuid.imrworldwide.com
 pnstat.com
 pntheon.com
@@ -23110,6 +23133,7 @@ ppaz7vfovri9guawyoeey4fwjxmoi1505449600.nuid.imrworldwide.com
 ppcprotect.com
 pp.d2-apps.net
 ppi7axxf6n5rspk05inxiztiux0hp1507564240.nuid.imrworldwide.com
+p.placed.com
 p.pulse.toyota.com
 p.qiao.baidu.com
 prd-collector-anon.ex.co
@@ -23740,6 +23764,7 @@ roat6ngixmjsiodmmzxvewsrqsuhu1508211022.nuid.imrworldwide.com
 rocketadserver.com
 rocketanalytics.com
 roistat.com
+roku.adsmeasurement.com
 roku-beacons.xumo.com
 rollbar.com
 rollworks.com
@@ -23787,6 +23812,7 @@ r.trbna.com
 rtrk.com
 rtt.bf-tools.net
 rttf.citrix.com
+rt.udmserve.net
 r.turn.com
 ru4.com
 rubicon.wellsfargo.com
@@ -28247,6 +28273,7 @@ staging-analytics.adotmob.com
 staging.app-analytics.snapchat.com
 staging.geolocation.nextday.media
 staging-pi.ispot.tv
+staging-pt.ispot.tv
 staging.server-analytics.snapchat.com
 staging-tracker.fyber.com
 stags.bluekai.com
@@ -51109,9 +51136,12 @@ sydney.imrworldwide.com
 symantec.tt.omtrdc.net
 sync1.intentiq.com
 sync.1rx.io
+sync.bumlam.com
 sync.colossusssp.com
 sync.graph.bluecava.com
+sync.intentiq.com
 sync.ipredictive.com
+sync.jivox.com
 sync.mathtag.com
 sync.tidaltv.com
 sync.tidaltv.com.akadns.net
@@ -51139,6 +51169,7 @@ tableau.com
 tabs-tul.guitarworld.com
 tacking.fanbridge.com
 tacticrealtime.com
+t.adcell.com
 t.admp.io
 tag.1rx.io
 tag.adhunter.media
@@ -51192,6 +51223,7 @@ tag.reporo.net
 tag.researchnow.com
 tag.rmp.rakuten.com
 tags.akohub.com
+tags.bkrtx.com
 tags.bluekai.com
 tags.bluekai.com.edgekey.net
 tags-cdn.clarivoy.com
@@ -51232,6 +51264,7 @@ targetemsecure.blob.core.windows.net
 targeting.tronc.arcpublishing.com
 target.microsoft.com
 target.mixi.media
+target.ramtrucks.com
 target.smi2.ru
 taskanalytics.com
 taskassist-pa.clients6.google.com
@@ -53366,6 +53399,7 @@ tracker.lumata.com
 tracker.mahou.org
 tracker.mailomedia-tracking.com
 tracker.makedreamprofits.ru
+tracker.marinsm.com
 tracker.marinsoftware.com
 tracker.marinsoftware.com.usgscac.cdnetworks.net
 tracker.mariposahd.tv
@@ -56474,6 +56508,7 @@ tracking.luxusbetten.de
 tracking.lvoantilles-guyane.com
 tracking.m1by1.com
 tracking.m3.flipkart.net
+tracking.m6r.eu
 tracking.m6r.eu.edgekey.net
 tracking.maalvarado.com
 tracking.mach4marketing.com
@@ -60599,6 +60634,7 @@ transactions.analytics.smartstream.tv
 trapteaching.com
 traq.li
 travel-pixel-web.us-east-1.prod.expedia.com
+tr.blismedia.com
 trbo.com
 trc-events.taboola.com
 trck.advicecroco.com
@@ -61191,6 +61227,7 @@ uaid.tmp.imrworldwide.com
 uat.trkn.us
 ubacz7mothgp1ooc4e9xxyilud4ry1516220590.nuid.imrworldwide.com
 ub-analytics.com
+ubembed.com
 ubermedia.com
 ubm-us.net
 uc6mc0vesbs2sugtuhuewq7xxynim1507564250.nuid.imrworldwide.com
@@ -61234,6 +61271,7 @@ uni-corn.net
 unid.go.com
 unified.adsafeprotected.com
 unifi-report.ubnt.com
+universal.iperceptions.com
 univide.com
 unwieldyhealth.com
 up0jt4e21jtwmw7a0low02bhpoipr1516217902.nuid.imrworldwide.com
@@ -61444,6 +61482,7 @@ voluum.com
 voluumtrk2.com
 voluumtrk3.com
 voodoo-analytics.io
+vop.sundaysky.com
 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
 vop-yahoo.akamaized.net
 vop-yahoo.secure.footprint.net

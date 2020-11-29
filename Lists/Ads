@@ -1,7 +1,7 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 28,714
-# Updated: 11/27/2020  21:16 (9:16 PM CST)
+# Domains: 28,736
+# Updated: 11/28/2020  20:16 (8:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13205,6 +13205,7 @@ ads.lfc.edu
 ads.lfg5jnbi.com
 ads-lfi3olnec7fr.stackpathdns.com
 ads.lfpress.com
+ads.lfstmedia.com
 ad.slg-ahrensburg.org
 ad.slhpay.com
 ads.libbykirwin.com
@@ -22076,6 +22077,7 @@ bidfluence.com
 bid.g.doubleclick.net
 bidmotion.com
 bid-server.us-east-1.elasticbeanstalk.com
+bid.socdm.com
 bidsopt.com
 bidstalk.com
 bidstreamserver.com
@@ -22641,6 +22643,7 @@ cdn.tsyndicate.com
 cdn-t.vb17110frankfoley.pw
 cdn.twinrdsrv.com
 cdn.uprivaladserver.net
+cdn.userway.org
 cdn.vhostxo.com
 cdnvideo.mobi
 cdn.www.cccpmo.com
@@ -23014,6 +23017,7 @@ crxbhxsb4x.us-east-1.elasticbeanstalk.com
 cs10.big-hunter.com
 cs11.big-hunter.com
 cs30.net
+cs.adingo.jp
 cs.admanmedia.com
 csb3.pgqauempyk.eu-west-1.elasticbeanstalk.com
 cs.chocolateplatform.com
@@ -23287,6 +23291,7 @@ dlv.itmedia.jp
 dlxrlc2ni2.com
 dlzm790g.com
 dmp.adform.net
+dmp.brand-display.com
 dmr.com.sg
 dmx.districtm.io
 dnaads.com
@@ -23447,6 +23452,7 @@ ecs.mb.moatads.com
 ed10.net
 ed9wkbpy.com
 edaa.eu
+e.deployads.com
 ederrassi.com
 edexis-test.com
 edgecast-vod.yimg.com
@@ -23904,6 +23910,7 @@ geniee.co.jp
 genieessp.com
 genieesspv.jp
 geniusdexchange.com
+geniusmonkey.com
 geniusonclick.com
 genorithm.com
 geoadnxs.com
@@ -24064,6 +24071,7 @@ gothamads.com
 go.throughdfp.com
 go.tpbdir.com
 gotprofits.com
+go.trafficrouter.io
 g.pcmag.com
 gptw-prod.us-east-1.elasticbeanstalk.com
 gqqdlckj8y.com
@@ -24321,12 +24329,14 @@ igaworks.mediacategory.com
 i.geistm.com
 igexin.com
 ikikik.xyz
+i.liadm.com
 illfatedsnail.com
 illuma-tech.com
 illustriousoatmeal.com
 ilo134ulih.com
 ilxhsgd.com
 image2.pubmatic.com
+image5.pubmatic.com
 image6.pubmatic.com
 image8.pubmatic.com
 imageads.sexmoney.com
@@ -24582,6 +24592,7 @@ jizzads.com
 jjmdavj.com
 jmgads.com
 joblessdrum.com
+joemachensdealerships.mycars.dealer.com
 joinsafelyonline.com
 jointag.com
 jojoad.com
@@ -24981,6 +24992,7 @@ master-push.com
 master-push.net
 match.adsby.bidtheatre.com
 match.adsrvr.org
+match.justpremium.com
 match.sharethrough.com
 materialexample.com
 materialisticfan.com
@@ -25925,7 +25937,9 @@ pixelpie.com
 pixels.asia
 pixfuture.com
 piximedia.com
+pix.impdesk.com
 pixlads.com
+pix-us.revjet.com
 pizzasnut.com
 pjatr.com
 pj.l.a8723.com
@@ -26055,6 +26069,7 @@ prd-uw1-dat-ovr-ngx.eu-west-1.elasticbeanstalk.com
 prebid.adnxs.com
 prebid.a-mo.net
 prebid-eu.creativecdn.com
+prebid.media.net
 prebid.org
 prebid-server.rubiconproject.com
 prebid.smilewanted.com
@@ -26412,6 +26427,7 @@ pweaatek.com
 p.weebly.com
 pwmads.com
 px1alsry.com
+px.adhigh.net
 px.ads.linkedin.com
 pxc.otto.de
 pxf.io
@@ -26699,6 +26715,7 @@ rosszlanyok.hu
 roubergmiteom.com
 roughroll.com
 route-api-prod.us-east-1.elasticbeanstalk.com
+router.infolinks.com
 router-prod-3rdparty.elasticbeanstalk.com
 rowlnk.com
 royalada.com
@@ -27098,6 +27115,7 @@ singlespot-prod.9zcxhvrukx.eu-west-1.elasticbeanstalk.com
 singletracks.us-east-1.elasticbeanstalk.com
 singroot.com
 sinwebads.com
+siouxfallsfordfd.mycars.dealer.com
 site.alignable.com
 sitemaji.com
 sitemeter.com
@@ -27598,6 +27616,7 @@ sync3.sniperlog.ru
 sync.adap.tv
 sync.admanmedia.com
 sync.adotmob.com
+sync.ad-stir.com
 sync.adtelligent.com
 sync.aniview.com
 sync.aralego.com
@@ -27615,6 +27634,7 @@ sync.search-gtm.spotxchange.com.akadns.net
 sync.search.spotxchange.com
 sync.serverbid.com
 sync.sniperlog.ru
+sync.spotim.market
 sync.srv.stackadapt.com
 sync.taboola.com
 sync.teads.tv
@@ -27622,6 +27642,7 @@ sync.teads.tv.edgekey.net
 sync.tubemogul.com
 sync-unosync-com.geodns.me
 sync.vertamedia.com
+sync.widespace.com
 syndication.globaltraffico.com
 syndication.realsrv.com
 syndication.trafficreps.com
@@ -27659,6 +27680,7 @@ tags.news.com.au
 tags.onetruth.io
 tag.sp.advertising.com
 tags.smilewanted.com
+tags.srv.stackadapt.com
 tags-videos.smilewanted.com
 tags.w55c.net
 tagtoo.co
