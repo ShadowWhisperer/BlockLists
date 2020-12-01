@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 62,170
-# Updated: 11/28/2020  20:16 (8:16 PM CST)
+# Domains: 62,193
+# Updated: 11/30/2020  23:20 (11:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -608,6 +608,7 @@ ae.dmxleo.com
 aefd.nelreports.net
 a.environmentaldefense.org
 a.epilepsy.com
+aep.mxptint.net
 a.espncricinfo.com
 aestats.microsoft.com
 a.et.nytimes.com
@@ -12287,6 +12288,7 @@ api-gps-em.hismarttv.com
 api.growsurf.com
 api.hostip.info
 api.instabug.com
+api.iperceptions.com
 api.ipify.org
 api.ipinfodb.com
 api.keen.io
@@ -13246,6 +13248,7 @@ bnc.lt
 bnlocfppqzhyu1rj3riqh1ieppayn1511352312.nuid.imrworldwide.com
 bn.pixel.moatads.com
 board.de
+boards.greenhouse.io
 bob.dmpxs.com
 boincstats.com
 bombora.com
@@ -13477,6 +13480,7 @@ cdn.parrable.com
 cdn.parsely.com
 cdn-pci.optimizely.com
 cdn.pdst.fm
+cdn.personalisation.ai
 cdn.perzonalization.com
 cdn.polyfill.io
 cdn.pricespider.com
@@ -13491,7 +13495,6 @@ cdn.roiq-vice.ranker.com
 cdn.rollbar.com
 cdn.segment.com
 cdn-settings.segment.com
-cdns.gigya.com
 cdn.shareaholic.net
 cdn-sitegainer.com
 cdnsonata.taptapnetworks.com
@@ -13539,6 +13542,7 @@ cf7f797e-ae82-4c7b-ac59-7e2ad0d08610.nuid.imrworldwide.com
 cfhchqayl8x7tfdx6otx4hqpm0p9s1516680285.nuid.imrworldwide.com
 cfigroup.com
 c.fi.msn.com
+cfjump.sanity.com.au
 cformanalytics.com
 c.fqtag.com
 c.fr.msn.com
@@ -13627,6 +13631,7 @@ clarip.com
 claritas.com
 clarity.microsoft.com
 clarity.ms
+clarium.global.ssl.fastly.net
 clarivoy.com
 clcktrax.com
 cl-dev.apple.com
@@ -14631,6 +14636,7 @@ code.visitor-track.com
 collect.allianz.ch
 collect.allianzglobalinvestors-service.ch
 collect.allianz-technology.ch
+collect.azazie.cn
 collect.cap.ch
 collect.cloudsponge.com
 collect.dcrm.bnpparibas.fr
@@ -14674,11 +14680,14 @@ collector-service.api.lbry.tv
 collector.statowl.com
 collectors.us2.sumologic.com
 collector.tescocompare.com
+collector.unlockxh4.com
+collector.unlockxh5.com
 collector.unsplash.com
 collector.valassis.com
 collector.vhx.tv
 collector.viki.io
 collector.xhamster7.com
+collector.xhtotal.com
 collector.zum.com
 collect.state.centrum24.pl
 collect.surve.nl
@@ -14708,6 +14717,7 @@ condenastdigital.com
 conductrics.com
 conduit.redfast.com
 confesschairs.com
+confiant.com
 config2.mparticle.com
 config.analytics.anvato.net
 config.uca.cloud.unity3d.com
@@ -15395,6 +15405,7 @@ c.se.msn.com
 c.sg.msn.com
 c.sharethis.mgr.consensu.org
 csi.gstatic.com
+csm.da.us.criteo.net
 cs.montrealplus.ca
 c.snow.com
 csp.yahoo.com
@@ -16837,8 +16848,6 @@ gfx.filmweb.pl
 gglxi3qvyf8zstt81vr1ufmrhqxtm1515388351.nuid.imrworldwide.com
 giddyuptrk.com
 gigaonclick.com
-gigya.com
-gigya.foodnetwork.com
 gionee.analytics.glance.inmobi.com
 gizmos.future-fie.co.uk
 g.jwpsrv.com
@@ -16847,6 +16856,8 @@ glassboxdigital.io
 gle.gleevec.com
 gl.hostcg.com
 glimr.io
+gllto1.glpals.com
+gllto2.glpals.com
 global.px.quantserve.com
 globalstats.ekmsecure.com
 globalwebindex.net
@@ -16901,6 +16912,7 @@ gratiscounter.at
 gravityrd-services.com
 graylog.24imedia.com
 graylog.org
+greenhouse.io
 grid007.imrworldwide.com
 grid008.imrworldwide.com
 grid009.imrworldwide.com
@@ -18108,6 +18120,7 @@ js.ad-score.com
 js-agent.newrelic.com
 js.alpixtrack.com
 js.analytics.smartstream.tv
+js.bronto.com
 js.chilipiper.com
 js.dhresource.com
 js.driftt.com
@@ -18321,6 +18334,7 @@ liftoff.io
 lightboxapi2.azurewebsites.net
 lightboxapi.azurewebsites.net
 lightboxcdn.com
+lightning.tcm.com
 lightstep.com
 lightstep.medium.systems
 lijit.com
@@ -18369,6 +18383,7 @@ location.l.force.com
 location.live.net
 locations.api.yle.fi
 location-server-useast-1131963147.us-east-1.elb.amazonaws.com
+locationservice.mediasearch.verizon.com
 location.services.mozilla.com
 location-services-prd.tesla.com
 location.syn-api.com
@@ -19622,6 +19637,7 @@ matomo.dev-bremen.de
 matomo.erwinmueller.com
 matomo.familie-roose.de
 matomo.firmapp.org
+matomo.furaffinity.net
 matomo.gigabit.de
 matomo.gofile.io
 matomo.hellohi.me
@@ -22112,6 +22128,7 @@ perimeterx.com
 perimeterx.net
 permissionresearch.com
 perr.h-cdn.com
+personalisation.ai
 personalization.bloomberg.com
 personalization.tombras.com
 petametrics.com
@@ -23082,6 +23099,7 @@ pix.pub
 pix.pvd.to
 pix.rta247.com
 pix.telekom.de
+pix.us.criteo.net
 pjuiceqvqslug4kgoxbw2inlnceda1507563990.nuid.imrworldwide.com
 pkrchp001.com
 pl0kwdeaarwmoo1sgmydhbo8dkscq1514610900.nuid.imrworldwide.com
@@ -23092,6 +23110,7 @@ placer.io
 placidperson.com
 platform.cloud.coveo.com
 platform.linkedin.com
+platform-s.foursquare.com
 player.stats.live-video.net
 player-telemetry.vimeo.com
 playground.xyz
@@ -23426,6 +23445,7 @@ report.adview.cn
 report.aid-ad.jp
 report.api.vungle.com
 report-data.rezonence.com
+reporter.browserapps.amazon.com
 report.evadav.com
 report.hb.brainlyads.com
 report.huqindustries.co.uk
@@ -37710,6 +37730,7 @@ stats.filipappl.cz
 stats.filipcablik.cz
 stats.filipinawives.com.au
 stats.filippo-neri.de
+stats.filmfed.com
 stats.filmiki-porno.pl
 stats.filmplanet.sk
 stats.filmspindl.cz
@@ -51275,6 +51296,7 @@ t.bannerbridge.net
 tbdjetjeczagheafxknf4viwbuoie1505354741.nuid.imrworldwide.com
 tbfpmajdlefl3v8ncs3ctayksnh1l1509470551.nuid.imrworldwide.com
 t.castle.io
+t.cfjump.com
 t.contentsquare.net
 tctm.co
 t.dailymail.co.uk
@@ -61329,6 +61351,7 @@ user-event-tracker-prod.us-east-1.elasticbeanstalk.com
 userleap.com
 userlocation.googleapis.com
 usermatch.krxd.net
+usermatch.targeting.unrulymedia.com
 userpresence.xboxlive.com
 userreplay.com
 userreplay.net

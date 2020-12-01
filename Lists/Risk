@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 77
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 86
+# Updated: 11/30/2020  23:20 (11:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -64,18 +64,28 @@ cache.filehippo.com                           #Software Hosting
 cdn.filehorse.netdna-cdn.com                  #Software Hosting
 crsky.com                                     #Software Hosting
 dl1.filehippo.com                             #Software Hosting
+download82.com                                #Software Hosting
 downloadsoftware4free.com                     #Software Hosting
+en.vessoft.com                                #Software Hosting
 fileeagle.com                                 #Software Hosting
 filehippo.com                                 #Software Hosting
 filehorse.com                                 #Software Hosting
 filehorse.sbsd-updates.eu                     #Software Hosting
+filesriver.com                                #Software Hosting
 freesoftwarefiles.com                         #Software Hosting
+fs1.filesriver.com                            #Software Hosting
+fs2.download82.com                            #Software Hosting
 fyxm.net                                      #Software Hosting
 getitfree.us                                  #Software Hosting
+jetelecharge.com                              #Software Hosting
 oovoo.com                                     #Software Hosting
 qarchive.org                                  #Software Hosting
+soft32download.com                            #Software Hosting
 softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
+softpedia.com                                 #Software Hosting
+vessoft.com                                   #Software Hosting
+vessoftstatic.com                             #Software Hosting
 winsite.com                                   #Software Hosting
 
 taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
@@ -88,7 +98,6 @@ showoff.io                                    #Share Localhost
 #  Domains Used On/By Infected Machines  (Potentially)
 #=====================================================================================================
 #
-#         Keylogger =  Tracks keyboard actions
 #   Money Transfer  =  Websites used to send money to someone else
 #          Webhook  =  Inspect page requets  (Can be used to recieve data from an infected system)
 #        Webscript  =  Run scripts online
@@ -96,7 +105,6 @@ showoff.io                                    #Share Localhost
 #=====================================================================================================
 #
 
-key-logger-free.com                    #Keylogger
 
 remitly.com                            #Money Transfer  (Seen in Tech Support Scam)
 remitly.io                             #Money Transfer  (Seen in Tech Support Scam)

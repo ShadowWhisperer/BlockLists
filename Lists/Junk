@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Domains: 488
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 495
+# Updated: 11/30/2020  23:20 (11:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -111,10 +111,11 @@ search.bleengo.com                                   #Browser Extension
 static.grammarly.com                                 #Browser Extension
 
 
-secure.retailmenot.com                               #Cash Back / Coupons
-ecbsn.com                                            #Cash Back (Ebates)
+curtivendi.com.br                                    #Cash Back
 ebates.com                                           #Cash Back
+ecbsn.com                                            #Cash Back (Ebates)
 rakuten.com                                          #Cash Back
+secure.retailmenot.com                               #Cash Back / Coupons
 shopbackau.zendesk.com                               #Cash Back
 shopback.com.au                                      #Cash Back
 shopback.com                                         #Cash Back
@@ -183,14 +184,21 @@ thedailywinnings.com                                 #Prizes / Giveaways
 
 acraffiliates.com                                    #Gambling
 annuaire-x.com                                       #Gambling
+bet-at-home.com                                      #Gambling
 btggaming.com                                        #Gambling
 bwin.com                                             #Gambling
+casinocity.com                                       #Gambling
 ladbrokes.com                                        #Gambling
 playtech.com                                         #Gambling
 williamhill.com                                      #Gambling
 
 harpquiz.com                                         #Quiz
 magiquiz.com                                         #Quiz
+
+panopto.com                                          #Screen Recording
+wgu.hosted.panopto.com                               #Screen Recording
+screencastify.com                                    #Screen Recording
+api.screencastify.com                                #Screen Recording
 
 abtest-sg-tiktok.byteoversea.com                     #App  TikTok
 abtest-va-tiktok.byteoversea.com                     #App  TikTok
@@ -220,6 +228,7 @@ mcs-va.tiktokv.com                                   #App  TikTok
 mon-va.tiktokv.com                                   #App  TikTok
 muscdn.com                                           #App  TikTok
 musical.ly                                           #App  TikTok
+mvaali1.ws.byteoversea.net                           #App  TikTok
 p16-amd-va.tiktokcdn.com                             #App  TikTok
 p16.muscdn.com                                       #App  TikTok
 p16-sign-sg.tiktokcdn.com                            #App  TikTok
@@ -264,6 +273,7 @@ sf16-muse-va.ibytedtos.com                           #App  TikTok
 sf16-scmcdn-sg.ibytedtos.com                         #App  TikTok
 sf16-scmcdn-va.ibytedtos.com                         #App  TikTok
 sf-tb-sg.ibytedtos.com                               #App  TikTok
+ssl.cdn.tiktok.com.c.footprint.net                   #App  TikTok
 tiktokcdn.com                                        #App  TikTok
 tiktok.com                                           #App  TikTok
 tiktokv.com                                          #App  TikTok
@@ -271,8 +281,8 @@ v16-tiktokcdn-com.akamaized.net                      #App  TikTok
 v16.tiktokcdn.com                                    #App  TikTok
 v16-web.tiktok.com                                   #App  TikTok
 v25.tiktokcdn.com                                    #App  TikTok
+v39-us.gts.byteoversea.net                           #App  TikTok
 v77.tiktokcdn.com                                    #App  TikTok
-verification-va.byteoversea.com                      #App  TikTok
 vm.tiktok.com                                        #App  TikTok
 webcast16-normal-c-alisg.tiktokv.com                 #App  TikTok
 webcast-va.tiktokv.com                               #App  TikTok
@@ -282,7 +292,6 @@ appsgeyser.com                                       #Software - AppsGeyser  (Ap
 curseapp.net                                         #Software - Curse       (In-Game Voice Chat)
 dashlane.com                                         #Software - Daskline    (Password Manager)
 api.flipboard.com                                    #Software - Flipbloard
-cdn.flipboard.com                                    #Software - Flipbloard
 flipboard.com                                        #Software - Flipbloard
 ue.flipboard.com                                     #Software - Flipbloard
 glarysoft.com                                        #Software - Glary Utilities
@@ -394,6 +403,7 @@ peopleshostvps.com                                   #Web Hosting
 plesk.com                                            #Web Hosting
 simplenet.com                                        #Web Hosting
 site44.com                                           #Web Hosting
+sphostserver.com                                     #Web Hosting
 strefa.pl                                            #Web Hosting
 t35.com                                              #Web Hosting
 uw.hu                                                #Web Hosting
@@ -505,7 +515,6 @@ whatsapp.net                                         #VOIP
 1757173384.rsc.cdn77.org
 api.eviesays.com
 api.pocketgeek.com
-api.screencastify.com
 areyourinlove.com
 assets.eviesays.com
 d363izihpqsmfs.cloudfront.net
@@ -523,7 +532,6 @@ nextadvisor.com
 pocketgeek.com
 prod-minicms-1377071205.us-east-1.elb.amazonaws.com
 runewslenta.com
-screencastify.com
 supereva.it
 youlucky2014.com
 zemana.com
