@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Domains: 495
-# Updated: 11/30/2020  23:20 (11:20 PM CST)
+# Domains: 492
+# Updated: 12/1/2020  13:00 (1:00 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -37,9 +37,6 @@ cloudantivirus.com                                   #Antivirus    Panda
 pandasecurity.com                                    #Antivirus    Panda
 pandasoftware.com                                    #Antivirus    Panda
 stopzilla.com                                        #Antivirus    StopZilla
-api.totalav.com                                      #Antivirus    TotalAV
-totalav.com                                          #Antivirus    TotalAV
-webshield.totalav.com                                #Antivirus    TotalAV
 detail.webrootcloudav.com                            #Antivirus    Webroot
 g2.p4.webrootcloudav.com                             #Antivirus    Webroot
 i1.ma.webrootcloudav.com                             #Antivirus    Webroot

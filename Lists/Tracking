@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 62,193
-# Updated: 11/30/2020  23:20 (11:20 PM CST)
+# Domains: 62,206
+# Updated: 12/1/2020  13:00 (1:00 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -495,6 +495,8 @@ a.directv.com
 adj.st
 adjust.com
 adjust.io
+adjust.net.in
+adjust.world
 adkernel.com
 adlmerge.com
 adlog.hipcricket.com
@@ -12300,6 +12302,7 @@ api-location-prd.pelcro.com
 api-log-analytics.cloud.toast.com
 api-logger.curejoy.com
 api-log.immomo.com
+api.megacool.co
 api.mixpanel.com
 api.opsone.ch
 api.peers.tv
@@ -12319,6 +12322,7 @@ api.tagstream.com
 api.telemetry.watchabc.go.com
 api.themighty.com
 api.tiles.mapbox.com
+api.timezonedb.com
 api.trackpush.com
 api.traq.li
 api.usercentrics.eu
@@ -12336,6 +12340,8 @@ apm-server.djiops.com.w.cdngslb.com
 apnanalytics.com
 appadhoc.com
 app.adjust.com
+app.adjust.net.in
+app.adjust.world
 appanalysis.banggood.com
 appanalytics.embarcadero.com
 app-analytics.huami.com
@@ -13502,6 +13508,7 @@ cdn.speedcurve.com
 cdnssl.clicktale.net
 cdn.statstrk01.com
 cdn.threadloom.com
+cdn.timezonedb.com
 cdn.tracking.bannerflow.com
 cdn.treasuredata.com
 cdn.ttgtmedia.com.wtxcdn.com
@@ -17694,6 +17701,7 @@ ingrammicro.demdex.net
 in.hotjar.com
 inistrack.net
 innocraft.cloud
+inputs.alooma.com
 insanetrack.com
 insert.io
 inside-graph.com
@@ -19904,6 +19912,7 @@ meds.viibrydhcp.com
 medtargetsystem.com
 meetrics.com
 meetrics.net
+megacool.co
 meip.eu
 meiro.io
 me.jsuol.com.br
@@ -21726,6 +21735,7 @@ one.123counters.com
 oneall.com
 oneaudience.com
 onecollector.cloudapp.aria.akadns.net
+onelink.appsflyer.com
 onelink.me
 onestat.com
 onetag.com
@@ -24827,6 +24837,7 @@ s.hdsupplysolutions.com
 sheerid.com
 sheerid.net
 shellprod.msocdn.com
+shelter-stat.castcrown.com.cy
 sherpath.com
 shield.sitelock.com
 shmyip.com
@@ -51722,9 +51733,11 @@ tile.commercialtrucktrader.com
 tile.equipmenttrader.com
 tile.rvtrader.com
 t.illuma-tech.com
+tiltingpoint.helpshift.com
 timeinc.trc.taboola.com
 timetrackingweb.com
 timezoneapi.io
+timezonedb.com
 t.indeed.com
 tiqcdn.com
 tizerbox.net
