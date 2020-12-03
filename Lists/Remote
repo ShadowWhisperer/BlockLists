@@ -1,7 +1,7 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Domains: 446
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 448
+# Updated: 12/3/2020  00:22 (12:22 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -19,6 +19,7 @@ amsterdam.remotepc.com
 anchor.attremotesupport.com
 ankara.remotepc.com
 anydesk.com
+anydesk.de
 anyplace-control.com
 asheville.remotepc.com
 asia.remotepc.com
@@ -104,6 +105,7 @@ dameware.com
 data-center.logmein-gateway.com
 dc.logmein-gateway.com
 denver.remotepc.com
+deskshare.net
 desmoines.remotepc.com
 detroit.remotepc.com
 devicevm.com
