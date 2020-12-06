@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 67,735
-# Updated: 12/4/2020  16:51 (4:51 PM CST)
+# Domains: 67,747
+# Updated: 12/5/2020  19:51 (7:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -4980,6 +4980,7 @@ analytics.fliphosting.nl
 analytics.flipmartin.net
 analytics.flix-site.de
 analytics.flockler.com
+analytics.flodesk.com
 analytics.flod.org
 analytics.floema.com
 analytics.flole.de
@@ -14784,6 +14785,7 @@ businessclick.com
 buzzdeck.com
 bvekiekogv5jrzhb7xezfx7i78uzm1516620251.nuid.imrworldwide.com
 b.webmd.com
+b.wishabi.com
 bxd20ahirhmmfzf582eaqxkjjt6uq1510274240.nuid.imrworldwide.com
 bymtrackinglive.azurewebsites.net
 byside.com
@@ -14904,6 +14906,7 @@ cdn.mobify.com
 cdn.navdmp.com
 cdn.neatab.com
 cdn-net.com
+cdn.noibu.com
 cdn.onnetwork.tv
 cdn.optimizely.com
 cdn.paddle.com
@@ -14995,6 +14998,7 @@ channeltraffic.net
 chartable.com
 chartbeat.com
 chartbeat.net
+check3.tiaabank.com
 check.api2.transactal.com
 checkappexec.microsoft.com
 checkip.amazonaws.com
@@ -16978,6 +16982,7 @@ czrvhgwuocojow4ihrdtjnrxbzw8q1510345330.nuid.imrworldwide.com
 d10lpsik1i8c69.cloudfront.net
 d11e618678w89x.cloudfront.net
 d1564fddzjmdj5.cloudfront.net
+d174f84q5mcorf.cloudfront.net
 d1aqhv4sn5kxtx.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1.dhgate.com
@@ -17016,6 +17021,7 @@ d2wy8f7a9ursnm.cloudfront.net
 d2y8psjfi06mva.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
+d34qb8suadcc4g.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
 d39vf9bwtb4sua.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
@@ -17082,6 +17088,7 @@ dbdm-events.mybluemix.net
 db-ip.com
 dbrain.io
 dbrtkwaa81.com
+d.btttag.com
 dc01-cn.imrworldwide.com
 dc01-dk.imrworldwide.com
 dc01-it.imrworldwide.com
@@ -17234,6 +17241,7 @@ dev-metrics.getrockerbox.com
 devmetrics.phunware.com
 de.vortex-win.data.microsoft.com
 devtodev.com
+dev.virtualearth.net
 dev.visualwebsiteoptimizer.com
 df4yigr2hq7fwg2vgfke2hdcydeve1509542941.nuid.imrworldwide.com
 dfmypuf41vbkobhzywto699gnzxks1516214291.nuid.imrworldwide.com
@@ -17791,6 +17799,7 @@ events.api.secureserver.net
 events.appsflyer.com
 events.attentivemobile.com
 events.avantisvideo.com
+events.brightline.tv
 events-collector.spot.im
 events.data.microsoft.com
 events.data.msn.com
@@ -17811,6 +17820,7 @@ events.mapbox.com
 events.meiro.io
 events.ocdn.eu
 events.onet.pl
+events.privy.com
 events.split.io
 eventstream-829-weblog-01.bigpoint.net
 eventstream-829-weblog-02.bigpoint.net
@@ -18087,6 +18097,7 @@ furnishings.bellacor.com
 fvl1f.pw
 fw3idt4foyxue6paywcj256yvu0qy1514579661.nuid.imrworldwide.com
 fw.adsafeprotected.com
+f.wishabi.net
 fysical.com
 fzlnk.com
 fzofckmbwguarteciq1npieeiss1p1514431012.nuid.imrworldwide.com
@@ -18544,6 +18555,7 @@ gsp32-ssl.ls-apple.com.akadns.net
 gsp33-ssl.ls-apple.com.akadns.net
 gsp34-ssl.ls-apple.com.akadns.net
 gsp35-ssl.ls-apple.com.akadns.net
+gsp36-ssl.ls.apple.com
 gsp36-ssl.ls-apple.com.akadns.net
 gsp37-ssl.ls-apple.com.akadns.net
 gsp38-ssl.ls-apple.com.akadns.net
@@ -18571,6 +18583,7 @@ gsp55-ssl.ls-apple.com.akadns.net
 gsp56-ssl.ls-apple.com.akadns.net
 gsp57-ssl-background.ls-apple.com.akadns.net
 gsp57-ssl.ls-apple.com.akadns.net
+gsp57-ssl-revgeo.ls.apple.com
 gsp58-ssl.ls-apple.com.akadns.net
 gsp59-ssl.ls-apple.com.akadns.net
 gsp5-ssl.apple.com
@@ -18579,15 +18592,18 @@ gsp60-ssl.ls-apple.com.akadns.net
 gsp61-ssl.ls-apple.com.akadns.net
 gsp62-ssl.ls-apple.com.akadns.net
 gsp63-ssl.ls-apple.com.akadns.net
+gsp64-ssl.ls.apple.com
 gsp64-ssl.ls-apple.com.akadns.net
 gsp6-ssl.apple.com
 gsp6-ssl.ls-apple.com.akadns.net
 gsp7-ssl.apple.com
 gsp7-ssl.ls-apple.com.akadns.net
+gsp85-ssl.ls.apple.com
 gsp8-ssl.apple.com
 gsp8-ssl.ls-apple.com.akadns.net
 gsp9-ssl.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
+gspe85-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gtrk.s3.amazonaws.com
 gts-logs.cloudapp.net
@@ -20895,7 +20911,6 @@ log.vov.vn
 log.vserv.com
 log.v.ssp.yahoo.com
 log.vwofportland.com
-log.wapiking.tk
 log.watchme4u.com
 log.wat.tv
 log-wc-1.adap.tv
@@ -22914,6 +22929,7 @@ nmtracking.netflix.com
 n.news.com
 nni6qrslmijwdtint1hn9bexzoync1509470880.nuid.imrworldwide.com
 nnko5fumb2n1llvmmkxszd6qigalg1510320002.nuid.imrworldwide.com
+noibu.com
 nom.lds.org
 nomsc.kpn.com
 nonstoppartner.de
@@ -23562,6 +23578,7 @@ pci3oo5mg4mn-a.akamaihd.net
 pclick.yahoo.com
 p.cpx.to
 pc-quiz.s3.us-east-2.amazonaws.com
+p.cquotient.com
 pdopm6ekxyg89wpfvtezv0uhaoaq81515421381.nuid.imrworldwide.com
 pdst.fm
 pdxelk.dealerspike.com
@@ -23628,7 +23645,6 @@ ping-origin-dev.jwpltx.com
 ping-origin-prd.jwpltx.com
 ping.popin.cc
 pingsl.avast.com
-ping.swagtraffcom.com
 ping.ublock.org
 ping.ui.com
 pinkaanalytics.eu-2.evennode.com
@@ -23907,7 +23923,6 @@ pixel.balvack.com
 pixel.bapi.adsafeprotected.com
 pixel.barion.com
 pixel.basismaschine.de
-pixel.bazzsearch.com
 pixel.bellawinery.com
 pixel.betexion.net
 pixel.betweenx.com
@@ -26399,6 +26414,7 @@ sibautomation.com
 sicas.ikea.com
 siftscience.com
 sig.ig.com
+sigma.ubi.com
 sig.nadex.com
 signifyd.com
 signpost.com
@@ -28902,6 +28918,7 @@ smodus.nike.com
 smon.activate.cz
 smon.congress.gov
 smon.loc.gov
+smoot-feedback.v.aaplimg.com
 smowtion.com
 smr.so-net.ne.jp
 sm-stats.inkfrog.com
@@ -48506,7 +48523,6 @@ stats.pcmicro-informatique.fr
 stats.pcnerds.us
 stats.pcol.school.nz
 stats.pcpohotovost-plzen.cz
-stats.pcprotect.com
 stats.pc-reparatur.shop
 stats.pc-reparatur-solingen.de
 stats.pcsg-server.de
@@ -53244,7 +53260,6 @@ stats.tosmag.com
 stats.tos.pt
 stats.tosyazorluahsap.com
 stats.totaladblocker.com
-stats.totalav.com
 stats.totalrenov51.com
 stats.totango.com
 stats.totof.net
@@ -54877,7 +54892,6 @@ stats.www.tinderplusfree.com
 stats.www.tksmiami.com
 stats.www.tsc88.com
 stats.www.vietnamliving.org
-stats.www.wapiking.tk
 stats.www.webbasedinventory.org
 stats.www.womenofplayboy.com
 stats.wycore.com
@@ -55441,7 +55455,6 @@ stat.tjlkv.fi
 stat.tjnautomotivos.com.br
 stat.tks.sumy.ua
 stat.tld-box.at
-stat.tlrepo.com
 stat.tmiassistenza.it
 stat.tmntuotteet.fi
 stat.tnews.co.th
@@ -56557,6 +56570,7 @@ tags.fulllab.com.br
 tags.growingio.com
 tags.mathtag.com
 tag.smdb.jp
+tags.onscroll.com
 tags.refinery89.com
 tagsrvcs.com
 tag.starsmp.com
@@ -65745,7 +65759,6 @@ track.toponlinebargains.com
 track.toprealdating.com
 track.toptradingspot.com
 track.toroadvertising.com
-track.totalav.com
 track.totalcom.biz
 track.toutiao.com
 track.tr360.net
@@ -66614,6 +66627,7 @@ trk.trkshark.club
 trk.turstle.com
 trk.uberall.com
 trk.upcounsel.com
+trk-useast.tidaltv.com
 trk-uswest.tidaltv.com
 trk.usxdtsqx.ru
 trk.value-establish-point-stomach.xyz
@@ -67470,8 +67484,6 @@ wieistmeineip.de
 wildcard.owneriq.net.edgekey.net
 wilshirecollections.ontraport.com
 wipmania.com
-wishabi.com
-wishabi.net
 wixlabs-hcounter.appspot.com
 wkctdgnxdic23pgfawbhg1m8ime1z1516679341.nuid.imrworldwide.com
 wkofgzxaut2alan6irq6xlgnqekby1509915540.nuid.imrworldwide.com

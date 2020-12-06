@@ -1,7 +1,7 @@
 #
 #    File: Suspicious   (Found while searching other domains. Contains mixture of uncertain domains)
 # Domains: 6,821
-# Updated: 12/4/2020  16:51 (4:51 PM CST)
+# Updated: 12/5/2020  19:51 (7:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3490,6 +3490,7 @@ feedproxy.google.com
 feedsapps.com
 feedsportal.com
 feed.utilitooltech.com
+feelinsonice.appspot.l.google.com
 feelinsonice.l.google.com
 feelinsonice-mvm.l.google.com
 feernews.biz
@@ -4674,7 +4675,6 @@ myproduct.site
 myquiz2win.de
 my-router.de
 myselfcv.fromfarm.jp
-mysite.safelink.com
 mysoftplace.com
 mysql.rittcirhicene.com
 mytracing.com
