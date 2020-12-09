@@ -32,10 +32,11 @@ These lists are all verified by me, either by going to the domain or by using au
 I remove _www<span></span>._ _mobile._ _m._  prefixes. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
   
 _Free_, _Junk_, _Marketing*_, and _Suspicious_ may break some sites.
-  
+\  
 **Create Block List**  (Bash)  
 
-    while read -r Line || [[ -n "$Line" ]]; do echo "0.0.0.0 $Line www.$Line mobile.$Line m.$Line" >> OUTPUT; done < LIST  
+    while read -r D || [[ -n "$D" ]]; do echo "0.0.0.0 $D www.$D mobile.$D m.$D" >> OUTPUT; done < LIST  
+
   
   
 **Useful Links**  
