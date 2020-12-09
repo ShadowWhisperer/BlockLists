@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 678
-# Updated: 12/8/2020  23:22 (11:22 PM CST)
+# Domains: 680
+# Updated: 12/9/2020  15:10 (3:10 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -25,6 +25,8 @@ use.typekit.com                                         #Font  Adobe
 typekit.net                                             #Font  Adobe
 use.edgefonts.net                                       #Font  Adobe
 use.typekit.net                                         #Font  Adobe
+fonts.com                                               #Font      Fonts.com
+fast.fonts.com                                          #Font      Fonts.com
 fast.fonts.net                                          #Font      Fonts.net
 fonts.net                                               #Font      Fonts.net
 file.myfontastic.com                                    #Font  Fontastic.me
