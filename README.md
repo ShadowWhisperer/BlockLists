@@ -38,7 +38,8 @@ _Free_, _Junk_, _Marketing*_, and _Suspicious_ may break some sites.
 
     while read -r D || [[ -n "$D" ]]; do echo "0.0.0.0 $D www.$D mobile.$D m.$D" >> OUTPUT; done < LIST  
 <br />
-<br /> 
+<br />  
+
 **Useful Links**  
 [Norton Safeweb](https://safeweb.norton.com/)  
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
