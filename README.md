@@ -34,15 +34,11 @@ I remove _www<span></span>._ _mobile._ _m._  prefixes. They are added in the scr
 _Free_, _Junk_, _Marketing*_, and _Suspicious_ may break some sites.
 <br />
 <br />
-
 **Create Block List**  (Bash)  
 
     while read -r D || [[ -n "$D" ]]; do echo "0.0.0.0 $D www.$D mobile.$D m.$D" >> OUTPUT; done < LIST  
-
-
 <br />
-<br />
-  
+<br /> 
 **Useful Links**  
 [Norton Safeweb](https://safeweb.norton.com/)  
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
