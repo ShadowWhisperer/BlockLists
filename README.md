@@ -35,7 +35,7 @@ _Free_, _Junk_, _Marketing*_, and _Suspicious_ may break some sites.
   
 **Create Block List**  (Bash)  
 
-    while read -r L || [[ -n "$L" ]]; do echo "0.0.0.0 $L www.$L mobile.$ m.$L" >> OUTPUT; done < LIST  
+    while read -r Line || [[ -n "$Line" ]]; do echo "0.0.0.0 $Line www.$Line mobile.$Line m.$Line" >> OUTPUT; done < LIST  
   
   
 **Useful Links**  
