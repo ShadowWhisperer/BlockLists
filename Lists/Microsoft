@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 464
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 466
+# Updated: 12/8/2020  23:22 (11:22 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -11,6 +11,7 @@
 evoke-windowsservices-tas.msedge.net           #App    Candy Crush Saga (Updates)
 cortana.ai                                     #App   Cortana
 edge.microsoft.com                             #App     Edge
+extensionwebstorebase.edgesv.net               #App     Edge
 msedge.api.cdp.microsoft.com                   #App     Edge
 ntp.msn.com                                    #App     Edge
 a-msedge.net                                   #App   Office
@@ -217,6 +218,7 @@ rpt.msn.com                                    # ? MSN
 sam.msn.com                                    # ? MSN
 tk2.plt.msn.com                                # ? MSN
 
+onmicrosoft.com                                # ? Office 365
 cys-efz.ms-acdc.office.com                     # ? Office
 enrichment.osi.office.net                      # ? Office
 f-0001.f-msedge.net                            # ? Office
@@ -236,6 +238,7 @@ sfnam.loki.delve.office.com                    # ? Office
 substrate.office.com                           # ? Office
 videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
+
 
 array101-prod.do.dsp.mp.microsoft.com          # ? Updates
 array102-prod.do.dsp.mp.microsoft.com          # ? Updates

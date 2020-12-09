@@ -1,7 +1,7 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Domains: 448
-# Updated: 12/3/2020  00:22 (12:22 AM CST)
+# Domains: 449
+# Updated: 12/8/2020  23:22 (11:22 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -122,6 +122,7 @@ egw1.express.gotoassist.com
 egwglobal.gotomeeting.com
 eugene.remotepc.com
 europe.remotepc.com
+famatech.com
 fastsupport.com
 fastsupport.gotoassist.com
 fitchburg.remotepc.com

@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 673
-# Updated: 11/30/2020  23:20 (11:20 PM CST)
+# Domains: 678
+# Updated: 12/8/2020  23:22 (11:22 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -51,6 +51,7 @@ use.fontawesome.com                                     #Font      Font Awesome
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
+d3gur3gjo809sk.cloudfront.net                           #Font   Hoefler & Co. (H&Co)
 code.ionicframework.com                                 #Font      IonIcons
 ionicframework.com                                      #Font      IonIcons
 linearicons.com                                         #Font    LinearIcons
@@ -96,6 +97,7 @@ media.tdameritrade.com                                  #Font  Specific
 nimblefonts.nimbledeals.com                             #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 terra-1-g.djicdn.com                                    #Font  Specific
+webfonts.zohostatic.com                                 #Font  Specific
 
 brazzerssurvey.com                                      #Survey
 inmoment.com                                            #Survey
@@ -137,6 +139,7 @@ surveymonkey-assets.s3.amazonaws.com                    #Survey - Survey Monkey
 surveymonkey.com                                        #Survey - Survey Monkey
 surveymonkey.de                                         #Survey - Survey Monkey
 usabilla.com                                            #Survey - Survey Monkey (usabilla)
+surveysparrow.com                                       #Survey - Survey Sparrow
 survicate.com                                           #Survey - Survicate
 survio.com                                              #Survey - Survio
 toluna-analytics.com                                    #Survey - Toluna
@@ -218,6 +221,7 @@ gdpr-web-dau-prod.privacymanager.io                     #Cookie Consent / Contro
 gdpr-wrapper.privacymanager.io                          #Cookie Consent / Control
 iubenda.com                                             #Cookie Consent / Control
 policy.cookiereports.com                                #Cookie Consent / Control
+privacy-center.org                                      #Cookie Consent / Control
 privacy.outdoorsg.com                                   #Cookie Consent / Control
 prod.truendo.com                                        #Cookie Consent / Control
 rodo.agora.pl                                           #Cookie Consent / Control
@@ -599,13 +603,16 @@ mobimagic.com                                           #Android  [App]   Safe S
 safesecurityapps.com                                    #Android  [App]   Safe Security - Antivirus, Booster, Phone Cleaner
 gtq-lenses.sct.sc-prod.net                              #Android  [App]   SnapChat - Lenses
 topic-sticker-vending.snapchat.com                      #Android  [App]   SnapChat - Stickers
+
+tfg-customer.s3.amazonaws.com                           #Android  [Game]  Bike Race  (FAQs ?)
 classicwords.net                                        #Android  [Game]  Classic Words
 coverfire.s3.dualstack.us-east-1.amazonaws.com          #Android  [Game]  Coverfire
-soniccd-cdn.s3.amazonaws.com                            #Android  [Game]  Sonic CD
-tfg-customer.s3.amazonaws.com                           #Android  [Game]  Bike Race  (FAQs ?)
+cdn.deadtarget.info                                     #Android  [Game]  Dead Target
+deadtarget.info                                         #Android  [Game]  Dead Target
 letsfish2-mobileb.cf-tsg.net                            #Android  [Game]  Lets Fish
 cm.mr-bullet.com                                        #Android  [Game]  Mr. Bullet
 service-api.mr-bullet.com                               #Android  [Game]  Mr. Bullet
+soniccd-cdn.s3.amazonaws.com                            #Android  [Game]  Sonic CD
 supermariorun.com                                       #Android  [Game]  Super Mario Run
 tetris-email.appspot.com                                #Android  [Game]  Tetris
 tetrisrushlive.appspot.com                              #Android  [Game]  Tetris Rush
@@ -620,6 +627,7 @@ dkgamedev.com                                           #Android  [App Studio]  
 babeltimeus.com                                         #Android  [App Studio]    Babeltime inc
 bitmango.com                                            #Android  [App Studio]    Bitmango
 byvgames.com                                            #Android  [App Studio]    Byv Games
+castcrown.com.cy                                        #Android  [App Studio]    Cast Crown
 adkmob.com                                              #Android  [App Studio]    Cheetah Mobile Technology
 cmcm.com                                                #Android  [App Studio]    Cheetah Mobile Technology
 duba.net                                                #Android  [App Studio]    Cheetah Mobile Technology
@@ -697,5 +705,3 @@ zeptolab.com                                            #Android  [App Studio]  
 playerio.com                                            #Android  [Game Creator]  Player IO
 d3699v4tsyfjnd.cloudfront.net                           #Android  [Game Engine]   Unity 3D
 unity3d.com                                             #Android  [Game Engine]   Unity 3D
-aptoide.com                                             #Android  [APK Downloads]
-cdn6.aptoide.com                                        #Android  [APK Downloads]
