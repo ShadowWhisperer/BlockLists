@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 72,007
-# Updated: 12/9/2020  15:10 (3:10 PM CST)
+# Domains: 72,004
+# Updated: 12/11/2020  01:13 (1:13 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -6732,6 +6732,7 @@ analytics.jiuzhilan.com
 analytics.jiv-e.com
 analytics.jjh.com.pl
 analytics.jk7esy.com
+analytics.jkmglobal.net
 analytics.jmbarkei.net
 analytics.jmhannula.fi
 analytics.jmousseau.com
@@ -14057,6 +14058,7 @@ api.instabug.com
 api.iperceptions.com
 api.ipify.org
 api.ipinfodb.com
+api-js.mixpanel.com
 api.keen.io
 api.keytiles.com
 api.krxd.net
@@ -15071,6 +15073,7 @@ blueconic.net
 bluedme.com
 bluekai.com
 blueknow.com
+blue.onionanalytics.com
 bm.adentifi.com
 b.marketbase.co.uk
 b.medtronic.com
@@ -15274,6 +15277,7 @@ cdn.etrack1.com
 cdn.fera.ai
 cdn.fraudjs.io
 cdnfraudjsio.crowd9ptyltd.netdna-cdn.com
+cdn.getlocalmeasure.com
 cdn.heapanalytics.com
 cdn.imhd.io
 cdn.instapagemetrics.com
@@ -15306,6 +15310,7 @@ cdn.proof-x.com
 cdn.quantummetric.com
 cdn.rakam.io
 cdn.ravenjs.com
+cdn.raygun.io
 cdn.refersion.com
 cdn.resonate.com
 cdn.retentionrock.com
@@ -15321,6 +15326,7 @@ cdn.speedcurve.com
 cdnssl.clicktale.net
 cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
+cdn.tagcommander.com
 cdn.threadloom.com
 cdn.timezonedb.com
 cdn.tracking.bannerflow.com
@@ -15438,6 +15444,7 @@ ciq.labs.att.com
 ciradar.com
 circularhub.com
 circulate.com
+ciscosystemsinc.tt.omtrdc.net
 c.it.msn.com
 civey.com
 civicscience.com
@@ -16602,6 +16609,7 @@ collect.yzdx.szdsp.haplat.net
 colossusssp.com
 colrep.sitelabweb.com
 colres.sitelabweb.com
+colvk.viki.io
 combotag.com
 commander1.com
 commandersact.com
@@ -17413,6 +17421,7 @@ curlmyip.net
 cushionpig.com
 cuspanel.sfd.pl
 custhelp.com
+customer.cludo.com
 customer.cludo.com.cdn.cloudflare.net
 customerevents.netflix.com
 customer-feedbacks.web.roku.com
@@ -17666,6 +17675,7 @@ discover.desales.edu
 discovery.analytics.zion.idtech.services
 dis.criteo.com
 disney.demdex.net
+disney.tt.omtrdc.net
 distf.stat.kankan.com
 distillery.wistia.com
 dist.transactal.com
@@ -18697,6 +18707,7 @@ hellospy.com
 hello.zonos.com
 helper-stats.wondershare.com
 helpshift.com
+hentaicounter.com
 here.com
 hermann.ai
 hermes.hupu.com
@@ -18793,6 +18804,7 @@ hulu.onelink.me
 hulu.sc.omtrdc.net
 h.which.co.uk
 hybridtheory.com
+hypertracker.com
 hyros.com
 i0.cz
 i2i.jp
@@ -19042,6 +19054,7 @@ image.timespoints.iimg.in
 im.cbsileads.com
 img02.rl0.ru
 img0.socialshopwave.com
+img3.usefathom.com
 imganalytics.co
 imganalytics.com
 img.bwin.com
@@ -19595,6 +19608,7 @@ jsrdn.com
 js.sentry-cdn.com
 js.stroeermediabrands.de
 js.usemessages.com
+js.users.51.la
 js-webt-lol.9cache.com
 juicer.cc
 jumbe.zaius.com
@@ -19674,6 +19688,7 @@ ksn-url-geo.kaspersky-labs.com
 ksn-verdict-geo.kaspersky-labs.com
 kvinit-prod.api.kochava.com
 kwanzoo.com
+kz.tns-counter.ru
 l2.io
 landings.taptapnetworks.com
 landingtrack.com
@@ -21484,6 +21499,7 @@ measurementapi.com
 measurementlab.net
 measure.mf.cz
 measure.office.com
+measure.office.net
 measure.refinery89.com
 measure.truex.com
 medeanalytics.com
@@ -23267,6 +23283,7 @@ onelink.me
 onestat.com
 onetag.com
 onetag.net
+onionanalytics.com
 online-metrix.net
 onlinesucces.nl
 onlinewebstats.com
@@ -28390,6 +28407,7 @@ rpt.kidsfootlocker.com
 rptrcks.walmart.com
 rpxnow.com
 rqtrk.eu
+r.remarketingpixel.com
 rrss.abc.es
 rssx.hp.com
 rt.360dialog.io
@@ -29211,6 +29229,7 @@ securite.01net.com
 securitymetrics.com
 seeip.org
 segment.com
+segment.intuitcdn.net
 segment.io
 segment.prod.bidr.io
 segmetrics.io
@@ -29263,6 +29282,7 @@ sf19-scmcdn-va.ibytedtos.com
 sfdr.co
 sfeedback.equabank.cz
 sfeedback.equa.cz
+sfloop.intuit.com
 sftr2.external.xerox.com
 sg-mtrack.rayjump.com
 s.go-mpulse.net
@@ -62593,7 +62613,6 @@ tracker.amazonaws.com
 tracker.anandtech.com
 tracker.anime47.com
 tracker.animebytes.tv
-tracker.anonwebz.xyz
 tracker.anunzzio.com
 tracker-api.my.com
 trackerapi.truste.com
@@ -62646,7 +62665,6 @@ tracker.brlnr.de
 tracker.brokenstones.club
 tracker.browse.swiftnet.sipn.swift.com
 tracker.btarena.org
-tracker.btcake.com
 tracker.bt.uol.com.br
 tracker.btzero.net
 tracker.btzoo.eu
@@ -62731,7 +62749,6 @@ tracker.digitalcamp.co.kr
 tracker.digitaldistractions.org
 tracker.directcrm.ru
 tracker.divvit.com
-tracker.dm258.cn
 tracker.dmhy.org
 tracker.documentfoundation.org
 tracker.dome.cloud
@@ -62777,7 +62794,6 @@ tracker.financialcontent.com
 tracker.finlabsindia.com
 tracker.fishlabs.net
 tracker.flightview.com
-tracker.foreverpirates.co
 tracker.free2u.org
 tracker.freecharge.in
 tracker.fuze360.com
@@ -62805,7 +62821,6 @@ tracker.gr.contentexchange.me
 tracker.gtarcade.com
 tracker.gymshark.com
 tracker.ha9.ru
-tracker.hama3.net
 tracker.hdbits.org
 tracker.hdchina.org
 tracker.hdcmct.org
@@ -62828,7 +62843,6 @@ tracker.icovid19.ichecku.in
 tracker.idocdn.com
 tracker.ikman.lk
 tracker.iltrovatore.it
-tracker.imgoingto.icu
 tracker.infosender.in
 tracker.installerapi.com
 tracker.intermedia-advertising.com
@@ -62849,7 +62863,6 @@ tracker.juliechats.com
 tracker.jx3.kingsoft.com
 tracker.k50.ru
 tracker.kadlec.org
-tracker.kali.org
 tracker.kantan-access.com
 tracker.keepfrds.com
 tracker.kentico.com
@@ -62871,7 +62884,6 @@ tracker.leechersparadise.org
 tracker.lel.asia
 tracker.levelup.cn
 tracker.levelupgames.com.br
-tracker.lilithraws.cf
 tracker.lingling.tw
 tracker.linksgen.com
 tracker.liveperson88.com
@@ -62905,7 +62917,6 @@ tracker.meiyouad.com
 tracker.metricool.com
 tracker.microsites.partnersite.mobi
 tracker.miivi.org
-tracker.minglong.org
 track.ermiscourier.com
 tracker.mmdlv.it
 tracker.mnixdata.com
@@ -62930,13 +62941,11 @@ tracker.nextcrazy.com
 tracker.ngb.haplat.net
 tracker.nice-prod.pro
 tracker.nicgrade.com
-tracker.nitrix.me
 tracker.nitropay.com
 tracker.nl.telepixtv.com
 tracker.nmp1.com
 tracker.noc.su
 tracker.nodojs.nl
-tracker.noobsubs.net
 tracker.novage.com.ua
 tracker.novaporuka.net
 tracker-omg.elasticbeanstalk.com
@@ -62948,14 +62957,12 @@ tracker.onrecruit.net
 tracker.openbitetorrent.com
 tracker.open.cd
 tracker.openholidayguide.de
-tracker.open-tracker.org
 tracker.orbitum.com
 tracker.p2pcache.org
 tracker.p2pvod.aiseewhaley.aisee.tv
 tracker.packetstorm.ch
 tracker.packy.se
 tracker.pandora.com
-tracker.parrotsec.org
 tracker.pcastuces.com
 tracker.pcdn.yximgs.com
 tracker.pensebig.com.br
@@ -62990,8 +62997,6 @@ tracker.pterclub.com
 tracker.publicbt.org
 tracker.publichash.org
 tracker.publico.pt
-tracker.publictorrent.net
-tracker.publictracker.xyz
 tracker.pussytorrents.org
 tracker.quadran.eu
 tracker.quizdaily.com
@@ -63020,7 +63025,6 @@ tracker.runtheedge.com
 tracker.rutor.info
 tracker.rutor.is
 tracker.safemailglobal.com
-tracker.sakurato.xyz
 tracker.samplicio.us
 tracker.sandrotracker.biz
 tracker.satu.kz
@@ -63041,20 +63045,16 @@ tracker.sexranking.de
 tracker.shanon-services.com
 tracker.sharereactor.ro
 tracker.shittyurl.org
-tracker.shkinev.me
 tracker.shopclues.com
 tracker.shop.frankfurt-airport.com
 tracker.shop.frankfurt-airport.com.edgekey.net
 tracker.shoppingminds.net
-tracker.sigterm.xyz
 tracker.silvercoders.com
 tracker.sjtu.edu.cn
 tracker.sk.contentexchange.me
 tracker.skynetcloud.tk
-tracker.skyts.cn
 tracker.sladinki007.net
 tracker.slash-7.com
-tracker.sloppyta.co
 tracker.smadex.com
 tracker.smartclicksystem.com
 tracker.smartcounter.de
@@ -63083,7 +63083,6 @@ tracker.svsw.xyz
 tracker.swatsystems.com
 tracker.swedish.org
 tracker.tadpull.com
-tracker.tamersunion.org
 tracker.tamome.co.uk
 tracker.tbkf.net
 tracker.tcd.re
@@ -63144,13 +63143,10 @@ tracker.uniotaku.com
 tracker.unityads.unity3d.com
 tracker.uprinting.com
 track.eruthu.com
-tracker.v6speed.org
-tracker.veryamt.com
 tracker.vgame.us
 tracker.viddsee.com
 tracker.videoeva.com
 tracker.vmd.citrix.com
-tracker.vraphim.com
 tracker.vulnix.sh
 tracker.webcasts.com
 tracker.webstyle.com
@@ -63182,7 +63178,6 @@ tracker.yts.re
 tracker.zamunda.net
 tracker.zaptushmedia.com
 tracker.zelka.org
-tracker.zemoj.com
 tracker.zlx.com.br
 tracker.zombaio.com
 tracker.zond.org
@@ -71476,6 +71471,7 @@ us.y.atwola.com
 utrace.de
 ut.upmc.com
 uxanalytics.ama.gov.pt
+uxfabric.intuitcdn.net
 v0.stat.ku6.com
 v10c.vortex-win.data.microsoft.com
 v10.events.data.microsoft.com
@@ -71561,6 +71557,7 @@ visualvisitor.com
 visualwebsiteoptimizer.com
 vitals.easyspirit.com
 vitals.ninewest.com
+vitals.vercel-analytics.com
 vivistats.com
 vizio-beacons.xumo.com
 vizio-smartcast-beacons.xumo.com
