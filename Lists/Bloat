@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 680
-# Updated: 12/9/2020  15:10 (3:10 PM CST)
+# Domains: 685
+# Updated: 12/13/2020  23:52 (11:52 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13,9 +13,9 @@ connectivity-check.ubuntu.com                           #Ubuntu - Internet Acces
 start.ubuntu.com                                        #Ubuntu - Default Browser Homepage
 
 alliance4creativity.com                                 #Anti-Piracy
+tracker.army                                            #Anti-Piracy (Bittorrent Tracker)
 
 rcd.adolab.com                                          #Blocks Right Click Menu on Websites
-
 
 fonts.acer.com                                          #Font      Acer
 edgefonts.net                                           #Font  Adobe
@@ -97,6 +97,7 @@ g1.nyt.com                                              #Font  Specific
 gel.files.bbci.co.uk                                    #Font  Specific
 media.tdameritrade.com                                  #Font  Specific
 nimblefonts.nimbledeals.com                             #Font  Specific
+pstatic09.mgo-images.com                                #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 terra-1-g.djicdn.com                                    #Font  Specific
 webfonts.zohostatic.com                                 #Font  Specific
@@ -142,6 +143,8 @@ surveymonkey.com                                        #Survey - Survey Monkey
 surveymonkey.de                                         #Survey - Survey Monkey
 usabilla.com                                            #Survey - Survey Monkey (usabilla)
 surveysparrow.com                                       #Survey - Survey Sparrow
+surveys-static.survicate.com                            #Survey - Survicate
+survey.survicate.com                                    #Survey - Survicate
 survicate.com                                           #Survey - Survicate
 survio.com                                              #Survey - Survio
 toluna-analytics.com                                    #Survey - Toluna
@@ -169,6 +172,7 @@ addnow.com                                              #Webpages - Social Media
 addthiscdn.com                                          #Webpages - Social Media
 addthis.com                                             #Webpages - Social Media
 addthisedge.com                                         #Webpages - Social Media
+su.addthis.com                                          #Webpages - Social Media
 api-public.addthis.com                                  #Webpages - Social Media
 buttons-config.sharethis.com                            #Webpages - Social Media
 linksalpha.com                                          #Webpages - Social Media

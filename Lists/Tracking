@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 72,008
-# Updated: 12/11/2020  20:22 (8:22 PM CST)
+# Domains: 72,052
+# Updated: 12/13/2020  23:52 (11:52 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -14143,6 +14143,7 @@ applog.musical.ly.edgekey.net
 applogs.pixelfederation.com
 applog-useast1a.musical.ly
 applog-useast2a.musical.ly
+app.marsello.com
 app-measurement.com
 appmetr.com
 appmetrica.yandex.com
@@ -14336,6 +14337,7 @@ b.6sc.co
 b92.yahoo.co.jp
 b9.yahoo.co.jp
 babbfd13-01a1-4924-9302-649c2420d91e-panelresearch.googlevideo.com
+backstory.ebay.com
 backtrace.io
 badgerstat.com
 badgeville.com
@@ -15060,6 +15062,7 @@ bizible.com
 bizographics.com
 b.koodomobile.com
 bkrtx.com
+bk.snapfinance.com
 blasze.com
 blasze.tk
 b.law.com
@@ -15303,6 +15306,7 @@ cdn.parrable.com
 cdn.parsely.com
 cdn-pci.optimizely.com
 cdn.pdst.fm
+cdn.pendo.io
 cdn.personalisation.ai
 cdn.perzonalization.com
 cdn.polyfill.io
@@ -16420,9 +16424,11 @@ clk.xn--90aipe.xn--p1ai
 c.logging.admicro.vn
 closealert.com
 cloud-9751.com
+cloudapi.imrworldwide.com
 cloud.ca.com
 clouderrorreporting.googleapis.com
 cloudflareinsights.com
+cloudfront-labs.amazonaws.com
 cloud.junctiontv.net
 clrstm.com
 cludo.com
@@ -16628,6 +16634,7 @@ confiant.com
 config2.mparticle.com
 config.analytics.anvato.net
 config.uca.cloud.unity3d.com
+configuration.ls.apple.com
 connct-9.com
 connectfpc.zebra.com
 connect.nabthat.com
@@ -16640,6 +16647,7 @@ consumer.krxd.net
 consumertrack.com
 contactpigeon.com
 contadorwap.com
+content21.snapfinance.com
 contentanalyticsinc.com
 content.api.nytimes.com
 contentinsights.com
@@ -16662,6 +16670,7 @@ cookies.siemens.com
 cookie.sync.usonar.jp
 cooleremail.com
 cooper.logs.roku.com
+c.oracleinfinity.io
 coralogix.com
 coremedia-analytics-flume-itms5-pv50.itunes.apple.com
 coremetrics.com
@@ -17436,6 +17445,7 @@ cutecalculator.com
 cutercounter.com
 cux.io
 c.visitweb.com
+cw.addthis.com
 cws-hulu.conviva.com
 cx.atdmt.com
 c.xbox.com
@@ -17484,6 +17494,7 @@ d2wlwbnaa4keje.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2y8psjfi06mva.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
+d31y97ze264gaa.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
@@ -17900,6 +17911,7 @@ emv2.com
 emv3.com
 en25.com
 enecto.com
+e.nexac.com
 engagementapi.skype.com
 engagement.avgbrowser.com
 engagemetrics.cisco.com
@@ -18046,6 +18058,7 @@ ezeeworld.com
 e.zg-api.com
 ezodn.com
 ezoic.com
+ezojs.com
 f2.doodlemobile.com
 faas.marktplaats.nl
 faceid-prod.cn-beijing.log.aliyuncs.com
@@ -18237,6 +18250,7 @@ gemius.com
 gemius.pl
 generaltracking.de
 genesis.malwarebytes.com
+genius.drivecentric.com
 geniussports.com
 geo1.ggpht.com
 geo1.presslabs.net
@@ -18540,6 +18554,7 @@ grafana.com
 grapeshot.com
 grapeshot.co.uk
 graph.accountkit.com
+graph.fbpigeon.com
 graphinium.com
 graphly.io
 graphql.usercentrics.eu
@@ -18624,6 +18639,7 @@ gsp54-ssl.ls-apple.com.akadns.net
 gsp55-ssl.ls-apple.com.akadns.net
 gsp56-ssl.ls-apple.com.akadns.net
 gsp57-ssl-background.ls-apple.com.akadns.net
+gsp57-ssl-locus.ls.apple.com
 gsp57-ssl.ls-apple.com.akadns.net
 gsp57-ssl-revgeo.ls.apple.com
 gsp58-ssl.ls-apple.com.akadns.net
@@ -18645,7 +18661,9 @@ gsp8-ssl.apple.com
 gsp8-ssl.ls-apple.com.akadns.net
 gsp9-ssl.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
+gspe35-ssl.ls.apple.com
 gspe85-ssl.ls.apple.com
+gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gtrk.s3.amazonaws.com
 gts-logs.cloudapp.net
@@ -18754,6 +18772,7 @@ h.iwin.com
 hk-cm.ysm.yahoo.com
 hk-trc-events.taboola.com
 h.lqm.io
+hlqo58jg61.execute-api.us-east-1.amazonaws.com
 hls-beacons.xumo.com
 hm.baidu.com
 hockeyapp.net
@@ -19784,6 +19803,7 @@ load-sjc1.exelator.com
 loadus.exelator.com
 loadus.tm.ssl.exelator.com
 loc1.hitsprocessor.com
+localization.services.pbs.org
 localytics.com
 loca.sc-jpl.com
 location-api.hdhomerun.com
@@ -21203,6 +21223,7 @@ marketscore.com
 markhor.organicfruitapps.com
 markmonitor.com
 marktest.pt
+marsello.com
 maruedr.com
 marumatchbox.com
 marykay.tt.omtrdc.net
@@ -23159,6 +23180,7 @@ omni.huk.de
 omni.nine.com.au
 omni.quickenloans.com
 omnis.basspro.com
+omnisci.com
 omnis.firstdata.com
 omni.sky.de
 omni.sportingnews.com
@@ -23658,6 +23680,7 @@ pear.contractorcalculator.co.uk
 pears.contractorcalculator.co.uk
 peer39.com
 peerius.com
+pendo.io
 pen.heifer.org
 peoplestackwebexperiments-pa.clients6.google.com
 perf.cdnads.com
@@ -27882,9 +27905,11 @@ pxl.ai
 px.leadexpert.pl
 pxl.indeed.com
 pxl.iqm.com
+pxl.jivox.com
 pxltrck.com
 pxl.viewclick.ru
 px.owneriq.net
+px.powerlinks.com
 px.surveywall-api.survata.com
 px.tvadsync.com
 px.za.zaloapp.com
@@ -27894,6 +27919,7 @@ q4cdn.com
 q.adrta.com
 qchannel03.cn
 qlook.net
+qls.qsstats.com
 qos1.ol.epicgames.com
 qos2.ol.epicgames.com
 qos3.ol.epicgames.com
@@ -27901,6 +27927,7 @@ qos4.ol.epicgames.com
 q.quora.com
 qreport.qunar.com
 qsearch-a.akamaihd.net
+qsstats.com
 q.stripe.com
 qualaroo.com
 qualifytring.com
@@ -27939,6 +27966,7 @@ ravenjs.com
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
 raygun.io
+rbp.mxptint.net
 rcallr.com
 rcsmetrics.it
 r.draeger.com
@@ -27959,10 +27987,12 @@ realtracker.com
 realvu.net
 realytics.io
 rebrand.ly
+rebuyengine.com
 recirculation.spot.im
 reco.ebay.com
 reconditeprison.com
 recorder.marketingcloudfx.com
+recovermycart.com
 rec.quartic.pl
 rec.smartlook.com
 recs.shareaholic.com
@@ -27970,6 +28000,7 @@ recv-wd.gridsumdissector.com
 redintelligence.net
 redirect.fxcm.com
 redirect.fxcorporate.com
+redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 redlotus.com
 redretarget.com
 redshell.io
@@ -28465,6 +28496,7 @@ s3-telemetry-eust4.cloudapp.net
 s3-telemetry-eust5.cloudapp.net
 s3-tracking.synthasite.net.s3.amazonaws.com
 s5network1.com
+s7d1.scene7.com
 saa.247sports.com
 saa.cbs.com
 saa.cbsi.com
@@ -28921,6 +28953,7 @@ sdk.customfit.ai
 sdk.events.meiro.io
 sdk.helixbi.io
 sdklog.tvstore.opera.com
+sdk.loyaltylion.net
 sdk.n-analytics.io
 sdk.split.io
 s.dpmsrv.com
@@ -29053,6 +29086,7 @@ secure.gard4mass.com
 secure.garm9yuma.com
 secure.gaza2lote.com
 secure.gift2pair.com
+secure-gl.imrworldwide.com
 secure.golp4elik.com
 secure.grow1maid.com
 secure.haag0some.com
@@ -29211,6 +29245,7 @@ securetracking.huntington.com
 secure.trafic.ro
 secure.tray0bury.com
 secure.tula9mari.com
+secure-us.imrworldwide.com
 secure.vane3alga.com
 secure.vice4beek.com
 secure.vick6duty.com
@@ -29337,7 +29372,6 @@ sibautomation.com
 sicas.ikea.com
 siftscience.com
 sig.ig.com
-sigma.ubi.com
 sig.nadex.com
 signifyd.com
 signpost.com
@@ -31879,6 +31913,7 @@ smtx.lastminute.com.au
 smtx.travel.com.au
 s.musicradio.com
 smy.iheart.com
+snapanalytics.net
 snap.api.mapbox.com
 snap.events.mapbox.com
 snapppt.com
@@ -60459,6 +60494,7 @@ swebstats.abanet.org
 swebstats.americanbar.org
 swebstats.apu.edu
 swebstats.imf.org
+s.webtrends.com
 sweb.ulta.com
 sweetanalytics.com
 swiftype.com
@@ -60475,6 +60511,7 @@ sync.intentiq.com
 sync.ipredictive.com
 sync.jivox.com
 sync.mathtag.com
+sync.navdmp.com
 sync.tidaltv.com
 sync.tidaltv.com.akadns.net
 sync-tm.everesttech.net
@@ -60506,6 +60543,7 @@ tag.1rx.io
 tag.adhunter.media
 tag.ageureka.com
 tag.agrvt.com
+tag.apxlv.com
 tag-asia.loopmertb.com
 tag.aticdn.net
 tag.atmserving.com
@@ -60607,6 +60645,7 @@ t.bahn.de
 t.bannerbridge.net
 t.castle.io
 t.cfjump.com
+t.channeladvisor.com
 t.contentsquare.net
 tctm.co
 t.dailymail.co.uk
@@ -61052,6 +61091,7 @@ t.felmat.net
 tf-feedback.itunes.apple.com
 t.flickr.com
 tg.dotaki.com
+t.getletterpress.com
 t.goadservices.com
 t.growingio.com
 t.grtyj.com
@@ -69716,6 +69756,7 @@ track.securecdp.com
 track.securedoffers.online
 track.securedopen-bp.com
 track.securedopen-cx.com
+track.securedvisit.com
 track.securelink85.com
 track.securelink86.com
 track.securelinkp.com
@@ -71365,6 +71406,7 @@ u.fg8dgt.com
 uf.noclef.com
 uge.ltroute.com
 uhf.microsoft.com
+uievents.snapanalytics.net
 uif.microsoft.com
 uipglob.semasio.net
 ulogs.umengcloud.com
@@ -71591,6 +71633,7 @@ vpadn.com
 vpnur.com
 vpon.com
 vpptechnologies.com
+vrb.vitals.co
 vs.asianave.com
 vs.blackplanet.com
 vscope.cloud
@@ -71696,6 +71739,7 @@ web-analytics.smile.io
 webanalyticsssl.websense.com
 web.bell.co.uk
 web-call-analytics.com
+webcdn.cox.com
 web.chtbl.com
 webclicks24.com
 webcounter.goweb.de
