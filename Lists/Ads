@@ -1,7 +1,7 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 28,413
-# Updated: 12/15/2020  17:09 (5:09 PM CST)
+# Domains: 28,415
+# Updated: 12/16/2020  00:03 (12:03 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -25458,6 +25458,7 @@ js.brealtime.com
 js.brealtime.com.cdn.cloudflare.net
 jsc.adskeeper.co.uk
 jsc.dt07.net
+js.convertflow.co
 js.fout.jp
 js.hs-banner.com
 js.hs-scripts.com
@@ -27917,6 +27918,7 @@ upapi.net
 upaxis.com
 upgastlyr.com
 upload.omnivirt.com
+uploads.convertflow.co
 uponit.com
 up.piloteraser.com
 uppyads.com
