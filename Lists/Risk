@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 86
-# Updated: 11/30/2020  23:20 (11:20 PM CST)
+# Domains: 90
+# Updated: 12/23/2020  00:58 (12:58 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -45,6 +45,9 @@ colocrossing.com                              #ISP    Worst  Spam     Nov 2020
 ###########################################################################################
 ###########################################################################################
 
+hikvision.com                                 #Chineese Security Cameras - Banned By US Gov.
+api.hikvision.com                             #Chineese Security Cameras - Banned By US Gov.
+hikvision.com.cn                              #Chineese Security Cameras - Banned By US Gov.
 
 bitbucket.io                                  #Code Hosting - Hosts malware / scam sites
 codesandbox.io                                #Code Hosting - Hosts malware / scam sites
@@ -83,6 +86,7 @@ qarchive.org                                  #Software Hosting
 soft32download.com                            #Software Hosting
 softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
+sftapi.com                                    #Software Hosting
 softpedia.com                                 #Software Hosting
 vessoft.com                                   #Software Hosting
 vessoftstatic.com                             #Software Hosting

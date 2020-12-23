@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 71,562
-# Updated: 12/18/2020  16:53 (4:53 PM CST)
+# Domains: 71,597
+# Updated: 12/23/2020  00:58 (12:58 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -519,6 +519,7 @@ al-smetrics.vizio.com
 altabold1.com
 a.ltdcommodities.com
 altmetric.com
+alweb.rfk.magidglove.com
 alytics.ru
 a.macworld.com
 amalfianalytics.com
@@ -13902,6 +13903,7 @@ api2.amplitude.com
 api2.branch.io
 api.2ip.ua
 api2.keytiles.com
+api2.poperblocker.com
 api.airfind.com
 api.amplitude.com
 api-analytics.blockchain.mn
@@ -13974,9 +13976,11 @@ api-logger.curejoy.com
 api-log.immomo.com
 api.megacool.co
 api.mixpanel.com
+api.mylnikov.org
 api.opsone.ch
 api.peers.tv
 api.perzonalization.com
+api.placed.com
 api.pxl.dailymotion.com
 api.qubit.com
 api.rest7.com
@@ -15148,6 +15152,7 @@ c3metrics.com
 c3tag.com
 c4tracking01.com
 c9854976.mgr-mid.gcsp.cddbp.net
+ca1.qualtrics.com
 cabelasinc.sc.omtrdc.net
 ca.hotels.com
 calculatingcircle.com
@@ -15256,6 +15261,7 @@ cdn.fera.ai
 cdn.fraudjs.io
 cdnfraudjsio.crowd9ptyltd.netdna-cdn.com
 cdn.getlocalmeasure.com
+cdn-gl.imrworldwide.com
 cdn.heapanalytics.com
 cdn.imhd.io
 cdn.instapagemetrics.com
@@ -17089,6 +17095,7 @@ cuteturkey.com
 cux.io
 c.visitweb.com
 cw.addthis.com
+cws.conviva.com
 cws-hulu.conviva.com
 cx.atdmt.com
 c.xbox.com
@@ -17111,6 +17118,7 @@ d1l6p2sc9645hc.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
 d1lxhc4jvstzrp.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
+d1nxn87txdj54y.cloudfront.net
 d1oesr9v7fk227.cloudfront.net
 d1usx49nhcilp7.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
@@ -17355,6 +17363,7 @@ directv.demdex.net
 di.rlcdn.com
 discover.desales.edu
 discovery.analytics.zion.idtech.services
+discovery.olv.nintendo.net
 discreetfield.com
 dis.criteo.com
 disney.demdex.net
@@ -17540,6 +17549,7 @@ edge.ad1x.com
 edge.adobedc.net
 edge-mcdn-beacon.secure.yahoo.com
 edge-mcdn.secure.yahoo.com
+edge.personalizer.io
 edge.quantserve.com
 edge.strace.co
 edge-usw2.demdex.net
@@ -17959,6 +17969,7 @@ fstrk.net
 ft.trib.al
 fuglekos.com
 fujiladder.com
+fullcircleinsights.com
 fullstory.com
 fumblingselection.com
 functionalcrown.com
@@ -18035,6 +18046,7 @@ geobytes.com
 geo.cardinalcommerce.com
 geo-chk.prod.snackly.co
 geo.choice.faktor.io
+geocode.xyz
 geocomply.com
 geocomply.net
 geodata.tcg.io
@@ -18358,6 +18370,7 @@ gs-loc.apple.com
 gs-loc.ls-apple.com.akadns.net
 gs-loc-new.ls-apple.com.akadns.net
 gsp10-ssl.apple.com
+gsp10-ssl.ls.apple.com
 gsp10-ssl.ls-apple.com.akadns.net
 gsp11-ssl.ls-apple.com.akadns.net
 gsp12-ssl.ls-apple.com.akadns.net
@@ -18384,6 +18397,7 @@ gsp41-ssl.ls-apple.com.akadns.net
 gsp45-ssl.ls-apple.com.akadns.net
 gsp46-ssl.ls-apple.com.akadns.net
 gsp47-ssl.ls-apple.com.akadns.net
+gsp51-ssl.ls.apple.com
 gsp51-ssl.ls-apple.com.akadns.net
 gsp53-ssl.ls-apple.com.akadns.net
 gsp57-ssl-background.ls-apple.com.akadns.net
@@ -18397,6 +18411,7 @@ gsp8-ssl.apple.com
 gsp8-ssl.ls-apple.com.akadns.net
 gsp9-ssl.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
+gspe19-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
 gspe85-ssl.ls.apple.com
 gsp-ssl.ls.apple.com
@@ -18920,6 +18935,7 @@ ingest.machinify.com
 ingrammicro.demdex.net
 in.hotjar.com
 inistrack.net
+initjs.rfk.magidglove.com
 innocentinvention.com
 innocentwax.com
 innocraft.cloud
@@ -19254,6 +19270,7 @@ ioninteractive.com
 ion.rockcontent.com
 ios.bugly.qq.com
 ip-1.com
+ip2location.com
 ip2nation.com
 ip.42.pl
 ip4.me
@@ -19376,6 +19393,7 @@ js.ad-score.com
 js-agent.newrelic.com
 js.alpixtrack.com
 js.analytics.smartstream.tv
+js.arcgis.com
 js.bronto.com
 js.chilipiper.com
 js.data.cctv.com
@@ -21065,6 +21083,7 @@ matomo.hetzner.com
 matomo.hotnews.ro
 matomo.indexforce.com
 matomo.int.insignio.com
+matomo.jam-software.de
 matomo.jasoseol.com
 matomo.jsmtech.org
 matomo.js-web-marketing.de
@@ -22584,6 +22603,7 @@ mktsci.com
 ml314.com
 mlabs.no
 mmdmakemydealcom.112.2o7.net
+m-metrics.capitalone.com
 mmetrics.com
 mms.cnn.com
 mmstat.com
@@ -22744,6 +22764,7 @@ myip.ru
 myip.sdu.dk
 myip.telespex.com
 myip.yandex.ru
+mylnikov.org
 mylocation.org
 myscoop-tracking.googlecode.com
 mysocialpixel.com
@@ -22799,7 +22820,6 @@ netip.de
 netline.com
 netmarbleslog.netmarble.com
 netmining.com
-netop.com
 netowl.com
 netratings.com
 netratings.com.au
@@ -23498,6 +23518,7 @@ perr.h-cdn.com
 personalisation.ai
 personalization.bloomberg.com
 personalization.tombras.com
+personalizer.io
 persuadesock.com
 persuadesupport.com
 petametrics.com
@@ -27622,6 +27643,7 @@ privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privftp.apple.com
 privymktg.com
 prnx.net
+probe.icloud.com
 processing.classaction.org
 prod-fra.truendo.com
 prod.geo.gluops.com
@@ -27753,6 +27775,7 @@ qubit.com
 queue.simpleanalyticscdn.com
 queue.statistics.aatkit.com
 quickanalytics.ca
+quick-counter.net
 quicksandear.com
 quietknowledge.com
 quisma.com
@@ -28394,6 +28417,7 @@ sablesong.com
 saccess.hikaritv.net
 s.acexedge.com
 sac.japannetbank.co.jp
+s.acquire.io
 sa.crunchyroll.com
 sadbmetrics.abc.es
 sadbmetrics.aupaathletic.com
@@ -28919,6 +28943,7 @@ securedata.okay.be
 securedata.solucious.be
 securedata.unsw.edu.au
 secure.dawn3host.com
+secure-dcr.imrworldwide.com
 secure.deng3rada.com
 secure.dens1raec.com
 secure.dial4gwyn.com
@@ -28940,6 +28965,7 @@ secure.game9time.com
 secure.gard4mass.com
 secure.garm9yuma.com
 secure.gaza2lote.com
+secure-gg.imrworldwide.com
 secure.gift2pair.com
 secure-gl.imrworldwide.com
 secure.golp4elik.com
@@ -29282,6 +29308,7 @@ sinmo.chasecenter.com
 s.innovid.com
 sintelligence.marykay.com
 sintelligence.marykayintouch.com
+siouxlandop.com
 sirdata.com
 sisense.com
 site24x7rum.com
@@ -32437,6 +32464,7 @@ ssite.johnlewisbusinessaccount.com
 ssite.johnlewisfinance.com
 ssite.johnlewis-insurance.com
 ssite.waitrose.com
+sskmnews.pro
 ssl.aafpfoundation.org
 ssl.aafp.org
 sslanalytics.sixt.at
@@ -32803,6 +32831,7 @@ staging-pi.ispot.tv
 staging-pt.ispot.tv
 staging.server-analytics.snapchat.com
 staging-tracker.fyber.com
+s.tagove.com
 stags.bluekai.com
 stakingscrew.com
 stakingslope.com
@@ -32835,6 +32864,7 @@ stat.16lao.com
 stat.181lm.com
 stat.18guanjia.com
 stat.19.lv
+stat1.bollywoodhungama.in
 stat.1internet.tv
 stat1-mlycdn.bmyy520.com
 stat1-mlycdn.bmyy520.com.cdn.cloudflare.net
@@ -32849,6 +32879,7 @@ stat.24-vulkanvegas.com
 stat.2910.eu
 stat.2-9-1.net
 stat.2aas.arbitr.ru
+stat2.bollywoodhungama.in
 stat.2cn.in
 stat.2gate.net
 stat.2r-kaltasphalt.de
@@ -32856,6 +32887,7 @@ stat.316l.it
 stat.333-vulkanvegas.com
 stat.360safe.com
 stat3.airdroid.com
+stat3.bollywoodhungama.in
 stat.3g.music.qq.com
 stat.3norai.lt
 stat.40maismulher.com.br
@@ -59765,6 +59797,7 @@ stereoproxy.com
 stereos2s.crutchfield.ca
 stereos2s.crutchfield.com
 stetic.com
+st.fullcircleinsights.com
 s.thebrighttag.com
 s.therosettastone.es
 s.thestar.com
@@ -70183,6 +70216,7 @@ tremendoustreatment.com
 trends.newsmaxwidget.com
 trg.de
 tribalfusion.com
+tribl.io
 trickycelery.com
 triggeredmail.appspot.com
 trinity.platform.intuit.com
@@ -71136,6 +71170,7 @@ vs.migente.com
 vs.target.com
 vstats.digitaltrends.com
 vstats.net
+vtrk.doubleverify.com
 vuble.tv
 vue.ai
 vuer.net
