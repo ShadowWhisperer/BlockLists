@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 71,597
-# Updated: 12/23/2020  00:58 (12:58 AM CST)
+# Domains: 71,612
+# Updated: 12/27/2020  00:30 (12:30 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2852,6 +2852,7 @@ analytics.cinch.io
 analytics.cinc-j.co.jp
 analytics.cincodenada.com
 analytics.cincopa.com
+analytics.cinematoday.jp
 analytics.cipafilter.com
 analytics.circee.me
 analytics.circlecreative.dev
@@ -13955,6 +13956,7 @@ api.datasteam.io
 api.db-ip.com
 api.dec.sitefinity.com
 api.dt4ever.com
+api.dtm.pixelmotiondemo.com
 api.edmunds.com
 api-gdpr.voodoo-tech.io
 api-gps-em.hismarttv.com
@@ -15299,6 +15301,7 @@ cdn.raygun.io
 cdn.refersion.com
 cdn.resonate.com
 cdn.retentionrock.com
+cdn.rlets.com
 cdn.rollbar.com
 cdn.segment.com
 cdn-settings.segment.com
@@ -17783,6 +17786,7 @@ extend.vimeocdn.com
 extlog.snssdk.com
 extreme-ip-lookup.com
 extremetracking.com
+extws.autosweet.com
 exuberanteyes.com
 exuberantsoda.com
 eyeota.com
@@ -18450,6 +18454,7 @@ hardtofindmilk.com
 harrys.hrzn-nxt.com
 hasoffers.com
 hatefulrequest.com
+haveaniceday.gitee.com
 hawkeye-appdebugalb-ext-2051820525.ap-south-1.elb.amazonaws.com
 hawk.laptopmag.com
 hawk-tech.co.uk
@@ -18893,6 +18898,7 @@ inference.location.live.net
 infinario.com
 infiniteanalytics.com
 infinity-c11.youboranqs01.com
+infinity-c15.youboranqs01.com
 infinity-c1.youboranqs01.com
 infinity-c2.youboranqs01.com
 infinity-c3.youboranqs01.com
@@ -19439,7 +19445,6 @@ keytarget.adnet.lt
 keytiles.com
 keywee.co
 khingtracking.com
-kidlogger.net
 kinesis.ap-east-1.amazonaws.com
 kinesis.ap-northeast-1.amazonaws.com
 kinesis.ap-northeast-2.amazonaws.com
@@ -19933,6 +19938,7 @@ log.d.eclick.vn
 log.deep-ad.com
 log.dev10.cnode.de
 log.devillion.com
+log.dev.pixelmotiondemo.com
 log.dev-portal.net
 log.diagrams.net
 log.dickhannahacuraofportland.com
@@ -20209,7 +20215,6 @@ logit.prd.api.a.intuit.com
 log.itswcg.com
 logit-us-west-2.prd.api.a.intuit.com
 log.itworld.com
-logixoft.com
 log.iyunmai.com
 log.jamesconroyfinn.com
 log.japanism.org
@@ -21144,6 +21149,7 @@ mbr-targeting.com
 mbusa-tagging-prod.azureedge.net
 mcclatchy.sc.omtrdc.net
 mcclatchy.tt.omtrdc.net
+mcdn-report.wc.yahoodns.net
 mcssl.com
 mcstats.org
 mcstats.spigotmc.org
@@ -21365,6 +21371,7 @@ meip.eu
 meiro.io
 me.jsuol.com.br
 melodicminute.com
+membrain.getsidecar.com
 memo2.nl
 memob.com
 memoinsights.com
@@ -22582,6 +22589,7 @@ militaryverse.com
 millioncounter.com
 milotree.refersion.com
 mimosamajor.com
+mind-flayer.podium.com
 mindlessmark.com
 mindtake.com
 minerva.healthcentral.com
@@ -28307,6 +28315,7 @@ rtb-analytics-test.brand-display.com
 rtbhouse.com
 rtb.pushdom.co
 rt.chip.de
+rtc.multiscreensite.com
 rtd.elasticsearch.genesismedia.com
 rtlog.byteoversea.com
 rtlog.isnssdk.com
@@ -28792,6 +28801,7 @@ script.impactproduct.com
 scripts.foureyes.io
 scripts.keytiles.com
 scripts.mymarketingreports.com
+scripts.pixelmotiondemo.com
 scripttags.jst.ai
 scrollservice.com
 scrubswim.com
@@ -31842,6 +31852,7 @@ snippets-stats.zlb.phx.mozilla.net
 snoobi.eu
 snoresmile.com
 snowplowanalytics.com
+snowplow.canary.is
 snowplow-pixel.tradingview.com
 snowplow-web.wogaa.sg
 snplow.net
@@ -32155,11 +32166,7 @@ spuriousweather.com
 sp.usatoday.com
 sp-wukong-tracker.b-cdn.net
 spxl.socy.es
-spyfone.com
-spyhuman.com
 spylog.com
-spymasterpro.com
-spyrix.com
 spysubstance.com
 sp.zalo.me
 sqm.telemetry.microsoft.com
@@ -59969,6 +59976,7 @@ svc.analytics.nativeads.com
 svcs.ebay.com
 svisitor.novartisoncology.us
 svisitor.pharma.us.novartis.com
+s.visx.net
 svntrk.com
 svonm.com
 svopn.adorama.com
@@ -60772,6 +60780,7 @@ tk.cetrk.com
 t.kctag.net
 tklio.com
 tklnk.com
+t.klokantech.com
 t.ktxtr.com
 tl813.com
 t.leadmanagerfx.com
@@ -70706,6 +70715,7 @@ trk.taboola.com
 trk.taylorstitch.com
 trk.tbase.co.kr
 trk.teamblue.services
+trk.techtarget.com
 trk.techtarget.com.cdngc.net
 trk.tecovas.com
 trk.the-ads-ssp.com
@@ -70881,6 +70891,7 @@ tutorthing.com
 t.valcyte.com
 tvem.cdn.turner.com
 t.vi-serve.com
+t.visx.net
 tvpixel.com
 tv.rlcdn.com
 t.wayfair.com
@@ -71112,6 +71123,7 @@ virgoplato.com
 virtumundo.com
 visibleconsumerinsight.com
 visiblemeasures.com
+vision.fn-pz.com
 visistat.com
 visit.affymetrix.com
 visit.asb.co.nz
@@ -71346,6 +71358,7 @@ whatismyip.akamai.com
 whatismyip.com
 whatismyip.com.br
 whatismyip.li
+whatismyip.live
 whatismyip.net
 whatismyip.org
 whatismypublicip.com
@@ -71534,6 +71547,7 @@ xlog-va.musical.ly.edgesuite.net
 xlog-va.tiktokv.com
 xlogz.com
 xmyip.com
+x.narvar.com
 xnfqqnw.onet.pl
 xovq5nemr.com
 xpanama.net
@@ -71561,6 +71575,7 @@ yjtag.yahoo.co.jp
 yldbt.com
 yoc.younited-credit.com
 yoose.com
+youboranqs01.com
 yougetsignal.com
 youip.net
 younetmedia.com
