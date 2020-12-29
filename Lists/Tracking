@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 71,612
-# Updated: 12/27/2020  00:30 (12:30 AM CST)
+# Domains: 71,614
+# Updated: 12/29/2020  01:05 (1:05 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16067,6 +16067,7 @@ cloud.ca.com
 clouderrorreporting.googleapis.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
+cloud-iq.com
 cloud.junctiontv.net
 cloudsdestruction.com
 clrstm.com
@@ -22222,6 +22223,7 @@ metrics.premiereradio.net
 metrics.priceless.com
 metrics.privilege.com
 metrics-processor.kik.com
+metrics-prod.barclaycardus.com
 metrics.prod.tvall.cn
 metrics.prod.zalora.io
 metrics.profishop.nl

@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 685
-# Updated: 12/13/2020  23:52 (11:52 PM CST)
+# Domains: 692
+# Updated: 12/29/2020  01:05 (1:05 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16,6 +16,12 @@ alliance4creativity.com                                 #Anti-Piracy
 tracker.army                                            #Anti-Piracy (Bittorrent Tracker)
 
 rcd.adolab.com                                          #Blocks Right Click Menu on Websites
+
+arc.io                                                  #Share Bandwidth
+gateway.arc.io                                          #Share Bandwidth
+overmind.arc.io                                         #Share Bandwidth
+socket.arc.io                                           #Share Bandwidth
+static.arc.io                                           #Share Bandwidth
 
 fonts.acer.com                                          #Font      Acer
 edgefonts.net                                           #Font  Adobe
@@ -53,11 +59,12 @@ use.fontawesome.com                                     #Font      Font Awesome
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
-d3gur3gjo809sk.cloudfront.net                           #Font   Hoefler & Co. (H&Co)
-code.ionicframework.com                                 #Font      IonIcons
-ionicframework.com                                      #Font      IonIcons
-linearicons.com                                         #Font    LinearIcons
-cdn.linearicons.com                                     #Font    LinearIcons
+d3gur3gjo809sk.cloudfront.net                           #Font      Hoefler & Co. (H&Co)
+code.ionicframework.com                                 #Font  IonIcons
+ionicframework.com                                      #Font  IonIcons
+unicons.iconscout.com                                   #Font      IconScout
+linearicons.com                                         #Font  LinearIcons
+cdn.linearicons.com                                     #Font  LinearIcons
 fontplus.jp                                             #Font      Font Plus
 webfont.fontplus.jp                                     #Font      Font Plus
 realtype.jp                                             #Font  RealType
@@ -195,6 +202,7 @@ sync.sharethis.com                                      #Webpages - Social Media
 t.sharethis.com                                         #Webpages - Social Media
 twitcount.com                                           #Webpages - Social Media
 uptolike.com                                            #Webpages - Social Media
+uptolike.ru                                             #Webpages - Social Media
 v1.addthisedge.com                                      #Webpages - Social Media
 w.sharethis.com                                         #Webpages - Social Media
 x.dlx.addthis.com                                       #Webpages - Social Media
