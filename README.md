@@ -25,11 +25,9 @@
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
-Domains are sorted by category. Some domains are used for both ads and tracking.  
+Domains are sorted by category. Some domains are used for both ads and tracking. These are all verified by me, either by going to the domain or by using automated tools that I have written. I try to keep dead, parked, and sinkholed domains out of these lists.  
   
-These lists are all verified by me, either by going to the domain or by using automated tools that I have written. These domains are a mix of domains I have found, and other users have compiled. I try to keep dead, parked, and sinkholed domains out of these lists.  
-  
-I remove _www<span></span>._ _mobile._ _m._  prefixes. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
+_www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
   
 _Free_, _Junk_, _Marketing*_, and _Suspicious_ may break some sites.
 <br />  
