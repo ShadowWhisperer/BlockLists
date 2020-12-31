@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Domains: 493
-# Updated: 12/4/2020  16:51 (4:51 PM CST)
+# Domains: 501
+# Updated: 12/30/2020  20:18 (8:18 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -46,8 +46,12 @@ sn-usw2.webrootcloudav.com                           #Antivirus    Webroot
 snu.webrootcloudav.com                               #Antivirus    Webroot
 sn.webrootcloudav.com                                #Antivirus    Webroot
 updates.webroot.com                                  #Antivirus    Webroot
+webrootanywhere.com                                  #Antivirus    Webroot
 webrootcloudav.com                                   #Antivirus    Webroot
 webroot.com                                          #Antivirus    Webroot
+webrootdns.net                                       #Antivirus    Webroot
+webrootmobile.com                                    #Antivirus    Webroot
+webrootmultiplatform.com                             #Antivirus    Webroot
 
 2link.be                                             #Bookmark Site
 bestelinks.nl                                        #Bookmark Site
@@ -56,10 +60,12 @@ eigenstart.be                                        #Bookmark Site
 favorietje.nl                                        #Bookmark Site
 favos.nl                                             #Bookmark Site
 fopu.com                                             #Bookmark Site
+gerelateerd.nl                                       #Bookmark Site
 icio.us                                              #Bookmark Site
 jouwpagina.be                                        #Bookmark Site
 jouwpagina.nl                                        #Bookmark Site
 linkarena.com                                        #Bookmark Site
+linkhotel.nl                                         #Bookmark Site
 linkoverzicht.be                                     #Bookmark Site
 maakjestart.nl                                       #Bookmark Site
 ontoplist.com                                        #Bookmark Site
@@ -72,10 +78,12 @@ startclub.nl                                         #Bookmark Site
 startje.com                                          #Bookmark Site
 startkabel.nl                                        #Bookmark Site
 startmee.nl                                          #Bookmark Site
+startpagina.nl                                       #Bookmark Site
 startplezier.nl                                      #Bookmark Site
 startspin.be                                         #Bookmark Site
 startspin.nl                                         #Bookmark Site
 startvista.be                                        #Bookmark Site
+startvriend.nl                                       #Bookmark Site
 tipjes.nl                                            #Bookmark Site
 top-100.pl                                           #Bookmark Site
 toplista.pl                                          #Bookmark Site
@@ -122,9 +130,8 @@ shopback.sg                                          #Cash Back
 splitter.ebates.com                                  #Cash Back
 static.ebates.com                                    #Cash Back
 
-front19.omegle.com                                   #Chatroom  [Omegle] Talk to random people
-omegle.com                                           #Chatroom  [Omegle] Talk to random people
-wawadmin.omegle.com                                  #Chatroom  [Omegle] Talk to random people
+chatrandom.com                                       #Chatroom - Talk to random people
+omegle.com                                           #Chatroom - Talk to random people
 
 befrugal.com                                         #Coupons
 cdn.cpnscdn.com                                      #Coupons
@@ -443,6 +450,7 @@ ucraft.me                                            #Website Builder
 ukit.me                                              #Website Builder
 urest.org                                            #Website Builder
 wapka.mobi                                           #Website Builder
+webador.com                                          #Website Builder
 webeden.co.uk                                        #Website Builder
 webydo.com                                           #Website Builder
 xtgem.com                                            #Website Builder
