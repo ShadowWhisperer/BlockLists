@@ -1,7 +1,7 @@
 #
 #    File: Dynamic   (Dynamic DNS:  DNS --> IP)
-# Domains: 1,619
-# Updated: 11/19/2020  16:59 (4:59 PM CST)
+# Domains: 1,623
+# Updated: 1/4/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -221,6 +221,8 @@ cleansite.biz
 cleansite.info
 cleansite.us
 clienturl.net
+cloudns.asia
+cloudns.net
 cloudwatch.net
 cloudxns.net
 cmirg.com
@@ -500,6 +502,7 @@ epicmilk.com
 eptechguys.com
 ergonomicbags.com
 e-romagnoli.com
+escape.to
 esmtp.biz
 essentialdigitalservices.com
 essentialdigitalservices.net
@@ -1594,6 +1597,7 @@ wwwhost.biz
 x24hr.com
 xattam.net
 xname.org
+xn--hoffmnsche-u5a.de
 xpresit.net
 xxuz.com
 xxxxx.tw

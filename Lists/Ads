@@ -1,7 +1,7 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 28,488
-# Updated: 12/30/2020  20:18 (8:18 PM CST)
+# Domains: 28,503
+# Updated: 1/4/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -21564,6 +21564,7 @@ api.onesignal.com
 api.opinary.com
 api.parking.godaddy.com
 api.pushbots.com
+api.pymx5.com
 api.secondstreetapp.com
 api.solutionshindsight.net
 api.taboola.com
@@ -24027,6 +24028,7 @@ cdn.doubleverify.com
 cdn.engine.4dsply.com
 cdn.epomads2.4shared.com
 cdn.feedbackify.com
+cdn.feed.sdna.com
 cdn.flashtalking.com
 cdn.flipboard.com
 cdn.gotchosen.com
@@ -24821,6 +24823,7 @@ feedbackify.com
 feedburner.com
 feedburner.google.com
 feedify.net
+feed.mirago.com
 feeds2.feedburner.com
 feed.sdna.com
 feeds-elections.foxnews.com
@@ -25623,6 +25626,7 @@ leanplum.com
 legerikath.com
 legolas-media.com
 lekkerads.nl
+lemmatechnologies.com
 lemonpi.io
 lemur.alignable.com
 lenzmx.com
@@ -25860,6 +25864,7 @@ midas-network.com
 milanuncios.com
 millennialmedia.com
 mimilcnf.pro
+minotaur-production.global.ssl.fastly.net
 mintegral.com
 misrepush.com
 missionsection.com
@@ -26386,6 +26391,7 @@ ownlocal.com
 oxoclick.com
 ox-rtb-us-west1.openx.net
 oyhnizdr4bxkz0.com
+ozoneproject.com
 p2l.info
 p30rank.ir
 p5genexs.com
@@ -26875,6 +26881,7 @@ pxf.io
 pxlad.io
 pxlsrv.net
 px.moatads.com
+pymx5.com
 pyq6n.com
 q64a9ris0j.com
 qarewien.com
@@ -27113,6 +27120,7 @@ s0.2mdn.net
 s0-2mdn-net.l.google.com
 s1-adfly.com
 s1.asyaturk.org
+s1.zendplace.pro
 s20dh7e9dh.com
 s24hc8xzag.com
 s2.everydaygayporn.com
@@ -27281,6 +27289,7 @@ servedby.flashtalking.com
 servedby.o2.co.uk
 servedbyopenx.com
 serve.faithlifeads.com
+server4ads.com
 serverbid.com
 server.ethicalads.io
 server.idreams.pl
@@ -27516,6 +27525,7 @@ starscpm.com
 stars.pl
 startappexchange.com
 startappservice.com
+static-42andpark-com.s3-us-west-2.amazonaws.com
 static.adf.ly
 static-ads.adtarget.me
 static.ads-twitter.com
@@ -27531,6 +27541,7 @@ static.clickonometrics.pl
 static.cliv2508.com
 static.clmbtech.com
 static.cookiefirst.com
+static.ctctcdn.com
 static.dable.io
 static.doubleclick.net
 static.eggflow.com
@@ -27553,6 +27564,7 @@ static.solutionshindsight.net
 static-swaven.com
 static.tabmo.io.s3.amazonaws.com
 static.thepornstudy.com
+staticw2.yotpo.com
 static.wired.com
 static.xtr2020.com
 static.yieldmo.com
@@ -27638,6 +27650,7 @@ sync.extend.tv
 syncf.tubemogul.com
 sync.go.sonobi.com
 synchrobox.adswizz.com
+sync.lemmatechnologies.com
 sync.outbrain.com
 sync.resetdigital.co
 sync.richaudience.com
@@ -27746,6 +27759,7 @@ theinterwebs.space
 themediamove.com
 themoneytizer.com
 theonecdn.com
+the-ozone-project.com
 thepornstudy.com
 therightleads.com
 thesearchagency.net
@@ -28248,6 +28262,7 @@ widgets.stripst.com
 widgets.tree.com
 widgets.tree.com.cdn.cloudflare.net
 widgets.turnto.com
+widgets.tvinsider.com
 widget.stylitics.com
 widget.stylitics.com.cdn.cloudflare.net
 widgets.wp.com

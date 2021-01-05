@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 692
-# Updated: 12/29/2020  01:05 (1:05 AM CST)
+# Domains: 703
+# Updated: 1/4/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16,6 +16,15 @@ alliance4creativity.com                                 #Anti-Piracy
 tracker.army                                            #Anti-Piracy (Bittorrent Tracker)
 
 rcd.adolab.com                                          #Blocks Right Click Menu on Websites
+
+accessibly.apps.onthemapmarketing.com                   #Accessibility Widget
+accessibly.onthemapmarketing.com                        #Accessibility Widget
+audioeye.activehosted.com                               #Accessibility Widget
+audioeye.com                                            #Accessibility Widget
+cdn.audioeye.com                                        #Accessibility Widget
+d5c8kzvnetr32.cloudfront.net                            #Accessibility Widget
+dlieyhrm30x3f.cloudfront.net                            #Accessibility Widget
+wsmcdn.audioeye.com                                     #Accessibility Widget
 
 arc.io                                                  #Share Bandwidth
 gateway.arc.io                                          #Share Bandwidth
@@ -77,6 +86,7 @@ comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 d25purrcgqtc5w.cloudfront.net                           #Font  Specific
 drh-fonts.img.digitalrivercontent.net                   #Font  Specific
 fonts.65twenty.com                                      #Font  Specific
+fonts.dzone.com                                         #Font  Specific
 fonts.ea.com.c.footprint.net                            #Font  Specific
 fonts.ea.com                                            #Font  Specific
 fonts.fandango.com                                      #Font  Specific
@@ -334,6 +344,7 @@ normandy-cloudfront.cdn.mozilla.net                     #Software   FireFox    N
 getpocket.cdn.mozilla.net                               #Software   FireFox    Pocket
 getpocket.com                                           #Software   FireFox    Pocket
 img-getpocket.cdn.mozilla.net                           #Software   FireFox    Pocket
+img-prod.pocket.prod.cloudops.mozgcp.net                #Software   FireFox    Pocket
 spocs.getpocket.com                                     #Software   FireFox    Pocket
 screenshotscdn.firefox.com                              #Software   FireFox    Screenshot  *Not seen in wild
 screenshots.firefox.com                                 #Software   FireFox    Screenshot  *Not seen in wild
@@ -346,6 +357,7 @@ tiles.r53-2.services.mozilla.com                        #Software   FireFox    T
 activity-stream-icons.services.mozilla.com              #Software   FireFox
 classify-client.services.mozilla.com                    #Software   FireFox
 detectportal.firefox.com                                #Software   FireFox
+prod.detectportal.prod.cloudops.mozgcp.net              #Software   FireFox
 firefox.settings.services.mozilla.com                   #Software   FireFox
 snippets.cdn.mozilla.net                                #Software   FireFox
 snippets.mozilla.com                                    #Software   FireFox

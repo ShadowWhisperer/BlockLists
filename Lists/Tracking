@@ -1,7 +1,7 @@
 #
-#    File: Tracking   (Analytics, Diagnostics, Location, Metrics, Puplic IP)
-# Domains: 71,757
-# Updated: 12/30/2020  20:18 (8:18 PM CST)
+#    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
+# Domains: 71,789
+# Updated: 1/4/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -90,6 +90,7 @@
 a12.bellsouth.com
 a1639.r.akamai.net
 a1.api.bbc.co.uk
+a1.nyt.com
 a1webstats.com
 a-200000005.gator.io
 a248.e.akamai.net
@@ -13979,6 +13980,7 @@ api-logger.curejoy.com
 api-log.immomo.com
 api.megacool.co
 api.mixpanel.com
+api.mxtoolbox.com
 api.mylnikov.org
 api.opsone.ch
 api.peers.tv
@@ -13992,9 +13994,11 @@ api.ringlead.com
 api.rlcdn.com
 api.rollbar.com
 api.segment.io
+api-sensors.shein.com
 api.smartechmetrics.com
 apis.murdoog.com
 api.snapkit.com
+apis.rfksrv.com
 api.survata.net
 api.tagstream.com
 api.telemetry.watchabc.go.com
@@ -14285,10 +14289,12 @@ baskettexture.com
 bat.bing.com
 batbuilding.com
 batch.ba
+batchgeo.com
 batmobi.net
 battlebalance.com
 battlehope.com
 baw5tracker.com
+bawdybalance.com
 bawdybeast.com
 bawdypets.com
 bbelements.com
@@ -15173,6 +15179,7 @@ callreports.com
 calls.net
 calltrackingmetrics.com
 calltracks.com
+calltrk.com
 calmcactus.com
 calmcough.com
 campaign-api.campaign-analytics.prod.leanplum.com
@@ -15256,11 +15263,13 @@ cdn.bizible.com
 cdn.blisspointmedia.com
 cdn.blueconic.net
 cdn.branch.io
+cdn.calltrk.com
 cdn.churnsignal.com
 cdn.c-i.as
 cdn.cooladata.com
 cdn.decibelinsight.net
 cdn.etrack1.com
+cdn.evgnet.com
 cdn.fera.ai
 cdn.fraudjs.io
 cdnfraudjsio.crowd9ptyltd.netdna-cdn.com
@@ -16083,6 +16092,7 @@ cm.eyedemand.com
 cm.eyereturn.com
 cmon.loc.gov
 cmp.cdn.the-sun.com
+cmp.cdn.thesun.co.uk
 cmp.dreamlab.pl
 cmpny18751.addressy.com
 cmp.techadvisor.co.uk
@@ -16363,6 +16373,7 @@ counter.24h.com.vn
 counter.24log.com
 counter.24log.de
 counter.24log.es
+counter.24log.fr
 counter.24log.it
 counter.24log.ru
 counter.24smi.info
@@ -16984,6 +16995,7 @@ country.yepshare.com
 count.shein.com
 count.taobao.com
 coveo.com
+c.p2r14.com
 c.paypal.com
 cpex.cz
 c.ph.msn.com
@@ -17096,6 +17108,7 @@ customs.affilired.com
 custom-tracking.salesloft.com
 custora.com
 cutecalculator.com
+cutechin.com
 cutecushion.com
 cutepopcorn.com
 cutercounter.com
@@ -17167,6 +17180,7 @@ d3jaymjyiads5d.cloudfront.net
 d3ojfshdw1hp8b.cloudfront.net
 d3owq2fdwtdp2j.cloudfront.net
 d3qou5ensc2knu.cloudfront.net
+d3vk40ihlliju7.cloudfront.net
 d41.co
 d5nxst8fruw4z.cloudfront.net
 d65ojvdli7jd8.cloudfront.net
@@ -17234,6 +17248,7 @@ d.cdngeek.com
 dcmn.com
 dc.plussizetech.com
 dcs.audi.com
+dc.services.visualstudio.com
 dcs.esprit.be
 dcs.esprit.co.uk
 dcs.esprit.nl
@@ -17519,6 +17534,7 @@ d.turn.com
 d.turn.com.akadns.net
 dustyrabbits.com
 dustywave.com
+dv.stk2.pro
 dw.cbsi.com
 dwin1.com
 dynamics.com
@@ -17768,6 +17784,7 @@ evolv.ai
 evolvemediametrics.com
 ev.surveywall-api.survata.com
 evt.mxplay.com
+evvnt-api.global.ssl.fastly.net
 evzhzppj5kel.com
 ew.caixa.gov.br
 e-webtrack.net
@@ -18243,6 +18260,7 @@ geoplugin.net
 geo-prod.do.dsp.mp.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 geo.query.yahoo.com
+geo.rlcdn.com
 geoservice.curse.com
 geo.settings.data.microsoft.com.akadns.net
 geo.seznam.cz
@@ -18354,6 +18372,7 @@ graphly.io
 graphql.instagram.com
 graphql.usercentrics.eu
 gratiscounter.at
+gratis-sexcounter.com
 gravityrd-services.com
 graylog.24imedia.com
 graylog.org
@@ -18571,6 +18590,7 @@ hosenews.com
 hostip.info
 hotelchamp.com
 hotjar.com
+hotjar.io
 hotlog.ru
 houston-analytics.com
 hp.demdex.net
@@ -19407,6 +19427,7 @@ js.alpixtrack.com
 js.analytics.smartstream.tv
 js.arcgis.com
 js.bronto.com
+js.calltrk.com
 js.chilipiper.com
 js.data.cctv.com
 js.dhresource.com
@@ -19426,6 +19447,7 @@ js.ogstats.com
 json.geoiplookup.io
 jsonip.com
 jsrdn.com
+js.reactflow.com
 js.sentry-cdn.com
 js.stroeermediabrands.de
 js.usemessages.com
@@ -23706,6 +23728,7 @@ pingma.qq.com
 ping-meta-origin-dev.jwpltx.com
 ping-meta-origin-prd.jwpltx.com
 ping-meta-prd.jwpltx.com
+pingmeter.com
 ping-origin-dev.jwpltx.com
 ping-origin-prd.jwpltx.com
 ping.popin.cc
@@ -27766,6 +27789,7 @@ prd-geolookup.mgo.com
 prebid-analytics-2.openx.net
 prebid-analytics.c.appier.net
 prebid-analytics.openx.net
+prebid.the-ozone-project.com
 preciouseffect.com
 preciousyoke.com
 predic.io
@@ -27805,6 +27829,7 @@ prod-telemetry.paradox-interactive.com
 prod.telemetry.ros.rockstargames.com
 producecopy.com
 product.dji.com
+production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
 productivepear.com
 prod-uilogger.public.prodsupportsite.a.intuit.com
 profitrumour.com
@@ -27965,6 +27990,7 @@ r.draegershop.com
 rdtrck2.com
 reach-api.beachfrontreach.com
 reactandshare.com
+reactflow.com
 reactful.com
 readgoldfish.com
 readingguilt.com
@@ -27992,6 +28018,7 @@ receptivereaction.com
 recirculation.spot.im
 reco.ebay.com
 recommenddoor.com
+recommender.scarabresearch.com
 reconditeprison.com
 reconditerake.com
 reconditerespect.com
@@ -32520,6 +32547,7 @@ srepdata.ydr.com
 srepdata.yorkdispatch.com
 srepdata.zanesvilletimesrecorder.com
 sreport.mitsubishicars.com
+srmdata.com
 s.rosettastone.co.kr
 s.rosettastone.co.uk
 s.rosettastone.de
@@ -34636,6 +34664,7 @@ static.criteo.net
 stat.icecasino-na-dengi.co
 stat.ice-casino-online.me
 stat.icegoo.com
+static.fengkongcloud.com.w.kunlunca.com
 static.gazeta.pl
 static.getclicky.com
 static.goqubit.com
@@ -60079,6 +60108,7 @@ sugarcurtain.com
 suggestions.dadata.ru
 s.ugo.com
 sulkybutter.com
+sulkycook.com
 summerhamster.com
 summerobject.com
 sumologic.com
@@ -70375,6 +70405,7 @@ trinity.platform.intuit.com
 t.riverhitc.com
 trk.123c.vn
 trk.1cpa.ru
+trk.1stphorm.com
 trk.2015game.com
 trk.24x7th.com
 trk2-bt2.swaven.com
@@ -71226,6 +71257,7 @@ valentino.sc.omtrdc.net
 vanfireworks.com
 vantageanalytics.com
 v-cars9eklly.wc.yahoodns.net
+vc.hotjar.io
 v-ct84emwfy7.wc.yahoodns.net
 vdc.zoomph.com
 vendorlist.consensu.org
