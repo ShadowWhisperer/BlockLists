@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 71,889
-# Updated: 1/7/2021  23:12 (11:12 PM CST)
+# Domains: 71,896
+# Updated: 1/8/2021  15:49 (3:49 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -18087,6 +18087,7 @@ geocomply.net
 geodata.tcg.io
 geodatatool.com
 geo.dcmn.com
+geode.donkeymob.com
 geoedge.be
 geo.emol.cl
 geo-eu.snigelweb.com
@@ -28074,6 +28075,7 @@ rating.openstat.ru
 ravenjs.com
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
+raw.vidyard.com
 raygun.io
 rbp.mxptint.net
 rcallr.com
@@ -28598,6 +28600,7 @@ ruleranalytics.com
 rules.quantcount.com
 rum.kobo.com
 rum-static.pingdom.net
+rum.uptime.com
 rundsp.com
 rusticprice.com
 rutarget.ru
@@ -49856,6 +49859,7 @@ stats.medienarchiv.zhdk.ch
 stats.medien.rwth-aachen.de
 stats.mediocre.hosting
 stats.medisportive.ch
+stats.medium.build
 stats.medor.coop
 stats.medoxis.com
 stats.medusalogic.com
@@ -71206,6 +71210,7 @@ u.fg8dgt.com
 uf.noclef.com
 uge.ltroute.com
 uhf.microsoft.com
+uie.data.cbc.ca
 uievents.snapanalytics.net
 uif.microsoft.com
 uipglob.semasio.net
@@ -71254,10 +71259,12 @@ up.pixel.ad
 upravel.com
 ups.analytics.yahoo.com
 upscore.com
+ups.data.cbc.ca
 upsells.boldapps.net
 upsight-api.com
 upsight.com
 upstats.yadro.ru
+uptime.com
 uptimerobot.com
 uptracs.com
 urbanairship.com

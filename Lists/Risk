@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 90
-# Updated: 12/23/2020  00:58 (12:58 AM CST)
+# Domains: 113
+# Updated: 1/8/2021  15:49 (3:49 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -45,6 +45,32 @@ colocrossing.com                              #ISP    Worst  Spam     Nov 2020
 ###########################################################################################
 ###########################################################################################
 
+
+kidinspector.com                              #Computer Monitoring
+
+spyfone.com                                   #Phone Monitoring
+spymasterpro.com                              #Phone Monitoring
+spyhuman.com                                  #Phone Monitoring
+
+actualkeylogger.com                           #Keylogger
+ardamax.com                                   #Keylogger
+bestxsoftware.com                             #Keylogger
+blazingtools.com                              #Keylogger
+elitekeyloggers.com                           #Keylogger
+iwantsoft.com                                 #Keylogger
+kidlogger.net                                 #Keylogger
+logixoft.com                                  #Keylogger
+mobilespy.b-cdn.net                           #Keylogger
+netbull.com                                   #Keylogger
+pctattletale.com                              #Keylogger
+refog.com                                     #Keylogger
+relytec.com                                   #Keylogger
+spyrix.cc                                     #Keylogger
+spyrix.com                                    #Keylogger
+spyrix.info                                   #Keylogger
+win-spy.com                                   #Keylogger
+wolfeye.us                                    #Keylogger
+
 hikvision.com                                 #Chineese Security Cameras - Banned By US Gov.
 api.hikvision.com                             #Chineese Security Cameras - Banned By US Gov.
 hikvision.com.cn                              #Chineese Security Cameras - Banned By US Gov.
@@ -83,10 +109,11 @@ getitfree.us                                  #Software Hosting
 jetelecharge.com                              #Software Hosting
 oovoo.com                                     #Software Hosting
 qarchive.org                                  #Software Hosting
+sftapi.com                                    #Software Hosting
 soft32download.com                            #Software Hosting
 softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
-sftapi.com                                    #Software Hosting
+softoniclabs.com                              #Software Hosting
 softpedia.com                                 #Software Hosting
 vessoft.com                                   #Software Hosting
 vessoftstatic.com                             #Software Hosting
