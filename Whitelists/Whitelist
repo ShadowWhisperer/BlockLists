@@ -56,6 +56,7 @@ ir.ebaystatic.com                          # Ebay - Breaks "See All" in advanced
 gha.ebay.com                               # Ebay - Notifications
 vod.ebay.com                               # Ebay - Print Preview
 secureir.ebaystatic.com                    # Ebay - Edit Item
+rover.ebay.at                              # Ebay - View Orders
 rover.ebay.com                             # Ebay - View Orders
 rover.ebay.de                              # Ebay - View Orders
 hotmail.com                                # Email - Hotmail
@@ -241,6 +242,7 @@ appboot.netflix.com                        # App - Netflix (Won't Launch)
 nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
 uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
+license.adrise.tv                          # App - Tubi (Digital Rights Management Error, if blocked)
 api2.sr.roku.com                           # App - The Roku Channel
 configs.ott.aetnd.com                      # App - A&E - Check for internet access
 signature.video.aetnd.com                  # App - A&E - Crashs App
@@ -256,7 +258,8 @@ liberty.sw.roku.com                        # TCL - Roku System Update Check
 
 # Breaks Some Sites
 ########################
-asadcdn.com                     #Ad/Tracker - Breaks Stes (Example: bild.de)
+asadcdn.com                     #Ad/Tracker - Breaks Sites (Example: bild.de)
+imasdk.googleapis.com           #Ad/Tracker - Breaks Video Players on some sites
 mkt6385.com                     #Marketing - Breaks Confirmation Email
 lddy.no                         #Marketing - Breaks Links
 pjtra.com                       #Marketing - Breaks Links
