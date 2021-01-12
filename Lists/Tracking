@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 71,896
-# Updated: 1/8/2021  15:49 (3:49 PM CST)
+# Domains: 71,920
+# Updated: 1/11/2021  22:27 (10:27 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -140,6 +140,7 @@ aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
 aanalytics.adelaide.edu.au
+aan.cdn.speedshiftmedia.com
 a.answers.com
 aa.online-metrix.net
 aarki.com
@@ -13966,7 +13967,9 @@ api-gps-em.hismarttv.com
 api.growsurf.com
 api.hostip.info
 api.instabug.com
+api.intellimize.co
 api.iperceptions.com
+api.ipfind.com
 api.ipify.org
 api.ipinfodb.com
 api-js.mixpanel.com
@@ -13983,6 +13986,7 @@ api.megacool.co
 api.mixpanel.com
 api.mxtoolbox.com
 api.mylnikov.org
+api.nerdydata.com
 api.opsone.ch
 api.peers.tv
 api.perzonalization.com
@@ -13995,11 +13999,13 @@ api-rest.analytics.nexonm.com
 api.ringlead.com
 api.rlcdn.com
 api.rollbar.com
+api.sail-personalize.com
 api.segment.io
 api-sensors.shein.com
 api.smartechmetrics.com
 apis.murdoog.com
 api.snapkit.com
+api.speedshiftmedia.com
 apis.rfksrv.com
 api.survata.net
 api.tagstream.com
@@ -15052,6 +15058,7 @@ bounceexchange.com
 bouncex.com
 bouncex.net
 bouncyproperty.com
+bpi.rtactivate.com
 b.publicmobile.ca
 brain.foresee.com
 branch.io
@@ -15077,7 +15084,6 @@ britepool.com
 broadboundary.com
 broadcastbed.com
 broaddoor.com
-bronto.com
 brothersbucket.com
 browsee.io
 browseranalytic.com
@@ -15257,6 +15263,7 @@ cdn-analytics.syndeca.com
 cdn-api.arcpublishing.com
 cdn.appdynamics.com
 cdn.appsflyer.com
+cdn.autoaudience.com
 cdn.avmws.com
 cdn.b0e8.com
 cdn-bacon.getcarro.com
@@ -15323,6 +15330,7 @@ cdn.shareaholic.net
 cdn-sitegainer.com
 cdnsonata.taptapnetworks.com
 cdn.speedcurve.com
+cdn.speedshiftmedia.com
 cdnssl.clicktale.net
 cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
@@ -16203,6 +16211,7 @@ collector-hpn.privacy.ghostery.net
 collector.ksax.com
 collector.kstptv5.com
 collector.leaddyno.com
+collector.pi.spectrum.net
 collector.plarium.com
 collector.prod.expedia.com
 collector-pxrw7m6iav.px-cloud.net
@@ -17248,6 +17257,7 @@ dc.audi.com
 dccss.banggood.com
 dcdn.aitrillion.com
 d.cdngeek.com
+dcf.espn.com
 dcmn.com
 dc.plussizetech.com
 dcs.audi.com
@@ -17555,6 +17565,7 @@ earthquakeend.com
 earthquakescarf.com
 earthycopy.com
 easycounter.com
+easyence.com
 easyresearch.se
 eba-amadeus.netdna-ssl.com
 ebilobster.ai
@@ -18131,6 +18142,7 @@ geoip.dennis.co.uk
 geoip-docker-prod-black.us-east-1.elasticbeanstalk.com
 geoip.edagames.com
 geoip.eldorado.ua
+geoip.enlistsecurely.com
 geoip.erotik-von-nebenan.com
 geoip.esmas.com
 geoip.esri.com
@@ -18853,6 +18865,7 @@ idiagnostics.apple.com
 idpix.media6degrees.com
 idpix.media6degrees.com.cdn.cloudflare.net
 ids.ad.gt
+id.sharedid.org
 idsync.rlcdn.com
 id-visitors.com
 id.zalo.me
@@ -19440,7 +19453,6 @@ js-agent.newrelic.com
 js.alpixtrack.com
 js.analytics.smartstream.tv
 js.arcgis.com
-js.bronto.com
 js.calltrk.com
 js.chilipiper.com
 js.data.cctv.com
@@ -19657,6 +19669,7 @@ loc1.hitsprocessor.com
 localization.services.pbs.org
 localytics.com
 loca.sc-jpl.com
+locate.measurementlab.net
 location-api.hdhomerun.com
 location.api.yuppcdn.net
 location.bloomberg.com
@@ -21364,6 +21377,7 @@ mdws.wpcu.ca
 mdws.wscu.com
 mdws.yncu.com
 mdws.yourcu.com
+me.apple-dns.net
 measuread.com
 measure.analysis.fi
 measure.jstor.org
@@ -22866,6 +22880,7 @@ negotiatetime.com
 neighborlywatch.com
 nelreports.net
 neodatagroup.com
+nerdydata.com
 nervoussummer.com
 netavenir.com
 netcoresmartech.com
@@ -27904,6 +27919,7 @@ printerplasma.com
 prism.app-us1.com
 privacy-api.9gag.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
+privacy.ft.com
 privftp.apple.com
 privymktg.com
 prnx.net
@@ -27925,6 +27941,7 @@ product.dji.com
 production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
 productivepear.com
 prod-uilogger.public.prodsupportsite.a.intuit.com
+prod.y-medialink.com
 profitrumour.com
 profitwell.com
 profusesupport.com
@@ -29494,6 +29511,7 @@ shallowblade.com
 shallowsmile.com
 shareaholic.com
 shareaholic.net
+sharedid.org
 shared.pdffiller.com
 sharppatch.com
 shasta-anti-spam-stats.norton.com
@@ -32407,6 +32425,7 @@ spongesalt.com
 spookysleet.com
 spookyslope.com
 spoonsilk.com
+spoor-api.ft.com
 sportsmansguide.tt.omtrdc.net
 spot.im
 spotstring.com
@@ -60217,6 +60236,7 @@ sundance.clarip.com
 sundaysky.com
 s.union.360.cn
 s.update.fbsbx.com
+s.update.mediamathtag.com
 supercounters.com
 superficialsquare.com
 superstats.com
@@ -62826,6 +62846,7 @@ tracker.leadsius.com
 tracker.leads.su
 tracker.ledreactor.org
 tracker.leechersparadise.org
+tracker-legacy.streeteasy.com
 tracker.lel.asia
 tracker.levelup.cn
 tracker.levelupgames.com.br
@@ -70492,6 +70513,7 @@ trck.youvisit.com
 trc.taboola.com
 treadbun.com
 treasuredata.com
+tredir.espn.com
 tredir.go.com
 tremendousplastic.com
 tremendoustime.com
@@ -71364,6 +71386,7 @@ vanfireworks.com
 vantageanalytics.com
 v-cars9eklly.wc.yahoodns.net
 vc.hotjar.io
+v-collector.dp.aws.charter.com
 v-ct84emwfy7.wc.yahoodns.net
 vdc.zoomph.com
 vendorlist.consensu.org
@@ -71857,6 +71880,7 @@ yjtag.jp
 yjtag.yahoo.co.jp
 yldbt.com
 ylog.huya.com
+y-medialink.com
 yoc.younited-credit.com
 yoose.com
 youboranqs01.com
