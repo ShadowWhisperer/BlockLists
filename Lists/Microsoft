@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
 # Domains: 466
-# Updated: 12/8/2020  23:22 (11:22 PM CST)
+# Updated: 1/13/2021  00:36 (12:36 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -67,6 +67,7 @@ windowsphone.xbox.com                          #App     Windows Phone (From Win 
 api.bing.com                                   #Bing
 bing.com                                       #Bing
 bing.net                                       #Bing
+c-bing-com.a-0001.a-msedge.net                 #Bing
 commerce.bing.com                              #Bing
 customsearch.ai                                #Bing
 platform.bing.com                              #Bing
@@ -239,7 +240,6 @@ substrate.office.com                           # ? Office
 videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
 
-
 array101-prod.do.dsp.mp.microsoft.com          # ? Updates
 array102-prod.do.dsp.mp.microsoft.com          # ? Updates
 array103-prod.do.dsp.mp.microsoft.com          # ? Updates
@@ -306,7 +306,6 @@ polaris-tagging-prod.azureedge.net             #Azure
 ###############################################################################################
 ###############################################################################################
 
-
 aad.cs.dds.microsoft.com
 adl.windows.com
 a-ring-fallback.msedge.net
@@ -355,7 +354,6 @@ crl.microsoft.com
 cs1.wpc.v0cdn.net
 c-s.cms.ms.akadns.net
 cs.dds.microsoft.com
-dc.services.visualstudio.com
 dgps-eus2.cloudapp.net
 dgps.support.microsoft.com
 directory.services.live.com
@@ -380,7 +378,6 @@ groove.microsoft.com
 groups.photos.microsoft.com
 i1.services.social.microsoft.com
 i2-technet.sec.s-msft.com
-
 ie9comview.vo.msecnd.net
 ieonline.microsoft.com
 ieonlinews.microsoft.com
@@ -421,18 +418,14 @@ metaservices.microsoft.com
 microsoftedgetips.microsoft.com
 microsoftedgewelcome.microsoft.com
 modpim.com
-
-
 mscrl.microsoft.com
 msc.wlxrs.com
 msdnshared.blob.core.windows.net
 msedge.net
 msegceporticoprodassets.blob.core.windows.net
 myhomemsn.com
-
 oaspapps.com
 offerservicefallback.blob.core.windows.net
-
 oneocsp.microsoft.com
 onerm.olsvc.com
 optanon.blob.core.windows.net
