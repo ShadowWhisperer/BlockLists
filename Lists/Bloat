@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 703
-# Updated: 1/4/2021  23:51 (11:51 PM CST)
+# Domains: 702
+# Updated: 1/14/2021  23:35 (11:35 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -53,7 +53,6 @@ fonts.googleapis.com                                    #Font  Google
 f.kinja-static.com                                      #Font      Kinja
 hello.myfonts.net                                       #Font  My Fonts
 myfonts.net                                             #Font  My Fonts
-d33wubrfki0l68.cloudfront.net                           #Font      Font Awesome
 d3s44e87wooplq.cloudfront.net                           #Font      Font Awesome
 fontawesome.com                                         #Font      Font Awesome
 ka-f.fontawesome.com                                    #Font      Font Awesome

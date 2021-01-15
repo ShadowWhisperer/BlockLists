@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 71,927
-# Updated: 1/13/2021  00:36 (12:36 AM CST)
+# Domains: 71,965
+# Updated: 1/14/2021  23:35 (11:35 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -14089,6 +14089,7 @@ app.wecantrack.com
 appzi.io
 apsalar.com
 a.pub.network
+apxadtracking.net
 apxlv.com
 apxor.com
 aquaticalarm.com
@@ -14139,6 +14140,7 @@ as.myhomebook.de
 as.noizz.de
 aspiringattempt.com
 as.rollingstone.de
+asset.fwcdn1.com
 assets.adobedtm.com
 assets.a-mo.net
 assets.bounceexchange.com
@@ -14255,6 +14257,7 @@ awap.equifax.com
 awarealley.com
 aw.dwin1.com
 a.wishabi.com
+awseukpi.whisbi.com
 awstrack.me
 awzbijw.com
 axiomaticalley.com
@@ -15093,6 +15096,7 @@ browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browserhawk.com
 browser-http-intake.logs.datadoghq.com
+browser-http-intake.logs.datadoghq.eu
 browser.pipe.aria.microsoft.com
 browsersdk.barcindia.in
 browser.sentry-cdn.com
@@ -15326,6 +15330,7 @@ cdn.resonate.com
 cdn.retentionrock.com
 cdn.rlets.com
 cdn.rollbar.com
+cdn-ru.bitrix24.ru
 cdn.segment.com
 cdn-settings.segment.com
 cdn.shareaholic.net
@@ -15432,6 +15437,7 @@ checkip-waw.dyndns.com
 checkmyip.com
 check-my-ip.net
 checkpagerank.net
+checkstat.nl
 cheerfulrange.com
 cheetahmail.com
 chemicalcoach.com
@@ -17010,6 +17016,7 @@ count.taobao.com
 coveo.com
 c.p2r14.com
 c.paypal.com
+cp.bitrix.ru
 cpex.cz
 c.ph.msn.com
 cplay.watch.aetnd.com
@@ -17168,6 +17175,7 @@ d24b4gammzmqzp.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d2bhklarlhhnvo.cloudfront.net
+d2dpiwfhf3tz0r.cloudfront.net
 d2m3o9615up7jl.cloudfront.net
 d2o5idwacg3gyw.cloudfront.net
 d2p3zdq8vjvnxd.cloudfront.net
@@ -17197,6 +17205,7 @@ d3vk40ihlliju7.cloudfront.net
 d41.co
 d5nxst8fruw4z.cloudfront.net
 d65ojvdli7jd8.cloudfront.net
+d70shl7vidtft.cloudfront.net
 d867x8xq12ag.cloudfront.net
 d8cfa9b855476b04fa2d1dfa7c9154c09b55f9ca.cws.conviva.com
 d9esmwyn3ffr1.cloudfront.net
@@ -17221,6 +17230,7 @@ data0.bell.ca
 data1.bell.ca
 data1.sparkasse.at
 data1.virginmobile.ca
+data.adobedc.net
 data.ad-score.com
 data.alloystore.dev
 data.avid.com
@@ -17229,6 +17239,7 @@ datacollection.api.mylyve.com
 datacollector.coin.scribol.com
 datadoghq-browser-agent.com
 datadoghq.com
+datadoghq.eu
 data-events.uniplaces.com
 data.flurry.com
 datagather.xsolla.com
@@ -17476,6 +17487,7 @@ drivingdirt.com
 drydrum.com
 ds-aksb-a.akamaihd.net
 dsc.cisco.com
+dsh7ky7308k4b.cloudfront.net
 dsms0mj1bbhn4.cloudfront.net
 dsp.adkernel.com
 dsp.io
@@ -17490,6 +17502,7 @@ dt.admission.net
 dt.adsafeprotected.com
 dtc-330d.com
 dtc-v6t.com
+dt.gnpge.com
 dthvdr9.com
 dtm.24hourfitness.com
 dtm.adorama.com
@@ -17595,6 +17608,7 @@ edge-mcdn.secure.yahoo.com
 edge.personalizer.io
 edge.quantserve.com
 edge.strace.co
+edge.uniconsent.com
 edge-usw2.demdex.net
 edigitalresearch.com
 edigitalsurvey.com
@@ -17697,6 +17711,7 @@ enviousshape.com
 enviousthread.com
 eonlinevideos.akamaized.net
 epica.ai
+epnt.ebay.com
 epochstats.com
 eproof.com
 epsihost.com
@@ -17794,12 +17809,14 @@ eventtracker.westus.cloudapp.azure.com
 eventtracking.hubapi.com
 eventtracking-log.services.video.ibm.com
 eventtracking-log.ustream.tv
+event.webcollage.net
 everestjs.net
 everesttech.net
 evergage.com
 evgnet.com
 evidon.com
 evisitanalyst.com
+ev.kck.st
 evolv.ai
 evolvemediametrics.com
 ev.surveywall-api.survata.com
@@ -18015,6 +18032,8 @@ frightenedpotato.com
 frnchprl.com
 frontend.id-visitors.com
 fstrk.net
+ftn.eulerian.net
+ftn.fortuneo.fr
 ft.trib.al
 fuglekos.com
 fujiladder.com
@@ -18035,6 +18054,7 @@ fuzzyweather.com
 fvl1f.pw
 fw.adsafeprotected.com
 f.wishabi.net
+fwpixel.com
 fysical.com
 fzlnk.com
 g2insights-cdn.azureedge.net
@@ -18548,6 +18568,7 @@ heavyplayground.com
 heb-metrics.heb.com
 helixbi.io
 hello.zonos.com
+helpcmqp0.ksmobile.com
 helper-stats.wondershare.com
 helpshift.com
 hentaicounter.com
@@ -19460,6 +19481,7 @@ js.analytics.smartstream.tv
 js.arcgis.com
 js.calltrk.com
 js.chilipiper.com
+jscount.com
 js.data.cctv.com
 js.dhresource.com
 js.driftt.com
@@ -19525,6 +19547,7 @@ kinesis.us-gov-east-1.amazonaws.com
 kinesis.us-gov-west-1.amazonaws.com
 kinesis.us-west-1.amazonaws.com
 kinesis.us-west-2.amazonaws.com
+kinoseans.pl
 kissmetrics.com
 kitcode.net
 kitesquirrel.com
@@ -19623,6 +19646,7 @@ lg.nanda.vn
 lg-release-tracking-8080.gcld-line.com
 l.hrzn-nxt.com
 liberty.logs.roku.com
+library.whisbi.com
 librato-collector.genius.com
 librato.com
 librelytics.com
@@ -19655,6 +19679,7 @@ listrak.com
 literatelight.com
 litix.io
 littlebuddy.apple.com
+liukebin.sinaapp.com
 liveapi.huya.com
 liveintent.com
 live-log.immomo.com
@@ -19905,6 +19930,7 @@ log.bkw.cn
 log.block.si
 log.boardtracker.com
 log.book.baidu.com
+logbor.com
 log.bpevent.hu
 log.bpmonline.com
 log.brandreachsys.com
@@ -19972,6 +19998,7 @@ log.coolguang.com
 log.core.cloud.vewd.com
 log.corrosionstandards.info
 log.cosplayclass.com
+logcounter.com
 log.cpex.cz
 log.cqa.bcs.ottcn.com
 log.cqvip.com
@@ -22888,6 +22915,7 @@ neodatagroup.com
 nerdydata.com
 nervoussummer.com
 netavenir.com
+netclickstats.com
 netcoresmartech.com
 netdeal.com.br
 netelixir.com
@@ -23728,6 +23756,7 @@ padoa.fr
 p.ads.roku.com
 pagecount.com
 page-events-ustats.udemy.com
+pagesense-collect.zoho.com
 pages-stats.rbl.ms
 pagetracking.popmarker.com
 paidtime.com
@@ -27870,6 +27899,7 @@ podiumpresto.com
 pointlessrifle.com
 poisedpig.com
 pokdfopk.cmail20.com
+polaris.xfinity.com
 politegoldfish.com
 polling.bbc.co.uk
 poll.push-na.fsapi.com
@@ -28072,6 +28102,7 @@ quiz.stroeermediabrands.de
 quizzicalzephyr.com
 quotespeed.morningstar.com
 r1.dmtrk.net
+r1.fwpixel.com
 r2.dmtrk.net
 r3.dmtrk.net
 r5-pc-stats.stryder.respawn.com
@@ -28092,6 +28123,7 @@ random-logic.com
 rangecake.com
 ranking-hits.de
 ran-reporting.rakutenmarketing.com
+rapidcounter.com
 rapidkittens.com
 raresummer.com
 rating.openstat.ru
@@ -28110,6 +28142,7 @@ reach-api.beachfrontreach.com
 reactandshare.com
 reactflow.com
 reactful.com
+reactx.com
 readgoldfish.com
 readingguilt.com
 readingopera.com
@@ -28171,6 +28204,7 @@ regularplants.com
 reinvigorate.net
 rejectfairies.com
 relay42.com
+rel.webcollage.net
 remarketingextra.com
 remarketingpixel.com
 remarkety.com
@@ -28581,6 +28615,7 @@ roughroll.com
 routerfeedback.asus.com
 route.to
 rox.begmedia.com
+rpc.bestprice.gr
 rpt.final-score.com
 rpt.kidsfootlocker.com
 rptrcks.walmart.com
@@ -61069,6 +61104,7 @@ tile.rvtrader.com
 t.illuma-tech.com
 tiltingpoint.helpshift.com
 timeinc.trc.taboola.com
+timeone.io
 timeterritory.com
 timetwig.com
 timezoneapi.io
@@ -71243,6 +71279,7 @@ uie.data.cbc.ca
 uievents.snapanalytics.net
 uif.microsoft.com
 uipglob.semasio.net
+u.logbor.com
 ulogs.umengcloud.com
 ultraoranges.com
 umbel.com
@@ -71638,6 +71675,7 @@ webstats4u.com
 webstats.app
 webstats.com
 webstatsdomain.org
+webstats.eb.com
 webstats.fr
 web-stats.org
 webstat.vodafone.com
