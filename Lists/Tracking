@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 71,965
-# Updated: 1/14/2021  23:35 (11:35 PM CST)
+# Domains: 71,982
+# Updated: 1/15/2021  15:15 (3:15 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -335,6 +335,7 @@ admissions.calvin.edu
 admonitoring.bsgroup.ro
 admonitor.net
 admo.tv
+admp-tc.delfi.lv
 adnetasia.com
 ad-net.co.uk
 adobe.aeonbank.co.jp
@@ -399,7 +400,12 @@ ads-trk-stage.vidible.tv
 ads-trk.vidible.tv
 adtag.loopme.me
 adtarget.me
+adtd.douglas.at
 adtd.douglas.ch
+adtd.douglas.de
+adtd.douglas.it
+adtd.douglas.nl
+adtd.douglas.pl
 adtelligence.de
 adtm.chip.de
 adtmrs.delti.com
@@ -18440,6 +18446,7 @@ growingio.com
 growsurf.com
 growthily.com
 growthy-release-growthywebcollector-80.gcld-line.com
+gscounters.eu1.gigya.com
 gsi-one.org
 gslb-2.demdex.net
 gs-loc.apple.com
@@ -27876,6 +27883,7 @@ plantpotato.com
 platform.cloud.coveo.com
 platform.linkedin.com
 platform-s.foursquare.com
+plausible.io
 player.stats.live-video.net
 player-telemetry.vimeo.com
 playground.xyz
@@ -60625,6 +60633,7 @@ tawdryson.com
 t.bahn.de
 t.bannerbridge.net
 t.castle.io
+tccd.douglas.pl
 t.cfjump.com
 t.channeladvisor.com
 t.contentsquare.net
@@ -63072,6 +63081,7 @@ tracker.sns.iqiyi.com
 tracker.snxd.com
 tracker.softcube.com
 tracker.softgarden.de
+tracker.spapi.io
 tracker.sqreemtech.com
 trackers.safelinkwireless.com
 tracker.staging.adotmob.com
@@ -71143,6 +71153,7 @@ t-s.allergicasthma.com
 tsa.taxslayer.com
 ts.delfi.ee
 ts.delfi.lt
+ts.delfi.lv
 t.seenthis.se
 t-s.gene.com
 tshop.r10s.com
@@ -71216,7 +71227,9 @@ ttgtmedia.com
 ttmetrics.jcpenney.com
 tt.natwest.com
 tt.rbs.co.uk
+tttd.douglas.at
 tttd.douglas.ch
+tttd.douglas.pl
 tt.ulsterbank.ie
 ttysetrk.com
 tul.pcgamer.com
@@ -71367,6 +71380,7 @@ usefathom.com
 useinsider.com
 useitbetter.com
 useproof.com
+usercentrics.eu
 user-event-tracker-prod.us-east-1.elasticbeanstalk.com
 userleap.com
 userlocation.googleapis.com
@@ -71426,6 +71440,7 @@ vaioimprovement.sony.com
 vakmedianet.nl
 valencia-beacons.xumo.com
 valentino.sc.omtrdc.net
+va.motorsport.tv
 vanfireworks.com
 vantageanalytics.com
 v-cars9eklly.wc.yahoodns.net
@@ -71798,6 +71813,8 @@ wtp101.com
 wt-safetag.com
 wts.one
 wttd.douglas.de
+wttd.douglas.it
+wttd.douglas.nl
 wtustats.avg.com
 wundercounter.com
 wurfl.io
