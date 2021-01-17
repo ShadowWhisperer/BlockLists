@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Domains: 352
-# Updated: 11/30/2020  23:20 (11:20 PM CST)
+# Domains: 354
+# Updated: 1/17/2021  11:17 (11:17 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -63,7 +63,6 @@ swogo.net
 ##############################
 #  Customer Acquisition
 ##############################
-logbor.com
 publicidees.com
 timeonegroup.com
 
@@ -71,6 +70,7 @@ timeonegroup.com
 ########################################
 #  Digital Marketing
 ########################################
+ayima.com
 bluehornet.com
 clickon.vn
 digitaldoughnut.com
@@ -79,6 +79,8 @@ episerver.net
 kaizenet.com
 leadlovers.com
 mapp.com
+onthemapmarketing.com
+successagency.com
 
 
 ########################################
@@ -190,7 +192,6 @@ riskified.com                      #Riskified
 searchspring.net                   #SearchSpring
 cdn.searchspring.net               #SearchSpring
 segmentify.com                     #Segmentify
-cquotient.com                      #SalesForce
 force.com                          #SalesForce
 krux.com                           #SalesForce
 marketingcloudapis.com             #SalesForce
@@ -259,7 +260,6 @@ instantfunnelhacks.com
 reachforce.com
 
 
-
 #############################
 #  Influencer Marketing
 #############################
@@ -271,6 +271,10 @@ tapinfluence.com
 ##############################
 #  Marketing Automation
 ##############################
+act-on.com                      #Act-On Software
+actonservice.com                #Act-On Software
+aosag.net                       #Act-On Software
+b2b-mail.net                    #Act-On Software
 blueshift.com                   #BlueShift
 getblueshift.com                #BlueShift
 getcandid.com                   #Candid
@@ -291,6 +295,7 @@ moxiworks.com                   #Moxi Works
 np6.net                         #Np6
 paradym.com                     #Paradym
 personyze.com                   #Personyze
+plezi.co                        #Plezi
 d36gjhyr65lj31.cloudfront.net   #PlusThis
 plusthis.com                    #PlusThis
 static.plusthis.com             #PlusThis
@@ -302,7 +307,6 @@ cdn.sendpulse.com               #SendPulse
 pushdata.sendpulse.com          #SendPulse
 sendpulse.com                   #SendPulse
 zentail.com                     #Zentail
-act-on.com
 novaonx.com
 markethero.io
 
@@ -348,7 +352,6 @@ joystickinteractive.com       #Joystick Interactive
 kiosk.tm                      #Kiosk
 mediarithmics.com             #Mediarithmics
 mkmarketingservices.com       #MK Marketing
-ninthdecimal.com              #Ninth Decimal
 marketizator.com              #OmniConvert
 omniconvert.com               #OmniConvert
 orbeeauto.com                 #Orbee Auto
@@ -454,8 +457,6 @@ xovi.de                #All-In-One Online Marketing Suite
 omnisrc.com            #Email & SMS
 privy.com              #Email & SMS
 sendinblue.com         #Email & SMS
-marsello.com           #Email, SMS, Popups
-app.marsello.com       #Email, SMS, Popups
 ########################
 cdn.emailer.emfluence.com     #Emfluence
 d181jrjebmi235.cloudfront.net #Emfluence

@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 71,982
-# Updated: 1/15/2021  15:15 (3:15 PM CST)
+# Domains: 72,003
+# Updated: 1/17/2021  11:17 (11:17 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -6164,6 +6164,7 @@ analytics.ifood.tv
 analytics.ifrog.cz
 analytics.ifschleife.de
 analytics.ig.com.br
+analytics.igeek.com
 analytics.igg.com
 analytics.igha.de
 analytics.ignify.me
@@ -15140,6 +15141,7 @@ bugherd.com
 bugly.qcloud.com
 bugreport.medallia.com
 bugsense.com
+bugs.mojang.com
 bugsnag.appstore.a2z.com
 bugsnag.co
 bugsnag.com
@@ -15284,10 +15286,12 @@ cdn.bizible.com
 cdn.blisspointmedia.com
 cdn.blueconic.net
 cdn.branch.io
+cdn.brcdn.com
 cdn.calltrk.com
 cdn.churnsignal.com
 cdn.c-i.as
 cdn.cooladata.com
+cdn.cquotient.com
 cdn.decibelinsight.net
 cdn.etrack1.com
 cdn.evgnet.com
@@ -15299,6 +15303,7 @@ cdn-gl.imrworldwide.com
 cdn.heapanalytics.com
 cdn.imhd.io
 cdn.instapagemetrics.com
+cdn.jst.ai
 cdn.krxd.net
 cdn.levelaccess.net
 cdn.listrakbi.com
@@ -17029,6 +17034,7 @@ cplay.watch.aetnd.com
 cps-tracking.mobvista.com
 c.pt.msn.com
 cqcounter.com
+cquotient.com
 crabbychin.com
 cr.acecounter.com
 crackle.hb.omtrdc.net
@@ -17476,6 +17482,7 @@ dp.alma.iltalehti.fi
 dpm.demdex.net
 dpmsrv.com
 dps.bing.com
+dp.shoprunner.com
 dq95d35.com
 drabsize.com
 draconiancurve.com
@@ -17808,6 +17815,7 @@ eventstream-829-weblog-07.bigpoint.net
 eventstream-829-weblog-08.bigpoint.net
 events.tremorhub.com
 events.ubembed.com
+events-us-east-1.ipredictive.com
 events-va.placester.com
 events.web.money
 event.syndigo.cloud
@@ -17977,6 +17985,7 @@ fltag.findlawresources.com.cdn.cloudflare.net
 flurry.com
 fluxloop.com
 fm.cnbc.com
+fmfmobile.fe.apple-dns.net
 fmip.me.com
 foamyfood.com
 foraging.wagtailanalytics.com
@@ -18122,6 +18131,7 @@ geo.cardinalcommerce.com
 geo-chk.prod.snackly.co
 geo.choice.faktor.io
 geocode.xyz
+geocoding.internetbrands.com
 geocomply.com
 geocomply.net
 geodata.tcg.io
@@ -18447,6 +18457,7 @@ growsurf.com
 growthily.com
 growthy-release-growthywebcollector-80.gcld-line.com
 gscounters.eu1.gigya.com
+gscounters.us1.gigya.com
 gsi-one.org
 gslb-2.demdex.net
 gs-loc.apple.com
@@ -19510,6 +19521,7 @@ jsrdn.com
 js.reactflow.com
 js.sentry-cdn.com
 js.stroeermediabrands.de
+jst.ai
 js.usemessages.com
 js.users.51.la
 js-webt-lol.9cache.com
@@ -19999,6 +20011,7 @@ log.compassionchristian.com
 log.com.tr
 log.conf1g.com
 logconfig.polarisoffice.com
+log.consumabletv.com
 log.contactspls.com
 log.contentsbridge.com
 log.coolguang.com
@@ -22960,6 +22973,7 @@ nfltags.com
 ngastatic.com
 ngd.thesun.co.uk
 n.hellobc.com
+nicepeopleatwork.com
 nielsen.com
 niftyhospital.com
 niftyjelly.com
@@ -23276,6 +23290,7 @@ opus.analytics.yahoo.com
 oracleinfinity.io
 orangeoperation.com
 oribi.io
+origin-images.wikia.com
 orpixel.adsafeprotected.com
 osc.venetian.com
 os.fandango.com
@@ -27937,6 +27952,7 @@ p.pulse.toyota.com
 p.qiao.baidu.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
+prd-collector-auth.playbuzz.com
 prd-geolookup.mgo.com
 prebid-analytics-2.openx.net
 prebid-analytics.c.appier.net
@@ -28624,6 +28640,7 @@ routerfeedback.asus.com
 route.to
 rox.begmedia.com
 rpc.bestprice.gr
+rps-svcs.oracle.com
 rpt.final-score.com
 rpt.kidsfootlocker.com
 rptrcks.walmart.com
@@ -29716,6 +29733,7 @@ smartmeapp.com
 smartocto.com
 smartpixel.auditorius.ru
 smart-pixl.com
+smartplugin.youbora.com
 smartreports.youbora.com
 smartscreen.microsoft.com
 smartscreen-prod.microsoft.com
@@ -56480,6 +56498,7 @@ stats.teamadmino.com
 stats.team-affix.de
 stats.team-bully.com
 stats.teameisenreich.de
+stats.teamextrememc.com
 stats.teamfantasian.com
 stats.teamhealy.de
 stats.teamhelix.net
@@ -57125,6 +57144,7 @@ stats.torontohhs.org
 stats.torore.owndrive.com
 stats.toroscafe.cz
 stats.torquaypac.ca
+stats.torrage.info
 stats.torredarocha.com
 stats.torrent.cyberhostservice.com
 stats.torromi.com
@@ -71945,6 +71965,7 @@ ylog.huya.com
 y-medialink.com
 yoc.younited-credit.com
 yoose.com
+youbora.com
 youboranqs01.com
 yougetsignal.com
 youip.net
