@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 702
-# Updated: 1/14/2021  23:35 (11:35 PM CST)
+# Domains: 707
+# Updated: 1/20/2021  23:59 (11:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -394,15 +394,15 @@ candycrush.king.com                                     #Game - Win 10 Start Til
 candycrushsoda.king.com                                 #Game - Win 10 Start Tile
 ccs.play.king.com                                       #Game - Win 10 Start Tile
 
-pfmsqosprod.australiaeast.cloudapp.azure.com            #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.australiasoutheast.cloudapp.azure.com       #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.eastasia.cloudapp.azure.com                 #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.japaneast.cloudapp.azure.com                #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.japanwest.cloudapp.azure.com                #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.northeurope.cloudapp.azure.com              #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.southafricanorth.cloudapp.azure.com         #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.southeastasia.cloudapp.azure.com            #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
-pfmsqosprod.westeurope.cloudapp.azure.com               #Game   Halo: The Master Chief Collection (Foreign game servers causes high ping, if from USA
+pfmsqosprod.australiaeast.cloudapp.azure.com            #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.australiasoutheast.cloudapp.azure.com       #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.eastasia.cloudapp.azure.com                 #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.japaneast.cloudapp.azure.com                #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.japanwest.cloudapp.azure.com                #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.northeurope.cloudapp.azure.com              #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.southafricanorth.cloudapp.azure.com         #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.southeastasia.cloudapp.azure.com            #Games  Foreign game servers causes high ping, if from USA
+pfmsqosprod.westeurope.cloudapp.azure.com               #Games  Foreign game servers causes high ping, if from USA
 pachinko-api.wbagora.com                                #Game   Injustice 2 - Multiplayer
 wb-agora-hydra-file-storage-pachinko.s3.amazonaws.com   #Game   Injustice 2 - ?
 
@@ -440,7 +440,11 @@ error.facebook.com                                      #Facebook
 fb-graph.asus.com                                       #Facebook
 graph.facebook.com                                      #Facebook
 embeddedassistant.googleapis.com                        #Google  Assistant
+calendarsync-pa.googleapis.com                          #Google    Calendar
+contactsui-pa.googleapis.com                            #Google  Contacts
 chat-pa.clients6.google.com                             #Google    Chat
+peoplestack-pa.googleapis.com                           #Google  People
+photosdata-pa.googleapis.com                            #Google    Photos
 firebaseinappmessaging.googleapis.com                   #Google  FireBase
 firebaseperusertopics-pa.googleapis.com                 #Google  FireBase
 firebaseremoteconfig.googleapis.com                     #Google  FireBase
@@ -459,10 +463,11 @@ safebrowsing.googleapis.com                             #Google  Safe Browsing
 safebrowsing.google.com                                 #Google  Safe Browsing
 safebrowsing.googleusercontent.com                      #Google  Safe Browsing
 forcesafesearch.google.com                              #Google    Safe Search
-mobile-gtalk.l.google.com                               #Google  Talk
-mtalk4.google.com                                       #Google  Talk
-talk.google.com                                         #Google  Talk
-talkx.l.google.com                                      #Google  Talk
+sticker-pa.googleapis.com                               #Google  Stickers
+mobile-gtalk.l.google.com                               #Google   Talk
+mtalk4.google.com                                       #Google   Talk
+talk.google.com                                         #Google   Talk
+talkx.l.google.com                                      #Google   Talk
 app.goo.gl                                              #Google
 assistant.google.com                                    #Google
 cast.google.com                                         #Google

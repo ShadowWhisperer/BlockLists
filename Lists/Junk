@@ -1,7 +1,7 @@
 #
-#    File: Junk   (Survey, Customer Junk, Personally Untrusted Antivirus, ISPs, Non USA Sites, etc)
-# Domains: 501
-# Updated: 12/30/2020  20:18 (8:18 PM CST)
+#    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
+# Domains: 504
+# Updated: 1/20/2021  23:59 (11:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -131,6 +131,7 @@ splitter.ebates.com                                  #Cash Back
 static.ebates.com                                    #Cash Back
 
 chatrandom.com                                       #Chatroom - Talk to random people
+chatspin.com                                         #Chatroom - Talk to random people
 omegle.com                                           #Chatroom - Talk to random people
 
 befrugal.com                                         #Coupons
@@ -186,9 +187,11 @@ speednames.eu                                        #ISP
 pch.com                                              #Prizes / Giveaways
 thedailywinnings.com                                 #Prizes / Giveaways
 
+888casino.com                                        #Gambling
 acraffiliates.com                                    #Gambling
 annuaire-x.com                                       #Gambling
 bet-at-home.com                                      #Gambling
+bovada.lv                                            #Gambling
 btggaming.com                                        #Gambling
 bwin.com                                             #Gambling
 casinocity.com                                       #Gambling

@@ -1,7 +1,7 @@
 #
 #    File: Suspicious   (Found while searching other domains. Mixture of uncertain domains)
-# Domains: 9,000
-# Updated: 1/15/2021  15:15 (3:15 PM CST)
+# Domains: 9,055
+# Updated: 1/20/2021  23:59 (11:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -22,7 +22,11 @@
 01113138.com
 01233138.com
 012webpages.com
+01.static.xsf.ximxim.com
+02.static.xsf.ximxim.com
 03333138.com
+03.static.xsf.ximxim.com
+04.static.xsf.ximxim.com
 05553138.com
 05673138.com
 06663138.com
@@ -400,6 +404,7 @@
 34563138.com
 350.com
 35553138.com
+360dialog.com
 360doc.cn
 365support24x7.com
 36663138.com
@@ -615,6 +620,7 @@
 9lhc3x6whk.com
 a0da4d04aa96e49fdaa2530854154f11-14fdce253d04ea66.elb.us-east-2.amazonaws.com
 a1955.b.akamai.net
+a1fd.playfabapi.com
 a1-support.com
 a2y.co
 a3distrib.fr
@@ -1870,6 +1876,7 @@ acv.softbank-hikaricollabo.com
 acv.sonet-hikari.com
 acv.xn--dckf5a1e821s9i7b.com
 acv.xn--lck7b0fy49k9y1b.com
+ad2play.ftv-publicite.fr
 ada8-2.ampleur.jp
 ada8.ampleur.jp
 ada8.hadawaka.jp
@@ -2090,6 +2097,7 @@ adsoptimal.com
 adsorb.com
 ad-space.net
 adspectacle.net
+adspending01.bwnet.com.tw
 ad-sponsor.com
 adspt-2069.com
 adspt-4250.com
@@ -2235,6 +2243,7 @@ afmm.fr
 af.quasia.net
 africaspromise.org
 af.vinohayashi.com
+afwprovisioning-pa.googleapis.com
 agence-immobilier-en-touraine-37.com
 agencejuive.org
 agence-matrimoniale.fr
@@ -2436,6 +2445,7 @@ aosau.net
 aoscufe.com
 aotnet.it
 a-oz-opensocial.googleusercontent.com
+ap2.googleusercontent.com
 apahflfit2015.samsung.com
 ap.appcloudbox.net
 apartamentoslamorana.com
@@ -2443,6 +2453,7 @@ apc.es
 ap.delfi.ee
 apemanboards.com
 apester.com
+api-02.360dialog.io
 api2.appscraft.mobi
 api-aas.smartcentral.tv
 api.advista.no
@@ -2486,6 +2497,7 @@ apis.tapatalk.com
 api.ticlock.com
 api.truthfinder.com
 api.twyne.io
+api.unthem.com
 apiv2.datasteam.io
 api.vsco.co
 api-v.vzmessages.com
@@ -2495,11 +2507,13 @@ apocrypha.ovh
 apollo.io
 apostasie.be
 app3.mashero.com
+appcloud.mcafee.com
 appdemo.eazybiz.ng
 app-de.onetrust.com
 appengine.google.com
 app.e.seagate.com
 appeum.com
+appflood.com
 appfofun.com
 app.greatviews.de
 apphandler.s3-us-west-1.amazonaws.com
@@ -2520,6 +2534,7 @@ app.pinchecker.com
 apprize-focanancy.com
 approach.wise1-golf.com
 apps4push.com
+appsdt.com
 apps.fbsbx.com
 appsflyer.tk
 appsitemsuggest-pa.clients6.google.com
@@ -2568,6 +2583,7 @@ art-et-artisanat-du-monde.com
 articles-planet.com
 artirix.com
 artvillagenet.com
+as1.abigames.com.vn
 ascasurveys.org
 ashaliamore.com
 ashcdn.com
@@ -2656,6 +2672,7 @@ aviara.de
 avire.de
 aviry.de
 avitech.fr
+avocarrot.com
 avocats-covid19.fr
 avocats.fr
 avs-mobile.com
@@ -2668,6 +2685,7 @@ aws.duplex.sc-gw.com
 aws.duplex.snapchat.com
 awstaticdn.net
 awstats.adfly.eu
+aws.weather.com
 axcloud.fr
 axdsz.pro
 axelsfun.com
@@ -3121,6 +3139,7 @@ cdn-au.pagesense.io
 cdn.bestware.org
 cdn.bizibly.com
 cdn.blueadss.com
+cdn.checkout.com
 cdnclntr.com
 cdn.convrse.media
 cdn.cvws.apple-dns.net
@@ -3268,6 +3287,7 @@ chbrowserupdate.com
 cheapsim.de
 check.looser.jp
 checkmoncredit.fr
+checkout.com
 checkout.paypal.com
 checkout-sdk.bigcommerce.com
 checkout.staterecords.org
@@ -3354,6 +3374,7 @@ click.techtree.jp
 click.theantivirusguy.com
 clicktitans.com
 clicktrace.info
+client.rave-api.com
 clients1.google.com.hk
 clients2.vlcstreamer.com
 clients6.googleusercontent.com
@@ -3384,6 +3405,7 @@ cloudservices.roku.com
 cloudservices.staging.roku.com
 cloud.wordlift.io
 clubalpin-chamonix.com
+clubhub-public.xboxlive.com
 clubjimmy.com
 clubsousleau.com
 clubtaurinvicois.com
@@ -3472,6 +3494,7 @@ conexvous.com
 config.nos.avast.com
 configprd.samsungcloudsolution.net
 connect.cloud.netapp.com
+connect.decknetwork.net
 connectgravity.com
 connect.netapp.com
 connect.scroll.com
@@ -3584,7 +3607,6 @@ cres.waze.com
 criticalltech.com
 crl.apple.com
 crl.netsolssl.com
-crl.pki.goog
 crl.securetrust.com
 croconuts.com
 cronicasdelaemigracion.com
@@ -3816,6 +3838,7 @@ dealoshopping.com
 dealperform-images.s3.amazonaws.com
 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
 debussac.fr
+decknetwork.net
 dedicated.domains
 deegay.it
 defilangues.be
@@ -3877,6 +3900,7 @@ diableaucorps.com
 diag-covid.com
 diagnostica-products.com
 diagswebextpro.houston.hp.com
+dialercallinfolookup-pa.googleapis.com
 diariodevalderrueda.es
 diarioveterinario.com
 dici.fm
@@ -4245,6 +4269,7 @@ ev-pu.com
 ewaglongoo.com
 exaways.com
 excelonepizza.fr
+exchange.consumabletv.com
 exclusivecasinonew.com
 exelate.com
 exellinsertion.store
@@ -4351,6 +4376,7 @@ fhgate.com
 fhsarl.com
 fh.under9.co
 fi44.com
+ficontinuity-pa.googleapis.com
 fides-pol.apple.com
 filecluster.com
 file-extractor.com
@@ -4523,6 +4549,7 @@ funeralia.uk
 funnelserv.systems
 fuoricittaviaggi.com
 fusion.google.com
+fus.yad2.co.il
 futeboltv.com
 futuradios.net
 future.net.uk
@@ -4550,6 +4577,7 @@ game-portal.gameloft.com
 gamescarousel.com
 gameschill.com
 gamesmobilehot.com
+gamesrevenue.com
 gamesrotator.com
 gametracker.com
 gametradeeasy.com
@@ -4966,6 +4994,7 @@ hub.iphone-shuuri.jp
 hubspotsupportservices.com
 huet-echansonne.com
 hufpflegeshop.de
+hugetraffic.com
 hughesnetsupport.com
 hugit.com
 hugo-philippeau.fr
@@ -5155,6 +5184,7 @@ instapop.shop
 instaroas.it
 instytutkryptografii.net
 intcodec.com
+intellipopup.com
 intent-apps.com
 interactiv-doc.fr
 interactivebrands.com
@@ -5841,6 +5871,8 @@ lsp-serafini.it
 ltk.pw
 ltnt.pl
 ltwebstatic.com
+lulusoft.com
+lulusoftware.com
 lupe.at
 luselucky.com
 lushey.com
@@ -5963,6 +5995,7 @@ mediacoronavirus.com
 mediadrug.com
 media.dynamo.video
 mediafase.com
+media.googleusercontent.com
 medialand.tn
 medialead.it
 media.millenniumhotels.com
@@ -6006,6 +6039,7 @@ messagebird.com
 messagetracer-whitelist.apple.com
 messaging.ccs.mcafee.com
 messardiere.com
+messenger.lulusoft.com
 metairie-vacances.com
 meters.cbp-sd.com
 methyleneblue-covid19.com
@@ -6076,6 +6110,7 @@ mobilemaps.clients.google.com
 mobilenetworkscoring-pa.googleapis.com
 mobilerewards.live
 mobile-sdk-resources.jumio.com
+mobiletextsservice-pa.googleapis.com
 mobilier-mousse-collectivites.com
 mobilier-mousse.com
 mobi-mind.net
@@ -6368,6 +6403,7 @@ northsea-cycle.com
 nortonlam.com
 nos.ns1.ff.avast.com
 _nos._tcp.nos.avast.com
+notes-pa.googleapis.com
 noticeprd.cloudapp.net
 noticeprd.trafficmanager.net
 notice.sp-stage.net
@@ -6388,6 +6424,7 @@ nrc.tapas.net
 ns2.easydomain.net
 ns2.topdns.com
 nsa-organisation.com
+nscash.com
 nsf-1.dropbox.com
 nsit.com
 ns.itunes.apple.com
@@ -6508,6 +6545,7 @@ optiqueopera.fr
 optmnstr.com
 optmstr.com
 optvdo.com
+opt.ximad.com
 op-u.storage.googleapis.com
 orangeblog.fr
 oray.com.cn
@@ -6769,6 +6807,7 @@ pics.qa.ebaystatic.com
 picsum.photos
 pictela.net
 pictogame.com
+pictorialtears.com
 picture-posters.com
 picwic.com
 piecesetpneus.com
@@ -6826,6 +6865,7 @@ playlott.com
 playmillion.com
 play.mine.gay-hotvideo.net
 play.mix.kinostuff.com
+playmoviesdfe-pa.googleapis.com
 play.nomalleadzuaff.com
 playtomic.com
 playtube.ws
@@ -6839,6 +6879,7 @@ plumassier.com
 plus-play.com
 plus.url.google.com
 p.mradx.net
+pmservices.cp.microsoft.com
 pmsrv.co
 pngunprisn.com
 pocketmaestro.com
@@ -6895,6 +6936,7 @@ predictormedia.com
 prediksitogeljitu.in
 preferences.truste.com
 premierflows.com
+premiumcash.com
 premiumvideostore.com
 premopt.com
 preprod-pixel.consentric.de
@@ -6918,6 +6960,7 @@ printerlogic.com
 printerp.ru
 printersofflinefix.com
 prismcash.com
+privacy.acmeaom.com
 privatbank.ua
 private.medialead.eu
 privo.com
@@ -7144,6 +7187,7 @@ rebillialive-30481093.us-east-1.elb.amazonaws.com
 rebond.info
 rebrand.dropboxstatic.com
 recipeally.com
+reco-public.rec.mp.microsoft.com
 record.revenuenetwork.com
 recovidnow.net
 rec.replay.answerscloud.com
@@ -7293,6 +7337,7 @@ rtphoto.photoreflect.com
 rtproxy-na-l7.waze.com
 rubiquiz.com
 rubot.ovh
+rubyjewelwizard.com
 run.app
 runews24m.com
 runners.es
@@ -7617,6 +7662,7 @@ simsus.de
 sinergycosmetics.com
 singtraff.cool
 sirce.fr
+sisu.xboxlive.com.akadns.net
 sitebooster.com
 sitebro.net
 site.flashx.cc
@@ -7679,6 +7725,7 @@ snapcall.io
 snapchat-commerce-public-readable.storage.googleapis.com
 snapchat-proxy.appspot.com
 snaplytics.io
+snap.mobile.att.net
 snapshot.carfax.com
 sni.mashero.com
 snip.ly
@@ -7693,6 +7740,7 @@ social-na.waze.com
 socialphobic.co.uk
 socialsearch.com
 socialspark.com
+social.xbox.com
 sociodedavid.com
 soda.is
 sofe.ebay.com
@@ -7841,6 +7889,7 @@ static.searchstax.com
 static.server-corporation.com
 static.simonsignal.com
 statics-usa.creativecdn.com
+statics-xbc-eus.xbox.com
 statistics.ovh
 statlog.paran.com
 stats4all.com
@@ -7990,6 +8039,7 @@ tankeogteknikk.no
 tapjoy.net
 target-markets.fr
 target.michaels.com
+tasks-pa.googleapis.com
 tatianabnbamsterdam.com
 tawenda-tech.org
 tbn0.google.com
@@ -8027,6 +8077,7 @@ tekindustri.upnjatim.ac.id
 telco.ad4compare.net
 telecom-infoconso.fr
 telefonfiyatlari.org
+telephonyspamprotect-pa.googleapis.com
 telexis.com
 teliacompany.com
 teltoo.com
@@ -8789,6 +8840,7 @@ wondershare.com
 woolyss.com
 wordlift.io
 wordpress-fr.net
+workplace.tools
 worldmodel.biz
 worldoftulo.com
 worldpush.co
@@ -8856,11 +8908,13 @@ xceler8.io
 xcmsv2-cdn.awap.tv
 x.cnt.my
 x-diesel.biz
+ximad.com
 xingqibaile.com
 xinul.org
 xlarea.com
 xldd.com
 xlence.fr
+xlovecash.com
 xml.nbcsearch.com
 xmlppcbuzz.com
 xml.sunnycoast.xyz
@@ -8962,6 +9016,7 @@ zenstrasbourg.org
 zentrappx.com
 zenworks.online
 zeronaught.com
+zerostateproxy-pa.googleapis.com
 zettapetta.com
 zeusmedia.g.aaplimg.com
 zicp.net

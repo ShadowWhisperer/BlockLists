@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,003
-# Updated: 1/17/2021  11:17 (11:17 AM CST)
+# Domains: 72,033
+# Updated: 1/20/2021  23:59 (11:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -196,6 +196,7 @@ a.cbc.ca
 a.cbslocal.com
 accessiblemetrics.com
 accessify.com
+accesspoints.googleapis.com
 accounts-analyticsapp.paytm.com
 acecounter.com
 acehardware-www.baynote.net
@@ -7486,6 +7487,7 @@ analytics.logbox.io
 analytics-log.classlink.io
 analytics.logezy.com
 analytics-logger.enlace-creative.com
+analytics-logger.service.junctiontv.net
 analytics.loggerslane.ch
 analytics.logicway.eu
 analytics.logicway.nl
@@ -14258,6 +14260,7 @@ a.vliegwinkel.nl
 avm.avantisvideo.com
 avochato-prod.us-west-1.elasticbeanstalk.com
 a.vonage.com
+avty.xboxlive.com
 awakebird.com
 awake-stats.jpush.cn
 awap.equifax.com
@@ -15287,6 +15290,7 @@ cdn.blisspointmedia.com
 cdn.blueconic.net
 cdn.branch.io
 cdn.brcdn.com
+cdn.bronto.com
 cdn.calltrk.com
 cdn.churnsignal.com
 cdn.c-i.as
@@ -15359,6 +15363,7 @@ cdn.treasuredata.com
 cdn.ttgtmedia.com.wtxcdn.com
 cdn.viglink.com
 cdn.vuukle.com
+cdn.watchingthat.net
 cdn.wecantrack.com
 cdn.whatismyipaddress.com
 cdn.ywxi.net
@@ -17170,6 +17175,7 @@ d1igp3oop3iho5.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
 d1lxhc4jvstzrp.cloudfront.net
+d1n00d49gkbray.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
 d1nxn87txdj54y.cloudfront.net
 d1oesr9v7fk227.cloudfront.net
@@ -18030,6 +18036,7 @@ freecounterandstats.com
 free-counter.co.uk
 free-counters.co.uk
 freecounters.co.uk
+freecounterstat.com
 freecounterstat.ovh
 freegeoip.app
 freegeoip.boldapps.net
@@ -18119,6 +18126,7 @@ geo2.adobe.com
 geo2.ggpht.com
 geo3.ggpht.com
 geoapi.indiatimes.com
+geoar.googleapis.com
 geo-assets.tedcdn.com
 geo.asus.com
 geo.atlassbx.com
@@ -18247,6 +18255,7 @@ geoip.propellerads.com
 geoip.purecobalt.com
 geoip.radio-canada.ca
 geoip.registersafely.com
+geoip-rest.ably.io
 geo.ipromote.com
 geoip.secomapp.com
 geoip.secomtech.com
@@ -18505,6 +18514,7 @@ gsp8-ssl.apple.com
 gsp8-ssl.ls-apple.com.akadns.net
 gsp9-ssl.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
+gspe11-ssl.ls.apple.com.edgekey.net
 gspe19-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
 gspe85-ssl.ls.apple.com
@@ -18694,6 +18704,7 @@ i9w8p.pw
 iabusprivacy.pmc.com
 iagr.net
 iam-agof-app.irquest.com
+iam.gcdn.co
 iaudienc.com
 ibclick.stream
 ib-ibi.com
@@ -18706,6 +18717,7 @@ id.aftenbladet.no
 idealspot.com
 identity.ads.roku.com
 identity.mparticle.com
+identity.prod.platform.ext.mobilityware.com
 ident.me
 idevaffiliate.com
 id.geistm.com
@@ -19003,6 +19015,7 @@ infinity-c8.youboranqs01.com
 infinity-c9.youboranqs01.com
 infinity-tracking.net
 influ2.com
+info.a7.org
 info.afl.com.au
 info.anz.com
 info.anz.com.au
@@ -19444,7 +19457,6 @@ ipwatch.monu.delivery
 ip-whois.net
 iqiprodcol.ciq.labs.att.com
 irganalytics.com
-iris06-gold-ssl.gameloft.com
 iris.tv
 ironbeast.io
 ir.surveywall-api.survata.com
@@ -19545,6 +19557,7 @@ keytarget.adnet.lt
 keytiles.com
 keywee.co
 khingtracking.com
+kid-control.com
 kinesis.ap-east-1.amazonaws.com
 kinesis.ap-northeast-1.amazonaws.com
 kinesis.ap-northeast-2.amazonaws.com
@@ -19572,6 +19585,8 @@ kitcode.net
 kitesquirrel.com
 kittyaction.com
 klaviyo.com
+klaymediatrk.com
+kmtrak.com
 knotch-cdn.com
 knotkettle.com
 knottysticks.com
@@ -19669,6 +19684,7 @@ library.whisbi.com
 librato-collector.genius.com
 librato.com
 librelytics.com
+libs.coremetrics.com
 libstat.com
 licasd.com
 licensing.bitmovin.com
@@ -19682,6 +19698,7 @@ lightstep.com
 lightstep.medium.systems
 lijit.com
 lijuke.panel.kantartns.lt
+liltstat.com
 limbik.com
 linkconnector.com
 linkmink.com
@@ -21135,6 +21152,8 @@ maruedr.com
 marumatchbox.com
 marykay.tt.omtrdc.net
 massivemark.com
+massrelevance.com
+massrelevance.s3.amazonaws.com
 master.statistics.aatkit.com
 match.deepintent.com
 matchid.adfox.yandex.ru
@@ -21243,6 +21262,7 @@ matomo.tripla.jp
 matomo.ultratrash.com
 matomo.vivancos.eu
 matomo.warburg.de
+matomo.waterfox.net
 matomo.whvn.cc
 matomo.workaround.org
 matomo.xinmedia.com
@@ -22801,6 +22821,7 @@ mpp.vindicosuite.com
 mps.nbcuni.com
 mpstat.us
 mrpdata.net
+mscom.demdex.net
 ms-data-collection.prod.cloud.ogury.io
 msi-aci.com
 ms.sc-jpl.com
@@ -23843,6 +23864,7 @@ perf-events.cloud.unity3d.com
 perf.hsforms.com
 perfops.net
 performance-analytics.rubiconproject.com
+performancehorizon.com
 pergavelshot.com
 perimeterx.com
 perimeterx.net
@@ -29741,6 +29763,7 @@ smartzonessva.com
 smashshoe.com
 smashsurprise.com
 smatrix.hbo.com
+smbeat.jp
 sm.dell.com
 smdws.cwbank.com
 smeasurement.agexpert.ca
@@ -32172,6 +32195,7 @@ smon.congress.gov
 smon.loc.gov
 smoot-feedback.v.aaplimg.com
 smr.so-net.ne.jp
+smrtbeat.com
 sm-stats.inkfrog.com
 sm.stjude.org
 sm.sungardas.com
@@ -33206,6 +33230,8 @@ starget.intel.com.au
 starget.intel.ru
 starget.mathworks.com
 starget.nabtrade.com.au
+startapp.com
+start.io
 startup.mobile.yandex.net
 stat.00d000000000062.com
 stat01.opsanalytics.ch
@@ -36811,6 +36837,7 @@ stat.ouedkniss.com
 stat.ouluntakka.fi
 stat.overdrive.in
 stat.overm.ru
+stat.ovh
 stat.ovinetti.fi
 stat.ovitehdasvihanto.fi
 stat.ovivihanto.fi
@@ -60592,11 +60619,13 @@ tag.remailtarget.com
 tag.reporo.net
 tag.researchnow.com
 tag.rmp.rakuten.com
+tags.acmeaom.com
 tags.akohub.com
 tags.bkrtx.com
 tags.bluekai.com
 tags.bluekai.com.edgekey.net
 tags-cdn.clarivoy.com
+tags.dillards.com
 tags.disneyinternational.com
 tags.esri.com
 tags.evolvemediallc.com
@@ -61071,6 +61100,7 @@ tempttalk.com
 tendersugar.com
 tendertest.com
 tenilstats.turner.com
+tenor.wargaming.net
 terapeak.com
 tercept.com
 terminus.com
