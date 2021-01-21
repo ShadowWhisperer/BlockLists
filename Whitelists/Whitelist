@@ -66,6 +66,8 @@ smtp.mail.yahoo.com                        # Email - Yahoo
 imagesak.secureserver.net                  # Email - Godaddy
 dropbox.com                                # File Sharing
 dl.dropboxusercontent.com                  # File Sharing
+justbeamit.com                             # File Sharing
+iris06-gold-ssl.gameloft.com               # Gameloft - Prevents games from starting
 accounts.google.com                        # Google - All - Login
 cryptauthenrollment.googleapis.com         # Google - Android - Set Payment Info
 play-lh.googleusercontent.com              # Google - Android - Store Images
@@ -96,27 +98,14 @@ staticapp.icpsc.com                        # Images - Sig Email
 l.yimg.com                                 # Images - Yahoo
 s1.yimg.com                                # Images - Yahoo
 s.yimg.com                                 # Images - Yahoo
-fastpic.ru                                 # Images - Fastpic
-static.fastpic.ru                          # Images - Fastpic
+fastpic.ru                                 # Images - Various
 imagizer.imageshack.com                    # Images - Various
+pp.userapi.com                             # Images - Various
+static.fastpic.ru                          # Images - Various
 static.wixstatic.com                       # Images - Various
-pp.userapi.com                             # Images - 
-tessera10.intellicast.com                  # KSFY - Radar Map
-tessera1.intellicast.com                   # KSFY - Radar Map
-tessera2.intellicast.com                   # KSFY - Radar Map
-tessera3.intellicast.com                   # KSFY - Radar Map
-tessera4.intellicast.com                   # KSFY - Radar Map
-tessera5.intellicast.com                   # KSFY - Radar Map
-tessera6.intellicast.com                   # KSFY - Radar Map
-tessera7.intellicast.com                   # KSFY - Radar Map
-tessera8.intellicast.com                   # KSFY - Radar Map
-tessera9.intellicast.com                   # KSFY - Radar Map
-tessera.intellicast.com                    # KSFY - Radar Map
-widgets-green.media.weather.com            # KSFY - Radar Map
-widgets-red.media.weather.com              # KSFY - Radar Map
-widgets.media.weather.com                  # KSFY - Radar Map
 g.live.com                                       # Microsoft - .Net Framework
 licensing.mp.microsoft.com                       # Microsoft - Active Windows
+cart.production.store-web.dynamics.com           # Microsoft - Add Payment Info
 time.windows.com                                 # Microsoft - Clock
 client.hip.live.com                              # Microsoft - Create Email Account
 eus.client.hip.live.com                          # Microsoft - Create Email Account (Captcha)
