@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,033
-# Updated: 1/20/2021  23:59 (11:59 PM CST)
+# Domains: 72,039
+# Updated: 1/22/2021  00:05 (12:05 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12392,7 +12392,6 @@ analytics.tosho-cn.com
 analytics.totalplay.com.mx
 analytics.tothbt.com
 analytics.tothemoon.game
-analytics.touchdownworld.cz
 analytics.touchnote.io
 analytics.touchplan.io
 analytics.touchsize.com
@@ -14051,6 +14050,7 @@ app-analytics-v2.snapchat.com
 appannie.com
 app.appsflyer.com
 apparatuslip.com
+app.bugfender.com
 appcelerator.com
 appcelerator.net
 app.civey.com
@@ -15140,6 +15140,7 @@ btstatic.com
 btttag.com
 bucketbean.com
 bufferapp.com
+bugfender.com
 bugherd.com
 bugly.qcloud.com
 bugreport.medallia.com
@@ -18048,6 +18049,7 @@ freehitwebcounters.com
 freelogs.com
 freespee.com
 freestats.com
+freestats.net
 fresnel-events.vimeocdn.com
 fretfulfurniture.com
 frightenedpotato.com
@@ -19723,6 +19725,7 @@ livelumber.com
 liverail.com
 liveramp.com
 livesession.io
+live-trace.bilibili.com
 lizardslaugh.com
 lmstat.sonicwall.com
 loader.ogstats.com
@@ -28721,6 +28724,7 @@ s1.subaru.com
 s20.ucoz.net
 s2.getsitecontrol.com
 s2.go-mpulse.net
+s2.hdslb.com
 s2s-rtb-selector.us-east-1.prod.one4p.aol.com
 s2.tracemyip.org
 s362693299.aon.com
@@ -44733,6 +44737,7 @@ stats.foreigner.guide
 stats.forensicanalytical.com
 stats.forensic-architecture.org
 stats.foretagsakademin.se
+statsforever.com
 stats.foreverday.one
 stats.forevernum.com
 stats.forexfusor.com
@@ -58249,7 +58254,6 @@ stats.vwbigturbo.com
 stats.vwofportland.com
 stats.vwvw.linux-dude.com
 stats.vx.dancevalidator.com
-stats.vx.keepitpumpin.io
 stat.svyaztelecom.net
 stats.vybaveni-olsak.cz
 stats.vybodovani.cz
@@ -63099,6 +63103,7 @@ tracker.scao.it
 tracker.scenetime.com
 tracker.scoober.com
 tracker.sdk.00cdn.com
+trackersdk.helixbi.io
 tracker.seatgeek.com
 tracker.secretescapes.com
 tracker.seeding.it
@@ -64691,7 +64696,6 @@ tracking.clearvision.it
 tracking.clevelandfbc.com
 tracking.cleverads.vn
 tracking.click2sell.org
-tracking.clickadu.com
 tracking.clickheaven.net
 tracking.clickinspects.com
 tracking.click-jordan.com
@@ -71331,6 +71335,7 @@ udg.de
 udm.scorecardresearch.com
 udmserve.net
 udxsva.com
+ueip.vmware.com
 ue.kicker.de
 uem.marykay.com
 ues.kicker.de
@@ -71432,6 +71437,7 @@ useitbetter.com
 useproof.com
 usercentrics.eu
 user-event-tracker-prod.us-east-1.elasticbeanstalk.com
+userexperience.thehut.net
 userleap.com
 userlocation.googleapis.com
 usermatch.krxd.net
