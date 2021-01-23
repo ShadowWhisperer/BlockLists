@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,039
-# Updated: 1/22/2021  00:05 (12:05 AM CST)
+# Domains: 72,049
+# Updated: 1/23/2021  01:07 (1:07 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13972,6 +13972,7 @@ api.dt4ever.com
 api.dtm.pixelmotiondemo.com
 api.edmunds.com
 api-gdpr.voodoo-tech.io
+api.goaffpro.com
 api-gps-em.hismarttv.com
 api.growsurf.com
 api.hostip.info
@@ -15985,6 +15986,7 @@ click.tiara.daum.net
 click.tmfmoney.com
 click.top10sites.com
 click.t.quickenloans.com
+clicktracker.getblue.io
 clicktracker.iscan.nl
 clicktrack.pubmatic.com
 clicktracks.com
@@ -17775,8 +17777,10 @@ evanescentedge.com
 eventapi.afreecatv.com
 event-api.reverb.com
 eventbus.intuit.com
+event-client.viabill.com
 event-collection.fevo.com
 eventd-cro.admatrix.jp
+event.getblue.io
 event.havasedge.com
 event.insticator.com
 event-listener.air.tv
@@ -18140,6 +18144,7 @@ geobytes.com
 geo.cardinalcommerce.com
 geo-chk.prod.snackly.co
 geo.choice.faktor.io
+geocode.usefomo.com
 geocode.xyz
 geocoding.internetbrands.com
 geocomply.com
@@ -18343,6 +18348,7 @@ geovisites.com
 geo.yahoo.com
 geo.ziffdavis.com
 getadmiral.com
+getblue.io
 getclicky.com
 get.convrse.media
 getdrip.com
@@ -18404,6 +18410,7 @@ gnome.digg.com
 gocp.stroeermediabrands.de
 godatadriven.com
 godlygeese.com
+godog.shopifycloud.com
 gohillgo.com
 go.lynxbroker.de
 go-mpulse.net
@@ -19511,6 +19518,7 @@ js-agent.newrelic.com
 js.alpixtrack.com
 js.analytics.smartstream.tv
 js.arcgis.com
+js.b1js.com
 js.calltrk.com
 js.chilipiper.com
 jscount.com
@@ -28070,6 +28078,7 @@ public-analytics.us-east-1.prod.public.atl-paas.net
 public-api.wordpress.com
 public-ip-api.appspot.com
 public-prod-dspcookiematching.dmxleo.com
+publisher-news.com
 publish.vuukle.com
 pubnub.com
 pubocean.com
@@ -60625,6 +60634,7 @@ tag.researchnow.com
 tag.rmp.rakuten.com
 tags.acmeaom.com
 tags.akohub.com
+tags.b1js.com
 tags.bkrtx.com
 tags.bluekai.com
 tags.bluekai.com.edgekey.net
