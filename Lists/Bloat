@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 707
-# Updated: 1/20/2021  23:59 (11:59 PM CST)
+# Domains: 710
+# Updated: 1/26/2021  21:54 (9:54 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -117,6 +117,7 @@ pstatic09.mgo-images.com                                #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 terra-1-g.djicdn.com                                    #Font  Specific
 webfonts.zohostatic.com                                 #Font  Specific
+fonts.w.tools                                           #Font  Specific
 
 brazzerssurvey.com                                      #Survey
 inmoment.com                                            #Survey
@@ -188,9 +189,9 @@ addnow.com                                              #Webpages - Social Media
 addthiscdn.com                                          #Webpages - Social Media
 addthis.com                                             #Webpages - Social Media
 addthisedge.com                                         #Webpages - Social Media
-su.addthis.com                                          #Webpages - Social Media
 api-public.addthis.com                                  #Webpages - Social Media
 buttons-config.sharethis.com                            #Webpages - Social Media
+lessbuttons.com                                         #Webpages - Social Media
 linksalpha.com                                          #Webpages - Social Media
 l.sharethis.com                                         #Webpages - Social Media
 media.line.naver.jp                                     #Webpages - Social Media
@@ -207,6 +208,7 @@ sharethis.net                                           #Webpages - Social Media
 ss.sharethis.com                                        #Webpages - Social Media
 static1.twitcount.com                                   #Webpages - Social Media
 static.zotabox.com                                      #Webpages - Social Media
+su.addthis.com                                          #Webpages - Social Media
 sync.sharethis.com                                      #Webpages - Social Media
 t.sharethis.com                                         #Webpages - Social Media
 twitcount.com                                           #Webpages - Social Media
@@ -237,6 +239,7 @@ cookiebot.com                                           #Cookie Consent / Contro
 cookieinfoscript.com                                    #Cookie Consent / Control
 cookielaw.org                                           #Cookie Consent / Control
 cookiereports.com                                       #Cookie Consent / Control
+cookie-script.com                                       #Cookie Consent / Control
 cookieyes.com                                           #Cookie Consent / Control
 gdpr-consent-tool.privacymanager.io                     #Cookie Consent / Control
 gdpr.privacymanager.io                                  #Cookie Consent / Control

@@ -1,7 +1,7 @@
 #
 #    File: Apple   (Bloat)
-# Domains: 24
-# Updated: 1/20/2021  23:59 (11:59 PM CST)
+# Domains: 27
+# Updated: 1/26/2021  21:54 (9:54 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16,11 +16,14 @@ aolauthtest.icloud.com                    # App - AIM
 apfw.apple.com                            # App - AirPort Utility
 apsu.apple.com                            # App - AirPort Utility
 wu-calculator.apple.com                   # App - Calculator
-guzzoni.apple.com                         # App - Siri
-wu-stocks.apple.com                       # App - Stocks
 qtpartners.apple.com                      # App - Quicktime
 qtsoftware.apple.com                      # App - Quicktime
 quicktimepro.apple.com                    # App - Quicktime
+guzzoni.apple.com                         # App - Siri
+stocks-edge.apple.com                     # App - Stocks
+stocks-edge.news.apple-dns.net            # App - Stocks
+stocks-sparkline.apple.com                # App - Stocks
+wu-stocks.apple.com                       # App - Stocks
 
 pancake.apple.com                         # Authorization for Home Sharing
 pancake.cdn-apple.com.akadns.net          # Authorization for Home Sharing

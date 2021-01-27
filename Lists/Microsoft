@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 466
-# Updated: 1/20/2021  23:59 (11:59 PM CST)
+# Domains: 467
+# Updated: 1/26/2021  21:54 (9:54 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -66,6 +66,7 @@ windowsphone.xbox.com                          #App     Windows Phone (From Win 
 
 api.bing.com                                   #Bing
 bing.com                                       #Bing
+bingforbusiness.com                            #Bing
 bing.net                                       #Bing
 c-bing-com.a-0001.a-msedge.net                 #Bing
 commerce.bing.com                              #Bing

@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,049
-# Updated: 1/23/2021  01:07 (1:07 AM CST)
+# Domains: 72,072
+# Updated: 1/26/2021  21:54 (9:54 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -308,6 +308,7 @@ adentifi.com
 ad-events.flashtalking.com
 adeventtracker.spotify.com
 adformdsp.com
+adgebra.co.in
 adgile.blob.core.windows.net
 adgile.media
 adgreed.com
@@ -544,6 +545,7 @@ ambitiousagreement.com
 amd-athena-rs-install-logs.s3.amazonaws.com
 a.medtronic.com
 amethyst.zappos.com
+am.freshrelevance.com
 amgdgt.com
 a.mibank.com
 amidt.adsafeprotected.com
@@ -13996,6 +13998,7 @@ api.megacool.co
 api.mixpanel.com
 api.mxtoolbox.com
 api.mylnikov.org
+api.neko-san.fr
 api.nerdydata.com
 api.opsone.ch
 api.peers.tv
@@ -14066,7 +14069,6 @@ appleseed.apple.com
 apple.tt.omtrdc.net
 applicationinsights.io
 applicationinsights.microsoft.com
-app.link
 applog.camera360.com
 app-log.immomo.com
 applog.matrix.easebar.com
@@ -14102,6 +14104,7 @@ a.pub.network
 apxadtracking.net
 apxlv.com
 apxor.com
+aqtracker.com
 aquaticalarm.com
 aquaticowl.com
 a.quora.com
@@ -14224,6 +14227,7 @@ au-insight.props.id
 a.unicreditbanca.it
 a.unicredit-italia.it
 auntants.com
+auriq.com
 auryc.com
 a-us-east.rfihub.com.akadns.net
 a.use-enco.com
@@ -15652,7 +15656,6 @@ click.applift.com
 click.appsamurai.com
 click.aristotle.net
 click.aztracking.net
-clickbank.net
 click.bdsmartwork.com
 click.beatport-email.com
 click.begun.ru
@@ -16325,6 +16328,7 @@ company-target.com
 competitionbeetle.com
 completecabbage.com
 complextoad.com
+compteur-visite.com
 comscore.com
 comscoredatamine.com
 comscoredirect.com
@@ -16874,6 +16878,7 @@ counter.services.edunext.co
 counter.services.matrixbuilder.com
 counter.service-status.co
 counter.shajgoj.com
+counters.honesty.com
 counter.shopmod.kiev.ua
 counter.siakkab.go.id
 counter.sibnet.ru
@@ -17450,6 +17455,7 @@ divergentoffer.com
 divostat.game-insight.com
 dj5ag5n6bpdxo.cloudfront.net
 dk4ywix.com
+dkpklk99llpj0.cloudfront.net
 dl-debug.dropbox.com
 d.line-scdn.net
 dma-institute.com
@@ -17462,6 +17468,7 @@ dmp.truoptik.com
 dmtracker.com
 dmtrk.net
 dmtry.com
+dn1i8v75r669j.cloudfront.net
 dna8twue3dlxq.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 dockdigestion.com
@@ -17490,6 +17497,7 @@ download-stats.mozilla.org
 dp.alma.iltalehti.fi
 dpm.demdex.net
 dpmsrv.com
+dps.admission.net
 dps.bing.com
 dp.shoprunner.com
 dq95d35.com
@@ -17884,6 +17892,7 @@ ezoic.com
 ezojs.com
 f2.doodlemobile.com
 faas.marktplaats.nl
+faceid.com
 faceid-prod.cn-beijing.log.aliyuncs.com
 faceitanalytics.com
 faceunity.com
@@ -18054,11 +18063,13 @@ freelogs.com
 freespee.com
 freestats.com
 freestats.net
+freshrelevance.com
 fresnel-events.vimeocdn.com
 fretfulfurniture.com
 frightenedpotato.com
 frnchprl.com
 frontend.id-visitors.com
+fs.bizspring.net
 fstrk.net
 ftn.eulerian.net
 ftn.fortuneo.fr
@@ -18526,6 +18537,7 @@ gsp9-ssl.ls-apple.com.akadns.net
 gspe11-ssl.ls.apple.com.edgekey.net
 gspe19-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
+gspe79-ssl.ls.apple.com
 gspe85-ssl.ls.apple.com
 gsp-ssl.ls.apple.com
 gsp-ssl.ls-apple.com.akadns.net
@@ -19029,6 +19041,7 @@ info.afl.com.au
 info.anz.com
 info.anz.com.au
 infogix.com
+info.izatcloud.net
 info.justwatch.com
 info.m.seek.com.au
 infonline.de
@@ -19480,6 +19493,7 @@ istats.nl
 ist-track.com
 ithinkthereforeiam.net
 itracker360.com
+itrack.it
 itspsmup.com
 i.tw.cx
 ivitrack.com
@@ -19653,6 +19667,7 @@ launches.appsflyer.com
 l.betrad.com
 lb-pg-www-727640008.ap-southeast-1.elb.amazonaws.com
 lcdn-locator.apple.com
+lcdn-locator-usuqo.apple.com.akadns.net
 lciapi.ninthdecimal.com
 lcprd1.samsungcloudsolution.net
 ldrtrack.com
@@ -21168,6 +21183,7 @@ massrelevance.s3.amazonaws.com
 master.statistics.aatkit.com
 match.deepintent.com
 matchid.adfox.yandex.ru
+matchmyip.com
 match.prod.bidr.io
 materialexample.com
 materialisticfan.com
@@ -23278,6 +23294,7 @@ onecollector.cloudapp.aria.akadns.net
 onelink.appsflyer.com
 onelink.me
 onestat.com
+onestatfree.com
 onetag.com
 onetag.net
 onionanalytics.com
@@ -32927,6 +32944,7 @@ sslsa.scrippslifestylestudios.com
 ssl.sc.amc.devk.de
 sslsc.sanitas.com
 ssl.searchautoparts.com
+ssl-stat.amebame.com
 sslstats.canadapost.ca
 sslstats.canadapost-postescanada.ca
 sslstats.deltavacations.com
@@ -61153,6 +61171,7 @@ thinkablefloor.com
 thinkablerice.com
 thinkabletrick.com
 thinkgeek.guided.ss-omtrdc.net
+thirdparty.bnc.lt
 thirdrespect.com
 thirstylettuce.com
 thirstyswing.com
@@ -61195,6 +61214,7 @@ t.ktxtr.com
 tl813.com
 t.leadmanagerfx.com
 tlnk.io
+tlog.ir
 t.loopgift.com
 tlp.thelondonpaper.com
 tm1-001.com
@@ -69842,6 +69862,7 @@ track.smcnetwork.net
 track.smi.fm
 track.sm-lists.com
 track.smlists.com
+tracks.momagic.com
 track.smtp2go.com
 track.smtp2go.net
 track.smtpeter.com
@@ -71411,6 +71432,7 @@ upstats.yadro.ru
 uptime.com
 uptimerobot.com
 uptracs.com
+uptrends.com
 urbanairship.com
 urbaninsight.com
 urldefense.proofpoint.com
@@ -71987,6 +72009,7 @@ xovq5nemr.com
 xpanama.net
 xp.apple.com
 xplosion.de
+xstats.evoload.io
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
