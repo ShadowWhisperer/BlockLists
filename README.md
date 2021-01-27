@@ -24,19 +24,16 @@
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
-Domains are sorted by category.  These are all verified by me.  I try to keep dead, parked, and sinkholed domains out of these lists.  
-  
-Some domains are used for both ads and tracking.  Dating list may contain scam daring sites.
+Domains are sorted by category.  These are all verified by me.  I try to keep dead, parked, and sinkholed domains out of these lists. Some domains are used for both ads and tracking.  Dating list may contain scam daring sites.
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
   
-_Free_, _Junk_, _Marketing*_, and _Suspicious_ may break some sites.
+_Free_, _Junk_, and _Marketing*_ may break some sites.
 <br />  
 <br />  
 **Create Block List**  (Bash)  
 
     while read -r D || [[ -n "$D" ]]; do echo "0.0.0.0 $D www.$D mobile.$D m.$D" >> OUT; done < LIST  
-<br />  
 <br />  
 
 **Useful Links**  
