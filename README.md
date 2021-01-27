@@ -24,7 +24,7 @@
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
-Domains are sorted by category.  These are all verified by me.  I try to keep dead, parked, and sinkholed domains out of these lists. Some domains are used for both ads and tracking.  Dating list may contain scam daring sites.
+Domains are sorted by category.  These are all verified by me.  I try to keep dead, parked, and sinkholed domains out of these lists. Some domains are used for both ads and tracking.  Dating list may contain scam dating sites.
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
   
