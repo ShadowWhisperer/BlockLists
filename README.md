@@ -16,7 +16,6 @@
     Risk             Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
     Scam             Misleading sites, Fake tech support, gift cards, products, news, etc    
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
-    Suspicious       Domains I am uncertain of. Contains a mixture of everything  
     Top_Level        Top Level Domains. Sorted by Continent, then country
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
     Tunnels          VPNs & Proxies  
@@ -25,7 +24,9 @@
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
-Domains are sorted by category. Some domains are used for both ads and tracking. These are all verified by me, either by going to the domain or by using automated tools that I have written. I try to keep dead, parked, and sinkholed domains out of these lists.  
+Domains are sorted by category.  These are all verified by me.  I try to keep dead, parked, and sinkholed domains out of these lists.  
+  
+Some domains are used for both ads and tracking.  Dating list may contain scam daring sites.
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
   
