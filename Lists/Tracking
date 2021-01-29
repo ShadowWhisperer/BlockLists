@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,072
-# Updated: 1/26/2021  21:54 (9:54 PM CST)
+# Domains: 72,089
+# Updated: 1/28/2021  23:41 (11:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -15760,6 +15760,7 @@ click.inplayable.com
 click.inspectionsupport.com
 click.interactivebrands.com
 clickiocdn.com
+clickiocdnh.com
 click.ipc.ru
 click.ipd.pps.tv
 click.iubenda.com
@@ -16332,6 +16333,7 @@ compteur-visite.com
 comscore.com
 comscoredatamine.com
 comscoredirect.com
+comscore.net
 comscoreresearch.com
 concernedcondition.com
 condenastdigital.com
@@ -17045,6 +17047,7 @@ cpex.cz
 c.ph.msn.com
 cplay.watch.aetnd.com
 cps-tracking.mobvista.com
+cpt.itv.com
 c.pt.msn.com
 cqcounter.com
 cquotient.com
@@ -17263,6 +17266,7 @@ data.avid.com
 data.capitaloneinvesting.com
 datacollection.api.mylyve.com
 datacollector.coin.scribol.com
+datacollector-dre.dt.hicloud.com
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
@@ -17740,6 +17744,7 @@ entrinsik.com
 enviousshape.com
 enviousthread.com
 eonlinevideos.akamaized.net
+ephemeralcounters.api.roblox.com
 epica.ai
 epnt.ebay.com
 epochstats.com
@@ -17787,6 +17792,7 @@ event-api.reverb.com
 eventbus.intuit.com
 event-client.viabill.com
 event-collection.fevo.com
+eventcollector.dditservices.com
 eventd-cro.admatrix.jp
 event.getblue.io
 event.havasedge.com
@@ -17866,6 +17872,7 @@ exactag.com
 exacttarget.com
 exceptionless.io
 exclusivebrass.com
+exct.net
 excuseearthquake.com
 exelator.com
 exj.usexjade.com
@@ -19040,6 +19047,7 @@ info.a7.org
 info.afl.com.au
 info.anz.com
 info.anz.com.au
+infoevent.startappservice.com
 infogix.com
 info.izatcloud.net
 info.justwatch.com
@@ -19751,6 +19759,7 @@ livesession.io
 live-trace.bilibili.com
 lizardslaugh.com
 lmstat.sonicwall.com
+lo3trk.com
 loader.ogstats.com
 loadm.exelator.com
 load.s3.amazonaws.com
@@ -21894,6 +21903,8 @@ metrics.cnn.com
 metrics.coach.com
 metrics.coalesse.com
 metrics.coccoc.com
+metricscollector.lp.xcal.tv
+metricscollector.mirs.aws.r53.xcal.tv
 metrics.columbia.com
 metrics.com
 metrics.comcast.com
@@ -22746,6 +22757,7 @@ microsoftmscompoc.tt.omtrdc.net
 middycdn-a.akamaihd.net
 mid.rkdms.com
 mightyspiders.com
+mihistream.pointillist.com
 militaryverse.com
 millioncounter.com
 milotree.refersion.com
@@ -22793,6 +22805,7 @@ mobile-collector.newrelic.com
 mobilecrashreporting.googleapis.com
 mobilegamestats.com
 mobilelog.kugou.com
+mobilemaps-pa-gz.googleapis.com
 mobiletech.no
 mobileweb-beacons.xumo.com
 mobilexpression.com
@@ -23382,6 +23395,7 @@ p04-fmfmobile.icloud.com
 p04-fmfmobile.icloud.com.cn
 p04-fmip.icloud.com
 p04-fmip.icloud.com.cn
+p04.t.en25.com
 p05-fmfmobile.icloud.com
 p05-fmfmobile.icloud.com.cn
 p05-fmip.icloud.com
@@ -24198,6 +24212,7 @@ piwik.availity.com
 piwik.avamboo.de
 piwik.avanzo.com
 piwik.avaya-av.de
+piwik.avm.de
 piwik.avorium.de
 piwik.avus.hu
 piwik.awexi.dk
@@ -28119,6 +28134,7 @@ pvtag.yahoo.co.jp
 pwa.grgs.ro
 pw-analytics.phunware.com
 pwieu.com
+pwk.pandora.tv
 px2.px.quantserve.com
 px-cdn.net
 pxchk.net
@@ -28130,6 +28146,7 @@ px.leadexpert.pl
 pxl.indeed.com
 pxl.iqm.com
 pxl.jivox.com
+pxlsrc.com
 pxltrck.com
 pxl.viewclick.ru
 px.owneriq.net
@@ -29465,6 +29482,7 @@ secure.peak2poem.com
 secure.peep1alea.com
 secure.perk0mean.com
 secure.plug1luge.com
+secure.pointillist.com
 secure.poor5zero.com
 secure.quantserve.com
 secure.raab3frog.com
@@ -61217,6 +61235,7 @@ tlnk.io
 tlog.ir
 t.loopgift.com
 tlp.thelondonpaper.com
+tls.telemetry.swe.quicinc.com
 tm1-001.com
 t.mail.disneydestinations.com
 t.mashable.com
@@ -61234,6 +61253,7 @@ tnsglobal.com
 tns-ua.com
 toecircle.com
 toedrawer.com
+tofu-ssl.dmcdn.net
 toggl.com
 toifeeds.indiatimes.com
 token.boh.com
@@ -62381,7 +62401,6 @@ track.digitalkites.com
 track.digitalmarketer.com
 track.directcrm.ru
 track.dirtysmiles.com
-track.discoverapp.xyz
 track.distriship.be
 track.divegearexpress.com
 track.divorce-education.com
@@ -70707,9 +70726,6 @@ trk.adspire.io
 trk.ads-serving-tech.com
 trk.ads-ssp-serving.com
 trk.adtector.com
-trk.adtrk15.com
-trk.adtrk18.com
-trk.adtrk22.com
 trk.adtrkaa.com
 trk.aduclick.club
 trk.advancedtrkr.com
@@ -71600,6 +71616,7 @@ vizio-beacons.xumo.com
 vizio-smartcast-beacons.xumo.com
 vizu.com
 vl.ff.avast.com
+vmstats.varrando.com
 vmweb.net
 vodlog-tracking7.high-cdn.com
 voicefive.com
@@ -71615,7 +71632,6 @@ vop.sundaysky.com
 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
 vop-yahoo.akamaized.net
 vop-yahoo.secure.footprint.net
-vortex.accuweather.com
 vortex.data.microsoft.com
 vortex.hulu.com
 vortex-sandbox.data.microsoft.com
@@ -72041,6 +72057,7 @@ youip.net
 younetmedia.com
 youngleaf.biz
 youngmarble.com
+yourip.aaronjwood.com
 your-ip-address.com
 yourip.us
 yoursiteanalytics.com

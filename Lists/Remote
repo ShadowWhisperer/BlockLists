@@ -1,13 +1,14 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Domains: 435
-# Updated: 1/20/2021  23:59 (11:59 PM CST)
+# Domains: 443
+# Updated: 1/28/2021  23:41 (11:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+01com.com
 123rescue.com
 4remotesupport.com
 adelaide.remotepc.com
@@ -15,6 +16,7 @@ akron.remotepc.com
 albany.remotepc.com
 albuquerque.remotepc.com
 alpemix.com
+ammyy.com
 amsterdam.remotepc.com
 anchor.attremotesupport.com
 ankara.remotepc.com
@@ -60,6 +62,7 @@ broker24.remotepc.com
 broker3.remotepc.com
 broker5.remotepc.com
 broker8.remotepc.com
+broker9.remotepc.com
 brunswick.remotepc.com
 bsprings.remotepc.com
 bucharest1.remotepc.com
@@ -93,6 +96,7 @@ configdl.teamviewer.com
 config.instantsupport.help
 connectwise.com
 copenhagen.remotepc.com
+copilot.com
 croatia.remotepc.com
 czechrepublic.remotepc.com
 dallas2.remotepc.com
@@ -118,6 +122,7 @@ ds1.devicevm.com
 dubai.remotepc.com
 dublin.remotepc.com
 dyngate.com
+dyngate.org
 egw1.express.gotoassist.com
 egwglobal.gotomeeting.com
 eugene.remotepc.com
@@ -141,6 +146,7 @@ gotoassist.com
 goto.com
 gotomanage.com
 gotomypc.com
+gotomypc.eu
 greenbay.remotepc.com
 greenville.remotepc.com
 gsupport.me
@@ -157,6 +163,7 @@ hongkong.remotepc.com
 host-delay.logmein-gateway.com
 houston.remotepc.com
 huntsville.remotepc.com
+hyderabad.remotepc.com
 iceland.remotepc.com
 idahofalls.remotepc.com
 id.remoteutilities.com
@@ -306,6 +313,7 @@ ping3.teamviewer.com
 piscataway.remotepc.com
 pittsburgh.remotepc.com
 portland.remotepc.com
+proxynetworks.com
 ps.psremote.com
 psremote.com
 quebeccity.remotepc.com
@@ -315,6 +323,7 @@ rantoul.remotepc.com
 realvnc.com
 redding.remotepc.com
 remmina.org
+remote-control-desktop.com
 remote-desktop-control.com
 remotedesktop.google.com
 remotely-anywhere.ch
@@ -430,7 +439,6 @@ version.remotepc.com
 vilnius.remotepc.com
 virginia.remotepc.com
 vnc.com
-vpn.net
 warsaw.remotepc.com
 washington2.remotepc.com
 washington3.remotepc.com
