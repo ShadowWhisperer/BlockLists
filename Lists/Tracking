@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,089
-# Updated: 1/28/2021  23:41 (11:41 PM CST)
+# Domains: 72,101
+# Updated: 1/30/2021  13:29 (1:29 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -6723,6 +6723,7 @@ analytics.jinnbee.com
 analytics.jiuzhilan.com
 analytics.jiv-e.com
 analytics.jjh.com.pl
+analytics.jjshouse.com
 analytics.jk7esy.com
 analytics.jkmglobal.net
 analytics.jmbarkei.net
@@ -14029,6 +14030,7 @@ api.timezonedb.com
 api.trackpush.com
 api.traq.li
 api.usercentrics.eu
+api-v2.getmetrical.com
 api.videometrics.ted.com
 api.waldo.toyota.com
 api-webrp-analytics.cloud.toast.com
@@ -14148,6 +14150,7 @@ ash.creativecdn.com
 a.shop.com
 a.simonandschuster.com
 as.metal-hammer.de
+a.smtrk.net
 as.musikexpress.de
 as.myhomebook.de
 as.noizz.de
@@ -17494,6 +17497,7 @@ dotaki.com
 dotmetrics.net
 dot-stat.radikal.ru
 doubleclick-analytics.com
+doublesmart.digital
 doubtfulrainstorm.com
 douglas.personalization.air.prudsys.com
 downloads.hpanalytics.net
@@ -18076,6 +18080,7 @@ fretfulfurniture.com
 frightenedpotato.com
 frnchprl.com
 frontend.id-visitors.com
+frontwatch.jjshouse.com
 fs.bizspring.net
 fstrk.net
 ftn.eulerian.net
@@ -18255,6 +18260,7 @@ geoip.littlethings.com
 geoip.livecall.io
 geo.iplocation.com
 geoiplookup.io
+geoip-lookup.vice.com
 geoiplookup.wikia.com
 geoip.makerbot.com
 geoip.masslive.com
@@ -19004,6 +19010,7 @@ importlocate.com
 impossibleexpansion.com
 impossibleglue.com
 impossiblemove.com
+impression.link
 impression.trafficguard.ai
 improvedcontactform.com
 improvely.com
@@ -28260,6 +28267,7 @@ receptiveink.com
 receptivereaction.com
 recirculation.spot.im
 reco.ebay.com
+recommendationengine.googleapis.com
 recommenddoor.com
 recommender.scarabresearch.com
 reconditeprison.com
@@ -32253,6 +32261,7 @@ smtc.qantas.com.au
 smt.jcpenney.com
 sm.trb.com
 smtrcs.redhat.com
+smtrk.net
 smtx.belfius.be
 smtx.godo.com.au
 smtx.lastminute.com.au
@@ -33279,6 +33288,7 @@ starget.intel.com.au
 starget.intel.ru
 starget.mathworks.com
 starget.nabtrade.com.au
+star.jjshouse.com
 startapp.com
 start.io
 startup.mobile.yandex.net
@@ -34942,6 +34952,7 @@ static.pxl.ai
 stat.icq.in
 static.sensorsdata.cn
 statics.taptapnetworks.com
+static-star.jjshouse.com
 stat.ict-as.dk
 static.ws.apsis.one
 stat.ideyka.com.ua
@@ -71881,6 +71892,7 @@ womanear.com
 woodpeckerlog.com
 woopra.com
 wootric.com
+wordhub.com
 workableachiever.com
 workoperation.com
 worldgravity.com
