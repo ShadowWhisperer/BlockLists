@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 710
-# Updated: 1/26/2021  21:54 (9:54 PM CST)
+# Domains: 713
+# Updated: 2/2/2021  00:26 (12:26 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -107,6 +107,7 @@ fonts.voxmedia.com                                      #Font  Specific
 fonts.walmart.com                                       #Font  Specific
 fonts.wpcdn.pl                                          #Font  Specific
 fonts.wsj.net                                           #Font  Specific
+fonts.w.tools                                           #Font  Specific
 fonts.ymcart.com                                        #Font  Specific
 fonts.zumst.com                                         #Font  Specific
 g1.nyt.com                                              #Font  Specific
@@ -117,7 +118,7 @@ pstatic09.mgo-images.com                                #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 terra-1-g.djicdn.com                                    #Font  Specific
 webfonts.zohostatic.com                                 #Font  Specific
-fonts.w.tools                                           #Font  Specific
+webfonts.zohowebstatic.com                              #Font  Specific
 
 brazzerssurvey.com                                      #Survey
 inmoment.com                                            #Survey
@@ -217,6 +218,7 @@ uptolike.ru                                             #Webpages - Social Media
 v1.addthisedge.com                                      #Webpages - Social Media
 w.sharethis.com                                         #Webpages - Social Media
 x.dlx.addthis.com                                       #Webpages - Social Media
+xing-share.com                                          #Webpages - Social Media
 zotabox.com                                             #Webpages - Social Media
 powr.io                                                 #Webpages - Social Media / Other Plugins
 browser-update.org                                      #Webpages - Checks Browser Version
@@ -614,6 +616,7 @@ mir-s3-cdn-cf.behance.net                               #Android  [App]   Adobe 
 pc.airdroid.com                                         #Android  [App]   AirDroid (Home Tab - Forum Integration)
 pc.airdroid.com.s3-website-us-east-1.amazonaws.com      #Android  [App]   AirDroid (Home Tab - Forum Integration)
 srv3.airdroid.com                                       #Android  [App]   AirDroid (Home Tab - Forum Integration)
+
 airdroid-img2.s3.amazonaws.com                          #Android  [App]   AirDroid
 dl.airdroid.com                                         #Android  [App]   AirDroid
 img4.airdroid.com                                       #Android  [App]   AirDroid
@@ -630,6 +633,7 @@ mxase.clmbtech.com                                      #Android  [App]   MXplay
 mxplay.com                                              #Android  [App]   MXplayer
 mxplayer.j2inter.com                                    #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com                #Android  [App]   MXplayer
+nickcircelli.com                                        #Android  [App]   Net Scan
 cleaner.noxgroup.org                                    #Android  [App]   NoxCleaner
 noxgroup.org                                            #Android  [App]   NoxCleaner
 mobimagic.com                                           #Android  [App]   Safe Security - Antivirus, Booster, Phone Cleaner

@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 72,101
-# Updated: 1/30/2021  13:29 (1:29 PM CST)
+# Domains: 72,102
+# Updated: 2/2/2021  00:26 (12:26 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -41699,6 +41699,7 @@ stats.collectif201.fr
 stats.collectiohaertz.com
 stats.collection.filsh.io
 stats.collectionprivee.paris
+statscollector.digital.vistaprint.com
 stats.collegebash.com
 stats.collegebrand.be
 stats.collegedaredorm.com

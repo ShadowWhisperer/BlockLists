@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 506
-# Updated: 1/26/2021  21:54 (9:54 PM CST)
+# Domains: 509
+# Updated: 2/2/2021  00:26 (12:26 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -200,14 +200,17 @@ ladbrokes.com                                        #Gambling
 playtech.com                                         #Gambling
 stake7.com                                           #Gambling
 williamhill.com                                      #Gambling
+x-casino.net                                         #Gambling
 
 harpquiz.com                                         #Quiz
 magiquiz.com                                         #Quiz
 
-panopto.com                                          #Screen Recording
-wgu.hosted.panopto.com                               #Screen Recording
-screencastify.com                                    #Screen Recording
 api.screencastify.com                                #Screen Recording
+panopto.com                                          #Screen Recording
+screencastify.com                                    #Screen Recording
+techsmith.com                                        #Screen Recording
+updater.techsmith.com                                #Screen Recording
+wgu.hosted.panopto.com                               #Screen Recording
 
 abtest-sg-tiktok.byteoversea.com                     #App  TikTok
 abtest-va-tiktok.byteoversea.com                     #App  TikTok
