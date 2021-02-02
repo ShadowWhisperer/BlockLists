@@ -157,7 +157,8 @@ update.microsoft.com                             # Microsoft - Windows Updates
 windowsupdate.com                                # Microsoft - Windows Updates
 msagfx.live.com                                  # Microsoft - Windows 10 Initial setup > User creation
 wscont.apps.microsoft.com                        # Microsoft - Windows 10 Update Assistant
-blocklist.addons.mozilla.org               # Mozilla - Firefox - Adons
+blocklist.addons.mozilla.org               # Mozilla - Firefox - Addons
+live.thunderbird.net                       # Mozilla - Thunderbird - Lookup email settings
 codex.nflxext.com                          # Netflix - Website - Main Page
 proxy.novafusion.ea.com                    # Origin - Activate Games
 l.facebook.com                             # Social Media - Facebook (Breaks Links)
@@ -191,7 +192,6 @@ cnc.addlive.io                             # Social Media - SnapChat (Breaks Voi
 api.twitter.com                            # Social Media - Twitter
 pbs.twimg.com                              # Social Media - Twitter - Images
 twitter.com                                # Social Media - Twitter
-vsco.app.link                              # Social Media - Vsco (Breaks Links)
 assets.vsco.co                             # Social Media - Vsco
 im.vsco.co                                 # Social Media - Vsco
 i.vsco.co                                  # Social Media - Vsco
