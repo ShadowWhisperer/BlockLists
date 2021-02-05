@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 70,518
-# Updated: 2/3/2021  23:46 (11:46 PM CST)
+# Domains: 70,524
+# Updated: 2/5/2021  01:18 (1:18 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13624,6 +13624,7 @@ api.apptentive.com
 api.at.getsocial.io
 api.autoid.com
 api.bluecore.com
+api.cartstack.com
 api.cetrk.com
 api.churnsignal.com
 api.circularhub.com
@@ -14942,6 +14943,7 @@ cdn.autoaudience.com
 cdn.avmws.com
 cdn.b0e8.com
 cdn-bacon.getcarro.com
+cdn.bc0a.com
 cdn.betrad.com
 cdn.bizible.com
 cdn.blisspointmedia.com
@@ -19197,6 +19199,8 @@ jsonip.com
 jsrdn.com
 js.reactflow.com
 js.sentry-cdn.com
+jssocdn.indiatimes.com
+jsso.indiatimes.com
 js.stroeermediabrands.de
 jst.ai
 js.usemessages.com
@@ -19298,6 +19302,7 @@ lasteventf-tm.everesttech.net
 latam.taptapnetworks.com
 la-trc-events.taboola.com
 la-trc.taboola.com
+lat-services.api.data.roku.com
 laughablecopper.com
 laughablelizards.com
 laughcloth.com
@@ -60154,6 +60159,7 @@ tr2.kaspersky.ru
 tr2.smarterhq.io
 tracemyip.org
 trace.playtem.com
+traces.sr.roku.com
 trace.svc.ui.com
 track.00000.dev
 track.007cpa.com
