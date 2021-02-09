@@ -1,7 +1,7 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Domains: 770
-# Updated: 12/4/2020  16:51 (4:51 PM CST)
+# Domains: 771
+# Updated: 2/8/2021  22:59 (10:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -50,7 +50,6 @@
 
 
 .engeniusrouter   #  After Some Avast Domains
-
 
 .abb
 .abbott
@@ -172,6 +171,7 @@
 .cricket
 .crown
 .cruises
+.cyou
 .dad
 .dance
 .deal
@@ -555,7 +555,6 @@
 .you
 .zip
 .zone
-
 
 
 .exe           Invalid

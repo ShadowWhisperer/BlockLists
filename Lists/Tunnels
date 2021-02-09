@@ -1,7 +1,7 @@
 #
 #    File: Tunnels   (VPNs & Proxies)
-# Domains: 361
-# Updated: 2/2/2021  23:39 (11:39 PM CST)
+# Domains: 363
+# Updated: 2/8/2021  22:59 (10:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -70,6 +70,7 @@ d3mbcglufa4kg4.cloudfront.net
 d3r4uyp6f50bpa.cloudfront.net
 d4.re
 darknet.to
+de4.vpnbook.com
 de.hideproxy.me
 de.phantom.avira-vpn.com
 dg98q1fqxxogp.cloudfront.net
@@ -298,6 +299,7 @@ the-cloak.com
 thexite.net
 tor2web.org
 tor-ca.prcdn.net
+torproject.org
 tubeprox.com
 tunnelbear.com
 tuntapproxy.info

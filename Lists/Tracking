@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 70,527
-# Updated: 2/5/2021  16:55 (4:55 PM CST)
+# Domains: 70,547
+# Updated: 2/8/2021  22:59 (10:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -34,6 +34,8 @@
 200summit.com
 202.90.190.35.bc.googleusercontent.com
 207.net
+234doo.com
+234.hr
 246.39.190.35.bc.googleusercontent.com
 24counter.com
 24log.com
@@ -86,6 +88,7 @@
 82o9v830.com
 84.249.186.35.bc.googleusercontent.com
 88.88-f.net
+8digits.com
 8dkfarln27.execute-api.us-east-2.amazonaws.com
 8dwd87c7a091b12x.com
 97660ccadcc445599a18731f44643af0.apm.us-east-1.aws.cloud.es.io
@@ -175,6 +178,7 @@ aboardlevel.com
 aboriginalboats.com
 aboutmyip.com
 a.bowl.com
+abrankings.com
 abruptroad.com
 absentstream.com
 a.bsm.co.uk
@@ -333,6 +337,7 @@ adlooxtracking.com
 adlucent.com
 admetric.io
 admetrics.io
+admetrics.media
 admissions.calvin.edu
 admonitoring.bsgroup.ro
 admonitor.net
@@ -16718,6 +16723,7 @@ criteo.net
 critictruck.com
 crittercism.com
 crlog-crcn.adobe.com
+crobox.com
 crosspixel.net
 crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com
 crowdscience.com
@@ -16902,6 +16908,7 @@ datadoghq.eu
 data-events.uniplaces.com
 data.flurry.com
 datagather.xsolla.com
+data.getgist.com
 datag.polo.com
 data.logentries.com
 datalogging-1.adwombat.com
@@ -17232,6 +17239,7 @@ dustywave.com
 dv.stk2.pro
 dw.cbsi.com
 dwin1.com
+dxpapi.com
 dynamics.com
 dynamicyield.com
 dynata.com
@@ -17240,6 +17248,7 @@ dynatrace-managed.com
 dynatracepsg.americanexpress.com
 dyntracker.de
 dyntrk.com
+dyr2dbqz8u9mp.cloudfront.net
 dyson.queue-it.net
 dzc-metrics.mzstatic.com
 eagle.kudzu.com
@@ -18286,6 +18295,7 @@ histats.com
 historicalbeam.com
 historicalrequest.com
 history.google.com
+hit.8digits.com
 hit.acstat.com
 hitbox.com
 hitcounter.govmetric.com
@@ -18722,7 +18732,9 @@ innocentinvention.com
 innocentwax.com
 innocraft.cloud
 innometrics.com
+inpowered.ai
 inputs.alooma.com
+inpwrd.com
 inquisitiveinvention.com
 insanetrack.com
 insert.io
@@ -19375,6 +19387,7 @@ linkconnector.com
 linkmink.com
 linkpulse.com
 linkshare.com
+linksmart.com
 linksynergy.com
 linksynergy.walmart.com
 linkto.ext.hp.com
@@ -19406,6 +19419,7 @@ loadus.exelator.com
 loadus.tm.ssl.exelator.com
 loc1.hitsprocessor.com
 localization.services.pbs.org
+locallogic.co
 localytics.com
 loca.sc-jpl.com
 locate.measurementlab.net
@@ -22562,6 +22576,7 @@ narrative.io
 narvar.com
 native.ai
 nats.xing.com
+naturaltracking.com
 navdmp.com
 navegg.com
 navrcholu.cz
@@ -22617,6 +22632,7 @@ newzmate.com
 nexac.com
 nextbigsound.com
 nextclick.co
+nextgenstats.com
 nextroll.com
 nextstat.com
 nexus.ensighten.com
@@ -29115,6 +29131,7 @@ sentifi.com
 sentry-cdn.com
 sentry.io
 seo.letgo.com
+seoscout.com
 separateshow.com
 separatesilver.com
 server-analytics.snapchat.com
@@ -59252,6 +59269,7 @@ suddenstructure.com
 sud.holidayinsider.com
 sud.holidays.hrs.de
 sugarcurtain.com
+suggest.dxpapi.com
 suggestions.dadata.ru
 s.ugo.com
 sulkybutter.com
@@ -70233,6 +70251,7 @@ webstats.com
 webstatsdomain.org
 webstats.eb.com
 webstats.fr
+webstats.nexttuesday.de
 web-stats.org
 webstat.vodafone.com
 web-t.9gag.com
@@ -70463,6 +70482,7 @@ xovq5nemr.com
 xpanama.net
 xp.apple.com
 xplosion.de
+x-stat.de
 xstats.evoload.io
 xtrapath1.izatcloud.net
 xtrapath2.izatcloud.net

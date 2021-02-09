@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 117
-# Updated: 1/22/2021  00:05 (12:05 AM CST)
+# Domains: 118
+# Updated: 2/8/2021  22:59 (10:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -65,6 +65,7 @@ netbull.com                                   #Keylogger
 pctattletale.com                              #Keylogger
 refog.com                                     #Keylogger
 relytec.com                                   #Keylogger
+spyarsenal.com                                #Keylogger
 spyrix.cc                                     #Keylogger
 spyrix.com                                    #Keylogger
 spyrix.info                                   #Keylogger
