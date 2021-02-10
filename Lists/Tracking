@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,282
-# Updated: 2/9/2021  18:44 (6:44 PM CST)
+# Domains: 9,317
+# Updated: 2/9/2021  23:01 (11:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -229,7 +229,6 @@ ad1x.com
 adacts.com
 adadvisor.net
 adagionet.com
-adanalytics.openload.com
 adapf.com
 adaraanalytics.com
 adara.com
@@ -281,6 +280,7 @@ adlog.hipcricket.com
 adlog.mobpartner.com
 adlooxtracking.com
 adlucent.com
+admetrica.ru
 admetric.io
 admetrics.io
 admetrics.media
@@ -515,6 +515,7 @@ analyticsapi.bsbportal.com
 analyticsapi.happypancake.net
 analytics.arm.com
 analytics.carbonite.com
+analytics.clickdimensions.com
 analytics.com
 analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
@@ -524,6 +525,7 @@ analytics-egain.com
 analytics-engine.com
 analyticsengine.s3.amazonaws.com
 analyticsext.chase.com
+analytics.ff.avast.com
 analytics.fr
 analytics.go.com
 analytics-iq.com
@@ -531,12 +533,16 @@ analytics.live.com
 analyticsmarket.com
 analytics.net
 analyticsnew.overwolf.com
+analytics.nextopia.net
 analyticson.com
 analytics.pe
 analyticspixel.microsoft.com
 analytics.report
 analyticsssl.forcepoint.com
+analytics-static.ugc.bazaarvoice.com
 analytics.thehardcorenetwork.com
+analytics.tiktok.com
+analytics-tracking.meetup.com
 analytics.yahoo.com
 analytictech.com
 anapixel.elmundo.es
@@ -844,6 +850,7 @@ autotrack.ebay.nl
 autotrack.ebay.ph
 autotrack.ebay.pl
 autotrack.g.ebay.com
+autovistagroup.com
 avandor.com
 a.verdictsearch.com
 a.vliegwinkel.nl
@@ -1345,6 +1352,7 @@ cl2.apple.com
 cl3.apple.com
 clamcelery.com
 clarice.streema.com
+clar.io
 clarip.com
 claritas.com
 clarity.microsoft.com
@@ -1717,6 +1725,7 @@ counter.de
 counter.gd
 counter.info
 counter.org
+counter.pushauction.com
 counter.ru
 counters.auctionhelper.com
 counters.auctionwatch.com
@@ -2804,6 +2813,7 @@ geoip.tools
 geojs.io
 geolocation.co.jp
 geolocation-db.com
+geolocation.onetrust.com
 geomobileservices-pa.googleapis.com
 geo.ngtv.io
 geo.pcmag.com
@@ -3466,6 +3476,7 @@ info.telstra.com
 info.telstra.com.au
 infotrack.net
 info.vodafone.com.au
+infutor.com
 ingenioustechnologies.com
 ingest.machinify.com
 inistrack.net
@@ -3893,6 +3904,7 @@ logmatic.io
 log-mining-web.makeshop.co.kr
 log.no
 lognormal.net
+log.pinterest.com
 logql.yahoo.co.jp
 log-remind-web.makeshop.co.kr
 logrocket.com
@@ -4266,6 +4278,7 @@ metrics.abbott
 metrics-api.data.frontapp.com
 metrics-api.dimensions.ai
 metrics-api.librato.com
+metrics.brightcove.com
 metricscat.com
 metrics-cbslocal-com.cdn.ampproject.org
 metricscollector.lp.xcal.tv
@@ -4518,6 +4531,7 @@ naturaltracking.com
 navdmp.com
 navegg.com
 navrcholu.cz
+nav.smartscreen.microsoft.com
 nbcnews.trib.al
 n.betus.com
 n.boydgaming.com
@@ -4569,6 +4583,7 @@ nextclick.co
 nextgenstats.com
 nextroll.com
 nextstat.com
+nexus.ensighten.com
 nexus.officeapps.live.com
 nexus.toyota.com
 nfltags.com
@@ -4901,6 +4916,7 @@ p04-fmfmobile.icloud.com
 p04-fmfmobile.icloud.com.cn
 p04-fmip.icloud.com
 p04-fmip.icloud.com.cn
+p04.t.en25.com
 p05-fmfmobile.icloud.com
 p05-fmfmobile.icloud.com.cn
 p05-fmip.icloud.com
@@ -5479,7 +5495,10 @@ pixel2.realclever.com
 pixel.ad
 pixel-api.scupio.com
 pixeleze.com
+pixel.facebook.com
 pixel.marketing
+pixel.mathtag.com
+pixel.nymag.com
 pixels.dsp.theadtech.com
 pixel-secure.solvemedia.com
 pixelsmarter.com
@@ -6951,6 +6970,7 @@ smetric.schwab.com
 smetric.schwabinstitutional.com
 smetric.schwabplan.com
 smetrics-cns.panasonic.com
+smetrics.dandh.com
 smetric.seasons52.com
 smetric.shinseifinancial.co.jp
 smetric.shop.com
@@ -7609,6 +7629,7 @@ static.goqubit.com
 static.growthrx.in
 static.lamoda.pl
 static.mailerlite.com
+static-mon.yandex.net
 static.pxl.ai
 statics.taptapnetworks.com
 static-star.jjshouse.com
@@ -7643,6 +7664,7 @@ statsfe1.update.microsoft.com
 statsfe1.ws.microsoft.com
 statsfe2-df.ws.microsoft.com
 statsfe2.update.microsoft.com
+statsfe2.update.microsoft.com.akadns.net
 statsfe2.ws.microsoft.com
 statsforads.com
 statsforever.com
@@ -7650,6 +7672,7 @@ stats.fr
 statshop.fr
 stats.load.com
 stats-locations.com
+stats.mbamupdates.com
 statsmp2.emol.com
 stats.nerdpress.net
 stats.net
@@ -7703,6 +7726,7 @@ stats.systems
 statstracker.celebrity-gossip.net
 stats-tracker.net
 stat.su
+stats.unity3d.com
 stats-v2-prod-or-lbj.inbake.com
 statsy.net
 stat-track.com
@@ -8051,6 +8075,7 @@ symbolizebeast.com
 sync.colossusssp.com
 sync.tidaltv.com.akadns.net
 sync-usor.tidaltv.com.akadns.net
+syndigo.com
 synerise.com
 synthesio.com
 synthesizespoon.com
@@ -8192,9 +8217,12 @@ telemetry-incoming.r53-2.services.mozilla.com
 telemetry.microsft.com
 telemetry.microsoft.com
 telemetry.mozilla.org
+telemetry.nvidia.com
+telemetry.phenixrts.com
 telemetry_preview.msn.com
 telemetry_rad.msn.com
 telemetry_ssw.live.com
+telemetry.svc.halowaypoint.com
 telemetryverification.net
 telemetry_watson.live.com
 telize.com
@@ -8361,6 +8389,7 @@ tracker21.naturalbid.com
 tracker22.naturalbid.com
 tracker23.naturalbid.com
 tracker24.naturalbid.com
+tracker.3dissue.com
 tracker3.naturalbid.com
 tracker4.naturalbid.com
 tracker6.naturalbid.com
@@ -8398,6 +8427,7 @@ trackingapi.kaufda.de
 trackingapi.meinprospekt.de
 tracking-api.softwareadvice.com
 trackingapi.trendemon.com
+tracking.bodis.com
 trackingcareers.accenture.com
 tracking.goodgamestudios.com
 tracking.markethero.io
@@ -8441,6 +8471,7 @@ trackuity.com
 trackuity.supplies
 track-us.adformnet.akadns.net
 trackvoluum.com
+track.wikibuy.com
 trackwill.com
 trackyourstats.com
 tractionize.com
@@ -8757,11 +8788,15 @@ uttermosthobbies.com
 ut.upmc.com
 uxanalytics.ama.gov.pt
 uxfabric.intuitcdn.net
+v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v12groupinc.com
 v20.vortex-win.data.microsoft.com
 v2.listenloop.com
 v4.ipv6-test.com
+v7event.stats.avast.com
+v7event.stats.avcdn.net
+v7.stats.avcdn.net
 vaioimprovement.sony.com
 vakmedianet.nl
 valencia-beacons.xumo.com
@@ -8919,6 +8954,7 @@ watg.xxxlutz.com
 wats.gogoinflight.com
 watson.live.com
 watson.microsoft.com
+watson.telemetry.microsoft.com
 waudit.cz
 waust.at
 wavesecure.com
@@ -9152,7 +9188,6 @@ www2s.discountautoshocks.com
 www2s.discountbodyparts.com
 www2s.discountcarlights.com
 www2s.discountfuelsystems.com
-www2s.discounto2sensor.com
 www2s.extraspace.com
 www2s.storage.com
 www2.storage.com
