@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,317
-# Updated: 2/9/2021  23:01 (11:01 PM CST)
+# Domains: 9,322
+# Updated: 2/10/2021  13:03 (1:03 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -21,7 +21,6 @@
 184.48.190.35.bc.googleusercontent.com
 189.analytics.21cn.com
 1955dcb2fee1a13.com
-1.analytics.faw.sky.com
 1annuaire.com
 1-cl0ud.com
 1-creative-1.com
@@ -527,6 +526,7 @@ analyticsengine.s3.amazonaws.com
 analyticsext.chase.com
 analytics.ff.avast.com
 analytics.fr
+analytics.global.sky.com
 analytics.go.com
 analytics-iq.com
 analytics.live.com
@@ -1906,6 +1906,7 @@ d34qb8suadcc4g.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
 d39vf9bwtb4sua.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
+d3bch4rrbnbe5n.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 d3ff4r1h05n2rz.cloudfront.net
 d3fxnc8ccjl830.cloudfront.net
@@ -1961,7 +1962,6 @@ datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
 data.sharebuilder.com
 data-ssl.stepstone.at
-data.thanksagain.com
 datatrics.com
 data.twojapogoda.pl
 dataunion.com.br
@@ -3498,6 +3498,7 @@ insight.ly
 insight.org
 insight.rapid7.com
 insightrocket.com
+insights.algolia.io
 insights-collector.gog.com
 insights.com
 insitesofthosting.com
@@ -5693,6 +5694,7 @@ pxl.iqm.com
 pxlsrc.com
 pxltrck.com
 pxl.viewclick.ru
+px.srvcs.tumblr.com
 px.za.zaloapp.com
 pyramidanalytics.com
 pyze.com
@@ -7670,6 +7672,7 @@ statsforads.com
 statsforever.com
 stats.fr
 statshop.fr
+stats.ivpn.net
 stats.load.com
 stats-locations.com
 stats.mbamupdates.com
@@ -7728,6 +7731,7 @@ stats-tracker.net
 stat.su
 stats.unity3d.com
 stats-v2-prod-or-lbj.inbake.com
+stats.wp.com
 statsy.net
 stat-track.com
 statuesquebrush.com
@@ -8791,6 +8795,7 @@ uxfabric.intuitcdn.net
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v12groupinc.com
+v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v2.listenloop.com
 v4.ipv6-test.com

@@ -1,7 +1,7 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 6,421
-# Updated: 2/9/2021  23:01 (11:01 PM CST)
+# Domains: 6,426
+# Updated: 2/10/2021  13:03 (1:03 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -269,6 +269,7 @@ a.ad.playstation.net
 a.ads1.msn.com
 a.ads2.msn.com
 a-ads.com
+aan.amazon.com
 aanqylta.com
 a.artamkari.com
 aatkit.com
@@ -2213,6 +2214,8 @@ cdn.convertbox.com
 cdn.dmp.wi-fi.ru
 cdn.doubleclick.thirdparty.ooyala.com
 cdn.doublepimpssl.com
+cdn.easyads28.info
+cdn.easyads29.mobi
 cdn.epomads2.4shared.com
 cdn.feedbackify.com
 cdn.feed.sdna.com
@@ -2783,6 +2786,7 @@ eaqxjz6bra.com
 earnify.com
 easy-ad.no
 easyads28.info
+easyads29.mobi
 easyads.bg
 easy-ads.com
 easy-ads.dk
@@ -2835,6 +2839,7 @@ ellads.com
 ellcurvth.com
 emarketingsuite.net
 embed.secondstreetapp.com
+embed.tumblr.com
 emediate.dk
 emediate.eu
 emerse.com
