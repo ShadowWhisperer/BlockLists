@@ -1,0 +1,168 @@
+#
+#    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
+# Domains: 120
+# Updated: 2/10/2021  20:59 (8:59 PM CST)
+# Creator: ShadowWhisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#
+
+###########################################################################################
+#                      https://www.spamhaus.org/statistics/networks/                      #
+###########################################################################################
+tedata.net                                    #ISP    Worst  Botnet   Oct 2019
+te.eg                                         #ISP    Worst  Botnet   Oct 2019
+vnnic.vn                                      #ISP    Worst  Botnet   Oct 2019
+adityabirla.com                               #ISP    Worst  Botnet   Feb 2020
+algerietelecom.dz                             #ISP    Worst  Botnet   Feb 2020
+chinanet.cn.net                               #ISP    Worst  Botnet   Feb 2020
+cnc-noc.net                                   #ISP    Worst  Botnet   Feb 2020
+ptcl.net.pk                                   #ISP    Worst  Botnet   Feb 2020
+sancharnet.in                                 #ISP    Worst  Botnet   Feb 2020
+telkom.co.id                                  #ISP    Worst  Botnet   Feb 2020
+vnnic.net.vn                                  #ISP    Worst  Botnet   Feb 2020
+zx.nl                                         #ISP    Worst  Botnet   Feb 2020
+zvi.ru                                        #ISP    Worst  Botnet   Apr 2020
+zylon.net                                     #ISP    Worst  Botnet   May 2020
+charter.net                                   #ISP    Worst  Botnet   Nov 2020
+chinamobile.com                               #ISP    Worst  Botnet   Nov 2020
+ntl.com                                       #ISP    Worst  Botnet   Nov 2020
+rr.com                                        #ISP    Worst  Botnet   Nov 2020
+
+airtel.in                                     #ISP    Worst  Spam     Feb 2019
+kornet.net                                    #ISP    Worst  Spam     Oct 2019
+moldtelecom.md                                #ISP    Worst  Spam     Oct 2019
+htu.cc                                        #ISP    Worst  Spam     Feb 2020
+spectranet.com.ng                             #ISP    Worst  Spam     Feb 2020
+zzidc.com                                     #ISP    Worst  Spam     Feb 2020
+fos-vpn.org                                   #ISP    Worst  Spam     Apr 2020
+chinaccs.cn                                   #ISP    Worst  Spam     May 2020
+fink.org                                      #ISP    Worst  Spam     May 2020
+ghlc.biz                                      #ISP    Worst  Spam     Jun 2020
+inter-cloud.tech                              #ISP    Worst  Spam     Jun 2020
+colocrossing.com                              #ISP    Worst  Spam     Nov 2020
+###########################################################################################
+###########################################################################################
+
+
+kidinspector.com                              #Computer Monitoring
+
+spyfone.com                                   #Phone Monitoring
+spymasterpro.com                              #Phone Monitoring
+spyhuman.com                                  #Phone Monitoring
+
+actualkeylogger.com                           #Keylogger
+ardamax.com                                   #Keylogger
+bestxsoftware.com                             #Keylogger
+blazingtools.com                              #Keylogger
+elitekeyloggers.com                           #Keylogger
+iwantsoft.com                                 #Keylogger
+kidlogger.net                                 #Keylogger
+logixoft.com                                  #Keylogger
+mobilespy.b-cdn.net                           #Keylogger
+netbull.com                                   #Keylogger
+pctattletale.com                              #Keylogger
+refog.com                                     #Keylogger
+relytec.com                                   #Keylogger
+spyarsenal.com                                #Keylogger
+spyrix.cc                                     #Keylogger
+spyrix.com                                    #Keylogger
+spyrix.info                                   #Keylogger
+win-spy.com                                   #Keylogger
+wolfeye.us                                    #Keylogger
+
+hikvision.com                                 #Chineese Security Cameras - Banned By US Gov.
+api.hikvision.com                             #Chineese Security Cameras - Banned By US Gov.
+hikvision.com.cn                              #Chineese Security Cameras - Banned By US Gov.
+
+bitbucket.io                                  #Code Hosting - Hosts malware / scam sites
+codesandbox.io                                #Code Hosting - Hosts malware / scam sites
+glitch.me                                     #Code Hosting - Hosts malware / scam sites
+repl.co                                       #Code Hosting - Hosts malware / scam sites
+repl.it                                       #Code Hosting - Hosts malware / scam sites
+stackblitz.io                                 #Code Hosting - Hosts malware / scam sites
+
+appdomain.cloud                               #Cloud Storage (IBM) - Known to have malware
+top4top.io                                    #Cloud Storage - Known to have malware
+
+aapks.com                                     #APK Hosting (Android Apps)
+
+kingoapp.com                                  #Shady Software - Android Rooting Software
+oneclickroot.com                              #Shady Software - Android Rooting Software
+api-main.oneclickroot.com                     #Shady Software - Android Rooting Software
+
+apponic.com                                   #Software Hosting
+avanquest.com                                 #Software Hosting
+brothersoft.com                               #Software Hosting
+cache.filehippo.com                           #Software Hosting
+cdn.filehorse.netdna-cdn.com                  #Software Hosting
+crsky.com                                     #Software Hosting
+dl1.filehippo.com                             #Software Hosting
+download82.com                                #Software Hosting
+downloadsoftware4free.com                     #Software Hosting
+en.vessoft.com                                #Software Hosting
+fileeagle.com                                 #Software Hosting
+filehippo.com                                 #Software Hosting
+filehorse.com                                 #Software Hosting
+filehorse.sbsd-updates.eu                     #Software Hosting
+filesriver.com                                #Software Hosting
+freesoftwarefiles.com                         #Software Hosting
+fs1.filesriver.com                            #Software Hosting
+fs2.download82.com                            #Software Hosting
+fyxm.net                                      #Software Hosting
+getitfree.us                                  #Software Hosting
+jetelecharge.com                              #Software Hosting
+oovoo.com                                     #Software Hosting
+qarchive.org                                  #Software Hosting
+sftapi.com                                    #Software Hosting
+soft32download.com                            #Software Hosting
+softonic.com                                  #Software Hosting
+softonic.info                                 #Software Hosting
+softoniclabs.com                              #Software Hosting
+softpedia.com                                 #Software Hosting
+vessoft.com                                   #Software Hosting
+vessoftstatic.com                             #Software Hosting
+winsite.com                                   #Software Hosting
+
+teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
+
+taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
+
+burrow.io                                     #Share Localhost
+localhost.run                                 #Share Localhost
+showoff.io                                    #Share Localhost
+
+
+
+#  Domains Used On/By Infected Machines  (Potentially)
+#=====================================================================================================
+#
+#   Money Transfer  =  Websites used to send money to someone else
+#          Webhook  =  Inspect page requets  (Can be used to recieve data from an infected system)
+#        Webscript  =  Run scripts online
+#
+#=====================================================================================================
+#
+
+
+remitly.com                            #Money Transfer  (Seen in Tech Support Scam)
+remitly.io                             #Money Transfer  (Seen in Tech Support Scam)
+
+beeceptor.com                          #Webhook
+httpreq.com                            #Webhook
+ironikus.com                           #Webhook
+requestbin.com                         #Webhook
+requestinspector.com                   #Webhook
+requestwatch.com                       #Webhook
+webhook.site                           #Webhook
+
+pythonanywhere.com                     #Webscript
+webscript.io                           #Webscript
+
+cdn.snipr.gg                           #Hacking Tool: Credential Stuffing Toolkit
+snipr.gg                               #Hacking Tool: Credential Stuffing Toolkit
+
+godaddysites.com                       #Un-Finished sites - Usually malware (Not always)
+
+api.c99.nl                             #Can be used as a port scanner
