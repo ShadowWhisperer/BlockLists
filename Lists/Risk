@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 118
-# Updated: 2/8/2021  22:59 (10:59 PM CST)
+# Domains: 120
+# Updated: 2/10/2021  20:59 (8:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -84,6 +84,7 @@ repl.it                                       #Code Hosting - Hosts malware / sc
 stackblitz.io                                 #Code Hosting - Hosts malware / scam sites
 
 appdomain.cloud                               #Cloud Storage (IBM) - Known to have malware
+top4top.io                                    #Cloud Storage - Known to have malware
 
 aapks.com                                     #APK Hosting (Android Apps)
 
@@ -123,6 +124,8 @@ softpedia.com                                 #Software Hosting
 vessoft.com                                   #Software Hosting
 vessoftstatic.com                             #Software Hosting
 winsite.com                                   #Software Hosting
+
+teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
 
 taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
 

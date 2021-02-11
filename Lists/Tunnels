@@ -1,22 +1,25 @@
 #
 #    File: Tunnels   (VPNs & Proxies)
-# Domains: 363
-# Updated: 2/8/2021  22:59 (10:59 PM CST)
+# Domains: 401
+# Updated: 2/10/2021  20:59 (8:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+0x3d.lu
 123hideip.com
 4everproxy.com
 aceproxy.com
+acevpn.com
 adresseip.com
 airvpn.org
 anchorfree.net
 anchorfree.us
 anonymizer.nntime.com
 anonymouse.org
+anonymousvpn.org
 anonymster.com
 api.hsselite.com
 api.phantom.avira-vpn.com
@@ -30,16 +33,21 @@ au.phantom.avira-vpn.com
 au-syd.phantom.avira-vpn.com
 avira-vpn.com
 awhoer.net
+bananavpn.com
 be.phantom.avira-vpn.com
+bestukvpn.com
 bg.phantom.avira-vpn.com
 blewpass.com
+bl.superfreevpn.com
 boomproxy.com
 brazilproxy.com
 br.phantom.avira-vpn.com
 bru-be.prcdn.net
 btguard.com
+bunkerbustervpn.com
 cantfindme.org
 ca.phantom.avira-vpn.com
+ca.superfreevpn.com
 checkpoint.com
 chi-il-us.prcdn.net
 ch.phantom.avira-vpn.com
@@ -73,6 +81,7 @@ darknet.to
 de4.vpnbook.com
 de.hideproxy.me
 de.phantom.avira-vpn.com
+de.superfreevpn.com
 dg98q1fqxxogp.cloudfront.net
 dk.phantom.avira-vpn.com
 dontblockme.org
@@ -98,6 +107,8 @@ fpn.firefox.com
 fproxy.net
 free4proxy.tv
 freebypassproxy.com
+freecanadavpn.com
+freecloudvpn.com
 freeproxy.io
 free-proxyserver.com
 free-proxysite.com
@@ -108,17 +119,20 @@ freevpn.me
 freevpnme.b-cdn.net
 frootvpn.com
 fr.phantom.avira-vpn.com
+fr.superfreevpn.com
 gamers-nor.com
 gb-lon.phantom.avira-vpn.com
 gb-mnc.phantom.avira-vpn.com
 geekproxy.com
 genmirror.com
 geti2p.net
+getusvpn.com
 global-proxy.com
 greenproxy.net
 gr.phantom.avira-vpn.com
 guardster.com
 gvirabi.com
+happy-vpn.com
 headproxy.com
 helpmehide.net
 heroproxy.com
@@ -140,6 +154,7 @@ hk.phantom.avira-vpn.com
 hola.org
 homeproxy.com
 homeproxy.net
+hotfreevpn.com
 hotspotshield.com
 hsselite.com
 hu.phantom.avira-vpn.com
@@ -155,11 +170,14 @@ ipbuzz.net
 ipchangeproxy.com
 ipchanging.com
 ipdisguiser.com
+ipredator.se
+iprivatevpn.com
 ipvanish.com
 iron-dot-cobalt-antenna-219709.appspot.com
 isityet.net
 is.phantom.avira-vpn.com
 it.phantom.avira-vpn.com
+ivpn.net
 jailbreaked.net
 japanwebproxy.com
 jp.phantom.avira-vpn.com
@@ -185,6 +203,7 @@ myproxysite.org
 newipnow.com
 ninjabrowse.com
 ninjacloak.com
+njal.la
 nl.hideproxy.me
 nl.phantom.avira-vpn.com
 nntime.com
@@ -211,8 +230,11 @@ onion.sh
 onion.to
 onion.ws
 onlineipchanger.com
+opengw.net
 openvpn.net
+ovpn.to
 perfect-privacy.com
+personalvpn.biz
 pl.phantom.avira-vpn.com
 polandgrows.com
 polargrizzly.com
@@ -220,6 +242,7 @@ pplsearcher.com
 privateinternetaccess.com
 privatetunnel.com
 protonvpn.com
+provpnaccounts.com
 proxfree.com
 proxify.com
 proxify.co.uk
@@ -229,6 +252,7 @@ proxify.org
 proxite.de
 proxite.net
 proxite.org
+proxpn.com
 proxssl.com
 proxy8.asia
 proxybeud.info
@@ -269,11 +293,13 @@ safeunblock.com
 secretbrowser.net
 securefor.com
 securehole.com
+securevpn.com
 securewebproxy.net
 se.phantom.avira-vpn.com
 server1.freevpn.me
 sg.phantom.avira-vpn.com
 shadowsocks.org
+shadowsurf.com
 si.phantom.avira-vpn.com
 sitenable.com
 sitenable.org
@@ -289,8 +315,10 @@ stormyproxy.info
 strongvpn.com
 stunnel.org
 superbproxy.com
+superfreevpn.com
 surf100.com
 surfall.net
+surfbouncer.com
 surfeasy.com
 swordvpn.com
 testpilot.firefox.com
@@ -304,6 +332,8 @@ tubeprox.com
 tunnelbear.com
 tuntapproxy.info
 turbohide.org
+ufreevpn.com
+uk.superfreevpn.com
 uktvproxy.com
 unblockanything.com
 unblockblog.info
@@ -311,6 +341,7 @@ unblocked.llc
 unblockedme.com
 unblocker.net
 unblockit.app
+unblockit.ltd
 unblock-me.org
 unblock-proxy.com
 unblockyouku.com
@@ -336,15 +367,22 @@ us-phx.phantom.avira-vpn.com
 us-sea.phantom.avira-vpn.com
 us-sfo.phantom.avira-vpn.com
 us-streaming.phantom.avira-vpn.com
+us.superfreevpn.com
 us-was.phantom.avira-vpn.com
 vload.net
 vobas.com
 vpernet.com
+vpn-account.com
+vpnaccounts.com
 vpn.avg.tools.avast.com
 vpn.azure.com
 vpnbook.com
 vpnbrowse.com
+vpn-free.com
+vpngate.net
 vpn.net
+vpnprivacy.com
+vpnprivacy.services
 vpntunnel.com
 vpnuse.com
 walln.com
