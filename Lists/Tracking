@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,325
-# Updated: 2/10/2021  20:59 (8:59 PM CST)
+# Domains: 9,341
+# Updated: 2/12/2021  00:45 (12:45 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1063,6 +1063,7 @@ broaddoor.com
 brothersbucket.com
 browsee.io
 browseranalytic.com
+browser.events.data.microsoft.com
 browser.events.data.trafficmanager.net
 browserhawk.com
 browser.pipe.aria.microsoft.com
@@ -1219,6 +1220,7 @@ cdn.etrack1.com
 cdn.fera.ai
 cdn.fraudjs.io
 cdnfraudjsio.crowd9ptyltd.netdna-cdn.com
+cdn.ghostmonitor.com
 cdn.imhd.io
 cdn.instapagemetrics.com
 cdn.levelaccess.net
@@ -1230,6 +1232,7 @@ cdn.mobify.com
 cdn.neatab.com
 cdn-net.com
 cdn.onnetwork.tv
+cdn.owebanalytics.com
 cdn.paddle.com
 cdn.pdst.fm
 cdn.perzonalization.com
@@ -1605,6 +1608,7 @@ collector.applemediaservices.com
 collector.brandify.com
 collector-cdn.github.com
 collector.gamezop.com
+collector.getyourguide.com
 collector.githubapp.com
 collector-hpn.ghostery.net
 collector-hpn.privacy.ghostery.net
@@ -2857,6 +2861,7 @@ gexperiments.com
 gfe.nvidia.com
 gfwsl.geforce.com
 gfx.filmweb.pl
+ghostmonitor.com
 g.huya.com
 giddycoat.com
 giddyuptrk.com
@@ -2864,6 +2869,7 @@ giftedglue.com
 giftedthumb.com
 gigaonclick.com
 giraffepiano.com
+giraff.io
 gizmos.future-fie.co.uk
 g.jwpsrv.com
 glassboxdigital.com
@@ -2992,6 +2998,7 @@ gsp8-ssl.ls-apple.com.akadns.net
 gsp9-ssl.apple.com
 gsp9-ssl.ls-apple.com.akadns.net
 gspe11-ssl.ls.apple.com.edgekey.net
+gspe12-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com
 gspe35-ssl.ls.apple.com
 gspe79-ssl.ls.apple.com
@@ -3394,6 +3401,7 @@ illfatedsnail.com
 illustriousoatmeal.com
 ilmioip.it
 image.click.livedoor.com
+image-free-counter.net
 images.containerstore.com
 image.timespoints.iimg.in
 im.cbsileads.com
@@ -3843,6 +3851,7 @@ livelumber.com
 liverail.com
 liveramp.com
 livesession.io
+livestatserver.com
 live-trace.bilibili.com
 lizardslaugh.com
 lmstat.sonicwall.com
@@ -3920,6 +3929,7 @@ log-tb.isnssdk.com
 log-tb.sgsnssdk.com
 log-va.tiktokv.com
 longinglettuce.com
+lookbookhq.com
 looker.com
 loop11.com
 loopanalytics.com
@@ -4307,6 +4317,7 @@ metricssecure.northwesternmutual.com
 metricssecure.todaysales.com
 metrics-stage.adobeprimetime.com
 metrics-target.siriusxm.com
+metrics.three.co.uk
 metrics-v2.datadome.co
 metrika.yandex.com
 metrilo.com
@@ -4365,6 +4376,7 @@ mobileanalytics.web.ue1.app.chime.aws
 mobileanalytics.web.ue1.b.app.chime.aws
 mobile.apple.com
 mobileapptracking.com
+mobile-collector.newrelic.com
 mobilecrashreporting.googleapis.com
 mobilegamestats.com
 mobilelog.kugou.com
@@ -6708,6 +6720,7 @@ segment.io
 segmetrics.io
 selectionship.com
 selectivesummer.com
+self.events.data.microsoft.com
 selfishsea.com
 sellpoint.net
 semanticlocation-pa.googleapis.com
@@ -7683,6 +7696,7 @@ stats.nerdpress.net
 stats.net
 stats-newyork1.bloxcms.com
 stat.social
+stats.openvpn.net
 stats-oreg-prod.inbake.com
 stats.paypal.com
 statsperform.com
@@ -7733,6 +7747,7 @@ stats-tracker.net
 stat.su
 stats.unity3d.com
 stats-v2-prod-or-lbj.inbake.com
+stats.windscribe.com
 stats.wp.com
 statsy.net
 stat-track.com
@@ -8628,6 +8643,7 @@ t.spike.com
 ts.popsugar.com
 t.svtrd.com
 ttauri.digitalcameraworld.com
+ttcontacts.com
 ttgtmedia.com
 ttmetrics.jcpenney.com
 tt.natwest.com
