@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 8,954
-# Updated: 2/12/2021  16:45 (4:45 PM CST)
+# Domains: 8,996
+# Updated: 2/16/2021  00:35 (12:35 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -487,6 +487,9 @@ analytics.amakings.com
 analyticsapi.bsbportal.com
 analyticsapi.happypancake.net
 analytics.arm.com
+analytics.audioeye.com
+analytics.batesvilletechnology.com
+analytics.carambo.la
 analytics.carbonite.com
 analytics.civicplus.com
 analytics.clickdimensions.com
@@ -503,6 +506,7 @@ analytics.ff.avast.com
 analytics.fr
 analytics.global.sky.com
 analytics.go.com
+analytics-ingestion.production-public.tubi.io
 analytics-iq.com
 analytics.live.com
 analyticsmarket.com
@@ -513,11 +517,13 @@ analyticson.com
 analytics.pe
 analyticspixel.microsoft.com
 analytics.report
+analytics.slashdotmedia.com
 analyticsssl.forcepoint.com
 analytics-static.ugc.bazaarvoice.com
 analytics.thehardcorenetwork.com
 analytics.tiktok.com
 analytics-tracking.meetup.com
+analytics.twitter.com
 analytics.yahoo.com
 analytictech.com
 anapixel.elmundo.es
@@ -609,7 +615,6 @@ api.peers.tv
 api.perzonalization.com
 api.pxl.dailymotion.com
 api.reelgood.com
-api.rest7.com
 api-rest.analytics.nexonm.com
 api.ringlead.com
 api.sail-personalize.com
@@ -644,6 +649,7 @@ app-analytics-us.huami.com
 app-analytics-v2.snapchat.com
 appannie.com
 apparatuslip.com
+app.carnow.com
 appcelerator.com
 appcelerator.net
 app.civey.com
@@ -899,15 +905,20 @@ bdg-analytics.appspot.com
 b.digitalartsonline.co.uk
 bea4.adultswim.com
 beaconforstore.com
+beacon.krxd.net
+beacon-nf.rubiconproject.com
+beacons2.extremereach.io
 beacons2.gvt2.com
 beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
+beacons.extremereach.io
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beaconsinspace.com
 beacons.mediamelon.com
+beacon-us-west.rubiconproject.com
 beacon-v2.helpscout.net
 beadbears.com
 beamincrease.com
@@ -1070,6 +1081,7 @@ btstatic.com
 btttag.com
 bucketbean.com
 bufferapp.com
+bug2.onlyfans.com
 bugfender.com
 bugherd.com
 bugly.qcloud.com
@@ -1180,11 +1192,13 @@ ccmp.eu
 c.coll2onf.com
 c.de.msn.com
 c.dk.msn.com
+cdn1.roadster.com
 cdn1-tags.pornerbros.com
 cdn.abcotvs.net
 cdn.acsbap.com
 cdn-api.arcpublishing.com
 cdn.autoaudience.com
+cdn.autoleadstar.com
 cdn.avmws.com
 cdn-bacon.getcarro.com
 cdn.brcdn.com
@@ -1609,6 +1623,7 @@ collector.viki.io
 collector.xhamster7.com
 collector.xhtotal.com
 collector.zum.com
+collect.tealiumiq.com
 collect-test.arabam.com
 collect-us-fy2015.myhomescreen.tv
 collect-us-fy2016.myhomescreen.tv
@@ -1682,6 +1697,7 @@ cookie.carfax.com
 cookies.siemens.com
 cookie.sync.usonar.jp
 cooleremail.com
+cooper.logs.roku.com
 coordinatedbedroom.com
 coordinatedcoat.com
 coordinatedcub.com
@@ -1704,6 +1720,7 @@ counter.cz
 counter.de
 counter.gd
 counter.info
+counter.live4members.com
 counter.org
 counter.pushauction.com
 counter.ru
@@ -2405,6 +2422,7 @@ estat.com
 estatcounter.com
 e-stat.huya.com
 estat.zum.com
+etahub.com
 et.nytimes.com
 etrack1.com
 etracker.com
@@ -2462,6 +2480,7 @@ eventstream-829-weblog-05.bigpoint.net
 eventstream-829-weblog-06.bigpoint.net
 eventstream-829-weblog-07.bigpoint.net
 eventstream-829-weblog-08.bigpoint.net
+events.tremorhub.com
 events-va.placester.com
 events.web.money
 event.syndigo.cloud
@@ -2690,6 +2709,7 @@ frnchprl.com
 frontwatch.jjshouse.com
 fs.bizspring.net
 fstrk.net
+ftm.fluencyinc.co
 ftn.eulerian.net
 ftn.fortuneo.fr
 ft.trib.al
@@ -2936,7 +2956,6 @@ gsp1-ssl.apple.com
 gsp3-ssl.apple.com
 gsp8-ssl.apple.com
 gsp9-ssl.apple.com
-gspe11-ssl.ls.apple.com.edgekey.net
 gtrk.s3.amazonaws.com
 gts-ping-log.bluebird-mobile.com
 guaranteelamp.com
@@ -3116,9 +3135,11 @@ i.clean.gg
 icptrack.com
 id.aftenbladet.no
 idealspot.com
+identity.ads.roku.com
 identity.prod.platform.ext.mobilityware.com
 ident.me
 idevaffiliate.com
+id.google.com
 idiagnostics.apple.com
 idpix.media6degrees.com.cdn.cloudflare.net
 id-visitors.com
@@ -3240,6 +3261,7 @@ insanetrack.com
 insert.io
 inside-graph.com
 insight-1616140656.us-west-2.elb.amazonaws.com
+insight.adsrvr.org
 insightfirst.com
 insight.gm
 insight.ly
@@ -3248,6 +3270,7 @@ insight.rapid7.com
 insightrocket.com
 insights.algolia.io
 insights-collector.gog.com
+insights-collector.newrelic.com
 insights.com
 insitesofthosting.com
 insitez.blob.core.windows.net
@@ -3625,6 +3648,7 @@ log16-normal-c-useast2a.tiktokv.com
 log2-useast1a.musical.ly
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
+log.adaptv.advertising.com
 logagent-global.kingsgroupgames.com
 logaholic.com
 log-b-1270450396.us-west-1.elb.amazonaws.com
@@ -3668,6 +3692,7 @@ logstat.kugou.com
 log-tb.isnssdk.com
 log-tb.sgsnssdk.com
 log-va.tiktokv.com
+log.v.ssp.yahoo.com
 longinglettuce.com
 lookbookhq.com
 looker.com
@@ -4271,6 +4296,9 @@ mytrackcdn.com
 myvisualiq.net
 mywebstats.com.au
 n.accessmylibrary.com
+na.fps1.ford.com
+na.fps2.ford.com
+na.fps3.ford.com
 na.fps.ford.com
 nakanohito.jp
 n-analytics.io
@@ -4316,6 +4344,7 @@ netline.com
 netmarbleslog.netmarble.com
 netmining.com
 netowl.com
+netping.unity.rokuapi.net
 netratings.com
 netratings.com.au
 netseer.com
@@ -5660,7 +5689,6 @@ resources-production.la.welt.de
 respectrain.com
 responder.wt.heise.de
 responsetap.com
-rest7.com
 re.stjude.org
 resultsmedia.com
 retargeter.com
@@ -6614,6 +6642,8 @@ smetricsadobe.hollandandbarrett.nl
 s.metrics.artistsnetwork.com
 smetrics-cns.panasonic.com
 smetrics.dandh.com
+smetrics.fcacert.com
+smetrics.frontier.com
 smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
 smetrics-merch.bankofamerica.com
@@ -6634,6 +6664,7 @@ sminerva.berkeleywellness.com
 sminerva.healthcentral.com
 sminerva.mood247.com
 sminerva.thebody.com
+s.ml-attr.com
 smobile.wotif.com
 smodus.nike.co.kr
 smodus.nike.com
@@ -7297,9 +7328,11 @@ statsfe2.ws.microsoft.com
 statsforads.com
 statsforever.com
 stats.fr
+stats.g.doubleclick.net
 statshop.fr
 stats.hprofits.com
 stats.ivpn.net
+stats.l.doubleclick.net
 stats.load.com
 stats-locations.com
 stats.mbamupdates.com
@@ -7310,6 +7343,7 @@ stats-newyork1.bloxcms.com
 stat.social
 stats.openvpn.net
 stats-oreg-prod.inbake.com
+stats.pandora.com
 stats.paypal.com
 statsperform.com
 stats-prod.svc.gearsofwar.net
@@ -7803,6 +7837,7 @@ targetcircle.com
 target.cisco.com
 targetemsecure.blob.core.windows.net
 targeting.tronc.arcpublishing.com
+target.jeep.com
 target.microsoft.com
 target.mixi.media
 target.ramtrucks.com
@@ -8046,6 +8081,7 @@ tracker-legacy.streeteasy.com
 tracker.network
 tracker.prq.to
 tracker.ru
+tracker.samplicio.us
 trackers.safelinkwireless.com
 tracker.to
 track-flow.com
@@ -8096,10 +8132,12 @@ track.net
 track.nl
 trackonomics.net
 trackoptimise.com
+track.premiumcash.com
 trackpush.com
 trackset.com
 trackset.it
 tracksmall.com
+track.sr.roku.com
 tracksrv.zdf.de
 trackuhub.com
 trackuity.com
@@ -8152,12 +8190,15 @@ trickycelery.com
 triggeredmail.appspot.com
 trinity.platform.intuit.com
 t.riverhitc.com
+trk.clinch.co
 trk.elasticemail.com
 trk-int.addealsnetwork.com
 trkme.net
 trkn.us
+trk.pinterest.com
 trk.plus
 tr.kqzamd.com
+trk.tidaltv.com
 tr.lfeeder.com
 tr.line.me
 tr.marsflag.com
@@ -8734,6 +8775,7 @@ who.nie.netease.com
 widengle.com
 widerplanet.com
 widget.civey.com
+widgetstore.edmunds.com
 widget.zoorate.com
 wieistmeineip.de
 wigglygeese.com
