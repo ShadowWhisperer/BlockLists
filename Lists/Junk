@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 500
-# Updated: 2/10/2021  20:59 (8:59 PM CST)
+# Domains: 502
+# Updated: 2/16/2021  23:32 (11:32 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -79,6 +79,7 @@ startbewijs.nl                                       #Bookmark Site
 startclub.nl                                         #Bookmark Site
 startje.com                                          #Bookmark Site
 startkabel.nl                                        #Bookmark Site
+startkwartier.nl                                     #Bookmark Site
 startmee.nl                                          #Bookmark Site
 startpagina.nl                                       #Bookmark Site
 startplezier.nl                                      #Bookmark Site
@@ -106,12 +107,14 @@ uc.cn                                                #Browser
 ucweb.com                                            #Browser
 updates.bravesoftware.com                            #Browser
 
+ad-blocker.org                                       #Browser Extension
 adtidy.org                                           #Browser Extension
 adzero.org                                           #Browser Extension
 auth.grammarly.com                                   #Browser Extension
 bleengo.com                                          #Browser Extension
 chrome.adtidy.org                                    #Browser Extension
 data.grammarly.com                                   #Browser Extension
+getadblock.com                                       #Browser Extension
 gingersoftware.com                                   #Browser Extension
 gnar.grammarly.com                                   #Browser Extension
 grammarly.com                                        #Browser Extension
@@ -453,7 +456,6 @@ webydo.com                                           #Website Builder
 xtgem.com                                            #Website Builder
 zohosites.com                                        #Website Builder
 
-chat.chatovod.ru                                     #Website Plugin - Multi-user Chat
 chatovod.ru                                          #Website Plugin - Multi-user Chat
 
 lycos.com                                            #Search Engine - Links to malware
@@ -503,6 +505,7 @@ search.zonealarm.com                                 #Search Engine   ZoneAlarm 
 hi5.com                                              #Social Media (Contains Adult Sites)
 
 adfoc.us                                             #URL Shortener
+href.li                                              #URL Shortener (Abused)
 
 mediaconverteronline.com                             #Video Converter
 
@@ -527,7 +530,6 @@ doctoroz.com
 dualstack.ab08ac4d89c8611e7a4b00201a730073-1952195267.us-west-2.elb.amazonaws.com
 emojirequest.com
 eviesays.com
-getadblock.com
 howtoprotectyourbrain.com
 imvu.com
 isumsoft.com

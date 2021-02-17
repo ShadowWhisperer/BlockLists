@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 8,996
-# Updated: 2/16/2021  00:35 (12:35 AM CST)
+# Domains: 9,013
+# Updated: 2/16/2021  23:32 (11:32 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -491,6 +491,7 @@ analytics.audioeye.com
 analytics.batesvilletechnology.com
 analytics.carambo.la
 analytics.carbonite.com
+analytics.ccs.mcafee.com
 analytics.civicplus.com
 analytics.clickdimensions.com
 analytics.com
@@ -1051,6 +1052,7 @@ brothersbucket.com
 browsee.io
 browseranalytic.com
 browser.events.data.microsoft.com
+browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browserhawk.com
 browser.pipe.aria.microsoft.com
@@ -1301,6 +1303,7 @@ checkip.pw
 checkip-waw.dyndns.com
 checkmyip.com
 check-my-ip.net
+checkout.zoro.com
 checkpagerank.net
 checkstat.nl
 cheerfulrange.com
@@ -1463,6 +1466,7 @@ clickprotects.com
 click.ru
 clicks.net
 clicks.support
+clickstream.events
 clicksure.com
 clicktale.com
 clicktale.net
@@ -2736,6 +2740,7 @@ fysical.com
 fzlnk.com
 g2insights-cdn.azureedge.net
 g2trk.com
+gaconnector.com
 gainsight.com
 galaxy.bjcathay.com
 galaxy-client-reports.gog.com
@@ -2890,6 +2895,7 @@ godatadriven.com
 godlygeese.com
 godog.shopifycloud.com
 gohillgo.com
+go.lexipol.com
 go.lynxbroker.de
 go-mpulse.net
 gondolagnome.com
@@ -3141,6 +3147,7 @@ ident.me
 idevaffiliate.com
 id.google.com
 idiagnostics.apple.com
+id.lexipol.com
 idpix.media6degrees.com.cdn.cloudflare.net
 id-visitors.com
 id.zalo.me
@@ -3224,6 +3231,7 @@ info.anz.com.au
 infogix.com
 info.izatcloud.net
 info.justwatch.com
+info.lexipol.com
 info.m.seek.com.au
 infonline.de
 informamarkets.com
@@ -3579,6 +3587,7 @@ librelytics.com
 libstat.com
 licasd.com
 licensing.bitmovin.com
+lid.cdn.lexipol.com
 liftoff.io
 lightboxapi2.azurewebsites.net
 lightboxapi.azurewebsites.net
@@ -4145,6 +4154,7 @@ mobile-collector.newrelic.com
 mobilecrashreporting.googleapis.com
 mobilegamestats.com
 mobilelog.kugou.com
+mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 mobiletech.no
 mobileweb-beacons.xumo.com
@@ -5688,6 +5698,7 @@ resonate.com
 resources-production.la.welt.de
 respectrain.com
 responder.wt.heise.de
+responseiq.com
 responsetap.com
 re.stjude.org
 resultsmedia.com
@@ -5804,6 +5815,7 @@ rubik-gslb.houston.hp.com
 ruddycast.com
 ruddywash.com
 ruleranalytics.com
+rumiview.com
 rum.kobo.com
 rundsp.com
 rusticprice.com
@@ -7340,6 +7352,7 @@ statsmp2.emol.com
 stats.nerdpress.net
 stats.net
 stats-newyork1.bloxcms.com
+stats.norton.com
 stat.social
 stats.openvpn.net
 stats-oreg-prod.inbake.com
@@ -7880,6 +7893,7 @@ telemetry_ads.msn.com
 telemetry_az361816.vo.msecnd.net
 telemetry-data.r53-2.services.mozilla.com
 telemetry-dce.gfe.nvidia.com
+telemetry.dropbox.com
 telemetry-in.battle.net
 telemetry-incoming.r53-2.services.mozilla.com
 telemetry.microsft.com
@@ -8361,6 +8375,7 @@ uhf.microsoft.com
 uie.data.cbc.ca
 uif.microsoft.com
 ulogs.umengcloud.com
+ultimatecounter.com
 ultraoranges.com
 umbel.com
 umeng.co
@@ -8708,10 +8723,12 @@ webstat.com
 webstat.freaks4u.com
 webstat.garanti.com.tr
 webstat.net
+webstat.no
 webstats4u.com
 webstats.app
 webstats.com
 webstatsdomain.org
+webstat.se
 webstats.eb.com
 webstats.fr
 webstats.nexttuesday.de
