@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 714
-# Updated: 2/10/2021  20:59 (8:59 PM CST)
+# Domains: 716
+# Updated: 2/17/2021  19:29 (7:29 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -53,17 +53,19 @@ fonts.googleapis.com                                    #Font  Google
 f.kinja-static.com                                      #Font      Kinja
 hello.myfonts.net                                       #Font  My Fonts
 myfonts.net                                             #Font  My Fonts
-d3s44e87wooplq.cloudfront.net                           #Font      Font Awesome
-fontawesome.com                                         #Font      Font Awesome
-ka-f.fontawesome.com                                    #Font      Font Awesome
-ka-p.fontawesome.com.cdn.cloudflare.net                 #Font      Font Awesome
-ka-p.fontawesome.com                                    #Font      Font Awesome
-kit.fontawesome.com.cdn.cloudflare.net                  #Font      Font Awesome
-kit.fontawesome.com                                     #Font      Font Awesome
-kit-free.fontawesome.com                                #Font      Font Awesome
-kit-pro.fontawesome.com                                 #Font      Font Awesome
-pro.fontawesome.com                                     #Font      Font Awesome
-use.fontawesome.com                                     #Font      Font Awesome
+d3s44e87wooplq.cloudfront.net                           #Font       Font Awesome
+fontawesome.com                                         #Font       Font Awesome
+ka-f.fontawesome.com                                    #Font       Font Awesome
+ka-p.fontawesome.com.cdn.cloudflare.net                 #Font       Font Awesome
+ka-p.fontawesome.com                                    #Font       Font Awesome
+kit.fontawesome.com.cdn.cloudflare.net                  #Font       Font Awesome
+kit.fontawesome.com                                     #Font       Font Awesome
+kit-free.fontawesome.com                                #Font       Font Awesome
+kit-pro.fontawesome.com                                 #Font       Font Awesome
+pro.fontawesome.com                                     #Font       Font Awesome
+use.fontawesome.com                                     #Font       Font Awesome
+fontcdn.ir                                              #Font    Font Server
+fontserver.ir                                           #Font    Font Server
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome

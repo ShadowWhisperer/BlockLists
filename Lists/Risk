@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 120
-# Updated: 2/10/2021  20:59 (8:59 PM CST)
+# Domains: 127
+# Updated: 2/17/2021  19:29 (7:29 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -47,6 +47,7 @@ colocrossing.com                              #ISP    Worst  Spam     Nov 2020
 
 
 kidinspector.com                              #Computer Monitoring
+mobistealth.com                               #Computer Monitoring
 
 spyfone.com                                   #Phone Monitoring
 spymasterpro.com                              #Phone Monitoring
@@ -76,8 +77,9 @@ hikvision.com                                 #Chineese Security Cameras - Banne
 api.hikvision.com                             #Chineese Security Cameras - Banned By US Gov.
 hikvision.com.cn                              #Chineese Security Cameras - Banned By US Gov.
 
+codesandbox.io                                #Code Hosting - Hosts malware
+csb.app                                       #Code Hosting - Hosts malware
 bitbucket.io                                  #Code Hosting - Hosts malware / scam sites
-codesandbox.io                                #Code Hosting - Hosts malware / scam sites
 glitch.me                                     #Code Hosting - Hosts malware / scam sites
 repl.co                                       #Code Hosting - Hosts malware / scam sites
 repl.it                                       #Code Hosting - Hosts malware / scam sites
@@ -125,13 +127,19 @@ vessoft.com                                   #Software Hosting
 vessoftstatic.com                             #Software Hosting
 winsite.com                                   #Software Hosting
 
-teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
-
-taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
-
 burrow.io                                     #Share Localhost
 localhost.run                                 #Share Localhost
 showoff.io                                    #Share Localhost
+
+href.li                                       #URL Shortener (Abused)
+adfoc.us                                      #URL Shortener
+shortcm.li                                    #URL Shortener
+short.cm                                      #URL Shortener
+short.io                                      #URL Shortener
+
+teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
+
+taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
 
 
 

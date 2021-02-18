@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
 # Domains: 502
-# Updated: 2/16/2021  23:32 (11:32 PM CST)
+# Updated: 2/17/2021  19:29 (7:29 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -66,7 +66,9 @@ icio.us                                              #Bookmark Site
 jouwpagina.be                                        #Bookmark Site
 jouwpagina.nl                                        #Bookmark Site
 linkarena.com                                        #Bookmark Site
+linkgoed.nl                                          #Bookmark Site
 linkhotel.nl                                         #Bookmark Site
+linkkwartier.nl                                      #Bookmark Site
 linkoverzicht.be                                     #Bookmark Site
 maakjestart.nl                                       #Bookmark Site
 ontoplist.com                                        #Bookmark Site
@@ -503,9 +505,6 @@ copernicus-software.stores.yahoo.net                 #Search Engine   Yahoo
 search.zonealarm.com                                 #Search Engine   ZoneAlarm (Safe Search)
 
 hi5.com                                              #Social Media (Contains Adult Sites)
-
-adfoc.us                                             #URL Shortener
-href.li                                              #URL Shortener (Abused)
 
 mediaconverteronline.com                             #Video Converter
 
