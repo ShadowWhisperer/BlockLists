@@ -13,7 +13,7 @@
     Marketing-Email  Email Based Marketing  
     Microsoft        Apps, Bing, Bloat, Tiles, etc  
     Remote           Domains used for remote sessions  
-    Risk             Worst ISP Bots/Spam, Keyloggers, URL Shortener, Potential domains used by compromised devices
+    Risk             Worst ISP Bots/Spam, Keyloggers, URL Shortener, Potentially used by compromised devices
     Scam             Misleading sites, Fake tech support, gift cards, products, news, etc    
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
     Top_Level        Top Level Domains. Sorted by Continent, then by country
