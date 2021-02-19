@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,028
-# Updated: 2/17/2021  19:29 (7:29 PM CST)
+# Domains: 9,038
+# Updated: 2/18/2021  21:31 (9:31 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -506,6 +506,7 @@ analyticsengine.s3.amazonaws.com
 analyticsext.chase.com
 analytics.ff.avast.com
 analytics.fr
+analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
 analytics-ingestion.production-public.tubi.io
@@ -603,6 +604,7 @@ api.edmunds.com
 api-gdpr.voodoo-tech.io
 api.goaffpro.com
 api-gps-em.hismarttv.com
+api-gps.hismarttv.com
 api.hostip.info
 api.intellimize.co
 api.ipinfodb.com
@@ -2278,6 +2280,7 @@ dynata.com
 dynatrace.com
 dynatrace-managed.com
 dynatracepsg.americanexpress.com
+dynstc.com
 dyntracker.de
 dyntrk.com
 dyr2dbqz8u9mp.cloudfront.net
@@ -2814,6 +2817,7 @@ geofilter.storage.googleapis.com
 geo.geo-svc.com
 geoip2.livecall.io
 geoipapi.callpage.io
+geoip.immediatemedia.co.uk
 geoip-js.com
 geo.iplocation.com
 geoiplookup.io
@@ -2836,6 +2840,7 @@ geo.query.yahoo.com
 geoservice.curse.com
 geo.settings.data.microsoft.com.akadns.net
 geo.seznam.cz
+geotargetly-1a441.appspot.com
 geover-prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 geovisite.com
@@ -3051,6 +3056,7 @@ hfc195b.com
 h.foxsports.com
 h.hollywood.com
 hiconversion.com
+higherlogic.com
 highfalutinbox.com
 highfalutinhoney.com
 highfalutinroom.com
@@ -3245,6 +3251,7 @@ infonline.de
 informamarkets.com
 informatica.com
 informengine.com
+informz.net
 infos.anz.com
 infos.anz.com.au
 infos.anzmortgagesolutions.com.au
@@ -5619,6 +5626,7 @@ redvertisment.com
 rees46.com
 reevoo.com
 ref.dealerinspire.com
+refer.2ndswing.com
 referdriving.com
 referrer.disqus.com
 refinedlabs.com
@@ -8741,6 +8749,7 @@ webstat.net
 webstat.no
 webstats4u.com
 webstats.app
+webstats.channel4.com
 webstats.com
 webstatsdomain.org
 webstat.se
@@ -8962,6 +8971,7 @@ xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
 xlog-va.tiktokv.com
 xlogz.com
+xmode.io
 xmyip.com
 xnfqqnw.onet.pl
 xovq5nemr.com
