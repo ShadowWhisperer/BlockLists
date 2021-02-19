@@ -1,14 +1,17 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,038
-# Updated: 2/18/2021  21:31 (9:31 PM CST)
+# Domains: 9,042
+# Updated: 2/19/2021  16:52 (4:52 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+log.particlenews.com
+smetrics.foxnews.com
 0cf.io
+pixel.wp.com
 0d15692193ba43a8a9384fed500b3a1d.apm.us-east-1.aws.cloud.es.io
 1010data.com
 10duke.com
@@ -388,6 +391,7 @@ a.guess.com
 a.gymjob.com
 a.hasbro.com
 aheadday.com
+aheadmachine.com
 a.hub.com.pl
 aidata.io
 aimatch.com
@@ -3295,7 +3299,6 @@ insights.algolia.io
 insights-collector.gog.com
 insights-collector.newrelic.com
 insights.com
-insitesofthosting.com
 insitez.blob.core.windows.net
 inspectlet.com
 instabug.com
@@ -8686,6 +8689,7 @@ wcs.naver.net
 wctrk.com
 wc.yahoodns.net
 wdbstats.com
+wearbasin.com
 we-are-adot.com
 wearywater.com
 weather-analytics-events.apple.com
