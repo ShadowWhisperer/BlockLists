@@ -1,17 +1,14 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,042
-# Updated: 2/19/2021  16:52 (4:52 PM CST)
+# Domains: 9,190
+# Updated: 2/23/2021  00:11 (12:11 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-log.particlenews.com
-smetrics.foxnews.com
 0cf.io
-pixel.wp.com
 0d15692193ba43a8a9384fed500b3a1d.apm.us-east-1.aws.cloud.es.io
 1010data.com
 10duke.com
@@ -171,6 +168,7 @@ accesspoints.googleapis.com
 accounts-analyticsapp.paytm.com
 acecounter.com
 acehardware-www.baynote.net
+acemetrics.aaa.com
 a.centrum.cz
 a.chdist.com
 acidpigs.com
@@ -740,7 +738,9 @@ asc.solidworks.com
 asc.xs4all.net
 asd.bauhaus.at
 asd.bauhaus.es
+asd.bauhaus.hr
 asd.bauhaus.info
+asd.nl.bauhaus
 asd.pb.com
 a.seenon.com
 as.fitbook.de
@@ -773,6 +773,7 @@ a.tactics.com
 atatus.com
 at.cbsi.com
 atdmt.com
+a.telenor.se
 a.telus.com
 atgservice.com
 atgsvcs.com
@@ -1209,6 +1210,7 @@ cdn1.roadster.com
 cdn1-tags.pornerbros.com
 cdn.abcotvs.net
 cdn.acsbap.com
+cdn.amplitude.com
 cdn-api.arcpublishing.com
 cdn.autoaudience.com
 cdn.autoleadstar.com
@@ -1967,6 +1969,7 @@ datacollector-dre.dt.hicloud.com
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+data.email-e2e.adobecjm.com
 data-events.uniplaces.com
 datagather.xsolla.com
 data.getgist.com
@@ -1975,7 +1978,12 @@ datamark.net
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
 data.sharebuilder.com
+data-ssl.pnet.co.za
 data-ssl.stepstone.at
+data-ssl.stepstone.be
+data-ssl.stepstone.fr
+data-ssl.stepstone.nl
+data-ssl.stepstone.pl
 datatrics.com
 data.twojapogoda.pl
 dataunion.com.br
@@ -2002,6 +2010,8 @@ dcs.audi.com
 dc.services.visualstudio.com
 dcs.esprit.be
 dcs.esprit.co.uk
+dcs.esprit.cz
+dcs.esprit.dk
 dcs.esprit.nl
 dcs.espritshop.ch
 dcs.espritshop.it
@@ -2099,6 +2109,7 @@ dii2.zoochic-eu.ru
 dii2.zoohit.cz
 dii2.zoohit.si
 dii2.zoohit.sk
+dii2.zooplus.at
 dii2.zooplus.be
 dii2.zooplus.bg
 dii2.zooplus.ch
@@ -3706,6 +3717,7 @@ logmatic.io
 log-mining-web.makeshop.co.kr
 log.no
 lognormal.net
+log.particlenews.com
 log.pinterest.com
 logql.yahoo.co.jp
 log.realone.com
@@ -4589,15 +4601,18 @@ oms.cityline.tv
 oms.citynews.ca
 oms.citytv.com
 omsc.kpn.com
+oms.dowjones.com
 oms.dowjoneson.com
 om.sears.com
 oms.expedia.com
+oms.factiva.com
 om.sfgate.com
 oms.fido.ca
 oms.flare.com
 oms.fnlondon.com
 oms.fxnowcanada.ca
 oms.goarmy.com
+oms.halifaxtoday.ca
 oms.hellomagazine.com
 oms.hoteis.com
 oms.hoteles.com
@@ -4616,6 +4631,7 @@ oms.penews.com
 oms.rogersmedia.com
 om-ssl.consorsbank.de
 om-ssl.cortalconsors.de
+oms.snnow.ca
 oms.todaysparent.com
 oms.travelocity.ca
 oms.tsc.ca
@@ -4630,6 +4646,7 @@ omtrdc.net
 omtrkpix.familyhandyman.com
 omtrkpix.rd.com
 omtrkpix.tasteofhome.com
+o.musicnotes.com
 om.usnews.com
 om.vegasmeansbusiness.com
 om.visitbouldercity.com
@@ -4690,8 +4707,10 @@ oracleinfinity.io
 orangeoperation.com
 oribi.io
 origin-images.wikia.com
+o.rosettastone.com
 osc.venetian.com
 os.fandango.com
+osimg.universalorlando.com
 os.shutterfly.com
 o.swisscom.ch
 otherlevels.com
@@ -5211,6 +5230,10 @@ pclick.yahoo.com
 p.cpx.to
 pc-quiz.s3.us-east-2.amazonaws.com
 p.data.cctv.com
+pdmsmrt.buick.com
+pdmsmrt.cadillac.com
+pdmsmrt.chevrolet.com
+pdmsmrt.gmc.com
 p.dnsiw.net
 pdst.fm
 pdxelk.dealerspike.com
@@ -5308,6 +5331,7 @@ pixel2.combotag.com
 pixel2.realclever.com
 pixel.ad
 pixel-api.scupio.com
+pixel.barion.com
 pixeleze.com
 pixel.facebook.com
 pixel.marketing
@@ -5320,6 +5344,7 @@ pixel-static.spotify.com
 pixeltrack.clientgear.com
 pixel-tracker.com
 pixel.watch
+pixel.wp.com
 pixelzirkus.gameforge.com
 pixiedust.buzzfeed.com
 pixie.midomi.com
@@ -5869,6 +5894,7 @@ s7d1.scene7.com
 saa.247sports.com
 saa.cbs.com
 saa.cbsi.com
+saa.cbsnews.com
 saa.cbssports.com
 saa.chowhound.com
 saa.cnet.com
@@ -5888,7 +5914,9 @@ saa.dyson.es
 saa.dyson.fr
 saa.dyson.ie
 saa.dyson.it
+saa.dyson.lu
 saa.dyson.nl
+saa.dyson.pt
 saa.etonline.com
 saa.gamespot.com
 saa.giantbomb.com
@@ -5904,16 +5932,19 @@ saa.metacritic.com
 saametrics.aktia.fi
 saametrics.independent.ie
 saa.metrolyrics.com
+saa.paramountplus.com
 saa.popculture.com
 saa.qualcomm.cn
 saa.rachaelrayshow.com
 saa.scout.com
 saas-eue-1.com
 saas-euw-1.com
+saa.smilegeneration.com
 saa.sparebank1.no
 saa.sportsline.com
 saa.startrek.com
 saa.tallink.com
+saat.dow.com
 saa.techrepublic.com
 saa.tenallaccess.com.au
 saa.thedoctorstv.com
@@ -5921,6 +5952,7 @@ saa.tv.com
 saa.tvguide.com
 sa.avenuesupply.ca
 saa.wired2fish.com
+saa.wowma.jp
 sa.bbc.co.uk
 sablesmile.com
 sablesong.com
@@ -5929,6 +5961,44 @@ s.acexedge.com
 sac.japannetbank.co.jp
 s.acquire.io
 sa.crunchyroll.com
+sadbmetrics.10knocturnagijon.es
+sadbmetrics.15kvalencia.es
+sadbmetrics.bbkayak.eus
+sadbmetrics.beinternationalcongress.com
+sadbmetrics.bicibizi.com
+sadbmetrics.blogasturias.com
+sadbmetrics.canal10tv.com
+sadbmetrics.carreraempresas.com
+sadbmetrics.citaemprende.eus
+sadbmetrics.degustacastillayleon.es
+sadbmetrics.donostimasterscup.com
+sadbmetrics.ecomov.es
+sadbmetrics.elcorreoclasificados.com
+sadbmetrics.elnervion.com
+sadbmetrics.e-movilidad.com
+sadbmetrics.guerrerosterracota.com
+sadbmetrics.iberianporkparade.com
+sadbmetrics.imaginextrioja.com
+sadbmetrics.innevento.com
+sadbmetrics.lagijongijon.es
+sadbmetrics.lasaventurasdelraitan.es
+sadbmetrics.mas60activo.com
+sadbmetrics.rendibu.com
+sadbmetrics.saloncomicdonostia.com
+sadbmetrics.salon-sie.com
+sadbmetrics.surinenglish.com
+sadbmetrics.tvr.es
+sadbmetrics.vehiculosdeocasion.eus
+sadbmetrics.vehiculosocasionlarioja.com
+sadbmetrics.vidasolidaria.com
+sadbmetrics.vinosdegranada.com
+sadbmetrics.vocentoeventos.com
+sadb.superrtl.de
+sadb.superrtl-licensing.de
+sadb.toggo.de
+sadb.toggoeltern.de
+sadb.toggolino.de
+sa.discovery.com
 sa.diynetwork.com
 s.admathhd.com
 sadmin.brightcove.com
@@ -5963,6 +6033,7 @@ sadobe.sodimac.cl
 sadobe.sodimac.com.ar
 sadobe.sodimac.com.pe
 s-adobe.wacoal.jp
+sa.eurosport.com
 safe-browsing-quorum.ghostery.com
 safecount.net
 sa.foodnetwork.com
@@ -5991,6 +6062,8 @@ sanl.eastbay.com
 sanl.footaction.com
 sanl.footlocker.ca
 sanl.footlocker.com
+sanl.footlocker.eu
+sanl.footlocker.lu
 sanl.footlocker.no
 sanl.ladyfootlocker.com
 sanl.six02.com
@@ -6125,6 +6198,7 @@ sdatag.polo.com
 sdata.lifesize.com
 sdc2.credit-suisse.com
 sdc.allianz.de
+sdc.aware.com.au
 sdc.bawag.com
 sdc.firststatesuper.com.au
 sdcs.felissimo.co.jp
@@ -6135,6 +6209,7 @@ sdk.loyaltylion.net
 sdk.n-analytics.io
 sdk.qikify.com
 sdk.split.io
+sdome.underarmour.co.jp
 s.dpmsrv.com
 sdtagging.azureedge.net
 sd-tagging.azurefd.net
@@ -6145,6 +6220,7 @@ searchretargeting.guru
 searchunify.com
 seatac15.com
 seatsmoke.com
+sec-analytics.panasonic.co.uk
 secmetrics.bankcoop.ch
 secmetrics.bkb.ch
 secmetrics.friendscout24.be
@@ -6238,8 +6314,11 @@ securedata.bioplanet.be
 securedata.collectandgo.be
 securedata.collishop.be
 securedata.colruyt.be
+securedata.dats24.be
 securedata.dreambaby.be
 securedata.dreamland.be
+securedata.mijnspar.be
+securedata.monspar.be
 securedata.okay.be
 securedata.solucious.be
 securedata.unsw.edu.au
@@ -6392,6 +6471,7 @@ secure.sugh8yami.com
 secure.svr007phz.com
 secure.swat8toot.com
 securetags.aeroterra.com
+securetags.esri.ca
 securetags.esri.ch
 securetags.esri.cl
 securetags.esri.com
@@ -6658,6 +6738,7 @@ smartscreen-prod.microsoft.com
 smartzonessva.com
 smashshoe.com
 smashsurprise.com
+smatning.volkswagen.se
 smatrix.hbo.com
 smbeat.jp
 sm.dell.com
@@ -6669,16 +6750,19 @@ smeasurement.nissan.ca
 s.media-imdb.com
 sm.edweek.org
 smetc.banfield.com
+smetric.lo.movement.com
 smetrics1.experian.com
 smetrics2.williamhill.com
 smetrics.abbott
 smetricsadobe.hollandandbarrett.com
 smetricsadobe.hollandandbarrett.ie
 smetricsadobe.hollandandbarrett.nl
+smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
 smetrics-cns.panasonic.com
 smetrics.dandh.com
 smetrics.fcacert.com
+smetrics.foxnews.com
 smetrics.frontier.com
 smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
@@ -6737,6 +6821,7 @@ snap.events.mapbox.com
 snapppt.com
 sneakystew.com
 s.ngenix.net
+s.niagarafallsreview.ca
 snippets.r7.com
 snoobi.eu
 snoresmile.com
@@ -6783,6 +6868,7 @@ somn.birthdayinabox.com
 somn.costumediscounters.com
 somni.accenture.com
 somni.alaskaair.com
+somni.americanwesthomes.com
 somni.amsurg.com
 somni.aprimo.com
 somni.ashleyfurniturehomestore.com
@@ -6794,11 +6880,14 @@ somni.avg.com
 somni.bcg.com
 somni.bd.pcm.com
 somni.bgsaxo.it
+somni.binck.nl
 somni.bluecrossma.com
 somni.bostonpizza.com
 somni.campaigns.home.saxo
 somni.cancercenter.com
 somni.cancertherapyadvisor.com
+somni.carecredit.com
+somni.carecreditprovidercenter.com
 somni.choicehotels.com
 somni.cineplex.com
 somni.cineplexdigitalmedia.com
@@ -6851,6 +6940,7 @@ somni.feeln.com
 somni.firsttechfed.com
 somni.genworth.com
 somni.genworthdirect.com
+somni.getcreditone.com
 somni.giljimenez.com
 somni.hallmarkecards.com
 somni.hardrockhotels.com
@@ -6860,9 +6950,11 @@ somni.home.saxo
 somni.hsus.org
 somni.huk24.de
 somni.huk.de
+somni.icicihfc.com
 somni.infectiousdiseaseadvisor.com
 somni.innforks.com
 somni.istockphoto.com
+somni.jwhomes.com
 somni.lightstream.com
 somni.macmall.com
 somni.m.choicerewards.ca
@@ -6871,6 +6963,7 @@ somni.mcknightsseniorliving.com
 somni.merehotel.com
 somni.mmm-online.com
 somni.mycme.com
+somni.mysynchrony.com
 somni.neighbourly.co.nz
 somni.neurologyadvisor.com
 somni.nine.com.au
@@ -6883,16 +6976,19 @@ somni.playdium.com
 somni.psychiatryadvisor.com
 somni.pulmonologyadvisor.com
 somni.q9stag.rmcnetwork.ca
+somni.qlmortgageservices.com
 somni.quickenloans.com
 somni.reconditionedtools.com
 somni.rei.com
 somni.renalandurologynews.com
 somni.rheumatologyadvisor.com
 somni.rocketaccount.com
+somni.rocketcompanies.com
 somni.rockethomes.com
 somni.rockethq.com
 somni.rocketmortgage.com
 somni.rocketprofessional.com
+somni.rocketprotpo.com
 somni.sbicard.com
 somni.sbimobility.com
 somni.scmagazine.com
@@ -6908,9 +7004,14 @@ somnistats.jetblue.com
 somni.sundancecatalog.com
 somni.suntrust.com
 somni.superonline.net
+somni.syf.com
+somni.synchronybank.com
+somni.synchronybusiness.com
+somni.synchrony.com
 somni.tatacard.com
 somnit.blinkfitness.com
 somnit.equinox.com
+somni.thatsmymortgage.com
 somni.thecardiologyadvisor.com
 somni.thedarcyhotel.com
 somni.theloganhotel.com
@@ -7065,6 +7166,7 @@ src.ebay-us.com
 sreport.mitsubishicars.com
 srmdata.com
 s.rosettastone.co.kr
+s.rosettastone.com
 s.rosettastone.co.uk
 s.rosettastone.de
 s.rosettastone.eu
@@ -7092,8 +7194,30 @@ ssa.cookingchanneltv.com
 ssa.discovery.com
 ssa.discoveryfamilychannel.com
 ssa.discoverynews.com
+ssa.discoveryplus.in
 ssa.discoveryrise.org
 ssa.diynetwork.com
+ssa.dplay.fi
+ssa.eurosport.bg
+ssa.eurosport.com
+ssa.eurosport.co.uk
+ssa.eurosport.cz
+ssa.eurosport.de
+ssa.eurosport.dk
+ssa.eurosport.es
+ssa.eurosport.fi
+ssa.eurosport.fr
+ssa.eurosport.hu
+ssa.eurosport.it
+ssa.eurosport.nl
+ssa.eurosport.no
+ssa.eurosport.pl
+ssa.eurosportplayer.com
+ssa.eurosport.pt
+ssa.eurosport.ro
+ssa.eurosport.rs
+ssa.eurosport.ru
+ssa.eurosport.se
 ssa.food.com
 ssa.foodnetwork.com
 ssa.geniuskitchen.com
@@ -7135,6 +7259,7 @@ ssc.nicktv.it
 ssc.paramountnetwork.com
 ssc.sonystyle.com.cn
 ssc.southpark.de
+ssc.southparkstudios.com
 ssc.southparkstudios.co.uk
 ssc.southparkstudios.nu
 ssc.spike.com
@@ -7147,6 +7272,7 @@ ssc.vmware.com
 ssdc.bawag.com
 ssdc.easybank.at
 ssdc.pskbank.at
+ssec.hokaoneone.com
 ssec.koolaburra.com
 ssec.uggaustralia.co.uk
 s-sitecatalyst.work.shiseido.co.jp
@@ -7197,6 +7323,7 @@ ssl.o.mdedge.com
 ssl.o.medhelp.org
 ssl.o.medicinenet.com
 ssl.o.medscape.com
+ssl.o.medscapelive.com
 ssl.o.medscape.org
 sslomni.canadiantire.ca
 ssl-omtrdc.dmp-support.jp
@@ -7236,6 +7363,7 @@ sslstats.worldagentdirect.com
 ssmr2.so-net.ne.jp
 ssmr.nuro.jp
 ssmr.so-net.ne.jp
+ssmr.sonynetwork.co.jp
 ss.musthird.com
 ss-omtrdc.net
 ssor.platform.californiatimes.com
@@ -7255,6 +7383,7 @@ sstat.outrigger.com
 sstats2.details.com
 sstats2.gq.com
 sstatsbp.nikkei.com
+s.stcatharinesstandard.ca
 ssuperstats.observepoint.com
 s.swiftypecdn.com
 sswmetrics.aerolineas.com.ar
@@ -7349,6 +7478,7 @@ stats-api.aaaecommerce.com
 statsapi.screen9.com
 stats.avast.com
 stats.avcdn.net
+stats.avgbrowser.com
 statscloud.lotlinx.com
 statscollector.digital.vistaprint.com
 stats.com
@@ -7385,6 +7515,7 @@ stats.paypal.com
 statsperform.com
 stats-prod.svc.gearsofwar.net
 stats-proto.pandora.com
+stats.qalabs.symantec.com
 stats.ryzeo.com
 statss.ia.ca
 statss.inalco.com
@@ -7407,6 +7538,7 @@ stat-ssl.kinarino.jp
 stat-ssl.kinarino-mall.jp
 stat-ssl.kyujinbox.com
 stat-ssl.money-viva.jp
+stat-ssl.osorezone.com
 stat-ssl.photohito.com
 stat-ssl.priceprice.com
 stat-ssl.prmrsv.com
@@ -7430,6 +7562,7 @@ stats-tracker.net
 stat.su
 stats.unity3d.com
 stats-v2-prod-or-lbj.inbake.com
+stats.vpscash.nl
 stats.windscribe.com
 stats.wp.com
 statsy.net
@@ -7452,7 +7585,10 @@ stereoproxy.com
 stereos2s.crutchfield.ca
 stereos2s.crutchfield.com
 stetic.com
+s.thepeterboroughexaminer.com
+s.therecord.com
 s.therosettastone.es
+s.thespec.com
 s.thestar.com
 sticketsmetrics.masters.com
 stickssheep.com
@@ -7466,6 +7602,7 @@ st.mazdausa.com
 stmg-prod.mirror.co.uk
 stms.53.com
 st.newyorklife.com
+st.next-bahn.de
 st-nlyss1.plala.or.jp
 st.nylinvestments.com
 stockingsneeze.com
@@ -7480,6 +7617,7 @@ stormyachiever.com
 stoveseashore.com
 s.toyotafinancial.com
 strace.co
+strack.aetnafeds.com
 strack.asiastore.fcbayern.com
 strack.bestbuy.ca
 strack.boutique.letour.fr
@@ -7540,6 +7678,7 @@ stripedburst.com
 strivesidewalk.com
 structurerod.com
 sts.amazonaws.com
+st.s-bahn-muenchen-magazin.de
 sts.blr.com
 stt.bupa.com.au
 stt.dell.com
@@ -7554,6 +7693,7 @@ stupendoussnow.com
 stupidsnake.com
 st.upmc.com
 s.tvn.pl
+st.wir-entdecken-bayern.de
 sublytics.com
 submit5.avast.com
 submit.sb.avast.com
@@ -7757,6 +7897,8 @@ swebanalytics.pgatour.com
 swebanalytics.proff.dk
 swebanalytics.proff.no
 swebanalytics.proff.se
+swebmetrics.ok.gov
+swebmetrics.oklahoma.gov
 swebmetrics.zebra.com
 swebreports.nature.org
 swebstats.abajournal.com
@@ -7768,6 +7910,7 @@ sweb.ulta.com
 sweepsheep.com
 sweetanalytics.com
 sweetslope.com
+s.wellandtribune.ca
 swellstocking.com
 swiftype.com
 swimslope.com
@@ -7790,8 +7933,10 @@ system.etrack1.com
 systemizecoat.com
 s.zmctrack.net
 t0.gstatic.com
+t.10er-tagesticket.de
 t1.daumcdn.net
 t1.gstatic.com
+t.20-fahrten-bahn.de
 t2.gstatic.com
 t2.hulu.com
 t2.huluim.com
@@ -8109,6 +8254,7 @@ tracker-aa.paf.es
 trackerads.com
 tracker-api.my.com
 trackerapi.truste.com
+tracker.bang.com
 tracker.cab
 tracker.com
 tracker.co.uk
@@ -8941,6 +9087,8 @@ www91.intel.ru
 www-analytics.ripe.net
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
+www-sadobe.384.co.jp
+www-sadobe.anabuki-community.com
 www-smt.daiichisankyo-hc.co.jp
 www-t.apartments.com
 wysistat.com
