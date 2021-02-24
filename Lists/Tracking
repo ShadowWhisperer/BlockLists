@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,190
-# Updated: 2/23/2021  00:11 (12:11 AM CST)
+# Domains: 9,218
+# Updated: 2/23/2021  23:01 (11:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -591,6 +591,7 @@ api.analytics.nexonm.com
 api.analytics.omgpop.com
 api-analytics-sg.huami.com
 api-analytics-us.huami.com
+api.apple-mapkit.com
 api.appodealx.com
 api.bluecore.com
 api.cetrk.com
@@ -1326,6 +1327,7 @@ cheetahmail.com
 chemicalcoach.com
 chemicalsnake.com
 cheq.ai
+cheqzone.b-cdn.net
 cheqzone.com
 cherami-cloud.com
 chesscherry.com
@@ -1700,6 +1702,7 @@ contentanalyticsinc.com
 content.api.nytimes.com
 contentinsights.com
 contentlockingnetworks.com
+contents.com
 contentsquare.com
 contentsquare.net
 context.bestbuy.com
@@ -1755,6 +1758,7 @@ count.rin.ru
 count.rtl.de
 count.rudo.video
 country.yepshare.com
+counts.air.tv
 count.shein.com
 count.taobao.com
 count-us.rudo.video
@@ -2414,6 +2418,7 @@ energeticexample.com
 energeticladybug.com
 engagementapi.skype.com
 engagement.avgbrowser.com
+engagement-collector.mobify.net
 engagemetrics.cisco.com
 engagesciences.com
 enormousearth.com
@@ -2422,6 +2427,7 @@ ensighten.com
 ensighten.huntingtonbank.com
 entertainingeyes.com
 enthusiasticdad.com
+entiredigital.com
 entrinsik.com
 enviousshape.com
 enviousthread.com
@@ -2477,6 +2483,7 @@ event.havasedge.com
 event-listener.air.tv
 eventlogger.soundcloud.com
 events1.avantisvideo.com
+events.air.tv
 events.apester.com
 events.api.godaddy.com
 events.api.secureserver.net
@@ -2712,6 +2719,7 @@ frailoffer.com
 franecki.net
 franticcarpenter.com
 fraudjs.io
+fraudlogix.com
 freebloghitcounter.com
 freecounterandstats.com
 free-counter.co.uk
@@ -2921,6 +2929,7 @@ gnome.digg.com
 godatadriven.com
 godlygeese.com
 godog.shopifycloud.com
+gogpstracking.com
 gohillgo.com
 go.lexipol.com
 go.lynxbroker.de
@@ -3130,6 +3139,8 @@ hotrk0.com
 houston-analytics.com
 hqstats.com
 hrb1tng0.com
+hri-solutions.de
+hrm-datasolutions.de
 hrzn-nxt.com
 hs-analytics.net
 hsleadflows.net
@@ -3520,6 +3531,8 @@ kinesis.us-gov-west-1.amazonaws.com
 kinesis.us-west-1.amazonaws.com
 kinesis.us-west-2.amazonaws.com
 kinoseans.pl
+kintura.com
+kintura.io
 kissmetrics.com
 kitcode.net
 kitesquirrel.com
@@ -5213,6 +5226,7 @@ parsely.com
 parsimoniouspolice.com
 parsintl.com
 participants.evolv.ai
+partnerize.com
 partplanes.com
 passengerpage.com
 pastepot.com
@@ -5430,6 +5444,7 @@ pre.taptapnetworks.com
 previousplayground.com
 previouspotato.com
 prfct.co
+prf.hn
 pricespider.com
 pricklyplastic.com
 printerplasma.com
@@ -5539,6 +5554,8 @@ pyramidanalytics.com
 pyze.com
 q4cdn.com
 qchannel03.cn
+qliker.io
+qlitrk.com
 qlook.net
 qos1.ol.epicgames.com
 qos2.ol.epicgames.com
@@ -5639,6 +5656,7 @@ reconditerespect.com
 recorder.marketingcloudfx.com
 recovermycart.com
 rec.quartic.pl
+recruiting-analytics.de
 recv-wd.gridsumdissector.com
 redintelligence.net
 redirect.fxcm.com
@@ -6614,6 +6632,7 @@ shopify.kount.net
 shopify.kount.net.cdn.cloudflare.net
 shopify.privy.com
 shopimind.com
+shopper.shop.pe
 shoppertrak.com
 shops.lids.ca
 showip.net
@@ -8060,6 +8079,7 @@ telemetry-02.adwc.mb.fr33tux.org
 telemetry-03.adwc.mb.fr33tux.org
 telemetry_ads.msn.com
 telemetry_az361816.vo.msecnd.net
+telemetry.dailymotion.com
 telemetry-data.r53-2.services.mozilla.com
 telemetry-dce.gfe.nvidia.com
 telemetry.dropbox.com
@@ -8142,6 +8162,7 @@ tigger-citadel.touchtype-fluency.com
 tile.commercialtrucktrader.com
 tile.equipmenttrader.com
 tile.rvtrader.com
+time-ae.akamaized.net
 timeone.io
 timeterritory.com
 timetwig.com
@@ -8201,6 +8222,7 @@ t.paypal.com
 t.pluto.tv
 t.powerreviews.com
 tpx.everquote.com
+tqtracking.com
 tr1.admeira.ch
 tr1.kaspersky.co.uk
 tr1.kaspersky.es
@@ -8287,6 +8309,7 @@ tracking.epicgames.com
 tracking.goodgamestudios.com
 tracking.markethero.io
 tracking.my
+tracking.newshub.co.uk
 trackingpin.com
 tracking-secure.csob.cz
 tracking-server-prod-1.zenmxapps.com
@@ -8307,6 +8330,7 @@ tracking-staging.stylitics.com
 tracking.to
 tracking-user-script.s3-ap-northeast-1.amazonaws.com
 tracking-website-prod07-ue-i-1850264459.us-east-1.elb.amazonaws.com
+tracking.wpnetwork.eu
 track.intertops.eu
 trackip.net
 trackjs.com
@@ -8526,6 +8550,7 @@ ubembed.com
 ubermedia.com
 ubiquitousyard.com
 ubm-us.net
+u.cdnwidget.com
 ucmetrics.hypovereinsbank.de
 ucmetrics.unicredit.it
 ucounter.ucoz.net
@@ -8866,6 +8891,7 @@ web.diamond.co.uk
 web.elephant.co.uk
 web-frontend-dot-sc-analytics.appspot.com
 webgains.com
+webgains.io
 webglstats.com
 web.hammacher.com
 webhostingcounter.com
@@ -8995,6 +9021,7 @@ workoperation.com
 worldgravity.com
 worriednumber.com
 wowanalytics.co.uk
+wp.aliexpress.com
 wrapstretch.com
 wrating.com
 wreckvolcano.com
@@ -9135,6 +9162,7 @@ xstats.evoload.io
 xtrastats.com
 xxxcounter.com
 xxxstats.pro
+yabidos.com
 ya-counter.ru
 yahoo.trib.al
 yahoovod.hs.llnwd.net

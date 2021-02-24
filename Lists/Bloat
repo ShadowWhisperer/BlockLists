@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 716
-# Updated: 2/17/2021  19:29 (7:29 PM CST)
+# Domains: 723
+# Updated: 2/23/2021  23:01 (11:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -66,6 +66,7 @@ pro.fontawesome.com                                     #Font       Font Awesome
 use.fontawesome.com                                     #Font       Font Awesome
 fontcdn.ir                                              #Font    Font Server
 fontserver.ir                                           #Font    Font Server
+fontstorage.com                                         #Font       FontStorage
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
@@ -80,6 +81,7 @@ webfont.fontplus.jp                                     #Font      Font Plus
 realtype.jp                                             #Font  RealType
 font.realtype.jp                                        #Font  RealType
 fonts.shopifycdn.com                                    #Font  Shopify
+webfonts.ru                                             #Font        WebFonts.ru
 cloud.webtype.com                                       #Font      WebType
 pls.webtype.com                                         #Font      WebType
 webtype.com                                             #Font      WebType
@@ -87,6 +89,7 @@ comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 d25purrcgqtc5w.cloudfront.net                           #Font  Specific
 drh-fonts.img.digitalrivercontent.net                   #Font  Specific
 fonts.65twenty.com                                      #Font  Specific
+fonts.channel4.com                                      #Font  Specific
 fonts.dzone.com                                         #Font  Specific
 fonts.ea.com.c.footprint.net                            #Font  Specific
 fonts.ea.com                                            #Font  Specific
@@ -302,6 +305,7 @@ ext-update.avgbrowser.com                               #Antivirus     AVG  Brow
 installer.avgbrowser.com                                #Antivirus     AVG  Browser
 onboarding.avgbrowser.com                               #Antivirus     AVG  Browser
 update.avgbrowser.com                                   #Antivirus     AVG  Browser
+update2.avgbrowser.com                                  #Antivirus     AVG  Browser
 isearch.avg.com                                         #Antivirus     AVG  Browser Search Engine
 update-tuneup.avg.com                                   #Antivirus     AVG    TuneUp
 tu.update.avg.com                                       #Antivirus     AVG    TuneUp
@@ -645,6 +649,8 @@ gtq-lenses.sct.sc-prod.net                              #Android  [App]   SnapCh
 topic-sticker-vending.snapchat.com                      #Android  [App]   SnapChat - Stickers
 
 tfg-customer.s3.amazonaws.com                           #Android  [Game]  Bike Race  (FAQs ?)
+bricksball.com                                          #Android  [Game]  Brickball
+iposeidonbussiness.com                                  #Android  [Game]  Brickball
 classicwords.net                                        #Android  [Game]  Classic Words
 coverfire.s3.dualstack.us-east-1.amazonaws.com          #Android  [Game]  Coverfire
 cdn.deadtarget.info                                     #Android  [Game]  Dead Target
@@ -679,6 +685,7 @@ com.djinnworks.lr.s3.amazonaws.com                      #Android  [App Studio]  
 com.djinnworks.newsfeed.s3.amazonaws.com                #Android  [App Studio]    DjinnWorks
 ezjoygame.com                                           #Android  [App Studio]    Ezjoy Network
 fdg-entertainment.com                                   #Android  [App Studio]    FDG Entertainment
+fingersoft.net                                          #Android  [App Studio]    Fingersoft
 four33.com                                              #Android  [App Studio]    FourThirtyThree
 funlabmobile.com                                        #Android  [App Studio]    FunLab
 as23r23ljf.gameloft.com                                 #Android  [App Studio]    Gameloft
