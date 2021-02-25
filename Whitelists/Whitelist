@@ -113,6 +113,7 @@ eus.client.hip.live.com                          # Microsoft - Create Email Acco
 scu.client.hip.live.com                          # Microsoft - Create Email Account (Captcha)
 ncu.client.hip.live.com                          # Microsoft - Create Email Account (Captcha)
 assets.onestore.ms                               # Microsoft - Downloads Page
+edge.microsoft.com                               # Microsoft - Edge - Download Extensions
 dsm-efz.ms-acdc.office.com                       # Microsoft - Email - Imap
 login.live.com                                   # Microsoft - Email - Login
 login.microsoftonline.com                        # Microsoft - Email - Login
@@ -167,18 +168,6 @@ scontent.xx.fbcdn.net                      # Social Media - Facebook (Comments: 
 api.facebook.com                           # Social Media - Facebook
 connect.facebook.net                       # Social Media - Facebook
 facebook.com                               # Social Media - Facebook
-scontent-ort1-1.xx.fbcdn.net               # Social Media - Facebook
-scontent-ort1-2.xx.fbcdn.net               # Social Media - Facebook
-scontent-ort1-3.xx.fbcdn.net               # Social Media - Facebook
-scontent-ort-1.xx.fbcdn.net                # Social Media - Facebook
-scontent-ort2-1.xx.fbcdn.net               # Social Media - Facebook
-scontent-ort2-2.xx.fbcdn.net               # Social Media - Facebook
-scontent-ort2-3.xx.fbcdn.net               # Social Media - Facebook
-scontent-ort-2.xx.fbcdn.net                # Social Media - Facebook
-scontent-ort-3.xx.fbcdn.net                # Social Media - Facebook
-video-ort1-1.xx.fbcdn.net                  # Social Media - Facebook
-video-ort2-2.xx.fbcdn.net                  # Social Media - Facebook
-video-ort2-3.xx.fbcdn.net                  # Social Media - Facebook
 api.pinterest.com                          # Social Media - Pinterest
 mtalk.google.com                           # Social Media - SnapChat (Breaks Notifications)
 alt1-mtalk.google.com                      # Social Media - SnapChat (Breaks Notifications)
