@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,218
-# Updated: 2/23/2021  23:01 (11:01 PM CST)
+# Domains: 9,220
+# Updated: 2/25/2021  00:43 (12:43 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -5536,6 +5536,7 @@ pvtag.yahoo.co.jp
 pwa.grgs.ro
 pw-analytics.phunware.com
 pwieu.com
+pwk.datawrapper.de
 pwk.pandora.tv
 px-cdn.net
 pxchk.net
@@ -7501,6 +7502,7 @@ stats.avgbrowser.com
 statscloud.lotlinx.com
 statscollector.digital.vistaprint.com
 stats.com
+stats.datawrapper.de
 statse-omtrdc.deka.de
 statse.webtrendslive.com
 statsfe1-df.ws.microsoft.com

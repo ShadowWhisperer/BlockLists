@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 127
-# Updated: 2/18/2021  21:31 (9:31 PM CST)
+# Domains: 128
+# Updated: 2/25/2021  00:43 (12:43 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -84,6 +84,7 @@ glitch.me                                     #Code Hosting - Hosts malware / sc
 repl.co                                       #Code Hosting - Hosts malware / scam sites
 repl.it                                       #Code Hosting - Hosts malware / scam sites
 stackblitz.io                                 #Code Hosting - Hosts malware / scam sites
+workers.dev                                   #Code Hosting (Cloudflare Workers)
 
 appdomain.cloud                               #Cloud Storage (IBM) - Known to have malware
 top4top.io                                    #Cloud Storage - Known to have malware
