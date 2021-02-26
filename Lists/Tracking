@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,229
-# Updated: 2/25/2021  22:36 (10:36 PM CST)
+# Domains: 9,294
+# Updated: 2/26/2021  16:48 (4:48 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -552,6 +552,7 @@ anmet.originenergy.com.au
 an.milb.com
 an.mlb.com
 annalect.com
+annoyedairport.com
 annoyedfifth.com
 annoyingacoustics.com
 a.nokiausa.com
@@ -654,6 +655,7 @@ appanalysis.banggood.com
 appanalytics.embarcadero.com
 app-analytics.huami.com
 app-analytics-in.huami.com
+app-analytics-ru.huami.com
 app-analytics.snapchat.com
 app-analytics-us.huami.com
 app-analytics-v2.snapchat.com
@@ -944,6 +946,7 @@ beemray.com
 beer2s.millerbrewing.com
 belladati.com
 bellmetric.net
+belstat.com
 belstat.nl
 beneficialbeef.com
 benidoranon.com
@@ -994,6 +997,7 @@ blis.com
 blismedia.com
 blitzen.com
 blocwhite7.com
+blogcounter.de
 bloomreach.com
 blotburn.com
 bluecava.com
@@ -1690,6 +1694,7 @@ config.uca.cloud.unity3d.com
 connct-9.com
 connectfpc.zebra.com
 connect.nabthat.com
+connexica.com
 connexity.net
 consciouschairs.com
 consciouscheese.com
@@ -2849,10 +2854,12 @@ geo.iplocation.com
 geoiplookup.io
 geoip-lookup.vice.com
 geoiplookup.wikia.com
+geoip.redirect-ads.com
 geoip-rest.ably.io
 geoiptool.com
 geoip.tools
 geojs.io
+geolocation.1trust.app
 geolocation.co.jp
 geolocation-db.com
 geolocation.onetrust.com
@@ -3259,11 +3266,14 @@ in.appcenter.ms
 incentivesnetwork.net
 incisivemedia.com
 incoming-data-sense360.s3.amazonaws.com
+incoming.telemetry.mozilla.org
 incoming-telemetry.thunderbird.net
+indexstats.com
 indicative.com
 indirizzo-ip.com
 indpcr1.com
 inet-ip.info
+inetlog.ru
 infamousstream.com
 infinario.com
 infiniteanalytics.com
@@ -3808,6 +3818,7 @@ mailperformance.com
 mailtrack.io
 makeshiftmine.com
 maling.dn.no
+manage.devcenter.microsoft.com
 maniacalappliance.com
 map.geoup.com
 mapixl.com
@@ -3820,6 +3831,7 @@ markedmeasure.com
 markedpail.com
 marketing.dropbox.com
 marketinghub.zoho.com
+marketing.net.brillen.de
 marketingplatform.api.intuit.com
 marketing-tracker.babbel.com
 marketscore.com
@@ -4023,6 +4035,7 @@ me.apple-dns.net
 measuread.com
 measure.analysis.fi
 measure.jstor.org
+measuremap.com
 measurementapi.com
 measurementlab.net
 measure.mf.cz
@@ -5564,6 +5577,7 @@ qchannel03.cn
 qliker.io
 qlitrk.com
 qlook.net
+qnsr.com
 qos1.ol.epicgames.com
 qos2.ol.epicgames.com
 qos3.ol.epicgames.com
@@ -5590,6 +5604,7 @@ quickanalytics.ca
 quick-counter.net
 quicksandear.com
 quietknowledge.com
+quinstreet.com
 quisma.com
 quizzicalzephyr.com
 quotespeed.morningstar.com
@@ -5613,6 +5628,7 @@ rambunctiousvoyage.com
 random-logic.com
 rangecake.com
 ranking-hits.de
+ranking-links.de
 rapidcounter.com
 rapidkittens.com
 raresummer.com
@@ -5693,6 +5709,7 @@ regularplants.com
 reinvigorate.net
 rejectfairies.com
 relay42.com
+relmaxtop.com
 rel.webcollage.net
 remarketingextra.com
 remarketingpixel.com
@@ -5844,6 +5861,7 @@ robustbelieve.com
 rocketadserver.com
 rocketanalytics.com
 rodeopolice.com
+roia.biz
 roistat.com
 roku-beacons.xumo.com
 rollbar.com
@@ -6850,7 +6868,9 @@ sneakystew.com
 s.ngenix.net
 s.niagarafallsreview.ca
 snippets.r7.com
+snoobi.com
 snoobi.eu
+snoobi-technology.com
 snoresmile.com
 snowplowanalytics.com
 snowplow.canary.is
@@ -7149,6 +7169,7 @@ splkmobile.com
 splunkcloud.com
 splunk.com
 sp.minds.com
+sp.montgomeryadvertiser.com
 spongecell.com
 spongesalt.com
 spookysleet.com
@@ -7160,13 +7181,46 @@ spotstring.com
 spottednoise.com
 spottedsnow.com
 s.powerfulcleaner.com
+sp.pal-item.com
 sp.pluto.tv
+sp.pnj.com
+sp.portclintonnewsherald.com
+sp.postcrescent.com
+sp.poughkeepsiejournal.com
+sp.press-citizen.com
+sp.pressconnects.com
+sp.publicopiniononline.com
+sp.redding.com
 spredfast.com
+sp.reporternews.com
+sp.rgj.com
 springaftermath.com
 spring-tns.net
 sprinkletxt.com
 sprinklr.com
 spscas.hitachi-solutions.co.jp
+sp.sctimes.com
+sp.sheboyganpress.com
+sp.shreveporttimes.com
+sp.stargazette.com
+sp.statesmanjournal.com
+sp.stevenspointjournal.com
+sp.tallahassee.com
+sp.tcpalm.com
+sp.tennessean.com
+sp.theadvertiser.com
+sp.thecalifornian.com
+sp.thedailyjournal.com
+sp.thegleaner.com
+sp.theleafchronicle.com
+sp.thenews-messenger.com
+sp.thenewsstar.com
+sp.thenorthwestern.com
+sp.thespectrum.com
+sp.thestarpress.com
+sp.thetimesherald.com
+sp.thetowntalk.com
+sp.timesrecordnews.com
 sp-trk.com
 s.publicoid.com
 s.publico.pt
@@ -7176,11 +7230,18 @@ spurioussteam.com
 spuriousstranger.com
 spuriousweather.com
 sp.usatoday.com
+sp.vcstar.com
+sp.visaliatimesdelta.com
+sp.wausaudailyherald.com
+sp.wisconsinrapidstribune.com
 sp-wukong-tracker.b-cdn.net
 spxl.socy.es
+sp.ydr.com
 spylog.com
+sp.yorkdispatch.com
 spysubstance.com
 sp.zalo.me
+sp.zanesvilletimesrecorder.com
 sqm.telemetry.microsoft.com.nsatc.net
 squashfriction.com
 squeakzinc.com
@@ -7410,6 +7471,7 @@ sstat.outrigger.com
 sstats2.details.com
 sstats2.gq.com
 sstatsbp.nikkei.com
+sstats.oui.sncf
 s.stcatharinesstandard.ca
 ssuperstats.observepoint.com
 s.swiftypecdn.com
@@ -8640,6 +8702,7 @@ usage-eu-fy2017.myhomescreen.tv
 usage-eu-fy2018.myhomescreen.tv
 usage-eu-fy2019.myhomescreen.tv
 usage-eu-fy2020.myhomescreen.tv
+usage.influxdata.com
 usage-reporter.duplicati.com
 usagetracking.hubapi.com
 usage-us-fy2015.myhomescreen.tv
@@ -8783,6 +8846,7 @@ vortex.data.microsoft.com
 vortex.hulu.com
 vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
+v.oui.sncf
 vpadn.com
 vpnur.com
 vpon.com
@@ -8886,6 +8950,7 @@ webanalytics.crownpeak.com
 webanalyticsday.com
 web-analytics.engagio.com
 webanalytics.engagio.com
+web-analytics.huami.com
 webanalyticsnossl.websense.com
 webanalytics.pgatour.com
 webanalytics.qualcomm.com

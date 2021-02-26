@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 470
-# Updated: 2/25/2021  22:36 (10:36 PM CST)
+# Domains: 431
+# Updated: 2/26/2021  16:48 (4:48 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -244,40 +244,6 @@ substrate.office.com                           # ? Office
 videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
 
-array101-prod.do.dsp.mp.microsoft.com          # ? Updates
-array102-prod.do.dsp.mp.microsoft.com          # ? Updates
-array103-prod.do.dsp.mp.microsoft.com          # ? Updates
-array104-prod.do.dsp.mp.microsoft.com          # ? Updates
-array201-prod.do.dsp.mp.microsoft.com          # ? Updates
-array202-prod.do.dsp.mp.microsoft.com          # ? Updates
-array203-prod.do.dsp.mp.microsoft.com          # ? Updates
-array204-prod.do.dsp.mp.microsoft.com          # ? Updates
-array401-prod.do.dsp.mp.microsoft.com          # ? Updates
-array402-prod.do.dsp.mp.microsoft.com          # ? Updates
-array403-prod.do.dsp.mp.microsoft.com          # ? Updates
-array404-prod.do.dsp.mp.microsoft.com          # ? Updates
-array405-prod.do.dsp.mp.microsoft.com          # ? Updates
-array406-prod.do.dsp.mp.microsoft.com          # ? Updates
-array407-prod.do.dsp.mp.microsoft.com          # ? Updates
-array408-prod.do.dsp.mp.microsoft.com          # ? Updates
-array501.prod.do.dsp.mp.microsoft.com          # ? Updates
-array502.prod.do.dsp.mp.microsoft.com          # ? Updates
-array503.prod.do.dsp.mp.microsoft.com          # ? Updates
-array505.prod.do.dsp.mp.microsoft.com          # ? Updates
-array506.prod.do.dsp.mp.microsoft.com          # ? Updates
-array507.prod.do.dsp.mp.microsoft.com          # ? Updates
-array508.prod.do.dsp.mp.microsoft.com          # ? Updates
-cp101-prod.do.dsp.mp.microsoft.com             # ? Updates
-cp201-prod.do.dsp.mp.microsoft.com             # ? Updates
-cp401-prod.do.dsp.mp.microsoft.com             # ? Updates
-disc101-prod.do.dsp.mp.microsoft.com           # ? Updates
-disc201-prod.do.dsp.mp.microsoft.com           # ? Updates
-disc401-prod.do.dsp.mp.microsoft.com           # ? Updates
-kv101-prod.do.dsp.mp.microsoft.com             # ? Updates
-kv201-prod.do.dsp.mp.microsoft.com             # ? Updates
-kv401-prod.do.dsp.mp.microsoft.com             # ? Updates
-prod.do.dsp.mp.microsoft.com.edgekey.net       # ? Updates
-
 o.xbox.com                                     # ? Tracking (Blank)
 
 amp-test.com                                   # ? On msn.com
@@ -313,7 +279,6 @@ polaris-tagging-prod.azureedge.net             #Azure
 aad.cs.dds.microsoft.com
 adl.windows.com
 a-ring-fallback.msedge.net
-array613.prod.do.dsp.mp.microsoft.com
 assets.msn.com
 attachment.outlook.live.net
 az158878.vo.msecnd.net
@@ -351,8 +316,6 @@ contoso.com
 controls.cp.account.microsoft.com.akadns.net
 corpext.msitadfs.glbdns2.microsoft.com
 corp.sts.microsoft.com
-cp501.prod.do.dsp.mp.microsoft.com
-cp601.prod.do.dsp.mp.microsoft.com
 c-ring.msedge.net
 crl.microsoft.com
 cs1.wpc.v0cdn.net
@@ -361,7 +324,6 @@ cs.dds.microsoft.com
 dgps-eus2.cloudapp.net
 dgps.support.microsoft.com
 directory.services.live.com
-disc601.prod.do.dsp.mp.microsoft.com
 dispatch.kahuna.glbdns2.microsoft.com
 dmd.metaservices.microsoft.com
 ds.microsoft.com
@@ -395,8 +357,6 @@ i.s-microsoft.com
 jcmsfd.account.microsoft.com
 k-0002.k-msedge.net
 k-ring.msedge.net
-kv501.prod.do.dsp.mp.microsoft.com
-kv601.prod.do.dsp.mp.microsoft.com
 l-0001.l-msedge.net
 l-0002.l-msedge.net
 l-0003.l-msedge.net
