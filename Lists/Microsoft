@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 467
-# Updated: 2/25/2021  00:43 (12:43 AM CST)
+# Domains: 470
+# Updated: 2/25/2021  22:36 (10:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -58,6 +58,9 @@ skype-pcs-prod-usea2-fe-b.cloudapp.net         #App   Skype
 trap.skype.com                                 #App   Skype
 sway-cdn.com                                   #App     Sway
 sway.com                                       #App     Sway
+wbd.ms                                         #App   Whiteboard
+whiteboard.microsoft.com                       #App   Whiteboard
+whiteboard.ms                                  #App   Whiteboard
 cmsresources.windowsphone.com                  #App     Windows Phone (From Win 10 Tower)
 config.scm.windowsphone.com                    #App     Windows Phone (From Win 10 Tower)
 ess.windowsphone.net                           #App     Windows Phone (From Win 10 Tower)

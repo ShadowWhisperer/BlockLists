@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,220
-# Updated: 2/25/2021  00:43 (12:43 AM CST)
+# Domains: 9,229
+# Updated: 2/25/2021  22:36 (10:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -523,6 +523,7 @@ analytics.ovh.com
 analytics.pe
 analyticspixel.microsoft.com
 analytics.report
+analytics.revengebucks.com
 analytics.slashdotmedia.com
 analyticsssl.forcepoint.com
 analytics-static.ugc.bazaarvoice.com
@@ -625,6 +626,7 @@ api.pxl.dailymotion.com
 api.reelgood.com
 api-rest.analytics.nexonm.com
 api.ringlead.com
+api.rollbar.com
 api.sail-personalize.com
 api-sensors.shein.com
 api.smartechmetrics.com
@@ -1569,6 +1571,7 @@ cloud-9751.com
 clouderrorreporting.googleapis.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
+cloud.gti.mcafee.com
 cloud-iq.com
 cloud.junctiontv.net
 cloudsdestruction.com
@@ -2983,9 +2986,11 @@ gripcorn.com
 groundtruth.com
 group-ib.ru
 growingio.com
+growsumo.com
 growsurf.com
 growthily.com
 growthy-release-growthywebcollector-80.gcld-line.com
+grsm.io
 gscounters.eu1.gigya.com
 gscounters.us1.gigya.com
 gsi-one.org
@@ -5227,6 +5232,7 @@ parsimoniouspolice.com
 parsintl.com
 participants.evolv.ai
 partnerize.com
+partnerstack.com
 partplanes.com
 passengerpage.com
 pastepot.com
@@ -6782,6 +6788,7 @@ s.metrics.artistsnetwork.com
 smetrics-cns.panasonic.com
 smetrics.dandh.com
 smetrics.fcacert.com
+smetrics.foxbusiness.com
 smetrics.foxnews.com
 smetrics.frontier.com
 smetrics-ieeexplore.ieee.org
@@ -7933,6 +7940,7 @@ sweetanalytics.com
 sweetslope.com
 s.wellandtribune.ca
 swellstocking.com
+swiftypecdn.com
 swiftype.com
 swimslope.com
 swoop.com
@@ -8308,6 +8316,7 @@ trackingapi.trendemon.com
 tracking.bodis.com
 trackingcareers.accenture.com
 tracking.epicgames.com
+tracking.g2crowd.com
 tracking.goodgamestudios.com
 tracking.markethero.io
 tracking.my

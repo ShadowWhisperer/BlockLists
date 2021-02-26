@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 723
-# Updated: 2/23/2021  23:01 (11:01 PM CST)
+# Domains: 726
+# Updated: 2/25/2021  22:36 (10:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -437,12 +437,18 @@ dna.cyberlink.com                                       #Cyberlink
 liveupdate.cyberlink.com                                #Cyberlink
 content.dellsupportcenter.com                           #Dell  Support Center
 dellsupportcenter.com                                   #Dell  Support Center
+platinumai.net                                          #Dell  Digital Delivery / Support Assist ?
+tm-sdk.platinumai.net                                   #Dell  Digital Delivery / Support Assist ?
+wcu-api.platinumai.net                                  #Dell  Digital Delivery / Support Assist ?
 apidp.dell.com                                          #Dell
 cloud.dell.com                                          #Dell
 dellincca.dell.com                                      #Dell
 dellupdater.dell.com                                    #Dell
 df-staging.dell.com                                     #Dell
 update.backup.techconcierge.dell.com                    #Dell
+
+
+
 autosug.ebay.com                                        #eBay
 autosug.ebaystatic.com                                  #eBay
 apps.facebook.com                                       #Facebook

@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 128
-# Updated: 2/25/2021  00:43 (12:43 AM CST)
+# Domains: 130
+# Updated: 2/25/2021  22:36 (10:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -134,9 +134,12 @@ showoff.io                                    #Share Localhost
 
 href.li                                       #URL Shortener (Abused)
 adfoc.us                                      #URL Shortener
+lmy.de                                        #URL Shortener
 shortcm.li                                    #URL Shortener
 short.cm                                      #URL Shortener
+shorte.st                                     #URL Shortener
 short.io                                      #URL Shortener
+
 
 teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
 
