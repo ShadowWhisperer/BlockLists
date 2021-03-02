@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 431
-# Updated: 2/26/2021  16:48 (4:48 PM CST)
+# Domains: 432
+# Updated: 3/2/2021  00:23 (12:23 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -169,6 +169,8 @@ settings-ssl.xboxlive.com                      #Xbox
 title.auth.xboxlive.com                        #Xbox
 x1ds.xboxlive.com                              #Xbox
 xnotify.xboxlive.com                           #Xbox
+
+yammer.com                                     #Yammer
 
 
 ###############################################################################################

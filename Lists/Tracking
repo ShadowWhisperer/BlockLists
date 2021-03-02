@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,294
-# Updated: 2/26/2021  16:48 (4:48 PM CST)
+# Domains: 9,297
+# Updated: 3/2/2021  00:23 (12:23 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -450,6 +450,7 @@ amberdata.io
 ambiguousalarm.com
 ambiguousquilt.com
 ambitiousagreement.com
+amd83trk.com
 amd-athena-rs-install-logs.s3.amazonaws.com
 a.medtronic.com
 amethyst.zappos.com
@@ -1758,6 +1759,7 @@ counters.auctionhelper.com
 counters.auctionwatch.com
 counters.auctiva.com
 counters.honesty.com
+counter.snackly.co
 counters.vendio.com
 countess.twitch.tv
 count.ly
@@ -2552,10 +2554,8 @@ ewstv.abc15.com
 ewstv.abcactionnews.com
 ewstv.kypost.com
 exactag.com
-exacttarget.com
 exceptionless.io
 exclusivebrass.com
-exct.net
 excuseearthquake.com
 exelator.com
 exj.usexjade.com
@@ -4181,6 +4181,7 @@ minerva.healthcentral.com
 minerva.healthcommunities.com
 minerva.thebody.com
 minormeeting.com
+minute.ly
 mioip.biz
 mioip.ch
 mioip.info
@@ -7470,6 +7471,7 @@ sstat.ncl.com
 sstat.outrigger.com
 sstats2.details.com
 sstats2.gq.com
+sstats.adobe.com
 sstatsbp.nikkei.com
 sstats.oui.sncf
 s.stcatharinesstandard.ca
@@ -7498,6 +7500,7 @@ sswmetrics.vietnamairlines.com
 stack-sonar.com
 stack-tracking.corpweb.aws.cudasvc.com
 staging.app-analytics.snapchat.com
+staging-counter.snackly.co
 staging.server-analytics.snapchat.com
 s.tagove.com
 stakingscrew.com
