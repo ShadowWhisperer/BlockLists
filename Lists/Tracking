@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,313
-# Updated: 3/4/2021  00:11 (12:11 AM CST)
+# Domains: 9,337
+# Updated: 3/5/2021  00:34 (12:34 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -528,6 +528,7 @@ analyticspixel.microsoft.com
 analytics.report
 analytics.revengebucks.com
 analytics.slashdotmedia.com
+analytics.srvnw.com
 analyticsssl.forcepoint.com
 analytics-static.ugc.bazaarvoice.com
 analytics.thehardcorenetwork.com
@@ -5365,6 +5366,7 @@ piwik.documentfoundation.org
 piwik.org
 piwik.pro
 piwikpro.com
+piwik.tapatalk.com
 pix2.services.tvn.pl
 pixall.esm1.net
 pixanalytics.com
@@ -8195,6 +8197,28 @@ tendersugar.com
 tendertest.com
 tenilstats.turner.com
 tenor.wargaming.net
+teradata.at
+teradata.ch
+teradata.com
+teradata.com.au
+teradata.com.cn
+teradata.com.es
+teradata.com.sa
+teradata.com.tr
+teradata.co.uk
+teradata.de
+teradata.dk
+teradata.fr
+teradata.hu
+teradata.in
+teradata.jp
+teradata.mx
+teradata.nl
+teradata.pk
+teradata.pl
+teradata.ru
+teradata.sa
+teradata.se
 terapeak.com
 tercept.com
 terminus.com
