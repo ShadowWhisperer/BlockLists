@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,337
-# Updated: 3/5/2021  00:34 (12:34 AM CST)
+# Domains: 9,344
+# Updated: 3/5/2021  10:13 (10:13 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1114,6 +1114,7 @@ bugs.mojang.com
 bugsnag.appstore.a2z.com
 bugsnag.co
 bugsnag.com
+bugsnag-session.monitor.core.app.alexa.a2z.com
 bugs.qoof.com
 bugtags.com
 bugtracker.mordhau.com
@@ -3625,6 +3626,7 @@ leadinfo.net
 leadinspector.de
 leadlander.com
 leadspace.com
+leads.radioedit.iheart.com
 leadsrx.com
 leady.com
 leancoding.co
@@ -4139,6 +4141,7 @@ metrics-api.librato.com
 metrics.brightcove.com
 metricscat.com
 metrics-cbslocal-com.cdn.ampproject.org
+metrics.claspws.tv
 metricscollector.lp.xcal.tv
 metricscollector.mirs.aws.r53.xcal.tv
 metrics.com
@@ -6836,6 +6839,8 @@ smetrix.511tactical.com
 smetrix.avon.uk.com
 smetrix.youravon.com
 smg.com
+smilecdn.co
+smile.io
 smilingshake.com
 smilingwaves.com
 sminerva.berkeleywellness.com
@@ -8782,6 +8787,7 @@ user.usatoday.com
 uservoice.com
 userzoom.com
 usesfathom.com
+us-events.api.iheart.com
 us-library.klarnaservices.com
 us-track.wayin.com
 usvalzdiprd-external-6361273.us-east-1.elb.amazonaws.com
@@ -9077,6 +9083,7 @@ wellmadefrog.com
 wemfbox.ch
 we-stats.com
 wfxtriggers.com
+whatcounts.net
 whatismyipaddress.com
 whatismyip.akamai.com
 whatismyip.com
