@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,344
-# Updated: 3/5/2021  10:13 (10:13 AM CST)
+# Domains: 9,371
+# Updated: 3/8/2021  18:47 (6:47 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -468,6 +468,7 @@ amung.us
 amusementmorning.com
 ana7.inews24.com
 anagog.com
+ana.gomtv.com
 analights.com
 analitik.edevlet.gov.tr
 analoganalytics.com
@@ -1319,16 +1320,22 @@ chartbeat.com
 chartbeat.net
 check3.tiaabank.com
 checkappexec.microsoft.com
+checkip.6c4968b42a8baf60d89b2c5631de4683c6bb1054.com
 checkip.com
+checkip.com.vn
+checkip.dy.fi
 checkip.dyn.com
 checkip.dyndns.com
 checkip.dyndns.it
 checkip.dyndns.org
+checkip.eurodyndns.org
 checkip.me
 checkip.net
 checkip.org
 checkip.pw
+checkip.synology.com
 checkip-waw.dyndns.com
+checkip.windscribe.com
 checkmyip.com
 check-my-ip.net
 checkout.zoro.com
@@ -2309,6 +2316,7 @@ dv.stk2.pro
 dw.cbsi.com
 dwin1.com
 dxpapi.com
+dynalabs.io
 dynamics.com
 dynamicyield.com
 dynata.com
@@ -2331,6 +2339,7 @@ easyresearch.se
 eba-amadeus.netdna-ssl.com
 ebilobster.ai
 ebisolutions.co.uk
+eb.trbas.com
 ecdn.analysis.fi
 ec.editmysite.com
 ec.instapagemetrics.com
@@ -3446,6 +3455,7 @@ ipstatp.com
 iptrackeronline.com
 iptrack.io
 ip.tyk.nu
+ip.urls.is
 ipvigilante.com
 ipwatch.monu.delivery
 ip-whois.net
@@ -3766,6 +3776,7 @@ logrocket.com
 logrocket.io
 logs-api.shoprunner.com
 logsink.zedge.net
+log.snow.me
 logs.roku.com
 logstashpro-a.akamaihd.net
 logstat.kugou.com
@@ -4722,6 +4733,7 @@ o.opentable.com
 o.opentable.co.uk
 opecloud.com
 opendsp.com
+openlog.in
 opensignal.com
 openstat.com
 openstat.net
@@ -5303,6 +5315,7 @@ perf-events.cloud.unity3d.com
 perf.hsforms.com
 perfops.net
 performancehorizon.com
+performgroup.com
 pergavelshot.com
 perimeterx.com
 perimeterx.net
@@ -5365,6 +5378,7 @@ piquantstove.com
 pi-stats.com
 pit-835.bpsecure.com
 piwikanalytics.win
+piwik.avm.de
 piwik.documentfoundation.org
 piwik.org
 piwik.pro
@@ -5565,6 +5579,7 @@ pushspring.com
 putags.com
 putler.com
 puzzlingproperty.com
+pview.gomtv.com
 pv.sohu.com
 pvtag.yahoo.co.jp
 pwa.grgs.ro
@@ -6818,6 +6833,7 @@ smetricsadobe.hollandandbarrett.ie
 smetricsadobe.hollandandbarrett.nl
 smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
+smetrics.cars.com
 smetrics.chrysler.com
 smetrics-cns.panasonic.com
 smetrics.dandh.com
@@ -7625,9 +7641,19 @@ stats-oreg-prod.inbake.com
 stats.pandora.com
 stats.paypal.com
 statsperform.com
+stat.sphyvarinen.fi
+stat.sp-lahjat.fi
+stat.splehtonen.fi
+stat.sp-materials.fi
+stat.sport-asu.fi
 stats-prod.svc.gearsofwar.net
 stats-proto.pandora.com
+stat.sptec.fi
+stat.spunky.fi
+stat.spuu.fi
 stats.qalabs.symantec.com
+stat.srautomaatio.fi
+stat.srtrakennus.fi
 stats.ryzeo.com
 statss.ia.ca
 statss.inalco.com
@@ -8188,6 +8214,7 @@ telemetry_preview.msn.com
 telemetry_rad.msn.com
 telemetry_ssw.live.com
 telemetry.svc.halowaypoint.com
+telemetry.tradingview.com
 telemetryverification.net
 telemetry_watson.live.com
 telize.com
