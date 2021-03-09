@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 506
-# Updated: 3/4/2021  00:11 (12:11 AM CST)
+# Domains: 507
+# Updated: 3/8/2021  23:54 (11:54 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -124,7 +124,6 @@ grammarly.com                                        #Browser Extension
 grammarly.io                                         #Browser Extension
 search.bleengo.com                                   #Browser Extension
 static.grammarly.com                                 #Browser Extension
-
 
 curtivendi.com.br                                    #Cash Back
 ebates.com                                           #Cash Back
@@ -318,6 +317,7 @@ appexnw.com                                          #Software - Pokki (Start Me
 pokki.com                                            #Software - Pokki (Start Menu)
 pokkinw.com                                          #Software - Pokki (Start Menu)
 real.com                                             #Software - RealPlayer
+quickconnect.to                                      #Software - Synology QuickConnect (Cloud Storage)
 cameras-cam.cdn.weatherbug.net                       #Software - Weatherbug
 cmselements.weatherbug.com                           #Software - Weatherbug
 cmsmini.weatherbug.com                               #Software - Weatherbug

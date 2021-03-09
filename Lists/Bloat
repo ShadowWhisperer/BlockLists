@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 727
-# Updated: 3/4/2021  00:11 (12:11 AM CST)
+# Domains: 728
+# Updated: 3/8/2021  23:54 (11:54 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -468,6 +468,7 @@ firebaseinappmessaging.googleapis.com                   #Google  FireBase
 firebaseperusertopics-pa.googleapis.com                 #Google  FireBase
 firebaseremoteconfig.googleapis.com                     #Google  FireBase
 firebasestorage.googleapis.com                          #Google  FireBase
+homecloudcastsdk-pa.googleapis.com                      #Gooogle   Home: Casting
 picasa.google.com                                       #Google    Picasa       (Defunct)
 picasaweb.google.com                                    #Google    Picasa       (Defunct)
 plus.google.com                                         #Google    Plus         (Defunct)
