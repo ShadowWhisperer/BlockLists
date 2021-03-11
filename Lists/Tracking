@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,395
-# Updated: 3/10/2021  00:12 (12:12 AM CST)
+# Domains: 9,410
+# Updated: 3/10/2021  23:22 (11:22 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -492,6 +492,7 @@ analytics3.starschina.com
 analytics6.snoobi.com
 analytics.amakings.com
 analyticsapi.bsbportal.com
+analytics-api.cloudinary.com
 analyticsapi.happypancake.net
 analytics.arm.com
 analytics.audioeye.com
@@ -523,6 +524,7 @@ analyticsmarket.com
 analytics.net
 analyticsnew.overwolf.com
 analytics.nextopia.net
+analyticson.ai
 analyticson.com
 analytics.ovh.com
 analytics.pe
@@ -867,6 +869,7 @@ awarealley.com
 aw.dwin1.com
 a.wishabi.com
 awseukpi.whisbi.com
+awsstatreporter.com
 awstrack.me
 awzbijw.com
 axiomaticalley.com
@@ -972,8 +975,6 @@ bf-ad.net
 b.foxsports.com
 b.fxnetworks.com
 bhcumsc.com
-bidder-eu-central.taptapnetworks.com
-bidder-us-east.taptapnetworks.com
 bidgear.com
 bidr.io
 bidswitch.net
@@ -1192,6 +1193,7 @@ caringzinc.com
 carpentercomparison.com
 carriagecan.com
 carscannon.com
+carto.com
 cartrocket.com
 cartstack.com
 castup.net
@@ -1262,7 +1264,6 @@ cdn.refersion.com
 cdn.retentionrock.com
 cdn-ru.bitrix24.ru
 cdn-sitegainer.com
-cdnsonata.taptapnetworks.com
 cdn.speedshiftmedia.com
 cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
@@ -1484,6 +1485,8 @@ click2.ylx-1.com
 click2.ylx-2.com
 click2.ylx-3.com
 click2.youreletters.com
+click360.io
+click360v2-ingest.azurewebsites.net
 clickability.com
 clickagy.com
 clickbrainiacs.com
@@ -1519,6 +1522,7 @@ client-analytics.braintreegateway.com
 client-error-log-962704628.us-east-1.elb.amazonaws.com
 client-log.box.com
 client-logger.beta.salemove.com
+client-logger.salemove.com
 clientlog.midomi.com
 clientmetrics-augmentum.kik.com
 clientmonitor.isnssdk.com
@@ -1930,6 +1934,7 @@ d21gpk1vhmjuf5.cloudfront.net
 d22d1xpx4ztuef.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
 d24b4gammzmqzp.cloudfront.net
+d24bnj4f1s1f8m.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d2bhklarlhhnvo.cloudfront.net
@@ -1983,7 +1988,6 @@ dash.getsitecontrol.com
 dashingdirt.com
 dashingdrop.com
 dashingsweater.com
-das.taptapnetworks.com
 data0.bell.ca
 data1.bell.ca
 data1.sparkasse.at
@@ -2115,6 +2119,7 @@ digimind.com
 digiseg.io
 digistats.westjet.com
 digitalaudience.io
+digitalkites.com
 digital-metric.com
 digitalreflectionpanel.com
 digitaltarget.ru
@@ -2421,6 +2426,7 @@ e-mark.nl
 ematicsolutions.com
 embeddedanalytics.com
 embed.funker530.com
+embracecontext.com
 emetrics.bose.ca
 emetrics.bose.co.jp
 emetrics.bose.com
@@ -2433,6 +2439,7 @@ emptyescort.com
 emv2.com
 emv3.com
 en25.com
+enbrite.ly
 enchantedjudge.com
 enchantedtop.com
 encourageidea.com
@@ -2452,6 +2459,7 @@ enormousearth.com
 ensighten.bhphoto.com
 ensighten.com
 ensighten.huntingtonbank.com
+ensighten.staticcache.org
 entertainingeyes.com
 enthusiasticdad.com
 entiredigital.com
@@ -2534,6 +2542,7 @@ events.mapbox.com
 events.ocdn.eu
 events.onet.pl
 events.privy.com
+events-service.coinbase.com
 events.split.io
 eventstream-829-weblog-01.bigpoint.net
 eventstream-829-weblog-02.bigpoint.net
@@ -2977,6 +2986,7 @@ gostats.ro
 gostats.ru
 gostats.vn
 gotvantage.com
+goupshot.com
 goutong.baidu.com
 govmetric.com
 grabify.link
@@ -3017,6 +3027,7 @@ grsm.io
 gscounters.eu1.gigya.com
 gscounters.us1.gigya.com
 gsi-one.org
+gsitrix.com
 gs-loc.apple.com
 gsp10-ssl.apple.com
 gsp17-2-ssl.apple.com
@@ -3280,6 +3291,7 @@ impulsejewel.com
 imrworldwide.com
 imtwjwoasak.com
 in.appcenter.ms
+inbenta.com
 incentivesnetwork.net
 incisivemedia.com
 incoming-data-sense360.s3.amazonaws.com
@@ -3608,11 +3620,9 @@ lackadaisicalkite.com
 lagoonolivia.com
 lameletters.com
 lamplow.com
-landings.taptapnetworks.com
 landingtrack.com
 languagelake.com
 lantern.roeyecdn.com
-latam.taptapnetworks.com
 lat-services.api.data.roku.com
 laughablecopper.com
 laughablelizards.com
@@ -3779,6 +3789,7 @@ logrocket.io
 logs-api.shoprunner.com
 logsink.zedge.net
 log.snow.me
+logs.openbank.com
 logs.roku.com
 logstashpro-a.akamaihd.net
 logstat.kugou.com
@@ -3880,6 +3891,7 @@ matheranalytics.com
 mathtag.com
 matomo.cloud
 matomo.org
+matomo.riot.im
 matrix.hbo.com
 mavenaudiences.com
 mavic852.com
@@ -3887,6 +3899,7 @@ mawlaybob.com
 maxmind.com
 maxxxhits.com
 maxymiser.net
+mazeberry.com
 mbr-targeting.com
 mbusa-tagging-prod.azureedge.net
 mcssl.com
@@ -4720,6 +4733,8 @@ one.123counters.com
 oneall.com
 oneaudience.com
 onecollector.cloudapp.aria.akadns.net
+one-count.com
+onecount.net
 onelink.me
 onestat.com
 onestatfree.com
@@ -5468,7 +5483,6 @@ portal.brandlock.io
 possessivebucket.com
 possibleboats.com
 postaffiliatepro.com
-postback1.taptapnetworks.com
 postclickmarketing.com
 postrelease.com
 potomac-clickstream.capitalone.com
@@ -5479,6 +5493,7 @@ ppcprotect.com
 pp.d2-apps.net
 p.pulse.toyota.com
 p.qiao.baidu.com
+practicenumbers.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd-collector-auth.playbuzz.com
@@ -5493,7 +5508,6 @@ prepareplanes.com
 presentationtracking.netflix.com
 presetrabbits.com
 presssensor.com
-pre.taptapnetworks.com
 previousplayground.com
 previouspotato.com
 prfct.co
@@ -5669,6 +5683,7 @@ rapidkittens.com
 raresummer.com
 rating.openstat.ru
 ravenjs.com
+rawdamental.com
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
 raw.vidyard.com
@@ -5826,6 +5841,8 @@ responder.wt.heise.de
 responseiq.com
 responsetap.com
 re.stjude.org
+resu.io
+resulticks.com
 resultsmedia.com
 retargeter.com
 retargetly.com
@@ -7153,9 +7170,6 @@ somtrdc.jobstreet.vn
 somtr.financialengines.com
 sonar.fedex.com
 sonar.semantiqo.com
-sonata-notifications-eu-central.taptapnetworks.com
-sonata-notifications.taptapnetworks.com
-sonata-notifications-us-east.taptapnetworks.com
 s-onetag.com
 sonet-redpool.polimorf.co
 songssmoke.com
@@ -7565,6 +7579,7 @@ stat24.meta.ua
 stat2.bollywoodhungama.in
 stat3.airdroid.com
 stat3.bollywoodhungama.in
+stat.adguard.com
 statad.ru
 statcounter.com
 stat.eagleplatform.com
@@ -7585,7 +7600,6 @@ static.lamoda.pl
 static.mailerlite.com
 static-mon.yandex.net
 static.pxl.ai
-statics.taptapnetworks.com
 static-star.jjshouse.com
 static.ws.apsis.one
 statista.com
@@ -7960,6 +7974,7 @@ sw88.espn.com.ve
 sw88.espn.co.uk
 sw88.espnqa.com
 sw88.foxplay.com
+sw88.freeform.com
 sw88.frozenthemusical.co.uk
 sw88.fxnetworks.com
 sw88.go.com
@@ -8171,7 +8186,6 @@ tapad.com
 tapfiliate.com
 taplytics.com
 tapresearch.com
-taptapnetworks.com
 target2sell.com
 targetcircle.com
 target.cisco.com
@@ -8453,6 +8467,7 @@ tracker.ru
 tracker.samplicio.us
 trackers.safelinkwireless.com
 tracker.to
+tracker.x-plarium.com
 track-flow.com
 track.hubspot.com
 trackier.com
@@ -9186,7 +9201,6 @@ wm.prd.borderfree.com
 wm.sybase.com
 wn.pos.baidu.com
 wogaa.sg
-wolfgang.sonata.taptapnetworks.com
 wolterskluwer.com
 womanear.com
 woodpeckerlog.com
@@ -9369,6 +9383,7 @@ your-ip-address.com
 yourip.us
 yoursiteanalytics.com
 yourvip.info
+yourwoo.com
 ysance.com
 y-track.com
 ywxq.net

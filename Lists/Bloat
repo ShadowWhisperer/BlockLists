@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 728
-# Updated: 3/8/2021  23:54 (11:54 PM CST)
+# Domains: 731
+# Updated: 3/10/2021  23:22 (11:22 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -67,6 +67,7 @@ use.fontawesome.com                                     #Font       Font Awesome
 fontcdn.ir                                              #Font    Font Server
 fontserver.ir                                           #Font    Font Server
 fontstorage.com                                         #Font       FontStorage
+thefontzone.com                                         #Font    The Font Zone
 fortawesome.com                                         #Font  Fort Awesome
 use.fortawesome.com                                     #Font  Fort Awesome
 fonticons.com                                           #Font  Fort Awesome
@@ -133,6 +134,7 @@ lb.polldaddy.com                                        #Survey
 opinionbar.com                                          #Survey
 polldaddy.com                                           #Survey
 poll.fm                                                 #Survey
+poll-maker.com                                          #Survey
 riddle.com                                              #Survey
 samplicio.us                                            #Survey
 secure.polldaddy.com                                    #Survey
@@ -533,10 +535,11 @@ youtubei.googleapis.com                                 #Google
 ytimg-edge-static.l.google.com                          #Google
 hpcloud.hp.com                                          #HP     Cloud
 hpcloud.hp.net                                          #HP     Cloud
-rocketlifeproduction.com                                #HP    Photo Creations
-communicator.rocketlifeproduction.com                   #HP    Photo Creations
-h20572.www2.hp.com                                      #HP   Help & Support
 aclm.external.hp.com                                    #HP   Drivers / Updates ?
+rocketlifeproduction.com                                #HP     Photo Creations
+communicator.rocketlifeproduction.com                   #HP     Photo Creations
+h20572.www2.hp.com                                      #HP   Help & Support
+hpdjjs.com                                              #HP     JumpStart
 cprs.hp.com                                             #HP
 eipd.rssx.hp.com                                        #HP
 js.redirect.hp.com                                      #HP
