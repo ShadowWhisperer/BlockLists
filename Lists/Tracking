@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,412
-# Updated: 3/11/2021  00:30 (12:30 AM CST)
+# Domains: 9,421
+# Updated: 3/11/2021  23:47 (11:47 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1297,6 +1297,7 @@ centralcore7.com
 central.crsi.symantec.com
 central.nrsi.symantec.com
 central.ss.crsi.symantec.com
+certona.net
 cetrk.com
 cfigroup.com
 c.fi.msn.com
@@ -1967,6 +1968,7 @@ d3jaymjyiads5d.cloudfront.net
 d3ojfshdw1hp8b.cloudfront.net
 d3owq2fdwtdp2j.cloudfront.net
 d3qou5ensc2knu.cloudfront.net
+d3v27wwd40f0xu.cloudfront.net
 d3vk40ihlliju7.cloudfront.net
 d41.co
 d5nxst8fruw4z.cloudfront.net
@@ -2518,6 +2520,8 @@ eventcollector.dditservices.com
 event.havasedge.com
 event-listener.air.tv
 eventlogger.soundcloud.com
+event.on24.com
+eventprd10b.on24.com
 events1.avantisvideo.com
 events.air.tv
 events.apester.com
@@ -6258,6 +6262,7 @@ scookies-adobe.kbclease.lu
 scookies-adobe.kching.be
 scoota.co
 scorecardresearch.com
+scorecard.wspisp.net
 scoutanalytics.net
 sc.pages02.net
 sc.pages05.net
@@ -6862,6 +6867,7 @@ smetrics.cars.com
 smetrics.chrysler.com
 smetrics-cns.panasonic.com
 smetrics.dandh.com
+smetrics.discover.com
 smetrics.fcacert.com
 smetrics.foxbusiness.com
 smetrics.foxnews.com
@@ -6869,6 +6875,7 @@ smetrics.frontier.com
 smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
 smetrics-merch.bankofamerica.com
+smetrics.nascar.com
 s.metrics.popularwoodworking.com
 s.metrics.quiltingcompany.com
 s.metrics.shopwoodworking.com
@@ -8494,6 +8501,7 @@ trackingpin.com
 tracking.publicidees.com
 tracking-secure.csob.cz
 tracking-server-prod-1.zenmxapps.com
+tracking.sharplink.us
 trackingsoft.com
 trackingssl.agemployeebenefits.be
 trackingssl.aginsurance.be
@@ -8752,6 +8760,7 @@ uem.marykay.com
 ues.kicker.de
 u.fg8dgt.com
 uf.noclef.com
+ugdturner.com
 uge.ltroute.com
 uhf.microsoft.com
 uie.data.cbc.ca
