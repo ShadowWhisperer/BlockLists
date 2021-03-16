@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 731
-# Updated: 3/10/2021  23:22 (11:22 PM CST)
+# Domains: 724
+# Updated: 3/16/2021  01:21 (1:21 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -21,10 +21,10 @@ accessibly.apps.onthemapmarketing.com                   #Accessibility Widget
 accessibly.onthemapmarketing.com                        #Accessibility Widget
 audioeye.activehosted.com                               #Accessibility Widget
 audioeye.com                                            #Accessibility Widget
-cdn.audioeye.com                                        #Accessibility Widget
 d5c8kzvnetr32.cloudfront.net                            #Accessibility Widget
 dlieyhrm30x3f.cloudfront.net                            #Accessibility Widget
-wsmcdn.audioeye.com                                     #Accessibility Widget
+nagich.com                                              #Accessibility Widget
+nagich.co.il                                            #Accessibility Widget
 
 arc.io                                                  #Share Bandwidth
 gateway.arc.io                                          #Share Bandwidth
@@ -36,22 +36,15 @@ fonts.acer.com                                          #Font      Acer
 edgefonts.net                                           #Font  Adobe
 fonts.adobe.com                                         #Font  Adobe
 typekit.com                                             #Font  Adobe
-use.typekit.com                                         #Font  Adobe
 typekit.net                                             #Font  Adobe
-use.edgefonts.net                                       #Font  Adobe
-use.typekit.net                                         #Font  Adobe
 fonts.com                                               #Font      Fonts.com
-fast.fonts.com                                          #Font      Fonts.com
-fast.fonts.net                                          #Font      Fonts.net
 fonts.net                                               #Font      Fonts.net
-file.myfontastic.com                                    #Font  Fontastic.me
 fontastic.me                                            #Font  Fontastic.me
 myfontastic.com                                         #Font  Fontastic.me
 fontplus.aem.kao.com                                    #Font      FontPlus (Softbank Tech Corp.) Marketing / Analytics
 fonts.gstatic.com                                       #Font  Google
 fonts.googleapis.com                                    #Font  Google
 f.kinja-static.com                                      #Font      Kinja
-hello.myfonts.net                                       #Font  My Fonts
 myfonts.net                                             #Font  My Fonts
 d3s44e87wooplq.cloudfront.net                           #Font       Font Awesome
 fontawesome.com                                         #Font       Font Awesome
