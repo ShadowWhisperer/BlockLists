@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,349
-# Updated: 3/16/2021  01:21 (1:21 AM CST)
+# Domains: 9,352
+# Updated: 3/16/2021  20:32 (8:32 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -920,6 +920,7 @@ bawdypets.com
 bbelements.com
 bc0a.com
 bc60.playfabapi.com
+bcdn.openbank.com
 bc.icelandair.is
 bc.law.com
 bconservices.com.au
@@ -8901,6 +8902,7 @@ vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 v.oui.sncf
 vpadn.com
+vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 vpnur.com
 vpon.com
 vpptechnologies.com
@@ -9184,6 +9186,7 @@ wttd.douglas.it
 wttd.douglas.nl
 wtustats.avg.com
 wundercounter.com
+wup.openbank.com
 wurfl.io
 w.usabilla.com
 wvr.wyndhamvacationresorts.com

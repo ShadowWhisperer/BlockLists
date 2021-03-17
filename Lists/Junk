@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 507
-# Updated: 3/8/2021  23:54 (11:54 PM CST)
+# Domains: 508
+# Updated: 3/16/2021  20:32 (8:32 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -281,6 +281,7 @@ sf16-scmcdn-va.ibytedtos.com                         #App  TikTok
 sf-tb-sg.ibytedtos.com                               #App  TikTok
 ssl.cdn.tiktok.com.c.footprint.net                   #App  TikTok
 tiktokcdn.com                                        #App  TikTok
+tiktokcdn-in.com                                     #App  TikTok
 tiktok.com                                           #App  TikTok
 tiktokv.com                                          #App  TikTok
 v16-tiktokcdn-com.akamaized.net                      #App  TikTok
