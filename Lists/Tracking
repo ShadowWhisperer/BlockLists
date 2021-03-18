@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,352
-# Updated: 3/16/2021  20:32 (8:32 PM CST)
+# Domains: 9,387
+# Updated: 3/18/2021  02:49 (2:49 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -438,6 +438,7 @@ all-tracker.appspot.com
 alogs.umengcloud.com
 alog.umengcloud.com
 aloofmetal.com
+aloofvest.com
 alooma.com
 alpixtrack.com
 al-smetrics.vizio.com
@@ -501,13 +502,16 @@ analytics.audioeye.com
 analytics.batesvilletechnology.com
 analytics.carbonite.com
 analytics.ccs.mcafee.com
+analytics-cdn.redbubble.com
 analytics.civicplus.com
 analytics.clickdimensions.com
 analytics.com
 analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
+analytics.desktopcal.com
 analytics.edgekey.net
 analytics.edgesuite.net
+analytics.edmentum.com
 analytics-egain.com
 analytics-engine.com
 analyticsengine.s3.amazonaws.com
@@ -531,6 +535,7 @@ analyticson.com
 analytics.ovh.com
 analytics.pe
 analyticspixel.microsoft.com
+analytics.redbubble.com
 analytics.report
 analytics.revengebucks.com
 analytics.site123.io
@@ -542,6 +547,7 @@ analytics.thehardcorenetwork.com
 analytics.tiktok.com
 analytics-tracking.meetup.com
 analytics.twitter.com
+analytics.visualstudio.com
 analytics.yahoo.com
 analytictech.com
 anapixel.elmundo.es
@@ -676,6 +682,7 @@ app.civey.com
 appdynamics.com
 app.factors.ai
 app.fera.ai
+appfolio-analytics.com
 appirits.com
 applesarmy.com
 appleseed.apple.com
@@ -1590,6 +1597,7 @@ cloud.gti.mcafee.com
 cloud-iq.com
 cloud.junctiontv.net
 cloudsdestruction.com
+cloudtrust.rocks
 clrstm.com
 cludo.com
 clustrmaps.com
@@ -1616,11 +1624,13 @@ cnt.hd21.com
 cntr-di5.com
 cntr-di7.com
 cnt-tm-1.com
+cnt.x-plarium.com
 cnzz.com
 coachquartz.com
 coatfood.com
 code.murdoog.com
 code.randomhouse.com
+collateralanalytics.com
 collect-eu-fy2015.myhomescreen.tv
 collect-eu-fy2016.myhomescreen.tv
 collect-eu-fy2017.myhomescreen.tv
@@ -2097,6 +2107,7 @@ dev.virtualearth.net
 df-srv.de
 d.ghostery.com
 dh014lg6uwepv.cloudfront.net
+dhqbrvplips7x.cloudfront.net
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 diagnostics.office.com
@@ -2494,6 +2505,9 @@ etrack.ext.hpe.com
 et.resellerratings.com
 etsource.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
+eulatracking-public-service-prod.ak.epicgames.com
+eulatracking-public-service-prod-m.ol.epicgames.com
+eulatracking-public-service-prod.ol.epicgames.com
 eulerian.com
 eulerian.eu
 eulerian.fr
@@ -2532,6 +2546,7 @@ events.godaddy.com
 events.iap.unity3d.com
 events.ifunny.co
 events.intuit.launchdarkly.com
+events.jotform.com
 events.launchdarkly.com
 events.mapbox.com
 events.ocdn.eu
@@ -2656,6 +2671,7 @@ fertilizeranaemiaupcoming.com
 fervortracer.com
 fg8dgt.com
 fg8dgt.com.s3-website-us-west-2.amazonaws.com
+ficoanalyticcloud.com
 fifthborder.com
 fifty.io
 fiftyt.com
@@ -2720,7 +2736,9 @@ foureyes.io
 fourfork.com
 foursquare.com
 foxmetrics.com
+fpa-cdn.arstechnica.com
 fpa-cdn.slate.com
+fpa-events.arstechnica.com
 fp-analytics.hotstar.com
 fpc.firemountaingems.com
 fpc.northerninstitutionalfunds.com
@@ -3629,6 +3647,7 @@ leady.com
 leancoding.co
 leapfaucet.com
 leaplunchroom.com
+learn.appfolio.com
 learnedmarket.com
 lea-software.com
 leftliquid.com
@@ -3726,6 +3745,7 @@ log2-useast2a.musical.ly.edgekey.net
 logagent-global.kingsgroupgames.com
 logaholic.com
 log.aliyuncs.com
+loganalytics.io
 log-b-1270450396.us-west-1.elb.amazonaws.com
 logbor.com
 log-c-2144142094.us-west-1.elb.amazonaws.com
@@ -4283,6 +4303,7 @@ movemeal.com
 mowfruit.com
 mparticle.com
 m-pathy.com
+mpianalytics.com
 mp-newmedia.com
 mpnrs.com
 mps.nbcuni.com
@@ -4402,6 +4423,7 @@ naturalbid.com
 naturaltracking.com
 navdmp.com
 navegg.com
+navi.cohesionapps.com
 navrcholu.cz
 nbcnews.trib.al
 n.betus.com
@@ -4499,6 +4521,7 @@ notifyvisitors.com
 nowspots.com
 np.lexity.com
 nr-data.net
+nr-local.net
 nsaudience.pl
 nsc.metrics-shell.com
 nsc.natwest.com
@@ -5374,6 +5397,7 @@ pit-835.bpsecure.com
 piwikanalytics.win
 piwik.avm.de
 piwik.documentfoundation.org
+piwik.mopo-server.de
 piwik.org
 piwik.pro
 piwikpro.com
@@ -5501,6 +5525,7 @@ privymktg.com
 prnx.net
 probe.icloud.com
 processing.classaction.org
+prod5-eum-appdynamics.wellsfargo.com
 prod-fra.truendo.com
 prod.geo.gluops.com
 prod.geoservice.gluops.com
@@ -6137,6 +6162,8 @@ sanl.ladyfootlocker.com
 sanl.six02.com
 sanmet.originenergy.com.au
 sannsyn.com
+sapanalytics.cloud
+saphanajourney.com
 sapphire-api.target.com
 sappmetrics.boostmobile.com
 sappmetrics.sprint.com
@@ -7577,6 +7604,7 @@ statistical-report.djiservice.org
 statistic.ovh
 statistics.ro
 statistics-weblog.gamesamba.com
+statistic.weimobdc.com
 stat.jar.ru
 statlog.cc.netease.com
 stat.media
@@ -7645,6 +7673,7 @@ stat.sport-asu.fi
 stats-prod.svc.gearsofwar.net
 stats.pronhub.com
 stats-proto.pandora.com
+statsproxy-public-service-live.ol.epicgames.com
 stat.sptec.fi
 stat.spunky.fi
 stat.spuu.fi
@@ -8058,6 +8087,7 @@ swordgoose.com
 sw-rail-7.com
 swrve.com
 symbolizebeast.com
+symphonyam.com
 sync.colossusssp.com
 sync.tidaltv.com.akadns.net
 sync-usor.tidaltv.com.akadns.net
@@ -8138,6 +8168,7 @@ tag.starsmp.com
 tagstream.com
 tagtracking.vibescm.com
 tag.vlitag.com
+tag-wellsfargo.nod-glb.nuance.com
 tail.digital
 tailsweep.com
 tailtarget.com
@@ -8297,6 +8328,7 @@ thrtle.com
 t.hrtyk.com
 ths.bingle.com.au
 thunderingrose.com
+ticketaunt.com
 ticklesign.com
 tif.webjavaskript.net
 tigger-citadel.touchtype-fluency.com
@@ -8482,6 +8514,7 @@ trackuity.com
 trackuity.supplies
 track-us.adformnet.akadns.net
 trackvoluum.com
+track.weimob.com
 track.wikibuy.com
 trackwill.com
 trackyourstats.com
@@ -8826,6 +8859,7 @@ v-collector.dp.aws.charter.com
 vendorweb.citibank.com
 venusgloria.com
 vercel-analytics.com
+vercel-insights.com
 verification-va.byteoversea.com
 verifyclicksolutions.com
 verifyvegetable.com
@@ -8901,6 +8935,7 @@ vortex.hulu.com
 vortex-sandbox.data.microsoft.com
 vortex-win.data.microsoft.com
 v.oui.sncf
+voyagepotato.com
 vpadn.com
 vpc-trk-10d1b1f8032805fc.elb.us-east-1.amazonaws.com
 vpnur.com

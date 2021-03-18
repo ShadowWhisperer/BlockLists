@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Domains: 367
-# Updated: 3/16/2021  20:32 (8:32 PM CST)
+# Domains: 369
+# Updated: 3/18/2021  02:49 (2:49 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -322,6 +322,7 @@ cb.sailthru.com                 #SailThru
 link-nj1.sailthru.com           #SailThru
 sail-horizon.com                #SailThru
 sailthru.com                    #SailThru
+salesfusion.com                 #SalesFusion
 cdn.sendpulse.com               #SendPulse
 pushdata.sendpulse.com          #SendPulse
 sendpulse.com                   #SendPulse
@@ -409,6 +410,7 @@ masoffer.net                  #  (Vietnam)
 # Performance Marketing
 ##############################
 getcake.com        #Cake
+myfuseclick.com    #FuseClick
 maxbounty.com      #MaxBounty
 mb38.com           #MaxBounty
 mb103.com          #MaxBounty
