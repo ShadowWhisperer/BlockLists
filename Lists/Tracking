@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,402
-# Updated: 3/19/2021  10:21 (10:21 AM CST)
+# Domains: 9,436
+# Updated: 3/21/2021  01:17 (1:17 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -523,6 +523,7 @@ analytics.frontkom.io
 analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
+analytics.google.com
 analytics-ingestion.production-public.tubi.io
 analytics-iq.com
 analytics.kurocore.com
@@ -539,6 +540,7 @@ analyticspixel.microsoft.com
 analytics.redbubble.com
 analytics.report
 analytics.revengebucks.com
+analyticssec.overwolf.com
 analytics.site123.io
 analytics.slashdotmedia.com
 analytics.srvnw.com
@@ -1154,6 +1156,7 @@ c1.dmdt.io
 c1exchange.com
 c1.microsoft.com
 c1.patreon.com
+c212.net
 c2.qbk1.com
 c2strack.com
 c3319585.ssl.cf0.rackcdn.com
@@ -1380,6 +1383,7 @@ ciq.labs.att.com
 ciradar.com
 circularhub.com
 circulate.com
+cision.com
 c.it.msn.com
 civey.com
 civicscience.com
@@ -1634,6 +1638,8 @@ coachquartz.com
 coatfood.com
 code.murdoog.com
 code.randomhouse.com
+cognitiv.ai
+cognitivlabs.com
 collateralanalytics.com
 collect-eu-fy2015.myhomescreen.tv
 collect-eu-fy2016.myhomescreen.tv
@@ -1913,6 +1919,7 @@ cyscape.com
 c.za.msn.com
 d10lpsik1i8c69.cloudfront.net
 d1564fddzjmdj5.cloudfront.net
+d16i0l5qhf2h7o.cloudfront.net
 d174f84q5mcorf.cloudfront.net
 d1aqhv4sn5kxtx.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
@@ -1922,6 +1929,7 @@ d1ffafozi03i4l.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
 d1hc14f07g70ck.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
+d1khm0eduvht21.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
 d1lxhc4jvstzrp.cloudfront.net
@@ -1937,6 +1945,7 @@ d1x7eqknlm4fkm.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d20kyoxkb5vbjm.cloudfront.net
 d21gpk1vhmjuf5.cloudfront.net
+d21xzkx9a6yixg.cloudfront.net
 d22d1xpx4ztuef.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
 d24b4gammzmqzp.cloudfront.net
@@ -2614,6 +2623,7 @@ e.zg-api.com
 ezodn.com
 ezoic.com
 ezojs.com
+ezpixeltracking.com
 f2.doodlemobile.com
 faas.marktplaats.nl
 faceid.com
@@ -2920,6 +2930,7 @@ getclicky.com
 get.convrse.media
 getdrip.com
 getdrip.s3.amazonaws.com
+getelevar.com
 getexceptional.com
 getforked.in
 getfreehitcounter.com
@@ -3171,6 +3182,7 @@ hm.baidu.com
 hmsniper.os.eidos.com
 hocgeese.com
 hockeyapp.net
+hodes.com
 homelycrown.com
 honeybulb.com
 honeygoldfish.com
@@ -3302,6 +3314,9 @@ imrworldwide.com
 imtwjwoasak.com
 in.appcenter.ms
 inbenta.com
+inbound-analytics.pixlee.com
+incartupsell.com
+incartupsell-oihcsf0gzy.netdna-ssl.com
 incentivesnetwork.net
 incisivemedia.com
 incoming-data-sense360.s3.amazonaws.com
@@ -3426,6 +3441,7 @@ ip-api.com
 ip-api.io
 ip.apps.cntv.cn
 ip.cctv.pk
+ipcheck.ydesigngroup.com
 ipchicken.com
 ip.cn
 ipcode.pw
@@ -3437,6 +3453,7 @@ ipfind.co
 ipfind.com
 ip-geo.appspot.com
 ipgeobase.ru
+ipgeolocation.io
 ip-geo-lookup.ec.pegs.com
 iphonediags.apple.com
 iphone-ld.apple.com
@@ -3489,8 +3506,11 @@ ispot.tv
 istats.nl
 ist-track.com
 ithinkthereforeiam.net
+itmems.com
+itrac.it
 itracker360.com
 itrack.it
+itracmediav4.com
 itspsmup.com
 i.tw.cx
 ivitrack.com
@@ -3778,6 +3798,7 @@ logging.prefixbox.com
 logging.wilmaa.com
 loggly.com
 loggly.net
+log.go.com
 logicanalytics.io
 loginradius.com
 logit.api.intuit.com
@@ -3789,6 +3810,7 @@ logmatic.io
 log-mining-web.makeshop.co.kr
 log.no
 lognormal.net
+log.olark.com
 log.particlenews.com
 log.pinterest.com
 logql.yahoo.co.jp
@@ -3801,6 +3823,7 @@ logs-api.shoprunner.com
 logsink.zedge.net
 log.snow.me
 logs.openbank.com
+logs.psm.wmcdp.io
 logs.roku.com
 logstashpro-a.akamaihd.net
 logstat.kugou.com
@@ -5438,6 +5461,7 @@ pixelsmarter.com
 pixel-static.spotify.com
 pixeltrack.clientgear.com
 pixel-tracker.com
+pixeltracker.im
 pixel.watch
 pixel.wp.com
 pixelzirkus.gameforge.com
@@ -5464,7 +5488,6 @@ platform.linkedin.com
 plausible.io
 player.stats.live-video.net
 player-telemetry.vimeo.com
-playground.xyz
 pleasantpump.com
 plotparent.com
 plotrabbit.com
@@ -5480,6 +5503,7 @@ pocketsonic.com
 podfdch.com
 podiumpresto.com
 pointlessrifle.com
+pointmediatracker.com
 poisedpig.com
 pokdfopk.cmail20.com
 polaris.xfinity.com
@@ -5924,6 +5948,7 @@ r.msn.com
 rmtag.com
 rmulus.com
 rnengage.com
+roascalc.im
 robustbelieve.com
 rocketadserver.com
 rocketanalytics.com
@@ -6162,6 +6187,8 @@ samsungacr.com
 samsung-beacons.xumo.com
 samsungpositioning.com
 samsungpositioning.com.cn
+sanalytics.disneyplus.com
+sanalytics.ncaa.com
 sana.newsinc.com.s3.amazonaws.com
 sando.ussandostatin.com
 sanl.champssports.com
@@ -6845,6 +6872,7 @@ smart-pixl.com
 smartscreen.microsoft.com
 smartscreen-prod.microsoft.com
 smartzonessva.com
+smashfly.com
 smashshoe.com
 smashsurprise.com
 smatning.volkswagen.se
@@ -6870,6 +6898,7 @@ s.metrics.artistsnetwork.com
 smetrics.cars.com
 smetrics.chrysler.com
 smetrics-cns.panasonic.com
+smetrics.ctv.ca
 smetrics.dandh.com
 smetrics.discover.com
 smetrics.fcacert.com
@@ -7587,6 +7616,7 @@ startup.mobile.yandex.net
 stat1.bollywoodhungama.in
 stat1-mlycdn.bmyy520.com
 stat1-mlycdn.bmyy520.com.cdn.cloudflare.net
+stat.24liveplus.com
 stat24.meta.ua
 stat2.bollywoodhungama.in
 stat3.airdroid.com
@@ -7917,6 +7947,7 @@ superstats.com
 supervisegoldfish.com
 supl.google.com
 supportmetrics.apple.com
+surfside.io
 survata.com
 survata.net
 surve.nl
@@ -8103,6 +8134,7 @@ sw-rail-7.com
 swrve.com
 symbolizebeast.com
 symphonyam.com
+symphonytalent.com
 sync.colossusssp.com
 sync.tidaltv.com.akadns.net
 sync-usor.tidaltv.com.akadns.net
@@ -8566,7 +8598,6 @@ trck.spoteffects.net
 trck.youvisit.com
 treadbun.com
 treasuredata.com
-tredir.espn.com
 tredir.go.com
 tremendousplastic.com
 tremendoustime.com
@@ -8761,6 +8792,7 @@ unagi.amazon.com
 unagi-na.amazon.com
 unarmedindustry.com
 unbecominghall.com
+unbxdapi.com
 uncn.jp
 uncommongoods-www.baynote.net
 uncoveredcircle.com
@@ -9057,6 +9089,7 @@ webanalyticsday.com
 web-analytics.engagio.com
 webanalytics.engagio.com
 web-analytics.huami.com
+web-analytics.investisdigital.cloud
 webanalyticsnossl.websense.com
 webanalytics.pgatour.com
 webanalytics.qualcomm.com
@@ -9301,6 +9334,7 @@ www-sadobe.384.co.jp
 www-sadobe.anabuki-community.com
 www-smt.daiichisankyo-hc.co.jp
 www-t.apartments.com
+wyng.com
 wysistat.com
 wzrkt.com
 x1box-beacons.xumo.com
