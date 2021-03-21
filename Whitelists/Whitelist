@@ -65,6 +65,7 @@ gallery.mailchimp.com                      # Email - Mailchimp - Images
 login.yahoo.com                            # Email - Yahoo
 smtp.mail.yahoo.com                        # Email - Yahoo
 imagesak.secureserver.net                  # Email - Godaddy
+tredir.espn.com                            # ESPN - Prevents videos from playing
 dropbox.com                                # File Sharing
 dl.dropboxusercontent.com                  # File Sharing
 justbeamit.com                             # File Sharing
@@ -224,7 +225,7 @@ s.adrise.tv                                # App - Tubi (Subtitles)
 license.adrise.tv                          # App - Tubi (Digital Rights Management Error, if blocked)
 api2.sr.roku.com                           # App - The Roku Channel
 configs.ott.aetnd.com                      # App - A&E - Check for internet access
-signature.video.aetnd.com                  # App - A&E - Crashs App
+signature.video.aetnd.com                  # App - A&E - Crashes App
 oempprd.samsungcloudsolution.com           # Samsung - App Updates
 oempprd.samsungcloudsolution.net           # Samsung - App Updates
 otnprd8.samsungcloudsolution.net           # Samsung - Firmware Updates
