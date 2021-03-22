@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,436
-# Updated: 3/21/2021  01:17 (1:17 AM CST)
+# Domains: 9,446
+# Updated: 3/22/2021  00:31 (12:31 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1259,6 +1259,7 @@ cdn.memo.co
 cdn.mobify.com
 cdn.neatab.com
 cdn-net.com
+cdn.nxakpj4ac8gkd53.info
 cdn.onnetwork.tv
 cdn.owebanalytics.com
 cdn.paddle.com
@@ -1528,6 +1529,7 @@ clicky.com
 clickzinc.com
 client-analytics.braintreegateway.com
 client-error-log-962704628.us-east-1.elb.amazonaws.com
+clientgear.com
 client-log.box.com
 client-logger.beta.salemove.com
 client-logger.salemove.com
@@ -1640,6 +1642,8 @@ code.murdoog.com
 code.randomhouse.com
 cognitiv.ai
 cognitivlabs.com
+cog-tr1.com
+cog-tr2.com
 collateralanalytics.com
 collect-eu-fy2015.myhomescreen.tv
 collect-eu-fy2016.myhomescreen.tv
@@ -1788,6 +1792,7 @@ counter.ru
 counters.auctionhelper.com
 counters.auctionwatch.com
 counters.auctiva.com
+counter.scribblelive.com
 counters.honesty.com
 counter.snackly.co
 counters.vendio.com
@@ -1924,6 +1929,7 @@ d174f84q5mcorf.cloudfront.net
 d1aqhv4sn5kxtx.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1.dhgate.com
+d1epsz32winqbo.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1ffafozi03i4l.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
@@ -3071,6 +3077,7 @@ gute.autoversicherung.de
 gw100-10.com
 gwallcheck.api-alliance.com
 gwallet.com
+gweini.com
 h78xb.pw
 habitualhumor.com
 haensel-ams.com
@@ -3395,6 +3402,7 @@ instana.io
 instant.page
 instartlogic.com
 instrumentsponge.com
+intake-analytics.wikimedia.org
 integralads.com
 intelliad.com
 intelliad.de
@@ -5657,6 +5665,7 @@ pxltrck.com
 pxl.viewclick.ru
 px.srvcs.tumblr.com
 px.za.zaloapp.com
+pym.nprapps.org
 pyramidanalytics.com
 pyze.com
 q4cdn.com
@@ -6913,6 +6922,7 @@ s.metrics.popularwoodworking.com
 s.metrics.quiltingcompany.com
 s.metrics.shopwoodworking.com
 s.metrics.skyandtelescope.com
+smetrics.startribune.com
 s.metrics.writersdigest.com
 s.metrics.writersdigestshop.com
 s.metric.vodacom.co.za
