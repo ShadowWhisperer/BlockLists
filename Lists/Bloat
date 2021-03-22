@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 725
-# Updated: 3/18/2021  02:49 (2:49 AM CST)
+# Domains: 729
+# Updated: 3/22/2021  17:08 (5:08 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -107,6 +107,7 @@ fonts.voxmedia.com                                      #Font  Specific
 fonts.walmart.com                                       #Font  Specific
 fonts-which-co-uk.s3.amazonaws.com                      #Font  Specific
 fonts.wpcdn.pl                                          #Font  Specific
+fonts.cb-intl.tech                                      #Font  Specific
 fonts.wsj.net                                           #Font  Specific
 fonts.w.tools                                           #Font  Specific
 fonts.ymcart.com                                        #Font  Specific
@@ -118,6 +119,7 @@ nimblefonts.nimbledeals.com                             #Font  Specific
 pstatic09.mgo-images.com                                #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
 terra-1-g.djicdn.com                                    #Font  Specific
+typography.doordash.com                                 #Font  Specific
 webfonts.zohostatic.com                                 #Font  Specific
 webfonts.zohowebstatic.com                              #Font  Specific
 
@@ -263,6 +265,8 @@ truendo.com                                             #Cookie Consent / Contro
 vendors.privacymanager.io                               #Cookie Consent / Control
 webcontentassessor.com                                  #Cookie Consent / Control
 
+doh.dns.apple.com                                       #Alt DNS - Apple (Encrypted)
+doh.dns.apple.com.v.aaplimg.com                         #Alt DNS - Apple (Encrypted)
 chrome.cloudflare-dns.com                               #Alt DNS - Cloudflare
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
 mozilla.cloudflare-dns.com                              #Alt DNS - Cloudflare

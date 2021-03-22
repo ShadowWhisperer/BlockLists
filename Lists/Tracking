@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,446
-# Updated: 3/22/2021  00:31 (12:31 AM CST)
+# Domains: 9,454
+# Updated: 3/22/2021  17:08 (5:08 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1515,7 +1515,6 @@ clickperfect.com
 clickprotects.com
 click.ru
 clicks.net
-clicks.support
 clickstream.events
 clicksure.com
 clicktale.com
@@ -2612,6 +2611,8 @@ experimentation.ca.api.intuit.com
 experimentation.intuit.com
 experimentation.omex.office.net
 experimentation.us.api.intuit.com
+experiment.icloud.com
+experiment-icloud.v.aaplimg.com
 exponea.com
 exposebox.com
 extend.vimeocdn.com
@@ -3393,6 +3394,7 @@ insightrocket.com
 insights.algolia.io
 insights-collector.gog.com
 insights.com
+insights.sitesearch360.com
 insitez.blob.core.windows.net
 inspectlet.com
 instabug.com
@@ -4518,6 +4520,7 @@ newzmate.com
 nexac.com
 nextbigsound.com
 nextclick.co
+nextgencounter.com
 nextgenstats.com
 nextroll.com
 nextsmarty.com
@@ -5678,6 +5681,7 @@ qos1.ol.epicgames.com
 qos2.ol.epicgames.com
 qos3.ol.epicgames.com
 qos4.ol.epicgames.com
+qqjar.ru
 q.quora.com
 qreport.qunar.com
 qsearch-a.akamaihd.net
@@ -6916,6 +6920,7 @@ smetrics.foxnews.com
 smetrics.frontier.com
 smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
+smetrics.kbb.com
 smetrics-merch.bankofamerica.com
 smetrics.nascar.com
 s.metrics.popularwoodworking.com
@@ -7714,6 +7719,7 @@ stats.officeobsession.com
 stats.onenightinthevalley.com
 stats.openvpn.net
 stats-oreg-prod.inbake.com
+stats.our-hometown.com
 stats.pandora.com
 stats.paypal.com
 statsperform.com
@@ -8292,6 +8298,7 @@ telemetry-dce.gfe.nvidia.com
 telemetry.dropbox.com
 telemetry-in.battle.net
 telemetry-incoming.r53-2.services.mozilla.com
+telemetry.malwarebytes.com
 telemetry.microsft.com
 telemetry.microsoft.com
 telemetry.mozilla.org
@@ -8954,6 +8961,7 @@ visit.affymetrix.com
 visit.asb.co.nz
 visitor-analytics.io
 visitor-analytics.net
+visitor.careerbuilder.com
 visitor.fiftyt.com
 visitorqueue.com
 visitors.winecountrygiftbaskets.com
