@@ -1,14 +1,14 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 432
-# Updated: 3/3/2021  00:07 (12:07 AM CST)
+# Domains: 439
+# Updated: 3/23/2021  18:15 (6:15 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-evoke-windowsservices-tas.msedge.net           #App    Candy Crush Saga (Updates)
+fevoke-windowsservices-tas.msedge.net          #App    Candy Crush Saga (Updates)
 cortana.ai                                     #App   Cortana
 extensionwebstorebase.edgesv.net               #App     Edge
 msedge.api.cdp.microsoft.com                   #App     Edge
@@ -108,6 +108,7 @@ tr.teams.microsoft.com                         #Microsoft Teams
 acer17win10.msn.com                            #MSN - Redirects to msn.com
 dell15.msn.com                                 #MSN - Redirects to msn.com
 hp13.us.msn.com                                #MSN - Redirects to msn.com
+hp17win10.msn.com                              #MSN - Redirects to msn.com
 toshiba13.msn.com                              #MSN - Redirects to msn.com
 search.msn.com                                 #MSN - Search
 search.msn.de                                  #MSN - Search
@@ -181,6 +182,10 @@ yammer.com                                     #Yammer
 bg1.v4.a.dl.ws.microsoft.com                   # ? App Store - Window 8
 bg.v4.emdl.ws.microsoft.com                    # ? App Store - Window 8
 
+config.edge.skype.com.trafficmanager.net       #? Edge
+config-edge-skype.l-0014.l-msedge.net          #? Edge
+l-0014.config.skype.com                        #? Edge
+
 cds1204.lon.llnw.net                           # ? Limelight Networks (CDN)
 cds1289.lon.llnw.net                           # ? Limelight Networks (CDN)
 cds1293.lon.llnw.net                           # ? Limelight Networks (CDN)
@@ -246,6 +251,9 @@ substrate.office.com                           # ? Office
 videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
 
+contacts.msn.com                               # ? Hotmail / Outlook - Contacts
+rdr.contacts.msn.com                           # ? Hotmail / Outlook - Contacts
+
 o.xbox.com                                     # ? Tracking (Blank)
 
 amp-test.com                                   # ? On msn.com
@@ -254,6 +262,9 @@ udc.amp-test.com                               # ? On msn.com
 msantispy.com                                  # ? Defunct
 msecn.net                                      # ? Defunct
 msnhome.org                                    # ? Defunct
+
+a-0003.a-msedge.net                            # ? Edge
+config.edge.skype.com                          # ? Edge
 
 activity.windows.com                           # ? Server Sync (According to Microsoft)
 edge.activity.windows.com                      # ? Server Sync (According to Microsoft)
@@ -282,7 +293,6 @@ aad.cs.dds.microsoft.com
 adl.windows.com
 a-ring-fallback.msedge.net
 assets.msn.com
-attachment.outlook.live.net
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
