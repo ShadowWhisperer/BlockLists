@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,464
-# Updated: 3/23/2021  18:15 (6:15 PM CST)
+# Domains: 9,467
+# Updated: 3/24/2021  11:06 (11:06 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1408,6 +1408,7 @@ clcktrax.com
 clck.yandex.ru
 cl-dev.apple.com
 clearbit.com
+clearbitjs.com
 clearcabbage.com
 clearcomb.com
 clear-reports.com
@@ -2884,6 +2885,7 @@ geo.battle.net
 geobytes.com
 geo.cardinalcommerce.com
 geo-chk.prod.snackly.co
+geo.clients.config.office.akadns.net
 geocode.usefomo.com
 geocode.xyz
 geocoding.internetbrands.com
@@ -3622,7 +3624,6 @@ kissmetrics.com
 kitcode.net
 kitesquirrel.com
 kittyaction.com
-klaviyo.com
 klaymediatrk.com
 kmtrak.com
 knotch-cdn.com
@@ -8525,6 +8526,7 @@ trackers.safelinkwireless.com
 tracker.to
 tracker.x-plarium.com
 track-flow.com
+track.freeonespov.com
 track.hubspot.com
 trackier.com
 trackif.com
@@ -8537,6 +8539,7 @@ trackingapi.meinprospekt.de
 tracking-api.softwareadvice.com
 trackingapi.trendemon.com
 trackingcareers.accenture.com
+tracking.chilipiper.com
 tracking.epicgames.com
 tracking.g2crowd.com
 tracking.goodgamestudios.com
