@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,467
-# Updated: 3/24/2021  11:06 (11:06 AM CST)
+# Domains: 9,471
+# Updated: 3/25/2021  00:07 (12:07 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1333,6 +1333,7 @@ check3.tiaabank.com
 checkappexec.microsoft.com
 checkip.5535c7064ae374b5f6c4c7961fa9f147248c28da.com
 checkip.6c4968b42a8baf60d89b2c5631de4683c6bb1054.com
+checkip.amazonaws.com
 checkip.com
 checkip.com.vn
 checkip.dy.fi
@@ -2245,6 +2246,7 @@ doorbrazil.com
 dotaki.com
 dotmetrics.net
 dot-stat.radikal.ru
+dotting.cube.tv
 doubleclick-analytics.com
 doublesmart.digital
 doubtfulrainstorm.com
@@ -2684,6 +2686,7 @@ feedback.manychat.com
 feedback.pornhub.com
 feedback.return2games.com
 feedback.search.microsoft.com
+feedback.sgiggle.com
 feedback.thingtrunk.com
 feedback.windows.com
 feedbackws.fe.apple-dns.net
@@ -7972,6 +7975,7 @@ superficialsquare.com
 superstats.com
 supervisegoldfish.com
 supl.google.com
+support0.bigo.sg
 supportmetrics.apple.com
 surfside.io
 survata.com
