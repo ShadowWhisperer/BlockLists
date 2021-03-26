@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,471
-# Updated: 3/25/2021  00:07 (12:07 AM CST)
+# Domains: 9,477
+# Updated: 3/25/2021  23:12 (11:12 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -95,6 +95,7 @@ a1639.r.akamai.net
 a1.api.bbc.co.uk
 a1.nyt.com
 a1webstats.com
+a.20minutes.fr
 a248.e.akamai.net
 a.24hourfitness.com
 a314.gameloft.com
@@ -2931,6 +2932,7 @@ geo.query.yahoo.com
 geoservice.curse.com
 geo.settings.data.microsoft.com.akadns.net
 geo.seznam.cz
+geostats.ovh
 geotargetly-1a441.appspot.com
 geover-prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
@@ -3468,6 +3470,7 @@ ipecho.net
 iperceptions.com
 ipfind.co
 ipfind.com
+ip.freshmarketer.com
 ip-geo.appspot.com
 ipgeobase.ru
 ipgeolocation.io
@@ -4794,6 +4797,7 @@ onestatfree.com
 onetag.com
 onetag.net
 onionanalytics.com
+online-01.20mn.fr
 online-metrix.net
 onlinesucces.nl
 onlinewebstats.com
@@ -5470,6 +5474,7 @@ pixel.ampry.com
 pixel.anyclip.com
 pixel-api.scupio.com
 pixel.barion.com
+pixel.epik.com
 pixeleze.com
 pixel.facebook.com
 pixel.marketing
@@ -9468,6 +9473,7 @@ zlp6s.pw
 zms.zalando.com
 z-na.associates-amazon.com
 znctrack.net
+zogbyanalytics.com
 zohoinsights.com
 zom.uszometa.com
 zoomanalytics.co
