@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,477
-# Updated: 3/25/2021  23:12 (11:12 PM CST)
+# Domains: 9,515
+# Updated: 3/28/2021  14:53 (2:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -511,6 +511,7 @@ analytics.com
 analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
 analytics.desktopcal.com
+analytics.dx.ohio.gov
 analytics.edgekey.net
 analytics.edgesuite.net
 analytics.edmentum.com
@@ -527,6 +528,7 @@ analytics.go.com
 analytics.google.com
 analytics-ingestion.production-public.tubi.io
 analytics-iq.com
+analytics-js-cdn.liferay.com
 analytics.kurocore.com
 analytics.live.com
 analyticsmarket.com
@@ -547,13 +549,16 @@ analytics.slashdotmedia.com
 analytics.srvnw.com
 analyticsssl.forcepoint.com
 analytics-static.ugc.bazaarvoice.com
+analytics.synchrony.com
 analytics.thehardcorenetwork.com
 analytics.tiktok.com
 analytics-tracking.meetup.com
 analytics.twitter.com
+analyticsvidhya.com
 analytics.visualstudio.com
 analytics.yahoo.com
 analytictech.com
+analyti.uber.space
 anapixel.elmundo.es
 anapixel.expansion.com
 anapixel.marca.com
@@ -950,11 +955,13 @@ beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
+beacon.samsclub.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beaconsinspace.com
 beacons.mediamelon.com
 beacon-v2.helpscout.net
+beacon.walmart.com
 beadbears.com
 beamincrease.com
 beam.remp.stg.online.xl.pt
@@ -1149,6 +1156,7 @@ bustlinganimal.com
 butterbulb.com
 butterburst.com
 buzzdeck.com
+b.wal.co
 b.webmd.com
 b.wishabi.com
 bymtrackinglive.azurewebsites.net
@@ -1507,6 +1515,7 @@ clickcease.com
 clickcertain.com
 click.com
 clickdensity.com
+clickguard.com
 clickiocdn.com
 clickiocdnh.com
 clickmagick.com
@@ -1946,6 +1955,7 @@ d1n00d49gkbray.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
 d1nxn87txdj54y.cloudfront.net
 d1oesr9v7fk227.cloudfront.net
+d1t40axu4ik42k.cloudfront.net
 d1usx49nhcilp7.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
 d1vl8wytztdz.cloudfront.net
@@ -1961,6 +1971,8 @@ d24b4gammzmqzp.cloudfront.net
 d24bnj4f1s1f8m.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
+d26opx5dl8t69i.cloudfront.net
+d26x5ounzdjojj.cloudfront.net
 d2bhklarlhhnvo.cloudfront.net
 d2c7xlmseob604.cloudfront.net
 d2dpiwfhf3tz0r.cloudfront.net
@@ -2446,6 +2458,8 @@ elq.blackrock.com
 elq.sonicwall.com
 elqtrk.morningstar.com
 elqtrk.rsmus.com
+elsevier.com
+elsevier.io
 eltoro.com
 emailmeter.com
 email-reflex.com
@@ -2506,6 +2520,7 @@ epsilon.com
 eqy.link
 erraticreaction.com
 err.joinhoney.com
+errorception.com
 error-collector.ted.com
 errorpilot.com
 errorreports.couponcabin.com
@@ -2746,6 +2761,7 @@ fltag.findlawresources.com
 fltag.findlawresources.com.cdn.cloudflare.net
 flurry.com
 fluxloop.com
+fly.delta.com
 fm.cnbc.com
 fmfmobile.fe.apple-dns.net
 fmip.me.com
@@ -2903,6 +2919,7 @@ geo.emol.cl
 geofilter-compress.storage.googleapis.com
 geofilter.storage.googleapis.com
 geo.geo-svc.com
+geoid.investisdigital.com
 geoip2.livecall.io
 geoipapi.callpage.io
 geoip.fotoable.net
@@ -2955,6 +2972,7 @@ getlocalmeasure.com
 getmetrical.com
 get-myip.com
 getsentry.com
+getshopster.net
 getsidekick.com
 get.smart-data-systems.com
 getsocial.io
@@ -3563,6 +3581,7 @@ joblessdrum.com
 joinmy.site
 jornaya.com
 jp.livelog.nexon.com
+jr.zingnews.vn
 js.b1js.com
 js.chilipiper.com
 jscount.com
@@ -3660,6 +3679,7 @@ ksn-stat-geo.kaspersky-labs.com
 ksn-stat-install.kaspersky-labs.com
 ksn-url-geo.kaspersky-labs.com
 ksn-verdict-geo.kaspersky-labs.com
+ktag.kaxcdn.com
 kwanzoo.com
 l2.io
 lackadaisicalkite.com
@@ -3792,6 +3812,7 @@ loc.sexymilfspics.com
 log16-normal-c-useast1a.tiktokv.com
 log16-normal-c-useast2a.tiktokv.com
 log1.golfrival.net
+log21.makeshop.co.kr
 log2-useast1a.musical.ly
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
@@ -3851,6 +3872,7 @@ log-tb.isnssdk.com
 log-tb.sgsnssdk.com
 log-va.tiktokv.com
 log.v.ssp.yahoo.com
+log.zingnews.vn
 longinglettuce.com
 lookbookhq.com
 looker.com
@@ -3944,6 +3966,7 @@ materialmoon.com
 matheranalytics.com
 mathtag.com
 matomo.cloud
+matomo.iserv.eu
 matomo.org
 matomo.riot.im
 matrix.hbo.com
@@ -4240,6 +4263,8 @@ metrics-now.experian.com
 metrics-processor.kik.com
 metrics-prod.barclaycardus.com
 metrics-pro.schibsted.io
+metrics.readme.io
+metrics.samsclub.com
 metricss.bibliotheek.nl
 metricssecure.empiretoday.com
 metricssecure.empiretoday-commercial.com
@@ -5354,6 +5379,7 @@ pastepot.com
 pastoralcorn.com
 pathfactory.com
 pavlov-prod.healthline.com
+payclick.it
 pbbl.co
 pbcdn1.podbean.com
 p.bm23.com
@@ -5649,6 +5675,7 @@ puffyloss.com
 puffypaste.com
 puffypull.com
 puffypurpose.com
+pulse.delta.com
 pulseinsights.com
 pulsemaps.com
 pulse.svod.aetnd.com
@@ -6840,6 +6867,7 @@ sirdata.com
 sisense.com
 site24x7rum.com
 site2.emarketer.com
+site-analytics.iop.ohio.gov
 sitecatalysts.a-q-f.com
 sitecatalyst.smartsource.com
 sitecatalysts.saisoncard.co.jp
@@ -6869,6 +6897,7 @@ sjremetrics.java.com
 s.justblinds.com
 sjv.io
 sk-analytics.ext.mobilityware.com
+skechers.rfk.skechers.com
 skydeo.com
 skyhook.com
 skyhookwireless.com
@@ -6922,12 +6951,14 @@ smetricsadobe.hollandandbarrett.ie
 smetricsadobe.hollandandbarrett.nl
 smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
+smetrics.carfax.com
 smetrics.cars.com
 smetrics.chrysler.com
 smetrics.cnn.com
 smetrics-cns.panasonic.com
 smetrics.ctv.ca
 smetrics.dandh.com
+smetrics.delta.com
 smetrics.discover.com
 smetrics.fcacert.com
 smetrics.foxbusiness.com
@@ -7698,10 +7729,12 @@ statsapi.screen9.com
 stats.avast.com
 stats.avcdn.net
 stats.avgbrowser.com
+stats.boxtec.ch
 statscloud.lotlinx.com
 statscollector.digital.vistaprint.com
 stats.com
 stats.datawrapper.de
+stats.dealerspike.com
 statse-omtrdc.deka.de
 statse.webtrendslive.com
 statsfe1-df.ws.microsoft.com
@@ -7808,6 +7841,7 @@ stat.su
 stats.unity3d.com
 stats-v2-prod-or-lbj.inbake.com
 stats.vpscash.nl
+stats.webarch.net
 stats.windscribe.com
 stats.wp.com
 statsy.net
@@ -8174,6 +8208,7 @@ sync.colossusssp.com
 sync.tidaltv.com.akadns.net
 sync-usor.tidaltv.com.akadns.net
 syndigo.com
+syndi.webcollage.net
 synerise.com
 synthesio.com
 synthesizespoon.com
@@ -8306,6 +8341,7 @@ teenyvolcano.com
 teethfan.com
 tekblue.net
 telematics.tomtom.com
+telemetrics.klaviyo.com
 telemetry-01.adwc.fr33tux.org
 telemetry-02.adwc.mb.fr33tux.org
 telemetry-03.adwc.mb.fr33tux.org
@@ -8448,6 +8484,7 @@ t.mail.disneydestinations.com
 t.mashable.com
 tm.jsuol.com.br
 tms.capitalone.com
+tms.delta.com
 tms.dmp.wi-fi.ru
 tm.uol.com.br
 tmx.bestbuy.com
@@ -8678,6 +8715,7 @@ trustanalytica.com
 trvl-px.com
 trysera.com
 tryzens-analytics.com
+tr.zam.com
 t-s.allergicasthma.com
 tsa.taxslayer.com
 ts.delfi.ee

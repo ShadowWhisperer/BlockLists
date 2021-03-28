@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
 # Domains: 133
-# Updated: 3/23/2021  18:15 (6:15 PM CST)
+# Updated: 3/28/2021  14:53 (2:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -147,6 +147,13 @@ teste.website                                 #Web Host [HostGator] - Some malwa
 
 taskernet.com                                 #Android [APP]  Tasker - Allows custom scripts to run in the background
 
+cdn.snipr.gg                                  #Hacking Tool: Credential Stuffing Toolkit
+snipr.gg                                      #Hacking Tool: Credential Stuffing Toolkit
+
+godaddysites.com                              #Un-Finished sites - Usually malware (Not always)
+
+api.c99.nl                                    #Can be used as a port scanner
+
 
 
 #  Domains Used On/By Infected Machines  (Potentially)
@@ -157,8 +164,6 @@ taskernet.com                                 #Android [APP]  Tasker - Allows cu
 #        Webscript  =  Run scripts online
 #
 #=====================================================================================================
-#
-
 
 remitly.com                            #Money Transfer  (Seen in Tech Support Scam)
 remitly.io                             #Money Transfer  (Seen in Tech Support Scam)
@@ -173,10 +178,3 @@ webhook.site                           #Webhook
 
 pythonanywhere.com                     #Webscript
 webscript.io                           #Webscript
-
-cdn.snipr.gg                           #Hacking Tool: Credential Stuffing Toolkit
-snipr.gg                               #Hacking Tool: Credential Stuffing Toolkit
-
-godaddysites.com                       #Un-Finished sites - Usually malware (Not always)
-
-api.c99.nl                             #Can be used as a port scanner
