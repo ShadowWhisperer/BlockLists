@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,515
-# Updated: 3/29/2021  10:25 (10:25 AM CST)
+# Domains: 9,522
+# Updated: 3/29/2021  23:02 (11:02 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1409,7 +1409,6 @@ clamcelery.com
 clarice.streema.com
 clar.io
 clarip.com
-claritas.com
 clarity.microsoft.com
 clarity.ms
 clarium.global.ssl.fastly.net
@@ -3829,6 +3828,7 @@ logentries.com
 log.fotoable.com
 logger.baofeng.com
 logger.pw
+logging.admicro.vn
 logging.apache.org
 logging.api.intuit.com
 loggingapi.spingo.com
@@ -5512,6 +5512,7 @@ pixel-static.spotify.com
 pixeltrack.clientgear.com
 pixel-tracker.com
 pixeltracker.im
+pixel.trafficmp.com
 pixel.watch
 pixel.wp.com
 pixelzirkus.gameforge.com
@@ -5755,6 +5756,7 @@ r3.dmtrk.net
 r5-pc-stats.stryder.respawn.com
 r7ls.net
 raasnet.com
+radar.imgsmail.ru
 radarsubmissions.apple.com
 railwayrainstorm.com
 railwayreason.com
@@ -5901,6 +5903,7 @@ reporting.brightcove.com
 reporting.cdndex.io
 reporting.cisco.com
 reporting.cloudcare.avg.com
+reporting.creator-prod.zmags.com
 reporting.ilius.net
 reporting.net
 reporting.singlefeed.com
@@ -7657,6 +7660,7 @@ stack-tracking.corpweb.aws.cudasvc.com
 staging.app-analytics.snapchat.com
 staging-counter.snackly.co
 staging.server-analytics.snapchat.com
+staging-tracker.fyber.com
 s.tagove.com
 stakingscrew.com
 stakingslope.com
@@ -7709,6 +7713,7 @@ static.ws.apsis.one
 statista.com
 statistical-report.djiservice.org
 statistic.ovh
+statistics.aatkit.com
 statistics.ro
 statistics-weblog.gamesamba.com
 statistic.weimobdc.com
@@ -8552,10 +8557,12 @@ tracker-aa.pafbet.lv
 tracker-aa.pafbetscore.lv
 tracker-aa.paf.com
 tracker-aa.paf.es
+tracker.adotmob.com
 trackerads.com
 tracker-api.my.com
 trackerapi.truste.com
 tracker.bang.com
+tracker.bannerflow.com
 tracker.cab
 tracker.com
 tracker.co.uk
