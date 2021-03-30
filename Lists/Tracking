@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,522
-# Updated: 3/29/2021  23:02 (11:02 PM CST)
+# Domains: 9,526
+# Updated: 3/30/2021  16:59 (4:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -805,6 +805,7 @@ at.cbsi.com
 atdmt.com
 a.telenor.se
 a.telus.com
+a.tempurpedic.com
 atgservice.com
 atgsvcs.com
 a.thenewyorkerstore.com
@@ -814,6 +815,7 @@ a.tienda.com
 ati-host.net
 a.tiles.mapbox.com
 atinternet.com
+a.tiscali.co.uk
 atlassbx.com
 atomiclearning.com
 ato.mx
@@ -2936,6 +2938,7 @@ geojs.io
 geolocation.1trust.app
 geolocation.co.jp
 geolocation-db.com
+geolocation.forbes.com
 geolocation.onetrust.com
 geo.mattel163.com
 geomobileservices-pa.googleapis.com
@@ -3802,6 +3805,7 @@ locationservice.mediasearch.verizon.com
 location.services.mozilla.com
 location-services-prd.tesla.com
 location.syn-api.com
+locator.atlasvpn.com
 locator.casio.com
 locator.casio.jp
 locator.itcs.hp.com
