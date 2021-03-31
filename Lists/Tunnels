@@ -1,7 +1,7 @@
 #
 #    File: Tunnels   (VPNs & Proxies)
-# Domains: 354
-# Updated: 3/23/2021  18:15 (6:15 PM CST)
+# Domains: 356
+# Updated: 3/31/2021  10:21 (10:21 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -26,6 +26,7 @@ api.hsselite.com
 api.polargrizzly.com
 api.surfeasy.com
 app.safervpn.com
+atlasvpn.com
 atozproxy.com
 avira-vpn.com
 awhoer.net
@@ -306,6 +307,7 @@ unblockanything.com
 unblockblog.info
 unblocked.llc
 unblockedme.com
+unblocked.vip
 unblocker.net
 unblockit.app
 unblockit.ltd
