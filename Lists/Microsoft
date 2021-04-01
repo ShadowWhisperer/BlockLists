@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 439
-# Updated: 3/23/2021  18:15 (6:15 PM CST)
+# Domains: 440
+# Updated: 4/1/2021  00:24 (12:24 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -117,8 +117,8 @@ client.wns.windows.com                         #Notifications
 skydrive.wns.windows.com                       #Notifications
 wns.windows.com                                #Notifications
 
-aria.microsoft.com                             #Outlook Mobile
-pipe.aria.microsoft.com                        #Outlook Mobile
+aria.microsoft.com                             #Outlook Mobile / Teams / Skype
+pipe.aria.microsoft.com                        #Outlook Mobile / Teams / Skype
 
 ceipmsn.com                                    #SeaPort (Search Enhancement Broker process)
 g.ceipmsn.com                                  #SeaPort (Search Enhancement Broker process)
@@ -185,6 +185,7 @@ bg.v4.emdl.ws.microsoft.com                    # ? App Store - Window 8
 config.edge.skype.com.trafficmanager.net       #? Edge
 config-edge-skype.l-0014.l-msedge.net          #? Edge
 l-0014.config.skype.com                        #? Edge
+spo-msedge.net                                 #? Edge
 
 cds1204.lon.llnw.net                           # ? Limelight Networks (CDN)
 cds1289.lon.llnw.net                           # ? Limelight Networks (CDN)
@@ -247,7 +248,7 @@ officeaka.cloudapp.net                         # ? Office
 officehomeblobs.blob.core.windows.net          # ? Office
 roa-efz.ms-acdc.office.com                     # ? Office
 sfnam.loki.delve.office.com                    # ? Office
-substrate.office.com                           # ? Office
+substrate.office.com                           # ? Office - Might break Outlook Mobile, Sign-in
 videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
 
