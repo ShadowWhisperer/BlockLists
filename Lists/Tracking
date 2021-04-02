@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,526
-# Updated: 3/30/2021  16:59 (4:59 PM CST)
+# Domains: 9,525
+# Updated: 4/2/2021  12:38 (12:38 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2546,7 +2546,6 @@ etrack.ext.hpe.com
 et.resellerratings.com
 etsource.epicgames.com
 eulatracking-public-service-prod06.ol.epicgames.com
-eulatracking-public-service-prod.ak.epicgames.com
 eulatracking-public-service-prod-m.ol.epicgames.com
 eulatracking-public-service-prod.ol.epicgames.com
 eulerian.com
