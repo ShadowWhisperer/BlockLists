@@ -1,16 +1,16 @@
 
-adwcleaner.toolslib.net       #Software - Adwcleaner
-my-win.avast.com              #Software - AVG Activate Free Version
-ping.avast.com                #Software - AVG Install Freezes
-s-nuistatic.avcdn.net         #Software - AVG Website Login
-cache-cms-ext-us.battle.net   #Software - Battle.net (What's New)
-sugarsync.com                 #Software - Cloud Storage
-geolocation.garmin.com        #Software - Garmin Express (Check for map updates)
-mirrors.kodi.tv               #Software - Kodi
-analytics-login.norton.com    #Software - Norton (Won't Login)
-shasta-rrs.symantec.com       #Software - Norton (Won't Scan)
-spclient.wg.spotify.com       #Software - Spotify - Audio
-
+adwcleaner.toolslib.net                            #Software - Adwcleaner
+my-win.avast.com                                   #Software - AVG Activate Free Version
+ping.avast.com                                     #Software - AVG Install Freezes
+s-nuistatic.avcdn.net                              #Software - AVG Website Login
+cache-cms-ext-us.battle.net                        #Software - Battle.net (What's New)
+sugarsync.com                                      #Software - Cloud Storage
+eulatracking-public-service-prod.ak.epicgames.com  #Software - Epic Games (Breaks game downloads)
+geolocation.garmin.com                             #Software - Garmin Express (Check for map updates)
+mirrors.kodi.tv                                    #Software - Kodi
+analytics-login.norton.com                         #Software - Norton (Won't Login)
+shasta-rrs.symantec.com                            #Software - Norton (Won't Scan)
+spclient.wg.spotify.com                            #Software - Spotify - Audio
 lm.licenses.adobe.com                      # Adobe - Activate Software
 sp.auth.adobe.com                          # Adobe - Login Sites
 swupmf.adobe.com                           # Adobe - Updates
@@ -90,6 +90,7 @@ clients6.google.com                        # Google - Drive - Dowload From Brows
 geo0.ggpht.com                             # Google - Earth - Street View
 whp-aus1.cold.extweb.hp.com                # HP: Driver Downloads
 whp-aus2.cold.extweb.hp.com                # HP: Driver Downloads
+oss.hpconnected.com                        # HP: Breaks 'HP Smart' app
 cdn-us-cf2.yottaa.net                      # Images - Brownells
 qoe-1.yottaa.net                           # Images - Brownells
 terra-1-g.djicdn.com                       # Images - DJI
