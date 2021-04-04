@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 729
-# Updated: 3/22/2021  17:08 (5:08 PM CST)
+# Domains: 731
+# Updated: 4/4/2021  01:23 (1:23 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -46,29 +46,30 @@ fonts.gstatic.com                                       #Font  Google
 fonts.googleapis.com                                    #Font  Google
 f.kinja-static.com                                      #Font      Kinja
 myfonts.net                                             #Font  My Fonts
-d1t6urij26il7f.cloudfront.net                           #Font       Font Awesome
-d3s44e87wooplq.cloudfront.net                           #Font       Font Awesome
-fontawesome.com                                         #Font       Font Awesome
-ka-f.fontawesome.com                                    #Font       Font Awesome
-ka-p.fontawesome.com.cdn.cloudflare.net                 #Font       Font Awesome
-ka-p.fontawesome.com                                    #Font       Font Awesome
-kit.fontawesome.com.cdn.cloudflare.net                  #Font       Font Awesome
-kit.fontawesome.com                                     #Font       Font Awesome
-kit-free.fontawesome.com                                #Font       Font Awesome
-kit-pro.fontawesome.com                                 #Font       Font Awesome
-pro.fontawesome.com                                     #Font       Font Awesome
-use.fontawesome.com                                     #Font       Font Awesome
-fontcdn.ir                                              #Font    Font Server
-fontserver.ir                                           #Font    Font Server
-fontstorage.com                                         #Font       FontStorage
-thefontzone.com                                         #Font    The Font Zone
-fortawesome.com                                         #Font  Fort Awesome
-use.fortawesome.com                                     #Font  Fort Awesome
-fonticons.com                                           #Font  Fort Awesome
-d3gur3gjo809sk.cloudfront.net                           #Font      Hoefler & Co. (H&Co)
-code.ionicframework.com                                 #Font  IonIcons
-ionicframework.com                                      #Font  IonIcons
-unicons.iconscout.com                                   #Font      IconScout
+d1t6urij26il7f.cloudfront.net                           #Font      Font Awesome
+d3s44e87wooplq.cloudfront.net                           #Font      Font Awesome
+fontawesome.com                                         #Font      Font Awesome
+ka-f.fontawesome.com                                    #Font      Font Awesome
+ka-p.fontawesome.com.cdn.cloudflare.net                 #Font      Font Awesome
+ka-p.fontawesome.com                                    #Font      Font Awesome
+kit.fontawesome.com.cdn.cloudflare.net                  #Font      Font Awesome
+kit.fontawesome.com                                     #Font      Font Awesome
+kit-free.fontawesome.com                                #Font      Font Awesome
+kit-pro.fontawesome.com                                 #Font      Font Awesome
+pro.fontawesome.com                                     #Font      Font Awesome
+use.fontawesome.com                                     #Font      Font Awesome
+fontcdn.ir                                              #Font  Font Server
+fontserver.ir                                           #Font  Font Server
+fontstorage.com                                         #Font      FontStorage
+thefontzone.com                                         #Font  The Font Zone
+fortawesome.com                                         #Font      Fort Awesome
+use.fortawesome.com                                     #Font      Fort Awesome
+fonticons.com                                           #Font      Fort Awesome
+d3gur3gjo809sk.cloudfront.net                           #Font  Hoefler & Co. (H&Co)
+iconmonstr.com                                          #Font      Icon Monster
+unicons.iconscout.com                                   #Font  IconScout
+code.ionicframework.com                                 #Font      IonIcons
+ionicframework.com                                      #Font      IonIcons
 linearicons.com                                         #Font  LinearIcons
 cdn.linearicons.com                                     #Font  LinearIcons
 fontplus.jp                                             #Font      Font Plus
@@ -118,7 +119,6 @@ media.tdameritrade.com                                  #Font  Specific
 nimblefonts.nimbledeals.com                             #Font  Specific
 pstatic09.mgo-images.com                                #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
-terra-1-g.djicdn.com                                    #Font  Specific
 typography.doordash.com                                 #Font  Specific
 webfonts.zohostatic.com                                 #Font  Specific
 webfonts.zohowebstatic.com                              #Font  Specific
@@ -134,6 +134,7 @@ poll-maker.com                                          #Survey
 riddle.com                                              #Survey
 samplicio.us                                            #Survey
 secure.polldaddy.com                                    #Survey
+survey.app.do                                           #Survey
 survey.io                                               #Survey
 surveyrouter.com                                        #Survey
 tns-gallup.dk                                           #Survey
@@ -542,16 +543,6 @@ mq.dataservices.hp.com                                  #HP
 print-data.houston.hp.com                               #HP
 static.dataservices.hp.com                              #HP
 www-hpcom.glb1.hp.com                                   #HP
-pim.lenovo.com                                          #IBM / Lenovo  Cloud
-mus.lenovo.com.cn                                       #IBM / Lenovo  Updates
-ccg.lenovo.com                                          #IBM / Lenovo
-chifsr.lenovomm.com                                     #IBM / Lenovo
-cms.csw.lenovo.com                                      #IBM / Lenovo
-config.fsr.lenovomm.com                                 #IBM / Lenovo
-laapi.csw.lenovo.com                                    #IBM / Lenovo
-mcn.lenovo.com.cn                                       #IBM / Lenovo
-mcn.lenovo.com                                          #IBM / Lenovo
-mus.lenovo.com                                          #IBM / Lenovo
 graph.instagram.com                                     #Instagram
 api.intelsa.intel.com                                   #Intel   [Software]  Security Assistant
 tkassets.com                                            #Intel   [Software]  True Key
@@ -561,6 +552,17 @@ ekop.intel.com                                          #Intel
 iasbroker.intel.com                                     #Intel
 ias.intel.com                                           #Intel
 secureprotocolengine-test.intel.com                     #Intel
+pim.lenovo.com                                          #Lenovo  Cloud
+api.naea1.uds.lenovo.com                                #Lenovo  ThinkShield ?
+mus.lenovo.com.cn                                       #Lenovo  Updates
+ccg.lenovo.com                                          #Lenovo
+chifsr.lenovomm.com                                     #Lenovo
+cms.csw.lenovo.com                                      #Lenovo
+config.fsr.lenovomm.com                                 #Lenovo
+laapi.csw.lenovo.com                                    #Lenovo
+mcn.lenovo.com.cn                                       #Lenovo
+mcn.lenovo.com                                          #Lenovo
+mus.lenovo.com                                          #Lenovo
 push.prod.netflix.com                                   #Netflix
 anycast.ftl.netflix.com                                 #Netflix  AnyCast
 anycast-t1-c0-noscm.prod.ftl.netflix.com                #Netflix  AnyCast

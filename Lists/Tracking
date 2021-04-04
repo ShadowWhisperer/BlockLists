@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,526
-# Updated: 4/2/2021  13:19 (1:19 PM CST)
+# Domains: 9,522
+# Updated: 4/4/2021  01:23 (1:23 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -405,6 +405,7 @@ aiproxies.com
 a.ipvanish.com
 airbrake.io
 airfind.com
+a.ironpla.net
 airpr.com
 airserve.net
 ai.shutterfly.com
@@ -916,6 +917,7 @@ balancemailbox.com
 balebunsob.com
 balloonbit.com
 balloontexture.com
+bam-x.com
 bandborder.com
 bannertrack.net
 barbarousnerve.com
@@ -2020,6 +2022,7 @@ damageddistance.com
 damdoor.com
 dampdock.com
 dancemistake.com
+danv01ao0kdr2.cloudfront.net
 dap.digitalgov.gov
 dapperdiscussion.com
 dapperfloor.com
@@ -2765,6 +2768,7 @@ fly.delta.com
 fm.cnbc.com
 fmfmobile.fe.apple-dns.net
 fmip.me.com
+fndrsp.net
 foamyfood.com
 forecasttiger.com
 foregoingfowl.com
@@ -2837,6 +2841,7 @@ fullstory.com
 fumblingform.com
 fumblingselection.com
 functionalcrown.com
+fundraiseup.com
 funnyairplane.com
 furnishings.bellacor.com
 furryhorses.com
@@ -3208,7 +3213,6 @@ hit.skrz.cz
 hitslink.com
 hits.puls.lv
 hits-secure.guardian.co.uk
-hits.truehits.in.th
 hittail.com
 hit.uptrendsdata.com
 hitwebcounter.com
@@ -3613,6 +3617,7 @@ justuno.com
 k54nw.pw
 kameleoon.eu
 kampyle.com
+kanaree.io
 kavamediagroup.com
 kctag.net
 keen.io
@@ -3831,7 +3836,6 @@ logentries.com
 log.fotoable.com
 logger.baofeng.com
 logger.pw
-logging.admicro.vn
 logging.apache.org
 logging.api.intuit.com
 loggingapi.spingo.com
@@ -3900,6 +3904,7 @@ lr-ingest.io
 ls.apple.com
 ls-apple.com.akadns.net
 ls.apple.com.akadns.net
+ls.apple.com.edgekey.net
 ls.apple.com.edgesuite.net
 ls.chatid.com
 lt02.net
@@ -4479,6 +4484,7 @@ myip.ru
 myip.sdu.dk
 myip.telespex.com
 myip.yandex.ru
+mykanaree.com
 mylnikov.org
 mylocation.org
 myscoop-tracking.googlecode.com
@@ -4500,6 +4506,7 @@ n-analytics.io
 nanointeractive.com
 nappyattack.com
 narratiive.com
+narrativ.com
 narrative.io
 narvar.com
 native.ai
@@ -4742,7 +4749,6 @@ omns.murdoch.edu.au
 omn.sonypictures.com
 o.movies.com
 om.philly.com
-om.rogersmedia.com
 oms1.sportsnet.ca
 oms.680news.com
 oms.barrons.com
@@ -4784,7 +4790,6 @@ oms.oln.ca
 oms.omnitv.ca
 oms.ottawamatters.com
 oms.penews.com
-oms.rogersmedia.com
 om-ssl.consorsbank.de
 om-ssl.cortalconsors.de
 oms.snnow.ca
@@ -5499,7 +5504,6 @@ pix.cdnwidget.com
 pixel2.combotag.com
 pixel2.realclever.com
 pixel.ad
-pixel.ampry.com
 pixel.anyclip.com
 pixel-api.scupio.com
 pixel.barion.com
@@ -5512,10 +5516,8 @@ pixels.dsp.theadtech.com
 pixel-secure.solvemedia.com
 pixelsmarter.com
 pixel-static.spotify.com
-pixeltrack.clientgear.com
 pixel-tracker.com
 pixeltracker.im
-pixel.trafficmp.com
 pixel.watch
 pixel.wp.com
 pixelzirkus.gameforge.com
@@ -5632,6 +5634,7 @@ prod.telemetry.ros.rockstargames.com
 producecopy.com
 product.dji.com
 production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
+production-na02-puma.demandware.net
 productivepear.com
 prod-uilogger.public.prodsupportsite.a.intuit.com
 profitrumour.com
@@ -5759,7 +5762,6 @@ r3.dmtrk.net
 r5-pc-stats.stryder.respawn.com
 r7ls.net
 raasnet.com
-radar.imgsmail.ru
 radarsubmissions.apple.com
 railwayrainstorm.com
 railwayreason.com
@@ -5906,7 +5908,6 @@ reporting.brightcove.com
 reporting.cdndex.io
 reporting.cisco.com
 reporting.cloudcare.avg.com
-reporting.creator-prod.zmags.com
 reporting.ilius.net
 reporting.net
 reporting.singlefeed.com
@@ -6240,6 +6241,7 @@ s.americanblinds.com
 s.ameriprisestats.com
 samestretch.com
 sametrics.finn.no
+samizdat-graphql.nytimes.com
 sams.manager-lounge.de
 sams.manager-magazin.de
 sams.spiegel.de
@@ -6432,6 +6434,7 @@ secmetrics.schaefer-shop.de
 secmetrics.schaefer-shop.nl
 se-core-pipe.com
 secretivecub.com
+secretsaucepartners.com
 secretspiders.com
 secretturtle.com
 secu.hagertyagent.com
@@ -6751,7 +6754,6 @@ serviceo.xfinity.com
 services.bilsyndication.com
 services.fandom.com
 services.iol.pt
-services.sdiapi.com
 services-ssl.boredpanda.com
 servmetric.com
 servt.vid-play.com
@@ -7313,7 +7315,6 @@ sparklesleet.com
 sparklingnumber.com
 sparkpost.com
 sp.cargurus.com
-spcdn.incartupsell.com
 specialscissors.com
 specialsnake.com
 specialstatement.com
@@ -7619,6 +7620,7 @@ ssmr.sonynetwork.co.jp
 ss.musthird.com
 ss-omtrdc.net
 ssor.platform.californiatimes.com
+sspinc.io
 sstat.3pagen.at
 sstat.3pagen.de
 sstat.detelefoongids.nl
@@ -7663,7 +7665,6 @@ stack-tracking.corpweb.aws.cudasvc.com
 staging.app-analytics.snapchat.com
 staging-counter.snackly.co
 staging.server-analytics.snapchat.com
-staging-tracker.fyber.com
 s.tagove.com
 stakingscrew.com
 stakingslope.com
@@ -7716,7 +7717,6 @@ static.ws.apsis.one
 statista.com
 statistical-report.djiservice.org
 statistic.ovh
-statistics.aatkit.com
 statistics.ro
 statistics-weblog.gamesamba.com
 statistic.weimobdc.com
@@ -7757,7 +7757,6 @@ statsforever.com
 stats.fr
 stats.fw1.biz
 statshop.fr
-stats.hprofits.com
 stats.hqhoneys.com
 stats.ivpn.net
 stats.jizzonmyjugs.com
@@ -8561,15 +8560,14 @@ tracker-aa.pafbet.lv
 tracker-aa.pafbetscore.lv
 tracker-aa.paf.com
 tracker-aa.paf.es
-tracker.adotmob.com
 trackerads.com
 tracker-api.my.com
 trackerapi.truste.com
 tracker.bang.com
-tracker.bannerflow.com
 tracker.cab
 tracker.com
 tracker.co.uk
+tracker.cpmdata.net
 tracker-dot-dfty-optimeeze-leroymerlines.appspot.com
 tracker-dot-dfty-optimeeze-leroymerlinpt.appspot.com
 tracker-dot-optimeeze.appspot.com
@@ -8695,7 +8693,6 @@ tribl.io
 trickycelery.com
 triggeredmail.appspot.com
 trinity.platform.intuit.com
-t.riverhitc.com
 trk.elasticemail.com
 trkme.net
 trkn.us
@@ -8905,6 +8902,7 @@ unwieldyhealth.com
 unwrittenspot.com
 upalytics.com
 updater.appesteem.com
+uplift-platform.com
 up.nytimes.com
 upravel.com
 upscore.com
@@ -9003,7 +9001,6 @@ verticalscope.com
 vertoanalytics.com
 vextras.com
 vhfconfig.cmail20.com
-vice-prod.sdiapi.com
 vida.ontraport.com
 vidcpm.com
 video-analytics.l.google.com
@@ -9427,7 +9424,6 @@ wysistat.com
 wzrkt.com
 x1box-beacons.xumo.com
 xbh.acdsee.com
-x.clearbitjs.com
 xclicks.net
 xdcs-collector.ximalaya.com
 xdrig.com
