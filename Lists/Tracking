@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,522
-# Updated: 4/4/2021  01:23 (1:23 AM CST)
+# Domains: 9,523
+# Updated: 4/4/2021  01:37 (1:37 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2766,6 +2766,7 @@ flurry.com
 fluxloop.com
 fly.delta.com
 fm.cnbc.com
+fmf.fe.apple-dns.net
 fmfmobile.fe.apple-dns.net
 fmip.me.com
 fndrsp.net
