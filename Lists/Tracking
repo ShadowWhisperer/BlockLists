@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,523
-# Updated: 4/4/2021  01:37 (1:37 AM CST)
+# Domains: 9,542
+# Updated: 4/5/2021  22:58 (10:58 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -64,6 +64,7 @@
 3dlivestats.com
 3dstats.com
 3gl.net
+3p-geo.yahoo.com
 3s.sreanalyze.com
 40nuggets.com
 42.219.186.35.bc.googleusercontent.com
@@ -540,7 +541,9 @@ analyticson.ai
 analyticson.com
 analytics.ovh.com
 analytics.pe
+analytics.pinterest.com
 analyticspixel.microsoft.com
+analytics.rbauction.com
 analytics.redbubble.com
 analytics.report
 analytics.revengebucks.com
@@ -998,6 +1001,8 @@ bhcumsc.com
 bidgear.com
 bidr.io
 bidswitch.net
+bigdatacloud.com
+bigdatacloud.net
 bigdataexchange.com
 bilintechnology.com
 billowybead.com
@@ -1586,6 +1591,7 @@ clk.lenovo.com.cn
 clk.medialabel.de
 clk.meetaffiliate.com
 clk.members.fling.com
+clkmg.com
 clk.mikehuckabee.com
 clk.mwave.me
 clk.myiads.com
@@ -2567,6 +2573,7 @@ eventcollector.dditservices.com
 event.havasedge.com
 event-listener.air.tv
 eventlogger.soundcloud.com
+event.msi.com
 event.on24.com
 eventprd10b.on24.com
 events1.avantisvideo.com
@@ -2945,6 +2952,7 @@ geolocation.co.jp
 geolocation-db.com
 geolocation.forbes.com
 geolocation.onetrust.com
+geolocation-recommendations.shopifycloud.com
 geo.mattel163.com
 geomobileservices-pa.googleapis.com
 geo.ngtv.io
@@ -3661,6 +3669,7 @@ kmtrak.com
 knotch-cdn.com
 knotkettle.com
 knottysticks.com
+knowclick.com
 knrpc.olark.com
 kobostats.azurewebsites.net
 kochava.com
@@ -3857,6 +3866,7 @@ logit-us-west-2.prd.api.a.intuit.com
 log-marketing.jp
 logmatic.io
 log-mining-web.makeshop.co.kr
+logmycalls.com
 log.no
 lognormal.net
 log.olark.com
@@ -3886,6 +3896,7 @@ lookbookhq.com
 looker.com
 loop11.com
 loopanalytics.com
+loopclub.io
 l.ooyala.com
 lorenzourban.com
 lost-clientlog.super-chameleon.com
@@ -3975,6 +3986,7 @@ materialmoon.com
 matheranalytics.com
 mathtag.com
 matomo.cloud
+matomo.groovetech.io
 matomo.iserv.eu
 matomo.org
 matomo.riot.im
@@ -5366,6 +5378,7 @@ pamelarandom.com
 p.analytics.orbee.co
 panamplify.com
 panasonic-beacons.xumo.com
+pandoiq.com
 panickycurtain.com
 panickypancake.com
 panoramicbutter.com
@@ -6235,6 +6248,8 @@ sa.hgtv.com
 sailsuit.com
 sa.investigationdiscovery.com
 sales-stats.inkfrog.com
+salesviewer.com
+salesviewer.org
 saleswingsapp.com
 samba.tv
 samc.zkb.ch
@@ -7330,6 +7345,7 @@ spiffymachine.com
 sp.infinigrow.com
 spirebaboon.com
 s.pixsrvcs.com
+splitter.lendingtree.com
 splittingpick.com
 splkmobile.com
 splunkcloud.com
@@ -8694,6 +8710,7 @@ tribl.io
 trickycelery.com
 triggeredmail.appspot.com
 trinity.platform.intuit.com
+trk.careerbliss.com
 trk.elasticemail.com
 trkme.net
 trkn.us
@@ -9052,6 +9069,7 @@ vmstats.varrando.com
 vmweb.net
 vodlog-tracking7.high-cdn.com
 voicefive.com
+voice-of-customers.com
 voices-api.themighty.com
 voicestar.com
 voicevegetable.com
@@ -9496,6 +9514,7 @@ yourip.us
 yoursiteanalytics.com
 yourvip.info
 yourwoo.com
+youwantwork.com
 ysance.com
 y-track.com
 ywxq.net
