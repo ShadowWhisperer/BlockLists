@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,546
-# Updated: 4/6/2021  19:12 (7:12 PM CST)
+# Domains: 9,557
+# Updated: 4/7/2021  00:09 (12:09 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -533,10 +533,12 @@ analytics-iq.com
 analytics-js-cdn.liferay.com
 analytics.kurocore.com
 analytics.live.com
+analytics.madgex.com
 analyticsmarket.com
 analytics.net
 analyticsnew.overwolf.com
 analytics.nextopia.net
+analytics.nova.foxnews.com
 analyticson.ai
 analyticson.com
 analytics.ovh.com
@@ -548,6 +550,7 @@ analytics.redbubble.com
 analytics.report
 analytics.revengebucks.com
 analyticssec.overwolf.com
+analytics-sessions-redirector.cs.madgexhosting.net
 analytics.site123.io
 analytics.slashdotmedia.com
 analytics.srvnw.com
@@ -1294,6 +1297,7 @@ cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
 cdn.threadloom.com
 cdn.ttgtmedia.com.wtxcdn.com
+cdn.virtuoussoftware.com
 cdn.vuukle.com
 cdn.watchingthat.net
 cdnweb.aoscdn.com
@@ -2727,6 +2731,7 @@ fem.femara.com
 fengkongcloud.com
 fertilizeranaemiaupcoming.com
 fervortracer.com
+fe.sitedataprocessing.com
 fg8dgt.com
 fg8dgt.com.s3-website-us-west-2.amazonaws.com
 ficoanalyticcloud.com
@@ -2958,6 +2963,7 @@ geolocation.onetrust.com
 geolocation-recommendations.shopifycloud.com
 geo.mattel163.com
 geomobileservices-pa.googleapis.com
+geo.nbcsports.com
 geo.ngtv.io
 geo.pcmag.com
 geoplugin.net
@@ -4196,6 +4202,7 @@ medialytics.com
 media.mcclatchy.com
 mediametrie.fr
 mediaserver.emol.cl
+media.thestate.com
 mediav.com
 mediavoice.com
 mediawallahscript.com
@@ -6053,6 +6060,7 @@ rptrcks.walmart.com
 rpxnow.com
 rqtrk.eu
 rrss.abc.es
+rs.sinajs.cn
 rssx.hp.com
 rt.360dialog.io
 rta2.metro.co.uk
@@ -8284,6 +8292,7 @@ tag.dickssportinggoods.com
 tag.dtrck.net
 tag.durationmedia.net
 tag.elevaate.io
+tagger.ope.scmp.com
 tag.goldenbees.fr
 taggy.cohesionapps.com
 tag.hariken.co
@@ -8642,6 +8651,7 @@ trackingssl.vivay-broker.be
 trackingssl.yongo.be
 tracking-staging.stylitics.com
 tracking.to
+tracking.univtec.com
 tracking-user-script.s3-ap-northeast-1.amazonaws.com
 tracking-website-prod07-ue-i-1850264459.us-east-1.elb.amazonaws.com
 tracking.wpnetwork.eu
@@ -9069,6 +9079,7 @@ vizio-beacons.xumo.com
 vizio-smartcast-beacons.xumo.com
 vizu.com
 vl.ff.avast.com
+vmrcommunications.com
 vmstats.varrando.com
 vmweb.net
 vodlog-tracking7.high-cdn.com
