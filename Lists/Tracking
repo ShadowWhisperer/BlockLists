@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,557
-# Updated: 4/7/2021  00:09 (12:09 AM CST)
+# Domains: 9,561
+# Updated: 4/7/2021  10:51 (10:51 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1670,6 +1670,7 @@ cognitivlabs.com
 cog-tr1.com
 cog-tr2.com
 collateralanalytics.com
+collectcdn.com
 collect-eu-fy2015.myhomescreen.tv
 collect-eu-fy2016.myhomescreen.tv
 collect-eu-fy2017.myhomescreen.tv
@@ -1772,6 +1773,7 @@ content.api.nytimes.com
 contentinsights.com
 contentiq.com
 contentlockingnetworks.com
+content-publisher-events-p.seccint.com
 contents.com
 contentsquare.com
 contentsquare.net
@@ -2725,6 +2727,7 @@ feedback.windows.com
 feedbackws.fe.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
+feed.cf-se.com
 feed-xml.com
 felix.data.tm-awx.com
 fem.femara.com
@@ -5398,6 +5401,7 @@ paradoxfactor.com
 parall.ax
 parcelcreature.com
 parchedangle.com
+pardot.com
 parrable.com
 parse.ly
 parsely.com
