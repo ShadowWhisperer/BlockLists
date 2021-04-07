@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,542
-# Updated: 4/5/2021  22:58 (10:58 PM CST)
+# Domains: 9,546
+# Updated: 4/6/2021  19:12 (7:12 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1959,6 +1959,7 @@ d1igp3oop3iho5.cloudfront.net
 d1khm0eduvht21.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lax2pddqj38d.cloudfront.net
+d1liekpayvooaz.cloudfront.net
 d1lxhc4jvstzrp.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1n9lkq9g1krc3.cloudfront.net
@@ -2656,6 +2657,8 @@ exuberantsoda.com
 eyeota.com
 eyeota.net
 eyereturn.com
+eyesee-research.com
+eyeseetest.com
 ezeeworld.com
 e.zg-api.com
 ezodn.com
@@ -3764,6 +3767,7 @@ lightboxapi2.azurewebsites.net
 lightboxapi.azurewebsites.net
 lightboxcdn.com
 lightcushion.com
+lightning.cnn.com
 lightning.tcm.com
 lightstep.com
 lightstep.medium.systems
