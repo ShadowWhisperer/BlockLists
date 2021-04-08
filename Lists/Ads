@@ -1,7 +1,7 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 6,630
-# Updated: 4/7/2021  10:51 (10:51 AM CST)
+# Domains: 6,631
+# Updated: 4/7/2021  20:40 (8:40 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -793,6 +793,7 @@ adplatform.httpool.pl
 adplatform.httpool.rs
 adplatform.httpool.ru
 adplatform.httpool.si
+ad.playamedia.com
 adplayer.media
 adplayer.pro
 adplex.co.kr

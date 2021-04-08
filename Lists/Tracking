@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,561
-# Updated: 4/7/2021  10:51 (10:51 AM CST)
+# Domains: 9,564
+# Updated: 4/7/2021  20:40 (8:40 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -864,6 +864,8 @@ a.uso.org
 auth.omoplanet.com
 autocounter.lentainform.com
 autoid.com
+automat-ai.com
+automat-conductor-v2.s3.ca-central-1.amazonaws.com
 automaticflock.com
 automaticside.com
 automation.whatismyip.com
@@ -8830,6 +8832,7 @@ t.sidekickopen69.com
 t.sidekickopen70.com
 ts.istrack.com
 tsm-js.s3.amazonaws.com
+t.sonaughty.com
 t.spike.com
 ts.popsugar.com
 t.svtrd.com
