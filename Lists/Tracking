@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,564
-# Updated: 4/7/2021  20:40 (8:40 PM CST)
+# Domains: 9,578
+# Updated: 4/8/2021  17:01 (5:01 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -335,6 +335,7 @@ adtm.chip.de
 adtmrs.delti.com
 adtm.spreadshirts.net
 adtoniq.io
+adtrack.aanets.com
 adtrack.appcpi.net
 adtracker.network
 adtrackers.net
@@ -523,6 +524,7 @@ analyticsengine.s3.amazonaws.com
 analyticsext.chase.com
 analytics.ff.avast.com
 analytics.fr
+analytics.freemake.com
 analytics.frontkom.io
 analytics.getshogun.com
 analytics.global.sky.com
@@ -674,6 +676,7 @@ api.tiles.mapbox.com
 api.videometrics.ted.com
 api.waldo.toyota.com
 api-webrp-analytics.cloud.toast.com
+apiwmda.58.com.cn
 api.www.s81c.com
 aplan.track.oxone.co.uk
 a.plasticsurgery.org
@@ -2373,6 +2376,7 @@ dtm.urbanoutfitters.com
 dtm.vioc.com
 dtm.wexphotovideo.com
 dtm.zales.com
+d.tnt.com
 dtrck.net
 dtscout.com
 dt.scpge.com
@@ -2907,6 +2911,7 @@ gbl007.com
 gblwebcen.com
 gbxgateway.dell.com
 gd.geobytes.com
+gdl-specs.tnt-digital.com
 gdmconvtrck.com
 gdpr.internetbrands.com
 gdpr-web-logs-prod.privacymanager.io
@@ -2949,6 +2954,7 @@ geoid.investisdigital.com
 geoip2.livecall.io
 geoipapi.callpage.io
 geoip.fotoable.net
+geoip.freemake.com
 geoip.immediatemedia.co.uk
 geoip-js.com
 geo.iplocation.com
@@ -3396,6 +3402,7 @@ infiniteanalytics.com
 infinity-tracking.net
 influ2.com
 info.a7.org
+infoad.tv
 info.afl.com.au
 info.anz.com
 info.anz.com.au
@@ -3925,6 +3932,7 @@ lp3tdqle.com
 lp4.io
 lptag.liveperson.cotcdb.net.livepersonk.akadns.net
 lptag.liveperson.net
+lptracker.io
 lqtrk.com
 lrcontent.com
 lr-ingest.io
@@ -4020,6 +4028,7 @@ mcssl.com
 mcstats.org
 mcstats.spigotmc.org
 mc.yandex.com
+mc.yandex.md
 mc.yandex.ru
 mczbf.com
 mdotlabs.com
@@ -4291,6 +4300,7 @@ metrics.com
 metrics-config.icloud.com
 metrics-dev.adobeprimetime.com
 metrics-dev.schibsted.io
+metrics.freemake.com
 metrics.gr
 metrics.icloud.com
 metrics.io
@@ -5523,6 +5533,7 @@ piwikanalytics.win
 piwik.avm.de
 piwik.documentfoundation.org
 piwik.mopo-server.de
+piwik.opendesktop.org
 piwik.org
 piwik.pro
 piwikpro.com
@@ -7726,6 +7737,7 @@ stat24.meta.ua
 stat2.bollywoodhungama.in
 stat3.airdroid.com
 stat3.bollywoodhungama.in
+stat-58home.58che.com
 stat.adguard.com
 statad.ru
 statcounter.com
@@ -8664,6 +8676,7 @@ tracking.wpnetwork.eu
 trackip.net
 trackjs.com
 trackla.stackla.com
+tracklog.58.com
 track.lt
 trackmytarget.com
 track.net
@@ -9124,6 +9137,7 @@ vs.migente.com
 vs.target.com
 vstats.digitaltrends.com
 vstats.net
+vtrack.com
 vuble.tv
 vue.ai
 vuer.net
