@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,578
-# Updated: 4/8/2021  17:01 (5:01 PM CST)
+# Domains: 9,581
+# Updated: 4/9/2021  21:03 (9:03 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -501,6 +501,7 @@ analytics3.starschina.com
 analytics.amakings.com
 analyticsapi.bsbportal.com
 analytics-api.cloudinary.com
+analytics-api.dvdfab.cn
 analyticsapi.happypancake.net
 analytics.arm.com
 analytics.audioeye.com
@@ -1672,6 +1673,7 @@ code.murdoog.com
 code.randomhouse.com
 cognitiv.ai
 cognitivlabs.com
+cog-tr0.com
 cog-tr1.com
 cog-tr2.com
 collateralanalytics.com
@@ -2019,6 +2021,7 @@ d3e54v103j8qbb.cloudfront.net
 d3ff4r1h05n2rz.cloudfront.net
 d3fxnc8ccjl830.cloudfront.net
 d3haamwmfumm0r.cloudfront.net
+d3in1te4fdays6.cloudfront.net
 d3j1weegxvu8ns.cloudfront.net
 d3jaymjyiads5d.cloudfront.net
 d3ojfshdw1hp8b.cloudfront.net
