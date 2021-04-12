@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,581
-# Updated: 4/9/2021  21:03 (9:03 PM CST)
+# Domains: 9,597
+# Updated: 4/11/2021  23:24 (11:24 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -978,6 +978,7 @@ beaconsinspace.com
 beacons.mediamelon.com
 beacon-v2.helpscout.net
 beacon.walmart.com
+beacon.wikia-services.com
 beadbears.com
 beamincrease.com
 beam.remp.stg.online.xl.pt
@@ -1257,6 +1258,7 @@ ccemails.com
 c.cl.msn.com
 ccmp.eu
 c.coll2onf.com
+ccpa.psg.nexstardigital.net
 c.de.msn.com
 c.dk.msn.com
 cdn1.roadster.com
@@ -1642,7 +1644,6 @@ cloudtrust.rocks
 clrstm.com
 cludo.com
 clustrmaps.com
-cm2.lotlinx.com
 cmon.loc.gov
 cmp.cdn.the-sun.com
 cmp.cdn.thesun.co.uk
@@ -1816,6 +1817,7 @@ count.cnblogs.com
 counter2.blog.livedoor.com
 counter2.freeware.de
 counter4.whocame.ovh
+counter.aws.int.celereapis.com
 counter.cz
 counter.de
 counter.gd
@@ -1838,6 +1840,8 @@ count.rtl.de
 count.rudo.video
 country.yepshare.com
 counts.air.tv
+count-server-js-lb.global.unified-prod.sharethis.net
+count-server.sharethis.com
 count.shein.com
 count.taobao.com
 count-us.rudo.video
@@ -3278,6 +3282,7 @@ hrm-datasolutions.de
 hrzn-nxt.com
 hs-analytics.net
 hsleadflows.net
+httplogserver-lb.global.unified-prod.sharethis.net
 httptrack.com
 hubapi.com
 hubble.mb-cosmos.com
@@ -3457,6 +3462,7 @@ insight.org
 insight.rapid7.com
 insightrocket.com
 insights.algolia.io
+insights.autofi.com
 insights-collector.gog.com
 insights.com
 insights.sitesearch360.com
@@ -3611,6 +3617,7 @@ jadeitite.com
 jamexistence.com
 janrainbackplane.com
 janrain.com
+javelin-analytics.com
 jellyfish.com
 jelly.mdhv.io
 jetlore.com
@@ -3904,6 +3911,7 @@ log-remind-web.makeshop.co.kr
 logrocket.com
 logrocket.io
 logs-api.shoprunner.com
+logs.autofi.com
 logsink.zedge.net
 log.snow.me
 logs.openbank.com
@@ -3927,6 +3935,7 @@ lorenzourban.com
 lost-clientlog.super-chameleon.com
 lotadata.com
 lotame.com
+lotlinx.com
 loudlunch.com
 lovelydrum.com
 lowlocket.com
@@ -6770,6 +6779,7 @@ seemlysociety.com
 segment.com
 segment.intuitcdn.net
 segment.io
+segment.psg.nexstardigital.net
 segmetrics.io
 selectionship.com
 selectivesummer.com
@@ -7024,6 +7034,7 @@ smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
 smetrics.kbb.com
 smetrics-merch.bankofamerica.com
+smetrics.motortrend.com
 smetrics.nascar.com
 s.metrics.popularwoodworking.com
 s.metrics.quiltingcompany.com
@@ -7779,6 +7790,7 @@ stat.pl
 stat-pulse.com
 stat-rock.com
 stats01.20min.ch
+stats1.wpmudev.com
 stats1x1.kapaza.be
 stats2.com
 statsa.nativeroll.tv
@@ -7788,7 +7800,6 @@ stats.avast.com
 stats.avcdn.net
 stats.avgbrowser.com
 stats.boxtec.ch
-statscloud.lotlinx.com
 statscollector.digital.vistaprint.com
 stats.com
 stats.datawrapper.de
@@ -7816,6 +7827,7 @@ stats.mbamupdates.com
 stats.mennetworkcash.com
 stats.mofossupport.com
 statsmp2.emol.com
+stats.myminifactory.com
 stats.nerdpress.net
 stats.net
 stats-newyork1.bloxcms.com
@@ -7901,6 +7913,7 @@ stats.vpscash.nl
 stats.webarch.net
 stats.windscribe.com
 stats.wp.com
+stats.wpmucdn.com
 statsy.net
 stat-track.com
 statuesquebrush.com
@@ -8612,6 +8625,7 @@ tracker-aa.pafbetscore.lv
 tracker-aa.paf.com
 tracker-aa.paf.es
 trackerads.com
+tracker.affirm.com
 tracker-api.my.com
 trackerapi.truste.com
 tracker.bang.com
@@ -8648,7 +8662,9 @@ trackingcareers.accenture.com
 tracking.chilipiper.com
 tracking.epicgames.com
 tracking.g2crowd.com
+tracking.godatafeed.com
 tracking.goodgamestudios.com
+tracking.imspublishergroup.com
 tracking.markethero.io
 tracking.my
 tracking.newshub.co.uk
