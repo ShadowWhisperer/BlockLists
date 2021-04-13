@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,597
-# Updated: 4/11/2021  23:24 (11:24 PM CST)
+# Domains: 9,599
+# Updated: 4/12/2021  20:30 (8:30 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -564,6 +564,7 @@ analytics.thehardcorenetwork.com
 analytics.tiktok.com
 analytics-tracking.meetup.com
 analytics.twitter.com
+analytics-usf.hotyon.com
 analyticsvidhya.com
 analytics.visualstudio.com
 analytics.yahoo.com
@@ -2853,6 +2854,7 @@ freelogs.com
 freespee.com
 freestats.com
 freestats.net
+freevisitorcounters.com
 freshrelevance.com
 freshsales.io
 fresnel-events.vimeocdn.com
