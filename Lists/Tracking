@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,607
-# Updated: 4/13/2021  19:07 (7:07 PM CST)
+# Domains: 9,609
+# Updated: 4/14/2021  11:10 (11:10 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -666,6 +666,7 @@ api.peers.tv
 api.perzonalization.com
 api.pxl.dailymotion.com
 api.reelgood.com
+api.reftagger.com
 api-rest.analytics.nexonm.com
 api.ringlead.com
 api.sail-personalize.com
@@ -8664,6 +8665,7 @@ tracking-1611167402.us-east-1.elb.amazonaws.com
 tracking1.questdiagnostics.com
 tracking202.com
 tracking2.avalanchestudios.com
+tracking-api.bmw.com
 trackingapi.kaufda.de
 trackingapi.meinprospekt.de
 tracking-api.softwareadvice.com
