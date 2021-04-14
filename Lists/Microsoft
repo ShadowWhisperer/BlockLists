@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 440
-# Updated: 4/1/2021  00:24 (12:24 AM CST)
+# Domains: 441
+# Updated: 4/13/2021  19:07 (7:07 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -280,6 +280,7 @@ fp-afd.azureedge.net                           #Azure
 fp-vp.azureedge.net                            #Azure
 fp-vs.azureedge.net                            #Azure
 greenid-prod.westus2.cloudapp.azure.com        #Azure
+microsoftazurelogicapps.net                    #Azure
 msftspeechmodelsprod.azureedge.net             #Azure
 odinvzc.azureedge.net                          #Azure
 onecs-live.azureedge.net                       #Azure

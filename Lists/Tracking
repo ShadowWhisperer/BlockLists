@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,599
-# Updated: 4/12/2021  20:30 (8:30 PM CST)
+# Domains: 9,607
+# Updated: 4/13/2021  19:07 (7:07 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -514,6 +514,7 @@ analytics.clickdimensions.com
 analytics.com
 analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
+analytics.dena.com
 analytics.desktopcal.com
 analytics.dx.ohio.gov
 analytics.edgekey.net
@@ -523,6 +524,7 @@ analytics-egain.com
 analytics-engine.com
 analyticsengine.s3.amazonaws.com
 analyticsext.chase.com
+analytics.fbgcdn.com
 analytics.ff.avast.com
 analytics.fr
 analytics.freemake.com
@@ -554,6 +556,7 @@ analytics.report
 analytics.revengebucks.com
 analyticssec.overwolf.com
 analytics-sessions-redirector.cs.madgexhosting.net
+analytics.shoptimize.in
 analytics.site123.io
 analytics.slashdotmedia.com
 analytics.srvnw.com
@@ -1964,6 +1967,7 @@ c.za.msn.com
 d10lpsik1i8c69.cloudfront.net
 d1564fddzjmdj5.cloudfront.net
 d16i0l5qhf2h7o.cloudfront.net
+d16xpr36wrmcmk.cloudfront.net
 d174f84q5mcorf.cloudfront.net
 d1aqhv4sn5kxtx.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
@@ -2636,6 +2640,7 @@ event.webcollage.net
 everestjs.net
 everesttech.net
 evergage.com
+eversys-telemetry.ch
 evgnet.com
 evidon.com
 evisitanalyst.com
@@ -3421,6 +3426,7 @@ info.justwatch.com
 info.lexipol.com
 info.m.seek.com.au
 infonline.de
+infopro-insight.com
 informamarkets.com
 informatica.com
 informengine.com
@@ -5622,6 +5628,7 @@ polaris.xfinity.com
 politegoldfish.com
 polling.bbc.co.uk
 poll.push-na.fsapi.com
+pollster.pl
 polyfill.io
 popcon.ubuntu.com
 popcornmetrics.com
@@ -8398,6 +8405,7 @@ t.cfjump.com
 tc-log.mattel163.com
 tctm.co
 t.dailymail.co.uk
+tdg-analytics.io
 tdn.r42tag.com
 tdzvm.pw
 tealeaf.ibmcloud.com
