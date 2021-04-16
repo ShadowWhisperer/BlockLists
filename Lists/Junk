@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 451
-# Updated: 4/15/2021  00:24 (12:24 AM CST)
+# Domains: 453
+# Updated: 4/15/2021  22:15 (10:15 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -83,6 +83,7 @@ startbeurs.be                                        #Bookmark Site
 startbeurs.nl                                        #Bookmark Site
 startbewijs.be                                       #Bookmark Site
 startbewijs.nl                                       #Bookmark Site
+startclub.be                                         #Bookmark Site
 startclub.nl                                         #Bookmark Site
 startje.be                                           #Bookmark Site
 startje.com                                          #Bookmark Site
@@ -215,27 +216,28 @@ techsmith.com                                        #Screen Recorder
 updater.techsmith.com                                #Screen Recorder
 wgu.hosted.panopto.com                               #Screen Recorder
 
-amemv.com                                            # Company - Beijing Bytedance Network Technology Co. - TikTok
-bytecdn.cn                                           # Company - Beijing Bytedance Network Technology Co. - TikTok
-bytedanceapi.com                                     # Company - Beijing Bytedance Network Technology Co. - TikTok
-bytedance.com                                        # Company - Beijing Bytedance Network Technology Co. - TikTok
-byteimg.com                                          # Company - Beijing Bytedance Network Technology Co. - TikTok
-byteoversea.com                                      # Company - Beijing Bytedance Network Technology Co. - TikTok
-byteoversea.net                                      # Company - Beijing Bytedance Network Technology Co. - TikTok
-douyin.com                                           # Company - Beijing Bytedance Network Technology Co. - TikTok
-p16-tiktokcdn-com.akamaized.net                      # Company - Beijing Bytedance Network Technology Co. - TikTok
-sgpstatp.com                                         # Company - Beijing Bytedance Network Technology Co. - TikTok
-tiktokcdn.com                                        # Company - Beijing Bytedance Network Technology Co. - TikTok
-tiktokcdn-in.com                                     # Company - Beijing Bytedance Network Technology Co. - TikTok
-tiktok.com.c.footprint.net                           # Company - Beijing Bytedance Network Technology Co. - TikTok
-tiktok.com                                           # Company - Beijing Bytedance Network Technology Co. - TikTok
-tiktokv.com                                          # Company - Beijing Bytedance Network Technology Co. - TikTok
-v16-tiktokcdn-com.akamaized.net                      # Company - Beijing Bytedance Network Technology Co. - TikTok
-ibytedtos.com                                        # Company - Lemon, Inc. - TikTok
-isnssdk.com                                          # Company - Lemon, Inc. - TikTok
-muscdn.com                                           # Company - Lemon, Inc. - TikTok
-musical.ly                                           # Company - Lemon, Inc. - TikTok
-sgsnssdk.com                                         # Company - Lemon, Inc. - TikTok
+amemv.com                                            #Company - Beijing Bytedance Network Technology Co. - TikTok
+bytecdn.cn                                           #Company - Beijing Bytedance Network Technology Co. - TikTok
+bytedanceapi.com                                     #Company - Beijing Bytedance Network Technology Co. - TikTok
+bytedance.com                                        #Company - Beijing Bytedance Network Technology Co. - TikTok
+bytedns.net                                          #Company - Beijing Bytedance Network Technology Co. - TikTok
+byteimg.com                                          #Company - Beijing Bytedance Network Technology Co. - TikTok
+byteoversea.com                                      #Company - Beijing Bytedance Network Technology Co. - TikTok
+byteoversea.net                                      #Company - Beijing Bytedance Network Technology Co. - TikTok
+douyin.com                                           #Company - Beijing Bytedance Network Technology Co. - TikTok
+p16-tiktokcdn-com.akamaized.net                      #Company - Beijing Bytedance Network Technology Co. - TikTok
+sgpstatp.com                                         #Company - Beijing Bytedance Network Technology Co. - TikTok
+tiktokcdn.com                                        #Company - Beijing Bytedance Network Technology Co. - TikTok
+tiktokcdn-in.com                                     #Company - Beijing Bytedance Network Technology Co. - TikTok
+tiktok.com.c.footprint.net                           #Company - Beijing Bytedance Network Technology Co. - TikTok
+tiktok.com                                           #Company - Beijing Bytedance Network Technology Co. - TikTok
+tiktokv.com                                          #Company - Beijing Bytedance Network Technology Co. - TikTok
+v16-tiktokcdn-com.akamaized.net                      #Company - Beijing Bytedance Network Technology Co. - TikTok
+ibytedtos.com                                        #Company - Lemon, Inc. - TikTok
+isnssdk.com                                          #Company - Lemon, Inc. - TikTok
+muscdn.com                                           #Company - Lemon, Inc. - TikTok
+musical.ly                                           #Company - Lemon, Inc. - TikTok
+sgsnssdk.com                                         #Company - Lemon, Inc. - TikTok
 
 admuncher.com                                        #Software - AdMuncher
 appsgeyser.com                                       #Software - AppsGeyser  (App Creator)
