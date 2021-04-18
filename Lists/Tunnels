@@ -1,7 +1,7 @@
 #
 #    File: Tunnels   (VPNs & Proxies)
-# Domains: 356
-# Updated: 3/31/2021  10:21 (10:21 AM CST)
+# Domains: 360
+# Updated: 4/17/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -166,6 +166,7 @@ miniprox.com
 movieproxy.com
 msc.mcafee.com
 mtr-ca.prcdn.net
+mullvad.net
 myip.io
 my-proxy.com
 myproxysite.org
@@ -310,6 +311,8 @@ unblockedme.com
 unblocked.vip
 unblocker.net
 unblockit.app
+unblockit.club
+unblockit.link
 unblockit.ltd
 unblock-me.org
 unblock-proxy.com
@@ -323,6 +326,7 @@ unrestrict.me
 usa-proxy.org
 usawebproxy.com
 usawebproxy.net
+userload.co
 vload.net
 vobas.com
 vpernet.com

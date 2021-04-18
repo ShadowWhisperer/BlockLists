@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 133
-# Updated: 3/28/2021  14:53 (2:53 PM CST)
+# Domains: 135
+# Updated: 4/17/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -142,6 +142,8 @@ shortcm.li                                    #URL Shortener
 short.cm                                      #URL Shortener
 shorte.st                                     #URL Shortener
 short.io                                      #URL Shortener
+sh.st                                         #URL Shortener
+shurl.be                                      #URL Shortener
 
 teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
 
