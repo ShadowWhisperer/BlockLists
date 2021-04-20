@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 441
-# Updated: 4/13/2021  19:07 (7:07 PM CST)
+# Domains: 443
+# Updated: 4/20/2021  18:46 (6:46 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -103,6 +103,7 @@ config.teams.microsoft.com                     #Microsoft Teams
 cxcs.microsoft.net                             #Microsoft Teams
 statics.teams.cdn.office.net                   #Microsoft Teams
 teams.microsoft.com                            #Microsoft Teams
+teams.microsoft.us                             #Microsoft Teams
 tr.teams.microsoft.com                         #Microsoft Teams
 
 acer17win10.msn.com                            #MSN - Redirects to msn.com
@@ -281,6 +282,7 @@ fp-vp.azureedge.net                            #Azure
 fp-vs.azureedge.net                            #Azure
 greenid-prod.westus2.cloudapp.azure.com        #Azure
 microsoftazurelogicapps.net                    #Azure
+microsoftazurelogicapps.us                     #Azure
 msftspeechmodelsprod.azureedge.net             #Azure
 odinvzc.azureedge.net                          #Azure
 onecs-live.azureedge.net                       #Azure
