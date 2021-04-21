@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,636
-# Updated: 4/17/2021  23:51 (11:51 PM CST)
+# Domains: 9,648
+# Updated: 4/20/2021  21:55 (9:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -553,6 +553,7 @@ analytics.ovh.com
 analytics.pe
 analytics.pinterest.com
 analyticspixel.microsoft.com
+analytics.pubninja.com
 analytics.rbauction.com
 analytics.redbubble.com
 analytics.report
@@ -1781,7 +1782,9 @@ content.api.nytimes.com
 contentinsights.com
 contentiq.com
 contentlockingnetworks.com
+contently.com
 content.marks.com
+contentmaximiser.com
 content.partycity.ca
 content-publisher-events-p.seccint.com
 contents.com
@@ -1838,6 +1841,7 @@ countess.twitch.tv
 count.ly
 count.prx.org
 count.rin.ru
+count.romwe.com
 count.rtl.de
 count.rudo.video
 country.yepshare.com
@@ -2926,6 +2930,7 @@ gaug.es
 gbl007.com
 gblwebcen.com
 gbxgateway.dell.com
+gc.newsweek.com
 gd.geobytes.com
 gdl-specs.tnt-digital.com
 gdmconvtrck.com
@@ -5552,6 +5557,7 @@ pingsl.avast.com
 ping.ublock.org
 ping.ui.com
 pinkaanalytics.eu-2.evennode.com
+pinoculars.com
 pinpointpotato.com
 pin-river.data.ea.com
 pinsightmedia.com
@@ -5927,6 +5933,7 @@ reevoo.com
 ref.dealerinspire.com
 refer.2ndswing.com
 referdriving.com
+referralfetch.herokuapp.com
 referrer.disqus.com
 refinedlabs.com
 reflectivereward.com
@@ -6026,6 +6033,7 @@ re.stjude.org
 resu.io
 resulticks.com
 resultsmedia.com
+retargetapp.com
 retargeter.com
 retargetly.com
 retargettracker.com
@@ -6827,6 +6835,7 @@ sensic.net
 sensor.highdegree.io
 sensors.cloud.tencent.com
 sensorsdata.cn
+sensorslink.olighthk.com
 sensors.snaptube.app
 sentifi.com
 sentry-cdn.com
@@ -7858,6 +7867,7 @@ statsmp2.emol.com
 stats.myminifactory.com
 stats.nerdpress.net
 stats.net
+stats.newsweek.com
 stats-newyork1.bloxcms.com
 stats.norton.com
 stats.nutaku.com
@@ -8644,6 +8654,7 @@ trackad.cz
 track.addevent.com
 trackadm.com
 trackalyzer.com
+track-api.klickly.com
 track-bremen.de
 trackcmp.net
 trackcn.dolphin-browser.com
@@ -8730,6 +8741,7 @@ tracking-website-prod07-ue-i-1850264459.us-east-1.elb.amazonaws.com
 tracking.wpnetwork.eu
 trackip.net
 trackjs.com
+track.klickly.com
 trackla.stackla.com
 tracklog.58.com
 track.lt
