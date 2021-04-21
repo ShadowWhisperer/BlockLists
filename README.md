@@ -14,7 +14,7 @@
     Microsoft        Apps, Bing, Bloat, Tiles, etc  
     Remote           Domains used for remote sessions  
     Risk             Worst ISP Bots/Spam, Keyloggers, URL Shortener, Used by compromised devices
-    Scam             Fake freight, tech support, gift cards, sales, products, news, etc    
+    Scam             Fake freight, gift cards, products, support, pets sales, news, etc    
     Shock            Gore, Gross, Torture, Race/Gender Superiority  
     Top_Level        Top Level Domains. Sorted by Continent, then by country
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
