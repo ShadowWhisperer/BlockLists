@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 443
-# Updated: 4/20/2021  18:46 (6:46 PM CST)
+# Domains: 441
+# Updated: 4/22/2021  14:24 (2:24 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -164,7 +164,6 @@ cdf-anon.xboxlive.com.edgekey.net              #Xbox
 cdf-anon.xboxlive.com                          #Xbox
 cloudcollection-ssl.xboxlive.com               #Xbox
 compass-ssl.xboxlive.com                       #Xbox
-controllers.xbox.com                           #Xbox
 data.xboxlive.com                              #Xbox
 da.xboxservices.com                            #Xbox - Microsfot Edge ?  (Microsoft Docs)
 settings-ssl.xboxlive.com                      #Xbox
@@ -329,7 +328,6 @@ compatexchange.cloudapp.net
 connect.microsoft.com
 continuum.dds.microsoft.com
 contoso.com
-controls.cp.account.microsoft.com.akadns.net
 corpext.msitadfs.glbdns2.microsoft.com
 corp.sts.microsoft.com
 c-ring.msedge.net

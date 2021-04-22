@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 453
-# Updated: 4/15/2021  22:15 (10:15 PM CST)
+# Domains: 452
+# Updated: 4/22/2021  14:24 (2:24 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -452,7 +452,6 @@ au.search.yahoo.com                                  #Search Engine   Yahoo
 search.yahoo.com                                     #Search Engine   Yahoo
 us.search.yahoo.com                                  #Search Engine   Yahoo
 copernicus-software.stores.yahoo.net                 #Search Engine   Yahoo
-search.zonealarm.com                                 #Search Engine   ZoneAlarm (Safe Search)
 
 hi5.com                                              #Social Media (Contains Adult Sites)
 
