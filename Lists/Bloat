@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 731
-# Updated: 4/4/2021  01:23 (1:23 AM CST)
+# Domains: 738
+# Updated: 4/23/2021  00:53 (12:53 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -37,6 +37,7 @@ edgefonts.net                                           #Font  Adobe
 fonts.adobe.com                                         #Font  Adobe
 typekit.com                                             #Font  Adobe
 typekit.net                                             #Font  Adobe
+use.typekit.net                                         #Font  Adobe
 fonts.com                                               #Font      Fonts.com
 fonts.net                                               #Font      Fonts.net
 fontastic.me                                            #Font  Fontastic.me
@@ -70,6 +71,7 @@ iconmonstr.com                                          #Font      Icon Monster
 unicons.iconscout.com                                   #Font  IconScout
 code.ionicframework.com                                 #Font      IonIcons
 ionicframework.com                                      #Font      IonIcons
+fontlibrary.org                                         #Font Library
 linearicons.com                                         #Font  LinearIcons
 cdn.linearicons.com                                     #Font  LinearIcons
 fontplus.jp                                             #Font      Font Plus
@@ -104,11 +106,11 @@ fonts_rysvarm.storage.googleapis.com                    #Font  Specific
 fonts.sidearmsports.com                                 #Font  Specific
 fonts.sony.net                                          #Font  Specific
 fonts.staticworld.net                                   #Font  Specific
+fonts.cb-intl.tech                                      #Font  Specific
 fonts.voxmedia.com                                      #Font  Specific
 fonts.walmart.com                                       #Font  Specific
 fonts-which-co-uk.s3.amazonaws.com                      #Font  Specific
 fonts.wpcdn.pl                                          #Font  Specific
-fonts.cb-intl.tech                                      #Font  Specific
 fonts.wsj.net                                           #Font  Specific
 fonts.w.tools                                           #Font  Specific
 fonts.ymcart.com                                        #Font  Specific
@@ -119,6 +121,7 @@ media.tdameritrade.com                                  #Font  Specific
 nimblefonts.nimbledeals.com                             #Font  Specific
 pstatic09.mgo-images.com                                #Font  Specific
 static-web-assets.gnl-common.bbcverticals.com           #Font  Specific
+typeface.nytimes.com                                    #Font  Specific
 typography.doordash.com                                 #Font  Specific
 webfonts.zohostatic.com                                 #Font  Specific
 webfonts.zohowebstatic.com                              #Font  Specific
@@ -127,6 +130,7 @@ brazzerssurvey.com                                      #Survey
 clixsense.com                                           #Survey
 inmoment.com                                            #Survey
 lb.polldaddy.com                                        #Survey
+oneopinion.com                                          #Survey
 opinionbar.com                                          #Survey
 polldaddy.com                                           #Survey
 poll.fm                                                 #Survey
@@ -640,6 +644,9 @@ td.airdroid.com                                         #Android  [App]   AirDro
 uc-file.airdroid.com                                    #Android  [App]   AirDroid
 web.airdroid.com                                        #Android  [App]   AirDroid
 dolphin-browser.com                                     #Android  [App]   Dolphin Browser
+applications.mobisystems.com                            #Android  [App]   File Commander
+cfg.mobisystems.com                                     #Android  [App]   File Commander
+connect.mobisystems.com                                 #Android  [App]   File Commander
 androidapi.mxplay.com                                   #Android  [App]   MXplayer
 androidc.mxplay.com                                     #Android  [App]   MXplayer
 clmbtech.com                                            #Android  [App]   MXplayer

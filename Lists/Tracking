@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,674
-# Updated: 4/22/2021  21:04 (9:04 PM CST)
+# Domains: 9,678
+# Updated: 4/23/2021  00:53 (12:53 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2688,6 +2688,7 @@ experimentation.omex.office.net
 experimentation.us.api.intuit.com
 experiment.icloud.com
 experiment-icloud.v.aaplimg.com
+experiments-prod-us.occa.ocs.oraclecloud.com
 exponea.com
 exposebox.com
 extend.vimeocdn.com
@@ -3665,6 +3666,7 @@ jornaya.com
 jp.livelog.nexon.com
 jr.zingnews.vn
 js.b1js.com
+js.bronto.com
 js.chilipiper.com
 jscount.com
 js.data.cctv.com
@@ -4066,6 +4068,7 @@ matrix.hbo.com
 mautic.net
 mavenaudiences.com
 mavic852.com
+maw.bronto.com
 mawlaybob.com
 maxmind.com
 maxxxhits.com
@@ -5930,6 +5933,7 @@ recorder.marketingcloudfx.com
 recovermycart.com
 rec.quartic.pl
 recruiting-analytics.de
+recs.occa.us-phoenix-1.ocs.oraclecloud.com
 recv-wd.gridsumdissector.com
 redintelligence.net
 redirect.fxcm.com
