@@ -41,7 +41,7 @@ _Free_, _Junk_, and _Marketing*_ may break some sites.
 [Sucuri Site Check](https://sitecheck.sucuri.net/)  
 [VirusTotal](https://www.virustotal.com/gui/home/url)  
   
-[SSL Lookup](https://www.ultratools.com/tools/sslExam)  
+[SSL Lookup](https://mxtoolbox.com/HTTPSLookup.aspx)  
 [Whois](https://www.whois.com/whois/)  
   
 [Spamhaus Statistics](https://www.spamhaus.org/statistics/countries/)  
