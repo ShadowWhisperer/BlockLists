@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,648
-# Updated: 4/20/2021  21:55 (9:55 PM CST)
+# Domains: 9,674
+# Updated: 4/22/2021  21:04 (9:04 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -322,6 +322,7 @@ adsmeans.com
 adsmeasurement.com
 adsonar.com
 adspect.ai
+adsquare.com
 adstat.4u.pl
 adstracker.appsgeyser.com
 adtarget.me
@@ -424,6 +425,7 @@ a.knowledgeadventure.com
 akro.io
 ak.sail-horizon.com
 akstat.io
+aktivbo.com
 a.lawcatalog.com
 a.law.com
 albacross.com
@@ -501,6 +503,7 @@ analytics2.dispatch.co.kr
 analytics33.techsmith.com
 analytics3.dopool.com
 analytics3.starschina.com
+analytics.adultempire.com
 analytics.amakings.com
 analyticsapi.bsbportal.com
 analytics-api.cloudinary.com
@@ -553,6 +556,7 @@ analytics.ovh.com
 analytics.pe
 analytics.pinterest.com
 analyticspixel.microsoft.com
+analytics.pubnative.io
 analytics.pubninja.com
 analytics.rbauction.com
 analytics.redbubble.com
@@ -1097,6 +1101,7 @@ brat-online.ro
 bravebone.com
 bravecalculator.com
 breakfastboat.com
+brennus-analytics.com
 briefbears.com
 briefstem.com
 brightedge.com
@@ -1775,7 +1780,9 @@ consent.app.cookieinformation.com
 consistpotato.com
 consumertrack.com
 contactpigeon.com
+contadorvisitasgratis.com
 contadorwap.com
+contatoreaccessi.com
 content21.snapfinance.com
 contentanalyticsinc.com
 content.api.nytimes.com
@@ -1791,6 +1798,7 @@ contents.com
 contentsquare.com
 contentsquare.net
 context.bestbuy.com
+contify.com
 controlswim.com
 contxtful.com
 conversionlogic.net
@@ -1819,6 +1827,7 @@ corus.ytv.com
 cosmosjackson.com
 costplus-world.baynote.net
 count.cnblogs.com
+counter1.fcs.ovh
 counter2.blog.livedoor.com
 counter2.freeware.de
 counter4.whocame.ovh
@@ -2509,6 +2518,7 @@ emailmeter.com
 email-reflex.com
 email-view.com
 emark.com
+emarketer.com
 e-mark.nl
 ematicsolutions.com
 embeddedanalytics.com
@@ -2943,6 +2953,7 @@ generaltracking.de
 genesis.malwarebytes.com
 genius.drivecentric.com
 geniussports.com
+gentags.net
 geo1.ggpht.com
 geo1.presslabs.net
 geo2.adobe.com
@@ -3339,6 +3350,7 @@ icebergindigo.com
 ichnaea.netflix.com
 i.clean.gg
 icptrack.com
+ida-analytics.de
 id.aftenbladet.no
 idealspot.com
 identity.prod.platform.ext.mobilityware.com
@@ -3475,6 +3487,7 @@ inquisitiveinvention.com
 insanetrack.com
 insert.io
 inside-graph.com
+insiderintelligence.us
 insight-1616140656.us-west-2.elb.amazonaws.com
 insightfirst.com
 insight.gm
@@ -4399,6 +4412,7 @@ mixpanel.com
 mktsci.com
 ml314.com
 mlabs.no
+mlog.bigda.com
 m-metrics.capitalone.com
 mmetrics.com
 mms.cnn.com
@@ -6071,6 +6085,7 @@ ritorno.ru
 ritzykey.com
 river.data.ea.com
 river-mobile.data.ea.com
+rjmetrics.com
 rkdms.com
 rlcdn.com
 rlets.com
@@ -6149,6 +6164,7 @@ rttf.citrix.com
 ru4.com
 rubicon.wellsfargo.com
 rubik-gslb.houston.hp.com
+rubikloud.com
 ruddycast.com
 ruddywash.com
 ruleranalytics.com
@@ -6837,6 +6853,7 @@ sensors.cloud.tencent.com
 sensorsdata.cn
 sensorslink.olighthk.com
 sensors.snaptube.app
+sensortower.com
 sentifi.com
 sentry-cdn.com
 sentry.io
@@ -7020,6 +7037,8 @@ sloppyearthquake.com
 slx.searchdiscovery.com
 slytics.vitacost.com
 smallbeginner.com
+sm-analytics.com
+smartbugmedia.com
 smartcj.com
 smartclick.net
 smart-dmp.com
@@ -7059,6 +7078,7 @@ s.metrics.artistsnetwork.com
 smetrics.carfax.com
 smetrics.cars.com
 smetrics.chrysler.com
+smetrics.cisco.com
 smetrics.cnn.com
 smetrics-cns.panasonic.com
 smetrics.ctv.ca
@@ -7792,6 +7812,7 @@ stat-58home.58che.com
 stat.adguard.com
 statad.ru
 statcounter.com
+statcounterfree.com
 stat.eagleplatform.com
 statementsweater.com
 state.newegg.com
@@ -7939,6 +7960,7 @@ stat-ssl.tour-list.com
 stat-ssl.webcg.net
 stat-ssl.xn--pckua2a7gp15o89zb.com
 stat-ssl.yoyaq.com
+stats.smcloud.net
 stats-ssl.mdanderson.org
 statsstory.com
 stats.systems
@@ -8555,6 +8577,7 @@ thirstytwig.com
 thisisbeacon.com
 thomastorch.com
 t.home.news.cn
+thoughtspot.com
 thousandeyes.com
 threechurch.com
 thrivetracker.com
@@ -9117,6 +9140,7 @@ verifyclicksolutions.com
 verifyvegetable.com
 vermiip.es
 verseballs.com
+versium.com
 verticalscope.com
 vertoanalytics.com
 vextras.com
@@ -9177,6 +9201,7 @@ voices-api.themighty.com
 voicestar.com
 voicevegetable.com
 volocommerce.com
+volument.com
 voluum.com
 voluumtrk2.com
 voluumtrk3.com
@@ -9604,6 +9629,7 @@ yip.su
 yjtag.jp
 yjtag.yahoo.co.jp
 yldbt.com
+ylog.bigda.com
 ylog.huya.com
 y-medialink.com
 yoc.younited-credit.com
