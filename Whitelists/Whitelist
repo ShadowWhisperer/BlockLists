@@ -235,37 +235,38 @@ otnprd9.samsungcloudsolution.net           # Samsung - Firmware Updates
 otnprd10.samsungcloudsolution.net          # Samsung - Firmware Updates
 otnprd11.samsungcloudsolution.net          # Samsung - Firmware Updates
 api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
+update.biv.sony.tv                         # Sony - System Updates
 liberty.sw.roku.com                        # TCL - Roku System Update Check
 
 
 # Breaks Some Sites
 ########################
-asadcdn.com                     #Ad/Tracker - Breaks Sites (Example: bild.de)
-imasdk.googleapis.com           #Ad/Tracker - Breaks Video Players on some sites
-mkt6385.com                     #Marketing - Breaks Confirmation Email
-lddy.no                         #Marketing - Breaks Links
-pjtra.com                       #Marketing - Breaks Links
-shareasale.com                  #Marketing - Breaks Links
-click.mc.crimsontrace.com       #Tracker - Breaks Links (Crimson Trace)
-click.email.newegg.com          #Tracker - Breaks Links (Newegg)
-geoip-db.com                    #Tracker - Breaks HP Parts Page
-click.instantink.hpsmart.com    #Tracker - Breaks HP Instant Ink emails
-7eer.net                        #Tracker - Breaks Links
-assoc-redirect.amazon.com       #Tracker - Breaks Links
-avantlink.com                   #Tracker - Breaks Links
-buff.ly                         #Tracker - Breaks Links
-cdn.webclicks24.com             #Tracker - Breaks Links
-classic.avantlink.com           #Tracker - Breaks Links
-click.dji.com                   #Tracker - Breaks Links
-click.linksynergy.com           #Tracker - Breaks Links
-links.iterable.com              #Tracker - Breaks Links
-mandrillapp.com                 #Tracker - Breaks Links
-shareasale-analytics.com        #Tracker - Breaks Links
-target.georiot.com              #Tracker - Breaks Links
-tracking.truthfinder.com        #Tracker - Breaks Links
-rta.xboxlive.com                #Tracker - Breaks games that use Xbox Live (Multiplayer)
-kangaroo.vocento.com            #Tracker - Prevents site access -> abc.es
-trib.al                         #URL Shortener / Tracker - Breaks Links
+asadcdn.com                        #Ad/Tracker - Breaks Sites (Example: bild.de)
+imasdk.googleapis.com              #Ad/Tracker - Breaks Video Players on some sites
+mkt6385.com                        #Marketing - Breaks Confirmation Email
+lddy.no                            #Marketing - Breaks Links
+pjtra.com                          #Marketing - Breaks Links
+shareasale.com                     #Marketing - Breaks Links
+click.mc.crimsontrace.com          #Tracker - Breaks Links (Crimson Trace)
+click.email.newegg.com             #Tracker - Breaks Links (Newegg)
+geoip-db.com                       #Tracker - Breaks HP Parts Page
+click.instantink.hpsmart.com       #Tracker - Breaks HP Instant Ink emails
+7eer.net                           #Tracker - Breaks Links
+assoc-redirect.amazon.com          #Tracker - Breaks Links
+avantlink.com                      #Tracker - Breaks Links
+buff.ly                            #Tracker - Breaks Links
+cdn.webclicks24.com                #Tracker - Breaks Links
+classic.avantlink.com              #Tracker - Breaks Links
+click.dji.com                      #Tracker - Breaks Links
+click.linksynergy.com              #Tracker - Breaks Links
+links.iterable.com                 #Tracker - Breaks Links
+mandrillapp.com                    #Tracker - Breaks Links
+shareasale-analytics.com           #Tracker - Breaks Links
+target.georiot.com                 #Tracker - Breaks Links
+tracking.truthfinder.com           #Tracker - Breaks Links
+rta.xboxlive.com                   #Tracker - Breaks games that use Xbox Live (Multiplayer)
+kangaroo.vocento.com               #Tracker - Prevents site access -> abc.es
+trib.al                            #URL Shortener / Tracker - Breaks Links
 ocsp.omniroot.com
 ocsp.verisign.com
 refer.ccbill.com
