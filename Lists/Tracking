@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,678
-# Updated: 4/23/2021  00:53 (12:53 AM CST)
+# Domains: 9,684
+# Updated: 4/23/2021  22:23 (10:23 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -691,6 +691,7 @@ api.www.s81c.com
 aplan.track.oxone.co.uk
 a.plasticsurgery.org
 apm.christianbook.com
+apm-mobile.qa.walmart.com
 apm-server.djiops.com
 apm-server.djiops.com.w.cdngslb.com
 apnanalytics.com
@@ -3442,6 +3443,7 @@ infinario.com
 infiniteanalytics.com
 infinity-tracking.net
 influ2.com
+influenceandco.com
 info.a7.org
 infoad.tv
 info.afl.com.au
@@ -3797,6 +3799,7 @@ leadid.net
 leadinfo.net
 leadinspector.de
 leadlander.com
+leadmanagerfx.com
 leadspace.com
 leads.radioedit.iheart.com
 leadsrx.com
@@ -6364,6 +6367,7 @@ samsung-beacons.xumo.com
 samsungpositioning.com
 samsungpositioning.com.cn
 sanalytics.disneyplus.com
+sanalytics.hayneedle.com
 sanalytics.ncaa.com
 sana.newsinc.com.s3.amazonaws.com
 sando.ussandostatin.com
@@ -9343,6 +9347,7 @@ webdata.up.edu.ph
 web.diamond.co.uk
 web.elephant.co.uk
 web-frontend-dot-sc-analytics.appspot.com
+webfx.com
 webgains.com
 webgains.io
 webglstats.com
@@ -9466,6 +9471,7 @@ wn.pos.baidu.com
 wogaa.sg
 wolterskluwer.com
 womanear.com
+wompanalytics.azurewebsites.net
 woodpeckerlog.com
 woopra.com
 wootric.com
