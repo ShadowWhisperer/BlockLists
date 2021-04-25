@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,684
-# Updated: 4/23/2021  22:23 (10:23 PM CST)
+# Domains: 9,695
+# Updated: 4/25/2021  00:58 (12:58 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -738,6 +738,7 @@ appreport.preapps.com
 appsee.com
 apps.emol.com
 appsflyer.com
+app.socialsignin.net
 appstats-a.akamaihd.net
 apptentive.com
 apptimize.com
@@ -2419,6 +2420,7 @@ dwin1.com
 dxpapi.com
 dynalabs.io
 dynamics.com
+dynamic-yield.com
 dynamicyield.com
 dynata.com
 dynatrace.com
@@ -2667,6 +2669,7 @@ evisitanalyst.com
 ev.kck.st
 evolv.ai
 evolvemediametrics.com
+evs.segment.bollandbranch.com
 evt.mxplay.com
 evvnt-api.global.ssl.fastly.net
 ew.caixa.gov.br
@@ -3628,6 +3631,7 @@ isondled.net
 ispot.tv
 istats.nl
 ist-track.com
+iterable-shopify.herokuapp.com
 ithinkthereforeiam.net
 itmems.com
 itrac.it
@@ -3996,6 +4000,7 @@ ls.apple.com.akadns.net
 ls.apple.com.edgekey.net
 ls.apple.com.edgesuite.net
 ls.chatid.com
+lsdm.co
 lt02.net
 luckyorange.com
 luckyorange.net
@@ -4377,6 +4382,7 @@ metrics-stage.adobeprimetime.com
 metrics-target.siriusxm.com
 metrics.three.co.uk
 metrics-v2.datadome.co
+metrics.yellowbook.com
 metrika.yandex.com
 metrilo.com
 metrix-collector1.gamesalad.com
@@ -5543,6 +5549,7 @@ petiteumbrella.com
 p.everquote.com
 pf.intuit.com
 pf.newegg.com
+pf.santandernet.com.br
 p.gazeta.pl
 ph3a.com.br
 phar.gu-web.net
@@ -5614,6 +5621,7 @@ pixel.barion.com
 pixel.epik.com
 pixeleze.com
 pixel.facebook.com
+pixel.locker2.com
 pixel.marketing
 pixel.nymag.com
 pixels.dsp.theadtech.com
@@ -5956,6 +5964,7 @@ refer.2ndswing.com
 referdriving.com
 referralfetch.herokuapp.com
 referrer.disqus.com
+refer.wordpress.com
 refinedlabs.com
 reflectivereward.com
 reflektion.com
@@ -6028,6 +6037,7 @@ report.mitsubishicars.com
 reports-api.gotchosen.com
 reportsapi.zoho.com
 reports.tools.gos.ea.com
+reports.yellowbook.com
 report-tracking.publicidees.com
 report-uri.cloudflare.com
 report-uri.com
@@ -7181,6 +7191,7 @@ socialblade.com
 sociaplus.com
 socitm.govmetric.com
 socket.righthosts.net
+socsi.in
 softonic-analytics.net
 softtrack08.com
 soggysponge.com
