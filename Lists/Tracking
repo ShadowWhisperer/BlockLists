@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,695
-# Updated: 4/25/2021  00:58 (12:58 AM CST)
+# Domains: 9,696
+# Updated: 4/25/2021  11:44 (11:44 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -2183,6 +2183,7 @@ deviceid.ff.avast.com
 deviceidshare.twitch.tv
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+devisemath.com
 dev.log.getadblock.com
 devmate.com
 dev-metrics.getrockerbox.com
