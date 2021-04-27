@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,713
-# Updated: 4/27/2021  10:25 (10:25 AM CST)
+# Domains: 9,722
+# Updated: 4/27/2021  15:56 (3:56 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -65,6 +65,7 @@
 3dstats.com
 3gl.net
 3p-geo.yahoo.com
+3p-udc.yahoo.com
 3s.sreanalyze.com
 40nuggets.com
 42.219.186.35.bc.googleusercontent.com
@@ -2790,6 +2791,7 @@ fifthborder.com
 fifty.io
 fiftyt.com
 fig.bbc.co.uk
+files.ampush.io
 final-aws-01.com
 final-azr-01.com
 finalizeforce.com
@@ -3123,6 +3125,7 @@ gostats.pl
 gostats.ro
 gostats.ru
 gostats.vn
+gotie.tunein.com
 gotvantage.com
 goupshot.com
 goutong.baidu.com
@@ -4046,6 +4049,7 @@ maling.dn.no
 manage.devcenter.microsoft.com
 maniacalappliance.com
 map.geoup.com
+mapi.huffpost.com
 mapixl.com
 map.media6degrees.com.cdn.cloudflare.net
 marchex.com
@@ -4081,6 +4085,7 @@ matomo.cloud
 matomo.groovetech.io
 matomo.iserv.eu
 matomo.jam-software.com
+matomo.jam-software.de
 matomo.org
 matomo.riot.im
 matrix.hbo.com
@@ -6048,6 +6053,7 @@ report.mitsubishicars.com
 reports-api.gotchosen.com
 reportsapi.zoho.com
 reports.tools.gos.ea.com
+reports.tunein.com
 reports.yellowbook.com
 report-tracking.publicidees.com
 report-uri.cloudflare.com
@@ -6075,6 +6081,7 @@ re.stjude.org
 resu.io
 resulticks.com
 resultsmedia.com
+retagro.com
 retargetapp.com
 retargeter.com
 retargetly.com
@@ -7946,6 +7953,7 @@ stats-proto.pandora.com
 statsproxy-public-service-live.ol.epicgames.com
 stat.sptec.fi
 stat.spunky.fi
+stats.pusher.com
 stat.spuu.fi
 stats.qalabs.symantec.com
 stat.srautomaatio.fi
@@ -9702,6 +9710,7 @@ zeotap.com
 zergnet.com
 zeroclickfraud.com
 zhihu-web-analytics.zhihu.com
+zineone.com
 zippywind.com
 ziyu.net
 z.ksl.com
