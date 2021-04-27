@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,696
-# Updated: 4/25/2021  11:44 (11:44 AM CST)
+# Domains: 9,713
+# Updated: 4/27/2021  10:25 (10:25 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -578,7 +578,9 @@ analytics.twitter.com
 analytics-usf.hotyon.com
 analyticsvidhya.com
 analytics.visualstudio.com
+analytics.wepayyoulongtime.com
 analytics.yahoo.com
+analytics.yext-static.com
 analytics.yomedia.vn
 analytictech.com
 analyti.uber.space
@@ -842,6 +844,8 @@ atomiclearning.com
 a.touring.be
 atrack.allposters.com
 atrack.avplayer.com
+atrakr10.com
+atrakrlq2.com
 atsfi.de
 attorney.findlaw.com
 attractiveafternoon.com
@@ -902,6 +906,7 @@ a.verdictsearch.com
 a.vliegwinkel.nl
 avm.avantisvideo.com
 a.vonage.com
+avowtech.mobileadstrk.com
 avty.xboxlive.com
 awakebird.com
 awap.equifax.com
@@ -1039,6 +1044,7 @@ bizographics.com
 b.koodomobile.com
 bkrtx.com
 bk.snapfinance.com
+blackcrow.ai
 blasze.com
 blasze.tk
 b.law.com
@@ -1313,7 +1319,6 @@ cdn.speedshiftmedia.com
 cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
 cdn.threadloom.com
-cdn.ttgtmedia.com.wtxcdn.com
 cdn.virtuoussoftware.com
 cdn.vuukle.com
 cdn.watchingthat.net
@@ -1828,6 +1833,7 @@ correctchaos.com
 corus.ytv.com
 cosmosjackson.com
 costplus-world.baynote.net
+count.api.pgs.io
 count.cnblogs.com
 counter1.fcs.ovh
 counter2.blog.livedoor.com
@@ -1980,6 +1986,7 @@ cyscape.com
 c.za.msn.com
 d10lpsik1i8c69.cloudfront.net
 d1564fddzjmdj5.cloudfront.net
+d169bbxks24g2u.cloudfront.net
 d16i0l5qhf2h7o.cloudfront.net
 d16xpr36wrmcmk.cloudfront.net
 d174f84q5mcorf.cloudfront.net
@@ -2818,6 +2825,7 @@ flockflame.com
 f-log-extension.grammarly.io
 floodprincipal.com
 floweryoperation.com
+fls-eu.amazon.co.uk
 fls-na.amazon.ca
 fls-na.amazon.com
 fltag.findlawresources.com
@@ -3311,6 +3319,7 @@ hotlog.ru
 hotrk0.com
 houston-analytics.com
 hqstats.com
+hqtrk.com
 hrb1tng0.com
 hri-solutions.de
 hrm-datasolutions.de
@@ -4071,6 +4080,7 @@ mathtag.com
 matomo.cloud
 matomo.groovetech.io
 matomo.iserv.eu
+matomo.jam-software.com
 matomo.org
 matomo.riot.im
 matrix.hbo.com
@@ -7984,6 +7994,7 @@ stats.smcloud.net
 stats-ssl.mdanderson.org
 statsstory.com
 stats.systems
+stats.tgirl-network.com
 statstracker.celebrity-gossip.net
 stats-tracker.net
 stat.su
@@ -8044,6 +8055,7 @@ storescissors.com
 storeslope.com
 storesurprise.com
 stormyachiever.com
+stortrk.com
 stoveseashore.com
 s.toyotafinancial.com
 strace.co
@@ -8153,6 +8165,7 @@ sulkycook.com
 summerhamster.com
 summerobject.com
 sumologic.com
+sun2trk.com
 suncanny.marvel.com
 suncanny.marvelhq.com
 suncanny.marvelkids.com
@@ -8453,6 +8466,7 @@ tapfiliate.com
 taplytics.com
 tapresearch.com
 target2sell.com
+target.chrysler.com
 targetcircle.com
 target.cisco.com
 targetemsecure.blob.core.windows.net
@@ -8810,6 +8824,7 @@ track.weimob.com
 track.wikibuy.com
 trackwill.com
 trackyourstats.com
+track.zappos.com
 tractionize.com
 tradelab.com
 tradetracker.com
@@ -8962,7 +8977,6 @@ t.svtrd.com
 ttauri.digitalcameraworld.com
 ttauri.laptopmag.com
 ttcontacts.com
-ttgtmedia.com
 ttmetrics.jcpenney.com
 tt.natwest.com
 tt.rbs.co.uk
@@ -9036,6 +9050,7 @@ umeng.com
 unacast.com
 unagi.amazon.ca
 unagi.amazon.com
+unagi.amazon.co.uk
 unagi-na.amazon.com
 unarmedindustry.com
 unbecominghall.com
@@ -9189,6 +9204,7 @@ visiblemeasures.com
 vision.fn-pz.com
 visistat.com
 visit.affymetrix.com
+visitantserver.azurewebsites.net
 visit.asb.co.nz
 visitor-analytics.io
 visitor-analytics.net
@@ -9354,6 +9370,7 @@ web-call-analytics.com
 webcdn.cox.com
 web.chtbl.com
 webclicks24.com
+webcompteur.com
 webcounter.goweb.de
 webdata.up.edu.ph
 web.diamond.co.uk

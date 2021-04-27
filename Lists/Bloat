@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 738
-# Updated: 4/23/2021  00:53 (12:53 AM CST)
+# Domains: 740
+# Updated: 4/27/2021  10:25 (10:25 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -269,6 +269,9 @@ sdk.privacy-center.org                                  #Cookie Consent / Contro
 truendo.com                                             #Cookie Consent / Control
 vendors.privacymanager.io                               #Cookie Consent / Control
 webcontentassessor.com                                  #Cookie Consent / Control
+
+api.qrserver.com                                        #QR Codes
+qrserver.com                                            #QR Codes  
 
 doh.dns.apple.com                                       #Alt DNS - Apple (Encrypted)
 doh.dns.apple.com.v.aaplimg.com                         #Alt DNS - Apple (Encrypted)
