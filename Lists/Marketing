@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Domains: 367
-# Updated: 4/27/2021  15:56 (3:56 PM CST)
+# Domains: 351
+# Updated: 4/27/2021  17:29 (5:29 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -12,20 +12,17 @@
 #############################
 #  Affiliate marketing
 #############################
-app.indoleads.com
 clickbank.com
 clickbank.net
 effiliation.com
 impact.com
-indoleads.com
 iwoop.com
-leaddyno.com
-medialead.de
 mixmarket.biz
 monetizer101.com
 myaffiliateprogram.com
 ontrapages.com
 ontraport.com
+osiaffiliate.com
 ositracker.com
 refersion.com
 
@@ -49,13 +46,6 @@ silveregg.co.jp    #Silver Egg Technology
 
 
 ##############################
-#  Auto Dealer Marketing
-##############################
-vinlens.com        #Vinsolutions
-vinsolutions.com   #Vinsolutions
-
-
-##############################
 #  Chatbot
 ##############################
 headlinerlabs.com   #Headliner Labs
@@ -70,7 +60,6 @@ swogo.net
 ##############################
 #  Customer Acquisition
 ##############################
-publicidees.com
 timeonegroup.com
 
 
@@ -330,13 +319,6 @@ markethero.io
 
 
 ##############################
-# Marketing Research
-##############################
-irquest.com       #Interrogare
-interrogare.de    #Interrogare
-
-
-##############################
 # Multichannel Marketing
 ##############################
 easy.co
@@ -370,8 +352,6 @@ helloworld.com                #HelloWorld
 helloworldmail.com            #HelloWorld
 hurra.com                     #Hurra
 hivestack.com                 #Hivestack (Japan)
-i-click.com                   #I-Click Interactive
-optaim.com                    #I-Click Interactive
 icubeswire.com                #iCubesWire
 inmobicdn.net                 #InMobi
 joystickinteractive.com       #Joystick Interactive
@@ -407,13 +387,11 @@ masoffer.net                  #  (Vietnam)
 ##############################
 # Performance Marketing
 ##############################
-getcake.com        #Cake
+fuseclick.com      #FuseClick
 myfuseclick.com    #FuseClick
 maxbounty.com      #MaxBounty
 mb38.com           #MaxBounty
 mb103.com          #MaxBounty
-instabid.tech      #YOptima
-yoptima.com        #YOptima
 
 
 ##############################
@@ -421,23 +399,13 @@ yoptima.com        #YOptima
 ##############################
 appcues.com
 nova.ai
-qubitproducts.com
-yusp.com
 
 
 #############################
 # Referral
 #############################
-talkable.com                    #Talkable
-d2jjzw81hqbuqv.cloudfront.net   #Talkable
-fbot.me
-friendbuy.com
-
-
-#############################
-# Sales Accelearation
-#############################
-adapt.io
+fbot.me             #FriendBuy
+friendbuy.com       #FriendBuy
 
 
 #############################
@@ -473,8 +441,6 @@ marketingg2.com
 ordergroove.com
 
 
-
-
 #############################
 # Other
 #############################
@@ -488,6 +454,7 @@ sendinblue.com         #Email & SMS
 cdn.emailer.emfluence.com     #Emfluence
 d181jrjebmi235.cloudfront.net #Emfluence
 emailer.emfluence.com         #Emfluence
+emfluence.com                 #Emfluence
 ########################
 getsitecontrol.com     #Widgets - Website conversion optimization
 ########################
