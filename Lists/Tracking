@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,742
-# Updated: 4/27/2021  17:29 (5:29 PM CST)
+# Domains: 9,745
+# Updated: 4/27/2021  23:59 (11:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -680,7 +680,6 @@ api-rest.analytics.nexonm.com
 api.ringlead.com
 api.sail-personalize.com
 api-sensors.shein.com
-api.smartechmetrics.com
 apis.murdoog.com
 api.snapkit.com
 api.speedshiftmedia.com
@@ -960,6 +959,7 @@ batbuilding.com
 batch.ba
 batchgeo.com
 batmobi.net
+batnstrk.com
 battlebalance.com
 battlehope.com
 baw5tracker.com
@@ -6434,6 +6434,7 @@ sas15k01.com
 sascdn.com
 sasc.solidworks.com
 sashare.com
+sastrk.com
 sa.tactics.com
 satisfycork.com
 satisfyingshow.com
@@ -6910,6 +6911,7 @@ seo.letgo.com
 seoscout.com
 separateshow.com
 separatesilver.com
+serveclk.com
 server-analytics.snapchat.com
 serviceicann.cmail20.com
 serviceos.xfinity.com
@@ -7091,6 +7093,7 @@ smartbugmedia.com
 smartcj.com
 smartclick.net
 smart-dmp.com
+smartechmetrics.com
 smarterhq.io
 smartfocus.com
 smart-ip.net
