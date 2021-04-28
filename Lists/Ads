@@ -1,11 +1,11 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 6,171
-# Updated: 4/27/2021  17:29 (5:29 PM CST)
+# Domains: 6,183
+# Updated: 4/28/2021  10:13 (10:13 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 0i0i0i0.com
@@ -104,6 +104,7 @@ aaxads.com
 aaxdetect.com
 aax.media
 a.axmtracker.com
+aax-us-east.amazon-adsystem.com
 aax-us-iad.amazon.com
 a.b0f1d2.com
 ab.123sudo.com
@@ -212,6 +213,7 @@ adap.tv
 adaranth.com
 adasiaholdings.com
 adasta.it
+ad.atdmt.com
 adatrix.com
 ad-balancer.at
 adbalancer.com
@@ -374,7 +376,6 @@ adflake.com
 adflexaffiliate.com
 adflex.vn
 ad-flow.com
-adf.ly
 adfly.vn
 adfonic.com
 adforbet.com
@@ -502,6 +503,7 @@ adipexp.3xforum.ro
 adip.ly
 adiply.com
 adipolo.com
+ad.ipredictive.com
 ad.iq
 adiquity.com
 adireto.com
@@ -953,6 +955,7 @@ adslivecorp.com
 ads.lk
 adslop.com
 adslot.com
+ads.lotlinx.com
 ads.lt
 adsluna.com
 adslvr.com
@@ -972,6 +975,7 @@ adsmogo.mobi
 adsmogo.net
 adsmogo.org
 adsmoloco.com
+ads.mopub.com
 adsmo.ru
 ads.my
 adsnative.com
@@ -1022,6 +1026,7 @@ adspremium.it
 adspro.it
 adspruce.com
 adspsp.com
+ads.pubmatic.com
 adspyglass.com
 ads-quantum.com
 ads.red
@@ -1097,6 +1102,7 @@ adswizz.com
 ads.xumo.com
 adsxyz.com
 ads.yahoo.com
+ads.yieldmo.com
 adsymptotic.com
 adsync.tech
 adsynergy.com
@@ -2095,6 +2101,7 @@ cdn.hextom.com
 cdnjs.buymeacoffee.com
 cdn.kelt-195b.com
 cdn.luyten-98c.com
+cdn-media.brightline.tv
 cdn.megadata.co.kr
 cdn.mn1nm.com
 cdn.pinktriangle.ca
@@ -2107,6 +2114,7 @@ cdn-server.top
 cdn-ssl.vidible.tv
 cdn.sterta.pl
 cdn.swellrewards.com
+cdn.taboola.com
 cdn.trustcommander.net
 cdn.userdatatrust.com
 cdnvideo.mobi
@@ -2626,6 +2634,7 @@ dt.cobaltgroup.com
 dtmpub.com
 dtprofit.com
 dts2xn.net
+dts.innovid.com
 dualstack.engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 dubvacasept.com
 d.wi-fi.ru
@@ -3047,6 +3056,7 @@ good-loop.com
 goodwaygroup.com
 googleadapis.l.google.com
 googleadservices.com
+googleads.g.doubleclick.net
 googleads.github.io
 googleadsserving.cn
 googlesyndication.com
@@ -4458,6 +4468,7 @@ pt.ptawe.com
 pu5hk1n2020.com
 pub2srv.com
 pubacash.com
+pubads.g.doubleclick.net
 pubblicita.animeitaly.org
 pubdirecte.com
 pub.doubleverify.com.cdn.cloudflare.net
@@ -4857,6 +4868,7 @@ sd-ad.net
 sd-ad.org
 sdad.technology
 sdg.fwtrck.com
+sdk-android.ad.smaato.net
 sdkconfig.ad.intl.xiaomi.com
 sdk.digitalbees.it
 sdk.ffxpub.com

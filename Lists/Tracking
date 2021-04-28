@@ -1,11 +1,11 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,745
-# Updated: 4/27/2021  23:59 (11:59 PM CST)
+# Domains: 9,797
+# Updated: 4/28/2021  10:13 (10:13 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 0cf.io
@@ -546,6 +546,7 @@ analytics-iq.com
 analytics-js-cdn.liferay.com
 analytics.kurocore.com
 analytics.live.com
+analytics.localytics.com
 analytics.madgex.com
 analyticsmarket.com
 analytics.net
@@ -640,7 +641,9 @@ a.pcpro.co.uk
 a.pcrichard.com
 a.peoplepc.com
 apextag.com
+api2.amplitude.com
 api2.poperblocker.com
+api.amplitude.com
 api-analytics-in.huami.com
 api.analytics.nexonm.com
 api.analytics.omgpop.com
@@ -663,7 +666,9 @@ api-gdpr.voodoo-tech.io
 api.goaffpro.com
 api-gps-em.hismarttv.com
 api-gps.hismarttv.com
+api.instabug.com
 api.intellimize.co
+api.ipify.org
 api.levelaccess.net
 api-location-prd.pelcro.com
 api-log-analytics.cloud.toast.com
@@ -678,6 +683,7 @@ api.reelgood.com
 api.reftagger.com
 api-rest.analytics.nexonm.com
 api.ringlead.com
+api.rollbar.com
 api.sail-personalize.com
 api-sensors.shein.com
 apis.murdoog.com
@@ -981,12 +987,14 @@ b.digitalartsonline.co.uk
 bea4.adultswim.com
 beaconforstore.com
 beacon.riskified.com
+beacons2.extremereach.io
 beacons2.gvt2.com
 beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
 beacon.samsclub.com
+beacons.extremereach.io
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beaconsinspace.com
@@ -1128,6 +1136,7 @@ broaddoor.com
 brothersbucket.com
 browsee.io
 browseranalytic.com
+browser.events.data.microsoft.com
 browser.events.data.trafficmanager.net
 browserhawk.com
 browser.pipe.aria.microsoft.com
@@ -1587,6 +1596,7 @@ client-logger.salemove.com
 clientlog.midomi.com
 clientmetrics-augmentum.kik.com
 clientmonitor.isnssdk.com
+client.perimeterx.net
 clientseoreport.com
 client.spinasale.com
 client-stats.gaijin.net
@@ -1824,6 +1834,7 @@ cookie.carfax.com
 cookies.siemens.com
 cookie.sync.usonar.jp
 cooleremail.com
+cooper.logs.roku.com
 coordinatedbedroom.com
 coordinatedcoat.com
 coordinatedcub.com
@@ -1983,6 +1994,7 @@ cutercounter.com
 cuteturkey.com
 cux.io
 cw.addthis.com
+cws-hulu.conviva.com
 c.xbox.com
 cxense.com
 cx.rightnow.com
@@ -2107,6 +2119,7 @@ data-events.uniplaces.com
 datagather.xsolla.com
 data.getgist.com
 datag.polo.com
+data.logentries.com
 datamark.net
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
@@ -2811,6 +2824,7 @@ fipsta.worldfitness.co
 fipsta.worldfitness.de
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
+firebase-settings.crashlytics.com
 fireshooters.s3.amazonaws.com
 firetv-beacons.xumo.com
 firstfrogs.com
@@ -3029,6 +3043,7 @@ geolocation.forbes.com
 geolocation.onetrust.com
 geolocation-recommendations.shopifycloud.com
 geo.mattel163.com
+geo.moatads.com
 geomobileservices-pa.googleapis.com
 geo.nbcsports.com
 geo.ngtv.io
@@ -3181,6 +3196,8 @@ gsp17-ssl.apple.com
 gsp1.apple.com
 gsp1-ssl.apple.com
 gsp3-ssl.apple.com
+gsp64-ssl.ls.apple.com
+gsp85-ssl.ls.apple.com
 gsp8-ssl.apple.com
 gsp9-ssl.apple.com
 gtr1.yes24.com
@@ -3345,6 +3362,7 @@ hubspotanalytics.com
 huckabuy.com
 hullapp.io
 hull.io
+hulu.hb-api.omtrdc.net
 humdrumhat.com
 hurtgrape.com
 hurtteeth.com
@@ -3377,11 +3395,13 @@ icptrack.com
 ida-analytics.de
 id.aftenbladet.no
 idealspot.com
+identity.ads.roku.com
 identity.prod.platform.ext.mobilityware.com
 ident.me
 idevaffiliate.com
 id.google.com
 idiagnostics.apple.com
+id.jixie.io
 id.lexipol.com
 idpix.media6degrees.com.cdn.cloudflare.net
 id-visitors.com
@@ -3436,6 +3456,7 @@ importlocate.com
 impossibleexpansion.com
 impossibleglue.com
 impossiblemove.com
+impression.api.feedmob.com
 impression.link
 improvedcontactform.com
 improvely.com
@@ -3453,6 +3474,7 @@ incartupsell-oihcsf0gzy.netdna-ssl.com
 incentivesnetwork.net
 incisivemedia.com
 incoming-data-sense360.s3.amazonaws.com
+incoming.telemetry.mozilla.org
 incoming-telemetry.thunderbird.net
 indexstats.com
 indicative.com
@@ -3461,6 +3483,7 @@ indpcr1.com
 inet-ip.info
 inetlog.ru
 infamousstream.com
+inference.location.live.net
 infinario.com
 infiniteanalytics.com
 infinity-tracking.net
@@ -3472,6 +3495,7 @@ info.afl.com.au
 info.anz.com
 info.anz.com.au
 infogix.com
+info.izatcloud.net
 info.justwatch.com
 info.lexipol.com
 info.m.seek.com.au
@@ -3514,6 +3538,7 @@ insert.io
 inside-graph.com
 insiderintelligence.us
 insight-1616140656.us-west-2.elb.amazonaws.com
+insight.adsrvr.org
 insightfirst.com
 insight.gm
 insight.ly
@@ -3667,6 +3692,7 @@ ivykiosk.com
 iwa3.hit.interia.pl
 iwmap.americanexpress.com
 iwmapapi.americanexpress.com
+iwtserve.com
 i.wynnlasvegas.com
 ixiaa.com
 izatcloud.net
@@ -3692,6 +3718,7 @@ joinmy.site
 jornaya.com
 jp.livelog.nexon.com
 jr.zingnews.vn
+js-agent.newrelic.com
 js.b1js.com
 js.bronto.com
 js.chilipiper.com
@@ -3849,6 +3876,7 @@ lg-beacons.xumo.com
 lg-lite-beacons.xumo.com
 lg.nanda.vn
 lg-release-tracking-8080.gcld-line.com
+liberty.logs.roku.com
 library.whisbi.com
 librato-collector.genius.com
 librato.com
@@ -3932,6 +3960,7 @@ log21.makeshop.co.kr
 log2-useast1a.musical.ly
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
+log.affiliate.rakuten.co.jp
 logagent-global.kingsgroupgames.com
 logaholic.com
 log.aliyuncs.com
@@ -3991,6 +4020,7 @@ log-tb.isnssdk.com
 log-tb.sgsnssdk.com
 log-va.tiktokv.com
 log.v.ssp.yahoo.com
+logx.optimizely.com
 log.zingnews.vn
 longinglettuce.com
 lookbookhq.com
@@ -4358,6 +4388,7 @@ meteor.tiktok.com
 metering.platform.latimes.com
 methodmi.com
 metric.al
+metric-api.newrelic.com
 metrica.yandex.com
 metric.gstatic.com
 metric.huya.com
@@ -4467,6 +4498,7 @@ mobileanalytics.web.ue1.app.chime.aws
 mobileanalytics.web.ue1.b.app.chime.aws
 mobile.apple.com
 mobileapptracking.com
+mobile-collector.newrelic.com
 mobilecrashreporting.googleapis.com
 mobilegamestats.com
 mobilelog.kugou.com
@@ -4643,6 +4675,7 @@ navdmp.com
 navegg.com
 navi.cohesionapps.com
 navrcholu.cz
+nav.smartscreen.microsoft.com
 nbcnews.trib.al
 n.betus.com
 n.boydgaming.com
@@ -4696,6 +4729,7 @@ nextgenstats.com
 nextroll.com
 nextsmarty.com
 nextstat.com
+nexus.ensighten.com
 nexus.officeapps.live.com
 nexus.toyota.com
 nfltags.com
@@ -5596,6 +5630,7 @@ ping1.tnt-ea.com
 ping.answerbook.com
 pingback.giphy.com
 pingback.issuu.com
+ping.chartbeat.net
 ping.cloud.tencent.com
 pingdom.com
 pingdom.net
@@ -5649,7 +5684,9 @@ pixeleze.com
 pixel.facebook.com
 pixel.locker2.com
 pixel.marketing
+pixel.mathtag.com
 pixel.nymag.com
+pixel.quantcount.com
 pixels.dsp.theadtech.com
 pixel-secure.solvemedia.com
 pixelsmarter.com
@@ -6139,6 +6176,7 @@ rlcdn.com
 rlets.com
 rlog.9gag.com
 rlog-api.under9.co
+rlog.popin.cc
 rm0001.net
 rm0002.net
 rm0003.net
@@ -6532,6 +6570,7 @@ sc.rbs.com
 sc.rbs.co.uk
 screechingfurniture.com
 screechingslip.com
+scribe.logs.roku.com
 scripts.mymarketingreports.com
 scripts.pixelmotiondemo.com
 scrollservice.com
@@ -6887,6 +6926,7 @@ segment.psg.nexstardigital.net
 segmetrics.io
 selectionship.com
 selectivesummer.com
+self.events.data.microsoft.com
 selfishsea.com
 selfishsnake.com
 sellpoint.net
@@ -7728,6 +7768,7 @@ ssl.centerforhit.org
 ssldata.thepointsguy.com
 ssl.gmyze.com
 ssl-google-analytics.com
+ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 ssl.graham-center.org
 ssl.industrymatter.com
@@ -8556,6 +8597,7 @@ telemetry.nvidia.com
 telemetry.phenixrts.com
 telemetry_preview.msn.com
 telemetry_rad.msn.com
+telemetry.sdk.inmobi.com
 telemetry_ssw.live.com
 telemetry.svc.halowaypoint.com
 telemetry.tradingview.com
@@ -8859,6 +8901,7 @@ trafficmp.com
 traffic.prod.cobaltgroup.com
 trafficstars.com
 trafscan.com
+tra.jixie.io
 tranquilside.com
 translateoatmeal.com
 trappush.com
@@ -9066,6 +9109,7 @@ uge.ltroute.com
 uhf.microsoft.com
 uie.data.cbc.ca
 uif.microsoft.com
+uk-script.dotmetrics.net
 ulogs.umengcloud.com
 ultimatecounter.com
 ultraoranges.com
@@ -9179,11 +9223,15 @@ utrace.de
 uttermosthobbies.com
 ut.upmc.com
 uxanalytics.ama.gov.pt
+v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v12groupinc.com
+v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v2.listenloop.com
 v4.ipv6-test.com
+v7event.stats.avcdn.net
+v7.stats.avcdn.net
 vaioimprovement.sony.com
 vakmedianet.nl
 valencia-beacons.xumo.com
@@ -9357,6 +9405,7 @@ watg.xxxlutz.com
 wats.gogoinflight.com
 watson.live.com
 watson.microsoft.com
+watson.telemetry.microsoft.com
 waudit.cz
 waust.at
 wavesecure.com
@@ -9510,6 +9559,7 @@ who.nie.netease.com
 widengle.com
 widerplanet.com
 widget.civey.com
+widgets.outbrain.com
 widgetstore.edmunds.com
 widget.zoorate.com
 wieistmeineip.de
@@ -9680,6 +9730,8 @@ xplosion.de
 x-stat.de
 xstats.evoload.io
 xtracloud.net
+xtrapath1.izatcloud.net
+xtrapath3.izatcloud.net
 xtrastats.com
 xxxcounter.com
 xxxstats.pro

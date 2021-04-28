@@ -1,11 +1,11 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 136
-# Updated: 4/20/2021  00:47 (12:47 AM CST)
+# Domains: 137
+# Updated: 4/28/2021  10:13 (10:13 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 ###########################################################################################
@@ -133,6 +133,7 @@ localhost.run                                 #Share Localhost
 localtunnel.me                                #Share Localhost
 showoff.io                                    #Share Localhost
 
+adf.ly                                        #URL Shortener
 adfoc.us                                      #URL Shortener
 adshort.co                                    #URL Shortener
 href.li                                       #URL Shortener (Abused)
