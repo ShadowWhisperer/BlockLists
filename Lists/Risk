@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 137
-# Updated: 4/28/2021  10:13 (10:13 AM CST)
+# Domains: 140
+# Updated: 4/28/2021  18:42 (6:42 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -42,6 +42,8 @@ fink.org                                      #ISP    Worst  Spam     May 2020
 ghlc.biz                                      #ISP    Worst  Spam     Jun 2020
 inter-cloud.tech                              #ISP    Worst  Spam     Jun 2020
 colocrossing.com                              #ISP    Worst  Spam     Nov 2020
+skbroadband.com                               #ISP    Worst  Spam     Apr 2021
+wind.com.do                                   #ISP    Worst  Spam     Apr 2021
 ###########################################################################################
 ###########################################################################################
 
@@ -143,6 +145,7 @@ shortcm.li                                    #URL Shortener
 short.cm                                      #URL Shortener
 shorte.st                                     #URL Shortener
 short.io                                      #URL Shortener
+shorturl.com                                  #URL Shortener
 sh.st                                         #URL Shortener
 shurl.be                                      #URL Shortener
 spyw.com                                      #URL Shortener

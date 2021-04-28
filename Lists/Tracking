@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,797
-# Updated: 4/28/2021  10:13 (10:13 AM CST)
+# Domains: 9,777
+# Updated: 4/28/2021  18:42 (6:42 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -45,7 +45,6 @@
 250analytics.com
 254a.com
 2cnt.net
-2ftracking.publicidees.com
 2ip.io
 2ip.me
 2ip.ru
@@ -164,7 +163,6 @@ absurdwater.com
 abtasty.com
 a.budgetair.com
 ac.activehosted.com
-academia.trendmd.com
 a.carmax.com
 a.cbc.ca
 a.cbslocal.com
@@ -478,7 +476,6 @@ amonetize.com
 ampcid.google.com
 amplitude.com
 amptrack.dailymail.co.uk
-ams.creativecdn.com
 am-track.pl
 amung.us
 amusementmorning.com
@@ -547,7 +544,6 @@ analytics-js-cdn.liferay.com
 analytics.kurocore.com
 analytics.live.com
 analytics.localytics.com
-analytics.madgex.com
 analyticsmarket.com
 analytics.net
 analyticsnew.overwolf.com
@@ -670,7 +666,6 @@ api.instabug.com
 api.intellimize.co
 api.ipify.org
 api.levelaccess.net
-api-location-prd.pelcro.com
 api-log-analytics.cloud.toast.com
 api-logger.curejoy.com
 api-log.immomo.com
@@ -747,7 +742,6 @@ appreport.preapps.com
 appsee.com
 apps.emol.com
 appsflyer.com
-app.socialsignin.net
 appstats-a.akamaihd.net
 apptentive.com
 apptimize.com
@@ -804,7 +798,6 @@ asd.nl.bauhaus
 asd.pb.com
 a.seenon.com
 as.fitbook.de
-ash.creativecdn.com
 a.shop.com
 a.simonandschuster.com
 as.metal-hammer.de
@@ -1233,6 +1226,7 @@ callousbrake.com
 callrail.com
 callreports.com
 calls.net
+callstats.io
 calltrackingmetrics.com
 calltracks.com
 calltrk.com
@@ -1333,7 +1327,6 @@ cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
 cdn.threadloom.com
 cdn.virtuoussoftware.com
-cdn.vuukle.com
 cdn.watchingthat.net
 cdnweb.aoscdn.com
 cdn.yottaa.com
@@ -1434,6 +1427,7 @@ c.ie.msn.com
 ci.intuit.com
 c.il.msn.com
 cimage.adobe.com
+c.imedia.cz
 c.in.msn.com
 cint.com
 c.ipaddress.com
@@ -1443,6 +1437,7 @@ circularhub.com
 circulate.com
 cision.com
 c.it.msn.com
+cityadstrack.com
 civey.com
 civicscience.com
 cjs.ptengine.com
@@ -1619,7 +1614,6 @@ clk.dxpmedia.com
 clk.flexdirectpath.com
 clk.flmsecure.com
 clk.gammaplatform.com
-clk.gentags.net
 clk.go.com
 clk.goresumes.com
 clk.hopemobi.net
@@ -1643,7 +1637,6 @@ clk.omgt3.com
 clk.omgt4.com
 clk.omgt5.com
 clk.onet.pl
-clk.optaim.com
 clk.performancearea.com
 clk.press
 clk.recommendedjobs.com
@@ -1689,7 +1682,6 @@ c.nl.msn.com
 c.no.msn.com
 cnstats.ru
 cnt.alawar.com
-cnt.fout.jp
 cnt.hd21.com
 cntr-di5.com
 cntr-di7.com
@@ -1730,7 +1722,6 @@ collector-hpn.ghostery.net
 collector-hpn.privacy.ghostery.net
 collector.ksax.com
 collector.kstptv5.com
-collector.leaddyno.com
 collector.pi.spectrum.net
 collector.plarium.com
 collector.prod.expedia.com
@@ -3380,7 +3371,6 @@ i47724300-ds-aksb-a.akamaihd.net
 i9w8p.pw
 iabusprivacy.pmc.com
 iagr.net
-iam-agof-app.irquest.com
 iam.gcdn.co
 iaudienc.com
 ibclick.stream
@@ -3804,7 +3794,6 @@ kontagent.net
 kontera.com
 kpis.jp
 kqzamd.com
-kraken.rambler.ru
 krxd.net
 ksmobile.com
 ksmobile.net
@@ -4112,7 +4101,6 @@ marumatchbox.com
 massivemark.com
 massrelevance.com
 massrelevance.s3.amazonaws.com
-matchid.adfox.yandex.ru
 matchmyip.com
 materialexample.com
 materialisticfan.com
@@ -4513,7 +4501,6 @@ modus.nike.com
 moengage.com
 mofiler.com
 moldyicicle.com
-mol.report-uri.io
 momently.com
 mon1.kohls.com
 mon.byteoversea.com
@@ -5852,7 +5839,6 @@ publicidees.com
 public-ip-api.appspot.com
 public-prod-dspcookiematching.dmxleo.com
 publisher-news.com
-publish.vuukle.com
 pubnub.com
 pubocean.com
 puffyloss.com
@@ -5986,7 +5972,6 @@ realizerecess.com
 realizevacation.com
 realstats.dhgate.com
 real-time-analytics.com
-realtimeanalytics.yext.com
 realtime.email
 realtime.officedepot.com
 realtimestatistics.org
@@ -6099,13 +6084,11 @@ reporting.sokrati.com
 reporting.theonion.com
 report.mcstats.org
 report.mitsubishicars.com
-reports-api.gotchosen.com
 reportsapi.zoho.com
 reports.radiotime.com
 reports.tools.gos.ea.com
 reports.tunein.com
 reports.yellowbook.com
-report-tracking.publicidees.com
 report-uri.cloudflare.com
 report-uri.com
 report-uri.io
@@ -7079,7 +7062,6 @@ siouxlandop.com
 sirdata.com
 sisense.com
 site24x7rum.com
-site2.emarketer.com
 site-analytics.iop.ohio.gov
 sitecatalysts.a-q-f.com
 sitecatalyst.smartsource.com
@@ -7089,10 +7071,10 @@ sitecats.troweprice.com
 sitecats.uacollegesavings.com
 sitecheck.opera.com
 sitectlyst.saksfifthavenue.com
-site.emarketer.com
 siteimproveanalytics.com
 siteimproveanalytics.io
 siteimprove.com
+siteimprove.systems
 site.johnlewis.com
 sitescout.com
 sitestat.com
@@ -8071,6 +8053,7 @@ stats.windscribe.com
 stats.wp.com
 stats.wpmucdn.com
 statsy.net
+stat.tildacdn.com
 stat-track.com
 statuesquebrush.com
 status.mm.makingfun.com
@@ -8577,7 +8560,6 @@ teenyvolcano.com
 teethfan.com
 tekblue.net
 telematics.tomtom.com
-telemetrics.klaviyo.com
 telemetry-01.adwc.fr33tux.org
 telemetry-02.adwc.mb.fr33tux.org
 telemetry-03.adwc.mb.fr33tux.org
@@ -8713,7 +8695,6 @@ tklnk.com
 t.klokantech.com
 t.ktxtr.com
 tl813.com
-t.leadmanagerfx.com
 tlnk.io
 tlog.ir
 t.loopgift.com
@@ -8833,18 +8814,17 @@ trackingcareers.accenture.com
 tracking.chilipiper.com
 tracking.epicgames.com
 tracking.g2crowd.com
-tracking.godatafeed.com
 tracking.goodgamestudios.com
 tracking.imspublishergroup.com
 tracking.markethero.io
 tracking.my
 tracking.newshub.co.uk
 trackingpin.com
-tracking.publicidees.com
 tracking-secure.csob.cz
 tracking-server-prod-1.zenmxapps.com
 tracking.sharplink.us
 trackingsoft.com
+tracking.sparkteams.de
 trackingssl.agemployeebenefits.be
 trackingssl.aginsurance.be
 trackingssl.agpensionandhealthservices.com
@@ -9185,7 +9165,6 @@ usage-us-fy2019.myhomescreen.tv
 usage-us-fy2020.myhomescreen.tv
 us-central1-amp-error-reporting.cloudfunctions.net
 us-central1-custom-site-analytics.cloudfunctions.net
-us.creativecdn.com
 useastmonitoring.livesegmentservice.com
 usedexample.com
 usefathom.com
@@ -9694,6 +9673,7 @@ wzrkt.com
 x1box-beacons.xumo.com
 xbh.acdsee.com
 xclicks.net
+x.cnt.my
 xdcs-collector.ximalaya.com
 xdrig.com
 xentrk.net
