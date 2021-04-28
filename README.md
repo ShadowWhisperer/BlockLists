@@ -7,6 +7,7 @@
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting, Free Blogs  
+    Gambling         Gambling sites    
     Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
     Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
     Marketing        Marketing, Ebay Listing Tools, etc  
@@ -14,8 +15,8 @@
     Microsoft        Apps, Bing, Bloat, Tiles, etc  
     Remote           Domains used for remote sessions  
     Risk             Worst ISP Bots/Spam, Keyloggers, URL Shortener, Used by compromised devices
-    Scam             Fake freight, gift cards, products, support, pet sales, news, etc    
-    Shock            Gore, Gross, Torture, Race/Gender Superiority  
+    Scam             Fake freight, gift cards, products, support, pet sales, firearms, news, etc    
+    Shock            Gore, Gross, Torture, Race/Gender
     Top_Level        Top Level Domains. Sorted by Continent, then by country
     Tracking         Analytics, Diagnostics, Location, Metrics, Puplic IP  
     Tunnels          VPNs & Proxies  
