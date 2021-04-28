@@ -27,12 +27,13 @@
 A lot of lists are a bunch of other users' lists combined into one. There are are all checked by me, either by going to the site, IP adress, or custom scripts. I try to keep dead, parked, and sinkholed domains out of these lists.
 
 Websites that contain malware (example: malvertising) are not in these lists. They are not blocked or allowed. The malware within the domains are.
+
 Some domains are used for both ads and tracking.  Dating list may contain scam dating sites.
+
+_Free_, _Junk_, and _Marketing*_ may break some sites.
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter, and ensures the domain is fully blocked.  
   
-_Free_, _Junk_, and _Marketing*_ may break some sites.
-<br />  
 <br />  
 **Create Block List**  (Bash)  
 
