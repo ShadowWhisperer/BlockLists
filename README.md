@@ -25,13 +25,13 @@
     Filter           Used by my parse script to show me what has not been blocked
     Whitelist        Reasons for some allowed domains  
   
-A lot of lists are a bunch of other users' lists combined into one. These lists all built by me, either by going to the site, IP adress, or custom scripts. I have multiple systems running dnsmasq, with ~40 people using them. A lot of my data comes from those logs. Others are from honeypots (*Cowrie*), and top 1 million lists. I try to keep dead, parked, and sinkholed domains out of these lists.
+A lot of lists are a bunch of other users' lists combined into one. These lists all built by me, either by going to the site, IP adress, or custom scripts. I have multiple systems running dnsmasq, with ~40 people using them; including a computer repair center. A lot of my data comes from those logs. Others are from honeypots (*Cowrie*), and top 1 million lists. I try to keep dead, parked, and sinkholed domains out of these lists.
 
-Websites that contain malware (example: malvertising) are not in these lists. They are not blocked or allowed. The malware within the domains are.  
+Websites that contain malware (example: malvertising) are not in these lists. They are not blocked or allowed. The malware within the sites are.  
 
 Some domains are used for both ads and tracking.  Dating list may contain scam dating sites.  
 
-_Free_, _Junk_, and _Marketing*_ may break some sites.  
+*Free*, *Junk*, and *Marketing* may break some sites.  
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter.    
 <br />  
