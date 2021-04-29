@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,810
-# Updated: 4/29/2021  11:52 (11:52 AM CST)
+# Domains: 9,824
+# Updated: 4/29/2021  18:02 (6:02 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -562,6 +562,7 @@ analytics.rbauction.com
 analytics.redbubble.com
 analytics.report
 analytics.revengebucks.com
+analytics-sdk.yle.fi
 analyticssec.overwolf.com
 analytics-sessions-redirector.cs.madgexhosting.net
 analytics.shoptimize.in
@@ -1218,6 +1219,7 @@ c3319585.ssl.cf0.rackcdn.com
 c3metrics.com
 c3tag.com
 c4tracking01.com
+c6latrk.com
 c9854976.mgr-mid.gcsp.cddbp.net
 ca.hotels.com
 cakecdn.com
@@ -2138,6 +2140,7 @@ dataxpand.com
 dat.gtags.net
 dativa.com
 datreputation.gti.mcafee.com
+dax.yle.fi
 daylogs.com
 dbdm-events.mybluemix.net
 db-ip.com
@@ -2988,6 +2991,7 @@ gemius.com
 gemius.pl
 generaltracking.de
 genesis.malwarebytes.com
+genestack.com
 genius.drivecentric.com
 geniussports.com
 gentags.net
@@ -3808,6 +3812,7 @@ kontera.com
 kpis.jp
 kqzamd.com
 krxd.net
+ksi2trk.com
 ksmobile.com
 ksmobile.net
 ksn-a-stat-geo.kaspersky-labs.com
@@ -4407,6 +4412,7 @@ metrics.abbott
 metrics-api.data.frontapp.com
 metrics-api.dimensions.ai
 metrics-api.librato.com
+metrics.api.yle.fi
 metrics.brightcove.com
 metricscat.com
 metrics-cbslocal-com.cdn.ampproject.org
@@ -5665,6 +5671,7 @@ pi-stats.com
 pit-835.bpsecure.com
 piwikanalytics.win
 piwik.avm.de
+piwik.bocholt.de
 piwik.documentfoundation.org
 piwik.mopo-server.de
 piwik.opendesktop.org
@@ -5794,6 +5801,7 @@ privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacy.cyberlink.com
 privacy.digimedia.com
 privacy.ft.com
+privacy-location-edge.ccgateway.net
 privftp.apple.com
 privymktg.com
 prnx.net
@@ -6919,6 +6927,7 @@ secure.yeld9auto.com
 secure.yirr5frog.com
 securite.01net.com
 securitymetrics.com
+s.edgeuno.com
 seedscissors.com
 seeip.org
 segment.com
@@ -8471,6 +8480,7 @@ t.admp.io
 tag4arm.com
 tag.ageureka.com
 tag.agrvt.com
+tag-api-2-1.ccgateway.net
 tag.aticdn.net
 tag.atmserving.com
 tag.aumago.com
@@ -8497,6 +8507,7 @@ tag.havasedge.com
 tag.leadplace.fr
 tag.lexer.io
 taglocker.target.com
+tag-manager.yle.fi
 tag.md-nx.com
 tag.measured.com
 tag.mention-me.com
@@ -8956,6 +8967,7 @@ trkn.us
 trk.pinterest.com
 tr.kqzamd.com
 trk.register.it
+trksontrks.com
 trk.vidible.tv
 tr.line.me
 tr.marsflag.com
@@ -9736,6 +9748,7 @@ xlogz.com
 xmode.io
 xmyip.com
 xnfqqnw.onet.pl
+xon3tx2rqp0l-a.akamaihd.net
 xovq5nemr.com
 xpanama.net
 xp.apple.com
@@ -9756,6 +9769,7 @@ y.analytics.app-adforce.jp
 ybx.yahoo.co.jp
 ycstream.yes24.com
 yext-pixel.com
+yhmapi.com
 yhmgtrack.com
 yieldify.com
 yieldoptimizer.com
