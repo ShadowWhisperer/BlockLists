@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,782
-# Updated: 4/28/2021  20:36 (8:36 PM CST)
+# Domains: 9,791
+# Updated: 4/28/2021  23:41 (11:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -567,6 +567,7 @@ analytics-sessions-redirector.cs.madgexhosting.net
 analytics.shoptimize.in
 analytics.site123.io
 analytics.slashdotmedia.com
+analytics.snidigital.com
 analytics.srvnw.com
 analyticsssl.forcepoint.com
 analytics-static.ugc.bazaarvoice.com
@@ -808,6 +809,7 @@ as.myhomebook.de
 as.noizz.de
 aspiringattempt.com
 as.rollingstone.de
+assay.tsn.ua
 asset.fwcdn1.com
 assets.a-mo.net
 assetscdn.stackla.com
@@ -881,6 +883,7 @@ a-us-east.rfihub.com.akadns.net
 a.use-enco.com
 a.uso.org
 auth.omoplanet.com
+autocounter.idealmedia.io
 autocounter.lentainform.com
 autoid.com
 automat-ai.com
@@ -1425,6 +1428,7 @@ christian.lifeway.com
 christians.lifeway.com
 chromecast-beacons.xumo.com
 chunkycactus.com
+c.idealmedia.io
 c.id.msn.com
 c.ie.msn.com
 ci.intuit.com
@@ -6028,6 +6032,7 @@ regioner.spincar.com
 registration.acer.com
 regularimptracker.xyz
 regularplants.com
+reingod.com
 reinvigorate.net
 rejectfairies.com
 relay42.com
@@ -6588,6 +6593,7 @@ sdc.aware.com.au
 sdc.bawag.com
 sdc.firststatesuper.com.au
 sdcs.felissimo.co.jp
+sddan.com
 s.delfi.ee
 sdiapi.com
 sdklog.tvstore.opera.com
@@ -6951,6 +6957,7 @@ services-ssl.boredpanda.com
 servmetric.com
 servt.vid-play.com
 sessioncam.com
+settings.crashlytics.com
 settings-win.data.microsoft.com
 sexad.net
 sextracker.be
@@ -7154,6 +7161,7 @@ smetricsadobe.hollandandbarrett.ie
 smetricsadobe.hollandandbarrett.nl
 smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
+smetrics.att.com
 smetrics.carfax.com
 smetrics.cars.com
 smetrics.chrysler.com
@@ -7526,7 +7534,6 @@ spiffymachine.com
 sp.infinigrow.com
 spirebaboon.com
 s.pixsrvcs.com
-splitter.lendingtree.com
 splkmobile.com
 splunkcloud.com
 splunk.com
@@ -7927,6 +7934,7 @@ stat.mydaddy.cc
 stat.ovh
 stat.pl
 stat-pulse.com
+stat.reportide.com
 stat-rock.com
 stats01.20min.ch
 stats1.wpmudev.com
@@ -8873,6 +8881,7 @@ trackuity.supplies
 track-us.adformnet.akadns.net
 trackvoluum.com
 track.weimob.com
+track.wg-aff.com
 track.wikibuy.com
 trackwill.com
 trackyourstats.com

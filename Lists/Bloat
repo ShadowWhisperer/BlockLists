@@ -1,11 +1,11 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 740
-# Updated: 4/27/2021  10:25 (10:25 AM CST)
+# Domains: 742
+# Updated: 4/28/2021  23:41 (11:41 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 ipv4.connman.net                                        #Arch / Others - Internet Access Check
@@ -59,6 +59,8 @@ kit-free.fontawesome.com                                #Font      Font Awesome
 kit-pro.fontawesome.com                                 #Font      Font Awesome
 pro.fontawesome.com                                     #Font      Font Awesome
 use.fontawesome.com                                     #Font      Font Awesome
+fontstatic.com                                          #Font        Font Face
+fontface.me                                             #Font        Font Face
 fontcdn.ir                                              #Font  Font Server
 fontserver.ir                                           #Font  Font Server
 fontstorage.com                                         #Font      FontStorage
