@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,824
-# Updated: 4/29/2021  18:02 (6:02 PM CST)
+# Domains: 9,829
+# Updated: 4/30/2021  00:06 (12:06 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1741,6 +1741,7 @@ collector.retailcrm.pro
 collector.schibsted.io
 collector.scopely.io
 collector-service.api.lbry.tv
+collector_sr.contentexchange.me
 collector.statowl.com
 collector.tescocompare.com
 collector.unlockxh4.com
@@ -1940,6 +1941,7 @@ crumbs.robinhood.com
 c.ru.msn.com
 crymyip.com
 cs.analytics.lego.com
+csc.beap.bc.yahoo.com
 c.se.msn.com
 c.sg.msn.com
 csi.gstatic.com
@@ -2851,6 +2853,7 @@ flockflame.com
 f-log-extension.grammarly.io
 floodprincipal.com
 floweryoperation.com
+flrdra.com
 fls-eu.amazon.co.uk
 fls-na.amazon.ca
 fls-na.amazon.com
@@ -3366,6 +3369,7 @@ hub.firestonecompleteautocare.com
 hubmetrics.samsclub.com
 hubspotanalytics.com
 huckabuy.com
+hu.contentexchange.me
 hullapp.io
 hull.io
 hulu.hb-api.omtrdc.net
@@ -8820,6 +8824,7 @@ tracker-dot-dfty-optimeeze-leroymerlines.appspot.com
 tracker-dot-dfty-optimeeze-leroymerlinpt.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker.gg
+tracker_hu.contentexchange.me
 tracker-legacy.streeteasy.com
 tracker.network
 tracker.prq.to
