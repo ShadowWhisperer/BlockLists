@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,836
-# Updated: 4/30/2021  12:18 (12:18 PM CST)
+# Domains: 9,841
+# Updated: 5/1/2021  14:28 (2:28 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3067,6 +3067,7 @@ geo.settings.data.microsoft.com.akadns.net
 geo.seznam.cz
 geostats.ovh
 geotargetly-1a441.appspot.com
+geo-tracker.smadex.com
 geover-prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 geovisite.com
@@ -3088,6 +3089,7 @@ get-latest.convrse.media
 getlocalmeasure.com
 getmetrical.com
 get-myip.com
+getrockerbox.com
 getsentry.com
 getshopster.net
 getsidekick.com
@@ -3944,6 +3946,7 @@ lo3trk.com
 loader.ogstats.com
 load.s3.amazonaws.com
 loc1.hitsprocessor.com
+localization.digi-prod.pbs.org
 localization.services.pbs.org
 locallogic.co
 localytics.com
@@ -3981,6 +3984,7 @@ loganalytics.io
 log-b-1270450396.us-west-1.elb.amazonaws.com
 logbor.com
 log-c-2144142094.us-west-1.elb.amazonaws.com
+logcenter.cupshe.com
 logconfig.polarisoffice.com
 logcounter.com
 logentries.com
@@ -5699,6 +5703,7 @@ pixel.barion.com
 pixel.epik.com
 pixeleze.com
 pixel.facebook.com
+pixel.honeybook.com
 pixel.locker2.com
 pixel.marketing
 pixel.mathtag.com
