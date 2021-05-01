@@ -228,6 +228,8 @@ license.adrise.tv                          # App - Tubi (Digital Rights Manageme
 api2.sr.roku.com                           # App - The Roku Channel
 configs.ott.aetnd.com                      # App - A&E - Check for internet access
 signature.video.aetnd.com                  # App - A&E - Crashes App
+liberty.sw.roku.com                        # Roku - System Update Check (Embedded TV)
+bryan.sw.roku.com                          # Roku - System Update Check
 oempprd.samsungcloudsolution.com           # Samsung - App Updates
 oempprd.samsungcloudsolution.net           # Samsung - App Updates
 otnprd8.samsungcloudsolution.net           # Samsung - Firmware Updates
@@ -236,7 +238,6 @@ otnprd10.samsungcloudsolution.net          # Samsung - Firmware Updates
 otnprd11.samsungcloudsolution.net          # Samsung - Firmware Updates
 api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
 update.biv.sony.tv                         # Sony - System Updates
-liberty.sw.roku.com                        # TCL - Roku System Update Check
 
 
 # Breaks Some Sites
@@ -247,6 +248,7 @@ mkt6385.com                        #Marketing - Breaks Confirmation Email
 lddy.no                            #Marketing - Breaks Links
 pjtra.com                          #Marketing - Breaks Links
 shareasale.com                     #Marketing - Breaks Links
+webto.salesforce.com               #Marketing - Can't send support request
 click.mc.crimsontrace.com          #Tracker - Breaks Links (Crimson Trace)
 click.email.newegg.com             #Tracker - Breaks Links (Newegg)
 geoip-db.com                       #Tracker - Breaks HP Parts Page
@@ -264,6 +266,7 @@ mandrillapp.com                    #Tracker - Breaks Links
 shareasale-analytics.com           #Tracker - Breaks Links
 target.georiot.com                 #Tracker - Breaks Links
 tracking.truthfinder.com           #Tracker - Breaks Links
+geo.craigslist.org                 #Tracker - Breaks landing page
 rta.xboxlive.com                   #Tracker - Breaks games that use Xbox Live (Multiplayer)
 kangaroo.vocento.com               #Tracker - Prevents site access -> abc.es
 trib.al                            #URL Shortener / Tracker - Breaks Links
