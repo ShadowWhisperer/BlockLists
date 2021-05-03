@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,841
-# Updated: 5/1/2021  14:28 (2:28 PM CST)
+# Domains: 9,859
+# Updated: 5/3/2021  12:59 (12:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -538,6 +538,7 @@ analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
 analytics.google.com
+analytics.ihg.com
 analytics-ingestion.production-public.tubi.io
 analytics-iq.com
 analytics-js-cdn.liferay.com
@@ -756,6 +757,7 @@ apptv.com
 appvizer.one
 appzi.io
 apsalar.com
+apttrk.com
 a.pub.network
 apxadtracking.net
 apxlv.com
@@ -1580,6 +1582,7 @@ clickon.co.il
 click.org
 clickperfect.com
 clickprotects.com
+click.q4f9g3np.com
 click.ru
 clicks.net
 clickstream.events
@@ -1607,6 +1610,7 @@ clientseoreport.com
 client.spinasale.com
 client-stats.gaijin.net
 client-stats.warthunder.com
+cliktrackr.com
 clixmetrix.com
 clixtell.com
 clk.about.com
@@ -2506,6 +2510,7 @@ efeedbacktrk.com
 effectivemeasure.com
 effectivemeasure.net
 efficaciouscactus.com
+efreecode.com
 egain.com
 ehg.bridges.com
 ehg.buyerzone.com
@@ -3130,6 +3135,8 @@ gloriousbeef.com
 gloriouscracker.com
 glossysense.com
 glotgrx.com
+glowtrk3.com
+glowtrk7.com
 glpals.com
 glympse.com
 g.mashable.com
@@ -3149,6 +3156,7 @@ googleanalytics.com
 googleoptimize.com
 googletagmanager.com
 googletagservices.com
+goplay4.com
 gorgeousground.com
 gosquared.com
 gostats.com
@@ -3297,6 +3305,7 @@ heyhelga.net
 hfc195b.com
 h.foxsports.com
 h.hollywood.com
+hiasor.com
 hiconversion.com
 higherlogic.com
 highfalutinbox.com
@@ -4071,6 +4080,7 @@ ls.apple.com.edgesuite.net
 ls.chatid.com
 lsdm.co
 lt02.net
+ltrrtrk.com
 luckyorange.com
 luckyorange.net
 lumberamount.com
@@ -5897,6 +5907,7 @@ puzzlingproperty.com
 pview.gomtv.com
 pv.sohu.com
 pvtag.yahoo.co.jp
+pw22trk.com
 pwa.grgs.ro
 pw-analytics.phunware.com
 pwhtrk.com
@@ -5956,6 +5967,7 @@ quicksandear.com
 quietknowledge.com
 quinstreet.com
 quisma.com
+quixdtrk.com
 quizzicalzephyr.com
 quotespeed.morningstar.com
 qushopping.net
@@ -5976,6 +5988,7 @@ rainystretch.com
 rakutenready.com
 rambler.ru
 rambunctiousvoyage.com
+randolinks5.com
 random-logic.com
 rangecake.com
 ranking-hits.de
@@ -6701,7 +6714,6 @@ secure.analytics.hiexpress.com
 secure.analytics.holidayinn.com
 secure.analytics.hotelindigo.com
 secure.analytics.ichotelsgroup.com
-secure.analytics.ihg.com
 secure.analytics.intercontinental.com
 secure.analytics.priorityclub.com
 secure.analytics.staybridge.com
@@ -7960,6 +7972,7 @@ stat.jar.ru
 statlog.cc.netease.com
 stat.media
 stat.mydaddy.cc
+stat.natureworldnews.com
 stat.ovh
 stat.pl
 stat-pulse.com
@@ -8101,6 +8114,8 @@ statuesquebrush.com
 status.mm.makingfun.com
 stat.v-56.com
 statystyki.panelek.com
+stayonlinkfor.com
+stayonlinkone.com
 st.bahn.de
 stcounter.com
 st.db-fernverkehr.com
@@ -8858,6 +8873,7 @@ trackingapi.kaufda.de
 trackingapi.meinprospekt.de
 tracking-api.softwareadvice.com
 trackingapi.trendemon.com
+tracking.avapartner.com
 tracking.buygoods.com
 trackingcareers.accenture.com
 tracking.chilipiper.com
@@ -9730,6 +9746,7 @@ www-smt.daiichisankyo-hc.co.jp
 www-t.apartments.com
 wyng.com
 wysistat.com
+wz9ltrk.com
 wzrkt.com
 x1box-beacons.xumo.com
 xbh.acdsee.com
@@ -9828,6 +9845,7 @@ zeemapsmetrics.s3.amazonaws.com
 zeotap.com
 zergnet.com
 zeroclickfraud.com
+zeustrk.com
 zhihu-web-analytics.zhihu.com
 zineone.com
 zippywind.com
