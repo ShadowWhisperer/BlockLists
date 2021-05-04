@@ -1,9 +1,9 @@
     Ads              Advertisements, Banners, Widgets & Push Notifications  
     Adult            Porn / 18+ Content  
-    Apple            Bloat
-    Bitcoin          Bitcoin domains (Not directly malware)
+    Apple            Bloat  
     Bloat            Fonts, Surveys, Domains not required for software to function  
     Chat             Chat Dialog Popups  
+    Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not malware, but could be used by it)  
     Dating           Dating Sites  
     Dynamic          Dynamic DNS:  DNS --> IP  
     Free             Free/Cheap Hosting, Free Blogs  
