@@ -134,14 +134,15 @@ msftncsi.com                                     # Microsoft - Network Icon Stat
 blob.officehome.msocdn.com                       # Microsoft - Office 365 - Login
 compass-ssl.microsoft.com                        # Microsoft - Office 365 - Website Tile Images
 blobs.officehome.msocdn.com                      # Microsoft - Office Site
-ajax.aspnetcdn.com                               # Microsoft - Office - Download
-az725175.vo.msecnd.net                           # Microsoft - Office - Download
-office.live.com                                  # Microsoft - Office - Download
-statics-marketingsites-eus-ms-com.akamaized.net  # Microsoft - Office - Download - 2010
-statics-marketingsites-wcus-ms-com.akamaized.net # Microsoft - Office - Download - 2010
 activation-v2.sls.microsoft.com                  # Microsoft - Office - Active
 go.microsoft.com                                 # Microsoft - Office - Active
 officeclient.microsoft.com                       # Microsoft - Office - Active
+ajax.aspnetcdn.com                               # Microsoft - Office -  Download
+az725175.vo.msecnd.net                           # Microsoft - Office -  Download
+office.live.com                                  # Microsoft - Office -  Download
+statics-marketingsites-eus-ms-com.akamaized.net  # Microsoft - Office -  Download (2010)
+statics-marketingsites-wcus-ms-com.akamaized.net # Microsoft - Office -  Download (2010)
+metadata.templates.cdn.office.net                # Microsoft - Office -  Download Templates
 statics-uhf-wus.akamaized.net                    # Microsoft - Support Pages
 wdcp.microsoft.com                               # Microsoft - Windows Defender Updates
 displaycatalog.mp.microsoft.com                  # Microsoft - Windows Store
