@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,859
-# Updated: 5/3/2021  12:59 (12:59 PM CST)
+# Domains: 9,862
+# Updated: 5/4/2021  00:01 (12:01 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -7203,6 +7203,8 @@ smetricsadobe.hollandandbarrett.nl
 smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
 smetrics.att.com
+smetrics.bankofmelbourne.com.au
+smetrics.banksa.com.au
 smetrics.carfax.com
 smetrics.cars.com
 smetrics.chrysler.com
@@ -8463,6 +8465,7 @@ sweetanalytics.com
 sweetslope.com
 s.wellandtribune.ca
 swellstocking.com
+swift.efirstbank.com
 swiftypecdn.com
 swiftype.com
 swimslope.com
