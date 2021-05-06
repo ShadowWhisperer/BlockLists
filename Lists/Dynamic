@@ -1,11 +1,11 @@
 #
 #    File: Dynamic   (Dynamic DNS:  DNS --> IP)
-# Domains: 1,629
-# Updated: 3/11/2021  23:47 (11:47 PM CST)
+# Domains: 1,631
+# Updated: 5/6/2021  00:11 (12:11 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 0000000000000000000000.com
@@ -326,6 +326,7 @@ dnsalias.com
 dnsalias.net
 dnsalias.oom
 dnsalias.org
+dns.army
 dns-auth.com
 dns-auth.net
 dns-cloud.net
@@ -1176,6 +1177,7 @@ nubem.com
 nufszone.com
 nx.tc
 ocry.com
+ods.org
 oemdns.com
 office-on-the.net
 ohbah.com

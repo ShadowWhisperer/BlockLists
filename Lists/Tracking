@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,880
-# Updated: 5/5/2021  19:57 (7:57 PM CST)
+# Domains: 9,885
+# Updated: 5/6/2021  00:11 (12:11 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -536,6 +536,7 @@ analytics.ff.avast.com
 analytics.fr
 analytics.freemake.com
 analytics.frontkom.io
+analytics.gearfire.com
 analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
@@ -1311,6 +1312,7 @@ cdn.avmws.com
 cdn-bacon.getcarro.com
 cdn.brcdn.com
 cdn.bronto.com
+cdn-cedexis.video.aetnd.com
 cdn.churnsignal.com
 cdn.c-i.as
 cdn.cooladata.com
@@ -1865,6 +1867,7 @@ count.cnblogs.com
 counter1.fcs.ovh
 counter2.blog.livedoor.com
 counter2.freeware.de
+counter32.bravenet.com
 counter4.whocame.ovh
 counter.aws.int.celereapis.com
 counter.cz
@@ -2077,7 +2080,6 @@ d38xvr37kwwhcm.cloudfront.net
 d39vf9bwtb4sua.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
 d3bch4rrbnbe5n.cloudfront.net
-d3e54v103j8qbb.cloudfront.net
 d3ff4r1h05n2rz.cloudfront.net
 d3fxnc8ccjl830.cloudfront.net
 d3haamwmfumm0r.cloudfront.net
@@ -7210,6 +7212,7 @@ smetrics.abbott
 smetricsadobe.hollandandbarrett.com
 smetricsadobe.hollandandbarrett.ie
 smetricsadobe.hollandandbarrett.nl
+smetrics.aetn.com
 smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
 smetrics.att.com
@@ -7797,6 +7800,7 @@ ssite.waitrose.com
 sskmnews.pro
 ssl.aafpfoundation.org
 ssl.aafp.org
+ssl.aetndigital.com
 sslanalytics.sixt.at
 sslanalytics.sixt.be
 sslanalytics.sixt.ch
@@ -9183,6 +9187,7 @@ uf.noclef.com
 ugdturner.com
 uge.ltroute.com
 uhf.microsoft.com
+uid.mavencoalition.io
 uie.data.cbc.ca
 uif.microsoft.com
 uk-script.dotmetrics.net
