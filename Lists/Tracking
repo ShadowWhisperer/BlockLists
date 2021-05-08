@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,916
-# Updated: 5/7/2021  15:45 (3:45 PM CST)
+# Domains: 9,933
+# Updated: 5/7/2021  22:20 (10:20 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -520,6 +520,7 @@ analytics-cdn.redbubble.com
 analytics.civicplus.com
 analytics.clickdimensions.com
 analytics.com
+analytics.d17media.net
 analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
 analytics.dena.com
@@ -995,6 +996,7 @@ bdg-analytics.appspot.com
 b.digitalartsonline.co.uk
 bea4.adultswim.com
 beaconforstore.com
+beaconimages.netflix.net
 beacon.riskified.com
 beacons2.extremereach.io
 beacons2.gvt2.com
@@ -1686,6 +1688,7 @@ cloud.gti.mcafee.com
 cloud-iq.com
 cloud.junctiontv.net
 cloudsdestruction.com
+cloudsponge.com
 cloudtrust.rocks
 clqtrk.com
 clrstm.com
@@ -1706,6 +1709,7 @@ c.my.msn.com
 cnd.landsend.com
 c.nl.msn.com
 c.no.msn.com
+c.ns1p.net
 cnstats.ru
 cnt.alawar.com
 cnt.hd21.com
@@ -2063,6 +2067,7 @@ d24b4gammzmqzp.cloudfront.net
 d24bnj4f1s1f8m.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
+d26n2uyu5tcx3y.cloudfront.net
 d26opx5dl8t69i.cloudfront.net
 d26x5ounzdjojj.cloudfront.net
 d2bhklarlhhnvo.cloudfront.net
@@ -2132,6 +2137,7 @@ data.capitaloneinvesting.com
 datacollection.api.mylyve.com
 datacollector.coin.scribol.com
 datacollector-dre.dt.hicloud.com
+datacygnal.io
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
@@ -4066,6 +4072,7 @@ logstat.kugou.com
 logs.viadata.store
 log-tb.isnssdk.com
 log-tb.sgsnssdk.com
+log.tracemyip.org
 log-va.tiktokv.com
 log.v.ssp.yahoo.com
 logx.optimizely.com
@@ -4637,6 +4644,7 @@ mxcdn.net
 mxpnl.com
 mxptint.net
 myaffiliates.com
+myattlog.att.com
 mybbc-analytics.files.bbci.co.uk
 mybet.regily.com
 mybloglog.com
@@ -4743,6 +4751,7 @@ nelreports.net
 neodatagroup.com
 nerdydata.com
 nervoussummer.com
+netapplications.com
 netavenir.com
 netclickstats.com
 netcoresmartech.com
@@ -6035,6 +6044,7 @@ rcsmetrics.it
 r.draeger.com
 r.draegershop.com
 rdtrck2.com
+reach-id.orbit.tm-awx.com
 reactandshare.com
 reactflow.com
 reactful.com
@@ -6194,6 +6204,7 @@ resu.io
 resulticks.com
 resultsmedia.com
 retagro.com
+retainful.com
 retargetapp.com
 retargeter.com
 retargetly.com
@@ -7333,6 +7344,7 @@ snowplow-pixel.tradingview.com
 snplow.net
 snrbox.com
 snrcdn.net
+s.ns1p.net
 snta0034.com
 so8.hyatt.com
 soaprange.com
@@ -8065,6 +8077,7 @@ statsmp2.emol.com
 stats.myminifactory.com
 stats.nerdpress.net
 stats.net
+stats-new.smugmug.com
 stats.newsweek.com
 stats-newyork1.bloxcms.com
 stats.norton.com
@@ -8628,6 +8641,7 @@ target.chrysler.com
 targetcircle.com
 target.cisco.com
 targetemsecure.blob.core.windows.net
+targeting.perso.aws.arc.pub
 targeting.tronc.arcpublishing.com
 target.jeep.com
 target.microsoft.com
@@ -8900,6 +8914,7 @@ tracker-dot-optimeeze.appspot.com
 tracker.gg
 tracker_hu.contentexchange.me
 tracker-legacy.streeteasy.com
+tracker.nbcuas.com
 tracker.network
 tracker.prq.to
 tracker.ru
@@ -8939,6 +8954,7 @@ tracking.newshub.co.uk
 tracking.opn.la
 trackingpin.com
 tracking.retailrocket.net
+tracking.searchmarketing.com
 tracking-secure.csob.cz
 tracking-server-prod-1.zenmxapps.com
 tracking.sharplink.us
@@ -9811,6 +9827,7 @@ xclicks.net
 x.cnt.my
 xd1trk.com
 xdcs-collector.ximalaya.com
+x.disq.us
 xdrig.com
 xentrk.net
 xid.atlassian.com
