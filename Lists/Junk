@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 466
-# Updated: 4/28/2021  20:36 (8:36 PM CST)
+# Domains: 461
+# Updated: 5/8/2021  16:57 (4:57 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -28,10 +28,6 @@ nimbus.bitdefender.net                         #Antivirus    Bit Defender
 upgrade.bitdefender.com                        #Antivirus    Bit Defender
 e5.sk                                          #Antivirus    Eset
 eset.com                                       #Antivirus    Eset
-account.can.ftrsecure.com                      #Antivirus    F-Secure
-fsapi.com                                      #Antivirus    F-Secure
-f-secure.com                                   #Antivirus    F-Secure
-ftrsecure.com                                  #Antivirus    F-Secure
 ijinshan.com                                   #Antivirus    Kingsoft
 cloudantivirus.com                             #Antivirus    Panda
 pandasecurity.com                              #Antivirus    Panda
@@ -117,7 +113,6 @@ vinddirect.nl                                  #Bookmark Site
 webgidsje.nl                                   #Bookmark Site
 weblinker.nl                                   #Bookmark Site
 
-brave.com                                      #Browser
 bravesoftware.com                              #Browser
 co.cc                                          #Browser
 coccoc.com                                     #Browser
