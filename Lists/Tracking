@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,933
-# Updated: 5/7/2021  22:20 (10:20 PM CST)
+# Domains: 9,942
+# Updated: 5/9/2021  02:25 (2:25 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -514,6 +514,7 @@ analyticsapi.happypancake.net
 analytics.arm.com
 analytics.audioeye.com
 analytics.batesvilletechnology.com
+analytics.brave.com
 analytics.carbonite.com
 analytics.ccs.mcafee.com
 analytics-cdn.redbubble.com
@@ -1883,6 +1884,7 @@ counter.aws.int.celereapis.com
 counter.cz
 counter.de
 counter.gd
+counter.hitslink.com
 counter.info
 counter.live4members.com
 counter.org
@@ -2499,6 +2501,7 @@ eba-amadeus.netdna-ssl.com
 ebilobster.ai
 ebisolutions.co.uk
 eb.trbas.com
+ec2-54-228-219-14.eu-west-1.compute.amazonaws.com
 ecdn.analysis.fi
 ec.editmysite.com
 ec.instapagemetrics.com
@@ -3906,6 +3909,7 @@ leadinspector.de
 leadlander.com
 leadmanagerfx.com
 leadspace.com
+leadsquaredcdn.com
 leads.radioedit.iheart.com
 leadsrx.com
 leady.com
@@ -4812,6 +4816,7 @@ nmp1.com
 nmp2.com
 nmtracking.netflix.com
 n.news.com
+nodetracker.datawrkz.com
 noibu.com
 noiselessplough.com
 nom.lds.org
@@ -7215,6 +7220,7 @@ sm-analytics.com
 smartbugmedia.com
 smartcj.com
 smartclick.net
+smartconvert.co
 smart-dmp.com
 smartechmetrics.com
 smarterhq.io
@@ -8025,6 +8031,7 @@ statistics.ro
 statistics-weblog.gamesamba.com
 statistic.weimobdc.com
 stat.jar.ru
+stat.lappajarvenautokoulu.fi
 statlog.cc.netease.com
 stat.media
 stat.mydaddy.cc
@@ -8032,6 +8039,7 @@ stat.natureworldnews.com
 stat.ovh
 stat.pl
 stat-pulse.com
+stat.really.fi
 stat.reportide.com
 stat-rock.com
 stats01.20min.ch
@@ -8065,6 +8073,7 @@ stats.fr
 stats.fw1.biz
 statshop.fr
 stats.hqhoneys.com
+stats.hstatic.net
 stats.ivpn.net
 stats.jizzonmyjugs.com
 stats.landingi.com
