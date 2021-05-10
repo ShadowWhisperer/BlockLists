@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,942
-# Updated: 5/9/2021  02:25 (2:25 AM CST)
+# Domains: 9,967
+# Updated: 5/9/2021  23:29 (11:29 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -511,6 +511,7 @@ analyticsapi.bsbportal.com
 analytics-api.cloudinary.com
 analytics-api.dvdfab.cn
 analyticsapi.happypancake.net
+analytics.archive.org
 analytics.arm.com
 analytics.audioeye.com
 analytics.batesvilletechnology.com
@@ -589,6 +590,7 @@ analytics.twitter.com
 analytics-usf.hotyon.com
 analyticsvidhya.com
 analytics.visualstudio.com
+analytics.webpushr.com
 analytics.wepayyoulongtime.com
 analytics.yahoo.com
 analytics.yext-static.com
@@ -727,6 +729,8 @@ app.carnow.com
 appcelerator.com
 appcelerator.net
 app.civey.com
+appcues.com
+appcues.net
 appdynamics.com
 app.factors.ai
 app.fera.ai
@@ -1015,6 +1019,7 @@ beacon-v2.helpscout.net
 beacon.walmart.com
 beacon.wikia-services.com
 beadbears.com
+beam.dasmart.eu
 beamincrease.com
 beam.remp.stg.online.xl.pt
 bearsmyip.com
@@ -1117,6 +1122,7 @@ boringcoat.com
 bosctrl32.com
 botfaqtor.ru
 bounceexchange.com
+bouncepilot.com
 bouncex.com
 bouncex.net
 bouncyproperty.com
@@ -1359,6 +1365,7 @@ cdn.yottaa.com
 cdn.ywxi.net
 cdn.ywxq.net
 cdn.ztsrv.com
+cdp.asia
 cdp.cloud.unity3d.com
 cedexis-radar.net
 cel.danskebank.dk
@@ -2350,6 +2357,7 @@ dmtrk.net
 dmtry.com
 dn1i8v75r669j.cloudfront.net
 dna8twue3dlxq.cloudfront.net
+dnb.com
 dnn506yrbagrg.cloudfront.net
 dockdigestion.com
 docksalmon.com
@@ -2779,6 +2787,7 @@ f2.doodlemobile.com
 faas.marktplaats.nl
 faceid.com
 faceitanalytics.com
+face-stats.dollarshaveclub.com
 faceunity.com
 facilitategrandfather.com
 factors.ai
@@ -3101,8 +3110,10 @@ geover-prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
 geovisite.com
 geovisites.com
+geo.wpforms.com
 geo.yahoo.com
 geo.ziffdavis.com
+gepi.global-e.com
 getadmiral.com
 getblue.io
 getcake.com
@@ -3564,6 +3575,7 @@ infos.belong.com.au
 infos.budgetdirect.com.au
 infos.designmycard.com.au
 info.seek.com
+infosniper.net
 infos.telstra.com
 infos.telstra.com.au
 infos.vodafone.com.au
@@ -3597,6 +3609,7 @@ insight.rapid7.com
 insightrocket.com
 insights.algolia.io
 insights.autofi.com
+insights.bizrate.com
 insights.cachefly.com
 insights-collector.gog.com
 insights.com
@@ -3750,6 +3763,7 @@ i.wynnlasvegas.com
 ixiaa.com
 izatcloud.net
 izenda.com
+j14mctquw9.execute-api.us-east-1.amazonaws.com
 j.6sc.co
 j93557g.com
 jabmo.app
@@ -4040,6 +4054,7 @@ logging.goodgamestudios.com
 logging.groupon.com
 logging.prefixbox.com
 logging.wilmaa.com
+logg.kiwi.com
 loggly.com
 loggly.net
 log.go.com
@@ -4049,6 +4064,7 @@ logit.api.intuit.com
 logit-aws.api.intuit.com
 logit.prd.api.a.intuit.com
 logit-us-west-2.prd.api.a.intuit.com
+loglady.skypicker.com
 log-marketing.jp
 logmatic.io
 log-mining-web.makeshop.co.kr
@@ -5099,6 +5115,7 @@ optimix.cn
 optimizely.com
 optimize-stats.voxmedia.com
 optimost.com
+optimove.events
 optnmstr.com
 oracleinfinity.io
 orangeoperation.com
@@ -5755,6 +5772,7 @@ pixel.honeybook.com
 pixel.locker2.com
 pixel.marketing
 pixel.mathtag.com
+pixel.newscred.com
 pixel.nymag.com
 pixel.quantcount.com
 pixels.dsp.theadtech.com
@@ -7027,6 +7045,7 @@ sensor.highdegree.io
 sensors.cloud.tencent.com
 sensorsdata.cn
 sensorslink.olighthk.com
+sensors.phemex.cloud
 sensors.snaptube.app
 sensortower.com
 sentifi.com
@@ -7282,6 +7301,7 @@ smetrics.motortrend.com
 smetrics.nascar.com
 s.metrics.popularwoodworking.com
 s.metrics.quiltingcompany.com
+smetrics.sephora.com
 s.metrics.shopwoodworking.com
 s.metrics.skyandtelescope.com
 smetrics.startribune.com
@@ -8053,6 +8073,7 @@ stats.avast.com
 stats.avcdn.net
 stats.avgbrowser.com
 stats.boxtec.ch
+stats.coinpayments.net
 statscollector.digital.vistaprint.com
 stats.com
 stats.cyberhost.uk
@@ -8697,6 +8718,7 @@ telemetry-01.adwc.fr33tux.org
 telemetry-02.adwc.mb.fr33tux.org
 telemetry-03.adwc.mb.fr33tux.org
 telemetry_ads.msn.com
+telemetry.api.wmcdp.io
 telemetry_az361816.vo.msecnd.net
 telemetry.dailymotion.com
 telemetry-data.r53-2.services.mozilla.com
@@ -8868,6 +8890,7 @@ toy.log.nexon.io
 toyotaanalyticslb-1392891868.ap-southeast-2.elb.amazonaws.com
 tp88trk.com
 t.paypal.com
+tp.freshmarketer.com
 t.pluto.tv
 t.poki.io
 t.powerreviews.com
@@ -8913,6 +8936,7 @@ tracker.affirm.com
 tracker-api.my.com
 trackerapi.truste.com
 tracker.bang.com
+tracker.beam.dasmart.eu
 tracker.cab
 tracker.com
 tracker.co.uk
@@ -9354,6 +9378,7 @@ us-track.wayin.com
 usvalzdiprd-external-6361273.us-east-1.elb.amazonaws.com
 us-west-1.onemobile.yahoo.com
 uswestmonitoring.livesegmentservice.com
+utils.global-e.com
 utrace.de
 uttermosthobbies.com
 ut.upmc.com
