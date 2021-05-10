@@ -1,3 +1,16 @@
+#
+#    File: Chat   (Chat Dialog Boxes  *Not Chat Rooms)
+# Domains: 122
+# Updated: 5/10/2021  00:30 (12:30 AM CST)
+# Creator: ShadowWhisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#
+#  This file is ment to be used with dnsmasq, to wildcard block domains
+#  Place it in '/etc/dnsmasq.d/FILE_NAME
+#
+
 address=/.avaamo.ai/0.0.0.0
 address=/.avaamo.com/0.0.0.0
 address=/.keyreply.com/0.0.0.0

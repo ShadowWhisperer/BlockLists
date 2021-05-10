@@ -1,3 +1,16 @@
+#
+#    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
+# Domains: 134
+# Updated: 5/10/2021  00:30 (12:30 AM CST)
+# Creator: ShadowWhisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#
+#  This file is ment to be used with dnsmasq, to wildcard block domains
+#  Place it in '/etc/dnsmasq.d/FILE_NAME
+#
+
 address=/.tedata.net/0.0.0.0
 address=/.te.eg/0.0.0.0
 address=/.vnnic.vn/0.0.0.0

@@ -1,3 +1,16 @@
+#
+#    File: Shock   (Gore, and Gross Sites)
+# Domains: 90
+# Updated: 5/10/2021  00:30 (12:30 AM CST)
+# Creator: ShadowWhisperer  (Sean H.)
+#
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#
+#  This file is ment to be used with dnsmasq, to wildcard block domains
+#  Place it in '/etc/dnsmasq.d/FILE_NAME
+#
+
 address=/.1girl1bowl.com/0.0.0.0
 address=/.1girl1pitcher.com/0.0.0.0
 address=/.1girl1pitcher.org/0.0.0.0
