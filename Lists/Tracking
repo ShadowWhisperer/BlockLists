@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,967
-# Updated: 5/9/2021  23:29 (11:29 PM CST)
+# Domains: 9,971
+# Updated: 5/10/2021  23:02 (11:02 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3081,6 +3081,7 @@ geoiplookup.wikia.com
 geoip.nbcnews.com
 geoip.redirect-ads.com
 geoip-rest.ably.io
+geoip.sezzle.com
 geoiptool.com
 geoip.tools
 geojs.io
@@ -3828,6 +3829,7 @@ key-logger-free.com
 keytiles.com
 keywee.co
 khingtracking.com
+kickfire.com
 kid-control.com
 kinesis.ap-east-1.amazonaws.com
 kinesis.ap-northeast-1.amazonaws.com
@@ -5908,6 +5910,7 @@ profitwell.com
 profusesupport.com
 prometheusintelligencetechnology.com
 promopassage.com
+promostats.ru
 proof-x.com
 proofx.com
 propellerclick.com
@@ -9573,6 +9576,7 @@ wavesecure.com
 wa.vodafone.cz
 wa.vodafone.de
 wa.vodafone.pt
+wawlabs.com
 waymailtracker.com
 wb22trk.com
 wbinsights.com
