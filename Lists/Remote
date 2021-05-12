@@ -1,11 +1,11 @@
 #
 #    File: Remote   (Domains used to remotely control your stuff)
-# Domains: 99
-# Updated: 3/10/2021  00:31 (12:31 AM CST)
+# Domains: 101
+# Updated: 5/12/2021  10:21 (10:21 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 01com.com
@@ -18,6 +18,8 @@ anydesk.de
 anyplace-control.com
 assist.zoho.com
 attremotesupport.com
+aweray.com
+aweray.net
 beanywhere.com
 bomgar.com
 cdngetgo.com
