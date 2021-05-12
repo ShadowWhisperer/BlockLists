@@ -1,11 +1,11 @@
 #
 #    File: Tunnels   (VPNs & Proxies)
-# Domains: 360
-# Updated: 4/17/2021  23:51 (11:51 PM CST)
+# Domains: 361
+# Updated: 5/11/2021  19:42 (7:42 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 0x3d.lu
@@ -267,6 +267,7 @@ shadowsurf.com
 sitenable.com
 sitenable.org
 siteunblock.org
+skyvpn.net
 snowproxy.com
 sparklabs.com
 spyoff.com

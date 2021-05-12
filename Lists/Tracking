@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,971
-# Updated: 5/10/2021  23:02 (11:02 PM CST)
+# Domains: 9,992
+# Updated: 5/11/2021  19:42 (7:42 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -117,7 +117,6 @@ aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
 aanalytics.adelaide.edu.au
-aan.cdn.speedshiftmedia.com
 a.answers.com
 aarki.com
 aas.bellemaison.jp
@@ -194,11 +193,13 @@ acsbap.com
 a.csmonitor.com
 action.media6degrees.com.cdn.cloudflare.net
 activate.suncorp.com.au
+activeconversion.com
 activedemand.com
 activemetering.com
 active-trk7.com
 activity.bigo.tv
 actonsoftware.com
+actoramusement.com
 actuallysheep.com
 actuallysnake.com
 a.ctv.ca
@@ -294,6 +295,7 @@ adobe-dtm.staticsfly.com
 adobes.marugame-seimen.com
 adobes.pmi.org
 adobes.toridoll.com
+adobetag.com
 adobetp.chegg.com
 adobetps.chegg.com
 adomic.com
@@ -554,6 +556,7 @@ analytics.live.com
 analytics.livehindustan.com
 analytics.localytics.com
 analyticsmarket.com
+analytics.mp3tag.de
 analytics.my.quentic.com
 analytics.net
 analyticsnew.overwolf.com
@@ -651,6 +654,7 @@ apathetictheory.com
 a.pcpro.co.uk
 a.pcrichard.com
 a.peoplepc.com
+apester.com
 apextag.com
 api2.amplitude.com
 api2.poperblocker.com
@@ -698,7 +702,6 @@ api.sail-personalize.com
 api-sensors.shein.com
 apis.murdoog.com
 api.snapkit.com
-api.speedshiftmedia.com
 api.survata.net
 api.themighty.com
 api.tiles.mapbox.com
@@ -876,6 +879,7 @@ a.twcable.com
 a.twcbc.com
 atwola.com
 a.typhone.nl
+au99trk.com
 audience73.com
 audience.adultswim.com
 audienceinsights.net
@@ -899,6 +903,7 @@ a-us-east.rfihub.com.akadns.net
 a.use-enco.com
 a.uso.org
 auth.omoplanet.com
+autoaudience.com
 autocounter.idealmedia.io
 autocounter.lentainform.com
 autoid.com
@@ -1055,7 +1060,7 @@ bigdatacloud.net
 bigdataexchange.com
 bilintechnology.com
 billowybead.com
-biltag.bilsyndication.com
+bilsyndication.com
 b.imgvc.com
 birst.com
 bis-dic15.com
@@ -1354,7 +1359,6 @@ cdn.refersion.com
 cdn.retentionrock.com
 cdn-ru.bitrix24.ru
 cdn-sitegainer.com
-cdn.speedshiftmedia.com
 cdn-ssl.img.shopdisney.com
 cdn.statstrk01.com
 cdn.threadloom.com
@@ -1688,6 +1692,7 @@ clk.voyages-sncf.com
 cloisteredcord.com
 cloisteredhydrant.com
 closealert.com
+closedcows.com
 cloud-9751.com
 clouderrorreporting.googleapis.com
 cloudflareinsights.com
@@ -1730,6 +1735,7 @@ coachquartz.com
 coatfood.com
 code.murdoog.com
 code.randomhouse.com
+codigo.se
 cognitiv.ai
 cognitivlabs.com
 cog-tr0.com
@@ -1768,7 +1774,6 @@ collector.retailcrm.pro
 collector.schibsted.io
 collector.scopely.io
 collector-service.api.lbry.tv
-collector_sr.contentexchange.me
 collector.statowl.com
 collector.tescocompare.com
 collector.unlockxh4.com
@@ -1795,6 +1800,7 @@ colres.sitelabweb.com
 colvk.viki.io
 combclover.com
 combotag.com
+comeet.co
 comfortablecheese.com
 commander1.com
 commandersact.com
@@ -2072,6 +2078,7 @@ d21gpk1vhmjuf5.cloudfront.net
 d21xzkx9a6yixg.cloudfront.net
 d22d1xpx4ztuef.cloudfront.net
 d22xmn10vbouk4.cloudfront.net
+d23wpv5eo45095.cloudfront.net
 d24b4gammzmqzp.cloudfront.net
 d24bnj4f1s1f8m.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
@@ -2594,6 +2601,7 @@ e-mark.nl
 ematicsolutions.com
 embeddedanalytics.com
 embed.funker530.com
+embed.ly
 embracecontext.com
 embtrk.com
 emetrics.bose.ca
@@ -2658,6 +2666,7 @@ esearchvision.com
 esellerpro.com
 esgauge.com
 esomniture.com
+esprima.org
 essential.bloomberglaw.com
 estat.com
 estatcounter.com
@@ -3421,7 +3430,6 @@ hub.firestonecompleteautocare.com
 hubmetrics.samsclub.com
 hubspotanalytics.com
 huckabuy.com
-hu.contentexchange.me
 hullapp.io
 hull.io
 hulu.hb-api.omtrdc.net
@@ -3744,6 +3752,7 @@ isondled.net
 ispot.tv
 istats.nl
 ist-track.com
+iterable.com
 iterable-shopify.herokuapp.com
 ithinkthereforeiam.net
 itmems.com
@@ -3971,6 +3980,7 @@ lijuke.panel.kantartns.lt
 liltstat.com
 limbik.com
 linkconnector.com
+linkis.com
 linkmink.com
 linkpulse.com
 linkshare.com
@@ -3991,6 +4001,7 @@ liveapi.huya.com
 liveintent.com
 live-log.immomo.com
 livelumber.com
+livelylaugh.com
 liverail.com
 liveramp.com
 livesession.io
@@ -4667,6 +4678,7 @@ mxpnl.com
 mxptint.net
 myaffiliates.com
 myattlog.att.com
+myaudience.de
 mybbc-analytics.files.bbci.co.uk
 mybet.regily.com
 mybloglog.com
@@ -5852,6 +5864,7 @@ ppcprotect.com
 pp.d2-apps.net
 p.pulse.toyota.com
 p.qiao.baidu.com
+prabandi.com
 practicenumbers.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
@@ -5959,6 +5972,7 @@ purchasesuggestion.com
 pureinfluencer.idrove.it
 purr.nytimes.com
 pushauction.com
+pusher.com
 pushspring.com
 putags.com
 putler.com
@@ -5991,6 +6005,7 @@ pym.nprapps.org
 pyramidanalytics.com
 pyze.com
 q4cdn.com
+q4web.com
 qchannel03.cn
 qliker.io
 qlitrk.com
@@ -6212,6 +6227,7 @@ report.xmedia.icu
 reppublika.com
 representativeray.com
 requestmetrics.com
+researchad.com
 research.de.com
 researchintel.com
 researchnow.com
@@ -6255,6 +6271,7 @@ richaudience.com
 richmetrics.com
 richrelevance.com
 richstring.com
+ridder.co
 righteouscrayon.com
 rightmessage.com
 rightnow.com
@@ -7063,7 +7080,6 @@ server-analytics.snapchat.com
 serviceicann.cmail20.com
 serviceos.xfinity.com
 serviceo.xfinity.com
-services.bilsyndication.com
 services.fandom.com
 services.iol.pt
 services-ssl.boredpanda.com
@@ -7648,6 +7664,7 @@ specialsnake.com
 specialstatement.com
 specificclick.net
 speedcurve.com
+speedshiftmedia.com
 spellsalsa.com
 spendpest.com
 spider.af
@@ -8311,6 +8328,7 @@ strack.softbankhawksstore.jp
 strack.store.manutd.com
 strack.sw.siemens.com
 straightnest.com
+strands.com
 strangesink.com
 strava.com
 streamrail.com
@@ -8948,7 +8966,6 @@ tracker-dot-dfty-optimeeze-leroymerlines.appspot.com
 tracker-dot-dfty-optimeeze-leroymerlinpt.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker.gg
-tracker_hu.contentexchange.me
 tracker-legacy.streeteasy.com
 tracker.nbcuas.com
 tracker.network
@@ -9021,6 +9038,7 @@ trackla.stackla.com
 tracklog.58.com
 track.lt
 track.moneyfinderonline.com
+track-mv.com
 track.mysimplycellphones.com
 trackmytarget.com
 track.net
@@ -9054,6 +9072,7 @@ tractionize.com
 tradelab.com
 tradetracker.com
 traf.clips4sale.com
+trafficgateway.research-int.se
 trafficholder.com
 trafficmp.com
 traffic.prod.cobaltgroup.com
@@ -9393,8 +9412,10 @@ v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v2.listenloop.com
 v4.ipv6-test.com
+v7event.stats.avast.com
 v7event.stats.avcdn.net
 v7.stats.avcdn.net
+va-endpoint.com
 vaioimprovement.sony.com
 vakmedianet.nl
 valencia-beacons.xumo.com
