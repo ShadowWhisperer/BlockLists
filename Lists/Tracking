@@ -1,14 +1,13 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 9,993
-# Updated: 5/11/2021  23:18 (11:18 PM CST)
+# Domains: 10,000
+# Updated: 5/12/2021  21:15 (9:15 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
-0cf.io
 0d15692193ba43a8a9384fed500b3a1d.apm.us-east-1.aws.cloud.es.io
 1010data.com
 10duke.com
@@ -2636,6 +2635,7 @@ enormousearth.com
 ensighten.bhphoto.com
 ensighten.com
 ensighten.huntingtonbank.com
+ensighten.norton.com
 ensighten.staticcache.org
 entertainingeyes.com
 enthusiasticdad.com
@@ -2792,6 +2792,7 @@ ezodn.com
 ezoic.com
 ezojs.com
 ezpixeltracking.com
+f0cf.io
 f2.doodlemobile.com
 faas.marktplaats.nl
 faceid.com
@@ -3193,6 +3194,8 @@ godog.shopifycloud.com
 gogpstracking.com
 go.lexipol.com
 go.lynxbroker.de
+gomoxie.com
+gomoxie.solution
 go-mpulse.net
 gondolagnome.com
 gooanalytics.com
@@ -3283,6 +3286,7 @@ gw100-10.com
 gwallcheck.api-alliance.com
 gwallet.com
 gweini.com
+gwmtracking.com
 h78xb.pw
 habitualhumor.com
 haensel-ams.com
@@ -4056,6 +4060,7 @@ logcenter.cupshe.com
 logconfig.polarisoffice.com
 logcounter.com
 logentries.com
+logfiles.zoom.us
 log.fotoable.com
 logger.baofeng.com
 logger.pw
@@ -5638,6 +5643,7 @@ paradoxfactor.com
 parall.ax
 parcelcreature.com
 parchedangle.com
+parchedsofa.com
 pardot.com
 parrable.com
 parse.ly
@@ -9979,6 +9985,7 @@ zeemapsmetrics.s3.amazonaws.com
 zeotap.com
 zergnet.com
 zeroclickfraud.com
+zestycrime.com
 zeustrk.com
 zhihu-web-analytics.zhihu.com
 zineone.com
