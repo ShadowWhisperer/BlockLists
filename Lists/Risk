@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 140
-# Updated: 4/28/2021  18:42 (6:42 PM CST)
+# Domains: 145
+# Updated: 5/14/2021  16:51 (4:51 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -112,7 +112,9 @@ filehippo.com                                 #Software Hosting
 filehorse.com                                 #Software Hosting
 filehorse.sbsd-updates.eu                     #Software Hosting
 filesriver.com                                #Software Hosting
+freefiles-18.de                               #Software Hosting
 freesoftwarefiles.com                         #Software Hosting
+freeware.de                                   #Software Hosting
 fs1.filesriver.com                            #Software Hosting
 fs2.download82.com                            #Software Hosting
 fyxm.net                                      #Software Hosting
@@ -135,12 +137,14 @@ localhost.run                                 #Share Localhost
 localtunnel.me                                #Share Localhost
 showoff.io                                    #Share Localhost
 
+1bit.space                                    #URL Shortener
 adf.ly                                        #URL Shortener
 adfoc.us                                      #URL Shortener
 adshort.co                                    #URL Shortener
 href.li                                       #URL Shortener (Abused)
 is.gd                                         #URL Shortener
 lmy.de                                        #URL Shortener
+lnk.news                                      #URL Shortener
 shortcm.li                                    #URL Shortener
 short.cm                                      #URL Shortener
 shorte.st                                     #URL Shortener
@@ -149,6 +153,7 @@ shorturl.com                                  #URL Shortener
 sh.st                                         #URL Shortener
 shurl.be                                      #URL Shortener
 spyw.com                                      #URL Shortener
+tiny.cc                                       #URL Shortener
 
 teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
 
