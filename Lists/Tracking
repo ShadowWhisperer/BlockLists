@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
 # Domains: 10,001
-# Updated: 5/13/2021  00:22 (12:22 AM CST)
+# Updated: 5/14/2021  00:24 (12:24 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -175,6 +175,7 @@ a.centrum.cz
 acexedge.com
 a.chdist.com
 acidpigs.com
+acint.net
 acksrc.chip.de
 a.clecenter.com
 acme.abc.es
@@ -2387,7 +2388,6 @@ doubleclick-analytics.com
 doublesmart.digital
 doubtfulrainstorm.com
 douglas.personalization.air.prudsys.com
-downloads.hpanalytics.net
 download-stats.mozilla.org
 dp.alma.iltalehti.fi
 dpmsrv.com
@@ -2680,14 +2680,10 @@ etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
 et.resellerratings.com
 etsource.epicgames.com
-eulatracking-public-service-prod06.ol.epicgames.com
-eulatracking-public-service-prod-m.ol.epicgames.com
-eulatracking-public-service-prod.ol.epicgames.com
 eulerian.com
 eulerian.eu
 eulerian.fr
 eum-appdynamics.com
-eu.vortex.data.microsoft.com
 evaluateend.com
 evanescentedge.com
 eventapi.afreecatv.com
@@ -3097,6 +3093,7 @@ geoip.tools
 geojs.io
 geolocation.1trust.app
 geolocation.co.jp
+geolocation.daznservices.com
 geolocation-db.com
 geolocation.forbes.com
 geolocation.onetrust.com
@@ -3419,6 +3416,7 @@ hotjar.io
 hotlog.ru
 hotrk0.com
 houston-analytics.com
+hpanalytics.net
 hqstats.com
 hqtrk.com
 hrb1tng0.com
@@ -6588,6 +6586,7 @@ sanl.six02.com
 sanmet.originenergy.com.au
 sannsyn.com
 sapanalytics.cloud
+sape.ru
 saphanajourney.com
 sapphire-api.target.com
 sappmetrics.boostmobile.com
@@ -8133,6 +8132,7 @@ stats.mennetworkcash.com
 stats.mofossupport.com
 statsmp2.emol.com
 stats.myminifactory.com
+stats.mysteel.com
 stats.nerdpress.net
 stats.net
 stats-new.smugmug.com
@@ -8278,6 +8278,7 @@ store-api.dji.com
 storescissors.com
 storeslope.com
 storesurprise.com
+stormiq.com
 stormyachiever.com
 stortrk.com
 stoveseashore.com
@@ -8413,7 +8414,6 @@ surve.nl
 surveygizmobeacon.s3.amazonaws.com
 surveyi.com
 survey-poll.com
-survey.watson.microsoft.com
 survstat.ru
 suspendseed.com
 sut.dailyfx.com
@@ -9412,6 +9412,7 @@ utils.global-e.com
 utrace.de
 uttermosthobbies.com
 ut.upmc.com
+uuidksinc.net
 uxanalytics.ama.gov.pt
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
@@ -9709,7 +9710,6 @@ webtrends.com
 webtrendslive.com
 web.ulta.com
 webvisor.com
-web.vortex.data.microsoft.com
 web.vortex.data.msn.com
 wecantrack.com
 wefi.com

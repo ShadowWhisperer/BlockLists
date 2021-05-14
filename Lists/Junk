@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 461
-# Updated: 5/8/2021  16:57 (4:57 PM CST)
+# Domains: 463
+# Updated: 5/14/2021  00:24 (12:24 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -228,6 +228,7 @@ bytecdn.cn                                     #Company - Beijing Bytedance Netw
 bytedanceapi.com                               #Company - Beijing Bytedance Network Technology Co. - TikTok
 bytedance.com                                  #Company - Beijing Bytedance Network Technology Co. - TikTok
 bytedns.net                                    #Company - Beijing Bytedance Network Technology Co. - TikTok
+byted.org                                      #Company - Beijing Bytedance Network Technology Co. - TikTok
 byteimg.com                                    #Company - Beijing Bytedance Network Technology Co. - TikTok
 byteoversea.com                                #Company - Beijing Bytedance Network Technology Co. - TikTok
 byteoversea.net                                #Company - Beijing Bytedance Network Technology Co. - TikTok
@@ -246,6 +247,7 @@ isnssdk.com                                    #Company - Lemon, Inc. - TikTok
 muscdn.com                                     #Company - Lemon, Inc. - TikTok
 musical.ly                                     #Company - Lemon, Inc. - TikTok
 sgsnssdk.com                                   #Company - Lemon, Inc. - TikTok
+tik-tokapi.com                                 #Company - TikTok LTD  - TikTok
 xzcs3zlph.com                                  #Company - TikTok LTD  - TikTok
 
 admuncher.com                                  #Software - AdMuncher
