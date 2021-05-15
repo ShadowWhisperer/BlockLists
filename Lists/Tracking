@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,013
-# Updated: 5/14/2021  16:51 (4:51 PM CST)
+# Domains: 10,020
+# Updated: 5/15/2021  00:52 (12:52 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -518,6 +518,7 @@ analytics.arm.com
 analytics.audioeye.com
 analytics.batesvilletechnology.com
 analytics.brave.com
+analytics.carbaselive.com
 analytics.carbonite.com
 analytics.ccs.mcafee.com
 analytics-cdn.redbubble.com
@@ -2529,6 +2530,7 @@ ecn-analytics.emc.com
 ecn-analytics-nssl.emc.com
 ecomm.events
 econda-monitor.de
+econ.dealerinspire.com
 economicpizzas.com
 econ.trib.al
 e.curalate.com
@@ -3576,6 +3578,7 @@ info.izatcloud.net
 info.justwatch.com
 info.lexipol.com
 info.m.seek.com.au
+info.navitor.com
 infonline.de
 infopro-insight.com
 informamarkets.com
@@ -3604,6 +3607,7 @@ ingenioustechnologies.com
 ingest.machinify.com
 inistrack.net
 initjs.rfk.magidglove.com
+initjs.rfk.zennioptical.com
 innocentinvention.com
 innocentwax.com
 innocraft.cloud
@@ -3686,6 +3690,7 @@ ip.anysrc.net
 ipapi.co
 ip-api.com
 ip-api.io
+ipapi.tmbi.com
 ip.apps.cntv.cn
 ip.cctv.pk
 ipcheck.ydesigngroup.com
@@ -3722,6 +3727,7 @@ iplogger.com
 iplogger.org
 iplogger.ru
 iplookup.asus.com
+ipm.corel.com
 ipmeta.io
 ipmonkey.com
 ipnow.org
@@ -5705,6 +5711,7 @@ perf-events.cloud.unity3d.com
 perf.hsforms.com
 perfops.net
 performancehorizon.com
+performance-logger.minted.com
 performgroup.com
 pergavelshot.com
 perimeterx.com
