@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 145
-# Updated: 5/14/2021  16:51 (4:51 PM CST)
+# Domains: 146
+# Updated: 5/16/2021  01:33 (1:33 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -145,6 +145,7 @@ href.li                                       #URL Shortener (Abused)
 is.gd                                         #URL Shortener
 lmy.de                                        #URL Shortener
 lnk.news                                      #URL Shortener
+rb.gy                                         #URL Shortener
 shortcm.li                                    #URL Shortener
 short.cm                                      #URL Shortener
 shorte.st                                     #URL Shortener
