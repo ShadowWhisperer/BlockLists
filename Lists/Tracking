@@ -1,13 +1,14 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,041
-# Updated: 5/16/2021  14:24 (2:24 PM CST)
+# Domains: 10,059
+# Updated: 5/17/2021  01:39 (1:39 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+0272ac85-5199-4024-a555-397c3d825d95.prmutv.co
 0d15692193ba43a8a9384fed500b3a1d.apm.us-east-1.aws.cloud.es.io
 1010data.com
 10duke.com
@@ -526,6 +527,7 @@ analytics-cdn.redbubble.com
 analytics.civicplus.com
 analytics.clickdimensions.com
 analytics.com
+analytics.console.aws.a2z.com
 analytics.d17media.net
 analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
@@ -831,6 +833,10 @@ aspiringattempt.com
 as.rollingstone.de
 assay.tsn.ua
 asset.fwcdn1.com
+assets1.aami.com.au
+assets1.apia.com.au
+assets1.gio.com.au
+assets2.gio.com.au
 assets.a-mo.net
 assetscdn.stackla.com
 assets.geo.de
@@ -865,6 +871,7 @@ a.tiles.mapbox.com
 atinternet.com
 a.tiscali.co.uk
 atlassbx.com
+at.mclaren.com
 atomiclearning.com
 a.touring.be
 atrack.allposters.com
@@ -960,6 +967,7 @@ b92.yahoo.co.jp
 b9.yahoo.co.jp
 backstory.ebay.at
 backstory.ebay.com
+backstory.ebay.co.uk
 backstory.ebay.ph
 backtrace.io
 badgerstat.com
@@ -2336,7 +2344,10 @@ dii2.zooplus.pl
 dii2.zooplus.pt
 dii2.zooplus.ro
 dii2.zooplus.se
+dip.aami.com.au
+dip.gio.com.au
 diplomahawaii.com
+dip.suncorpbank.com.au
 direct-aws-a1.com
 direct-azr-78.com
 director.sn.eamobile.com
@@ -4111,6 +4122,7 @@ lognormal.net
 log.olark.com
 log.particlenews.com
 log.pinterest.com
+logpostback.com
 logql.yahoo.co.jp
 log.quora.com
 log.realone.com
@@ -5998,6 +6010,7 @@ puffyloss.com
 puffypaste.com
 puffypull.com
 puffypurpose.com
+pulsar.ebay.co.uk
 pulse.delta.com
 pulseinsights.com
 pulsemaps.com
@@ -7325,6 +7338,7 @@ sm.edweek.org
 smetc.banfield.com
 smetric.lo.movement.com
 smetrics1.experian.com
+smetrics.aami.com.au
 smetrics.abbott
 smetricsadobe.hollandandbarrett.com
 smetricsadobe.hollandandbarrett.ie
@@ -7349,6 +7363,7 @@ smetrics.fcacert.com
 smetrics.foxbusiness.com
 smetrics.foxnews.com
 smetrics.frontier.com
+smetrics.gio.com.au
 smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
 smetrics.kbb.com
@@ -7361,6 +7376,7 @@ smetrics.sephora.com
 s.metrics.shopwoodworking.com
 s.metrics.skyandtelescope.com
 smetrics.startribune.com
+smetrics.suncorp.com.au
 smetrics.timeout.com
 s.metrics.writersdigest.com
 s.metrics.writersdigestshop.com
@@ -9151,6 +9167,7 @@ trck.youvisit.com
 treadbun.com
 treasuredata.com
 tredir.go.com
+treg.hearstnp.com
 tremendousplastic.com
 tremendoustime.com
 tremendoustreatment.com
@@ -9580,6 +9597,7 @@ vtrack.com
 vuble.tv
 vue.ai
 vuer.net
+vxml4.plavxml.com
 w3counter.com
 w3n.llbean.com
 w3.siemens.com

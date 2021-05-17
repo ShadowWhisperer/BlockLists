@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 463
-# Updated: 5/14/2021  00:24 (12:24 AM CST)
+# Domains: 462
+# Updated: 5/17/2021  01:39 (1:39 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -253,7 +253,6 @@ xzcs3zlph.com                                  #Company - TikTok LTD  - TikTok
 admuncher.com                                  #Software - AdMuncher
 appsgeyser.com                                 #Software - AppsGeyser  (App Creator)
 curseapp.net                                   #Software - Curse       (In-Game Voice Chat)
-dashlane.com                                   #Software - Daskline    (Password Manager)
 api.flipboard.com                              #Software - Flipbloard
 flipboard.com                                  #Software - Flipbloard
 ue.flipboard.com                               #Software - Flipbloard
