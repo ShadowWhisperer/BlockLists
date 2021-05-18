@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,110
-# Updated: 5/17/2021  14:19 (2:19 PM CST)
+# Domains: 10,141
+# Updated: 5/18/2021  11:54 (11:54 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -73,6 +73,7 @@
 49.74.190.35.bc.googleusercontent.com
 4jnzhl0d0.com
 4seeresults.com
+4u.pl
 51.la
 51yes.com
 558C.playfabapi.com
@@ -377,6 +378,7 @@ a.fandango.com
 a-fds.youborafds01.com
 affanalytics.com
 affiliate.googleusercontent.com
+affiliatetracking.com
 affiliatly.com
 afftrack.com
 a.fightglobalwarming.com
@@ -408,6 +410,7 @@ a.gymjob.com
 a.hasbro.com
 aheadday.com
 aheadmachine.com
+ah-ha.com
 a.hub.com.pl
 ai23jstrk.com
 aidata.io
@@ -576,6 +579,7 @@ analytics.ovh.com
 analytics.pe
 analytics.pinterest.com
 analyticspixel.microsoft.com
+analytics.proxy.mycryptoapi.com
 analytics.pubnative.io
 analytics.pubninja.com
 analytics.rbauction.com
@@ -1070,6 +1074,7 @@ bewilderedblade.com
 bf-ad.net
 b.foxsports.com
 b.fxnetworks.com
+bgstats.mox.tv
 bhcumsc.com
 bidgear.com
 bidr.io
@@ -1445,6 +1450,7 @@ checkip.5535c7064ae374b5f6c4c7961fa9f147248c28da.com
 checkip.6c4968b42a8baf60d89b2c5631de4683c6bb1054.com
 checkip.amazonaws.com
 checkip.com.vn
+checkip.dns.he.net
 checkip.dy.fi
 checkip.dyn.com
 checkip.dyndns.com
@@ -1531,6 +1537,7 @@ clear-reports.com
 clear.sale
 clearsale.com.br
 clearview.ai
+clearwateranalytics.com
 cleeng.com
 click1.ads.infinity-info.com
 click1.canadianvisaexpert.net
@@ -1943,6 +1950,7 @@ counters.auctiva.com
 counter.scribblelive.com
 counters.honesty.com
 counter.snackly.co
+counter.sparklit.com
 counters.vendio.com
 counter.websitevoice.com
 countess.twitch.tv
@@ -2264,6 +2272,7 @@ decisiveducks.com
 decoroustitle.com
 decoycreation.com
 deepintent.com
+deepmetrix.com
 defectivedress.com
 defectivesun.com
 defiantrice.com
@@ -3232,6 +3241,7 @@ glpals.com
 glympse.com
 g.mashable.com
 gmyze.com
+gn-flagpoles.api.bbci.co.uk
 gnome.digg.com
 godatadriven.com
 godlygeese.com
@@ -3463,6 +3473,7 @@ hotelchamp.com
 hotjar.com
 hotjar.io
 hotlog.ru
+hotrank.com.tw
 hotrk0.com
 houston-analytics.com
 hpanalytics.net
@@ -3651,6 +3662,8 @@ ingest.machinify.com
 inistrack.net
 initjs.rfk.magidglove.com
 initjs.rfk.zennioptical.com
+innlog.app
+innlog.fr
 innocentinvention.com
 innocentwax.com
 innocraft.cloud
@@ -4563,14 +4576,18 @@ metrics-api.librato.com
 metrics.api.yle.fi
 metrics.brightcove.com
 metricscat.com
+metrics.cbc.ca
 metrics-cbslocal-com.cdn.ampproject.org
 metrics.claspws.tv
+metrics.cnn.com
 metricscollector.lp.xcal.tv
 metricscollector.mirs.aws.r53.xcal.tv
 metrics.com
 metrics-config.icloud.com
+metrics.ctv.ca
 metrics-dev.adobeprimetime.com
 metrics-dev.schibsted.io
+metrics.foxnews.com
 metrics.freemake.com
 metrics.gr
 metrics.icloud.com
@@ -4593,6 +4610,7 @@ metricssecure.todaysales.com
 metrics-stage.adobeprimetime.com
 metrics-target.siriusxm.com
 metrics.three.co.uk
+metrics.toysrus.com
 metrics-v2.datadome.co
 metrics.yellowbook.com
 metrika.traff.space
@@ -5200,6 +5218,7 @@ optimizely.com
 optimize-stats.voxmedia.com
 optimost.com
 optimove.events
+opt-intelligence.com
 optnmstr.com
 oracleinfinity.io
 orangeoperation.com
@@ -6368,6 +6387,7 @@ riskanalytics.com
 ritorno.ru
 ritzykey.com
 ritzyveil.com
+r.i.ua
 river.data.ea.com
 river-mobile.data.ea.com
 rjmetrics.com
@@ -6827,6 +6847,7 @@ searchunify.com
 seatac15.com
 seatsmoke.com
 sec-analytics.panasonic.co.uk
+seccosquared.com
 secmetrics.bankcoop.ch
 secmetrics.bkb.ch
 secmetrics.friendscout24.be
@@ -7388,6 +7409,7 @@ smetrics.bankofmelbourne.com.au
 smetrics.banksa.com.au
 smetrics.carfax.com
 smetrics.cars.com
+smetrics.cbc.ca
 smetrics.chrysler.com
 smetrics.cisco.com
 smetrics.cnn.com
@@ -7415,6 +7437,7 @@ s.metrics.skyandtelescope.com
 smetrics.startribune.com
 smetrics.suncorp.com.au
 smetrics.timeout.com
+smetrics.washingtonpost.com
 s.metrics.writersdigest.com
 s.metrics.writersdigestshop.com
 s.metric.vodacom.co.za
@@ -7850,6 +7873,7 @@ sp.yorkdispatch.com
 spysubstance.com
 sp.zalo.me
 sp.zanesvilletimesrecorder.com
+sq2trk2.com
 sqm.telemetry.microsoft.com.nsatc.net
 squashfriction.com
 squeakzinc.com
@@ -8141,6 +8165,7 @@ stat3.oldrrb.bid
 stat-58home.58che.com
 stat.adguard.com
 statad.ru
+stat.appsgeyser.com
 statcollector.sidearmsports.com
 statcounter.com
 statcounterfree.com
@@ -8192,6 +8217,7 @@ statsapi.screen9.com
 stats.avast.com
 stats.avcdn.net
 stats.avgbrowser.com
+stats.bbc.co.uk
 stats.boxtec.ch
 stats.coinpayments.net
 statscollector.digital.vistaprint.com
@@ -8307,6 +8333,7 @@ stats-ssl.mdanderson.org
 statsstory.com
 stats.systems
 stats.tgirl-network.com
+stats.townnews.com
 statstracker.celebrity-gossip.net
 stats-tracker.net
 stat.su
@@ -8320,12 +8347,14 @@ stats.wp.com
 stats.wpmucdn.com
 statsy.net
 stats.zooniverse.org
+stat.techtimes.com
 stat.tildacdn.com
 stat-toonme-com.photo-cdn.net
 stat-track.com
 statuesquebrush.com
 status.mm.makingfun.com
 stat.v-56.com
+stat.webmedia.pl
 statystyki.panelek.com
 stayonlinkfor.com
 stayonlinkone.com
@@ -8464,6 +8493,7 @@ sublytics.com
 submit5.avast.com
 submit.sb.avast.com
 subpixel.4players.de
+subscriptions.cbc.ca
 subsequentsand.com
 subsequentstew.com
 subsequentswim.com
@@ -9806,6 +9836,7 @@ web.tracking.360game.vn
 webtrackingservices.com
 webtracking-v01.bpmonline.com
 webtraffic.mastercontrol.com
+webtraxs.com
 webtrekk.com
 webtrekk.de
 webtrekk.net
