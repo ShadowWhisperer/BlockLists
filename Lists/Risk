@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 146
-# Updated: 5/16/2021  01:33 (1:33 AM CST)
+# Domains: 148
+# Updated: 5/18/2021  23:44 (11:44 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -51,6 +51,8 @@ wind.com.do                                   #ISP    Worst  Spam     Apr 2021
 kidinspector.com                              #Computer Monitoring
 mobistealth.com                               #Computer Monitoring
 
+cocospy.com                                   #Computer / Phone Monitoring
+
 spyfone.com                                   #Phone Monitoring
 spymasterpro.com                              #Phone Monitoring
 spyhuman.com                                  #Phone Monitoring
@@ -92,7 +94,6 @@ appdomain.cloud                               #Cloud Storage (IBM) - Known to ha
 top4top.io                                    #Cloud Storage - Known to have malware
 
 aapks.com                                     #APK Hosting (Android Apps)
-
 kingoapp.com                                  #Shady Software - Android Rooting Software
 oneclickroot.com                              #Shady Software - Android Rooting Software
 api-main.oneclickroot.com                     #Shady Software - Android Rooting Software
@@ -151,6 +152,7 @@ short.cm                                      #URL Shortener
 shorte.st                                     #URL Shortener
 short.io                                      #URL Shortener
 shorturl.com                                  #URL Shortener
+shrturl.site                                  #URL Shortener
 sh.st                                         #URL Shortener
 shurl.be                                      #URL Shortener
 spyw.com                                      #URL Shortener

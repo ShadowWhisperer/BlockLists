@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Domains: 344
-# Updated: 5/18/2021  11:54 (11:54 AM CST)
+# Domains: 345
+# Updated: 5/18/2021  23:44 (11:44 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -188,6 +188,7 @@ searchspring.net                   #SearchSpring
 cdn.searchspring.net               #SearchSpring
 segmentify.com                     #Segmentify
 demandware.net                     #SalesForce
+exct.net                           #SalesForce
 force.com                          #SalesForce
 krux.com                           #SalesForce
 marketingcloudapis.com             #SalesForce
