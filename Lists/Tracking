@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,163
-# Updated: 5/19/2021  17:59 (5:59 PM CST)
+# Domains: 10,176
+# Updated: 5/20/2021  12:25 (12:25 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1051,6 +1051,7 @@ beacon.wikia-services.com
 beadbears.com
 beam.dasmart.eu
 beamincrease.com
+beam.remp.nv.ua
 beam.remp.stg.online.xl.pt
 bearsmyip.com
 beastbeef.com
@@ -1520,6 +1521,7 @@ civicscience.com
 cjs.ptengine.com
 ckclick.com
 ck.jp.ap.valuecommerce.com
+ckm.iqiyi.com
 ck.zzipps.com
 cl1.apple.com
 cl2.apple.com
@@ -2110,6 +2112,7 @@ d1fc8wv8zag5ca.cloudfront.net
 d1ffafozi03i4l.cloudfront.net
 d1fpdhao7f8ux5.cloudfront.net
 d1hc14f07g70ck.cloudfront.net
+d1hcrjcdtouu7e.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
 d1khm0eduvht21.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
@@ -2171,6 +2174,7 @@ d3jaymjyiads5d.cloudfront.net
 d3ojfshdw1hp8b.cloudfront.net
 d3owq2fdwtdp2j.cloudfront.net
 d3qou5ensc2knu.cloudfront.net
+d3t15oqv74y46a.cloudfront.net
 d3v27wwd40f0xu.cloudfront.net
 d3vk40ihlliju7.cloudfront.net
 d41.co
@@ -2231,6 +2235,7 @@ datatrics.com
 data.twojapogoda.pl
 dataunion.com.br
 data.unsw.edu.au
+datax.baidu.com
 dataxpand.com
 dat.gtags.net
 dativa.com
@@ -3097,6 +3102,7 @@ gc.newsweek.com
 gd.geobytes.com
 gdl-specs.tnt-digital.com
 gdmconvtrck.com
+gdpr.apps.isenselabs.com
 gdpr.internetbrands.com
 gdpr-web-logs-prod.privacymanager.io
 gdrytrk.com
@@ -3781,6 +3787,7 @@ iphonediags.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
 iphonesubmissions.apple.com
+ip.if.iqiyi.com
 ipify.org
 ipinfodb.com
 ip-info.ff.avast.com
@@ -4230,7 +4237,6 @@ ls.apple.com.edgekey.net
 ls.apple.com.edgesuite.net
 ls.chatid.com
 lsdm.co
-lt02.net
 ltrrtrk.com
 luckyorange.com
 luckyorange.net
@@ -4746,6 +4752,8 @@ mps.nbcuni.com
 mpstat.us
 mrelko.com
 mrpdata.net
+mrtg.emailpartners.net
+msg.qy.net
 msi-aci.com
 mspy.com
 ms.sc-jpl.com
@@ -5239,6 +5247,7 @@ oracleinfinity.io
 orangeoperation.com
 oribi.io
 origin-images.wikia.com
+origin.tutorix.com
 o.rosettastone.com
 osc.venetian.com
 os.fandango.com
@@ -5770,6 +5779,7 @@ pci3oo5mg4mn-a.akamaihd.net
 pclick.yahoo.com
 p.cpx.to
 pc-quiz.s3.us-east-2.amazonaws.com
+pcw-api-tool.iqiyi.com
 p.data.cctv.com
 pdmsmrt.buick.com
 pdmsmrt.cadillac.com
@@ -6127,6 +6137,7 @@ qos1.ol.epicgames.com
 qos2.ol.epicgames.com
 qos3.ol.epicgames.com
 qos4.ol.epicgames.com
+qosp.iqiyi.com
 qqjar.ru
 q.quora.com
 qreport.qunar.com
@@ -6199,6 +6210,7 @@ r.draeger.com
 r.draegershop.com
 rdtrck2.com
 reach-id.orbit.tm-awx.com
+reachmax.cn
 reactandshare.com
 reactflow.com
 reactful.com
@@ -8151,6 +8163,7 @@ stack-sonar.com
 stack-tracking.corpweb.aws.cudasvc.com
 staging.app-analytics.snapchat.com
 staging-counter.snackly.co
+staging.roadrunnersports.com
 staging.server-analytics.snapchat.com
 s.tagove.com
 stakingscrew.com
