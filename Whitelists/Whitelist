@@ -244,6 +244,7 @@ update.biv.sony.tv                         # Sony - System Updates
 # Breaks Some Sites
 ########################
 ws-na.amazon-adsystem.com          #Ad - Breaks images (toysrus.com)
+ojrq.net                           #Ad/Tracker - Breaks Sites (Example: https://www.ojrq.net/p/?return=https%3A%2F%2Fgoto.target.com%2Fc%2F56891%2F79373%2F2092%3Fu%3Dhttp%253a%252f%252fwww.target.com%252fgift-registry%252fgiftgiver%253fregistryId%XXX%3D2&cid=2092&tpsync=yes)
 asadcdn.com                        #Ad/Tracker - Breaks Sites (Example: bild.de)
 imasdk.googleapis.com              #Ad/Tracker - Breaks Video Players on some sites
 guce.advertising.com               #Ad/Tracker - Prevents 'aol.co.uk' from working
