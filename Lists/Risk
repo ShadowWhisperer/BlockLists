@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 148
-# Updated: 5/18/2021  23:44 (11:44 PM CST)
+# Domains: 150
+# Updated: 5/21/2021  15:13 (3:13 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -127,12 +127,12 @@ sftapi.com                                    #Software Hosting
 soft32download.com                            #Software Hosting
 softonic.com                                  #Software Hosting
 softonic.info                                 #Software Hosting
+softonic.it                                   #Software Hosting
 softoniclabs.com                              #Software Hosting
 softpedia.com                                 #Software Hosting
 vessoft.com                                   #Software Hosting
 vessoftstatic.com                             #Software Hosting
 winsite.com                                   #Software Hosting
-
 burrow.io                                     #Share Localhost
 localhost.run                                 #Share Localhost
 localtunnel.me                                #Share Localhost
@@ -156,6 +156,7 @@ shrturl.site                                  #URL Shortener
 sh.st                                         #URL Shortener
 shurl.be                                      #URL Shortener
 spyw.com                                      #URL Shortener
+t2m.io                                        #URL Shortener
 tiny.cc                                       #URL Shortener
 
 teste.website                                 #Web Host [HostGator] - Some malware domains, some normal

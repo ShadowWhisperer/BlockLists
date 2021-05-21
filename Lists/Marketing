@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Domains: 347
-# Updated: 5/20/2021  21:53 (9:53 PM CST)
+# Domains: 355
+# Updated: 5/21/2021  15:13 (3:13 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -60,6 +60,20 @@ swogo.net
 #  Customer Acquisition
 ##############################
 timeonegroup.com
+
+
+##############################
+#  Customer Loyalty
+##############################
+toprebates.com    #Affinion Group
+webloyalty.ch     #Affinion Group
+webloyalty.com    #Affinion Group
+webloyalty.co.uk  #Affinion Group
+webloyalty.es     #Affinion Group
+webloyalty.fr     #Affinion Group
+webloyalty.ie     #Affinion Group
+webloyalty.nl     #Affinion Group
+loyalsys.io       #Loyalsys
 
 
 ########################################
@@ -457,8 +471,6 @@ getsitecontrol.com     #Widgets - Website conversion optimization
 ########################
 repeatreturns.com      #Repeat Returns
 loyaltypath.com        #Repeat Returns
-########################
-loyalsys.io            #Customer Loyalty
 ########################
 embedsocial.com        #Reviews (On olightstore.com)
 ########################

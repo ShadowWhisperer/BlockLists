@@ -1,7 +1,7 @@
 #
 #    File: Ads   (Advertisements, Banners, Widgets & Push Notifications)
-# Domains: 6,488
-# Updated: 5/21/2021  10:09 (10:09 AM CST)
+# Domains: 6,489
+# Updated: 5/21/2021  15:13 (3:13 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -904,6 +904,7 @@ adserver.es
 adserver.ma
 adserver.mk
 adserver.mobi
+adserver.myhomeapps.com
 adserver.org
 adserver.pandora.com
 adserver.pl
@@ -1178,6 +1179,7 @@ adtech-digital.ru
 ad-tech-group.com
 adtechium.com
 adtechjp.com
+adtech.redventures.io
 adtech.us
 adtechus.com
 adtegrity.com
@@ -4288,7 +4290,6 @@ ogury.com
 ohmcasting.com
 ohmwrite.com
 ojpem.com
-ojrq.net
 okanjo.com
 okoads.com
 olatumal.com
