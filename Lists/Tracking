@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,176
-# Updated: 5/20/2021  12:25 (12:25 PM CST)
+# Domains: 10,175
+# Updated: 5/20/2021  21:53 (9:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -330,7 +330,6 @@ adsmeasurement.com
 adsonar.com
 adspect.ai
 adsquare.com
-adstat.4u.pl
 adstracker.appsgeyser.com
 adtarget.me
 adtd.douglas.at
@@ -415,6 +414,7 @@ ah-ha.com
 a.hub.com.pl
 ai23jstrk.com
 aidata.io
+aidata.me
 aimatch.com
 a.imgvc.com
 a.independent.co.uk
@@ -606,11 +606,9 @@ analytics.twitter.com
 analytics-usf.hotyon.com
 analyticsvidhya.com
 analytics.visualstudio.com
-analytics.webpushr.com
 analytics.wepayyoulongtime.com
 analytics.yahoo.com
 analytics.yext-static.com
-analytics.yomedia.vn
 analytictech.com
 analyti.uber.space
 anapixel.elmundo.es
@@ -1071,7 +1069,6 @@ b.escardio.org
 bestboundary.com
 bestfreecounterstat.com
 beta-pixel.pladform.ru
-betastats.exitintel.com
 betrad.com
 bettermetrics.co
 bewilderedbattle.com
@@ -1363,7 +1360,6 @@ cdn2.stamped.io
 cdn.abcotvs.net
 cdn.acsbap.com
 cdn-api.arcpublishing.com
-cdn.autoaudience.com
 cdn.autoleadstar.com
 cdn.avmws.com
 cdn-bacon.getcarro.com
@@ -1745,6 +1741,7 @@ cloudfront-labs.amazonaws.com
 cloud.gti.mcafee.com
 cloud-iq.com
 cloud.junctiontv.net
+cloud-media.fr
 cloudsdestruction.com
 cloudsponge.com
 cloudtrust.rocks
@@ -2018,7 +2015,6 @@ creativecdn.com
 c.rhapsody.com
 c.riskified.com
 crispadvertising.com
-criteo.com
 criteo.net
 critictruck.com
 crittercism.com
@@ -2318,7 +2314,6 @@ device-metrics-us.amazon.com
 devisemath.com
 dev.log.getadblock.com
 devmate.com
-dev-metrics.getrockerbox.com
 devmetrics.phunware.com
 de.vortex-win.data.microsoft.com
 devtodev.com
@@ -2549,6 +2544,7 @@ dtrck.net
 dtscout.com
 dt.scpge.com
 d.turn.com.akadns.net
+dtxngr.com
 dustyrabbits.com
 dustywave.com
 dv.stk2.pro
@@ -2597,8 +2593,8 @@ econ.trib.al
 e.curalate.com
 ecustomeropinions.com
 e.cybertrader.com
+edatasales.com
 ed-clr-01.com
-edge.ad1x.com
 edge.adobedc.net
 edge-mcdn-beacon.secure.yahoo.com
 edge-mcdn.secure.yahoo.com
@@ -2767,7 +2763,6 @@ event.on24.com
 eventprd10b.on24.com
 events1.avantisvideo.com
 events.air.tv
-events.apester.com
 events.api.godaddy.com
 events.api.secureserver.net
 events.attentivemobile.com
@@ -3309,6 +3304,7 @@ graphql.instagram.com
 gratiscounter.at
 gratis-sexcounter.com
 gravityrd-services.com
+gray-config-prod.api.cdn.arcpublishing.com
 graylog.24imedia.com
 graylog.org
 grayreceipt.com
@@ -3555,6 +3551,7 @@ idiagnostics.apple.com
 id.jixie.io
 id.lexipol.com
 idpix.media6degrees.com.cdn.cloudflare.net
+id-shop.govx.com
 id-visitors.com
 id.zalo.me
 iesnare.com
@@ -3578,8 +3575,6 @@ image-free-counter.net
 images.containerstore.com
 image.timespoints.iimg.in
 im.cbsileads.com
-img02.rl0.ru
-img0.socialshopwave.com
 imganalytics.co
 imganalytics.com
 img.discovery.com
@@ -4029,6 +4024,7 @@ leadsquaredcdn.com
 leads.radioedit.iheart.com
 leadsrx.com
 leady.com
+leady.cz
 leancoding.co
 leapfaucet.com
 leaplunchroom.com
@@ -4713,6 +4709,7 @@ mon1.kohls.com
 mon.byteoversea.com
 mon-com-net.com
 monetate.net
+mongoosemetrics.com
 mon-ip.com
 mon.isnssdk.com
 monitor.azure.com
@@ -4957,7 +4954,6 @@ nmp1.com
 nmp2.com
 nmtracking.netflix.com
 n.news.com
-nodetracker.datawrkz.com
 noibu.com
 noiselessplough.com
 nom.lds.org
@@ -5893,7 +5889,6 @@ pix.cdnwidget.com
 pixel2.combotag.com
 pixel2.realclever.com
 pixel.ad
-pixel.anyclip.com
 pixel-api.scupio.com
 pixel.barion.com
 pixel.epik.com
@@ -6282,6 +6277,7 @@ reingod.com
 reinvigorate.net
 rejectfairies.com
 relay42.com
+relevantknowledge.com
 relmaxtop.com
 rel.webcollage.net
 remarketingextra.com
@@ -7515,6 +7511,7 @@ snailsengine.com
 snakemineral.com
 snakesshop.com
 snakesstone.com
+snapabug.appspot.com
 snapanalytics.net
 snap.api.mapbox.com
 snap.events.mapbox.com
@@ -8241,7 +8238,6 @@ stats01.20min.ch
 stats1.wpmudev.com
 stats1x1.kapaza.be
 stats2.com
-statsa.nativeroll.tv
 stats-api.aaaecommerce.com
 statsapi.screen9.com
 stats.avast.com
@@ -8313,13 +8309,13 @@ stats-proto.pandora.com
 statsproxy-public-service-live.ol.epicgames.com
 stat.sptec.fi
 stat.spunky.fi
-stats.pusher.com
 stat.spuu.fi
 stats.qalabs.symantec.com
 stat.srautomaatio.fi
 stats.rdtube.com
 stat.srtrakennus.fi
 stats.ryzeo.com
+stats.sa-as.com
 stats.sexinyourcity.com
 statss.ia.ca
 statss.inalco.com
@@ -8543,6 +8539,7 @@ sud.holidays.hrs.de
 sugarcurtain.com
 suggestions.dadata.ru
 s.ugo.com
+sugoicounter.com
 sulkybutter.com
 sulkycook.com
 summerhamster.com
@@ -8974,7 +8971,6 @@ ters.us-east-1.aiv-delivery.net
 tesseradigital.com
 test-app.link
 testedtouch.com
-test-metrics.getrockerbox.com
 texturetrick.com
 t.felmat.net
 tf-feedback.itunes.apple.com
@@ -9627,6 +9623,7 @@ videotracker.washingtonpost.com
 vidora.com
 vidpulse.com
 viewclc.com
+viewpoint.com
 views.bzi.ro
 viglink.com
 vindicosuite.com
@@ -9817,6 +9814,7 @@ webcounter.goweb.de
 webdata.up.edu.ph
 web.diamond.co.uk
 web.elephant.co.uk
+webfreecounter.com
 web-frontend-dot-sc-analytics.appspot.com
 webfx.com
 webgains.com
@@ -10183,4 +10181,5 @@ zplayer.trk.zapps.vn
 zplayer-trk.zdn.vn
 zqtk.net
 ztevents.zaloapp.com
+zylotech.com
 zz.bdstatic.com

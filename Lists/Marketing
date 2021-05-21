@@ -1,7 +1,7 @@
 #
 #    File: Marketing   (Web Marketing / Ebay Listing Tools)
-# Domains: 345
-# Updated: 5/18/2021  23:44 (11:44 PM CST)
+# Domains: 347
+# Updated: 5/20/2021  21:53 (9:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -133,6 +133,7 @@ outreach.io
 pixlee.co
 pixlee.com
 salesloft.com
+simplycast.com
 
 
 ##############################
@@ -420,9 +421,10 @@ searchspring.com             #Search Spring
 # SMS Marketing
 #############################
 eztexting.com             #EzTexting
+jooksms.com               #JookSMS
+mobivity.com              #Mobivity
 postscript.io             #PostScript
 simpletexting.com         #SimpleTexting
-jooksms.com               #JookSMS
 slicktext.com             #SlickText
 tatango.com               #Tatango
 textsanity.com            #TextSanity
