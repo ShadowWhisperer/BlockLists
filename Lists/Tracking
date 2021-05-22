@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,181
-# Updated: 5/21/2021  15:13 (3:13 PM CST)
+# Domains: 10,206
+# Updated: 5/22/2021  02:17 (2:17 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -195,6 +195,7 @@ a.cricinfo.com
 acridtwist.com
 acro.acromegalyinfo.com
 acsbap.com
+acsbapp.com
 a.csmonitor.com
 action.media6degrees.com.cdn.cloudflare.net
 activate.suncorp.com.au
@@ -864,6 +865,7 @@ astutemetrics.com
 a.svenskfast.se
 aswanalytics.apple.com
 as.welt.de
+ata.cargurus.com
 a.tactics.com
 atatus.com
 at.cbsi.com
@@ -1323,6 +1325,7 @@ caringzinc.com
 carpentercomparison.com
 carriagecan.com
 carscannon.com
+cartmail.org
 carto.com
 cartrocket.com
 cartstack.com
@@ -1514,6 +1517,7 @@ circulate.com
 cision.com
 c.it.msn.com
 cityadstrack.com
+citygridmedia.com
 civey.com
 civicscience.com
 cjs.ptengine.com
@@ -1944,6 +1948,7 @@ counter2.freeware.de
 counter32.bravenet.com
 counter4.whocame.ovh
 counter.aws.int.celereapis.com
+countercentral.com
 counter.cz
 counter.de
 counter.gd
@@ -2272,6 +2277,7 @@ d.dropbox.com
 deadpangate.com
 deadpantruck.com
 deafeningdock.com
+dealeranalytics.com
 debonairdust.com
 debonairway.com
 decibelinsight.com
@@ -2285,6 +2291,7 @@ decoroustitle.com
 decoycreation.com
 deepintent.com
 deepmetrix.com
+deer-bed-wind.com
 defectivedress.com
 defectivesun.com
 defiantrice.com
@@ -2320,6 +2327,7 @@ devmetrics.phunware.com
 de.vortex-win.data.microsoft.com
 devtodev.com
 dev.virtualearth.net
+dfanalytics.dealerfire.com
 df-srv.de
 d.ghostery.com
 dh014lg6uwepv.cloudfront.net
@@ -2960,6 +2968,7 @@ flix360.com
 flockflame.com
 f-log-extension.grammarly.io
 floodprincipal.com
+flow.1passwordservices.com
 floweryoperation.com
 flrdra.com
 fls-eu.amazon.co.uk
@@ -3462,6 +3471,7 @@ hits-i.iubenda.com
 hits.informer.com
 hit.skrz.cz
 hitslink.com
+hitslog.com
 hits.puls.lv
 hits-secure.guardian.co.uk
 hittail.com
@@ -3553,6 +3563,7 @@ idiagnostics.apple.com
 id.jixie.io
 id.lexipol.com
 idpix.media6degrees.com.cdn.cloudflare.net
+idrove.it
 id-shop.govx.com
 id-visitors.com
 id.zalo.me
@@ -5947,6 +5958,7 @@ plugs.jameco.com
 pma-network.com
 p.marktplaats.net
 pmd205470tn-a.akamaihd.net
+pmetrics.performancing.com
 pnstat.com
 pntheon.com
 pocitadlolibise.seznam.cz
@@ -6454,6 +6466,7 @@ rocketanalytics.com
 rodeopolice.com
 roia.biz
 roistat.com
+rokt.com
 roku-beacons.xumo.com
 rollbar.com
 rollworks.com
@@ -6473,6 +6486,7 @@ rptrcks.walmart.com
 rpxnow.com
 rqtrk.eu
 rrss.abc.es
+r.shoplazza.com
 rs.sinajs.cn
 rssx.hp.com
 rt.360dialog.io
@@ -6825,6 +6839,7 @@ screechingfurniture.com
 screechingslip.com
 screechingstove.com
 scribe.logs.roku.com
+scripts.dmdt.io
 scriptshost.com
 scripts.mymarketingreports.com
 scripts.pixelmotiondemo.com
@@ -7435,6 +7450,7 @@ smetrics.aetn.com
 smetric.sales.vikingline.com
 s.metrics.artistsnetwork.com
 smetrics.att.com
+smetrics.autotrader.com
 smetrics.bankofmelbourne.com.au
 smetrics.banksa.com.au
 smetrics.carfax.com
@@ -7465,6 +7481,7 @@ smetrics.sephora.com
 s.metrics.shopwoodworking.com
 s.metrics.skyandtelescope.com
 smetrics.startribune.com
+smetrics.statnews.com
 smetrics.suncorp.com.au
 smetrics.timeout.com
 smetrics.washingtonpost.com
@@ -7532,6 +7549,7 @@ snoobi-technology.com
 snoresmile.com
 snowplowanalytics.com
 snowplow.canary.is
+snowplow.convertri.com
 snowplow-pixel.tradingview.com
 snplow.net
 snrbox.com
@@ -8752,6 +8770,8 @@ swoop.com
 swordgoose.com
 sw-rail-7.com
 swrve.com
+swym.it
+swymrelay.com
 symbolizebeast.com
 symphonyam.com
 symphonytalent.com
@@ -9167,6 +9187,7 @@ trackingapi.trendemon.com
 tracking.avapartner.com
 tracking.buygoods.com
 trackingcareers.accenture.com
+tracking-cdn.rdc.moveaws.com
 tracking.chilipiper.com
 tracking.epicgames.com
 tracking.g2crowd.com
@@ -9816,6 +9837,7 @@ webcdn.cox.com
 web.chtbl.com
 webclicks24.com
 webcompteur.com
+webcounter.cz
 webcounter.goweb.de
 webdata.up.edu.ph
 web.diamond.co.uk
@@ -9941,6 +9963,9 @@ wildernesscamera.com
 wilshirecollections.ontraport.com
 wipmania.com
 wirecomic.com
+wishpond.com
+wishpond.net
+wishpondpages.com
 wistfulflight.com
 witstroom.com
 wixlabs-hcounter.appspot.com

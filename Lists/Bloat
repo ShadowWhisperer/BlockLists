@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 744
-# Updated: 5/15/2021  00:52 (12:52 AM CST)
+# Domains: 747
+# Updated: 5/22/2021  02:17 (2:17 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -89,6 +89,7 @@ comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 d25purrcgqtc5w.cloudfront.net                           #Font  Specific
 drh-fonts.img.digitalrivercontent.net                   #Font  Specific
 fonts.65twenty.com                                      #Font  Specific
+fonts.blackbookinformation.com                          #Font  Specific
 fonts.cb-intl.tech                                      #Font  Specific
 fonts.channel4.com                                      #Font  Specific
 fonts.dzone.com                                         #Font  Specific
@@ -116,6 +117,7 @@ fonts.wpcdn.pl                                          #Font  Specific
 fonts.wsj.net                                           #Font  Specific
 fonts.w.tools                                           #Font  Specific
 fonts.ymcart.com                                        #Font  Specific
+fonts.zohostatic.com                                    #Font  Specific
 fonts.zohowebstatic.com                                 #Font  Specific
 fonts.zumst.com                                         #Font  Specific
 g1.nyt.com                                              #Font  Specific
@@ -194,6 +196,7 @@ i.creativecommons.org                                   #Webpages - Icon (licens
 donorbox.org                                            #Webpages - Icon (Donate Button)
 d1sssn74k2rfxk.cloudfront.net                           #Webpages - Icon (Donate Button)
 s3.feedly.com                                           #Webpages - Icon (Follow Page)
+i.bigmir.net                                            #Webpages - Social Media (Sharing)
 addtoany.com                                            #Webpages - Social Media (Universal Sharing)
 static.addtoany.com                                     #Webpages - Social Media (Universal Sharing)
 likebtn.com                                             #Webpages - Social Media (Like Button)
