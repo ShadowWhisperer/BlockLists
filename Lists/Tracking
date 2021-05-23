@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,230
-# Updated: 5/23/2021  01:23 (1:23 AM CST)
+# Domains: 10,241
+# Updated: 5/23/2021  14:14 (2:14 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -591,6 +591,7 @@ analytics.rbauction.com
 analytics.redbubble.com
 analytics.report
 analytics.revengebucks.com
+analytics.reyrey.net
 analytics-sdk.yle.fi
 analyticssec.overwolf.com
 analytics-sessions-redirector.cs.madgexhosting.net
@@ -2167,6 +2168,7 @@ d31qbv1cthcecs.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
+d37gvrvc0wt4s1.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
 d39vf9bwtb4sua.cloudfront.net
 d3aiy6aqoa3ykz.cloudfront.net
@@ -3011,6 +3013,7 @@ fpa-cdn.arstechnica.com
 fpa-cdn.slate.com
 fpa-events.arstechnica.com
 fp-analytics.hotstar.com
+fp-cdn.azureedge.net
 fpc.firemountaingems.com
 fpc.northerninstitutionalfunds.com
 fpc.pelican.com
@@ -3026,6 +3029,7 @@ franticcarpenter.com
 frantictrail.com
 fraudjs.io
 fraudlogix.com
+fraudmetrix.cn
 freebloghitcounter.com
 freecounterandstats.com
 free-counter.co.uk
@@ -4119,6 +4123,7 @@ liveyield.com
 lizardslaugh.com
 lmstat.sonicwall.com
 lo3trk.com
+loader-cdn.azureedge.net
 loader.ogstats.com
 load.s3.amazonaws.com
 loc1.hitsprocessor.com
@@ -5128,6 +5133,7 @@ omniture-ssl.groceries-qa.asda.com
 omniture-ssl.kia.com
 omniture-ssl.walmart.ca
 omniture-ssl.wal-mart.com
+omniture.walmart.com
 omn.roxul.com
 omns.americanexpress.com
 omns.crackle.com
@@ -6417,6 +6423,7 @@ r.hoff.ru
 rhymezebra.com
 rhythmmoney.com
 richaudience.com
+richinfo.co
 richmetrics.com
 richreceipt.com
 richrelevance.com
@@ -6765,6 +6772,7 @@ saysidewalk.com
 sbal4kp.com
 sbcomniture.focus.de
 sbeacon.sina.com.cn
+sbgsodufuosmmvsdf.info
 s.blinds.ca
 s.blinds.com
 sb.scorecardresearch.com.edgekey.net
@@ -7466,6 +7474,7 @@ smetrics.att.com
 smetrics.autotrader.com
 smetrics.bankofmelbourne.com.au
 smetrics.banksa.com.au
+smetrics.boston.com
 smetrics.carfax.com
 smetrics.cars.com
 smetrics.cbc.ca
@@ -7473,6 +7482,7 @@ smetrics.chrysler.com
 smetrics.cisco.com
 smetrics.cnn.com
 smetrics-cns.panasonic.com
+smetrics.consumerreports.org
 smetrics.ctv.ca
 smetrics.dandh.com
 smetrics.delta.com
@@ -9098,6 +9108,7 @@ toggl.com
 toifeeds.indiatimes.com
 token.boh.com
 tombras.com
+tools.newsday.com
 toothbrushnote.com
 toothpasterabbits.com
 topaz-analytics.com
