@@ -1,7 +1,7 @@
 #
 #    File: Tunnels   (VPNs & Proxies)
-# Domains: 368
-# Updated: 5/20/2021  21:53 (9:53 PM CST)
+# Domains: 379
+# Updated: 5/23/2021  01:23 (1:23 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -26,6 +26,8 @@ api.hsselite.com
 api.polargrizzly.com
 api.surfeasy.com
 app.safervpn.com
+astrill.com
+astrill.org
 atlasvpn.com
 atozproxy.com
 avira-vpn.com
@@ -79,12 +81,14 @@ dt4oxny0f90is.cloudfront.net
 du8aqpqj1sfsd.cloudfront.net
 dwhh0bi26t86w.cloudfront.net
 dy58t8rwtsd9j.cloudfront.net
+earthvpn.com
 emban-networks.com
 expressvpn.com
 fakeip.org
 fastusaproxy.com
 fiberprox.com
 fiberprox.net
+files-slickvpn.netdna-ssl.com
 fishproxy.com
 fixproxy.com
 fortinet.com
@@ -110,6 +114,7 @@ geekproxy.com
 genmirror.com
 geti2p.net
 getusvpn.com
+gfwvpn.com
 global-proxy.com
 greenproxy.net
 guardster.com
@@ -138,6 +143,7 @@ homeproxy.net
 hotfreevpn.com
 hotspotshield.com
 hsselite.com
+h-vpn.org
 i2p-projekt.de
 ibvpn.com
 incloak.es
@@ -273,6 +279,7 @@ sitenable.com
 sitenable.org
 siteunblock.org
 skyvpn.net
+slickvpn.com
 smartydns.com
 snowproxy.com
 sparklabs.com
@@ -298,6 +305,7 @@ testpilot.firefox.com
 testpilot.r53-2.services.mozilla.com
 the-cloak.com
 thexite.net
+tigervpn.com
 tor2web.org
 tor-ca.prcdn.net
 torguard.net
@@ -324,6 +332,7 @@ unblockit.link
 unblockit.ltd
 unblock-me.org
 unblock-proxy.com
+unblockvpn.com
 unblockyouku.com
 unblockyouku.org
 undofilters.com
@@ -349,8 +358,10 @@ vpngate.net
 vpn.net
 vpnprivacy.com
 vpnprivacy.services
+vpnreactor.net
 vpntunnel.com
 vpnuse.com
+vyprvpn.com
 walln.com
 waw-pl.prcdn.net
 webevade.com
