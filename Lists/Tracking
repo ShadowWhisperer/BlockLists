@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,206
-# Updated: 5/22/2021  02:17 (2:17 AM CST)
+# Domains: 10,230
+# Updated: 5/23/2021  01:23 (1:23 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -380,6 +380,7 @@ a.fandango.com
 a-fds.youborafds01.com
 affanalytics.com
 affiliate.googleusercontent.com
+affiliates.hola.org
 affiliatetracking.com
 affiliatly.com
 afftrack.com
@@ -534,6 +535,7 @@ analytics.carbaselive.com
 analytics.carbonite.com
 analytics.ccs.mcafee.com
 analytics-cdn.redbubble.com
+analytics.chase.com
 analytics.civicplus.com
 analytics.clickdimensions.com
 analytics.com
@@ -592,6 +594,7 @@ analytics.revengebucks.com
 analytics-sdk.yle.fi
 analyticssec.overwolf.com
 analytics-sessions-redirector.cs.madgexhosting.net
+analytics.shapez.io
 analytics.shoptimize.in
 analytics.site123.io
 analytics.slashdotmedia.com
@@ -712,7 +715,6 @@ api.reftagger.com
 api-rest.analytics.nexonm.com
 api.ringlead.com
 api.rollbar.com
-api.sail-personalize.com
 api-sensors.shein.com
 apis.murdoog.com
 api.snapkit.com
@@ -969,6 +971,7 @@ awsstatreporter.com
 awstrack.me
 awzbijw.com
 axiomaticalley.com
+axur.com
 az416426.vo.msecnd.net
 az667904.vo.msecnd.net
 azalead.com
@@ -2218,6 +2221,7 @@ datacygnal.io
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+datadome.co
 data.email-e2e.adobecjm.com
 data-events.uniplaces.com
 datagather.xsolla.com
@@ -2309,6 +2313,7 @@ desertedrat.com
 desirebucket.com
 desiredirt.com
 deskdecision.com
+desktop-dna.osp.opera.software
 detailedglue.com
 detailedgovernment.com
 detailedkitten.com
@@ -2416,6 +2421,7 @@ divehope.com
 divergentoffer.com
 diversesolutions.com
 divostat.game-insight.com
+divvit.com
 dj5ag5n6bpdxo.cloudfront.net
 dk4ywix.com
 dk98ddgl0znzm.cloudfront.net
@@ -4915,6 +4921,7 @@ netdeal.com.br
 netelixir.com
 net-filter.com
 net.geo.opera.com
+netid.ff.avast.com
 netip.de
 netline.com
 netmarbleslog.netmarble.com
@@ -5253,6 +5260,7 @@ optimost.com
 optimove.events
 opt-intelligence.com
 optnmstr.com
+optomaton.com
 oracleinfinity.io
 orangeoperation.com
 oribi.io
@@ -5824,6 +5832,7 @@ perimeterx.net
 permissionresearch.com
 perpetualpail.com
 perr.h-cdn.com
+perr.hola.org
 personalisation.ai
 personalization.bloomberg.com
 personalizer.io
@@ -6049,6 +6058,9 @@ production-evvnt-plugin-herokuapp-com.global.ssl.fastly.net
 production-na02-puma.demandware.net
 productivepear.com
 prod-uilogger.public.prodsupportsite.a.intuit.com
+profile.ams50.cloudfront.net
+profile.fra2.cloudfront.net
+profile.tpe50-c1.cloudfront.net
 profitrumour.com
 profitwell.com
 profusesupport.com
@@ -6688,6 +6700,7 @@ safe-browsing-quorum.ghostery.com
 safecount.net
 sa.foodnetwork.com
 sa.hgtv.com
+sail-personalize.com
 sailsuit.com
 sa.investigationdiscovery.com
 sales-stats.inkfrog.com
@@ -7520,7 +7533,6 @@ smtc.jetstar.com
 smtc.qantas.com
 smtc.qantas.com.au
 smt.jcpenney.com
-sm.trb.com
 smtrcs.redhat.com
 smtrk.net
 smtx.belfius.be
@@ -9283,6 +9295,7 @@ traq.li
 travel-pixel-web.us-east-1.prod.expedia.com
 traversedata.com
 traversedlp.com
+trb.com
 trbo.com
 trck5.com
 trck.advicecroco.com
@@ -9350,6 +9363,7 @@ ts.delfi.ee
 ts.delfi.lt
 ts.delfi.lv
 t.seenthis.se
+ts.eset.com
 t-s.gene.com
 tshop.r10s.com
 t.sidekickopen01.com
@@ -9413,6 +9427,14 @@ t.sidekickopen68.com
 t.sidekickopen69.com
 t.sidekickopen70.com
 ts.istrack.com
+tsm09.eset.com
+tsm10.eset.com
+tsm11.eset.com
+tsm12.eset.com
+tsm13.eset.com
+tsm14.eset.com
+tsm15.eset.com
+tsm16.eset.com
 tsm-js.s3.amazonaws.com
 t.sonaughty.com
 t.spike.com
@@ -9653,6 +9675,7 @@ viewclc.com
 viewpoint.com
 views.bzi.ro
 viglink.com
+vilynx.com
 vindicosuite.com
 vinflag.com
 vinlens.com
@@ -9704,6 +9727,7 @@ volument.com
 voluum.com
 voluumtrk2.com
 voluumtrk3.com
+volvelle.tech
 voodoo-analytics.io
 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
 vop-yahoo.akamaized.net
