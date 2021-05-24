@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,241
-# Updated: 5/23/2021  14:14 (2:14 PM CST)
+# Domains: 10,245
+# Updated: 5/24/2021  09:16 (9:16 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1879,7 +1879,6 @@ concernedcondition.com
 condenastdigital.com
 conditioncrush.com
 conductrics.com
-conduit.redfast.com
 confesschairs.com
 confiant.com
 config.uca.cloud.unity3d.com
@@ -2503,6 +2502,7 @@ dt4ever.com
 dt6.scpge.com
 dt.admission.net
 dtc-330d.com
+dt-cdn.net
 dtc-v6t.com
 dt.gnpge.com
 dthvdr9.com
@@ -5933,6 +5933,7 @@ pixel.quantcount.com
 pixels.dsp.theadtech.com
 pixel-secure.solvemedia.com
 pixelsmarter.com
+pixel.snapsmedia.io
 pixel-static.spotify.com
 pixel-tracker.com
 pixeltracker.im
@@ -6278,6 +6279,8 @@ rec.quartic.pl
 recruiting-analytics.de
 recs.occa.us-phoenix-1.ocs.oraclecloud.com
 recv-wd.gridsumdissector.com
+redfast.com
+redfastlabs.com
 redintelligence.net
 redirect.fxcm.com
 redirect.fxcorporate.com
@@ -9207,6 +9210,7 @@ trackingapi.kaufda.de
 trackingapi.meinprospekt.de
 tracking-api.softwareadvice.com
 trackingapi.trendemon.com
+tracking-app-sas.carecart.io
 tracking.avapartner.com
 tracking.buygoods.com
 trackingcareers.accenture.com
