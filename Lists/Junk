@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 462
-# Updated: 5/17/2021  14:19 (2:19 PM CST)
+# Domains: 463
+# Updated: 5/26/2021  16:43 (4:43 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -126,6 +126,7 @@ ucweb.com                                      #Browser
 updates.bravesoftware.com                      #Browser
 
 ad-blocker.org                                 #Browser Extension
+adblock.fr                                     #Browser Extension
 adtidy.org                                     #Browser Extension
 adzero.org                                     #Browser Extension
 auth.grammarly.com                             #Browser Extension
