@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 747
-# Updated: 5/23/2021  01:23 (1:23 AM CST)
+# Domains: 748
+# Updated: 5/26/2021  10:00 (10:00 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -87,6 +87,7 @@ pls.webtype.com                                         #Font      WebType
 webtype.com                                             #Font      WebType
 comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 d25purrcgqtc5w.cloudfront.net                           #Font  Specific
+d26t7ex48mr4bn.cloudfront.net                           #Font  Specific
 drh-fonts.img.digitalrivercontent.net                   #Font  Specific
 fonts.65twenty.com                                      #Font  Specific
 fonts.blackbookinformation.com                          #Font  Specific
