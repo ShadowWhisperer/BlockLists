@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,267
-# Updated: 5/26/2021  16:43 (4:43 PM CST)
+# Domains: 10,276
+# Updated: 5/26/2021  22:36 (10:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -992,6 +992,7 @@ backstory.ebay.com
 backstory.ebay.co.uk
 backstory.ebay.ph
 backtrace.io
+bacontent.de
 badgerstat.com
 badgeville.com
 bae5tracker.com
@@ -1871,8 +1872,10 @@ completecabbage.com
 complextoad.com
 compteur-visite.com
 comscore.com
+comscoredatagems.com
 comscoredatamine.com
 comscoredirect.com
+comscoredirect.net
 comscore.net
 comscorenetworks.net
 comscore.org
@@ -2188,6 +2191,7 @@ d3t15oqv74y46a.cloudfront.net
 d3v27wwd40f0xu.cloudfront.net
 d3vk40ihlliju7.cloudfront.net
 d41.co
+d5i9o0tpq9sa1.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 d65ojvdli7jd8.cloudfront.net
 d70shl7vidtft.cloudfront.net
@@ -2662,6 +2666,7 @@ elfsight.com
 eligibility-panelresearch.googlevideo.com
 eliminateeffect.com
 elitrack.com
+elo.io
 eloq.fiducial.fr
 eloqua.com
 eloqua.liberty.edu
@@ -3916,6 +3921,7 @@ jscount.com
 js.data.cctv.com
 js.dhresource.com
 js.driftt.com
+js-error-logger.as24-assets.eu-west-1.infinity.as24.tech
 js.fluidity.press
 js.hsadspixel.net
 js.hubspotfeedback.com
@@ -7121,6 +7127,7 @@ secure.mon-com-01.com
 secure.mown5gaze.com
 securemvt.apple.com
 secure.navy9gear.com
+secure.nch.com.au
 secure.neck6bake.com
 secure.nice3aiea.com
 secure.nong3bram.com
@@ -7327,6 +7334,7 @@ shopbreakfast.com
 shopify.kount.net
 shopify.kount.net.cdn.cloudflare.net
 shopify.privy.com
+shopifytrack.com
 shopimind.com
 shopper.shop.pe
 shoppertrak.com
@@ -8999,6 +9007,7 @@ telogical.com
 telogicalsystems.com
 tel.telegraaf.nl
 t.emails.midwayusa.com
+temelio.com
 templatelogging.office.com
 tempttalk.com
 tendersugar.com
