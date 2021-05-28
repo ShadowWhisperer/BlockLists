@@ -143,6 +143,7 @@ office.live.com                                  # Microsoft - Office -  Downloa
 statics-marketingsites-eus-ms-com.akamaized.net  # Microsoft - Office -  Download (2010)
 statics-marketingsites-wcus-ms-com.akamaized.net # Microsoft - Office -  Download (2010)
 metadata.templates.cdn.office.net                # Microsoft - Office -  Download Templates
+identity.osi.office.net                          # Microsoft - Office -  Breaks Email Logins (Chrome)
 statics-uhf-wus.akamaized.net                    # Microsoft - Support Pages
 wdcp.microsoft.com                               # Microsoft - Windows Defender Updates
 displaycatalog.mp.microsoft.com                  # Microsoft - Windows Store
