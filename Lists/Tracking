@@ -1,12 +1,13 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,276
-# Updated: 5/26/2021  22:36 (10:36 PM CST)
+# Domains: 10,279
+# Updated: 5/27/2021  20:49 (8:49 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
 #    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
+
 
 0272ac85-5199-4024-a555-397c3d825d95.prmutv.co
 0d15692193ba43a8a9384fed500b3a1d.apm.us-east-1.aws.cloud.es.io
@@ -4113,6 +4114,7 @@ linksynergy.com
 linksynergy.walmart.com
 linkto.ext.hp.com
 linktrackr.com
+link.wacom.com
 liquid.agora.pl
 lisource.panel.kantartns.lt
 listrakbi.com
@@ -6124,6 +6126,7 @@ public-prod-dspcookiematching.dmxleo.com
 publisher-news.com
 pubnub.com
 pubocean.com
+pubtrack.co
 puffyloss.com
 puffypaste.com
 puffypull.com
@@ -8317,6 +8320,7 @@ stats.coinpayments.net
 statscollector.digital.vistaprint.com
 stats.com
 stats.cyberhost.uk
+stats.datacolor.eu
 stats.datawrapper.de
 stats.dealerspike.com
 statse-omtrdc.deka.de

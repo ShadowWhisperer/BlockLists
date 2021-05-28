@@ -1,11 +1,11 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 441
-# Updated: 4/22/2021  14:24 (2:24 PM CST)
+# Domains: 454
+# Updated: 5/27/2021  20:49 (8:49 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 fevoke-windowsservices-tas.msedge.net          #App    Candy Crush Saga (Updates)
@@ -41,8 +41,10 @@ sharepoint-df.com                              #App     SharePoint
 sharepointonline.com                           #App     SharePoint
 spoppe.com                                     #App     SharePoint
 static2.sharepointonline.com                   #App     SharePoint
+a.config.skype.com                             #App   Skype
 a.lw.skype.com                                 #App   Skype
 badwlas.skype.com                              #App   Skype
+b.config.skype.com                             #App   Skype
 c1.skype.com                                   #App   Skype
 community.skype.com                            #App   Skype
 consumer.entitlement.skype.com                 #App   Skype
@@ -53,6 +55,7 @@ msgsearch.skype.com                            #App   Skype
 people.skype.com                               #App   Skype
 pnv.skype.com                                  #App   Skype
 quicktips2016.skypeforbusiness.com             #App   Skype
+s2s.config.skype.com                           #App   Skype
 skypeecs-prod-use-0-b.cloudapp.net             #App   Skype
 skype-pcs-prod-usea2-fe-b.cloudapp.net         #App   Skype
 trap.skype.com                                 #App   Skype
@@ -235,7 +238,6 @@ onmicrosoft.com                                # ? Office 365
 cys-efz.ms-acdc.office.com                     # ? Office
 enrichment.osi.office.net                      # ? Office
 f-0001.f-msedge.net                            # ? Office
-identity.osi.office.net                        # ? Office
 loki.delve.office.com                          # ? Office
 lpcres.delve.office.com                        # ? Office
 lyh-efz.ms-acdc.office.com                     # ? Office
@@ -294,6 +296,7 @@ polaris-tagging-prod.azureedge.net             #Azure
 
 aad.cs.dds.microsoft.com
 adl.windows.com
+api.cdp.microsoft.com
 a-ring-fallback.msedge.net
 assets.msn.com
 az158878.vo.msecnd.net
@@ -324,6 +327,7 @@ clientconfig.passport.net
 clientsettings.books.microsoft.com
 cloudappconfig.blob.core.windows.net
 c.microsoft.com
+co2.sls.microsoft.com
 compatexchange.cloudapp.net
 connect.microsoft.com
 continuum.dds.microsoft.com
@@ -343,7 +347,9 @@ dmd.metaservices.microsoft.com
 ds.microsoft.com
 ds.ssw.live.com
 edgebooks.rec.mp.microsoft.com
+edgetipscdn.microsoft.com
 edgewelcomecdn.microsoft.com
+europe.cp.wd.microsoft.com
 exp.mp.dse.microsoft.com
 fe2.update.microsoft.com.akadns.net
 filestore.community.answers.ms.akadns.net
@@ -364,6 +370,7 @@ ieonlinews.microsoft.com
 img.stb.s-msn.com
 imvendorportal.com
 insiderppe.cloudapp.net
+insideruser.microsoft.com
 internetexplorer.com
 ipv4.login.msa.akadns6.net
 iriscoremetadataprod.blob.core.windows.net
@@ -428,6 +435,7 @@ ra.live.com
 rarewaves.blob.core.windows.net
 redir1.cloudapp.net
 rewards.microsoft.com
+romeccs.microsoft.com
 rssgov.windows.microsoft.com
 rzpict1.blob.core.windows.net
 s-0001.s-msedge.net
@@ -464,9 +472,12 @@ storagetos.datamart.windows.com
 storecatalogrevocation.storequality.microsoft.com
 storesdk.dsx.mp.microsoft.com
 svmstrgprodus.blob.core.windows.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
 telecommandsvc.microsoft.com
 trafficmanager.net
 trafficshaping.dsp.mp.microsoft.com
+troubleshooting.microsoft.com
 trustwave.blob.core.windows.net
 tsfe.trafficshaping.dsp.mp.microsoft.com
 uasprod.blob.core.windows.net
@@ -475,6 +486,7 @@ urlappmapping.sfp.microsoft.com
 ussus3westprod.blob.core.windows.net
 vlscppe.microsoft.com
 vsmsoftware.net
+wallet.microsoft.com
 waws-prod-blu-059.cloudapp.net
 wcpstatic.microsoft.com
 wdcpalt.microsoft.com
@@ -486,4 +498,5 @@ widgets.services.microsoft.com
 win10-trt.msedge.net
 wip.mam.manage.microsoft.com
 woodgrovebank.com
+xml.login.live.com
 ztd.dds.microsoft.com
