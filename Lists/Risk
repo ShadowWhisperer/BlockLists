@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 152
-# Updated: 5/26/2021  10:00 (10:00 AM CST)
+# Domains: 163
+# Updated: 5/28/2021  23:53 (11:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -139,14 +139,21 @@ localtunnel.me                                #Share Localhost
 showoff.io                                    #Share Localhost
 
 1bit.space                                    #URL Shortener
+2shrt.com                                     #URL Shortener
 adf.ly                                        #URL Shortener
 adfoc.us                                      #URL Shortener
 adshort.co                                    #URL Shortener
+aporasal.net                                  #URL Shortener (AdFly)
+atharori.net                                  #URL Shortener (AdFly)
+cpmlink.net                                   #URL Shortener
+gdanstum.net                                  #URL Shortener (AdFly)
+hif.to                                        #URL Shortener
 href.li                                       #URL Shortener (Abused)
 is.gd                                         #URL Shortener
 leitup.com                                    #URL Shortener
 lmy.de                                        #URL Shortener
 lnk.news                                      #URL Shortener
+myrnamooney.pro                               #URL Shortener (AdFly)
 rb.gy                                         #URL Shortener
 sharem.tech                                   #URL Shortener
 shortcm.li                                    #URL Shortener
@@ -154,12 +161,16 @@ short.cm                                      #URL Shortener
 shorte.st                                     #URL Shortener
 short.io                                      #URL Shortener
 shorturl.com                                  #URL Shortener
+shrtfly.com                                   #URL Shortener (ShrtFly)
 shrturl.site                                  #URL Shortener
 sh.st                                         #URL Shortener
 shurl.be                                      #URL Shortener
 spyw.com                                      #URL Shortener
+stfly.me                                      #URL Shortener (ShrtFly)
 t2m.io                                        #URL Shortener
 tiny.cc                                       #URL Shortener
+znt.bz                                        #URL Shortener
+zum.bi                                        #URL Shortener
 
 teste.website                                 #Web Host [HostGator] - Some malware domains, some normal
 

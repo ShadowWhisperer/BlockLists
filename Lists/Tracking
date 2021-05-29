@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,279
-# Updated: 5/28/2021  13:04 (1:04 PM CST)
+# Domains: 10,310
+# Updated: 5/28/2021  23:53 (11:53 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -10,6 +10,7 @@
 
 0272ac85-5199-4024-a555-397c3d825d95.prmutv.co
 0d15692193ba43a8a9384fed500b3a1d.apm.us-east-1.aws.cloud.es.io
+0ip.eu
 1010data.com
 10duke.com
 111.91.190.35.bc.googleusercontent.com
@@ -773,6 +774,7 @@ applogs.pixelfederation.com
 applogs-v2.pixelfederation.com
 applog-useast1a.musical.ly
 applog-useast2a.musical.ly
+applog.zaycev.net
 app-measurement.com
 appmetr.com
 appmetrica.yandex.com
@@ -957,6 +959,7 @@ autovistagroup.com
 avandor.com
 averageamusement.com
 a.verdictsearch.com
+avidglobalmedia.com
 a.vliegwinkel.nl
 avm.avantisvideo.com
 avmws.com
@@ -1053,6 +1056,7 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 beaconsinspace.com
 beacons.mediamelon.com
+beacon.sojern.com
 beacon-v2.helpscout.net
 beacon.walmart.com
 beacon.wikia-services.com
@@ -1305,6 +1309,7 @@ callrail.com
 callreports.com
 calls.net
 callstats.io
+calltouch.ru
 calltrackingmetrics.com
 calltracking.ru
 calltracks.com
@@ -1558,6 +1563,7 @@ clearsale.com.br
 clearview.ai
 clearwateranalytics.com
 cleeng.com
+clic2buy.com
 click1.ads.infinity-info.com
 click1.canadianvisaexpert.net
 click1.clickrouter.com
@@ -1610,6 +1616,7 @@ click2.ads.infinity-info.com
 click2.agorafinancial.com
 click2.americauncensored.com
 click2.banyanhill.com
+click2buy.com
 click2.cafepress.com
 click2.chinatimes.com
 click2.dailyreckoning.com
@@ -2136,6 +2143,7 @@ d1n9lkq9g1krc3.cloudfront.net
 d1nxn87txdj54y.cloudfront.net
 d1oesr9v7fk227.cloudfront.net
 d1t40axu4ik42k.cloudfront.net
+d1tracker.ru
 d1usx49nhcilp7.cloudfront.net
 d1v9u0bgi1uimx.cloudfront.net
 d1vl8wytztdz.cloudfront.net
@@ -2172,6 +2180,7 @@ d2y8psjfi06mva.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
+d335luupugsy2.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
 d38xvr37kwwhcm.cloudfront.net
@@ -2256,6 +2265,7 @@ dat.gtags.net
 dativa.com
 datreputation.gti.mcafee.com
 dax.yle.fi
+daydot.agency
 daylogs.com
 dbdm-events.mybluemix.net
 db-ip.com
@@ -2718,6 +2728,7 @@ energeticladybug.com
 engagementapi.skype.com
 engagement.avgbrowser.com
 engagement-collector.mobify.net
+engagement.investordelivery.com
 engagemetrics.cisco.com
 engagesciences.com
 enormousearth.com
@@ -2910,6 +2921,7 @@ fastly-analytics.com
 fastly-insights.com
 fas.whitehouseblackmarket.com
 fatcoil.com
+fatmedia.io
 faults.norton.com
 faultycanvas.com
 faultyfowl.com
@@ -3286,6 +3298,7 @@ g.mashable.com
 gmyze.com
 gn-flagpoles.api.bbci.co.uk
 gnome.digg.com
+goatcounter.com
 godatadriven.com
 godlygeese.com
 godog.shopifycloud.com
@@ -3706,6 +3719,7 @@ info.vodafone.com.au
 infutor.com
 ingenioustechnologies.com
 ingest.machinify.com
+ingress.linktr.ee
 inistrack.net
 initjs.rfk.magidglove.com
 initjs.rfk.zennioptical.com
@@ -3731,6 +3745,7 @@ insight.org
 insight.rapid7.com
 insightrocket.com
 insights.algolia.io
+insight.samsunghealth.com
 insights.autofi.com
 insights.bizrate.com
 insights.cachefly.com
@@ -4049,12 +4064,14 @@ leaddyno.com
 leadexpress.nl
 leadfeeder.com
 leadforensics.com
+leadhit.io
 leadid.com
 leadid.net
 leadinfo.net
 leadinspector.de
 leadlander.com
 leadmanagerfx.com
+leadscope.de
 leadspace.com
 leadsquaredcdn.com
 leads.radioedit.iheart.com
@@ -4345,6 +4362,7 @@ matomo.groovetech.io
 matomo.iserv.eu
 matomo.jam-software.com
 matomo.jam-software.de
+matomo.ooni.org
 matomo.org
 matomo.riot.im
 matrix.hbo.com
@@ -4984,6 +5002,7 @@ nielsen-online.com
 niftyhospital.com
 niftyjelly.com
 nile.works
+ninjacat.io
 ninja.data.olxcdn.com
 nl00.net
 nl02.net
@@ -5050,6 +5069,8 @@ obscenesidewalk.com
 observantice.com
 o.carmax.com
 ocos-office365-s2s.msedge.net
+octotracker-clients.net
+octotracker.com
 odc.1und1.de
 odc-web-geo.onedrive.akadns.net
 odc.wunderground.com
@@ -6255,6 +6276,8 @@ rcallr.com
 rcsmetrics.it
 r.draeger.com
 r.draegershop.com
+rdstation.com
+rdstation.com.br
 rdtrck2.com
 reach-id.orbit.tm-awx.com
 reachmax.cn
@@ -6279,6 +6302,7 @@ realtracker.com
 realvu.net
 realytics.io
 rebelsubway.com
+rebornads.com
 rebrand.ly
 rebuyengine.com
 receptivebranch.com
@@ -6536,6 +6560,7 @@ rtam-collector.snapchat.com
 rtb.adgrx.com.tech.akadns.net
 rtbhouse.com
 rtb.loopa.net.au
+rtb.mts.ru
 rtb.pushdom.co
 rt.chip.de
 rtc.multiscreensite.com
@@ -9181,6 +9206,7 @@ track.addevent.com
 trackadm.com
 trackalyzer.com
 track-api.klickly.com
+track-aws.notsy.io
 track-bremen.de
 track.capitaloneshopping.com
 trackcmp.net
@@ -9367,6 +9393,7 @@ tribl.io
 trickycelery.com
 triggeredmail.appspot.com
 trinity.platform.intuit.com
+triptease.net
 trk.careerbliss.com
 trk.elasticemail.com
 trkme.net
@@ -9608,6 +9635,7 @@ uptracs.com
 uptrends.com
 urbanairship.com
 urbaninsight.com
+uriports.com
 urldefense.proofpoint.com
 urs.microsoft.com
 us01-analysis.ymcart.com
@@ -9751,6 +9779,7 @@ vitals.easyspirit.com
 vitals.ninewest.com
 vivaciousveil.com
 vivistats.com
+vizergy.comm
 vizio-beacons.xumo.com
 vizio-smartcast-beacons.xumo.com
 vizu.com
@@ -10265,6 +10294,7 @@ zergnet.com
 zeroclickfraud.com
 zestycrime.com
 zeustrk.com
+zgo.at
 zhihu-web-analytics.zhihu.com
 zineone.com
 zippywind.com
@@ -10285,5 +10315,6 @@ zplayer.trk.zapps.vn
 zplayer-trk.zdn.vn
 zqtk.net
 ztevents.zaloapp.com
+ztracker.znt.bz
 zylotech.com
 zz.bdstatic.com
