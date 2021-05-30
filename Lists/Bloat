@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 747
-# Updated: 5/27/2021  20:49 (8:49 PM CST)
+# Domains: 734
+# Updated: 5/29/2021  23:17 (11:17 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -577,19 +577,6 @@ laapi.csw.lenovo.com                                    #Lenovo
 mcn.lenovo.com.cn                                       #Lenovo
 mcn.lenovo.com                                          #Lenovo
 mus.lenovo.com                                          #Lenovo
-push.prod.netflix.com                                   #Netflix
-anycast.ftl.netflix.com                                 #Netflix  AnyCast
-anycast-t1-c0-noscm.prod.ftl.netflix.com                #Netflix  AnyCast
-anycast-t1-c1-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-anycast-t1-c2-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-anycast-t1-c3-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-anycast-t1-c4-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-probe-ixanycast-isp.prod.ftl.netflix.com                #Netflix  AnyCast
-nrdp50-appboot.netflix.com                              #Netflix    Netflix Ready Device 
-nrdp51-appboot.netflix.com                              #Netflix    Netflix Ready Device 
-nrdp53-appboot.netflix.com                              #Netflix    Netflix Ready Device 
-nrdp.nccp.netflix.com                                   #Netflix    Netflix Ready Device 
-nrdp.prod.ftl.netflix.com                               #Netflix    Netflix Ready Device 
 samsungknox.com                                         #Samsung   Knox Security Tools
 gpm.samsungqbe.com                                      #Samsung + Google Play Music
 api-diagmon.samsungdm.com                               #Samsung
