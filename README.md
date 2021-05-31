@@ -30,7 +30,7 @@ A lot of lists are a bunch of other users' lists combined into one. These lists 
 Websites that contain malware (example: malvertising) are not in these lists. They are not blocked or allowed. The malware within the sites are blocked.  
 
 Some domains are used for both ads and tracking.  Dating list may contain scam dating sites.  
-*Bloat*, *Free*, *Junk*, and *Marketing* will brobably break stuff.  
+*Bloat*, *Free*, *Junk*, and *Marketing* will probably break stuff.  
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter.  
 <br />  
