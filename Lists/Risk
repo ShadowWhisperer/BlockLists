@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 163
-# Updated: 5/28/2021  23:53 (11:53 PM CST)
+# Domains: 167
+# Updated: 5/31/2021  00:36 (12:36 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -140,11 +140,13 @@ showoff.io                                    #Share Localhost
 
 1bit.space                                    #URL Shortener
 2shrt.com                                     #URL Shortener
+adflydsp.com                                  #URL Shortener (AdFly)
 adf.ly                                        #URL Shortener
 adfoc.us                                      #URL Shortener
 adshort.co                                    #URL Shortener
 aporasal.net                                  #URL Shortener (AdFly)
 atharori.net                                  #URL Shortener (AdFly)
+boost.ink                                     #URL Shortener
 cpmlink.net                                   #URL Shortener
 gdanstum.net                                  #URL Shortener (AdFly)
 hif.to                                        #URL Shortener
@@ -178,6 +180,9 @@ taskernet.com                                 #Android [APP]  Tasker - Allows cu
 
 cdn.snipr.gg                                  #Hacking Tool: Credential Stuffing Toolkit
 snipr.gg                                      #Hacking Tool: Credential Stuffing Toolkit
+
+ifud.ws                                       #Hacker Forum
+lolz.guru                                     #Hacker Forum
 
 godaddysites.com                              #Un-Finished sites - Usually malware (Not always)
 
