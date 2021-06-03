@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,477
-# Updated: 6/1/2021  23:48 (11:48 PM CST)
+# Domains: 10,488
+# Updated: 6/2/2021  19:27 (7:27 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1189,6 +1189,7 @@ b.digitalartsonline.co.uk
 bea4.adultswim.com
 beaconforstore.com
 beaconimages.netflix.net
+beacon.playback.api.brightcove.com
 beacon.riskified.com
 beacons2.extremereach.io
 beacons2.gvt2.com
@@ -1639,6 +1640,7 @@ checkpagerank.net
 checkstat.nl
 cheerfulrange.com
 cheetahmail.com
+chek.zennolab.com
 chemicalcoach.com
 chemicalsnake.com
 cheq.ai
@@ -2906,6 +2908,7 @@ epsilon.com
 eqy.link
 erraticreaction.com
 err.joinhoney.com
+errlog.io
 errorception.com
 error-collector.ted.com
 errorpilot.com
@@ -3698,6 +3701,7 @@ hri-solutions.de
 hrm-datasolutions.de
 hrzn-nxt.com
 hs-analytics.net
+hsk28xtrk.com
 hsleadflows.net
 httplogserver-lb.global.unified-prod.sharethis.net
 httptrack.com
@@ -4226,6 +4230,7 @@ leadinspector.de
 leadlander.com
 leadmanagerfx.com
 leadscope.de
+leadshook.io
 leadspace.com
 leadsquaredcdn.com
 leads.radioedit.iheart.com
@@ -4505,6 +4510,7 @@ massivebasket.com
 massivemark.com
 massrelevance.com
 massrelevance.s3.amazonaws.com
+mat.alugha.com
 matchmyip.com
 materialexample.com
 materialisticfan.com
@@ -4786,6 +4792,7 @@ methodmi.com
 metric.al
 metric-api.newrelic.com
 metrica.yandex.com
+metric.cryptofans.asia
 metric.gstatic.com
 metric.huya.com
 metric.ipv6test.com
@@ -4841,6 +4848,7 @@ metrics.three.co.uk
 metrics.toysrus.com
 metrics-v2.datadome.co
 metrics.yellowbook.com
+metrika.lookmovie.io
 metrika.traff.space
 metrika.yandex.com
 metrilo.com
@@ -6120,6 +6128,7 @@ pixel.mathtag.com
 pixel.newscred.com
 pixel.nymag.com
 pixel.quantcount.com
+pixel.s3xified.com
 pixels.dsp.theadtech.com
 pixel-secure.solvemedia.com
 pixelsmarter.com
@@ -9332,6 +9341,7 @@ topaz-analytics.com
 top-fwz1.mail.ru
 top.ge
 topichawaii.com
+toplist.cz
 torch.business.com
 torpidtongue.com
 torpidtoothpaste.com
@@ -9927,6 +9937,7 @@ visitantserver.azurewebsites.net
 visit.asb.co.nz
 visitor-analytics.io
 visitor-analytics.net
+visitor-badge.glitch.me
 visitor.careerbuilder.com
 visitor.fiftyt.com
 visitorqueue.com
