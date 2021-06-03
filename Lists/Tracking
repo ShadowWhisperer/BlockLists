@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,488
-# Updated: 6/2/2021  19:27 (7:27 PM CST)
+# Domains: 10,489
+# Updated: 6/2/2021  21:33 (9:33 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -745,6 +745,7 @@ analyticssec.overwolf.com
 analytics-sessions-redirector.cs.madgexhosting.net
 analytics.shapez.io
 analytics.shoptimize.in
+analytics.shorte.st
 analytics.site123.io
 analytics.slashdotmedia.com
 analytics.snidigital.com

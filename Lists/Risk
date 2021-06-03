@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
 # Domains: 167
-# Updated: 6/1/2021  23:48 (11:48 PM CST)
+# Updated: 6/2/2021  21:33 (9:33 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -138,23 +138,21 @@ localhost.run                                 #Share Localhost
 localtunnel.me                                #Share Localhost
 showoff.io                                    #Share Localhost
 
-1bit.space                                    #URL Shortener
-2shrt.com                                     #URL Shortener
 adflydsp.com                                  #URL Shortener (AdFly)
-adf.ly                                        #URL Shortener
+adf.ly                                        #URL Shortener (AdFly)
 adfoc.us                                      #URL Shortener
 adshort.co                                    #URL Shortener
+alturl.com                                    #URL Shortener
 aporasal.net                                  #URL Shortener (AdFly)
 atharori.net                                  #URL Shortener (AdFly)
 boost.ink                                     #URL Shortener
-cpmlink.net                                   #URL Shortener
+bst.gg                                        #URL Shortener
 gdanstum.net                                  #URL Shortener (AdFly)
-hif.to                                        #URL Shortener
-href.li                                       #URL Shortener (Abused)
+href.li                                       #URL Shortener (Abused) - Hides Ref
 is.gd                                         #URL Shortener
+leit.link                                     #URL Shortener
 leitup.com                                    #URL Shortener
 lmy.de                                        #URL Shortener
-lnk.news                                      #URL Shortener
 myrnamooney.pro                               #URL Shortener (AdFly)
 rb.gy                                         #URL Shortener
 sharem.tech                                   #URL Shortener
@@ -169,8 +167,10 @@ sh.st                                         #URL Shortener
 shurl.be                                      #URL Shortener
 spyw.com                                      #URL Shortener
 stfly.me                                      #URL Shortener (ShrtFly)
+t2mio.com                                     #URL Shortener
 t2m.io                                        #URL Shortener
 tiny.cc                                       #URL Shortener
+zeep.ly                                       #URL Shortener
 znt.bz                                        #URL Shortener
 zum.bi                                        #URL Shortener
 
