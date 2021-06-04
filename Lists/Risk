@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 167
-# Updated: 6/2/2021  21:33 (9:33 PM CST)
+# Domains: 168
+# Updated: 6/3/2021  23:24 (11:24 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -183,6 +183,8 @@ snipr.gg                                      #Hacking Tool: Credential Stuffing
 
 ifud.ws                                       #Hacker Forum
 lolz.guru                                     #Hacker Forum
+
+paxful.com                                    #Convert $ to Bitcoin / Bitcoin to $
 
 godaddysites.com                              #Un-Finished sites - Usually malware (Not always)
 

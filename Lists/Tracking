@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,489
-# Updated: 6/2/2021  21:33 (9:33 PM CST)
+# Domains: 10,526
+# Updated: 6/3/2021  23:24 (11:24 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -27,6 +27,7 @@
 1-cl0ud.com
 1-creative-1.com
 1dmp.io
+1-instant.okcupid.com
 1plusx.com
 1plusx.io
 1rx.io
@@ -47,6 +48,7 @@
 250analytics.com
 254a.com
 2cnt.net
+2-instant.okcupid.com
 2ip.io
 2ip.me
 2ip.ru
@@ -131,6 +133,7 @@ aa.tv.com
 a.autoexpress.co.uk
 a.avaya.com
 a.aviva.co.uk
+aaws-aanalytics.sogei.it
 abackchain.com
 a.bancaroma.it
 a.bancodisicilia.it
@@ -431,6 +434,7 @@ aheadmachine.com
 ah-ha.com
 a.hub.com.pl
 ai23jstrk.com
+aianalytics.ie
 aidata.io
 aidata.me
 aimatch.com
@@ -506,6 +510,7 @@ amgdgt.com
 a.mibank.com
 a.mobify.com
 amonetize.com
+amp-analytics.chip.de
 ampcid.google.ac
 ampcid.google.ad
 ampcid.google.ae
@@ -664,6 +669,7 @@ analytics00.meride.tv
 analytics.163.com
 analytics1.maaxmarket.com
 analytics2.dispatch.co.kr
+analytics2.tvreport.co.kr
 analytics33.techsmith.com
 analytics3.dopool.com
 analytics3.starschina.com
@@ -673,6 +679,7 @@ analyticsapi.bsbportal.com
 analytics-api.cloudinary.com
 analytics-api.dvdfab.cn
 analyticsapi.happypancake.net
+analytics-api.klickly.com
 analytics.archive.org
 analytics.arm.com
 analytics.audioeye.com
@@ -700,6 +707,7 @@ analytics-egain.com
 analytics-engine.com
 analyticsengine.s3.amazonaws.com
 analyticsext.chase.com
+analytics.faw.sky.com
 analytics.fbgcdn.com
 analytics.ff.avast.com
 analytics.fr
@@ -714,7 +722,9 @@ analytics.ihg.com
 analytics-ingestion.production-public.tubi.io
 analytics-iq.com
 analytics-js-cdn.liferay.com
+analytics.klickly.com
 analytics.kurocore.com
+analyticsladder.com
 analytics.live.com
 analytics.livehindustan.com
 analytics.localytics.com
@@ -728,6 +738,7 @@ analytics.nova.foxnews.com
 analyticson.ai
 analyticson.com
 analytics.ovh.com
+analytics.paxful.com
 analytics.pe
 analytics.pinterest.com
 analyticspixel.microsoft.com
@@ -748,6 +759,7 @@ analytics.shoptimize.in
 analytics.shorte.st
 analytics.site123.io
 analytics.slashdotmedia.com
+analytics-sm.com
 analytics.snidigital.com
 analytics.srvnw.com
 analyticsssl.forcepoint.com
@@ -889,6 +901,7 @@ app-analytics-de.huami.com
 appanalytics.embarcadero.com
 app-analytics.huami.com
 app-analytics-in.huami.com
+appanalytics.io
 app-analytics-ru.huami.com
 app-analytics.snapchat.com
 app-analytics-us.huami.com
@@ -989,6 +1002,7 @@ a.seenon.com
 as.fitbook.de
 a.shop.com
 a.simonandschuster.com
+as-live-eh-logs-eun.servicebus.windows.net
 as.metal-hammer.de
 as.musikexpress.de
 as.myhomebook.de
@@ -1251,6 +1265,8 @@ bilintechnology.com
 billowybead.com
 bilsyndication.com
 b.imgvc.com
+biron-analytics.com
+birondata.com
 birst.com
 bis-dic15.com
 bis.gazeta.pl
@@ -1399,6 +1415,7 @@ bugsnag-session.monitor.core.app.alexa.a2z.com
 bugs.qoof.com
 bugtags.com
 bugtracker.mordhau.com
+buildkiteanalytics.com
 bulbbait.com
 bullet.cdncontentdelivery.com
 bulletproof-analytics.com
@@ -1493,6 +1510,7 @@ castup.net
 catalina.com
 catalogdiscovery.com
 catalyst-analytics.eu
+catalyst-analytics.net
 c.at.msn.com
 catschickens.com
 catsnthings.fun
@@ -1599,6 +1617,7 @@ cgi.nch.com.au
 c.gr.msn.com
 cgwebmetrics.capgroup.com
 chairscrack.com
+chanalytics.io
 chanalytics.merchantadvantage.com
 changeagain.me
 changechickens.com
@@ -1711,6 +1730,7 @@ clear-reports.com
 clear.sale
 clearsale.com.br
 clearview.ai
+clearwater-analytics.com
 clearwateranalytics.com
 cleeng.com
 clic2buy.com
@@ -2105,6 +2125,7 @@ correctchaos.com
 corus.ytv.com
 cosmosjackson.com
 costplus-world.baynote.net
+count.7m.com.cn
 count.api.pgs.io
 count.cnblogs.com
 counter1.fcs.ovh
@@ -3170,6 +3191,7 @@ fmfmobile.fe.apple-dns.net
 fmip.me.com
 fndrsp.net
 foamyfood.com
+followanalytics.com
 forecasttiger.com
 foregoingfowl.com
 forensiq.com
@@ -3189,6 +3211,7 @@ foxmetrics.com
 fpa-cdn.arstechnica.com
 fpa-cdn.slate.com
 fpa-events.arstechnica.com
+fp-afd.azureedge.net
 fp-analytics.hotstar.com
 fp-cdn.azureedge.net
 fpc.firemountaingems.com
@@ -3197,6 +3220,11 @@ fpc.pelican.com
 fpc.sage.com
 fpcs.firemountaingems.com
 fp.eamobile.com
+fp.msedge.net
+fpt2.microsoft.com
+fpt.live.com
+fp-vp.azureedge.net
+fp-vs.azureedge.net
 fqtag.com
 frailflock.com
 frailfruit.com
@@ -3314,6 +3342,7 @@ geo20120530.com
 geo2.adobe.com
 geo2.ggpht.com
 geo3.ggpht.com
+geo.adobe.com
 geoapi.indiatimes.com
 geoar.googleapis.com
 geo-assets.tedcdn.com
@@ -3911,6 +3940,7 @@ insights.cachefly.com
 insights-collector.gog.com
 insights.com
 insights.sitesearch360.com
+insight-stats.com
 insitez.blob.core.windows.net
 inspectlet.com
 instabug.com
@@ -4520,6 +4550,7 @@ materialmoon.com
 matheranalytics.com
 mathtag.com
 matomo.cloud
+matomo.furaffinity.net
 matomo.groovetech.io
 matomo.iserv.eu
 matomo.jam-software.com
@@ -8078,6 +8109,7 @@ speedcurve.com
 speedshiftmedia.com
 spellsalsa.com
 spendpest.com
+spgo.io
 spheremall.com
 spider.af
 spideraf.com
@@ -9753,6 +9785,8 @@ uge.ltroute.com
 uhf.microsoft.com
 uid.mavencoalition.io
 uie.data.cbc.ca
+uievent3.pooq.co.kr
+uievent3.wavve.com
 uif.microsoft.com
 uk-script.dotmetrics.net
 ulogs.umengcloud.com
@@ -10325,6 +10359,7 @@ www2.discountautomirrors.com
 www2.discountbodyparts.com
 www2.discountcatalyticconverters.com
 www2.ecisolutions.com
+www2.medline.com
 www2s.automd.com
 www2s.autopartswarehouse.com
 www2s.canadapartsonline.com
@@ -10448,6 +10483,7 @@ youip.net
 younetmedia.com
 youngleaf.biz
 youngmarble.com
+your-analytics.org
 yourfreecounter.com
 yourip.aaronjwood.com
 your-ip-address.com
@@ -10466,6 +10502,7 @@ zapr.in
 za.zalo.me
 zbwp6ghm.com
 z.cdn.turner.com
+z.cdp-dev.cnn.com
 zealousfield.com
 zeemapsmetrics.s3.amazonaws.com
 zeotap.com

@@ -1,7 +1,7 @@
 #
 #    File: Microsoft   (Apps, Bing, Tiles, Unknown)
-# Domains: 454
-# Updated: 5/27/2021  20:49 (8:49 PM CST)
+# Domains: 451
+# Updated: 6/3/2021  23:24 (11:24 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -16,7 +16,6 @@ ntp.msn.com                                    #App     Edge
 a-msedge.net                                   #App   Office
 a-ring.msedge.net                              #App   Office
 b-ring.msedge.net                              #App   Office
-fp.msedge.net                                  #App   Office
 l-ring.msedge.net                              #App   Office
 q-ring.msedge.net                              #App   Office
 s-ring.msedge.net                              #App   Office
@@ -253,6 +252,7 @@ sfnam.loki.delve.office.com                    # ? Office
 substrate.office.com                           # ? Office - Might break Outlook Mobile, Sign-in
 videoplayercdn.osi.office.net                  # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
+shell.cdn.office.net                           # ? Office - Facebook, Inc. ????  (https://shell.cdn.office.net/shellux/o365/versionless/suiteux.shell.responsive.7cd9b6321d8ca495e2c7.js)
 
 contacts.msn.com                               # ? Hotmail / Outlook - Contacts
 rdr.contacts.msn.com                           # ? Hotmail / Outlook - Contacts
@@ -278,9 +278,6 @@ acctcdnmsftuswe2.azureedge.net                 #Azure
 acctcdnvzeuno.azureedge.net                    #Azure
 bastion.azure.com                              #Azure
 bot-framework.azureedge.net                    #Azure
-fp-afd.azureedge.net                           #Azure
-fp-vp.azureedge.net                            #Azure
-fp-vs.azureedge.net                            #Azure
 greenid-prod.westus2.cloudapp.azure.com        #Azure
 microsoftazurelogicapps.net                    #Azure
 microsoftazurelogicapps.us                     #Azure
