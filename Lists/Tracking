@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,539
-# Updated: 6/4/2021  16:58 (4:58 PM CST)
+# Domains: 10,547
+# Updated: 6/5/2021  20:00 (8:00 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -722,6 +722,7 @@ analytics.ihg.com
 analytics-ingestion.production-public.tubi.io
 analytics-iq.com
 analytics-js-cdn.liferay.com
+analytics.kaltura.com
 analytics.klickly.com
 analytics.kurocore.com
 analyticsladder.com
@@ -6130,6 +6131,8 @@ pinpointpotato.com
 pin-river.data.ea.com
 pinsightmedia.com
 pipedream.wistia.com
+pipedriveassets.com
+pipedrive.com
 pipe.skype.com
 pipes-prod-glutton.public.aws.demonware.net
 pippio.com
@@ -7757,6 +7760,7 @@ smetrics.gio.com.au
 smetrics.globalnews.ca
 smetrics-ieeexplore.ieee.org
 s.metrics.interweave.com
+smetrics.jcpenney.com
 smetrics.kbb.com
 smetrics-merch.bankofamerica.com
 smetrics.motortrend.com
@@ -8578,8 +8582,10 @@ stats.fw1.biz
 statshop.fr
 stats.hqhoneys.com
 stats.hstatic.net
+stat.simcase.ru
 stats.ivpn.net
 stats.jizzonmyjugs.com
+stats.kaltura.com
 stats.landingi.com
 stats.load.com
 stats-locations.com
@@ -9966,6 +9972,7 @@ vidpulse.com
 viewclc.com
 viewpoint.com
 views.bzi.ro
+views.hulu.com
 viglink.com
 vilynx.com
 vindicosuite.com
@@ -10463,6 +10470,7 @@ x-stat.de
 xstats.evoload.io
 xtracloud.net
 xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
 xtrapath3.izatcloud.net
 xtrastats.com
 xxxcounter.com
