@@ -1,7 +1,7 @@
 #
 #    File: Junk   (Surveys, Personally Untrusted Software & ISPs, etc)
-# Domains: 469
-# Updated: 6/2/2021  19:27 (7:27 PM CST)
+# Domains: 471
+# Updated: 6/8/2021  17:59 (5:59 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -228,6 +228,7 @@ amemv.com                                      #Company - Beijing Bytedance Netw
 bytecdn.cn                                     #Company - Beijing Bytedance Network Technology Co. - TikTok
 bytedanceapi.com                               #Company - Beijing Bytedance Network Technology Co. - TikTok
 bytedance.com                                  #Company - Beijing Bytedance Network Technology Co. - TikTok
+bytedance.net                                  #Company - Beijing Bytedance Network Technology Co. - TikTok
 bytedns.net                                    #Company - Beijing Bytedance Network Technology Co. - TikTok
 byted.org                                      #Company - Beijing Bytedance Network Technology Co. - TikTok
 byteimg.com                                    #Company - Beijing Bytedance Network Technology Co. - TikTok
@@ -245,6 +246,7 @@ tiktok.com                                     #Company - Beijing Bytedance Netw
 tiktokv.com                                    #Company - Beijing Bytedance Network Technology Co. - TikTok
 topbuzz.com                                    #Company - Beijing Bytedance Network Technology Co. - TikTok
 v16-tiktokcdn-com.akamaized.net                #Company - Beijing Bytedance Network Technology Co. - TikTok
+cdntip.com                                     #Company - Shenzhen Tencent Computer Systems - TikTok
 byteicdn.com                                   #Company - Lemon, Inc. - TikTok
 ibytedtos.com                                  #Company - Lemon, Inc. - TikTok
 ibyteimg.com                                   #Company - Lemon, Inc. - TikTok
