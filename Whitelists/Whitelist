@@ -10,6 +10,7 @@ geolocation.garmin.com                             #Software - Garmin Express (C
 mirrors.kodi.tv                                    #Software - Kodi
 analytics-login.norton.com                         #Software - Norton (Won't Login)
 shasta-rrs.symantec.com                            #Software - Norton (Won't Scan)
+net.geo.opera.com                                  #Software - Opera (Prevents download)
 spclient.wg.spotify.com                            #Software - Spotify - Audio
 lm.licenses.adobe.com                      # Adobe - Activate Software
 sp.auth.adobe.com                          # Adobe - Login Sites
@@ -260,6 +261,8 @@ click.instantink.hpsmart.com       #Tracker - Breaks HP Instant Ink emails
 7eer.net                           #Tracker - Breaks Links
 app.e.sigsauer.com                 #Tracker - Breaks Links (Email)
 assoc-redirect.amazon.com          #Tracker - Breaks Links
+go.redirectingat.com               #Tracker - Breaks Links
+go.skimresources.com               #Tracker - Breaks Links
 avantlink.com                      #Tracker - Breaks Links
 buff.ly                            #Tracker - Breaks Links
 cdn.webclicks24.com                #Tracker - Breaks Links
