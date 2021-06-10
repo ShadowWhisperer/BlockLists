@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,601
-# Updated: 6/9/2021  18:31 (6:31 PM CST)
+# Domains: 10,604
+# Updated: 6/9/2021  22:30 (10:30 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3058,6 +3058,7 @@ experimentation.omex.office.net
 experimentation.us.api.intuit.com
 experiment.icloud.com
 experiment-icloud.v.aaplimg.com
+experiments.freemake.com
 experiments-prod-us.occa.ocs.oraclecloud.com
 exponea.com
 exposebox.com
@@ -3973,6 +3974,7 @@ insitez.blob.core.windows.net
 inspectlet.com
 instabug.com
 installeranalytics.com
+installreport.freemake.com
 instana.com
 instana.io
 instant.page
@@ -5127,6 +5129,7 @@ myip.ru
 myip.sdu.dk
 myip.telespex.com
 myip.yandex.ru
+myjs.info
 mykanaree.com
 myki-desktop-app-testing.s3.amazonaws.com
 mylnikov.org
