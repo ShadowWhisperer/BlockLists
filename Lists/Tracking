@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,604
-# Updated: 6/9/2021  22:30 (10:30 PM CST)
+# Domains: 10,605
+# Updated: 6/9/2021  23:06 (11:06 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -8557,6 +8557,7 @@ states.newegg.com
 stat.fi
 stathat.com
 stat.hebnews.cn
+stat.i3.dmm.com
 static.analytics.artirix.com
 static.browseranalytic.com
 static.fengkongcloud.com.w.kunlunca.com
