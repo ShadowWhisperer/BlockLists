@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,605
-# Updated: 6/9/2021  23:06 (11:06 PM CST)
+# Domains: 10,615
+# Updated: 6/10/2021  23:16 (11:16 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -749,6 +749,7 @@ analyticspixel.microsoft.com
 analytics.proxy.mycryptoapi.com
 analytics.pubnative.io
 analytics.pubninja.com
+analytics.purelovers.com
 analytics.rampant.tv
 analytics.rbauction.com
 analytics.redbubble.com
@@ -1511,6 +1512,8 @@ carscannon.com
 cartmail.org
 carto.com
 cartrocket.com
+carts.guru
+cartsguru.io
 cartstack.com
 castup.net
 catalina.com
@@ -2244,6 +2247,7 @@ cstream.wi-fi.ru
 ctd004.net
 ctd005.net
 cten10010.com
+ct-errs.cartrawler.com
 c.thefa.com
 c.th.msn.com
 ctnsnet.com
@@ -2277,6 +2281,7 @@ custhelp.com
 customer.cludo.com.cdn.cloudflare.net
 customerevents.netflix.com
 customer-feedbacks.web.roku.com
+customeriomail.com
 customfit.ai
 customize.cz
 customperformance.deere.com
@@ -5520,6 +5525,7 @@ opinionsurprise.com
 opinsights.azure.com
 oppositeoperation.com
 opptmzpops.com
+opptmzsearch.com
 opptmzsubmit.com
 opr-activity.vskit.tv
 opsanalytics.ch
@@ -6244,6 +6250,7 @@ platescarecrow.com
 platform.linkedin.com
 plausible.io
 play5r.com
+player-feedback-v1.glomex.com
 player.stats.live-video.net
 player-telemetry.vimeo.com
 pleasantpump.com
@@ -8853,8 +8860,10 @@ straightnest.com
 strands.com
 strangesink.com
 strava.com
+stravtrk.com
 streamrail.com
 stretchsister.com
+stretrk.com
 stringsmile.com
 stripedburst.com
 strivesidewalk.com
@@ -9539,6 +9548,7 @@ trackingapi.trendemon.com
 tracking.apprubeus.com.br
 tracking-app-sas.carecart.io
 tracking.avapartner.com
+tracking.bonad.io
 tracking.buygoods.com
 trackingcareers.accenture.com
 tracking-cdn.rdc.moveaws.com
