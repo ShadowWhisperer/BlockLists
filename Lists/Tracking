@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,615
-# Updated: 6/10/2021  23:16 (11:16 PM CST)
+# Domains: 10,619
+# Updated: 6/14/2021  08:19 (8:19 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -861,6 +861,7 @@ api.dec.sitefinity.com
 api.dt4ever.com
 api.dtm.pixelmotiondemo.com
 api.edmunds.com
+api.fool.com
 api-gdpr.voodoo-tech.io
 api.goaffpro.com
 api-gps-em.hismarttv.com
@@ -6148,6 +6149,7 @@ pigspie.com
 pindrop.com
 ping1.tnt-ea.com
 ping.answerbook.com
+ping-app1.idrive.com
 pingback.giphy.com
 pingback.issuu.com
 ping.chartbeat.net
@@ -6165,6 +6167,7 @@ pingsl.avast.com
 ping.ublock.org
 ping.ui.com
 pinkaanalytics.eu-2.evennode.com
+pink-boat.fool.com
 pinoculars.com
 pinpointpotato.com
 pin-river.data.ea.com
@@ -6209,6 +6212,7 @@ pixel.epik.com
 pixeleze.com
 pixel.facebook.com
 pixel.honeybook.com
+pixel.inbox.exacttarget.com
 pixel.locker2.com
 pixel.marketing
 pixel.mathtag.com
