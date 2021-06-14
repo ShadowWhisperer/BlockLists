@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,619
-# Updated: 6/14/2021  08:19 (8:19 AM CST)
+# Domains: 10,625
+# Updated: 6/14/2021  14:36 (2:36 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -293,6 +293,7 @@ admetric.io
 admetrics.io
 admetrics.media
 admissions.calvin.edu
+admistat5.ru
 admonitoring.bsgroup.ro
 admonitor.net
 admo.tv
@@ -682,6 +683,7 @@ analytics-api.cloudinary.com
 analytics-api.dvdfab.cn
 analyticsapi.happypancake.net
 analytics-api.klickly.com
+analytics.appservice.tech
 analytics.archive.org
 analytics.arm.com
 analytics.audioeye.com
@@ -851,7 +853,6 @@ api.apple-mapkit.com
 api.appodealx.com
 api.bluecore.com
 api.cetrk.com
-api.churnsignal.com
 api.civey.com
 api.cleantalk.org
 api.clientseoreport.com
@@ -1547,7 +1548,6 @@ c.coll2onf.com
 ccpa.psg.nexstardigital.net
 c.de.msn.com
 c.dk.msn.com
-cdn1.roadster.com
 cdn1-tags.pornerbros.com
 cdn2.stamped.io
 cdn.abcotvs.net
@@ -1559,9 +1559,7 @@ cdn-bacon.getcarro.com
 cdn.brcdn.com
 cdn.bronto.com
 cdn-cedexis.video.aetnd.com
-cdn.churnsignal.com
 cdn.c-i.as
-cdn.cooladata.com
 cdn.etrack1.com
 cdn.fera.ai
 cdn.fraudjs.io
@@ -1690,6 +1688,7 @@ christian.lifeway.com
 christians.lifeway.com
 chromecast-beacons.xumo.com
 chunkycactus.com
+churnsignal.com
 c-i.as
 c.idealmedia.io
 c.id.msn.com
@@ -2121,6 +2120,7 @@ conviva.com
 cookie.carfax.com
 cookies.siemens.com
 cookie.sync.usonar.jp
+cooladata.com
 cooleremail.com
 cooper.logs.roku.com
 coordinatedbedroom.com
@@ -4415,6 +4415,7 @@ log21.makeshop.co.kr
 log2-useast1a.musical.ly
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
+log30.makeshop.co.kr
 log.affiliate.rakuten.co.jp
 logagent-global.kingsgroupgames.com
 logaholic.com
@@ -4972,6 +4973,7 @@ mms.cnn.com
 mmstat.com
 mm.youtubetomp3music.com
 mndtrk.com
+moanmyip.com
 moat.com
 moatpixel1.edgekey.net
 moatpixel.com
@@ -6553,6 +6555,7 @@ readymoon.com
 readysnails.com
 realizerecess.com
 realizevacation.com
+reallyfreegeoip.org
 realstats.dhgate.com
 real-time-analytics.com
 realtime.email
@@ -6784,6 +6787,7 @@ r.msn.com
 rmtag.com
 rmulus.com
 rnengage.com
+roadster.com
 roascalc.im
 robustbelieve.com
 rocketadserver.com
@@ -8734,6 +8738,7 @@ statstracker.celebrity-gossip.net
 stats-tracker.net
 stat.su
 stats.unity3d.com
+stat.super.cz
 stats-v2-prod-or-lbj.inbake.com
 stats.vdsnow.ru
 stats.vpscash.nl
@@ -9618,6 +9623,7 @@ tracksmall.com
 track.sr.roku.com
 tracksrv.zdf.de
 track.todaysmoneyfinder.com
+track.totalfratmove.com
 track.traveldealhut.com
 track.trkvluum.com
 trackuhub.com
