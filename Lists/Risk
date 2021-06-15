@@ -1,7 +1,7 @@
 #
 #    File: Risk   (Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices)
-# Domains: 168
-# Updated: 6/3/2021  23:24 (11:24 PM CST)
+# Domains: 170
+# Updated: 6/15/2021  16:26 (4:26 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -53,9 +53,10 @@ mobistealth.com                               #Computer Monitoring
 
 cocospy.com                                   #Computer / Phone Monitoring
 
+cerberusapp.com                               #Phone Monitoring
 spyfone.com                                   #Phone Monitoring
-spymasterpro.com                              #Phone Monitoring
 spyhuman.com                                  #Phone Monitoring
+spymasterpro.com                              #Phone Monitoring
 
 actualkeylogger.com                           #Keylogger
 ardamax.com                                   #Keylogger
@@ -170,6 +171,7 @@ stfly.me                                      #URL Shortener (ShrtFly)
 t2mio.com                                     #URL Shortener
 t2m.io                                        #URL Shortener
 tiny.cc                                       #URL Shortener
+try2link.com                                  #URL Shortener
 zeep.ly                                       #URL Shortener
 znt.bz                                        #URL Shortener
 zum.bi                                        #URL Shortener
@@ -183,8 +185,6 @@ snipr.gg                                      #Hacking Tool: Credential Stuffing
 
 ifud.ws                                       #Hacker Forum
 lolz.guru                                     #Hacker Forum
-
-paxful.com                                    #Convert $ to Bitcoin / Bitcoin to $
 
 godaddysites.com                              #Un-Finished sites - Usually malware (Not always)
 
@@ -203,6 +203,8 @@ api.c99.nl                                    #Can be used as a port scanner
 
 remitly.com                            #Money Transfer  (Seen in Tech Support Scam)
 remitly.io                             #Money Transfer  (Seen in Tech Support Scam)
+
+paxful.com                             #Convert $ to Bitcoin / Bitcoin to $
 
 beeceptor.com                          #Webhook
 httpreq.com                            #Webhook
