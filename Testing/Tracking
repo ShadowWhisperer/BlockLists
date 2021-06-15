@@ -1,0 +1,389 @@
+adorn-insight.co.uk                                            #Defunct ?
+t.marketing.activision.com                              #Activision
+livefyre.com                                              #Adobe - Enables comments on webpages
+scene7.com                                                #Adobe
+prod-classifyclient.normandy.prod.cloudops.mozgcp.net   #Amazon AWS
+aidc.apple.com                                               #Apple
+stats.gc.apple.com                                           #Apple - Might break game center
+apple-mapkit.com                                             #Apple - Maps
+gaming-config.asus.com                                    #Asus
+beacon.io                                                 #beacon.io
+wsq.io                                                    #beacon.io
+urs.cnet.com                                            #Cnet (easyXDM)
+best.discord.media                                      #Discord
+disneyatoz.com                                            #Disney
+gac.wdprapps.disney.com                                   #Disney
+secure.cdn1.wdpromedia.com                                #Disney
+secure.cdn2.wdpromedia.com                                #Disney
+secure.cdn3.wdpromedia.com                                #Disney
+secure.cdn4.wdpromedia.com                                #Disney
+secure.cdn5.wdpromedia.com                                #Disney
+domo.com                                                #Domo
+domorig.io                                              #Domo
+ekomi.com                                                    #Ekomi
+ekomi.de                                                     #Ekomi
+ekomi.fr                                                     #Ekomi
+ekomi-pl.com                                                 #Ekomi
+ekomi-ru.com                                                 #Ekomi
+ekomi-us.com                                                      #Ekomi
+api.epicgames.dev                                            #Game Studio - Epic Games
+eulatracking-public-service-prod06.ol.epicgames.com          #Game Studio - Epic Games  (Might Break Game Download)
+eulatracking-public-service-prod-m.ol.epicgames.com          #Game Studio - Epic Games  (Might Break Game Download)
+eulatracking-public-service-prod.ol.epicgames.com            #Game Studio - Epic Games  (Might Break Game Download)
+expresswifi.com                                           #Facebook  Wifi
+expresswifi.fb.com                                        #Facebook  Wifi
+lookaside.facebook.com                                    #Facebook
+mqtt-mini.facebook.com                                    #Facebook
+web.facebook.com                                          #Facebook
+z-m.c10r.facebook.com                                     #Facebook
+brainkeeper.gw-ec.com                                        #GearBest
+cur.gearbest.com                                             #GearBest
+cdns3.gigya.com                                           #Gigya - May break signins
+cdns.us1.gigya.com                                        #Gigya - May break signins
+gigya.com                                                 #Gigya - May break signins
+socialize.us1.gigya.com                                   #Gigya - May break signins
+cdn.groupbycloud.com                                         #GroupBy - For sure tracker, might break others  'https://cdn.groupbycloud.com/gb-tracker-client-3.min.js'
+cabelas.groupbycloud.com                                     #GroupBy
+cdn-lb.groupbycloud.com                                      #GroupBy
+groupbycloud.com                                             #GroupBy
+prod-lb.groupbycloud.com                                     #GroupBy
+diagswebextpro.houston.hp.com                             #HP
+engage.hulu.com                                             #Hulu
+deepomatic.com                                       #Image Recognition
+api.graphql.imdb.com                              #IMDB
+graphql.imdb.com                                  #IMDB
+47mal.x.incapdns.net                          #Incapsula (Site Security)
+5sglr.x.incapdns.net                          #Incapsula (Site Security)
+6396l.x.incapdns.net                          #Incapsula (Site Security)
+bl4qcjf.x.incapdns.net                        #Incapsula (Site Security)
+ie3h7du.x.incapdns.net                        #Incapsula (Site Security)
+incapdns.net                                  #Incapsula (Site Security)
+n2e79bn.x.incapdns.net                        #Incapsula (Site Security)
+rin7m.x.incapdns.net                          #Incapsula (Site Security)
+media.swordfishdc.com                                   #innometrics
+swordfishdc.com                                         #innometrics
+osfsr.lenovomm.com                                    #Lenovo
+rasm.macys.net                                                #Macy's
+jenson.api.swiftkey.com                                   #Microsoft - Softkey (Keyboard App) - Seen on Android
+iamtelemetrycollector.microsoft.com                       #Microsoft - Never actually seen
+normandy-cdn-elb-prod-787321160.us-west-2.elb.amazonaws.com   #Mozilla
+normandy.cdn.mozilla.net                                      #Mozilla
+normandy-cdn.services.mozilla.com                             #Mozilla
+normandy.services.mozilla.com                                 #Mozilla
+sentry.prod.mozaws.net                                        #Mozilla
+nsight.nortonlifelock.com                                #Norton AV
+activation.gfe.nvidia.com                              #Nvidia
+ota-downloads.nvidia.com                               #Nvidia
+ota.nvidia.com                                         #Nvidia
+services.gfe.nvidia.com                                #Nvidia
+aggregateknowledge.com                                    #Neustar
+creative.aggregateknowledge.com                           #Neustar
+cust.aggregateknowledge.com                               #Neustar
+ticket.aggregateknowledge.com                             #Neustar
+www-stage.aggregateknowledge.com                          #Neustar
+onevision.com.tw                                       #OneAd (onead.com.tw)
+d1zs6vdxfcbd6s.cloudfront.net                             #Foleon
+unlock-protocol.com                                             #Paywall - Might break page ?
+k.pluto.tv                                                   #PlutoTV
+click.notifications.intuit.com                           #QuickBooks
+locale.roblox.com                                             #Roblox
+pulsar.roblox.com                                             #Roblox
+api.salesmachine.io                                         #Sales Machine
+salesmachine.io                                             #Sales Machine
+apahflfit2015.samsung.com                                #Samsung
+app.litmos.com                                        #SAP Litmos
+go.litmos.com                                         #SAP Litmos
+keynote.litmos.com                                    #SAP Litmos
+litmos.com                                            #SAP Litmos
+click.e.scheels.com                                         #Scheels
+image.e.scheels.com                                         #Scheels
+orderlogicapp.com                                        #Shopify
+aws.duplex.snapchat.com                                #SnapChat
+click.snapchat.com                                     #SnapChat
+cognac-prod.appspot.com                                #SnapChat
+sc-jpl.com                                             #SnapChat
+scm.sc-jpl.com                                         #SnapChat
+shows.snapchat.com                                     #SnapChat
+s.sc-jpl.com                                           #SnapChat
+st.sc-jpl.com                                          #SnapChat
+app.snipcart.com                                           #SnipCart - Shopping Cart Integration (Could Track Items)
+cdn.snipcart.com                                           #SnipCart - Shopping Cart Integration (Could Track Items)
+waws-prod-bn1-003.sip.azurewebsites.windows.net            #SnipCart - Shopping Cart Integration (Could Track Items)
+spotify-desktop.com                                     #Spotify (Either tracking, or updater)
+id.sonyentertainmentnetwork.com                                #Sony (Might Break Login, untested)
+utctime.tiltingpoint.io                                           #Tilting Point Media
+registration.tiltingpoint.io                                      #Tilting Point Media
+a8c9afcbaae2911e999ab06856fdecad-1850093500.us-west-2.elb.amazonaws.com     #tomshardware.com
+api.gdsec.net                                                    #Tutela ?
+gdsec.net                                                        #Tutela ?
+unifi-ai.com                                                #Ubiquiti
+ips1.unifi-ai.com                                           #Ubiquiti
+cloud.wordlift.io                                             #WordLift
+wordlift.io                                                   #WordLift
+#######################################################
+privacy.acmeaom.com                                         #Android App    (MyRadar)
+sg.tdm.qq.com                                               #Android Games  (Tencent Games)
+ipv6-sh.itop.qq.com                                         #Android Games  (Tencent Games)
+analyze.pro.research-artisan.com                            #Chineese Site
+pro.research-artisan.com                                    #Chineese Site
+research-artisan.com                                        #Chineese Site
+ihrhls.com                                                  #Identity Management  (Might break logins)
+okta.com                                                    #Identity Management  (Might break logins)
+privo.com                                                   #Identity Management  (Might break logins)
+zumigo.com                                                  #Identity Management  (Might break logins)
+revenuecat.com                                              #Might Break Cart Checkouts
+grader.com                                                  #Website Grader
+apollo.io                                                   #Data-first engagement platform ... structured data ... to help execute, analyze, & improve your growth strategy)
+stserver.fcws11.com                                         #Software
+workplace.tools                                             # workplace.com
+transparenttextures.com                                     #Transparent Images - Could it be used for tracking ?
+mindmup.github.io                                           # https://mindmup.github.io/3rdpartycookiecheck/complete.html
+highcharts.com                                              #Make online charts
+code.highcharts.com                                         #Make online charts
+#######################################################
+a3cloud.net
+aaacompany.net
+a.appice.io
+accounts.zingnews.vn
+acquireinsight.net
+acs-central-ue1.samsungmdec.com
+acs.samsungmdec.com
+adcalls.nl
+adcs.rqmob.com
+adncdnend.azureedge.net
+adnetwork.ai
+adtag.cc
+ad-track.net
+aff.gopungcpa.com
+air360tracker.net
+aivalabs.com
+albertsonsanalytics.egain.cloud
+algorithmia.com
+analysis.fi
+analysis.ifahc.com
+analytica.one
+analytic-ga.bangcdn.net
+analytic.is
+analyticlick.site
+analytics02.metalocator.com
+antavo.com
+aosau.net
+aoscufe.com
+api.huqindustries.co.uk
+api.jcpclick.com
+apis.kostprice.com
+appice.io
+app.launchdarkly.com
+app.securiti.ai
+apptracker.gamedock.io
+assets0.pxlecdn.com
+assets1.pxlecdn.com
+assets2.pxlecdn.com
+audiencetag.com
+authanalytics.sky.com
+autofi.com
+bbt.net.ar
+be.durationmedia.net
+bizibly.com
+bn.imguol.com
+boltdns.net
+book.aircanada.com
+bydata.com
+caanalytics.com
+callrevu.com
+cameratag.com
+campionegratis.it
+cdn.air360tracker.net
+cdn.bizibly.com
+cdn.checkout.com
+cdn.everup.io
+cdn.pagesense.io
+cdn.simplecast.com
+cdn.the-poc-agency.com
+charles.huqindustries.co.uk
+checkout.com
+checkout.paypal.com
+chrs-mln-krs.com
+chtbl.com
+c.ktxtr.com
+cloudharmony.net
+connect-dre.dbankcloud.cn
+connect-dre.hispace.hicloud.com
+connectid.cloud
+content.web.quickenbillpay.com
+cpx.to
+customtrack.de
+c.zrcir.com
+d3js.org
+d3rejxwqd62g63.cloudfront.net
+data-ssl.stepstone.de
+dattolocal.net
+dc294.playfabapi.com
+dcs.esprit.fr
+deloittedigital.com
+dev.ugdturner.com
+dexpredict.com
+digigladd.com
+distillery.pixlee.co
+dotdash.map.fastly.net
+dtsedge.com
+dtzbdy9anri2p.cloudfront.net
+duckbase.com
+dynatracesaas.com
+early-birds.fr
+easemob.com
+ecomcbjs.jomodns.com
+eep.io
+egain.hsn.com
+emb-api.com
+emeritus-analytics.io
+etracker.cc
+everup.io
+eview-analytics.com
+exacttarget.com
+experience.sourcesync.io
+ext.chtbl.com
+flight-analytics.com
+fpcdallasstars.nhl.com
+geolookup-a.akamaihd.net
+georiot.com
+getcocoon.com
+getwemap.com
+glia.com
+gopungcpa.com
+gw.aoscdn.com
+hdtracks.azurewebsites.net
+heartbeat.flickr.com
+hello.bpost.be
+heytapmobi.com
+hitcount.de
+hopla.online
+huffson-derivery.com
+huqindustries.co.uk
+identitymind.com
+idtargeting.com
+imimobile.com
+imshopping.com
+info.bmc.com
+info.perkinelmer.com
+intent-apps.com
+investis.com
+investisdigital.cloud
+iper2.com
+ironnet.com
+jcpclick.com
+js2.verygoodvault.com
+js.track-analytics.com
+kantar.com
+kantarworldpanel.fr
+kilometrix.de
+kwptg.kantarworldpanel.fr
+leadexec.net
+leadfabric.com
+leiki.com
+lfx.linuxfoundation.org
+majestic.com
+mam.netease.com
+management.ident.indapass.hu
+marketingmachine.co.za
+meters.cbp-sd.com
+metrics-sentry.cvshealth.com
+metroblog.com
+mlab-ns.appspot.com
+mywebtracker.ca
+myxheat.com
+nakedlime.com
+netdirect.nl
+nexxtv-events.servicebus.windows.net
+nudatasecurity.com
+oms.570news.com
+oms.660citynews.com
+oms.citynews1130.com
+opt.ximad.com
+p11.techlab-cdn.com
+p13nlog-1106815646.us-east-1.elb.amazonaws.com
+p.acquireinsight.net
+pagesense.io
+pbjs-stream.bydata.com
+policy.bigfishgames.com
+ponos.zeronaught.com
+pp-m.ns1p.net
+predictad.com
+prod.ugdturner.com
+profreg.medscape.com
+prospect.io
+proxycheck.io
+ps1.pndsn.com
+putranaga.com
+qservz.com
+radancy.com
+ravelin.click
+rd.clk.thribee.com
+reporting.mperf.com
+report-uri.robinhood.com
+report-uri.volume.com
+reve.leafmedia.io
+rtb.omeridus.com
+saam.gumtree.com.au
+salemove.com
+schemaapp.com
+securecookies.dustin.no
+securecookies.dustin.se
+secure.myxheat.com
+securiti.ai
+sensebot-na.oss-us-east-1.aliyuncs.com
+servertrack.co
+sexstat.ru
+shopcurbside.com
+shop.pe
+shoppening.com
+simplecast.com
+siteone.cz
+smallbox.ca
+snip.ly
+springtrack.de
+stadiamaps.com
+statestreet.com
+static.goaffpro.com
+static.velocityweather.com
+statinside.com
+status-sh.cloudcade.com
+st.azcardinals.com
+study.vu.edu.au
+subnauticaerrors.com
+talentbrew.com
+target.michaels.com
+tdaevents.com
+teltoo.com
+the-poc-agency.com
+theworldtable.co
+thinkingcloud.net
+tipser.co
+tipser.com
+tj.yddashi.com
+t.motrixi.com
+tmpwebeng.com
+tntwebsites.com
+tockance.com
+t.qservz.com
+tracer.jp
+trackercdn.com
+trackhs.com
+trkdrvr.com
+universal.iper2.com
+usage.myhomescreen.tv
+us-east1-gvc-apps.cloudfunctions.net
+us-east4-dep-prod-cfg.cloudfunctions.net
+venafi.com
+visit.donateblood.com.au
+vizbee.tv
+vworldc.com
+watsonfantasyfootball.espn.com
+web.northwestern.nm.org
+webtracking.se
+worldoftulo.com
+worldtable.co
+yeshen.com
+ynuf.alipay.com
+zmctrack.net
+zrcir.com
