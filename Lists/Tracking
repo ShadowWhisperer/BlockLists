@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,636
-# Updated: 6/14/2021  21:13 (9:13 PM CST)
+# Domains: 10,613
+# Updated: 6/14/2021  22:35 (10:35 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -284,7 +284,6 @@ adjust.world
 adkernel.com
 adlmerge.com
 adlog.hipcricket.com
-adlog.mobpartner.com
 adlooxtracking.com
 adlucent.com
 admathhd.com
@@ -415,7 +414,6 @@ afsanalytics.com
 afsdktests.com
 afseek.com
 a.fxnetworks.com
-afy11.net
 a.gedidigital.it
 agency360.io
 agentanalytics.com
@@ -1554,18 +1552,12 @@ c.dk.msn.com
 cdn1-tags.pornerbros.com
 cdn2.stamped.io
 cdn.abcotvs.net
-cdn.acsbap.com
 cdn-api.arcpublishing.com
 cdn.autoleadstar.com
-cdn.avmws.com
-cdn-bacon.getcarro.com
 cdn.brcdn.com
 cdn.bronto.com
 cdn-cedexis.video.aetnd.com
-cdn.c-i.as
-cdn.etrack1.com
 cdn.fera.ai
-cdn.fraudjs.io
 cdnfraudjsio.crowd9ptyltd.netdna-cdn.com
 cdn.imhd.io
 cdn.instapagemetrics.com
@@ -1580,7 +1572,6 @@ cdn.nxakpj4ac8gkd53.info
 cdn.onnetwork.tv
 cdn.owebanalytics.com
 cdn.paddle.com
-cdn.pdst.fm
 cdn.rakam.io
 cdn.refersion.com
 cdn.retentionrock.com
@@ -1595,7 +1586,6 @@ cdn.watchingthat.net
 cdnweb.aoscdn.com
 cdn.yottaa.com
 cdn.ywxi.net
-cdn.ywxq.net
 cdn.ztsrv.com
 cdp.asia
 cdp.cloud.unity3d.com
@@ -1686,7 +1676,6 @@ chickensstation.com
 chimpstatic.com
 chinsnakes.com
 c.hk.msn.com
-choicestream.com
 christian.lifeway.com
 christians.lifeway.com
 chromecast-beacons.xumo.com
@@ -1858,7 +1847,6 @@ clickstream.events
 clicksure.com
 clicktale.com
 clicktale.net
-clicktracker.iscan.nl
 clicktracks.com
 clicktrack.wnu.com
 clicktripz.com
@@ -2888,7 +2876,6 @@ elsevier.com
 elsevier.io
 eltoro.com
 emailmeter.com
-email-reflex.com
 email-view.com
 emark.com
 emarketer.com
@@ -3733,7 +3720,6 @@ hitslink.com
 hitslog.com
 hits.puls.lv
 hits-secure.guardian.co.uk
-hittail.com
 hit.uptrendsdata.com
 hitwebcounter.com
 h.iwin.com
@@ -4306,7 +4292,6 @@ leadmanagerfx.com
 leadscope.de
 leadshook.io
 leadspace.com
-leadsquaredcdn.com
 leads.radioedit.iheart.com
 leadsrx.com
 leady.com
@@ -4801,7 +4786,6 @@ meatydime.com
 medeanalytics.com
 media6degrees.com
 media-akam.licdn.com
-mediabong.net
 media.charlotteobserver.com
 media.elnuevoherald.com
 media.evolv.ai
@@ -5175,7 +5159,6 @@ narrative.io
 narvar.com
 native.ai
 nats.xing.com
-naturalbid.com
 naturaltracking.com
 navdmp.com
 navegg.com
@@ -6178,6 +6161,7 @@ ping.ui.com
 pinkaanalytics.eu-2.evennode.com
 pink-boat.fool.com
 pinoculars.com
+pinpoint.espn.com
 pinpointpotato.com
 pin-river.data.ea.com
 pinsightmedia.com
@@ -6191,7 +6175,6 @@ pi.premierinn.com
 piquantpigs.com
 piquantstove.com
 pique.ai
-pi-stats.com
 pit-835.bpsecure.com
 piwikanalytics.win
 piwik.avm.de
@@ -7092,7 +7075,6 @@ saysidewalk.com
 sbal4kp.com
 sbcomniture.focus.de
 sbeacon.sina.com.cn
-sbgsodufuosmmvsdf.info
 s.blinds.ca
 s.blinds.com
 sb.scorecardresearch.com.edgekey.net
@@ -8421,7 +8403,6 @@ sslanalytics.sixt.it
 sslanalytics.sixt.nl
 sslanalytics.sixtshlomo.com
 ssl.appliedclinicaltrialsonline.com
-ssl.avmws.com
 ssl.brandlicensing.eu
 ssl.cbinet.com
 ssl.centerforhit.org
@@ -9156,7 +9137,6 @@ s.youtube.com
 sypexgeo.net
 sysclt.banggood.com
 systema.ai
-system.etrack1.com
 systemizecoat.com
 s.zmctrack.net
 t0.gstatic.com
@@ -9323,7 +9303,6 @@ telemetryverification.net
 telemetry.watchabc.go.com
 telemetry_watson.live.com
 telize.com
-tellapart.com
 telogical.com
 telogicalsystems.com
 tel.telegraaf.nl
@@ -9526,7 +9505,6 @@ trackerapi.truste.com
 tracker.bang.com
 tracker.beam.dasmart.eu
 tracker.cab
-tracker.cartprotector.com
 tracker.com
 tracker.co.uk
 tracker.cpmdata.net
@@ -10261,7 +10239,6 @@ webglstats.com
 web.hammacher.com
 webhostingcounter.com
 webinsight.s3.amazonaws.com
-webload.me
 weblog.hackers.ac
 webmetrics.nintendo-europe.com
 webmetrics.turnwrench.com
