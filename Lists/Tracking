@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,613
-# Updated: 6/15/2021  16:26 (4:26 PM CST)
+# Domains: 10,618
+# Updated: 6/16/2021  16:17 (4:17 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1586,7 +1586,6 @@ cdn.watchingthat.net
 cdnweb.aoscdn.com
 cdn.yottaa.com
 cdn.ywxi.net
-cdn.ztsrv.com
 cdp.asia
 cdp.cloud.unity3d.com
 cedexis-radar.net
@@ -4001,6 +4000,7 @@ intilery-analytics.com
 intimatemerger.com
 inventionpassenger.com
 investigatepin.com
+invisit.io
 invitesugar.com
 ioam.de
 ioninteractive.com
@@ -4437,6 +4437,7 @@ loggly.com
 loggly.net
 log.go.com
 logicanalytics.io
+loginhood.io
 loginradius.com
 logit.api.intuit.com
 logit-aws.api.intuit.com
@@ -5533,6 +5534,7 @@ optimix.cn
 optimizely.com
 optimize-stats.voxmedia.com
 optimost.com
+optimove.com
 optimove.events
 optinmonster.com
 opt-intelligence.com
@@ -7807,6 +7809,7 @@ smetrics.kbb.com
 smetrics-merch.bankofamerica.com
 smetrics.motortrend.com
 smetrics.nascar.com
+smetrics.nintendo.com
 s.metrics.popularwoodworking.com
 s.metrics.quiltingcompany.com
 smetrics.sephora.com
@@ -9639,6 +9642,7 @@ trafscan.com
 tra.jixie.io
 tranquilside.com
 translateoatmeal.com
+transunion.com
 trappush.com
 tr.apsislead.com
 trapteaching.com
@@ -9705,6 +9709,7 @@ trueleadid.com
 trumeasure.com
 truoptik.com
 trustanalytica.com
+trustev.com
 trvl-px.com
 trysera.com
 tryzens-analytics.com
@@ -9831,7 +9836,6 @@ typerock.com
 typicalairplane.com
 typicalteeth.com
 t.zelboraf.com
-t.ztsrv.com
 tzwaw.pw
 u5.investingchannel.com
 ub-analytics.com
@@ -10619,5 +10623,6 @@ zplayer-trk.zdn.vn
 zqtk.net
 ztevents.zaloapp.com
 ztracker.znt.bz
+ztsrv.com
 zylotech.com
 zz.bdstatic.com
