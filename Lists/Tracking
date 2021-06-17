@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,618
-# Updated: 6/16/2021  16:17 (4:17 PM CST)
+# Domains: 10,619
+# Updated: 6/16/2021  20:06 (8:06 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -3403,6 +3403,7 @@ geoiptool.com
 geoip.tools
 geojs.io
 geolocation.1trust.app
+geolocation-api.packtpub.com
 geolocation.co.jp
 geolocation.daznservices.com
 geolocation-db.com
