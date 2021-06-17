@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,623
-# Updated: 6/17/2021  15:23 (3:23 PM CST)
+# Domains: 10,636
+# Updated: 6/17/2021  18:30 (6:30 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -703,6 +703,7 @@ analyticsdcs.ccs.mcafee.com
 analytics.dealer.com
 analytics.dena.com
 analytics.desktopcal.com
+analytics.developer.riotgames.com
 analytics.dx.ohio.gov
 analytics.edgekey.net
 analytics.edgesuite.net
@@ -1962,6 +1963,7 @@ cnt.hd21.com
 cntr-di5.com
 cntr-di7.com
 cnt-tm-1.com
+cnt.wetteronline.de
 cnt.x-plarium.com
 cnzz.com
 coachquartz.com
@@ -2156,6 +2158,7 @@ counter.snackly.co
 counter.sparklit.com
 counters.vendio.com
 counter.websitevoice.com
+counterwelt.com
 counter-zaehler.de
 countess.twitch.tv
 count.ly
@@ -2171,6 +2174,7 @@ count-server.sharethis.com
 count.shein.com
 count.taobao.com
 count-us.rudo.video
+countyou.de
 coveo.com
 coverapparatus.com
 c.p2r14.com
@@ -2250,6 +2254,7 @@ c.tw.msn.com
 ctxtfl.com
 cubchannel.com
 cubed.ai
+cuberoot.co
 cuc.famousfootwear.com
 cuc.naturalizer.com
 cuebiq.com
@@ -4291,6 +4296,7 @@ leadinfo.net
 leadinspector.de
 leadlander.com
 leadmanagerfx.com
+leadoo.com
 leadscope.de
 leadshook.io
 leadspace.com
@@ -6390,6 +6396,7 @@ p.smartertravel.com
 psoc-pixel.ebay.com
 psoc-pixel.g.ebay.com
 psr.staticbg.com
+pstats.com
 pstmrk.it
 pswec.com
 ptengine.com
@@ -6428,6 +6435,7 @@ pview.gomtv.com
 pv.sohu.com
 pvtag.yahoo.co.jp
 pw22trk.com
+pw.3ders.net
 pwa.grgs.ro
 pw-analytics.phunware.com
 pwhtrk.com
@@ -7044,6 +7052,7 @@ sanalytics.hayneedle.com
 sanalytics.ncaa.com
 sana.newsinc.com.s3.amazonaws.com
 sando.ussandostatin.com
+sandsiv.com
 sanl.champssports.com
 sanl.eastbay.com
 sanl.footaction.com
@@ -8647,6 +8656,7 @@ stats.mbamupdates.com
 stats.mennetworkcash.com
 stats.mofossupport.com
 statsmp2.emol.com
+stats.myangular.life
 stats.myminifactory.com
 stats.mysteel.com
 stats.nerdpress.net
@@ -9283,6 +9293,7 @@ teenytinytongue.com
 teenyvolcano.com
 teethfan.com
 tekblue.net
+telematicsdirect.com
 telematics.tomtom.com
 telemetry-01.adwc.fr33tux.org
 telemetry-02.adwc.mb.fr33tux.org
@@ -9321,6 +9332,7 @@ templatelogging.office.com
 tempttalk.com
 tendersugar.com
 tendertest.com
+tend.io
 tenilstats.turner.com
 tenor.wargaming.net
 teradata.at
@@ -9492,6 +9504,7 @@ track.americansongwriter.com
 track-api.klickly.com
 track-aws.notsy.io
 track-bremen.de
+track.btdmp.com
 track.capitaloneshopping.com
 trackcmp.net
 trackcn.dolphin-browser.com
