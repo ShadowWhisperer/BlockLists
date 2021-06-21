@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,648
-# Updated: 6/18/2021  16:44 (4:44 PM CST)
+# Domains: 10,654
+# Updated: 6/21/2021  09:34 (9:34 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -716,6 +716,7 @@ analyticsext.chase.com
 analytics.faw.sky.com
 analytics.fbgcdn.com
 analytics.ff.avast.com
+analytics.fosrvt.com
 analytics.fr
 analytics.freemake.com
 analytics.frontkom.io
@@ -3022,6 +3023,7 @@ events.onet.pl
 events.privy.com
 events-service.coinbase.com
 events.split.io
+events.vacation101.com
 events-va.placester.com
 events.web.money
 event.syndigo.cloud
@@ -4390,6 +4392,7 @@ load.s3.amazonaws.com
 loc1.hitsprocessor.com
 localization.digi-prod.pbs.org
 localization.services.pbs.org
+localizecdn.com
 locallogic.co
 localytics.com
 loca.sc-jpl.com
@@ -4907,6 +4910,7 @@ metrics.gr
 metrics.icloud.com
 metrics.io
 metrics-k.wbx2.com
+metrics.motortrend.com
 metrics.net
 metrics-now.experian.com
 metrics-processor.kik.com
@@ -6359,6 +6363,7 @@ prod.geo.gluops.com
 prod.geoservice.gluops.com
 prod-locator-cloud.rockstargames.com
 prod.log.shortbread.aws.dev
+prod-logs-skyegloup.s3.amazonaws.com
 prodperfect.com
 prod-ps-cdn-us1.azureedge.net
 prod-sb-appanalytics-us1.servicebus.windows.net
@@ -8757,6 +8762,7 @@ stat.su
 stats.unity3d.com
 stat.super.cz
 stats-v2-prod-or-lbj.inbake.com
+stats.vacation101.com
 stats.vdsnow.ru
 stats.vpscash.nl
 stats.webarch.net
