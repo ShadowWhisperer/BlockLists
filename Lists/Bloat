@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 736
-# Updated: 6/14/2021  23:14 (11:14 PM CST)
+# Domains: 688
+# Updated: 6/22/2021  22:10 (10:10 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -14,8 +14,6 @@ start.ubuntu.com                                        #Ubuntu - Default Browse
 
 alliance4creativity.com                                 #Anti-Piracy
 
-rcd.adolab.com                                          #Blocks Right Click Menu on Websites
-
 accessibilityserver.org                                 #Accessibility Widget
 accessibly.apps.onthemapmarketing.com                   #Accessibility Widget
 accessibly.onthemapmarketing.com                        #Accessibility Widget
@@ -25,12 +23,6 @@ d5c8kzvnetr32.cloudfront.net                            #Accessibility Widget
 dlieyhrm30x3f.cloudfront.net                            #Accessibility Widget
 nagich.co.il                                            #Accessibility Widget
 nagich.com                                              #Accessibility Widget
-
-arc.io                                                  #Share Bandwidth
-gateway.arc.io                                          #Share Bandwidth
-overmind.arc.io                                         #Share Bandwidth
-socket.arc.io                                           #Share Bandwidth
-static.arc.io                                           #Share Bandwidth
 
 fonts.acer.com                                          #Font      Acer
 edgefonts.net                                           #Font  Adobe
@@ -201,43 +193,22 @@ d1sssn74k2rfxk.cloudfront.net                           #Webpages - Icon (Donate
 s3.feedly.com                                           #Webpages - Icon (Follow Page)
 i.bigmir.net                                            #Webpages - Social Media (Sharing)
 addtoany.com                                            #Webpages - Social Media (Universal Sharing)
-static.addtoany.com                                     #Webpages - Social Media (Universal Sharing)
 likebtn.com                                             #Webpages - Social Media (Like Button)
-pv.likebtn.com                                          #Webpages - Social Media (Like Button)
-wi.likebtn.com                                          #Webpages - Social Media (Like Button)
-w.likebtn.com                                           #Webpages - Social Media (Like Button)
 addnow.com                                              #Webpages - Social Media
 addthiscdn.com                                          #Webpages - Social Media
 addthis.com                                             #Webpages - Social Media
 addthisedge.com                                         #Webpages - Social Media
-api-public.addthis.com                                  #Webpages - Social Media
-buttons-config.sharethis.com                            #Webpages - Social Media
 lessbuttons.com                                         #Webpages - Social Media
 linksalpha.com                                          #Webpages - Social Media
-l.sharethis.com                                         #Webpages - Social Media
 media.line.naver.jp                                     #Webpages - Social Media
 opensharecount.com                                      #Webpages - Social Media
-p.dlx.addthis.com                                       #Webpages - Social Media
-platform-api.sharethis.com                              #Webpages - Social Media
-platform-cdn.sharethis.com                              #Webpages - Social Media
 pluso.ru                                                #Webpages - Social Media
-s7.addthis.com                                          #Webpages - Social Media
-s9.addthis.com                                          #Webpages - Social Media
 share.pluso.ru                                          #Webpages - Social Media
 sharethis.com                                           #Webpages - Social Media
 sharethis.net                                           #Webpages - Social Media
-ss.sharethis.com                                        #Webpages - Social Media
-static1.twitcount.com                                   #Webpages - Social Media
-static.zotabox.com                                      #Webpages - Social Media
-su.addthis.com                                          #Webpages - Social Media
-sync.sharethis.com                                      #Webpages - Social Media
-t.sharethis.com                                         #Webpages - Social Media
 twitcount.com                                           #Webpages - Social Media
 uptolike.com                                            #Webpages - Social Media
 uptolike.ru                                             #Webpages - Social Media
-v1.addthisedge.com                                      #Webpages - Social Media
-w.sharethis.com                                         #Webpages - Social Media
-x.dlx.addthis.com                                       #Webpages - Social Media
 xing-share.com                                          #Webpages - Social Media
 zotabox.com                                             #Webpages - Social Media
 powr.io                                                 #Webpages - Social Media / Other Plugins
@@ -246,42 +217,22 @@ accountkit.com                                          #Webpages - Login to an 
 sdk.snapkit.com                                         #Webpages - Login to an existing accounts on other sites
 images.dmca.com                                         #Webpages - Logo (Digital Millennium Copyright Act)
 copypoison.com                                          #Webpages - Prevent copying of text on a page
+rcd.adolab.com                                          #Webpages - Prevent copying of text on a page
 speakpipe.com                                           #Webpages - Send audio messages over websites
 
-app.cookieyes.com                                       #Cookie Consent / Control
-cc.cdn.civiccomputing.com                               #Cookie Consent / Control
-cdn.cookielaw.org                                       #Cookie Consent / Control
-cdn-cookieyes.com                                       #Cookie Consent / Control
-cdn.iubenda.com                                         #Cookie Consent / Control
-cdn.truendo.com                                         #Cookie Consent / Control
-consent.cookiebot.com                                   #Cookie Consent / Control
-consent.trustarc.com                                    #Cookie Consent / Control
 cookiebot-assets.envato-static.com                      #Cookie Consent / Control
 cookiebot.com                                           #Cookie Consent / Control
-cookieinfoscript.com                                    #Cookie Consent / Control
-cookielaw.org                                           #Cookie Consent / Control
-cookiereports.com                                       #Cookie Consent / Control
-cookie-script.com                                       #Cookie Consent / Control
-cookieyes.com                                           #Cookie Consent / Control
-gdpr-consent-tool.privacymanager.io                     #Cookie Consent / Control
-gdpr.privacymanager.io                                  #Cookie Consent / Control
-gdpr-web-dau-prod.privacymanager.io                     #Cookie Consent / Control
-gdpr-wrapper.privacymanager.io                          #Cookie Consent / Control
-iubenda.com                                             #Cookie Consent / Control
-policy.cookiereports.com                                #Cookie Consent / Control
-privacy-center.org                                      #Cookie Consent / Control
 privacy.outdoorsg.com                                   #Cookie Consent / Control
-prod.truendo.com                                        #Cookie Consent / Control
 rodo.agora.pl                                           #Cookie Consent / Control
-sa437gl.wpc.kappacdn.net                                #Cookie Consent / Control
-scripts.webcontentassessor.com                          #Cookie Consent / Control
-sdk.privacy-center.org                                  #Cookie Consent / Control
-truendo.com                                             #Cookie Consent / Control
-vendors.privacymanager.io                               #Cookie Consent / Control
-webcontentassessor.com                                  #Cookie Consent / Control
 
 api.qrserver.com                                        #QR Codes
-qrserver.com                                            #QR Codes  
+qrserver.com                                            #QR Codes
+
+arc.io                                                  #Share Bandwidth
+gateway.arc.io                                          #Share Bandwidth
+overmind.arc.io                                         #Share Bandwidth
+socket.arc.io                                           #Share Bandwidth
+static.arc.io                                           #Share Bandwidth
 
 doh.dns.apple.com                                       #Alt DNS - Apple (Encrypted)
 doh.dns.apple.com.v.aaplimg.com                         #Alt DNS - Apple (Encrypted)

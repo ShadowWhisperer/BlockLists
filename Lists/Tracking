@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,660
-# Updated: 6/21/2021  16:18 (4:18 PM CST)
+# Domains: 10,677
+# Updated: 6/22/2021  22:10 (10:10 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -684,6 +684,7 @@ analytics-api.cloudinary.com
 analytics-api.dvdfab.cn
 analyticsapi.happypancake.net
 analytics-api.klickly.com
+analytics-api-s.cloudinary.com
 analytics.appservice.tech
 analytics.archive.org
 analytics.arm.com
@@ -734,6 +735,7 @@ analytics.klickly.com
 analytics.kurocore.com
 analyticsladder.com
 analytics.larkplayerapp.com
+analytics.linuxbabe.com
 analytics.live.com
 analytics.livehindustan.com
 analytics.localytics.com
@@ -1551,6 +1553,7 @@ c.cl.msn.com
 ccmp.eu
 c.coll2onf.com
 ccpa.psg.nexstardigital.net
+c.crutchfieldadvisor.com
 c.de.msn.com
 c.dk.msn.com
 cdn1-tags.pornerbros.com
@@ -1958,6 +1961,7 @@ c.musicradio.com
 cmyip.com
 c.my.msn.com
 cnd.landsend.com
+cn-geo1.uber.com
 c.nl.msn.com
 c.no.msn.com
 c.ns1p.net
@@ -2085,6 +2089,7 @@ consent.app.cookieinformation.com
 consistpotato.com
 consumertrack.com
 contactpigeon.com
+contadorgratis.com
 contadorvisitasgratis.com
 contadorwap.com
 contatoreaccessi.com
@@ -3027,6 +3032,7 @@ events.split.io
 events.vacation101.com
 events-va.placester.com
 events.web.money
+events.whisk.com
 event.syndigo.cloud
 eventtracker.westus.cloudapp.azure.com
 eventtracking.hubapi.com
@@ -3365,6 +3371,7 @@ genestack.com
 genius.drivecentric.com
 geniussports.com
 gentags.net
+geo.101network.com
 geo1.ggpht.com
 geo1.presslabs.net
 geo20120530.com
@@ -3886,6 +3893,7 @@ imps.monu.delivery
 impulsehands.com
 impulsejewel.com
 imrworldwide.com
+im.techrepublic.com
 imtwjwoasak.com
 in.appcenter.ms
 inbenta.com
@@ -4601,6 +4609,7 @@ materialmoon.com
 matheranalytics.com
 mathtag.com
 matomo.cloud
+matomo.cozycloud.cc
 matomo.furaffinity.net
 matomo.groovetech.io
 matomo.iserv.eu
@@ -6420,6 +6429,7 @@ p.typekit.net
 public-analytics-swiggy-com-766210341.ap-southeast-1.elb.amazonaws.com
 public-analytics.us-east-1.prod.public.atl-paas.net
 public-api.wordpress.com
+publicidad.net
 publicidees.com
 public-ip-api.appspot.com
 public-prod-dspcookiematching.dmxleo.com
@@ -6684,6 +6694,7 @@ repixel.co
 replaceroute.com
 replayapp.io
 replay.b-cdn.net
+replay.crutchfield.com
 report.23video.com
 report.ad.snappea.com
 report-ads-sdk.avidly.com
@@ -7105,6 +7116,7 @@ savecart.pl
 savoryorange.com
 savorystructure.com
 sawap.equifax.com
+say.ac
 saysidewalk.com
 sbal4kp.com
 sbcomniture.focus.de
@@ -8525,6 +8537,7 @@ sstats2.details.com
 sstats2.gq.com
 sstats.adobe.com
 sstatsbp.nikkei.com
+sstats.omahasteaks.com
 sstats.oui.sncf
 s.stcatharinesstandard.ca
 ssuperstats.observepoint.com
@@ -8661,6 +8674,7 @@ statsforever.com
 stats.fr
 stats.fw1.biz
 statshop.fr
+stats.hprofits.com
 stats.hqhoneys.com
 stats.hstatic.net
 stat.simcase.ru
@@ -8682,6 +8696,7 @@ stats.net
 stats-new.smugmug.com
 stats.newsweek.com
 stats-newyork1.bloxcms.com
+stats.nextcloud.com
 stats.norton.com
 stats.nutaku.com
 stats.nutaku.info
@@ -10004,6 +10019,7 @@ usersegment.wpdigital.net
 usersonlinecounter.com
 userstats.xboxlive.com
 usersurge.com
+usersurvey.dropbox.com
 usersvc.shutterfly.com
 usersync.samplicio.us
 usertesting.com
@@ -10606,6 +10622,7 @@ yldbt.com
 ylog.bigda.com
 ylog.huya.com
 y-medialink.com
+ymonetize.com
 yoc.younited-credit.com
 yoose.com
 youbora.com
