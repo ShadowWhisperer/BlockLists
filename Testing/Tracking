@@ -39,9 +39,7 @@ z-m.c10r.facebook.com                                     #Facebook
 brainkeeper.gw-ec.com                                        #GearBest
 cur.gearbest.com                                             #GearBest
 cdns3.gigya.com                                           #Gigya - May break signins
-cdns.us1.gigya.com                                        #Gigya - May break signins
 gigya.com                                                 #Gigya - May break signins
-socialize.us1.gigya.com                                   #Gigya - May break signins
 cdn.groupbycloud.com                                         #GroupBy - For sure tracker, might break others  'https://cdn.groupbycloud.com/gb-tracker-client-3.min.js'
 cabelas.groupbycloud.com                                     #GroupBy
 cdn-lb.groupbycloud.com                                      #GroupBy
@@ -132,6 +130,8 @@ okta.com                                                    #Identity Management
 privo.com                                                   #Identity Management  (Might break logins)
 zumigo.com                                                  #Identity Management  (Might break logins)
 revenuecat.com                                              #Might Break Cart Checkouts
+taps.io                                                     #Might break links
+apps.taps.io                                                #Might break links
 grader.com                                                  #Website Grader
 apollo.io                                                   #Data-first engagement platform ... structured data ... to help execute, analyze, & improve your growth strategy)
 stserver.fcws11.com                                         #Software
@@ -393,3 +393,5 @@ yeshen.com
 ynuf.alipay.com
 zmctrack.net
 zrcir.com
+report-site.com
+www1.legacy.fraudfree.net

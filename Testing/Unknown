@@ -3,8 +3,6 @@
 # Adult
 #############################
 home.ro               #Dead ?
-zenworks.online     #Breaks Adult Sites
-s1.zenworks.online  #Breaks Adult Sites
 520call.me            #Either Adult, or just video player
 lobizan.com           #Either Adult, or just image host
 hlsmp4.com          #Video Hosting Site
@@ -15,15 +13,15 @@ bngwlt.com
 #############################
 # Blank Page
 #############################
-api.ticlock.com               #Android App
-pixlgif.com                   #Google
+api.ticlock.com           #Android App
+pixlgif.com               #Google
 
 
 #############################
 # Bloat
 #############################
-cds.j3z9t3p6.hwcdn.net    # Font Awesome ?
-opensource.keycdn.com     # Font Awesome ?
+cds.j3z9t3p6.hwcdn.net    #Font Awesome ?
+opensource.keycdn.com     #Font Awesome ?
 
 
 #############################
@@ -39,6 +37,12 @@ threatmetrix.com           #LexisNexis
 ddos-guard.net             #DDOS-Guard
 f5.com                     #F5 Solutions
 f5silverline.com           #F5 Solutions
+
+
+#############################
+# Tunnel
+#############################
+blokada.org                #Has VPN feature - Not sure if this is the domain used for tunneling.  Only want to block the VPN function.
 
 
 #############################
@@ -59,13 +63,13 @@ simility.com
 #############################
 # Marketing
 #############################
-archant.co.uk                    #Archant Limited - Other lists say trackers, looks more like marketing
-option.boldapps.net              #BoldCommerce
-boldapps.net                     #BoldCommerce (Certain Marketing, Not sure what "option.boldapps.net" does)
-marketing.fitbit.com             #Fitbit - Might break email layout
-maropost.com                     #MaroPost
-wideopenmediagroup.com           #Wide Open Media Group
-mailing.wideopenmediagroup.com   #Wide Open Media Group
+archant.co.uk                   #Archant Limited - Other lists say trackers, looks more like marketing
+option.boldapps.net             #BoldCommerce
+boldapps.net                    #BoldCommerce (Certain Marketing, Not sure what "option.boldapps.net" does)
+marketing.fitbit.com            #Fitbit - Might break email layout
+maropost.com                    #MaroPost
+wideopenmediagroup.com          #Wide Open Media Group
+mailing.wideopenmediagroup.com  #Wide Open Media Group
 inkshouse.com
 mix-uni.ru
 
@@ -290,15 +294,15 @@ sofe.ebay.com                                #Ebay
 velocityprod.g.ebay.com                      #Ebay
 velocity-roma.ebay.com                       #Ebay
 vod.g.ebay.com                               #Ebay
-edge-star-mini-shv-01-iad3.facebook.com      #Facebook
-mqtt.c10r.facebook.com                       #Facebook
-star.c10r.facebook.com                       #FaceBook
-star-mini.c10r.facebook.com                  #FaceBook
-tfbnw.net                                    #Facebook
-t.update.fbsbx.com                           #Facebook
-s9.gp1.wac.gammacdn.net                        #FedEx
-foxbusinessp.factsetdigitalsolutions.com           #Fox News
-h20255.www2.hp.com                             #HP
+edge-star-mini-shv-01-iad3.facebook.com        #Facebook
+mqtt.c10r.facebook.com                         #Facebook
+star.c10r.facebook.com                         #FaceBook
+star-mini.c10r.facebook.com                    #FaceBook
+tfbnw.net                                      #Facebook
+t.update.fbsbx.com                             #Facebook
+s9.gp1.wac.gammacdn.net                      #FedEx
+foxbusinessp.factsetdigitalsolutions.com        #Fox News
+h20255.www2.hp.com                            #HP
 edge-chat.instagram.com                  #Instagram
 instagram.c10r.facebook.com              #Instagram
 instagram.fcai3-2.fna.fbcdn.net          #Instagram
@@ -432,7 +436,6 @@ lglime.com                                      #LG
 static-avc.lglime.com                           #LG
 hdwvmasogicqg.isd2184.net                  #Luverne - Public School District
 lpsweb.isd2184.net                         #Luverne - Public School District
-wpad.isd2184.net                           #Luverne - Public School District
 zrhuhdohuypmmq.isd2184.net                 #Luverne - Public School District
 conduit.mailchimpapp.com                     #MailChimp
 appcloud.mcafee.com                            #McAfee
@@ -455,26 +458,26 @@ prod-cdn.sumo.moz.works                    #Mozilla
 prod-tp.sumo.moz.works                     #Mozilla
 nowcast.acmeaom.com                               #MyRadar (Android App)
 wu.acmeaom.com                                    #MyRadar (Android App)
-oca-api.netflix.com                                     #Netflix - Open Connect Appliance (Load Balance)
-anycast.ftl.netflix.com                                 #Netflix  AnyCast
-anycast-t1-c0-noscm.prod.ftl.netflix.com                #Netflix  AnyCast
-anycast-t1-c1-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-anycast-t1-c2-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-anycast-t1-c3-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-anycast-t1-c4-scm.prod.ftl.netflix.com                  #Netflix  AnyCast
-probe-ixanycast-isp.prod.ftl.netflix.com                #Netflix  AnyCast
-nrdp50-appboot.netflix.com                              #Netflix  Netflix Ready Device
-nrdp51-appboot.netflix.com                              #Netflix  Netflix Ready Device
-nrdp53-appboot.netflix.com                              #Netflix  Netflix Ready Device
-nrdp.nccp.netflix.com                                   #Netflix  Netflix Ready Device
-nrdp.prod.ftl.netflix.com                               #Netflix  Netflix Ready Device
-push.prod.netflix.com                                   #Netflix
-future.prod.ftl.netflix.com                             #Netflix
-index.ehub.netflix.com                                  #Netflix
-probe-cell4.prod.ftl.netflix.com                        #Netflix
-probe-cell5.prod.ftl.netflix.com                        #Netflix
-probe-cell6.prod.ftl.netflix.com                        #Netflix
-probe-ixunicast.prod.ftl.netflix.com                    #Netflix
+oca-api.netflix.com                                    #Netflix - Open Connect Appliance (Load Balance)
+anycast.ftl.netflix.com                                #Netflix  AnyCast
+anycast-t1-c0-noscm.prod.ftl.netflix.com               #Netflix  AnyCast
+anycast-t1-c1-scm.prod.ftl.netflix.com                 #Netflix  AnyCast
+anycast-t1-c2-scm.prod.ftl.netflix.com                 #Netflix  AnyCast
+anycast-t1-c3-scm.prod.ftl.netflix.com                 #Netflix  AnyCast
+anycast-t1-c4-scm.prod.ftl.netflix.com                 #Netflix  AnyCast
+probe-ixanycast-isp.prod.ftl.netflix.com               #Netflix  AnyCast
+nrdp50-appboot.netflix.com                             #Netflix  Netflix Ready Device
+nrdp51-appboot.netflix.com                             #Netflix  Netflix Ready Device
+nrdp53-appboot.netflix.com                             #Netflix  Netflix Ready Device
+nrdp.nccp.netflix.com                                  #Netflix  Netflix Ready Device
+nrdp.prod.ftl.netflix.com                              #Netflix  Netflix Ready Device
+push.prod.netflix.com                                  #Netflix
+future.prod.ftl.netflix.com                            #Netflix
+index.ehub.netflix.com                                 #Netflix
+probe-cell4.prod.ftl.netflix.com                       #Netflix
+probe-cell5.prod.ftl.netflix.com                       #Netflix
+probe-cell6.prod.ftl.netflix.com                       #Netflix
+probe-ixunicast.prod.ftl.netflix.com                   #Netflix
 lrs.netgear.com                                  #NetGear
 countly.netgear.com                              #NetGear
 prod.online.pos.svc.ovi.com                    #Nokia
@@ -490,7 +493,6 @@ features.opera-api.com                           #Opera Browser
 d21prwqavi0i2.cloudfront.net                   #OkToPost
 oktopost.com                                   #OkToPost
 static.oktopost.com                            #OkToPost
-s-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net   #Pinterest
 nqs.nice264.com                                       #Pluto.TV - Nice264 = Video Hosting / Possible Tracker
 wasabi.pluto.tv                                       #Pluto.TV
 video.pluto.tv                                        #Pluto.TV
@@ -519,6 +521,8 @@ nmxott.akamaized.net                              #Roku
 samples.voice.cti.roku.com                        #Roku
 rights-manager.sr.roku.com                        #Roku
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com  #Samsung Phone
+d1oxlq5h9kq8q5.cloudfront.net                                       #Samsung TV - Icons ?
+dc.dqa.samsung.com                                                  #Samsung Watch
 monorail-production-web-tier2-central.shopifycloud.com    #Shopify
 monorail-production-web-tier2.shopifycloud.com            #Shopify
 aws.api.sc-gw.com                                      #SnapChat
@@ -528,7 +532,6 @@ gtq6.sct.sc-prod.net                                   #SnapChat
 use4-gcp-v6.api.snapchat.com                           #SnapChat
 us-east1-aws.duplex.sc-gw.com                          #SnapChat
 us-east4-gcp.api.sc-gw.com                             #SnapChat
-d1oxlq5h9kq8q5.cloudfront.net                        #Samsung TV - Icons ?
 api.erabu.sony.tv                                  #Sony TV
 bravia-cfgdst-ore-pro.bda.ndmdhs.com               #Sony TV
 certs-bravia-cfgdst-ore-pro.bda.ndmdhs.com         #Sony TV
@@ -545,7 +548,6 @@ trust-guard.com                                #TrustGuard
 caps.twitter.com                           #Twitter
 cdn.api.twitter.com                        #Twitter
 s.twitter.com                              #Twitter
-wizaly.com                                         #Wizaly
 userpaneltv-pa.googleapis.com                  #YouTube - SmartTV
 4g2.vzwdm.com                                #Verizon
 api-v.vzmessages.com                         #Verizon
