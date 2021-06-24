@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,691
-# Updated: 6/23/2021  23:56 (11:56 PM CST)
+# Domains: 10,694
+# Updated: 6/24/2021  17:55 (5:55 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -691,6 +691,7 @@ analytics.appservice.tech
 analytics.archive.org
 analytics.arm.com
 analytics.audioeye.com
+analytics.aweber.com
 analytics.batesvilletechnology.com
 analytics.brave.com
 analytics.carbaselive.com
@@ -7086,6 +7087,7 @@ samsungpositioning.com.cn
 sanalytics.disneyplus.com
 sanalytics.hayneedle.com
 sanalytics.ncaa.com
+sanalytics.tcm.com
 sana.newsinc.com.s3.amazonaws.com
 sando.ussandostatin.com
 sandsiv.com
@@ -8671,6 +8673,7 @@ stats.datacolor.eu
 stats.datawrapper.de
 stats.dealerspike.com
 statse-omtrdc.deka.de
+stats.esecured.net
 statse.webtrendslive.com
 statsfe1-df.ws.microsoft.com
 statsfe1.update.microsoft.com
