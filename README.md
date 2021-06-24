@@ -53,5 +53,7 @@ _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the s
 [Whois](https://www.whois.com/whois/)  
   
 [Spamhaus Statistics](https://www.spamhaus.org/statistics/countries/)  
+  
+[JavaScript Beautifier](https://beautifier.io/)
 
 [Typo Generator](http://domaincheckplugin.com/typo)  *Use "Add Extension to Typos", or the generator will make invalid TLDs  
