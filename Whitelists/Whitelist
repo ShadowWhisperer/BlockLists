@@ -228,6 +228,7 @@ nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
 uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
 license.adrise.tv                          # App - Tubi (Digital Rights Management Error, if blocked)
+account.production-public.tubi.io          # App - Tubi (Breaks - Guest Sign In)
 api2.sr.roku.com                           # App - The Roku Channel
 configs.ott.aetnd.com                      # App - A&E - Check for internet access
 signature.video.aetnd.com                  # App - A&E - Crashes App
