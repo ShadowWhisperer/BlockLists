@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,694
-# Updated: 6/24/2021  17:55 (5:55 PM CST)
+# Domains: 10,708
+# Updated: 6/25/2021  00:22 (12:22 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -742,6 +742,7 @@ analytics.linuxbabe.com
 analytics.live.com
 analytics.livehindustan.com
 analytics.localytics.com
+analytics.loona.health
 analyticsmarket.com
 analytics.mp3tag.de
 analytics.my.quentic.com
@@ -2156,6 +2157,7 @@ countercentral.com
 counter.cz
 counter.de
 counter.gd
+counter-go.de
 counter.hitslink.com
 counter.info
 counter.live4members.com
@@ -2235,6 +2237,7 @@ crittercism.com
 crlog-crcn.adobe.com
 crobox.com
 crosspixel.net
+crossss.com
 crossyroadrageanalytics-157863293.us-east-1.elb.amazonaws.com
 crowdscience.com
 crsspxl.com
@@ -3766,6 +3769,7 @@ horizon-next.com
 horsenectar.com
 hosenews.com
 hostip.info
+host-tracker.com
 hotelchamp.com
 hotjar.com
 hotjar.io
@@ -4108,6 +4112,7 @@ ip-score.com
 ip-secrets.com
 ipstack.com
 ipstatp.com
+ip.taobao.com
 iptrackeronline.com
 iptrack.io
 ip.tyk.nu
@@ -4562,6 +4567,7 @@ macupload.symantec.com
 maddeningpowder.com
 madisonlogic.com
 madkudu.com
+madmimi.com
 madstreetden.com
 magnavox-beacons.xumo.com
 magnetairport.com
@@ -4620,6 +4626,7 @@ matomo.groovetech.io
 matomo.iserv.eu
 matomo.jam-software.com
 matomo.jam-software.de
+matomo.nux.cz
 matomo.ooni.org
 matomo.org
 matomo.riot.im
@@ -6218,6 +6225,7 @@ pit-835.bpsecure.com
 piwikanalytics.win
 piwik.avm.de
 piwik.bocholt.de
+piwik.bpb.de
 piwikcm02.cmcitymedia.de
 piwikcm03.cmcitymedia.de
 piwikcm05.cmcitymedia.de
@@ -6844,6 +6852,7 @@ rollbar.com
 rollworks.com
 rontar.com
 roofrelation.com
+roojoom.com
 roomyreading.com
 roq.ad
 rosetta.prod.ps.bild.de
@@ -8641,6 +8650,8 @@ statistic.ovh
 statistics.ro
 statistics-weblog.gamesamba.com
 statistic.weimobdc.com
+statistik.bmz.de
+statistik.bundestag.de
 stat.jar.ru
 stat.lappajarvenautokoulu.fi
 statlog.cc.netease.com
@@ -9500,6 +9511,9 @@ tns-counter.ru
 tns-cs.net
 tnsglobal.com
 tns-ua.com
+tobapplog.tobsnssdk.com
+toblog-alink.tobsnssdk.com
+toblog.tobsnssdk.com
 toecircle.com
 toedrawer.com
 tofu-ssl.dmcdn.net
