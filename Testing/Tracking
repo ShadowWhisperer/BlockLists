@@ -46,6 +46,8 @@ cdn-lb.groupbycloud.com                                      #GroupBy
 groupbycloud.com                                             #GroupBy
 prod-lb.groupbycloud.com                                     #GroupBy
 diagswebextpro.houston.hp.com                             #HP
+andchin-2.htc.com                                             #HTC Android Phone
+apu-chin2.htc.com                                             #HTC Android Phone
 engage.hulu.com                                             #Hulu
 deepomatic.com                                       #Image Recognition
 api.graphql.imdb.com                              #IMDB
@@ -96,6 +98,7 @@ litmos.com                                            #SAP Litmos
 click.e.scheels.com                                         #Scheels
 image.e.scheels.com                                         #Scheels
 orderlogicapp.com                                        #Shopify
+rtam-collector.appspot.com                             #SnapChat (Old Version)
 aws.duplex.snapchat.com                                #SnapChat
 click.snapchat.com                                     #SnapChat
 cognac-prod.appspot.com                                #SnapChat
@@ -396,3 +399,5 @@ zrcir.com
 report-site.com
 www1.legacy.fraudfree.net
 ntalker.com
+sentry.gitlab.net
+sqz.andromo.com
