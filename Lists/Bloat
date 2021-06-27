@@ -1,7 +1,7 @@
 #
 #    File: Bloat   (Fonts, Domains not required for software to function)
-# Domains: 688
-# Updated: 6/22/2021  22:10 (10:10 PM CST)
+# Domains: 689
+# Updated: 6/27/2021  18:18 (6:18 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -94,6 +94,7 @@ fonts.foxsports.com                                     #Font  Specific
 fonts.intercomcdn.com                                   #Font  Specific
 fonts.iu.edu                                            #Font  Specific
 fonts.jimstatic.com                                     #Font  Specific
+fonts.laterpay.net                                      #Font  Specific
 fonts.motorcar.com                                      #Font  Specific
 fonts.mybet.com                                         #Font  Specific
 fonts.ngeo.com                                          #Font  Specific

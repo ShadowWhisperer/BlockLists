@@ -1,7 +1,7 @@
 #
 #    File: Tracking   (Analytics, Diagnostics, Metrics, Public IP, Location)
-# Domains: 10,710
-# Updated: 6/25/2021  16:50 (4:50 PM CST)
+# Domains: 10,713
+# Updated: 6/27/2021  18:18 (6:18 PM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -738,6 +738,7 @@ analytics.klickly.com
 analytics.kurocore.com
 analyticsladder.com
 analytics.larkplayerapp.com
+analytics.lbry.com
 analytics.linuxbabe.com
 analytics.live.com
 analytics.livehindustan.com
@@ -6343,6 +6344,7 @@ postrelease.com
 potomac-clickstream.capitalone.com
 powderprofit.com
 powerbi.com
+powerchord.com
 powerlinks.com
 ppcprotect.com
 pp.d2-apps.net
@@ -8839,6 +8841,7 @@ std.o.nytimes.com
 steadfastseat.com
 steadfastsound.com
 steadfastsystem.com
+steadycopper.com
 steam-telemetry.homefront-game.com
 steepsquirrel.com
 stepplane.com
