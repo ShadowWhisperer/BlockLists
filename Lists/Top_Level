@@ -1,11 +1,11 @@
 #
 #    File: Top_Level   (Top Level Domains: Will block most non-traditional domains)
-# Domains: 772
-# Updated: 3/2/2021  00:23 (12:23 AM CST)
+# Domains: 771
+# Updated: 6/28/2021  00:41 (12:41 AM CST)
 # Creator: ShadowWhisperer  (Sean H.)
 #
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget --show-progress https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
 
@@ -49,7 +49,7 @@
 #
 
 
-.engeniusrouter   #  After Some Avast Domains
+.engeniusrouter   #  Seen After Some Avast Domains
 
 .abb
 .abbott
@@ -88,7 +88,6 @@
 .bayern
 .beer
 .best
-.bet
 .bible
 .bid
 .bike
@@ -396,7 +395,6 @@
 .play
 .plumbing
 .plus
-.poker
 .press
 .pro
 .productions
@@ -558,12 +556,14 @@
 .zone
 
 
-.exe           Invalid
 .bin           Invalid
+.cmd           Invalid
+.exe           Invalid
 .js            Invalid
 
 .eh            Unassigned
 .fw            Unassigned
+
 .mf            Not Used - Saint Martin (North America)
 
 .aaa           AAA Insurance
