@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 15,510
-# Updated: 12/15/2021  09:05 (9:05 AM CST)
+# Domains: 15,515
+# Updated: 12/15/2021  14:57 (2:57 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -1423,6 +1423,7 @@ adnet.am
 adnet.bg
 adnet.biz
 adnet.bunnyandvolkov.com
+adnet.cash
 adnet.com
 adnet.de
 adnet.lt
@@ -13582,6 +13583,7 @@ spolecznosci.net
 sponsorlink.nl
 sponsormob.com
 sponsorpay.com
+sponsortag.com
 spon.ticketmaster.com
 spoods.de
 spoods.info
@@ -15443,6 +15445,7 @@ zergnet.net
 zeropark.com
 zesdmn.com
 zestcreative.in
+zestymarketing.com
 zetads.com
 zeueg.com
 zeusadx.com
@@ -15482,6 +15485,8 @@ zogleshewi.com
 zonaads.b-cdn.net
 zonaads.com
 zone1.serverhost84.com
+zoommediaconnect.com
+zoomnull.in
 zoomorganic.com
 zopim.com
 zorango.com
