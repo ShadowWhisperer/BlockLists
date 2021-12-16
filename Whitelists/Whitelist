@@ -227,6 +227,7 @@ anonym.to                                       # URL Shortener
 bit.ly                                          # URL Shortener
 ow.ly                                           # URL Shortener
 tinyurl.com                                     # URL Shortener
+trib.al                                         # URL Shortener
 disqus.com                                      # User Comments
 s3.ap-northeast-2.amazonaws.com                 # Various Sites - File Downloads
 s3-eu-west-1.amazonaws.com                      # Various Sites - File Downloads
@@ -287,8 +288,10 @@ update.biv.sony.tv                         # Sony - System Updates
 
 # Breaks Sites
 ########################
-ws-na.amazon-adsystem.com          #Ad - Breaks Images (toysrus.com)
+ws-na.amazon-adsystem.com          #Ad - Breaks Images       (toysrus.com)
 content-fox.uplynk.com             #Ad - Breaks Video Player (fox.com)
+s0.2mdn.net                        #Ad - Breaks Video Player (zdnet.com)
+at.adtech.redventures.io           #Ad - Breaks Video Player (zdnet.com)
 assets-ads.3dtuning.com            #Ad - Blocks Access to Site (3dtuning.com)
 ojrq.net                           #Ad/Tracker - Breaks Sites (Example: https://www.ojrq.net/p/?return=https%3A%2F%2Fgoto.target.com%2Fc%2F56891%2F79373%2F2092%3Fu%3Dhttp%253a%252f%252fwww.target.com%252fgift-registry%252fgiftgiver%253fregistryId%XXX%3D2&cid=2092&tpsync=yes)
 asadcdn.com                        #Ad/Tracker - Breaks Sites (Example: bild.de)
@@ -340,4 +343,3 @@ wss.analyticacdn.com               #Tracker - Breaks Embedded Video Player
 geocode.xyz                        #Tracker - Breaks Zip code lookup (Weather Apps)
 rta.xboxlive.com                   #Tracker - Breaks games that use Xbox Live (Multiplayer)
 kangaroo.vocento.com               #Tracker - Prevents site access -> abc.es
-trib.al                            #URL Shortener / Tracker - Breaks Links
