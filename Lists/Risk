@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 145
-# Updated: 12/7/2021  08:44 (8:44 AM CST)
+# Domains: 146
+# Updated: 12/16/2021  00:44 (12:44 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
@@ -169,6 +169,10 @@ lolz.guru                                     #Hacker Forum
 godaddysites.com                              #Un-Finished sites - Usually malware (Not always)
 
 api.c99.nl                                    #Can be used as a port scanner
+
+
+kms.chinancce.com                             #KMS Activation for Pirated versions of Windows
+
 
 
 
