@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 15,522
-# Updated: 12/16/2021  18:51 (6:51 PM CST)
+# Domains: 15,526
+# Updated: 12/16/2021  20:57 (8:57 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -5458,6 +5458,7 @@ apppl.com
 app-promo.com
 appsamurai.com
 apps.bittorrent.com
+app.scamcatchers.com
 appsdiscover.com
 appsdt.com
 appservestar.com
@@ -8247,6 +8248,7 @@ eximdigital.com
 ex.instanttvchannel.com
 exitbee.com
 exit-exchange.com
+exmarketplace.com
 exoclick.com
 exodsp.com
 exopush.com
@@ -10519,6 +10521,8 @@ millenialmedia.com
 millennialmedia.com
 millimetergroup.com
 millingtonandgeorge.com
+millionsviewapi-elb-1796117858.ap-south-1.elb.amazonaws.com
+millionsview.com
 milotree.com
 mimedialabs.com
 mi-mi-fa.com

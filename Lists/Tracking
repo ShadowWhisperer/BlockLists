@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,892
-# Updated: 12/16/2021  18:51 (6:51 PM CST)
+# Domains: 67,894
+# Updated: 12/16/2021  20:57 (8:57 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -17510,6 +17510,7 @@ event-collection.fevo.com
 eventcollector.azureedge.net
 eventcollector.dditservices.com
 event-collector-etc.appspot.com
+event-collector.moviesanywhere.com
 event.comforth-karoo.eu
 event.csdn.net
 event.entreprises-collectivites.engie.fr
@@ -48411,6 +48412,7 @@ selectivesummer.com
 self.events.data.microsoft.com
 selfishsea.com
 selfishsnake.com
+self-test.sabnzbd.org
 sell.downhomepm.com
 selligent.com
 sellpoint.net
