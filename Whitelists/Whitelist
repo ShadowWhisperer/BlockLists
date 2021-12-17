@@ -19,6 +19,11 @@ spclient.wg.spotify.com                            #Software - Spotify - Audio
 guc3-spclient.spotify.com                          #Software - Spotify - Create Account - Captcha
 live.thunderbird.net                               #Software - Thunderbird - Lookup email settings
 
+prod.mobile.roku.com                               #App - Roku Remote (Video Browser)
+rights-manager.sr.roku.com                         #App - Roku Remote (Videos)
+vod.delivery.roku.com                              #App - Roku Remote (Videos)
+wv.service.expressplay.com                         #App - Roku Remote (Videos)
+
 eulatracking-public-service-prod.ak.epicgames.com  #Game Client - Epic Games (Breaks game downloads)
 proxy.novafusion.ea.com                            #Game Client - Origin (Activate Games)
 
@@ -272,9 +277,10 @@ api2.sr.roku.com                           # App - The Roku Channel
 gapi.waze.com                              # App - Wayze (Search for address)
 mas-ext.amazon.com                         # Amazon - FireStick (App Downloads)
 ftv-smp.ntp-fireos.com                     # Amazon - FireStick (Date & Time)
-liberty.sw.roku.com                        # Roku - System Update Check (Embedded TV)
 austin.sw.roku.com                         # Roku - System Update Check
+bookmarks.sr.roku.com                      # Roku - Bookmarks (Prevents Video Playback)
 bryan.sw.roku.com                          # Roku - System Update Check
+liberty.sw.roku.com                        # Roku - System Update Check (Embedded TV)
 oempprd.samsungcloudsolution.com           # Samsung - App Updates
 oempprd.samsungcloudsolution.net           # Samsung - App Updates
 fota-apis.samsungdm.com                    # Samsung - Firmware Updates (Tablet will no register if blocked)
@@ -288,58 +294,62 @@ update.biv.sony.tv                         # Sony - System Updates
 
 # Breaks Sites
 ########################
-ws-na.amazon-adsystem.com          #Ad - Breaks Images       (toysrus.com)
-content-fox.uplynk.com             #Ad - Breaks Video Player (fox.com)
-s0.2mdn.net                        #Ad - Breaks Video Player (zdnet.com)
-at.adtech.redventures.io           #Ad - Breaks Video Player (zdnet.com)
-assets-ads.3dtuning.com            #Ad - Blocks Access to Site (3dtuning.com)
-ojrq.net                           #Ad/Tracker - Breaks Sites (Example: https://www.ojrq.net/p/?return=https%3A%2F%2Fgoto.target.com%2Fc%2F56891%2F79373%2F2092%3Fu%3Dhttp%253a%252f%252fwww.target.com%252fgift-registry%252fgiftgiver%253fregistryId%XXX%3D2&cid=2092&tpsync=yes)
-asadcdn.com                        #Ad/Tracker - Breaks Sites (Example: bild.de)
-imasdk.googleapis.com              #Ad/Tracker - Breaks Video Players on some sites
-guce.advertising.com               #Ad/Tracker - Prevents 'aol.co.uk' from working
-mkt6385.com                        #Marketing - Breaks Confirmation Emails
-webto.salesforce.com               #Marketing - Can't send support request
-lddy.no                            #Marketing - Breaks Links
-pjtra.com                          #Marketing - Breaks Links
-shareasale.com                     #Marketing - Breaks Links
-t.lt02.net                         #Marketing - Breaks Links
-track.aftership.com                #Shipment Tracker
-geoip-db.com                       #Tracker - Breaks HP Parts Page
-click.instantink.hpsmart.com       #Tracker - Breaks HP Instant Ink emails
-geo.craigslist.org                 #Tracker - Breaks Landing page
-7eer.net                           #Tracker - Breaks Links
-analytics.barnebys.sh              #Tracker - Breaks Links
-anrdoezrs.net                      #Tracker - Breaks Links
-app.e.sigsauer.com                 #Tracker - Breaks Links (Email)
-assoc-redirect.amazon.com          #Tracker - Breaks Links
-avantlink.com                      #Tracker - Breaks Links
-awstrack.me                        #Tracker - Breaks Links
-buff.ly                            #Tracker - Breaks Links
-c2.piano.io                        #Tracker - Breaks Sites (auto-swiat.pl)
-cdn.webclicks24.com                #Tracker - Breaks Links
-cj.dotomi.com                      #Tracker - Breaks Links (Affiliate Links)
-classic.avantlink.com              #Tracker - Breaks Links
-click.dji.com                      #Tracker - Breaks Links
-click.email.newegg.com             #Tracker - Breaks Links
-click.linksynergy.com              #Tracker - Breaks Links
-click.mc.crimsontrace.com          #Tracker - Breaks Links
-dpbolvw.net                        #Tracker - Breaks Links (Affiliate Links)
-emjcd.com                          #Tracker - Breaks Links (Affiliate Links)
-geo1.presslabs.net                 #Tracker - Breaks Sites
-go.redirectingat.com               #Tracker - Breaks Links
-go.skimresources.com               #Tracker - Breaks Links
-jdoqocy.com                        #Tracker - Breaks Links (Affiliate Links)
-kqzyfj.com                         #Tracker - Breaks Links (Affiliate Links)
-links.iterable.com                 #Tracker - Breaks Links
-mandrillapp.com                    #Tracker - Breaks Links
-redirect.viglink.com               #Tracker - Breaks Links
-shareasale-analytics.com           #Tracker - Breaks Links
-target.georiot.com                 #Tracker - Breaks Links
-tracking.truthfinder.com           #Tracker - Breaks Links
-trk.klclick1.com                   #Tracker - Breaks Links (Email)
-trk.klclick3.com                   #Tracker - Breaks Links (Email)
-quantcast.mgr.consensu.org         #Tracker - Breaks Embedded Video Player (Voltax / Minutemedia)
-wss.analyticacdn.com               #Tracker - Breaks Embedded Video Player
-geocode.xyz                        #Tracker - Breaks Zip code lookup (Weather Apps)
-rta.xboxlive.com                   #Tracker - Breaks games that use Xbox Live (Multiplayer)
-kangaroo.vocento.com               #Tracker - Prevents site access -> abc.es
+ws-na.amazon-adsystem.com            #Ad - Breaks Images       (toysrus.com)
+content-fox.uplynk.com               #Ad - Breaks Video Player (fox.com)
+s0.2mdn.net                          #Ad - Breaks Video Player (zdnet.com)
+at.adtech.redventures.io             #Ad - Breaks Video Player (zdnet.com)
+mediatailor.us-east-1.amazonaws.com  #Ad - Break Videos
+mediatailor.us-east-2.amazonaws.com  #Ad - Break Videos
+mediatailor.us-west-1.amazonaws.com  #Ad - Break Videos
+mediatailor.us-west-2.amazonaws.com  #Ad - Break Videos
+assets-ads.3dtuning.com              #Ad - Blocks Access to Site (3dtuning.com)
+ojrq.net                             #Ad/Tracker - Breaks Sites (Example: https://www.ojrq.net/p/?return=https%3A%2F%2Fgoto.target.com%2Fc%2F56891%2F79373%2F2092%3Fu%3Dhttp%253a%252f%252fwww.target.com%252fgift-registry%252fgiftgiver%253fregistryId%XXX%3D2&cid=2092&tpsync=yes)
+asadcdn.com                          #Ad/Tracker - Breaks Sites (Example: bild.de)
+imasdk.googleapis.com                #Ad/Tracker - Breaks Video Players on some sites
+guce.advertising.com                 #Ad/Tracker - Prevents 'aol.co.uk' from working
+mkt6385.com                          #Marketing - Breaks Confirmation Emails
+webto.salesforce.com                 #Marketing - Can't send support request
+lddy.no                              #Marketing - Breaks Links
+pjtra.com                            #Marketing - Breaks Links
+shareasale.com                       #Marketing - Breaks Links
+t.lt02.net                           #Marketing - Breaks Links
+track.aftership.com                  #Shipment Tracker
+geoip-db.com                         #Tracker - Breaks HP Parts Page
+click.instantink.hpsmart.com         #Tracker - Breaks HP Instant Ink emails
+geo.craigslist.org                   #Tracker - Breaks Landing page
+7eer.net                             #Tracker - Breaks Links
+analytics.barnebys.sh                #Tracker - Breaks Links
+anrdoezrs.net                        #Tracker - Breaks Links
+app.e.sigsauer.com                   #Tracker - Breaks Links (Email)
+assoc-redirect.amazon.com            #Tracker - Breaks Links
+avantlink.com                        #Tracker - Breaks Links
+awstrack.me                          #Tracker - Breaks Links
+buff.ly                              #Tracker - Breaks Links
+c2.piano.io                          #Tracker - Breaks Sites (auto-swiat.pl)
+cdn.webclicks24.com                  #Tracker - Breaks Links
+cj.dotomi.com                        #Tracker - Breaks Links (Affiliate Links)
+classic.avantlink.com                #Tracker - Breaks Links
+click.dji.com                        #Tracker - Breaks Links
+click.email.newegg.com               #Tracker - Breaks Links
+click.linksynergy.com                #Tracker - Breaks Links
+click.mc.crimsontrace.com            #Tracker - Breaks Links
+dpbolvw.net                          #Tracker - Breaks Links (Affiliate Links)
+emjcd.com                            #Tracker - Breaks Links (Affiliate Links)
+geo1.presslabs.net                   #Tracker - Breaks Sites
+go.redirectingat.com                 #Tracker - Breaks Links
+go.skimresources.com                 #Tracker - Breaks Links
+jdoqocy.com                          #Tracker - Breaks Links (Affiliate Links)
+kqzyfj.com                           #Tracker - Breaks Links (Affiliate Links)
+links.iterable.com                   #Tracker - Breaks Links
+mandrillapp.com                      #Tracker - Breaks Links
+redirect.viglink.com                 #Tracker - Breaks Links
+shareasale-analytics.com             #Tracker - Breaks Links
+target.georiot.com                   #Tracker - Breaks Links
+tracking.truthfinder.com             #Tracker - Breaks Links
+trk.klclick1.com                     #Tracker - Breaks Links (Email)
+trk.klclick3.com                     #Tracker - Breaks Links (Email)
+quantcast.mgr.consensu.org           #Tracker - Breaks Embedded Video Player (Voltax / Minutemedia)
+wss.analyticacdn.com                 #Tracker - Breaks Embedded Video Player
+geocode.xyz                          #Tracker - Breaks Zip code lookup (Weather Apps)
+rta.xboxlive.com                     #Tracker - Breaks games that use Xbox Live (Multiplayer)
+kangaroo.vocento.com                 #Tracker - Prevents site access -> abc.es
