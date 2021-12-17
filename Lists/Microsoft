@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 487
-# Updated: 12/10/2021  12:15 (12:15 PM CST)
+# Domains: 484
+# Updated: 12/17/2021  09:06 (9:06 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -25,7 +25,6 @@ q-ring.msedge.net                              #App   Office
 s-ring.msedge.net                              #App   Office
 t-ring.msedge.net                              #App   Office
 v4ncsi.msedge.net                              #App   Office
-ecs.office.com                                 #App   Office
 1drv.com                                       #App     OneDrive
 1drv.ms                                        #App     OneDrive
 oneclient.sfx.ms                               #App     OneDrive
@@ -249,8 +248,7 @@ loki.delve.office.com                          # ? Office
 lpcres.delve.office.com                        # ? Office
 lyh-efz.ms-acdc.office.com                     # ? Office
 messaging.office.com                           # ? Office
-mrodevicemgr.officeapps.live.com               # ? Office
-nexusrules.officeapps.live.com                 # ? Office
+
 nleditor.osi.office.net                        # ? Office
 office365.us                                   # ? Office
 officeaka.cloudapp.net                         # ? Office

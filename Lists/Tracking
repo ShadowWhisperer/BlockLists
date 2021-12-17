@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,894
-# Updated: 12/16/2021  20:57 (8:57 PM CST)
+# Domains: 67,895
+# Updated: 12/17/2021  09:06 (9:06 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -38882,6 +38882,7 @@ nextstat.com
 nexttrend.com
 nexus.ensighten.com
 nexus.officeapps.live.com
+nexusrules.officeapps.live.com
 nexus.toyota.com
 nf1nknlw.mateforevents.com
 nfltags.com

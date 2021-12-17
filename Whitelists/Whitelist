@@ -172,6 +172,8 @@ az725175.vo.msecnd.net                            # Microsoft - Office -  Downlo
 office.live.com                                   # Microsoft - Office -  Download
 statics-marketingsites-eus-ms-com.akamaized.net   # Microsoft - Office -  Download (2010)
 statics-marketingsites-wcus-ms-com.akamaized.net  # Microsoft - Office -  Download (2010)
+mrodevicemgr.officeapps.live.com                  # Microsoft - Office -  Download (2021) Error Code 0-2031 (17002)
+ecs.office.com                                    # Microsoft - Office -  Download (2021) Error Code 0-2031 (17002)
 metadata.templates.cdn.office.net                 # Microsoft - Office -  Download Templates
 identity.osi.office.net                           # Microsoft - Office -  Breaks Email Logins (Chrome)
 statics-uhf-wus.akamaized.net                     # Microsoft - Support Pages
