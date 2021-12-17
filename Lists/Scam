@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,712
-# Updated: 12/16/2021  15:48 (3:48 PM CST)
+# Domains: 12,714
+# Updated: 12/16/2021  18:51 (6:51 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -9244,6 +9244,7 @@ printererrorsupport.com
 printerfaq.com
 printerfixes.com
 printerfixup.com
+printerhelp.live
 printer-help-me.com
 printerhpdriver.com
 printerhubuk.co.uk
@@ -9714,6 +9715,7 @@ rblx.city
 rblx.land
 rb-shihtzupuppies.com
 rbtech.co
+rbxalts.com
 rbxboost.org
 rbx.fun
 rbxgifts.me
