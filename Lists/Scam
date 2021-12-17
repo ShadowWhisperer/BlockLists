@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,716
-# Updated: 12/16/2021  20:57 (8:57 PM CST)
+# Domains: 12,717
+# Updated: 12/17/2021  15:44 (3:44 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -3732,6 +3732,7 @@ ehelplinenumber.com
 eikohomeraisedakita.com
 einfachelosung.com
 einfach-ficken.com
+einstapp.com
 eintragfuehrerschein.com
 ejgiftcards.com
 ekamspitbullshome.com

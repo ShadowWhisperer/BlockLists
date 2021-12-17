@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,895
-# Updated: 12/17/2021  09:06 (9:06 AM CST)
+# Domains: 67,896
+# Updated: 12/17/2021  15:44 (3:44 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -60853,6 +60853,7 @@ tms.capitalone.com
 tms.delta.com
 tms.dmp.wi-fi.ru
 tms.fmm.io
+tms-global.intel.com
 tms.udtrucks.com
 tm.uol.com.br
 tmwl.kyodoprinting.co.jp
