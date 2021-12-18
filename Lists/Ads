@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 15,533
-# Updated: 12/17/2021  18:08 (6:08 PM CST)
+# Domains: 15,534
+# Updated: 12/17/2021  23:56 (11:56 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -15015,6 +15015,7 @@ widget.rollick.io
 widgets.ap1.500apps.com
 widgets.business.com
 widgets.carsaver.com
+widget.sellwild.com
 widget.sender.mobi
 widget.sezzle.com
 widgets.getpocket.com
