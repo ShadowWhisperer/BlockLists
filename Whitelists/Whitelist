@@ -274,7 +274,8 @@ uapi.adrise.tv                             # App - Tubi
 s.adrise.tv                                # App - Tubi (Subtitles)
 license.adrise.tv                          # App - Tubi (Digital Rights Management Error, if blocked)
 account.production-public.tubi.io          # App - Tubi (Breaks - Guest Sign In)
-cdn.adrise.tv                              # App - Tubi (Breaks - Disable AdBlock Message)
+cdn.adrise.tv                              # App - Tubi (AdBlock Message)
+canvas.tubitv.com                          # App - Tubi (Movie Covers)
 api2.sr.roku.com                           # App - The Roku Channel
 gapi.waze.com                              # App - Wayze (Search for address)
 mas-ext.amazon.com                         # Amazon - FireStick (App Downloads)
