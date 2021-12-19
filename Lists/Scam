@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,735
-# Updated: 12/18/2021  22:36 (10:36 PM CST)
+# Domains: 12,737
+# Updated: 12/19/2021  13:21 (1:21 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -218,6 +218,7 @@
 50calgiveaway.com
 50rencontre.com
 548support.com.au
+556store.com
 5starsbillslaboratory.com
 7mpharma.com
 7rencontres.com
@@ -238,6 +239,7 @@ aabusinesstrust.com
 aadvocatecloudsupport.com
 aalpharmaceuticals.com
 aarenclaudetta.ru
+aavartanaagroup.com
 abaddontee.com
 abbeclarinda.ru
 abcflirt.com
