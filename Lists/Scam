@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,899
-# Updated: 12/19/2021  16:26 (4:26 PM CST)
+# Domains: 12,901
+# Updated: 12/20/2021  08:41 (8:41 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -10,6 +10,8 @@
 #    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+onegift.site
+softnatro.com
 000relationships.com
 007cryptooption.com
 007-dvd.com

@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 363
-# Updated: 12/14/2021  20:25 (8:25 PM CST)
+# Domains: 364
+# Updated: 12/20/2021  08:41 (8:41 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
@@ -372,4 +372,5 @@ widget-launcher.imbox.io
 yellow.ai
 yellowmessenger.com
 zammo.ai
+zopim.im
 zyrachat.com
