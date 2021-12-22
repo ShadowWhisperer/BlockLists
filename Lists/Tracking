@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,948
-# Updated: 12/22/2021  13:14 (1:14 PM CST)
+# Domains: 67,949
+# Updated: 12/22/2021  15:05 (3:05 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -15722,6 +15722,7 @@ cv.xn--zbs202g.com
 cv.zephylrin-w.com
 cv.zephylrin-x.net
 cw.addthis.com
+cwbkg04.na1.hubspotlinks.com
 cwm-01.umassmed.edu
 cwm.umassmed.edu
 cws-hulu.conviva.com
