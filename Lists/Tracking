@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,947
-# Updated: 12/22/2021  12:57 (12:57 PM CST)
+# Domains: 67,948
+# Updated: 12/22/2021  13:14 (1:14 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -57942,6 +57942,7 @@ stats.sion-bu.com
 stats.sippy.cloud
 stats.sirbauerphotography.de
 stats.siriusag.com
+stats.sirv.com
 stats.sitcac.de
 stats.sitefaitbienfait.fr
 stats.siteperf.net
