@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 364
-# Updated: 12/20/2021  08:41 (8:41 AM CST)
+# Domains: 365
+# Updated: 12/23/2021  10:43 (10:43 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
@@ -23,6 +23,7 @@ ada.support
 aihelp.net
 aihelp.net.qiniudns.com
 alamy-livechat.secure.force.com
+answerny.ai
 apexchat.com
 apex.live
 api.artibot.ai

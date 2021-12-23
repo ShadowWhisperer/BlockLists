@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,956
-# Updated: 12/22/2021  22:51 (10:51 PM CST)
+# Domains: 67,977
+# Updated: 12/23/2021  10:43 (10:43 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12089,6 +12089,7 @@ app.tv
 apptv.com
 appvizer.one
 app.williamsburgwindows.com
+appx.sanook.com
 appzi.io
 apruvd.com
 apruvd-website-media.s3.amazonaws.com
@@ -12312,6 +12313,7 @@ atrakr10.com
 atrakrlq2.com
 atrakrlq3.com
 a.trcked.nl
+a.trstplse.com
 atsfi.de
 ats.rlcdn.com
 attend.sjsu.edu
@@ -16020,6 +16022,7 @@ dc.definedcrowd.com
 d.cdngeek.com
 dcmn.com
 dc.plussizetech.com
+dc.sanook.com
 dcs.audi.com
 dc.services.visualstudio.com
 dcs.esprit.be
@@ -17088,7 +17091,9 @@ eloqua-trackings.unity3d.com
 eloqua-trackings.unity.com
 e.lordandtaylor.com
 elq.blackrock.com
+elq.keysight.com
 elq.sonicwall.com
+elqtracking.capella.edu
 elqtrk.intel.cn
 elqtrk.intel.co.il
 elqtrk.intel.co.jp
@@ -17106,6 +17111,7 @@ elqtrk.intel.in
 elqtrk.intel.it
 elqtrk.intel.la
 elqtrk.intel.pl
+elqtrk.morningstar.ca
 elqtrk.morningstar.com
 elqtrk.rsmus.com
 elsevier.com
@@ -17328,6 +17334,7 @@ engage.themxgroup.com
 engage.unfoldingword.org
 engage.unify.com
 engage.uniguest.com
+engage.uq.edu.au
 engage.valley.com
 engage.vantagecircle.com
 engage.videopoker.com
@@ -33475,6 +33482,7 @@ info.oneagleswings.com
 info.onecarlton.com
 info.onelegal.com
 info.onelocal.com
+info.onemedical.com
 info.oneriveram.com
 info.one-team.com
 info.one-u.jp
@@ -34884,6 +34892,7 @@ ip-geo.appspot.com
 ipgeobase.ru
 ipgeolocation.io
 ip-geo-lookup.ec.pegs.com
+ip-geo.vercel.app
 ipgrabber.ru
 ipgraber.ru
 iphonediags.apple.com
@@ -34973,6 +34982,7 @@ isacorp.com
 isadatalab.com
 isentia.com
 i.seznam.cz
+isgstat.sanook.com
 isis.aegonbank.nl
 isis.spaarbeleg.nl
 islay.tech
@@ -37684,6 +37694,7 @@ measurementlab.net
 measure.mf.cz
 measure.office.com
 measure.office.net
+meat.midanmarketing.com
 meatydime.com
 medeanalytics.com
 medfx.com
@@ -38584,6 +38595,7 @@ my.movex.co.uk
 myndyou.com
 my.npace.org
 my.odysseybattery.com
+my.orhp.com
 my.parisi.com.au
 my.prahs.com
 my.proteusleadership.com
@@ -39843,6 +39855,7 @@ p39-fmfmobile.icloud.com.cn
 p39-fmip.icloud.com
 p39-fmip.icloud.com.cn
 p39-fmipmobile.icloud.com
+p3.isanook.com
 p3.p2.danskebank.dk
 p40-fmf.icloud.com
 p40-fmf.icloud.com.cn
@@ -40092,6 +40105,7 @@ pages.braenstone.com
 pages.braensupply.com
 pages.bsigroup.com
 pages.camstar.com
+pages.canon.com.au
 pages.christinemcqueen.com.au
 pages.cloudkettle.com
 pages.cloud.vmware.com
@@ -40733,6 +40747,7 @@ partnerstack.com
 partners.team-cymru.com
 partners.the-atlas.com
 partners.tintri.com
+partnersuccessmetrics.cisco.com
 partner.sungagefinancial.com
 partners.zingitsolutions.com
 partplanes.com
@@ -46655,6 +46670,7 @@ publishers-on.com
 pubocean.com
 pubperf.com
 pub.sensysnetworks.com
+pubstr.acs.org
 pubtech.ai
 pubtrack.co
 pub.vendasta.com
@@ -47811,6 +47827,7 @@ saleswingsapp.com
 sales.yourwaybenefits.com
 sales.yourwayhra.com
 salford-systems.com
+sal.isanook.com
 salmon.cedricreeves.com
 salmon.homehubelectrical.com.au
 salmon.literallife.church
@@ -60209,6 +60226,7 @@ swasc.kaufland.ro
 swasc.kaufland.sk
 swa.snsbank.nl
 swa.spring-gds.com
+swa.st.com
 swa.tjmaxx.tjx.com
 swa.t-mobile.nl
 swa.upc.cz
@@ -60848,6 +60866,7 @@ tiglon.davidroessli.com
 tiglon.orisdental.no
 tiglon.thecasting-recruiters.com
 tikcetmaster.website
+tiknow.me
 tilanalytics.timesinternet.in
 tile.commercialtrucktrader.com
 tile.cycletrader.com
@@ -62345,6 +62364,7 @@ variantverdict.com
 varstadt.com
 vas.vintage-ip.com
 vbtrax.com
+vc.bhhvh.com
 v-collector.dp.aws.charter.com
 v-count.com
 vcu8trk.com
@@ -62780,6 +62800,7 @@ web.bell.co.uk
 web.brighttalk.com
 web.cachefly.com
 web-call-analytics.com
+web.care.eehealth.org
 webcdn.cox.com
 web.chtbl.com
 webclicks24.com

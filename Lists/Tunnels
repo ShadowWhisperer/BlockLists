@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 442
-# Updated: 12/10/2021  21:05 (9:05 PM CST)
+# Domains: 443
+# Updated: 12/23/2021  10:43 (10:43 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
@@ -132,6 +132,7 @@ getusvpn.com
 get-vuze-vpn.com
 gfwvpn.com
 global-proxy.com
+graef.in
 greenproxy.net
 guardster.com
 gvirabi.com
