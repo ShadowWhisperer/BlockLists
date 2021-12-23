@@ -1,38 +1,31 @@
-| List            | Description                                                             |
-|-----------------|-------------------------------------------------------------------------|
-| Ads             | Advertisements, Banners, Widgets & Push Notifications                   |
-| Adult           | Porn / 18+ Content                                                      |
-| Apple           | Bloat                                                                   |
-| Bloat           | Fonts, Surveys. Domains not required for software to function           |
-| Chat            | Chat Dialog Popups, and icons                                           |
-| Cryptocurrency  | Bitcoin, Ethereum, Mining, etc. (Not malware, but could be used by it)  |
-| Dating          | Dating Sites                                                            |
-| Dynamic         | Dynamic DNS:  DNS --> IP                                                |
-| Free            | Free/Cheap Hosting, Free Blogs                                          |
-| Junk            | Personally untrusted Antivirus, Browser Extensions, Search Engines, etc |
-| Malware         | Malicious sites, PUPs, Malware, Browser Hijackers, Phishing Sites       |
-| Marketing       | Marketing sites, Ebay Listing Tools, etc                                |
-| Marketing-Email | Email Based Marketing                                                   |
-| Microsoft       | Apps, Bing, Bloat, Tiles, etc                                           |
-| Remote          | Domains used for remote sessions (Controls your computer / devices)     |
-| Risk            | Bad ISP/Bots/Spam, Keyloggers, Sites used by compromised devices        |
-| Scam            | Fake freight, gift cards, support, pet sales, firearms, news, etc       |
-| Shock           | Gore, Gross, and Torture sites                                          |
-| Top_Level       | Top Level Domains. Sorted by Continent, then by country                 |
-| Tracking        | Analytics, Diagnostics, Location, Metrics, Public IP                    |
-| Tunnels         | VPNs & Proxies                                                          |
-| Typo            | Misspelling of websites / Typosquatting                                 |
-| URL Shortener   | URL Shorteners. Can be used to mask malicious domains                   |
+    Ads              Advertisements, Banners, Widgets & Push Notifications  
+    Adult            Porn / 18+ Content  
+    Apple            Bloat  
+    Bloat            Fonts, Surveys, Domains not required for software to function  
+    Chat             Chat Dialog Popups  
+    Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not malware, but could be used by it)  
+    Dating           Dating Sites  
+    Dynamic          Dynamic DNS:  DNS --> IP  
+    Free             Free/Cheap Hosting, Free Blogs  
+    Junk             Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc  
+    Malware          Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites  
+    Marketing        Marketing, Ebay Listing Tools, etc  
+    Marketing-Email  Email Based Marketing  
+    Microsoft        Apps, Bing, Bloat, Tiles, etc  
+    Remote           Domains used for remote sessions  
+    Risk             Bad ISP/Bots/Spam, Keyloggers, Sites used by compromised devices
+    Scam             Fake freight, gift cards, products, support, pet sales, firearms, news, etc    
+    Shock            Gore, Gross, and Torture sites
+    Top_Level        Top Level Domains. Sorted by Continent, then by country
+    Tracking         Analytics, Diagnostics, Location, Metrics, Public IP  
+    Tunnels          VPNs & Proxies  
+    Typo             Misspelling of websites / Typosquatting  
+    URL Shortener    URL Shorteners. Can be used to mask malicious domains
+      
+    Filter           Used by my parse script to show me what has not been blocked
+    Whitelist        Reasons for some allowed domains  
+  
 
-<br />  
-
-| Allowed         | Description                                                             |
-|-----------------|-------------------------------------------------------------------------|
-| Filter          | Used by my parse script to show me what has not been blocked            |
-| Whitelist       | Reasons for some allowed domains                                        |
-
-<br />  
-    
 This repo was created: 2/14/2020.  https://api.github.com/repos/ShadowWhisperer/BlockLists  
 The repo is compressed occasionally, to reduce the overall size. Logs, diff, etc. do not stay with the repo because of this.  
   
