@@ -41,6 +41,8 @@ If you find sites that do not resolve an IP, it's probably a wildcard block. If 
   
 _www<span></span>._ _mobile._ _m._ prefixes are removed. They are added in the script below. This keeps the lists shorter.  
   
+<br /> 
+  
 **Create Block List (Bash)**
 
     while read -r D || [[ -n "$D" ]]; do echo "0.0.0.0 $D www.$D mobile.$D m.$D" >> OUT; done < LIST  
