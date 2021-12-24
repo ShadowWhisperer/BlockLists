@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 67,714
-# Updated: 12/23/2021  21:08 (9:08 PM CST)
+# Domains: 67,762
+# Updated: 12/24/2021  01:47 (1:47 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -3448,6 +3448,7 @@ analytics.arnsmedia.nl
 analytics.ar.peachylips.com
 analytics.arrel.cloud
 analytics.arri.com
+analytics.arrivalguides.com
 analytics.arroma.net
 analytics.arsnova.cc
 analytics.artdistorsionsnumeriques.com
@@ -5691,6 +5692,7 @@ analytics.fernumzug.com
 analytics.fertiggaragen.net
 analytics.fervor.social
 analytics.fes.gr
+analytics.festivalism.com
 analytics.festivoteapp.com
 analytics.fetzwerk.net
 analytics.feuerwehr-arbon.ch
@@ -7947,6 +7949,7 @@ analytics.mediacom87.net
 analytics.mediacrowd.de
 analytics.media-entertain.de
 analytics.mediaformat.de
+analytics.media-hannover.de
 analytics.mediainres.de
 analytics.mediakular.com
 analytics.medianet24.com
@@ -8051,6 +8054,7 @@ analytics.miamiwebservice.com
 analytics.micefootprints.net
 analytics.michaelbrohl.de
 analytics.michael-chorknaben.de
+analytics.michael-hess.com
 analytics.michael-wutzke.com
 analytics.michael-wutzke.de
 analytics.micheljessat.de
@@ -8837,6 +8841,7 @@ analytics.parkinnovaare.ch
 analytics.park-terrace.net
 analytics.parkwebdesign.co.uk
 analytics.parscoders.com
+analytics.parsonbrown.page
 analytics.partcommunity.com
 analytics.partei-goe.de
 analytics.participation.tools
@@ -9094,6 +9099,7 @@ analytics.poul.org
 analytics.powerslide.io
 analytics.poype.io
 analytics.ppa.group
+analytics.pphim.org
 analytics.pqe.io
 analytics.prachel.fr
 analytics.practical.solutions
@@ -9918,6 +9924,7 @@ analytics.showfe.net
 analytics.showoff.asp.events
 analytics.showyourarts.com
 analytics.shroony.de
+analytics.shropshirebouldering.co.uk
 analytics.shtv.de
 analytics.si21.com
 analytics.si5m.me
@@ -12042,6 +12049,7 @@ ap.tc-forum.co.jp
 aptrinsic.com
 apts.ettoday.net
 apttrk.com
+ap.ubiquitous-ai.com
 a.pub.network
 apxadtracking.net
 apxlv.com
@@ -14536,6 +14544,7 @@ comms.isflive.org
 comms.kf.org
 comms.lumera.com.au
 comms.nttdata.com
+comms.opencolleges.edu.au
 comms.pedestalfanswarehouse.com.au
 comms.prathamusa.org
 comms.pureventilation.com.au
@@ -14799,6 +14808,7 @@ contacto.tipmexico.com
 contact.payprocorp.com
 contactpigeon.com
 contact.project.nikkeibp.co.jp
+contact.rev.ai
 contact.riseinteractive.com
 contact.rsisecurity.com
 contact.sakura-is.co.jp
@@ -14808,6 +14818,7 @@ contact.sensormatic.com
 contact.sensormaticsolutions.com
 contact.s-lecfilm.com
 contact.tainavi-battery.com
+contact.tainavi-biz.com
 contact.tainavi.com
 contact.tainavi-next.com
 contact.tainavi-pp.com
@@ -17466,6 +17477,7 @@ event.havasedge.com
 event-hce-eu.fujifilm.com
 event.hillwood.com
 event.hkairport.com
+event.huesker.com
 eventi.bureauveritas.it
 event.idemia.com
 event.imagicle.com
@@ -18418,6 +18430,7 @@ gbxgateway.dell.com
 gb.zettle.com
 gcacs.lg.com
 g.cambridge-research.jp
+gcc.ansr.com
 gc.corporategiftcards.nordstrom.com
 gc.gibbscam.com
 gc.newsweek.com
@@ -23480,6 +23493,7 @@ go.hexagongeospatial.com
 go.hexagonmi.com
 go.hexagonsi.com
 go.hexatel.fr
+go.heylrealestate.com
 go.hfhmgc.com
 go.hfhmgc.org
 go.hflleadership.com.au
@@ -24132,6 +24146,7 @@ go.iq.media
 go.iqmediacorp.com
 go.iqoffice.ca
 go.irabina.com
+go.irbbarcelona.org
 go.iresponze.com
 go.irifune-po.com
 go.irio.com
@@ -24189,6 +24204,7 @@ go.itnetworks.softing.com
 go.it-novum.com
 go.itochu-systech.co.jp
 go.ito-kaik.com
+go.itomic.jp
 go.itpro.tv
 go.it-rekrytointi.fi
 go.itron.com
@@ -24411,6 +24427,7 @@ go.kc-factory.co.jp
 go.kclimo.com
 go.kcmcanada.ca
 go.kcme.jp
+go.kcsj.komatsu
 go.kcura.com
 go.kdcapital.com
 go.kdgi.com
@@ -25137,6 +25154,7 @@ go.marketing.graviebenefits.com
 go.marketing.hcibulletin.com
 go.marketing.healthforall.ch
 go.marketing.hitachi-systems-security.com
+go.marketing.ibisworld.com
 go.marketing.inovalis.com
 go.marketing.kflex.com
 go.marketing.kx.com
@@ -25321,6 +25339,7 @@ go.meet-in.jp
 go.meetmagic.org
 go.mega-hatsu.com
 go.megatrax.com
+go.megazone.com
 go.megroup-2.jp
 go.megroup-5.jp
 go.meijers.nl
@@ -26151,9 +26170,11 @@ go.nzb.co.nz
 go.nzbeautyschool.co.nz
 go.nzbstandardbred.co.nz
 go.nzfoodnetwork.org.nz
+go.nzse.ac.nz
 go.nzytech.com
 go.o2ebrands.com
 go.oacas.org
+go.oak.com
 go.oaklins.de
 go.oaktreecapital.com
 gooanalytics.com
@@ -26370,6 +26391,7 @@ go.orghive.com
 go.orghivemarketing.com
 go.origamirisk.com
 go.origininvestments.com
+go.orioneci.com
 go.orion-novotus.com
 go.orionpackaging.com
 go.oriontalent.com
@@ -26396,6 +26418,7 @@ go.ossur.com
 go.ossur.com.br
 go.otf.co.jp
 go.oticonmedical.com
+go.otolift.it
 go.otometrics.com
 go.ottawa.edu
 go.ottawaemploymenthub.ca
@@ -26527,6 +26550,7 @@ go.parkurda.com
 go.parmetech.com
 go.parsec-corp.com
 go.parsonsdance.org
+go.partena-professional.be
 go.participantcapital.com
 go.particular.net
 go.particulate.de
@@ -27162,6 +27186,7 @@ go.r-ac.jp
 go.rackandmaintenance.com
 go.rackhouseroundtable.com
 go.racktopsystems.com
+go.racs.org.au
 go.radfordracingschool.com
 go.radialspark.com
 go.radice-corp.jp
@@ -27343,6 +27368,7 @@ go.reorg.com
 go.reorg-research.com
 go.repairpal-shops.com
 go.repairpalshops.com
+go.replicated.com
 go.repligen.com
 go.reportss.net
 go.res-americas.com
@@ -27830,6 +27856,7 @@ go.sellular.com
 go.sendgrid.kke.co.jp
 go.sendouts.com
 go.sendtonews.com
+go.senestech.com
 go.senetas.com
 go.senetco.com
 go.seniorcarecounsel.com
@@ -28189,6 +28216,7 @@ go.solairus.aero
 go.solar.eu
 go.solarmacher.ch
 go.solarunitedneighbors.org
+go.sol-dyn.com
 go.solectrac.com
 go.solidifi.com
 go.solidify.com
@@ -28238,6 +28266,7 @@ go.sosxtremecomfort.com
 go.sothebysinstitute.com
 go.sotysolar.es
 go.soudal.com.au
+go.soundhound.com
 go.soundingboardinc.com
 go.sourceday.com
 go.source-elements.com
@@ -28912,6 +28941,7 @@ go.thebiggive.org.uk
 go.thebigknow.com
 go.thebiostation.com
 go.theblueground.com
+go.thebreastfeedingshop.com
 go.thecads.com
 go.thecads.org
 go.thecaq.org
@@ -32047,6 +32077,7 @@ info.dealerrater.com
 info.dealertire.com
 info.defteam.net
 info.delawarefunds.com
+info.delawareinvestments.com
 info.delivery.rakuten.net
 info.deloitte.dk
 info.delta-assurances.fr
@@ -32086,6 +32117,7 @@ info.digital-marketing.jp
 info.digitalpacific.com.au
 info.digobrands.com
 info.dilitrust.com
+info.disabilitydenials.com
 info.discoverychannel.jp
 info.discoverygarden.ca
 info.discoveryjapan.jp
@@ -32104,6 +32136,7 @@ info.doggettresidentialfoundations.com
 info.dojindo.co.jp
 info.domtarblueline.com
 info.domtar.com
+info.dooly.ai
 info.dorehal.jp
 info.dorrancepublishing.com
 info.dotcomdist.com
@@ -32126,6 +32159,7 @@ info.dunham.com
 info.dur-a-flex.com
 info.dvinci.de
 info.dxglobal.com
+info.dxpe.com
 info.dynamiccap.com
 info.dynamicratings.com
 info.e4-services.com
@@ -32831,6 +32865,7 @@ info.kearnypoint.com
 info.kensei-group.jp
 info.kensington.com
 info.keralit.nl
+info.kesco.co.jp
 info.keymarkinc.com
 info.keystone-ats.ch
 info.keystone-sda.ch
@@ -32888,6 +32923,7 @@ info.kyriba.jp
 info.kyriba.uk
 info.kyushu.toyotahome.co.jp
 info.l2inc.com
+info.l3advance.com
 info.labconnectllc.com
 info.labeloutlet.com
 info.lablogistics.com
@@ -34736,6 +34772,7 @@ ipapi.com
 ip-api.io
 ipapi.tmbi.com
 ip.apps.cntv.cn
+ipcalf.com
 ip.cctv.pk
 ipcheck.blogsys.jp
 ipcheck.ydesigngroup.com
@@ -35185,6 +35222,7 @@ knottysticks.com
 know.almo.com
 know.axonify.com
 knowclick.com
+knowledge.equippayroll.com
 knowledge.nexusgroup.com
 knowledge.primepoint.com
 knowledgestorm.com
@@ -41313,6 +41351,7 @@ piwik.apparaitre.fr
 piwik.app.clemson.edu
 piwik.app.jyu.fi
 piwik.applemooz.net
+piwik.apprime.de
 piwik.app.soundmouse.com
 piwik.aqua-lyros.de
 piwik.aqua-med.eu
@@ -46745,6 +46784,7 @@ raygun.io
 rbtracker.bitc.org.uk
 rbwsnnnzl.hellogoodbye.app
 rcallr.com
+rcatk.site-drivers.com
 rc.ec.rakuten.net
 rc.rlcdn.com
 rcsmetrics.it
@@ -52240,6 +52280,7 @@ stat.saatolaitelipponen.fi
 stats.ab6x.net
 stats.ab9cd.ch
 stats.abbeyhillrally.co.uk
+stats.abenteuer-tauchen.net
 stats.abenthung.it
 stats.abersowas.de
 stats.abilian.com
@@ -53699,6 +53740,7 @@ stats.davidak.de
 stats.davidbetschart.ch
 stats.davidgetchel.com
 stats.david-hemmerle.de
+stats.davidnwaege.com
 stats.daxslab.com
 stats.dazzit.com
 stats.db8.nl
@@ -54133,6 +54175,7 @@ stats.enet.consulting
 stats.enetworks.com
 stats.enigmaconsulting.nl
 stats.enip.eu
+stats.enjunear.com
 stats.enm-toulouse.fr
 stat.sennerei-andelsbuch.at
 stats.enr-citoyennes.fr
@@ -56126,6 +56169,7 @@ stats.marktpuls.ch
 stats.markus-saletz.at
 stats.markuszipfel.de
 stats.marlowes.de
+stats.marnixenthoven.nl
 stats.marschfuerslaebe.ch
 stats.marscollective.co
 stats.martianoids.com
@@ -56822,6 +56866,7 @@ stats.openolitor.org
 stats.openparliament.tv
 stats.opensolus.net
 stats.opensolutions.ie
+stats.opensourcecreative.org
 stats.openstreetmap.bzh
 stats.openstreetmap.fr
 stats.opentransportdata.swiss
@@ -57380,6 +57425,7 @@ stats.reqcdn.com
 stats.rescue-digital.de
 stats.reseau-prehistoire.bzh
 stats.resiliency.fr
+stats.resilientlab.fr
 stats.resilienz-kongress.de
 stats.resko-gmbh.de
 stats.respondi.com
@@ -58456,6 +58502,7 @@ stat.su
 stats.ubivox.com
 stat.subnetmask.it
 stats.ub.unibe.ch
+stats.uczelnie.net
 stats.uf-interiors.com
 stats.ugeweb.com
 stats.uid.pt
@@ -62149,6 +62196,7 @@ venusgloria.com
 vercel-analytics.com
 vercel-insights.com
 verdantanswer.com
+verdant.emerson.com
 verification-va.byteoversea.com
 verifyclicksolutions.com
 verifyvegetable.com
