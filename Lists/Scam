@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,053
-# Updated: 12/24/2021  01:47 (1:47 AM CST)
+# Domains: 13,054
+# Updated: 12/24/2021  11:14 (11:14 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -7566,6 +7566,7 @@ mcafee-activation.com
 mcafeecontactnumber.uk
 mcafeehelpnumber.com
 mcafeesupportcanada.ca
+mcafeetollfreenumber.com
 mcargoint.com
 mcaustralianshepherds4sale.com
 mcbordercolliesforsale.com
