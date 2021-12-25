@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 67,804
-# Updated: 12/24/2021  11:14 (11:14 AM CST)
+# Updated: 12/24/2021  23:22 (11:22 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -6924,6 +6924,7 @@ analytics.ivaya.de
 analytics.ivideocloud.cn
 analytics.ivpnetworks.de
 analytics.ivu-umwelt.de
+analytics.ivycollection.co.uk
 analytics.ivymaker.com
 analytics.ivymayhem.io
 analytics.ixconsult.ch
@@ -13995,7 +13996,6 @@ ciradar.com
 circlelevel.com
 circle-research.com
 circleup.com
-circularhub.com
 circulate.com
 cirrusinsight.com
 c.isec7.com
