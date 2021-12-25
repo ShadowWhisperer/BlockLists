@@ -1,8 +1,8 @@
 #
 #    File: Marketing
 #    Info: Web Marketing / Ebay Listing Tools
-# Domains: 336
-# Updated: 12/24/2021  11:14 (11:14 AM CST)
+# Domains: 337
+# Updated: 12/25/2021  02:36 (2:36 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing
@@ -206,6 +206,7 @@ marketingcloudapis.com             #SalesForce
 marketingcloud.com                 #SalesForce
 mobify.net                         #SalesForce
 my-lightning.com                   #SalesForce
+pardot.com                         #SalesForce
 relateiq.com                       #SalesForce
 salesforce.com                     #SalesForce
 salesforceiq.com                   #SalesForce
