@@ -1,39 +1,40 @@
-my-win.avast.com                                   #Antivirus -   AVG (Activate Free Version)
-ping.avast.com                                     #Antivirus -   AVG (Install Freezes)
-s-nuistatic.avcdn.net                              #Antivirus -   AVG (Website Login)
-ff.kis.scr.kaspersky-labs.com                      #Antivirus - Kaspersky - Scans Webpages (FireFox)
-gc.kis.scr.kaspersky-labs.com                      #Antivirus - Kaspersky - Scans Webpages (Google Chrome)
-ie.kis.scr.kaspersky-labs.com                      #Antivirus - Kaspersky - Scans Webpages (Internet Explorer)
-updatekeepalive.mcafee.com                         #Antivirus -   McAfee - Installer (Internet Connection Test)
-analytics-login.norton.com                         #Antivirus - Norton (Won't Login)
-shasta-rrs.symantec.com                            #Antivirus - Norton (Won't Scan)
+my-win.avast.com                                    #Antivirus -   AVG (Activate Free Version)
+ping.avast.com                                      #Antivirus -   AVG (Install Freezes)
+s-nuistatic.avcdn.net                               #Antivirus -   AVG (Website Login)
+ff.kis.scr.kaspersky-labs.com                       #Antivirus - Kaspersky - Scans Webpages (FireFox)
+gc.kis.scr.kaspersky-labs.com                       #Antivirus - Kaspersky - Scans Webpages (Google Chrome)
+ie.kis.scr.kaspersky-labs.com                       #Antivirus - Kaspersky - Scans Webpages (Internet Explorer)
+updatekeepalive.mcafee.com                          #Antivirus -   McAfee - Installer (Internet Connection Test)
+analytics-login.norton.com                          #Antivirus - Norton (Won't Login)
+shasta-rrs.symantec.com                             #Antivirus - Norton (Won't Scan)
 
-adwcleaner.toolslib.net                            #Software - Adwcleaner
-cache-cms-ext-us.battle.net                        #Software - Battle.net (What's New)
-sugarsync.com                                      #Software - Cloud Storage
-geolocation.garmin.com                             #Software - Garmin Express (Check for map updates)
-mirrors.kodi.tv                                    #Software - Kodi
-blocklist.addons.mozilla.org                       #Software - Firefox - Addons
-net.geo.opera.com                                  #Software - Opera (Prevents download)
-spclient.wg.spotify.com                            #Software - Spotify - Audio
-guc3-spclient.spotify.com                          #Software - Spotify - Create Account - Captcha
-live.thunderbird.net                               #Software - Thunderbird - Lookup email settings
+adwcleaner.toolslib.net                             #Software - Adwcleaner
+cache-cms-ext-us.battle.net                         #Software - Battle.net (What's New)
+sugarsync.com                                       #Software - Cloud Storage
+geolocation.garmin.com                              #Software - Garmin Express (Check for map updates)
+mirrors.kodi.tv                                     #Software - Kodi
+blocklist.addons.mozilla.org                        #Software - Firefox - Addons
+net.geo.opera.com                                   #Software - Opera (Prevents download)
+spclient.wg.spotify.com                             #Software - Spotify - Audio
+guc3-spclient.spotify.com                           #Software - Spotify - Create Account - Captcha
+live.thunderbird.net                                #Software - Thunderbird - Lookup email settings
 
-prod.mobile.roku.com                               #App - Roku Remote (Video Browser)
-rights-manager.sr.roku.com                         #App - Roku Remote (Videos)
-vod.delivery.roku.com                              #App - Roku Remote (Videos)
-wv.service.expressplay.com                         #App - Roku Remote (Videos)
+prod.mobile.roku.com                                #App - Roku Remote (Video Browser)
+rights-manager.sr.roku.com                          #App - Roku Remote (Videos)
+vod.delivery.roku.com                               #App - Roku Remote (Videos)
+wv.service.expressplay.com                          #App - Roku Remote (Videos)
 
-eulatracking-public-service-prod.ak.epicgames.com  #Game Client - Epic Games (Breaks game downloads)
-proxy.novafusion.ea.com                            #Game Client - Origin (Activate Games)
+eulatracking-public-service-prod.ak.epicgames.com   #Game Client - Epic Games (Breaks game downloads)
+eulatracking-public-service-prod06.ol.epicgames.com #Game Client - Epic Games (Breaks game downloads)
+proxy.novafusion.ea.com                             #Game Client - Origin (Activate Games)
 
-country-code.pubg-ns-gate.com                      #Game - PUPG: New State (Check for updates)
-maintenance-gate.pubg-ns-gate.com                  #Game - PUPG: New State (Check for updates)
-cdn.enter-pubg-new-state.com                       #Game - PUPG: New State (Check for updates)
-lobby.pubg-ns-gate.com                             #Game - PUPG: New State (Load Pre-match Screen)
-event-img.enter-pubg-new-state.com                 #Game - PUPG: New State (Breaks Crate - Top Right, in Lobby)
-ebdsw.enter-pubg-new-state.com                     #Game - PUPG: New State (Whats New - Still pops up, just says "page not found")
-video.enter-pubg-new-state.com                     #Game - PUPG: New State (Crate Videos)
+country-code.pubg-ns-gate.com                       #Game - PUPG: New State (Check for updates)
+maintenance-gate.pubg-ns-gate.com                   #Game - PUPG: New State (Check for updates)
+cdn.enter-pubg-new-state.com                        #Game - PUPG: New State (Check for updates)
+lobby.pubg-ns-gate.com                              #Game - PUPG: New State (Load Pre-match Screen)
+event-img.enter-pubg-new-state.com                  #Game - PUPG: New State (Breaks Crate - Top Right, in Lobby)
+ebdsw.enter-pubg-new-state.com                      #Game - PUPG: New State (Whats New - Still pops up, just says "page not found")
+video.enter-pubg-new-state.com                      #Game - PUPG: New State (Crate Videos)
 
 lm.licenses.adobe.com                      # Adobe - Activate Software
 sp.auth.adobe.com                          # Adobe - Login Sites
