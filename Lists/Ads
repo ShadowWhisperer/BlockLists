@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 15,620
-# Updated: 12/25/2021  23:21 (11:21 PM CST)
+# Domains: 15,621
+# Updated: 12/26/2021  15:46 (3:46 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -6832,6 +6832,7 @@ cmcgc.com
 cm.igaw.io
 cm.lentainform.com
 cmp2.bild.de
+cmp-cdn.cookielaw.org
 cmp.cdn.thesun.ie
 cmp.chip.de
 cmp.dmgmediaprivacy.co.uk
