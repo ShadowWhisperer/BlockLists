@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,054
-# Updated: 12/24/2021  11:14 (11:14 AM CST)
+# Domains: 13,056
+# Updated: 12/26/2021  23:51 (11:51 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -11196,6 +11196,7 @@ spybot.ca
 spybot-free.com
 spybot-now.com
 spybot-spyware.com
+spyder-outlet.com
 spyshield.org
 spywareremovalguide.org
 squadronlending.com
@@ -12639,6 +12640,7 @@ webrootdownload.me
 webroot-download.us
 webroot-safe.com
 webrootsafe.net
+webrootsafes.com
 webrootsafe-webroot.com
 websupplylight.ru
 we-care.company.com
