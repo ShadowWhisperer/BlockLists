@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,070
-# Updated: 12/27/2021  09:01 (9:01 AM CST)
+# Domains: 13,071
+# Updated: 12/27/2021  11:59 (11:59 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -898,6 +898,7 @@ annonce-bondage.com
 annoncessexy.fr
 annonces-sm.com
 anokatimes.com
+anonpharm.com
 anonymousgunsales.com
 anonymousgunshop.com
 anonymouspharmacys.com
