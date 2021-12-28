@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,272
-# Updated: 12/28/2021  01:20 (1:20 AM CST)
+# Domains: 68,274
+# Updated: 12/28/2021  10:17 (10:17 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -16030,6 +16030,7 @@ dd.singlecare.com
 dd.tidal.com
 dd.toppreise.ch
 dd.trustedparts.com
+dd.zocdoc.com
 deadpangate.com
 deadpantruck.com
 deafeningdock.com
@@ -46054,6 +46055,7 @@ pixel.ionos.de
 pixel.ionos.es
 pixel.ionos.it
 pixel.ionos.mx
+pixel.ipinfo.io
 pixel.irblindado.com
 pixel.italomoreira.cf
 pixel.itensqueamamos.com.br
