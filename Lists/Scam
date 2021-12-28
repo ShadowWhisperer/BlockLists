@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,271
-# Updated: 12/28/2021  10:17 (10:17 AM CST)
+# Domains: 13,272
+# Updated: 12/28/2021  11:53 (11:53 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -8699,6 +8699,7 @@ nwwashingtonnews.com
 nwwaynenews.com
 nwwyomingnews.com
 nybusinessdaily.com
+nyxgift.com
 nzamapitbullpuppies.com
 nzchemi.com
 nzpuppyfinder.com

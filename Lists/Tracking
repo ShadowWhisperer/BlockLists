@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,274
-# Updated: 12/28/2021  10:17 (10:17 AM CST)
+# Domains: 68,275
+# Updated: 12/28/2021  11:53 (11:53 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -35972,6 +35972,7 @@ logging.apache.org
 logging.api.intuit.com
 loggingapi.spingo.com
 logging.dmucs.com
+logging-e2e.api.intuit.com
 logging.goodgamestudios.com
 logging.groupon.com
 logging.wilmaa.com
