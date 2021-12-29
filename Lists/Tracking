@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,278
-# Updated: 12/28/2021  23:53 (11:53 PM CST)
+# Domains: 68,279
+# Updated: 12/29/2021  01:14 (1:14 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -63324,6 +63324,7 @@ we.zebranding.com
 wfs.grove.co
 wfxtriggers.com
 wgde.fltplan.com
+wgetip.com
 whale.gdebrauwer.dev
 whale.productnerd.io
 whatcounts.com
