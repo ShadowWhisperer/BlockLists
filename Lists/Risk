@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 146
-# Updated: 12/16/2021  00:44 (12:44 AM CST)
+# Domains: 147
+# Updated: 12/29/2021  10:42 (10:42 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
@@ -62,6 +62,7 @@ cerberusapp.com                               #Phone Monitoring
 devicetrackerplus.com                         #Phone Monitoring
 spyfone.com                                   #Phone Monitoring
 spyhuman.com                                  #Phone Monitoring
+spyine.com                                    #Phone Monitoring
 spymasterpro.com                              #Phone Monitoring
 
 actualkeylogger.com                           #Keylogger
