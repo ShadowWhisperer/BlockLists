@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,275
-# Updated: 12/28/2021  11:53 (11:53 AM CST)
+# Domains: 68,278
+# Updated: 12/28/2021  23:53 (11:53 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -9746,6 +9746,7 @@ analytics.sci-map.org
 analytics.sciocorp.org
 analytics.scistyle.com
 analytics.sc-memmelsdorf.de
+analytics.scm-verlagsgruppe.de
 analytics.sc-netzwerk.de
 analytics.sc-neubulach.de
 analytics.scoop-os.com
@@ -12603,6 +12604,7 @@ bc-script.britannica.com
 bc.si.com
 bc.soapoperadigest.com
 bc.thestreet.com
+bc-uk.simplybusiness.co.uk
 bc.usmagazine.com
 bd4travel.com
 bdex.com
@@ -60944,6 +60946,7 @@ telemetry.nvidia.com
 telemetry.patosweb.com.br
 telemetry.phenixrts.com
 telemetry_preview.msn.com
+telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
 telemetry_rad.msn.com
 telemetry.sdk.inmobi.com
 telemetry_ssw.live.com
