@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,412
-# Updated: 12/29/2021  10:42 (10:42 AM CST)
+# Domains: 13,415
+# Updated: 12/29/2021  19:16 (7:16 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -233,6 +233,7 @@
 8driver.com
 99beautydeals.com
 99numbers.com
+a0000365-wwwtodayspetcom.us.aldryn.io
 a1cavachonpuppies.com
 a1dose.com
 a1weedshop.com
@@ -6200,6 +6201,7 @@ hp123setup.com
 hp123.xyz
 hp3global.com
 hpcom123.com
+hpcustomerssupport.com
 hpcustomersupports.com
 hpdriverar.com
 hpdriverdownload.net
@@ -12818,6 +12820,7 @@ vfsgold.com
 vglovecoltd.com
 viadcos.com
 viagramed.fr
+viagrameds.com
 viagra-shop.com.ua
 vibrantgsphome.com
 victoriabrides.com
