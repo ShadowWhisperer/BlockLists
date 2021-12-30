@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 443
-# Updated: 12/23/2021  10:43 (10:43 AM CST)
+# Domains: 442
+# Updated: 12/29/2021  19:25 (7:25 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
@@ -52,7 +52,6 @@ bytzvpn.com
 cactusvpn.com
 cantfindme.org
 changemyip.com
-checkpoint.com
 chi-il-us.prcdn.net
 chromeproxy.net
 coolbits.org
