@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 567
-# Updated: 12/13/2021  21:56 (9:56 PM CST)
+# Domains: 570
+# Updated: 12/30/2021  11:29 (11:29 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -205,8 +205,10 @@ fwdme.info
 fwme.eu
 gamesgarden.tk
 garuk.in
+gatustox.net
 gdanstum.net
 gef.me
+geniuslink.com
 georiot.co
 get.al
 getashorturl.com
@@ -245,6 +247,7 @@ hsdt.co
 hts.io
 hu.berlin
 huff.to
+hurirk.net
 hut.bz
 hutbz.com
 ibit.ly

@@ -319,37 +319,37 @@ cart.gearbest.com                               #GearBest
 des.gbtcdn.com                                  #GearBest
 search.gearbest.com                             #GearBest
 user.gearbest.com                               #GearBest
-0.client-channel.google.com                    #Google   Drive ?
-1.client-channel.google.com                    #Google   Drive ?
-2.client-channel.google.com                    #Google   Drive ?
-3.client-channel.google.com                    #Google   Drive ?
-4.client-channel.google.com                    #Google   Drive ?
-5.client-channel.google.com                    #Google   Drive ?
-6.client-channel.google.com                    #Google   Drive ?
-7.client-channel.google.com                    #Google   Drive ?
-8.client-channel.google.com                    #Google   Drive ?
-9.client-channel.google.com                    #Google   Drive ?
-10.client-channel.google.com                   #Google   Drive ?
-11.client-channel.google.com                   #Google   Drive ?
-12.client-channel.google.com                   #Google   Drive ?
-13.client-channel.google.com                   #Google   Drive ?
-14.client-channel.google.com                   #Google   Drive ?
-15.client-channel.google.com                   #Google   Drive ?
-16.client-channel.google.com                   #Google   Drive ?
-17.client-channel.google.com                   #Google   Drive ?
-18.client-channel.google.com                   #Google   Drive ?
-19.client-channel.google.com                   #Google   Drive ?
-20.client-channel.google.com                   #Google   Drive ?
-21.client-channel.google.com                   #Google   Drive ?
-22.client-channel.google.com                   #Google   Drive ?
-23.client-channel.google.com                   #Google   Drive ?
-24.client-channel.google.com                   #Google   Drive ?
-25.client-channel.google.com                   #Google   Drive ?
-26.client-channel.google.com                   #Google   Drive ?
-27.client-channel.google.com                   #Google   Drive ?
-28.client-channel.google.com                   #Google   Drive ?
-29.client-channel.google.com                   #Google   Drive ?
-30.client-channel.google.com                   #Google   Drive ?
+0.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+1.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+2.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+3.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+4.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+5.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+6.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+7.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+8.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+9.client-channel.google.com                    #Google   Drive ?  (Might be depreciated)
+10.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+11.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+12.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+13.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+14.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+15.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+16.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+17.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+18.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+19.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+20.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+21.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+22.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+23.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+24.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+25.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+26.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+27.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+28.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+29.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
+30.client-channel.google.com                   #Google   Drive ?  (Might be depreciated)
 mw1.google.com                                 #Google     Earth
 mw-small.l.google.com                          #Google     Earth
 gboard-pa.googleapis.com                       #Google   gBoard
@@ -494,6 +494,9 @@ static.oktopost.com                            #OkToPost
 nqs.nice264.com                                       #Pluto.TV - Nice264 = Video Hosting / Possible Tracker
 wasabi.pluto.tv                                       #Pluto.TV
 video.pluto.tv                                        #Pluto.TV
+integratedhelp.quickbooks.intuit.com                       #Quickbooks
+qb25fgocd.quickbooks.com                                   #Quickbooks
+tcontent.quickbooks.com                                    #Quickbooks
 dyngate.de                                              #Remote ?  - Redirects to TeamViewer
 bronze.roblox.com                                   #Roblox
 clientsettingscdn.roblox.com                        #Roblox
@@ -519,6 +522,8 @@ optimus.cti.roku.com                              #Roku
 plugins.qa.roku.com                               #Roku
 retail-prod.web.roku.com                          #Roku
 samples.voice.cti.roku.com                        #Roku
+ecomm.prod.user-services.irobotapi.com              #Roomba
+unauth1.prod.iot.irobotapi.com                      #Roomba
 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com  #Samsung Phone
 d1oxlq5h9kq8q5.cloudfront.net                                       #Samsung TV - Icons ?
 dc.dqa.samsung.com                                                  #Samsung Watch

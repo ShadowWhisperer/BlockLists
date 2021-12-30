@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,331
-# Updated: 12/29/2021  23:33 (11:33 PM CST)
+# Domains: 68,332
+# Updated: 12/30/2021  11:29 (11:29 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -221,6 +221,7 @@ a2ccecmtrk.com
 a2f41194651173ebf.awsglobalaccelerator.com
 a2zdtrk.com
 a314.gameloft.com
+a465.bfgoodrichtires.com
 a465.michelinman.com
 a592.lehighvalleylive.com
 a681373.accessresults.com

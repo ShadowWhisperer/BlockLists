@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,433
-# Updated: 12/29/2021  23:33 (11:33 PM CST)
+# Domains: 13,434
+# Updated: 12/30/2021  11:29 (11:29 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -6247,6 +6247,7 @@ hp-printer-supports.com
 hp-printer-support.us
 hp-printer-tech-support-number.com
 hpscans.com
+hpsupportassistantme.com
 hp-supportassistant.us
 hpsupporthelp247.com
 hpsupporthelpline.com
