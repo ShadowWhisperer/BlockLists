@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 194
-# Updated: 12/3/2021  00:35 (12:35 AM CST)
+# Domains: 193
+# Updated: 1/4/2022  11:04 (11:04 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
@@ -180,7 +180,6 @@ netfirms.com                                   #Website Builder
 netlify.app                                    #Website Builder
 ning.com                                       #Website Builder
 strikingly.com                                 #Website Builder
-ucoz.ru                                        #Website Builder
 ucraft.me                                      #Website Builder
 ukit.me                                        #Website Builder
 urest.org                                      #Website Builder
