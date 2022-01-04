@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,510
-# Updated: 1/3/2022  16:59 (4:59 PM CST)
+# Domains: 13,511
+# Updated: 1/3/2022  19:28 (7:28 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -8605,6 +8605,7 @@ newsomefrienchies.com
 newspunch.com
 newstarget.com
 newstoad.net
+newstoday83.com
 newstreetweaponds.com
 newswithviews.com
 newtraveltrip.com
