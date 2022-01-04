@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,359
-# Updated: 1/3/2022  23:12 (11:12 PM CST)
+# Domains: 68,406
+# Updated: 1/4/2022  10:03 (10:03 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -5320,6 +5320,7 @@ analytics.edf-ds.de
 analytics.edge.capgemini.com
 analytics.edgefactor.com
 analytics.edgekey.net
+analyticsedge.sherpadm.com
 analytics.edgesuite.net
 analytics.edilsonjsilva.com
 analytics.edinum.org
@@ -13255,6 +13256,7 @@ bug.aestheticpixels.io
 bugaloohosting.com
 bugfender.com
 bugherd.com
+bughfd4szx.com
 bug.jm.sv
 bugly.qcloud.com
 bug.onlinedating.de
@@ -13688,6 +13690,7 @@ cch.com
 cchifirm.ca
 cchifirm.com.au
 cchtaxonline.com
+c.cinnabon.com
 c.cl.msn.com
 ccmp.eu
 ccnyinc.org
@@ -18727,6 +18730,7 @@ getheatmapped.com
 get.hotwater.com
 getinfo.cronimet-envirotec.com
 get.info.themisbar.com
+getip.sherpadigitalmedia.com
 getjess.com
 get.jmaclending.com
 getkudu.io
@@ -25240,6 +25244,7 @@ go.marketing.projarinternational.com
 go.marketing.projarportugal.pt
 go.marketing.properti.ch
 go.marketing.qintesi.it
+go.marketing.quartix.com
 go.marketing.reersafety.com
 go.marketing.rold.com
 go.marketing.spie-ics.com
@@ -30620,6 +30625,7 @@ halibut.ozspeedtest.com
 halibut.phytype.com
 halldata.com
 h.allrecipes.com
+halterbeatles.com
 haltingbadge.com
 haltinggold.com
 hammerhearing.com
@@ -31411,6 +31417,7 @@ incompetentjoke.com
 increasingly.co
 indexstat.index.hu
 indexstats.com
+indgh22kk.com
 india.mobil-asia.com
 indicative.com
 indicator2.larcier-intersentia.com
@@ -34414,6 +34421,7 @@ info.veralti.com
 info.veridiumid.com
 info.verified-reviews.com
 info.verio.com
+info.veriship.com
 info.verizondigitalmedia.com
 info.verocity.jp
 info.vertexinsurance.com
@@ -34834,16 +34842,20 @@ iot.objenious.com
 iot.thalesgroup.com
 iovation.com
 io.vtex.com.br
+ip1.bablosoft.com
 ip-1.com
 ip20trk.com
+ip2.bablosoft.com
 ip2location.com
 ip2location.wmgartistservices.com
 ip2map.com
 ip2nation.com
+ip3.bablosoft.com
 ip.42.pl
 ip4.me
 ipa.247sports.com
 ipaddr.es
+ipaddress.ahoygames.com
 ipaddress.biz
 ipaddresscheck.com
 ipaddress.com
@@ -34862,8 +34874,14 @@ ipapi.com
 ip-api.io
 ipapi.tmbi.com
 ip.apps.cntv.cn
+ip.bablosoft.com
 ipcalf.com
 ip.cctv.pk
+ipcheck0.jdownloader.org
+ipcheck1.jdownloader.org
+ipcheck2.jdownloader.org
+ipcheck3.jdownloader.org
+ipcheck4.jdownloader.org
 ipcheck.blogsys.jp
 ipcheck.ydesigngroup.com
 ipchicken.com
@@ -34872,6 +34890,7 @@ ipcode.pw
 ipconfig.cc
 ipconfig.co.kr
 ip-country-lookup-4twnn2o7la-uc.a.run.app
+ip.dago.ai
 ipdata.co
 ipecho.net
 iperceptions.com
@@ -35379,6 +35398,7 @@ kr.mitsubishi-automation.co.kr
 krogerprecisionmarketing.com
 krxd.net
 ks42zt.spec.fm
+kshe3tr.com
 ksi2trk.com
 ksmobile.com
 ksmobile.net
@@ -35805,6 +35825,8 @@ links.wadhwawisecity.com
 link.thehoth.com
 link.ticket1.eu
 linkto.ext.hp.com
+linktrack.co.nz
+linktracker201.com
 linktrackr.com
 link.tranzcapture.org
 link.ubie.info
@@ -35908,6 +35930,7 @@ localhost.ropescoursesinc.com
 localization.digi-prod.pbs.org
 localization.services.pbs.org
 localizecdn.com
+locallegalattorneys.com
 locallogic.co
 localytics.com
 loca.sc-jpl.com
@@ -36333,6 +36356,7 @@ m4.mapcom.com
 m6r.eu
 m869.presstelegram.com
 m8k0.org
+m91sktrk.com
 m930.news-herald.com
 ma.1000kaze.jp
 ma.101s.co.jp
@@ -37092,6 +37116,7 @@ marketing.vedrai.com
 marketing.vennlifesciences.com
 marketing.vergissmeinnicht.at
 marketing.vergokan.com
+marketing.veriship.com
 marketing.verser.com.au
 marketing.verticalscreen.com
 marketing.vikingpest.com
@@ -37242,11 +37267,13 @@ matomo.appgeo.com
 matomo.apps.paris.fr
 matomo.arctur.si
 matomo.artmonkey.de
+matomo.athensvoice.gr
 matomo.aubi-plus.de
 matomo.auction123.com
 matomo.augure.com
 matomo.av-studio.de
 matomo.bag-coronavirus.ch
+matomo.basketsco.com
 matomo.bccampus.ca
 matomo.bcintel.ai
 matomo.beams.io
@@ -37301,6 +37328,7 @@ matomo.eea.europa.eu
 matomo.ejan.co
 matomo.energyfacility.vn
 matomo.epo.org
+matomo.eramet.com
 matomo.erwinmueller.com
 matomo.ethereum.org
 matomo.fadunews.in
@@ -37314,6 +37342,7 @@ matomo.furaffinity.net
 matomo.futurdigital.fr
 matomo.gabor.de
 matomo.gals24.ru
+matomo.gavle.se
 matomo.gedk.de
 matomo.geholit-wiemer.de
 matomo.geosurf.io
@@ -37354,10 +37383,12 @@ matomo.kwik.cx
 matomo.library.upenn.edu
 matomo.limelightplatform.com
 matomo.logicbeta.com
+matomo.lottusse.com
 matomo.luxts.cn
 matomo.macobserver.com
 matomo.magicwrighter.com
 matomo.makkajai.com
+matomo.malisteplaymobil.fr
 matomo.manetmobile.com
 matomo.manjaro.org
 matomo.mediacoding.ch
@@ -37389,6 +37420,7 @@ matomo.phpco.de
 matomo.phphelp.fr
 matomo.podigee.com
 matomo.polaris.rotary.ch
+matomo.pollunit.com
 matomo.prewave.ai
 matomo.prod.cams.run
 matomo.prod.erli.tech
@@ -37425,6 +37457,7 @@ matomo.startmail.com
 matomo.stuttgart.de
 matomo.systeme-e.de
 matomo.talentplatforms.net
+matomo.talisa.com
 matomo.tarnkappe.info
 matomo.tdm.com.mo
 matomo.techbone.net
@@ -37439,6 +37472,7 @@ matomo.trott.pw
 matomo.tubit.tu-berlin.de
 matomo.turbo.fr
 matomo.unicaf.org
+matomo.uni-hamburg.de
 matomo.usingimagination.co.uk
 matomo.usk.de
 matomo.vatia.ventures
@@ -38537,6 +38571,7 @@ my.iheart.com
 my.iheartradio.com
 myipaddress.com
 my-ip-address.net
+myip.bsasoftware.com
 myip.by
 myip.ch
 my-ip.club
@@ -39007,6 +39042,7 @@ norstat.de
 norstatgroup.com
 northbeam.io
 northerntoolemail.com
+nos20trk.com
 no.schroders.email
 no-services.theknot.com
 nossl.aafp.org
@@ -46658,6 +46694,7 @@ p.mec-h.com
 pmetrics.performancing.com
 p.miroconsulting.com
 pmresearch.com
+pnckmx.com
 p.ninja-sign.com
 pnstat.com
 pntheon.com
@@ -48163,6 +48200,7 @@ safesend.hlnnes.com
 safesend.prospirapcs.com
 safesmart.easyaccess.co.nz
 safe-tracking.com
+safewallhost.com
 sa.foodnetwork.com
 sa.hgtv.com
 sailfish.deck9.co
@@ -50069,6 +50107,7 @@ sortsummer.com
 sosc.hrs.com
 sosc.hrs.de
 so.swisscom.ch
+so.tempstaff.co.jp
 so.toptable.co.uk
 soundproof.tsunagaru-design.co.jp
 sourcedefense.com
@@ -61176,6 +61215,7 @@ thelead.tech
 themarketingstir.stirista.com
 the-modeling-agency.com
 themodellers.com
+thenameiva.com
 thenocjob1.com
 thenocjob2.com
 theoceannetwork.inttra.com
@@ -62230,6 +62270,7 @@ trueleadid.com
 trumeasure.com
 truoptik.com
 trustanalytica.com
+trusted44.com
 trustedglobal.com
 trusted-website.com
 trustev.com
@@ -62507,11 +62548,14 @@ ulogs.umengcloud.com
 ultimatecounter.com
 ultptrk.com
 ultraoranges.com
+umami.fadunews.in
 umami.flattr.com
 umami.fusestudio.net
+umami.gofile.io
 umami.is
 umami.nordiskehandel.cloud
 umami.quacs.org
+umami.useargo.com
 umami.wakarimasen.moe
 umbel.com
 umeng.co
@@ -63396,6 +63440,7 @@ werkgevers.intermediair.nl
 werkgevers.nationalevacaturebank.nl
 westarmedia.com
 we-stats.com
+wetcj.site
 we.turnto.com
 we.zebranding.com
 wfs.grove.co
@@ -67374,6 +67419,7 @@ www2.tcwealthpartners.com
 www2.tdgresearch.com
 www2.teachforamerica.org
 www2.team-con.de
+www2.teamels.com
 www2.teamfrance-export.fr
 www2.teamhgs.com
 www2.teamhorner.com
@@ -67576,6 +67622,7 @@ www2.trupay.com
 www2.trupredict.com
 www2.trustedcs.com
 www2.trustetc.com
+www2.trustgarden.jp
 www2.trusthcs.com
 www2.ts1.reiwa.net
 www2.tsa.edu.au
