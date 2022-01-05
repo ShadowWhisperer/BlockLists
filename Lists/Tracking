@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,440
-# Updated: 1/4/2022  18:00 (6:00 PM CST)
+# Domains: 68,459
+# Updated: 1/4/2022  19:28 (7:28 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -29251,6 +29251,7 @@ go.toiretumari-center.com
 goto.jvmlending.com
 go.tokiomarineam.com
 go.tokiomarine-tcs.jp
+go.toksan.jp
 go.toku-maru.co.jp
 go.tokyo-chumon.com
 go.tokyo-startup-law.com
@@ -30920,6 +30921,7 @@ h.iwin.com
 hl.hamiltonlane.com
 hlq2trj.com
 hls-beacons.xumo.com
+hls.myfootlive.com
 hm20trk.com
 hm2ktrp.com
 hm.baidu.com
@@ -31311,7 +31313,9 @@ ie.fastbridge.org
 iesnare.com
 iesnare.co.uk
 ifconfig.co
+ifconfig-la.sprious.com
 ifconfig.me
+ifconfig-nj.sprious.com
 ifmhsg.ch
 ifm.unisg.ch
 i.frontlinetechnologies.com
@@ -34940,6 +34944,7 @@ ipinyou.com
 ipip.net
 ipjudge.nifty.com
 ip-label.net
+ip.leadsdelivery.com
 iplis.ru
 iplocate.io
 iplocation.com
@@ -34951,6 +34956,7 @@ iplogger.info
 iplogger.org
 iplogger.ru
 iplookup.asus.com
+iplookup.starface.com
 ip.lovely-app.com
 ipm.corel.com
 ipmeta.io
@@ -34958,17 +34964,25 @@ ipm.ipmcinc.com
 ipmonkey.com
 ipnow.org
 ip.onsagers.no
+ip.onthebeach.co.uk
 iponweb.net
 ipowow.com
+ip.oxylabs.io
 ip-ping.ru
+ipp.moojing.com
 ip.prvtx.net
 ipqualityscore.com
 iprecon.iglobalstores.com
 ipredictive.com
+ip.rocket-proxy.net
 iprotech.com
+ip.rvpn-api.ws
+ip.rvpn.ws
+ip.saou.eu
 ip.sb
 ip-score.com
 ip-secrets.com
+ip.smartproxy.com
 ipsos.co.ke
 ipsos.com
 ipstack.com
@@ -34977,6 +34991,7 @@ ip.taobao.com
 iptrackeronline.com
 iptrack.io
 ip.tyk.nu
+ip.u8u7.cn
 ip.urls.is
 ipv4.am.i.mullvad.net
 ipvigilante.com
@@ -39247,6 +39262,7 @@ ok.boomerhomeloans.com.au
 okmeter.io
 okmeter.ru
 okr.resily.com
+old.comicsonline.com
 old.ropescoursesinc.com
 oleconnect.com
 o.lenovo.com
@@ -43440,6 +43456,7 @@ piwik.jugendreporter-gap.de
 piwik.jujens.eu
 piwik.julianloehr.de
 piwik.julianmriedel.com
+piwik.juliodimitrov.com
 piwik.julit.com
 piwik.juliusvaart.com
 piwik.jung-rind.de
@@ -61006,6 +61023,7 @@ tc-log.mattel163.com
 tctm.co
 t.dailymail.co.uk
 tdep.cavallaronapoli.com
+tdep.hema.com
 tdep.hema.nl
 tdep.johnbeerens.com
 tdep.kvk.nl
@@ -62627,6 +62645,7 @@ unevenstring.com
 unfytrk.com
 uni-corn.net
 unid.go.com
+unifi.rciadventure.com
 unifi-report.ubnt.com
 unifyaddition.com
 unilaw.gus.global
