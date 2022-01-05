@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,459
-# Updated: 1/4/2022  19:28 (7:28 PM CST)
+# Domains: 68,461
+# Updated: 1/4/2022  20:22 (8:22 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -33181,6 +33181,7 @@ info.martecgroup.com
 info.martinelliluce.it
 info.marumiton.com
 info.maru-sin.co.jp
+info.maru-sin.net
 info.maruwa-net.jp
 info.maruyoshi-k.co.jp
 info.marvelcoatings.com
@@ -36297,6 +36298,7 @@ lp.prosperity.app
 lp.protolabs.com
 lp.quantize-world.com
 lp.quartet-communications.com
+lp.rdx.com
 lp.relias.com
 lp.relias.co.uk
 lp.relias.de
