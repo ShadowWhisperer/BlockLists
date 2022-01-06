@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,484
-# Updated: 1/5/2022  19:33 (7:33 PM CST)
+# Domains: 68,485
+# Updated: 1/6/2022  11:45 (11:45 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -63106,6 +63106,7 @@ vsn.eseal.org
 vs.target.com
 vstats.net
 vstat.v.blog.sohu.com
+vt44trk.com
 vtc-analytics.hub-js.com
 vtrack.com
 vtrxzehn6.com
