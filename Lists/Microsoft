@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 484
-# Updated: 12/17/2021  09:06 (9:06 AM CST)
+# Domains: 485
+# Updated: 1/7/2022  09:54 (9:54 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -30,6 +30,7 @@ v4ncsi.msedge.net                              #App   Office
 oneclient.sfx.ms                               #App     OneDrive
 onedrive.akadns.net                            #App     OneDrive
 onedriveclucprodbn20010.blob.core.windows.net  #App     OneDrive
+onedriveclucprodbn20022.blob.core.windows.net  #App     OneDrive
 p.sfx.ms                                       #App     OneDrive
 storage.live.com                               #App     OneDrive
 onenote.net                                    #App   OneNote
