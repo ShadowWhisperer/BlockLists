@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,487
-# Updated: 1/7/2022  10:42 (10:42 AM CST)
+# Domains: 68,488
+# Updated: 1/9/2022  17:51 (5:51 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -9641,6 +9641,7 @@ analytics.samsungedo.com
 analytics.samys.network
 analytics.sanderlauwers.be
 analytics.sandiego.com
+analytics.sandstorm.game
 analytics.sandypoint.ch
 analytics.sanha-fittings.de
 analytics.sanicframework.org
