@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 193
-# Updated: 1/4/2022  11:04 (11:04 AM CST)
+# Domains: 194
+# Updated: 1/10/2022  14:32 (2:32 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
@@ -38,6 +38,7 @@ webrootdns.net                                 #Antivirus    Webroot
 webrootmobile.com                              #Antivirus    Webroot
 webrootmultiplatform.com                       #Antivirus    Webroot
 
+ccleanerbrowser.com                            #Browser - Ccleaner
 orbitum.com                                    #Browser - Orbitum
 uc.cn                                          #Browser - UC
 ucweb.com                                      #Browser - UC
