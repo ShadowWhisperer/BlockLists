@@ -33,7 +33,7 @@ maintenance-gate.pubg-ns-gate.com                   #Game - PUPG: New State (Che
 cdn.enter-pubg-new-state.com                        #Game - PUPG: New State (Check for updates)
 lobby.pubg-ns-gate.com                              #Game - PUPG: New State (Load Pre-match Screen)
 event-img.enter-pubg-new-state.com                  #Game - PUPG: New State (Breaks Crate - Top Right, in Lobby)
-ebdsw.enter-pubg-new-state.com                      #Game - PUPG: New State (Whats New - Still pops up, just says "page not found")
+ebdsw.enter-pubg-new-state.com                      #Game - PUPG: New State (What's New - Still pops up, just says "page not found")
 video.enter-pubg-new-state.com                      #Game - PUPG: New State (Crate Videos)
 
 lm.licenses.adobe.com                      # Adobe - Activate Software
@@ -319,6 +319,7 @@ shareasale.com                       #Marketing - Breaks Links
 t.lt02.net                           #Marketing - Breaks Links
 track.aftership.com                  #Shipment Tracker
 geoip-db.com                         #Tracker - Breaks HP Parts Page
+geolocation-db.com                   #Tracker - Breaks HP Parts Page
 click.instantink.hpsmart.com         #Tracker - Breaks HP Instant Ink emails
 geo.craigslist.org                   #Tracker - Breaks Landing page
 7eer.net                             #Tracker - Breaks Links
