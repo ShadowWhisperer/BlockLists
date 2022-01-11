@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,507
-# Updated: 1/10/2022  14:32 (2:32 PM CST)
+# Domains: 68,515
+# Updated: 1/10/2022  23:10 (11:10 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -13378,6 +13378,7 @@ c2.computrition.com
 c2.qbk1.com
 c2strack.com
 c3319585.ssl.cf0.rackcdn.com
+c3319586.ssl.cf0.rackcdn.com
 c3metrics.com
 c3tag.com
 c3zxtrk.com
@@ -14505,6 +14506,7 @@ collect-eu-fy2020.myhomescreen.tv
 collect.feefo.com
 collect.gtarcade.com
 collection.saga.co.uk
+collection.sciencemuseumgroup.org.uk
 collections.md.mp.microsoft.com
 collections.mp.microsoft.com
 collective-media.net
@@ -15923,6 +15925,7 @@ dapperdiscussion.com
 dapperfloor.com
 darktrace.com
 darmowylicznik.pl
+darwin.cx
 darwin.to
 dashingdirt.com
 dashingdrop.com
@@ -37978,6 +37981,7 @@ metrics-api.dimensions.ai
 metrics.api.yle.fi
 metrics-a.wbx2.com
 metrics.barclaycardus.com
+metrics.beyondwords.io
 metrics.biocompare.com
 metrics.brightcove.com
 metricscat.com
@@ -39583,6 +39587,7 @@ optnmstr.com
 optomaton.com
 oq44lmtrk.com
 oqc.ohara-quartz.co.jp
+or23trk.com
 oracleinfinity.io
 orangeoperation.com
 orangutan.checkcontrast.com
@@ -47007,7 +47012,6 @@ prod.log.shortbread.aws.dev
 prod-logs-skyegloup.s3.amazonaws.com
 prodperfect.com
 prod-ps-cdn-us1.azureedge.net
-prod.pyxis.atp.fox
 prod-sb-appanalytics-us1.servicebus.windows.net
 prodsight.ai
 prodsight.com
@@ -47272,6 +47276,7 @@ python.jukejuke.app
 python.lemaur.me
 python.martinkriegeskorte.de
 python.mux.com
+pyxis.atp.fox
 pyze.com
 q208.bloodhorse.com
 q249.parade.com
@@ -48238,6 +48243,7 @@ sa.dentsu.de
 sa.digital.wilhelmsen.com
 sa.discovery.com
 sa.diynetwork.com
+sadlib.media.syn-cdn.com
 sadmin.brightcove.com
 sadobeanalytics.geico.com
 sadobeanalytics.medline.com
@@ -61144,6 +61150,7 @@ telemetry_preview.msn.com
 telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
 telemetry_rad.msn.com
 telemetry.sdk.inmobi.com
+telemetry.servers.getgo.com
 telemetry_ssw.live.com
 telemetry.svc.halowaypoint.com
 telemetry.tradingview.com
@@ -61220,6 +61227,7 @@ terrificgoose.com
 terrifictooth.com
 ters.us-east-1.aiv-delivery.net
 tesla.rst-s.com
+tesseract.media.syn-cdn.com
 tesseradigital.com
 test2.glickon.com
 test2-pd.epson.com.sg
