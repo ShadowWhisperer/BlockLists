@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,574
-# Updated: 1/12/2022  18:08 (6:08 PM CST)
+# Domains: 68,593
+# Updated: 1/13/2022  00:02 (12:02 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -129,6 +129,7 @@
 308br.net
 309br.net
 33across.com
+3456trk.com
 360incentives.com
 360-insights.com
 360insights.com
@@ -183,6 +184,7 @@
 5thfinger.com
 64.98.201.35.bc.googleusercontent.com
 66analytics.com
+6824track.com
 6counter.de
 6ldu6qa.com
 6sense.com
@@ -17925,6 +17927,7 @@ fatmedia.io
 faults.norton.com
 faultycanvas.com
 faultyfowl.com
+fay.gg
 fb.appbrew.io
 fbc.wcfbc.net
 fbih5report.3g.qq.com
@@ -31370,6 +31373,7 @@ ifconfig.co
 ifconfig-la.sprious.com
 ifconfig.me
 ifconfig-nj.sprious.com
+ifconfig.ovh
 ifmhsg.ch
 ifm.unisg.ch
 i.frontlinetechnologies.com
@@ -32531,6 +32535,7 @@ info-fr.bureauveritas.com
 info.freal.com
 info.freeconsultant.jp
 info.freee.co.jp
+info.freshproduce.com
 info.fricknet.com
 info.frieslandcampinafoodandbeverages.com
 info.frieslandcampinaingredients.com
@@ -33147,6 +33152,7 @@ info.lifeap.co.jp
 info.life-designs.jp
 info.liftlocal.com
 info.liftone.net
+info.lightboxre.com
 info.lightworks.co.jp
 info.lih.co.jp
 info.limra.com
@@ -34950,6 +34956,7 @@ ipaddressm.com
 ipaddress.org
 ip-address.ru
 ipaddressworld.com
+ipaddr.io
 ip-adresim.app
 ip-adress.com
 ip-adress.eu
@@ -34970,6 +34977,7 @@ ipcheck2.jdownloader.org
 ipcheck3.jdownloader.org
 ipcheck4.jdownloader.org
 ipcheck.blogsys.jp
+ipcheck.com
 ipcheck.ydesigngroup.com
 ipchicken.com
 ip.cn
@@ -34994,6 +35002,8 @@ ip-geo-lookup.ec.pegs.com
 ip-geo.vercel.app
 ipgrabber.ru
 ipgraber.ru
+ip.gs
+ipgue.com
 iphonediags.apple.com
 iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
@@ -35002,6 +35012,7 @@ ip.if.iqiyi.com
 ipify.org
 ipinfodb.com
 ip-info.ff.avast.com
+ipinfo.in
 ipinfo.info
 ipinfo.io
 ip-info.org
@@ -35058,9 +35069,12 @@ iptrackeronline.com
 iptrack.io
 ip.tyk.nu
 ip.u8u7.cn
+ip.up66.ru
 ip.urls.is
 ipv4.am.i.mullvad.net
+ipv4.webshare.io
 ipvigilante.com
+ip.web-hosting.com
 ipwhois.app
 ipwhois.io
 ip-whois.net
@@ -38219,6 +38233,7 @@ mk.ifs.co.jp
 mk.ma.livable.jp
 mk.maverickdental.com
 mk.neo.co.jp
+mknote.com
 mk.sios.com
 mk.sios.jp
 mkt.alue.co.jp
@@ -38779,6 +38794,7 @@ n1.n-genkika.co.jp
 n2event.com
 n3n.io
 n483.spglobal.com
+n668.newstribune.com
 n730.timesunion.com
 n7dmmtrk.com
 n8dm23k.com
@@ -61291,6 +61307,7 @@ test.esales.hk
 test.griptaperecords.com
 test.info.rsd.wuxiapptec.com
 test.kess.tech
+test.moviemeter.nl
 test.nubika.com
 test.oneview.roku.com
 testosteroneprime.com
@@ -62399,6 +62416,7 @@ trout.unicornplatform.com
 trozlabs.com
 tr.prospecteye.com
 tr.rev-stripe.com
+tr.ringcentral.com
 tr.snapchat.com
 tr-ssl.twcc.com
 trtm.io
@@ -62645,6 +62663,7 @@ ubermedia.com
 ubimo.com
 ubiquitousyard.com
 ubm-us.net
+ub-res.com
 ucarts.gus.global
 u.cdnwidget.com
 ucmail.works-hi.co.jp
