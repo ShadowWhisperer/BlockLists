@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 15,905
-# Updated: 1/13/2022  14:28 (2:28 PM CST)
+# Domains: 15,909
+# Updated: 1/13/2022  16:35 (4:35 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -2667,6 +2667,7 @@ adserver.hindenburger.de
 adserver.hpcwire.jp
 adserver.hrpolska.pl
 adserver.hu
+adserver.iartechnologies.pl
 adserver.ibluesys.com
 adserver.icmedienhaus.de
 adserver.idealconnaissances.com
@@ -3913,6 +3914,7 @@ adspeed.org
 adspeed.us
 ads.pemasoft.de
 ads.people-group.net
+ads.peoplemaps.com
 ads.peoriamagazines.com
 ads.periodistadigital.com
 ads.perrosdebusqueda.es
@@ -4391,6 +4393,7 @@ ads.vsi4kibri4ki.com
 ads.vzert.com
 ads.walkiberia.com
 adswap.com
+ads.wappler.io
 adswarez.com
 ads.warfarehistorynetwork.com
 ads.warnerbros.com
@@ -15170,6 +15173,7 @@ warp90.com
 warpwrite.com
 warroominc.com
 watchmedia.biz
+watchstream.xyz
 watchtaro.com
 watercreativestudio.com
 waterindia.in
