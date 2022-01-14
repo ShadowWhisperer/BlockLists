@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 13,906
-# Updated: 1/13/2022  14:28 (2:28 PM CST)
+# Domains: 13,908
+# Updated: 1/14/2022  13:40 (1:40 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -2408,6 +2408,7 @@ carbonicallc.com
 carbuyersnow.com
 carcomputerexchange.com
 cardatausa.com
+cardchest.club
 carddelivery.com
 cardinalsavers.com
 cardtak.com
@@ -5018,6 +5019,7 @@ freeunusedeshop.codes
 freewaylogisticscourier.com
 freewiipoints.cc
 freewiipointsforever.com
+freexb.club
 freexblgiftcards.com
 freexblgold.com
 freexboxlive.cc
