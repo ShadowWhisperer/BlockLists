@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,126
-# Updated: 1/13/2022  16:42 (4:42 PM CST)
+# Domains: 69,129
+# Updated: 1/13/2022  18:28 (6:28 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12074,6 +12074,7 @@ api.datasteam.io
 api.dec.sitefinity.com
 api.dtm.pixelmotiondemo.com
 api.edmunds.com
+api.epicgames.dev
 apievents.jifiti.com
 api.fool.com
 apig.carvana.io
@@ -16081,6 +16082,7 @@ d99xz3flubf0x.cloudfront.net
 d9esmwyn3ffr1.cloudfront.net
 d9etzk30b05yg.cloudfront.net
 d9jj3mjthpub.cloudfront.net
+d9qcypg7o58bv.cloudfront.net
 daaapp.com.ua
 daam.com.sa
 daanalytics.nl
@@ -48106,6 +48108,7 @@ report.huqindustries.co.uk
 report.iheartmedia.gbqofs.io
 reporting-api.gannettinnovation.com
 reporting-api.gubagoo.io
+reporting-api.newworldinteractive.com
 reporting-api-pro-686221983.us-west-2.elb.amazonaws.com
 reporting.brightcove.com
 reporting.cdndex.io
