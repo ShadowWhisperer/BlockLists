@@ -358,3 +358,8 @@ wss.analyticacdn.com                 #Tracker - Breaks Embedded Video Player
 geocode.xyz                          #Tracker - Breaks Zip code lookup (Weather Apps)
 rta.xboxlive.com                     #Tracker - Breaks games that use Xbox Live (Multiplayer)
 kangaroo.vocento.com                 #Tracker - Prevents site access -> abc.es
+
+# Blacklist projects
+mypdns.org                            # My Privacy DNS, web + DNS AUTH
+mypdns.com                            # My Privacy DNS
+mypdns.cloud                          # My Privacy DNS, DNS RPZ zones
