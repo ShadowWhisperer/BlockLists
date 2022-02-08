@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 14,834
-# Updated: 2/8/2022  12:39 (12:39 PM CST)
+# Domains: 14,835
+# Updated: 2/8/2022  14:39 (2:39 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -8564,6 +8564,7 @@ maxexpressdelivery.com
 maxfieldpuppiesforsale.com
 maxgoldenpuppies.co.za
 maxgreatdane.com
+maxgshop.com
 maxhospitalclinic.com
 maxienglishbulldogs.com
 maxineudall.com
