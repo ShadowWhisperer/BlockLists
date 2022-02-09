@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,436
-# Updated: 2/9/2022  02:55 (2:55 AM CST)
+# Domains: 69,437
+# Updated: 2/9/2022  10:02 (10:02 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -38333,6 +38333,7 @@ medical.us.horiba.com
 medicion.mediaset.es
 medicxhealth.com
 medium.irht.cnrs.fr
+medlytix.com
 meds.androderm.com
 meds.asacolhd.com
 meds.avycaz.com
