@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,437
-# Updated: 2/9/2022  10:02 (10:02 AM CST)
+# Domains: 69,441
+# Updated: 2/9/2022  12:23 (12:23 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -2232,6 +2232,7 @@ aef.argyleforum.com
 aem-collector.daumkakao.io
 a.environmentaldefense.org
 a.epilepsy.com
+aerilon.graphql.aspire-ebm.com
 a.espncricinfo.com
 aestats.microsoft.com
 a.et.nytimes.com
@@ -12080,6 +12081,7 @@ api2.amplitude.com
 api2.poperblocker.com
 api.americanphysician.com
 api.amplitude.com
+api-analytics.fs.com
 api-analytics-in.huami.com
 api-analytics.kt-pulse.dev
 api.analytics.nexonm.com
@@ -31596,6 +31598,7 @@ identification.hotmart.com
 identity.ads.roku.com
 identity.netlify.com
 identity.prod.platform.ext.mobilityware.com
+identity-x.io
 identiv.com
 ident.me
 idevdirect.com
@@ -36204,6 +36207,7 @@ lid.cdn.lexipol.com
 liddsp.com
 lidrtb.com
 lid.st
+life360.com
 life.gracebank.jp
 lifeinnovation.yokogawa.com
 lifeinsurance.atlantalife.com
