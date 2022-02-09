@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 557
-# Updated: 1/28/2022  12:11 (12:11 PM CST)
+# Domains: 558
+# Updated: 2/8/2022  19:36 (7:36 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -207,6 +207,7 @@ georiot.co
 getashorturl.com
 getbitly.pro
 getly.eu
+getthot.com
 gfree.fr
 gnam.me
 go2sm.com
