@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,451
-# Updated: 2/10/2022  00:56 (12:56 AM CST)
+# Domains: 69,447
+# Updated: 2/10/2022  11:33 (11:33 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -4487,6 +4487,7 @@ analytics.clemensotto.com
 analytics.clerestorynotes.com
 analytics.clever-fit.he-hosting.de
 analytics.clfd.eu
+analytics.click2apply.net
 analytics.clickkauf.com
 analytics.clickon.co
 analytics.clicktech.it
@@ -12135,7 +12136,6 @@ api-rest.analytics.nexonm.com
 api-reuters-reuters-prod.cdn.arcpublishing.com
 api.rlcdn.com
 api.rollbar.com
-api-router.kaspersky-labs.com
 apisa.web3.foundation
 api.scuffeduno.online
 api-sensors.shein.com
@@ -12144,7 +12144,6 @@ apis.murdoog.com
 api.snapkit.com
 apis.quantcast.mgr.consensu.org
 api-stagingtwo.cgstatic.info
-api.tiles.mapbox.com
 api-triangle.canadiantire.ca
 api-v1.tenor.com
 api.waldo.toyota.com
@@ -12485,7 +12484,6 @@ at.houseofsocial.com.au
 a.thymes.com
 a.tienda.com
 ati-host.net
-a.tiles.mapbox.com
 atinternet.com
 a.tiscali.co.uk
 atlassbx.com
@@ -50475,8 +50473,6 @@ snakesshop.com
 snakesstone.com
 snapabug.appspot.com
 snapanalytics.net
-snap.api.mapbox.com
-snap.events.mapbox.com
 snapppt.com
 snap-surveys.com
 snapsurveys.com

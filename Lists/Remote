@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 103
-# Updated: 11/23/2021  13:45 (1:45 PM CST)
+# Domains: 104
+# Updated: 2/10/2022  11:33 (11:33 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
@@ -13,6 +13,7 @@
 01com.com
 123rescue.com
 4remotesupport.com
+898.tv
 alpemix.com
 amazonworkspaces.com
 ammyy.com
