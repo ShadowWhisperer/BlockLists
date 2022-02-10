@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,441
-# Updated: 2/9/2022  12:23 (12:23 PM CST)
+# Domains: 69,448
+# Updated: 2/9/2022  18:08 (6:08 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12091,6 +12091,7 @@ api-analytics-sg.huami.com
 api-analytics-us.huami.com
 api.apple-mapkit.com
 api.autozone.com
+api-bd.kohls.com
 api.bluecore.com
 api.cleantalk.org
 api.cogswell.io
@@ -13215,6 +13216,7 @@ blueprints.thefire.ie
 blueprints.walfridprivate.ie
 blueprints.zerotaxproperty.ie
 blue.rochesterfirst.com
+blueshift.com
 blue.siouxlandproud.com
 bluesummit.de
 blue.texomashomepage.com
@@ -19004,6 +19006,7 @@ getbambu.com
 get.beanworks.com
 getblue.io
 get.blueprintadvisory.com
+getblueshift.com
 getbunq.app
 get.byteme.com
 getcake.com
@@ -36043,6 +36046,7 @@ leadlocater.com
 leadmanagerfx.com
 leadmine.net
 leadoo.com
+leadpages.io
 leadportal.com
 leads.alpha.ca
 leadscope.de
@@ -51048,6 +51052,7 @@ sp.usatoday.com
 sputnik.ru
 sp.vcstar.com
 sp.visaliatimesdelta.com
+sp.vtex.com
 sp.wausaudailyherald.com
 sp.wisconsinrapidstribune.com
 sp-wukong-tracker.b-cdn.net
@@ -63112,6 +63117,7 @@ tremendoustreatment.com
 trendalytics.co
 trendmatrix.com
 trends.newsmaxwidget.com
+t.rentcafe.com
 tr.fromabcstoacts.com
 trg.de
 tr.hire.healthecareers.com
@@ -63336,6 +63342,7 @@ tsom.gus.global
 t.sonaughty.com
 t.spike.com
 ts.popsugar.com
+t.studentbeans.com
 tsukurobo.youmemiru.co.jp
 t.svtrd.com
 tt01.teamtalk.com
