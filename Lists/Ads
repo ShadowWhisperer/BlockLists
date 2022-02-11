@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 16,125
-# Updated: 2/9/2022  18:08 (6:08 PM CST)
+# Domains: 16,124
+# Updated: 2/10/2022  23:46 (11:46 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -12622,7 +12622,6 @@ push.aws.kambicdn.com
 pushbird.com
 pushbots.com
 pushbrothers.com
-pushbullet.com
 pushcentric.com
 push.cnnindonesia.com
 pushcollection.net
