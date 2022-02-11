@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,448
-# Updated: 2/10/2022  18:57 (6:57 PM CST)
+# Domains: 69,449
+# Updated: 2/10/2022  20:40 (8:40 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -16521,6 +16521,7 @@ digitalcomms.saint-gobain.com.au
 digital.credemtel.it
 digitalevent.carriertransicold.eu
 digital.globenet.com
+digitalid.santanderbank.com
 digital.igh.com
 digital.insta-pro.com
 digital.invesco.com
