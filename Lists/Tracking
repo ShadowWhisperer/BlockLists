@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,456
-# Updated: 2/11/2022  16:54 (4:54 PM CST)
+# Domains: 69,459
+# Updated: 2/11/2022  20:46 (8:46 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -10651,6 +10651,7 @@ analytics.sys.silberdraht.tel
 analytics.systemhosting.at
 analytics.systemisch-terhuente.de
 analytics.systemli.org
+analyticssystems.net
 analytics.systera.de
 analytics.sz4h.com
 analytics.szue.net
@@ -36529,6 +36530,7 @@ log.duozhuayu.com
 logdy.com
 logentries.com
 log.enuri.com
+log.espn.com
 logfiles.zoom.us
 log.fotoable.com
 log.gallup.is
@@ -47023,6 +47025,7 @@ pixel.precificacaosimples.com
 pixel.primeironegociodesucesso.com.br
 pixel.primeiroslucros.com
 pixel.priscilaneri.com.br
+pixel.production-public.tubi.io
 pixel.professorcaldeira.com
 pixel.professoresnodigital.com.br
 pixel.programajaponesonline.com.br
