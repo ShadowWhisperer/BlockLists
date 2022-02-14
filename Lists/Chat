@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 300
-# Updated: 2/9/2022  12:23 (12:23 PM CST)
+# Domains: 301
+# Updated: 2/14/2022  01:59 (1:59 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
@@ -305,6 +305,7 @@ web-chat-tuio-2019.firebaseio.com
 webim.ru
 webmecanik.inbenta.com
 whoson.com
+wotnot.io
 yellow.ai
 yellowmessenger.com
 zammo.ai
