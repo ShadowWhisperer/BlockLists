@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,459
-# Updated: 2/14/2022  01:59 (1:59 AM CST)
+# Domains: 69,468
+# Updated: 2/14/2022  15:41 (3:41 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -4715,6 +4715,7 @@ analytics.coversine.net
 analytics.covert.sh
 analytics.covid19-r.com
 analytics.covidrapidtest.com
+analytics.covid-risk.jp
 analytics.cozero.io
 analytics.cpam67.net
 analytics.cpasitesolutions.com
@@ -10120,6 +10121,7 @@ analytics.sidium.eu
 analytics.sieben-schloesser.de
 analytics.sieke-net.com
 analytics.sielhorst-it.de
+analytics.sieuviet.services
 analytics.sightkick.de
 analytics.sigi.lu
 analytics.signacor.com
@@ -37788,6 +37790,7 @@ matomo.analytics.oneironotes.com
 matomo.anomic.de
 matomo.appen.com.cn
 matomo.appgeo.com
+matomo.apps.lego.com
 matomo.apps.paris.fr
 matomo.arctur.si
 matomo.artmonkey.de
@@ -39256,6 +39259,7 @@ n668.newstribune.com
 n730.timesunion.com
 n7dmmtrk.com
 n8dm23k.com
+n8vs3w.com
 na.allevents.in
 naar.edmondhalley.nl
 nablasol.com
@@ -39721,6 +39725,7 @@ nytrng.com
 nz.engage.novozymes.com
 o365weve.com
 o481.travelsouthdakota.com
+o546.ada.org
 oadz.com
 oafishobservation.com
 oaj2tkr.com
@@ -42672,6 +42677,7 @@ piwik.cms.bekalabs.com
 piwik.cnap.fr
 piwik.cnceurope.com
 piwik.cn-ds.fr
+piwik.cnil.fr
 piwik.cnlpete.de
 piwik.coaching-rehders.de
 piwik.coban-bedachungen.de
@@ -48877,6 +48883,7 @@ sablesmile.com
 sablesong.com
 saccess.hikaritv.net
 sac.japannetbank.co.jp
+sa.coverstori.es
 s.acquire.io
 sa.crunchyroll.com
 sadbmetrics.10knocturnagijon.es
@@ -48966,6 +48973,7 @@ safesend.prospirapcs.com
 safesmart.easyaccess.co.nz
 safe-tracking.com
 safewallhost.com
+sa.findka.com
 sa.foodnetwork.com
 sa.hgtv.com
 sailfish.deck9.co
@@ -51714,6 +51722,7 @@ stat.cadeauxsexy.com
 stat.cademica.net
 stat.cafehallonblad.fi
 stat.cafeneptunus.fi
+stat.callfilter.app
 stat.carelink.ch
 stat.carhire.lu
 stat.casablancatoday.com
