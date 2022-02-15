@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 16,140
-# Updated: 2/14/2022  15:41 (3:41 PM CST)
+# Domains: 16,160
+# Updated: 2/15/2022  01:51 (1:51 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -49,6 +49,7 @@
 12had.com
 139gphf8.de
 140proof.com
+149575907.v2.pressablecdn.com
 152media.com
 1797creative.com
 17ads.net
@@ -2492,6 +2493,10 @@ adserver.airspot.in
 adserver.aklupx.com
 adserver.aktuell4u.de
 adserver.al
+adserver-alb-v4-133711123.us-east-1.elb.amazonaws.com
+adserver-alb-v4-229879124.ap-southeast-1.elb.amazonaws.com
+adserver-alb-v4-682158089.eu-central-1.elb.amazonaws.com
+adserver-alb-v4-988216261.us-west-2.elb.amazonaws.com
 adserver.alinasan.de
 adserver.alineap.com
 adserver.alkompis.se
@@ -2974,6 +2979,7 @@ adserver.sterlegrad.ru
 adserver.stoneway.com
 adserver.streamingbr.com
 adserver.studio1540.com
+adserver.sum-perk.com
 adserver.support
 adserver.surfski.info
 adserver.sviv.se
@@ -5613,6 +5619,7 @@ appsdt.com
 appservestar.com
 appsfire.com
 appsfire.net
+appshake.biz
 app-shake.com
 appsilon.kr
 appslambda.com
@@ -6611,6 +6618,7 @@ c9w.net
 cablato.com
 cabnnr.com
 cab-too-low.com
+cachegorilla.com
 cache.img.gmo.jp
 cackle.me
 cackle.ru
@@ -7267,6 +7275,7 @@ creativejolt.com
 creativejolt.io
 creativekea.com
 creativekeedas.in
+creativekingme.com
 creative-league.com
 creativemonkeys.in
 creativeparamedics.com
@@ -7766,6 +7775,7 @@ darvorn.com
 dashboard.evolveplatform.net
 dashboard.fc2ppv.buzz
 dash.sparkloop.app
+dashtwo.com
 datablocks.net
 data-cash.net
 data-cash.network
@@ -7937,6 +7947,7 @@ digitalflare.io
 digital.goldvertise.com
 digitalhub-h.de
 digitalitzone.com
+digital-mandi.com
 digitalmarketingspecialists.com.au
 digitalmarketingworks.in
 digitalmediacommunications.com
@@ -8134,6 +8145,7 @@ dpguystuff.mobi
 dpinspire.mobi
 dplivin.mobi
 dpmetro.mobi
+dppad.com
 dpsq2uzakdgqz.cloudfront.net
 dq06u9lt5akr2.cloudfront.net
 dq3yxnlzwhcys.cloudfront.net
@@ -9461,6 +9473,7 @@ hprofits.com
 hpyjmp.com
 hpyue.com
 hq3x.com
+hqchbs.com
 hqrsuxsjqycv.info
 hrahdmon.com
 hrijqd.com
@@ -9874,6 +9887,7 @@ itzekromom.com
 iubenda.com
 iulftx.com
 iupgxu.com
+iurny.com
 i-vengo.com
 ivhnnw.com
 ividence.com
@@ -10478,6 +10492,7 @@ lorajety.com
 loralana.com
 lose4admin.de
 lotupteni.pro
+lotusorbit.com
 louchees.net
 loveadv.com
 lovecash.com
@@ -10519,6 +10534,7 @@ luxup.ru
 luyfrk.com
 luyten-98c.com
 lvkwz.com
+lwmoaf.com
 lwxjg.com
 lycooc.com
 lynxdollars.com
@@ -11227,6 +11243,7 @@ n2s.co.kr
 n3f3c2s2.stackpathcdn.com
 n49.de
 n91adshostnet.com
+na0z0thlap.com
 nababrew.com
 nabs.org.uk
 nacdigital.net
@@ -12304,6 +12321,7 @@ popads.net
 popadup.com
 popadvert.com
 popbounty.com
+popbutler.com
 popcash.net
 popclck.com
 popdom.s3.amazonaws.com
@@ -13214,6 +13232,7 @@ rmiatl.net
 rmiatl.org
 rmmonline.com
 rmndme.com
+rmqnfg.com
 rmraos.com
 rmt.homedepot.com
 r.muu.ee
@@ -16148,5 +16167,6 @@ zypmedia.com
 zyrji.com
 zysheptany.com
 zyxyveshe.com
+zzfoms.com
 zzxjlr.com
 zzxnxp.com
