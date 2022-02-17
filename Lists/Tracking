@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,487
-# Updated: 2/15/2022  20:14 (8:14 PM CST)
+# Domains: 69,498
+# Updated: 2/17/2022  15:04 (3:04 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -14147,6 +14147,7 @@ checkmyip.com
 check-my-ip.net
 checkout.zoro.com
 checkpagerank.net
+check.peer2profit.site
 check.privadovpn.com
 checkstat.nl
 cheerfulrange.com
@@ -18735,6 +18736,7 @@ fwpixel.com
 fx.bossgoo.com
 fzlnk.com
 g089.fiercevideo.com
+g2c.club
 g2insights-cdn.azureedge.net
 g2trk.com
 g30sltrk.com
@@ -18907,6 +18909,7 @@ geoip.ativo.com
 geoip.audials.com
 geoip.boredpanda.com
 geoip.businessoffashion.com
+geo-ip.canonminiprint.com
 geoip.esri.com
 geoip.evigarten.com
 geoip.finanzen.net
@@ -31720,6 +31723,7 @@ iedc.fitbit.com
 ie.fastbridge.org
 iesnare.com
 iesnare.co.uk
+ifconfig.cc
 ifconfig.co
 ifconfig-la.sprious.com
 ifconfig.me
@@ -35386,6 +35390,7 @@ iphone-ld.apple.com
 iphone-ld.origin-apple.com.akadns.net
 iphonesubmissions.apple.com
 ip.if.iqiyi.com
+ipify4.pling.com
 ipify.org
 ipinfodb.com
 ip-info.ff.avast.com
@@ -35428,9 +35433,11 @@ iponweb.net
 ipowow.com
 ip.oxylabs.io
 ip-ping.ru
+ippls.com
 ipp.moojing.com
 ip.prvtx.net
 ipqualityscore.com
+ipquery.waimaoq.com
 iprecon.iglobalstores.com
 ipredictive.com
 ip.rocket-proxy.net
@@ -36550,6 +36557,7 @@ logger.baofeng.com
 logger.bizzaru.com
 logger.bzu.kr
 logger.cbs.co.kr
+logger.co.kr
 logger.geps.or.kr
 logger.goeuro.com
 logger.pw
@@ -40886,6 +40894,7 @@ panther.tigil.rs
 panther.uchijapan.com
 papalotla.grupopapalotla.com
 papertrailapp.com
+papsy.net
 paraccel.com
 paradoxfactor.com
 parakeet.jorenvanhocht.be
@@ -50430,6 +50439,7 @@ smetrics.statnews.com
 smetrics.suncorp.com.au
 smetrics.timeout.com
 smetrics.toyota.com
+smetrics.traderonline.com
 smetrics.ubi.com
 smetrics.vonage.com
 smetrics.washingtonpost.com
@@ -64595,6 +64605,7 @@ win.shipleywins.com
 winzenburg.com
 wipmania.com
 wirecomic.com
+wire.tools
 w.irs03.com
 wis2.max-ltd.co.jp
 wiselabs.ai
