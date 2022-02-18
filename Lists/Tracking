@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,501
-# Updated: 2/18/2022  16:28 (4:28 PM CST)
+# Domains: 69,507
+# Updated: 2/18/2022  16:55 (4:55 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -17915,6 +17915,7 @@ events.infogain.com
 events.institutmontaigne.org
 events.internationalhu.com
 events.intuit.launchdarkly.com
+events.iwin.com
 events.jeld-wen.ca
 events.jobsohio.com
 events.jotform.com
@@ -18955,6 +18956,7 @@ geolocation-api.packtpub.com
 geolocation.app.senecalearning.com
 geolocation.co.jp
 geolocation.daznservices.com
+geolocation-db.com
 geolocation.forbes.com
 geolocation.outreach.com
 geolocation-recommendations.shopifycloud.com
@@ -41765,6 +41767,7 @@ pi.magsinc.jp
 pimsassociates.com
 pi.msi.org
 pimuy.com
+pinballanalytics.com
 pinch.no
 pindrop.com
 p-i.net
@@ -41775,6 +41778,7 @@ ping-app1.idrive.com
 pingback.giphy.com
 pingback.issuu.com
 ping.chartbeat.net
+ping.citrix.com
 ping.cloud.tencent.com
 pingdom.com
 pingdom.net
@@ -48524,6 +48528,7 @@ resulticks.com
 resultsmedia.com
 res-x.com
 retagro.com
+retail.googleapis.com
 retailnext.net
 retailreco.com
 retail.salientsys.com
@@ -63719,6 +63724,7 @@ user.burlingtonfreepress.com
 user.caller.com
 usercentrics.eu
 user.cincinnati.com
+user.columbusmonthly.com
 user-data.mutinycdn.com
 user.dnj.com
 userexperience.thehut.net
