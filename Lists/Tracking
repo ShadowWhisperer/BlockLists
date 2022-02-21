@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,511
-# Updated: 2/21/2022  13:07 (1:07 PM CST)
+# Domains: 69,513
+# Updated: 2/21/2022  14:17 (2:17 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -47645,6 +47645,7 @@ prettyanalytics.com
 preview.preco.com
 previousplayground.com
 previouspotato.com
+preyset.com
 prfct.co
 prfhn.com
 pricespider.com
@@ -47764,6 +47765,7 @@ promociones.firmushomes.es
 promo.csagroup.org
 promo.degradeconseil.it
 promo.dirak-inc.com
+promo-flash.newegg.com
 promo.global-id-group.com
 promo.gruppo3i.it
 promo.ilpolodigitale.com
