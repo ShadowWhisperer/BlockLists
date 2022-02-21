@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 712
-# Updated: 2/3/2022  14:14 (2:14 PM CST)
+# Domains: 704
+# Updated: 2/21/2022  13:07 (1:07 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -43,18 +43,11 @@ myfontastic.com                                         #Font  Fontastic.me
 fontplus.aem.kao.com                                    #Font      FontPlus (Softbank Tech Corp.) Marketing / Analytics
 f.kinja-static.com                                      #Font      Kinja
 myfonts.net                                             #Font  My Fonts
+
 d1t6urij26il7f.cloudfront.net                           #Font      Font Awesome
 d3s44e87wooplq.cloudfront.net                           #Font      Font Awesome
+fontawesome.com.cdn.cloudflare.net                      #Font      Font Awesome
 fontawesome.com                                         #Font      Font Awesome
-ka-f.fontawesome.com                                    #Font      Font Awesome
-ka-p.fontawesome.com.cdn.cloudflare.net                 #Font      Font Awesome
-ka-p.fontawesome.com                                    #Font      Font Awesome
-kit.fontawesome.com.cdn.cloudflare.net                  #Font      Font Awesome
-kit.fontawesome.com                                     #Font      Font Awesome
-kit-free.fontawesome.com                                #Font      Font Awesome
-kit-pro.fontawesome.com                                 #Font      Font Awesome
-pro.fontawesome.com                                     #Font      Font Awesome
-use.fontawesome.com                                     #Font      Font Awesome
 fontstatic.com                                          #Font        Font Face
 fontface.me                                             #Font        Font Face
 fontcdn.ir                                              #Font  Font Server
