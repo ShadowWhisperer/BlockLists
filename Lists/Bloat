@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 704
-# Updated: 2/21/2022  13:07 (1:07 PM CST)
+# Domains: 703
+# Updated: 2/22/2022  11:44 (11:44 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -502,7 +502,6 @@ mdh-pa.googleapis.com                                   #Google
 mobiledataplan-pa.googleapis.com                        #Google
 myphonenumbers-pa.googleapis.com                        #Google
 nosslsearch.google.com                                  #Google
-ogs.google.com                                          #Google - Might Break Google Keep / Cause sync issues
 pack.google.com                                         #Google
 people-pa.clients6.google.com                           #Google
 people-pa.googleapis.com                                #Google

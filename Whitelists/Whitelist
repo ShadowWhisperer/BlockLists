@@ -119,8 +119,9 @@ ocsp.pki.goog                              # Google - Drive - Sign In
 geo0.ggpht.com                             # Google - Earth - Street View
 fonts.gstatic.com                          # Google - Fonts - Breaks Menus on some sites
 fonts.googleapis.com                       # Google - Fonts - Breaks Menus on some sites
-signaler-pa.clients6.google.com            # Google - Keep - Makes Sync Spin
+ogs.google.com                             # Google - Keep - Makes Sync Spin / Breaks Web Apps
 scone-pa.clients6.google.com               # Google - Keep - Makes Sync Spin
+signaler-pa.clients6.google.com            # Google - Keep - Makes Sync Spin
 whp-aus1.cold.extweb.hp.com                # HP: Driver Downloads
 whp-aus2.cold.extweb.hp.com                # HP: Driver Downloads
 oss.hpconnected.com                        # HP: Breaks 'HP Smart' app
