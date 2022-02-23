@@ -1,8 +1,8 @@
 #
 #    File: Dynamic
 #    Info: Dynamic DNS:  DNS --> IP
-# Domains: 1,654
-# Updated: 2/23/2022  01:48 (1:48 AM CST)
+# Domains: 1,655
+# Updated: 2/23/2022  14:07 (2:07 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
@@ -41,6 +41,7 @@
 4mydomain.com
 4pu.com
 4twenty.us
+64-b.it
 688.org
 69.mu
 77qac.com
