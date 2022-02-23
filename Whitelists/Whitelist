@@ -208,6 +208,7 @@ wscont.apps.microsoft.com                         # Microsoft - Windows 10 Updat
 userpresence.xboxlive.com                         # Microsoft - Xbox / Windows Games - Friends List
 codex.nflxext.com                               # Netflix - Website - Main Page
 c.paypal.com                                    # PayPal - Required for Sign In
+unauth1.prod.iot.irobotapi.com                  # Roomba - App Sign In
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com  # Roomba - Connect to internet (App Says Roomba is offline)
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com      # Roomba - Connect to internet (App Says Roomba is offline)
 api.checkout.com                                # Shopping Sites (Breaks Online Payments)
