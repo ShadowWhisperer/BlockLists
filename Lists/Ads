@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 15,855
-# Updated: 2/24/2022  00:20 (12:20 AM CST)
+# Domains: 15,856
+# Updated: 2/24/2022  10:06 (10:06 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -14142,6 +14142,7 @@ targetable.com
 targetadnetwork.com
 targetan.com
 targetednotifications-tm.trafficmanager.net
+targetedwebtraffic.com
 targetix.net
 targetmediapartners.com
 targetpush.co.kr
