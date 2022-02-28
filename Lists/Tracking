@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,656
-# Updated: 2/25/2022  15:57 (3:57 PM CST)
+# Domains: 69,658
+# Updated: 2/27/2022  21:54 (9:54 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -14436,6 +14436,7 @@ clickdensity.com
 clickdimensions.com
 clickemail.aquilafunds.com
 click.email.getresq.com
+click.email.sfaf.org
 click.engineering.publicissapient.fr
 clickfactory.co
 clickfraudfree.com
@@ -31213,6 +31214,7 @@ hello.aptly.de
 hello.ascendbehavior.com
 hello.besydney.com.au
 hello.calyx.ai
+hello.closedloop.ai
 hello.cloudforbusiness.hu
 hello.commandalkon.com
 hello.decisis.com
