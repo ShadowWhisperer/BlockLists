@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,765
-# Updated: 3/1/2022  16:39 (4:39 PM CST)
+# Domains: 69,767
+# Updated: 3/1/2022  17:49 (5:49 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -36056,7 +36056,9 @@ ksn-cinfo-geo.kas-labs.com
 ksn-cinfo-geo.kaspersky-labs.com
 ksn-crypto-info-geo.kas-labs.com
 ksn-crypto-stat-geo.kas-labs.com
+ksn-crypto-stat-geo.kaspersky-labs.com
 ksn-file-geo.kaspersky-labs.com
+ksn-fr-geo.kaspersky-labs.com
 ksn-info-geo.kaspersky-labs.com
 ksn-stat-geo.kaspersky-labs.com
 ksn-stat-install.kaspersky-labs.com
