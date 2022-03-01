@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 195
-# Updated: 2/28/2022  23:14 (11:14 PM CST)
+# Domains: 196
+# Updated: 3/1/2022  00:37 (12:37 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
@@ -118,6 +118,7 @@ muscdn.com                                     #Company - Lemon, Inc. - TikTok
 musical.ly                                     #Company - Lemon, Inc. - TikTok
 sgsnssdk.com                                   #Company - Lemon, Inc. - TikTok
 tiktok-apis.com                                #Company - Lemon, Inc. - TikTok
+ttwstatic.com                                  #Company - Lemon, Inc. - TikTok
 mzfvozqybf.com                                 #Company - TikTok LTD  - TikTok
 qfyf1toi.com                                   #Company - TikTok LTD  - TikTok
 tik-tokapi.com                                 #Company - TikTok LTD  - TikTok
