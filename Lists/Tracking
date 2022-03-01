@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,762
-# Updated: 3/1/2022  11:31 (11:31 AM CST)
+# Domains: 69,764
+# Updated: 3/1/2022  14:39 (2:39 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -15024,6 +15024,7 @@ connect.geomax-positioning.com
 connect.geoplm.com
 connect.grandbanks.com
 connect.gwgh.com
+connect.healthaware.com
 connect.hexagon.com
 connect.hexagongeospatial.com
 connect.hexagongeosystems.com
@@ -25624,6 +25625,7 @@ go.manzo.jp
 go.mapaplus.com
 go.mapatours.com
 go.mapion.co.jp
+go.mapiq.com
 go.mapistry.com
 go.maplecroft.com
 go.maptek.com
