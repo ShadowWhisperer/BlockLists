@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 704
-# Updated: 2/23/2022  14:07 (2:07 PM CST)
+# Domains: 705
+# Updated: 3/2/2022  14:08 (2:08 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -475,6 +475,7 @@ mtalk4.google.com                                       #Google   Talk
 talk.google.com                                         #Google   Talk
 talkx.l.google.com                                      #Google   Talk
 app.goo.gl                                              #Google
+appsgrowthpromo-pa.clients6.google.com                  #Google
 assistant.google.com                                    #Google
 cast.google.com                                         #Google
 chromecontentsuggestions-pa.googleapis.com              #Google

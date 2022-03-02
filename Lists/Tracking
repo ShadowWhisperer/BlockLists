@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,787
-# Updated: 3/2/2022  12:25 (12:25 PM CST)
+# Domains: 69,789
+# Updated: 3/2/2022  14:08 (2:08 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12716,6 +12716,7 @@ baboon.naxon.dev
 baboon.vacanti.com
 backend.zaczytaj.pl
 backstory.ebay.at
+backstory.ebay.ca
 backstory.ebay.com
 backstory.ebay.co.uk
 backstory.ebay.de
@@ -54451,6 +54452,7 @@ stats.avec2elles.net
 stats.avenirsup.com
 stats.aveplan.fi
 stats.avgbrowser.com
+stats.avg.com
 stats.avgwebinars.nl
 stats.avheng.com
 stats.aviationphoto.ch
