@@ -32281,7 +32281,10 @@ ksn-cinfo-geo.kaspersky-labs.com
 ksn-crypto-info-geo.kas-labs.com
 ksn-crypto-stat-geo.kas-labs.com
 ksn-crypto-stat-geo.kaspersky-labs.com
+ksn-crypto-url-geo.kaspersky-labs.com
+ksn-crypto-wifiplus-geo.kas-labs.com
 ksn-file-geo.kaspersky-labs.com
+ksn-fr-geo.kas-labs.com
 ksn-fr-geo.kaspersky-labs.com
 ksn-info-geo.kaspersky-labs.com
 ksn-stat-geo.kaspersky-labs.com
@@ -32814,6 +32817,7 @@ logs.ap-southeast-1.amazonaws.com
 logs.ap-southeast-2.amazonaws.com
 logs.autofi.com
 logs.ca-central-1.amazonaws.com
+logs.cloudimgs.net
 logs.dashlane.com
 logs.eu-central-1.amazonaws.com
 logs.eu-north-1.amazonaws.com
@@ -35096,6 +35100,7 @@ nkydma.newbuild.studio
 nl.arjo.com
 nl.gn.com
 nl.info.devoteam.com
+nlogs.cloudimgs.net
 nlpcoaching.shigoto-manabiya.jp
 nl.sloggi.com
 nl.xlst.at
@@ -44538,6 +44543,7 @@ snowplow.suamusica.com.br
 snowplow.swm.digital
 snowplow.tegger.io
 snowplow.trx.gitlab.net
+snowplow.visma.com
 s.ns1p.net
 sn.simplenexus.com
 sns.mcafee.com

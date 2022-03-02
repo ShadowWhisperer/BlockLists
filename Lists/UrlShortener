@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 560
-# Updated: 3/1/2022  16:39 (4:39 PM CST)
+# Domains: 559
+# Updated: 3/2/2022  12:25 (12:25 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -40,7 +40,6 @@ abelinc.me
 abit.ly
 acconpit.com
 add.lat
-adexplode.pw
 adf.ly
 adfly.be
 adflydsp.com

@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,776
-# Updated: 3/2/2022  08:23 (8:23 AM CST)
+# Domains: 69,787
+# Updated: 3/2/2022  12:25 (12:25 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -18937,6 +18937,7 @@ geo2.adobe.com
 geo2.ggpht.com
 geo3.ggpht.com
 geo.adobe.com
+geoapify.com
 geoapi.indiatimes.com
 geoar.googleapis.com
 geo-assets.tedcdn.com
@@ -36062,7 +36063,10 @@ ksn-cinfo-geo.kaspersky-labs.com
 ksn-crypto-info-geo.kas-labs.com
 ksn-crypto-stat-geo.kas-labs.com
 ksn-crypto-stat-geo.kaspersky-labs.com
+ksn-crypto-url-geo.kaspersky-labs.com
+ksn-crypto-wifiplus-geo.kas-labs.com
 ksn-file-geo.kaspersky-labs.com
+ksn-fr-geo.kas-labs.com
 ksn-fr-geo.kaspersky-labs.com
 ksn-info-geo.kaspersky-labs.com
 ksn-stat-geo.kaspersky-labs.com
@@ -36791,6 +36795,7 @@ logs.ap-southeast-1.amazonaws.com
 logs.ap-southeast-2.amazonaws.com
 logs.autofi.com
 logs.ca-central-1.amazonaws.com
+logs.cloudimgs.net
 logs.dashlane.com
 logs.eu-central-1.amazonaws.com
 logs.eu-north-1.amazonaws.com
@@ -37015,6 +37020,7 @@ lw94trk.com
 lwc.livingwithcml.com
 lwwindia.co.in
 lynchpin.com
+lynkstate.com
 lynxanalytics.com
 lynx.bitefullbox.com
 lynx.inovo.io
@@ -39559,6 +39565,7 @@ netdeal.com.br
 netelixir.com
 netfactor.com
 net-filter.com
+netgazer.org
 net.genmaikoso.co.jp
 netid.ff.avast.com
 netinsight.co.kr
@@ -39794,6 +39801,7 @@ nl.arjo.com
 nl.gn.com
 nl.info.devoteam.com
 nlogic.ca
+nlogs.cloudimgs.net
 nlpcoaching.shigoto-manabiya.jp
 nl.sloggi.com
 nlsn.media
@@ -47838,6 +47846,7 @@ previouspotato.com
 preyset.com
 prfct.co
 prfhn.com
+prfl.me
 pricespider.com
 pricing.lowrysolutions.com
 pricklydebt.com
@@ -50771,6 +50780,7 @@ snowplow.suamusica.com.br
 snowplow.swm.digital
 snowplow.tegger.io
 snowplow.trx.gitlab.net
+snowplow.visma.com
 snowteethwhitening.com
 snplow.net
 snrbox.com
@@ -63232,6 +63242,7 @@ track.parlonspeauparlonsbien.org
 track.pfnztoday.com
 track.prestiyou.it
 track.primeagencia.com.br
+trackpup.com
 trackpush.com
 track.qk.com.au
 track.quoteandproposals.com
