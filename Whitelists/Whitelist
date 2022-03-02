@@ -116,6 +116,7 @@ storage.googleapis.com                     # Google - Chrome - Google
 translate.googleapis.com                   # Google - Chrome - Google
 clients6.google.com                        # Google - Drive - Download From Browser
 ocsp.pki.goog                              # Google - Drive - Sign In
+khmdb.google.com                           # Google - Earth - Database (Freezes Google Earth, Software)
 geo0.ggpht.com                             # Google - Earth - Street View
 fonts.gstatic.com                          # Google - Fonts - Breaks Menus on some sites
 fonts.googleapis.com                       # Google - Fonts - Breaks Menus on some sites
