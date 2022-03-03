@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 705
-# Updated: 3/2/2022  14:08 (2:08 PM CST)
+# Domains: 706
+# Updated: 3/2/2022  19:52 (7:52 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -359,6 +359,7 @@ steambroadcast.akamaized.net                            #Software    Steam - Bro
 ipv6check-udp.steamcontent.com                          #Software    Steam
 ipv6check-http.steamcontent.com                         #Software    Steam
 void.steelseries.com                                    #Software        SteelSeries - Nahimic Audio (MSI Laptop)
+thunderbird-settings.thunderbird.net                    #Software   Thunderbird (?) Kinto
 bench.utorrent.com                                      #Software      µTorrent
 macupdate.utorrent.com                                  #Software      µTorrent
 router.utorrent.com                                     #Software      µTorrent
