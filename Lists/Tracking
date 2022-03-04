@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,797
-# Updated: 3/3/2022  10:48 (10:48 AM CST)
+# Domains: 69,799
+# Updated: 3/4/2022  00:26 (12:26 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -18379,6 +18379,7 @@ fipsta.urbanara.de
 fipsta.worldfitness.co
 fipsta.worldfitness.de
 fir4trk.com
+firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
@@ -47288,6 +47289,7 @@ pixel.risepharmacy.com.br
 pixel.rodrigomourao.com.br
 pixel.ronilsongoveia.com.br
 pixel.rossanagalvao.com.br
+pixel.roughgroup.com
 pixel.rubenssantanna.com.br
 pixel.s3xified.com
 pixel.sabedoriaeprosperidade.com
