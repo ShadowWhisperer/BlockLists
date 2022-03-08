@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 104
-# Updated: 2/10/2022  11:33 (11:33 AM CST)
+# Domains: 105
+# Updated: 3/7/2022  23:34 (11:34 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
@@ -72,6 +72,7 @@ logmeinusercontent.com
 mikogo.com
 mingleview.com
 mspanywhere-us1-download-elb-292950435.us-west-2.elb.amazonaws.com
+myquickcloud.com
 nanosystems.it
 netop.com
 netviewer.com

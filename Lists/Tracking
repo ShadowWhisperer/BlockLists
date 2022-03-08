@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 69,806
-# Updated: 3/7/2022  19:56 (7:56 PM CST)
+# Domains: 69,815
+# Updated: 3/7/2022  23:34 (11:34 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12832,6 +12832,7 @@ baztrack.com
 bb.blackberry.com
 bbelements.com
 b.bostonglobemedia.com
+bbstatic.pcmag.com
 bc001.heineken.com
 bc0a.com
 bc60.playfabapi.com
@@ -16049,6 +16050,7 @@ d16i0l5qhf2h7o.cloudfront.net
 d174f84q5mcorf.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d19ptbnuzhibkh.cloudfront.net
+d1af033869koo7.cloudfront.net
 d1aqhv4sn5kxtx.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1.dhgate.com
@@ -18000,6 +18002,7 @@ events.rms.de
 events-service.coinbase.com
 events.smartgroupltd.co.uk
 events.smartlive.co.uk
+events.smct.co
 events.smurfitkappa.com
 events.split.io
 events.squarespace.com
@@ -31116,6 +31119,8 @@ guppy.setasign.com
 guppy.surfpayapp.com
 guppy.under2.agency
 gurgle.extremetech.com
+gurgle.pcmag.com
+gurgle.zdbb.net
 gute.autoversicherung.de
 g.vdigitalservices.com
 g.vmgadvertising.com
@@ -49463,6 +49468,7 @@ scholarlyiq.com
 sc.holtsmilitarybank.co.uk
 school.benesse.co.jp
 sci.digitalinsight.com
+science-edge-external-prod-73889260.us-west-2.elb.amazonaws.com
 sciencerevenue.com
 sciencex.com
 scientiamobile.com
@@ -50672,6 +50678,7 @@ smetrics.timeout.com
 smetrics.toyota.com
 smetrics.traderonline.com
 smetrics.ubi.com
+smetrics.usbank.com
 smetrics.vonage.com
 smetrics.washingtonpost.com
 s.metrics.writersdigest.com
@@ -69584,6 +69591,7 @@ xcelerate.bdpinternational.com
 xchange.iasa.org
 xchangelite.iasa.org
 xclicks.net
+x.cnt.my
 xd1trk.com
 xdcs-collector.ximalaya.com
 x.disq.us
@@ -69783,6 +69791,7 @@ zippywind.com
 ziyu.net
 zkds923.com
 z.ksl.com
+z.lenmit.com
 zlp6s.pw
 zms.zalando.com
 z-na.associates-amazon.com
