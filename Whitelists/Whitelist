@@ -1,0 +1,382 @@
+my-win.avast.com                                    #Antivirus -   AVG (Activate Free Version)
+ping.avast.com                                      #Antivirus -   AVG (Install Freezes)
+s-nuistatic.avcdn.net                               #Antivirus -   AVG (Website Login)
+ff.kis.scr.kaspersky-labs.com                       #Antivirus - Kaspersky - Scans Webpages (FireFox)
+gc.kis.scr.kaspersky-labs.com                       #Antivirus - Kaspersky - Scans Webpages (Google Chrome)
+ie.kis.scr.kaspersky-labs.com                       #Antivirus - Kaspersky - Scans Webpages (Internet Explorer)
+updatekeepalive.mcafee.com                          #Antivirus -   McAfee - Installer (Internet Connection Test)
+analytics-login.norton.com                          #Antivirus - Norton (Won't Login)
+shasta-rrs.symantec.com                             #Antivirus - Norton (Won't Scan)
+
+adwcleaner.toolslib.net                             #Software - Adwcleaner
+cache-cms-ext-us.battle.net                         #Software - Battle.net (What's New)
+sugarsync.com                                       #Software - Cloud Storage
+geolocation.garmin.com                              #Software - Garmin Express (Check for map updates)
+mirrors.kodi.tv                                     #Software - Kodi
+blocklist.addons.mozilla.org                        #Software - Firefox - Addons
+net.geo.opera.com                                   #Software - Opera (Prevents download)
+spclient.wg.spotify.com                             #Software - Spotify - Audio
+guc3-spclient.spotify.com                           #Software - Spotify - Create Account - Captcha
+live.thunderbird.net                                #Software - Thunderbird - Lookup email settings
+
+prod.mobile.roku.com                                #App - Roku Remote (Video Browser)
+rights-manager.sr.roku.com                          #App - Roku Remote (Videos)
+vod.delivery.roku.com                               #App - Roku Remote (Videos)
+wv.service.expressplay.com                          #App - Roku Remote (Videos)
+
+eulatracking-public-service-prod.ak.epicgames.com   #Game Client - Epic Games (Breaks game downloads)
+eulatracking-public-service-prod06.ol.epicgames.com #Game Client - Epic Games (Breaks game downloads)
+proxy.novafusion.ea.com                             #Game Client - Origin (Activate Games)
+
+discovery.services.gearboxsoftware.com              #Game - Borderlands 3 (Breaks Multiplayer)
+api.epicgames.dev                                   #Game - Insurgency: Sandstorm (Breaks Anticheat)
+country-code.pubg-ns-gate.com                       #Game - PUPG: New State (Check for updates)
+maintenance-gate.pubg-ns-gate.com                   #Game - PUPG: New State (Check for updates)
+cdn.enter-pubg-new-state.com                        #Game - PUPG: New State (Check for updates)
+lobby.pubg-ns-gate.com                              #Game - PUPG: New State (Load Pre-match Screen)
+event-img.enter-pubg-new-state.com                  #Game - PUPG: New State (Breaks Crate - Top Right, in Lobby)
+ebdsw.enter-pubg-new-state.com                      #Game - PUPG: New State (What's New - Still pops up, just says "page not found")
+video.enter-pubg-new-state.com                      #Game - PUPG: New State (Crate Videos)
+
+prod.dw.us.fdcnet.biz                               #Credit Card Terminal
+secure.uptrillion.com                               #Credit Card Terminal
+
+lm.licenses.adobe.com                      # Adobe - Activate Software
+sp.auth.adobe.com                          # Adobe - Login Sites
+swupmf.adobe.com                           # Adobe - Updates
+ae01.alicdn.com                            # AliExpress - Images
+appleid.apple.com.akadns.net                 # Apple - App Store - Login
+appleid.cdn-apple.com                        # Apple - App Store - Login
+ax.init.itunes.apple.com                     # Apple - App Store
+osxapps.itunes.apple.com                     # Apple - App Store
+search.itunes.apple.com                      # Apple - App Store
+swcatalog.apple.com                          # Apple - Apple Software Update - Check for updates
+idmsa.apple.com                              # Apple - iCloud Website Login
+clouddrive.com                               # Apple - iCloud
+gsa.apple.com.akadns.net                     # Apple - System Update
+gsa.apple.com                                # Apple - System Update
+mesu.apple.com                               # Apple - System Update
+appldnld.apple.com.akadns.net                # Apple - Updates
+appldnld.apple.com                           # Apple - Updates
+appldnld                                     # Apple - Updates
+gdmf.apple.com.akadns.net                    # Apple - Updates
+gdmf.apple.com                               # Apple - Updates
+gs.apple.com.akadns.net                      # Apple - Updates
+gs.apple.com                                 # Apple - Updates
+init.itunes.apple.com                        # Apple - Updates
+mesu.g.aaplimg.com                           # Apple - Updates
+secure-appldnld.apple.com                    # Apple - Updates
+swcdn.apple.com                              # Apple - Updates
+swcdnlocator.apple.com                       # Apple - Updates
+swdownload.apple.com                         # Apple - Updates
+swquery.apple.com                            # Apple - Updates
+swscan.apple.com                             # Apple - Updates
+web-experience.itunes.apple.com              # Apple - Website - Images
+gannett-cdn.com                            # Argus Leader
+etrk.asus.com                              # Asus - Download Drivers
+routerfeedback.asus.com                    # Asus - Router Firmware Updates
+gravatar.com                               # Avatar Icons
+liveapi.yext.com                           # Cabelas - Check In Stock
+cdn.rlcdn.com                              # Cabelas - Images
+graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
+s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
+d.la1-c1-ord.salesforceliveagent.com       # Dell - Chat
+la1-c1-ord.ord.r.salesforceliveagent.com   # Dell - Chat
+pulsar.ebay.com                            # Ebay - Breaks "Other Items For Sale From Seller"
+ir.ebaystatic.com                          # Ebay - Breaks "See All" in advanced search
+gha.ebay.com                               # Ebay - Notifications
+vod.ebay.com                               # Ebay - Print Preview
+secureir.ebaystatic.com                    # Ebay - Edit Item
+rover.ebay.at                              # Ebay - View Orders
+rover.ebay.com                             # Ebay - View Orders
+rover.ebay.de                              # Ebay - View Orders
+hotmail.com                                # Email - Hotmail
+gallery.mailchimp.com                      # Email - Mailchimp - Images
+login.yahoo.com                            # Email - Yahoo
+smtp.mail.yahoo.com                        # Email - Yahoo
+imagesak.secureserver.net                  # Email - Godaddy
+tredir.espn.com                            # ESPN - Prevents videos from playing
+dropbox.com                                # File Sharing
+dl.dropboxusercontent.com                  # File Sharing
+justbeamit.com                             # File Sharing
+iris06-gold-ssl.gameloft.com               # Gameloft - Prevents games from starting
+accounts.google.com                        # Google - All - Login
+cryptauthenrollment.googleapis.com         # Google - Android - Set Payment Info
+play-lh.googleusercontent.com              # Google - Android - Store Images
+kh.google.com                              # Google - Maps - Earth View
+crls.pki.goog                              # Google - Chrome - Download - Portable Version
+chrome.google.com                          # Google - Chrome - Store - Extensions - Page
+lh3.googleusercontent.com                  # Google - Chrome - Store - Extensions - Icons
+clients2.google.com                        # Google - Chrome - Store - Extensions - Download
+clients4.google.com                        # Google - Chrome - Sync Account
+tools.google.com                           # Google - Chrome - Update
+apis.google.com                            # Google - Chrome - Google
+gstatic.com                                # Google - Chrome - Google
+redirector.gvt1.com                        # Google - Chrome - Google
+storage.googleapis.com                     # Google - Chrome - Google
+translate.googleapis.com                   # Google - Chrome - Google
+clients6.google.com                        # Google - Drive - Download From Browser
+ocsp.pki.goog                              # Google - Drive - Sign In
+khmdb.google.com                           # Google - Earth - Database (Freezes Google Earth, Software)
+geo0.ggpht.com                             # Google - Earth - Street View
+fonts.gstatic.com                          # Google - Fonts - Breaks Menus on some sites
+fonts.googleapis.com                       # Google - Fonts - Breaks Menus on some sites
+ogs.google.com                             # Google - Keep - Makes Sync Spin / Breaks Web Apps
+scone-pa.clients6.google.com               # Google - Keep - Makes Sync Spin
+signaler-pa.clients6.google.com            # Google - Keep - Makes Sync Spin
+whp-aus1.cold.extweb.hp.com                # HP: Driver Downloads
+whp-aus2.cold.extweb.hp.com                # HP: Driver Downloads
+oss.hpconnected.com                        # HP: Breaks 'HP Smart' app
+cdn-us-cf2.yottaa.net                      # Images - Brownells
+qoe-1.yottaa.net                           # Images - Brownells
+terra-1-g.djicdn.com                       # Images - DJI
+encrypted-tbn0.gstatic.com                 # Images - Google
+encrypted-tbn1.gstatic.com                 # Images - Google
+encrypted-tbn2.gstatic.com                 # Images - Google
+encrypted-tbn3.gstatic.com                 # Images - Google
+staticapp.icpsc.com                        # Images - Sig Email
+l.yimg.com                                 # Images - Yahoo
+s1.yimg.com                                # Images - Yahoo
+s.yimg.com                                 # Images - Yahoo
+fastpic.ru                                 # Images - Various
+imagizer.imageshack.com                    # Images - Various
+pp.userapi.com                             # Images - Various
+static.fastpic.ru                          # Images - Various
+static.wixstatic.com                       # Images - Various
+g.live.com                                        # Microsoft - .Net Framework
+licensing.mp.microsoft.com                        # Microsoft - Active Windows
+cart.production.store-web.dynamics.com            # Microsoft - Add Payment Info
+aadcdn.msauth.net                                 # Microsoft - Breaks Images
+time.windows.com                                  # Microsoft - Clock
+client.hip.live.com                               # Microsoft - Create Email Account
+eus.client.hip.live.com                           # Microsoft - Create Email Account (Captcha)
+scu.client.hip.live.com                           # Microsoft - Create Email Account (Captcha)
+ncu.client.hip.live.com                           # Microsoft - Create Email Account (Captcha)
+assets.onestore.ms                                # Microsoft - Downloads Page
+edge.microsoft.com                                # Microsoft - Edge - Download Extensions
+microsoftedge.microsoft.com                       # Microsoft - Edge - Extensions Webpage
+ratingsedge.rnr.microsoft.com                     # Microsoft - Edge - Extensions Webpage - Ratings
+dsm-efz.ms-acdc.office.com                        # Microsoft - Email - Imap
+login.live.com                                    # Microsoft - Email - Login
+login.microsoftonline.com                         # Microsoft - Email - Login
+mdw-efz.ms-acdc.office.com                        # Microsoft - Email - Login
+wus.client.hip.live.com                           # Microsoft - Email - Capcha
+i1.social.s-msft.com                              # Microsoft - Forums Page
+ee38.playfabapi.com                               # Microsoft - Games - Breaks Online - Halo: Master Chief Collection
+peoplehub.xboxlive.com                            # Microsoft - Games - Breaks Social - Halo: Master Chief Collection
+title.mgt.xboxlive.com                            # Microsoft - Games - Breaks Launch
+halostats.svc.halowaypoint.com                    # Microsoft - Games - Breaks Leveling UP - Halo: Infinite
+zone.msn.com                                      # Microsoft - MSN Games
+img-s-msn-com.akamaized.net                       # Microsoft - MSN Images
+dns.msftncsi.com                                  # Microsoft - Network Icon Status
+msftconnecttest.com                               # Microsoft - Network Icon Status
+msftncsi.com                                      # Microsoft - Network Icon Status
+blob.officehome.msocdn.com                        # Microsoft - Office 365 - Login
+compass-ssl.microsoft.com                         # Microsoft - Office 365 - Website Tile Images
+blobs.officehome.msocdn.com                       # Microsoft - Office Site
+activation-v2.sls.microsoft.com                   # Microsoft - Office - Active
+go.microsoft.com                                  # Microsoft - Office - Active
+officeclient.microsoft.com                        # Microsoft - Office - Active
+ajax.aspnetcdn.com                                # Microsoft - Office -  Download
+az725175.vo.msecnd.net                            # Microsoft - Office -  Download
+office.live.com                                   # Microsoft - Office -  Download
+statics-marketingsites-eus-ms-com.akamaized.net   # Microsoft - Office -  Download (2010)
+statics-marketingsites-wcus-ms-com.akamaized.net  # Microsoft - Office -  Download (2010)
+mrodevicemgr.officeapps.live.com                  # Microsoft - Office -  Download (2021) Error Code 0-2031 (17002)
+ecs.office.com                                    # Microsoft - Office -  Download (2021) Error Code 0-2031 (17002)
+metadata.templates.cdn.office.net                 # Microsoft - Office -  Download Templates
+identity.osi.office.net                           # Microsoft - Office -  Breaks Email Logins (Chrome)
+statics-uhf-wus.akamaized.net                     # Microsoft - Support Pages
+wdcp.microsoft.com                                # Microsoft - Windows Defender Updates
+storecatalogrevocation.storequality.microsoft.com # Microsoft - Windows Store (Remove licenses for malicious apps)
+displaycatalog.mp.microsoft.com                   # Microsoft - Windows Store
+services.apps.microsoft.com                       # Microsoft - Windows Store
+storeedgefd.dsx.mp.microsoft.com                  # Microsoft - Windows Store
+store-images.s-microsoft.com                      # Microsoft - Windows Store
+wscont1.apps.microsoft.com                        # Microsoft - Windows Store
+wscont2.apps.microsoft.com                        # Microsoft - Windows Store
+fe2.ws.microsoft.com                              # Microsoft - Windows 8 Store
+next-services.apps.microsoft.com                  # Microsoft - Windows 8 Store
+device.auth.xboxlive.com                          # Microsoft - Windows 10 Store
+user.auth.xboxlive.com                            # Microsoft - Windows 10 Store
+xsts.auth.xboxlive.com                            # Microsoft - Windows 10 Store
+fe2cr.update.microsoft.com                        # Microsoft - Windows 10 Updates
+slscr.update.microsoft.com                        # Microsoft - Windows 10 Updates
+title.auth.xboxlive.com                           # Microsoft - Windows 10 Xbox Login
+download.windowsupdate.com                        # Microsoft - Windows Updates
+update.microsoft.com                              # Microsoft - Windows Updates
+windowsupdate.com                                 # Microsoft - Windows Updates
+msagfx.live.com                                   # Microsoft - Windows 10 Initial setup > User creation
+wscont.apps.microsoft.com                         # Microsoft - Windows 10 Update Assistant
+userpresence.xboxlive.com                         # Microsoft - Xbox / Windows Games - Friends List
+codex.nflxext.com                               # Netflix - Website - Main Page
+c.paypal.com                                    # PayPal - Required for Sign In
+unauth1.prod.iot.irobotapi.com                  # Roomba - App Sign In
+a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com  # Roomba - Connect to internet (App Says Roomba is offline)
+a2uowfjvhio0fa.iot.us-east-1.amazonaws.com      # Roomba - Connect to internet (App Says Roomba is offline)
+api.checkout.com                                # Shopping Sites (Breaks Online Payments)
+l.facebook.com                                    # Social Media - Facebook (Breaks Links)
+scontent.xx.fbcdn.net                             # Social Media - Facebook (Comments: User Pic)
+api.facebook.com                                  # Social Media - Facebook
+connect.facebook.net                              # Social Media - Facebook
+facebook.com                                      # Social Media - Facebook
+api.pinterest.com                                 # Social Media - Pinterest
+mtalk.google.com                                  # Social Media - SnapChat (Breaks Notifications)
+alt1-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt2-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt3-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt4-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt5-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt6-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt7-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+alt8-mtalk.google.com                             # Social Media - SnapChat (Breaks Notifications)
+cnc.addlive.io                                    # Social Media - SnapChat (Breaks Voice/Video Chat)
+api.twitter.com                                   # Social Media - Twitter
+pbs.twimg.com                                     # Social Media - Twitter - Images
+twitter.com                                       # Social Media - Twitter
+assets.vsco.co                                    # Social Media - Vsco
+im.vsco.co                                        # Social Media - Vsco
+i.vsco.co                                         # Social Media - Vsco
+static.vsco.co                                    # Social Media - Vsco
+vsco.co                                           # Social Media - Vsco
+dyncdn.me                                       # Torrents - Picures
+unpkg.com                                       # Ubiquiti - NVR
+anonym.to                                       # URL Shortener
+bit.ly                                          # URL Shortener
+ow.ly                                           # URL Shortener
+tinyurl.com                                     # URL Shortener
+trib.al                                         # URL Shortener
+disqus.com                                      # User Comments
+s3.ap-northeast-2.amazonaws.com                 # Various Sites - File Downloads
+s3-eu-west-1.amazonaws.com                      # Various Sites - File Downloads
+s3.us-east-2.amazonaws.com                      # Various Sites - File Downloads
+s3-us-west-1.amazonaws.com                      # Various Sites - File Downloads
+maxcdn.bootstrapcdn.com                         # Various Sites - Icons  (Example: geapplianceparts.com)
+widgets.turnto.com                              # Various Sites - User Reviews / Q&A Section
+ent.east.mymtm.us                               # Vast - VOIP
+im.mymtm.us                                     # Vast - VOIP
+p.mymtm.us                                      # Vast - VOIP
+_sip._tcp.ent.east.mymtm.us                     # Vast - VOIP
+_xmpp-client._tcp.im.mymtm.us                   # Vast - VOIP
+d1n478pkuw1c5t.cloudfront.net                   # Verizon / Samsung Updater
+cdn.abcotvs.net                                 # Video - Embedded Sites
+dcf.espn.com                                    # Video - Embedded Sites
+embedwistia-a.akamaihd.net                      # Video - Embedded Sites
+fast.wistia.com                                 # Video - Embedded Sites
+cdn.cookielaw.org                               # Video - JWPlayer (Example: usmagazine.com)
+ftr2.external.xerox.com                         # Xerox - Scan to email
+privacyportal.cisco.com                         # Webex - Only hides cookie option buttons, not the whole banner
+youtube.com                                     # Youtube
+youtube-nocookie.com                            # Youtube - Embedded
+youtu.be                                        # Youtube - Shortener (Right click video --> Copy at this time)
+i.ytimg.com                                     # Youtube - Thumbnails
+
+
+# Smart TV
+########################
+configs.ott.aetnd.com                      # App - A&E (Check for internet access)
+signature.video.aetnd.com                  # App - A&E (Crashes App)
+appboot.netflix.com                        # App - Netflix (Won't Launch)
+nrdp52-appboot.netflix.com                 # App - Netflix (Won't Launch)
+content-prod.iot.irobotapi.com             # App - iRobot (Won't Launch)
+disc-prod.iot.irobotapi.com                # App - iRobot (Won't Launch)
+unauth3.prod.iot.irobotapi.com             # App - iRobot (Won't Launch)
+uapi.adrise.tv                             # App - Tubi
+s.adrise.tv                                # App - Tubi (Subtitles)
+license.adrise.tv                          # App - Tubi (Digital Rights Management Error, if blocked)
+account.production-public.tubi.io          # App - Tubi (Breaks - Guest Sign In)
+cdn.adrise.tv                              # App - Tubi (AdBlock Message)
+canvas.tubitv.com                          # App - Tubi (Movie Covers)
+api2.sr.roku.com                           # App - The Roku Channel
+gapi.waze.com                              # App - Wayze (Search for address)
+mas-ext.amazon.com                         # Amazon - FireStick (App Downloads)
+ftv-smp.ntp-fireos.com                     # Amazon - FireStick (Date & Time)
+austin.sw.roku.com                         # Roku - System Update Check
+bookmarks.sr.roku.com                      # Roku - Bookmarks (Prevents Video Playback)
+bryan.sw.roku.com                          # Roku - System Update Check
+liberty.sw.roku.com                        # Roku - System Update Check (Embedded TV)
+oempprd.samsungcloudsolution.com           # Samsung - App Updates
+oempprd.samsungcloudsolution.net           # Samsung - App Updates
+fota-apis.samsungdm.com                    # Samsung - Firmware Updates (Tablet will no register if blocked)
+otnprd8.samsungcloudsolution.net           # Samsung - Firmware Updates
+otnprd9.samsungcloudsolution.net           # Samsung - Firmware Updates
+otnprd10.samsungcloudsolution.net          # Samsung - Firmware Updates
+otnprd11.samsungcloudsolution.net          # Samsung - Firmware Updates
+api.meta.ndmdhs.com                        # Sony - Antenna TV Channel Guide
+update.biv.sony.tv                         # Sony - System Updates
+
+
+# Breaks Sites
+########################
+ws-na.amazon-adsystem.com            #Ad - Breaks Images       (toysrus.com)
+content-fox.uplynk.com               #Ad - Breaks Video Player (fox.com)
+s0.2mdn.net                          #Ad - Breaks Video Player (zdnet.com)
+at.adtech.redventures.io             #Ad - Breaks Video Player (zdnet.com)
+mediatailor.us-east-1.amazonaws.com  #Ad - Break Videos
+mediatailor.us-east-2.amazonaws.com  #Ad - Break Videos
+mediatailor.us-west-1.amazonaws.com  #Ad - Break Videos
+mediatailor.us-west-2.amazonaws.com  #Ad - Break Videos
+assets-ads.3dtuning.com              #Ad - Blocks Access to Site (3dtuning.com)
+ojrq.net                             #Ad/Tracker - Breaks Sites (Example: https://www.ojrq.net/p/?return=https%3A%2F%2Fgoto.target.com%2Fc%2F56891%2F79373%2F2092%3Fu%3Dhttp%253a%252f%252fwww.target.com%252fgift-registry%252fgiftgiver%253fregistryId%XXX%3D2&cid=2092&tpsync=yes)
+asadcdn.com                          #Ad/Tracker - Breaks Sites (Example: bild.de)
+imasdk.googleapis.com                #Ad/Tracker - Breaks Video Players on some sites
+guce.advertising.com                 #Ad/Tracker - Prevents 'aol.co.uk' from working
+mkt6385.com                          #Marketing - Breaks Confirmation Emails
+webto.salesforce.com                 #Marketing - Can't send support request
+lddy.no                              #Marketing - Breaks Links
+pjtra.com                            #Marketing - Breaks Links
+shareasale.com                       #Marketing - Breaks Links
+t.lt02.net                           #Marketing - Breaks Links
+track.aftership.com                  #Shipment Tracker
+quantcast.mgr.consensu.org           #Tracker - Breaks Embedded Video Player (Voltax / Minutemedia)
+wss.analyticacdn.com                 #Tracker - Breaks Embedded Video Player
+geo.craigslist.org                   #Tracker - Breaks Landing page
+7eer.net                             #Tracker - Breaks Links
+analytics.barnebys.sh                #Tracker - Breaks Links
+anrdoezrs.net                        #Tracker - Breaks Links
+api.bam-x.com                        #Tracker - Breaks Links (Affiliate Links)
+api.narrativ.com                     #Tracker - Breaks Links (Affiliate Links)
+app.e.sigsauer.com                   #Tracker - Breaks Links (Email)
+assoc-redirect.amazon.com            #Tracker - Breaks Links
+avantlink.com                        #Tracker - Breaks Links
+awstrack.me                          #Tracker - Breaks Links
+buff.ly                              #Tracker - Breaks Links
+c2.piano.io                          #Tracker - Breaks Sites (auto-swiat.pl)
+cdn.webclicks24.com                  #Tracker - Breaks Links
+cj.dotomi.com                        #Tracker - Breaks Links (Affiliate Links)
+classic.avantlink.com                #Tracker - Breaks Links
+click.dji.com                        #Tracker - Breaks Links
+click.email.newegg.com               #Tracker - Breaks Links
+click.linksynergy.com                #Tracker - Breaks Links
+click.mc.crimsontrace.com            #Tracker - Breaks Links
+dpbolvw.net                          #Tracker - Breaks Links (Affiliate Links)
+emjcd.com                            #Tracker - Breaks Links (Affiliate Links)
+geo1.presslabs.net                   #Tracker - Breaks Sites
+go.redirectingat.com                 #Tracker - Breaks Links
+go.skimresources.com                 #Tracker - Breaks Links
+jdoqocy.com                          #Tracker - Breaks Links (Affiliate Links)
+kqzyfj.com                           #Tracker - Breaks Links (Affiliate Links)
+links.iterable.com                   #Tracker - Breaks Links
+mandrillapp.com                      #Tracker - Breaks Links
+prf.hn                               #Tracker - Breaks Links (Affiliate Links)
+redirect.viglink.com                 #Tracker - Breaks Links
+shareasale-analytics.com             #Tracker - Breaks Links
+target.georiot.com                   #Tracker - Breaks Links
+tracking.truthfinder.com             #Tracker - Breaks Links
+trk.klclick1.com                     #Tracker - Breaks Links (Email)
+trk.klclick3.com                     #Tracker - Breaks Links (Email)
+uid.mavencoalition.io                #Tracker - Breaks Sites (history.com)
+click.instantink.hpsmart.com         #Tracker - Breaks Sites (HP Instant Ink emails)
+geoip-db.com                         #Tracker - Breaks Sites (HP Parts Page)
+geolocation-db.com                   #Tracker - Breaks Sites (HP Parts Page)
+geocode.xyz                          #Tracker - Breaks Zip code lookup (Weather Apps)
+rta.xboxlive.com                     #Tracker - Breaks games that use Xbox Live (Multiplayer)
+kangaroo.vocento.com                 #Tracker - Prevents site access -> abc.es
+geoip.cudasvc.com                    #Tracker - Barracuda Hardware Firewall - Set Time Zone
+
+
+# DNS Blocklists
+########################
+mypdns.cloud                         #My Privacy DNS, DNS RPZ zones
+mypdns.com                           #My Privacy DNS
+mypdns.org                           #My Privacy DNS, web + DNS AUTH
