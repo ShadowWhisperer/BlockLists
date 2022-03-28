@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 16,222
-# Updated: 3/28/2022  13:32 (1:32 PM CST)
+# Domains: 16,220
+# Updated: 3/28/2022  13:33 (1:33 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -11457,9 +11457,7 @@ notificationmessaging.com
 notification-prod.svc.gearsofwar.net
 notifications-api.cf.sky.com
 notifications.ennova-research.com
-notifications.gog.com
 notifications-pa.googleapis.com
-notifications-pusher-server-4.gog.com
 notifications.skype.com
 notification.tubecup.net
 notifiche.secoloditalia.it
