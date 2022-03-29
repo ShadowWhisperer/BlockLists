@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 70,452
-# Updated: 3/29/2022  10:49 (10:49 AM CST)
+# Domains: 70,454
+# Updated: 3/29/2022  17:05 (5:05 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -50344,6 +50344,7 @@ secure.otto5loki.com
 secure.ours3care.com
 secure.page1monk.com
 secure.path5wall.com
+securepathx.com
 secure.pdxor02.com
 secure.peak2poem.com
 secure.peep1alea.com
@@ -50367,6 +50368,7 @@ secure.ropescoursesinc.com
 secure.rote8mino.com
 secure.ruth8badb.com
 secure.ryke4peep.com
+secure-safetrack.com
 secure.saon6harz.com
 secure.scan6show.com
 secure.shoo5woop.com
