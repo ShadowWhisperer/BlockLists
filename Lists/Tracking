@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 70,450
-# Updated: 3/28/2022  12:10 (12:10 PM CST)
+# Domains: 70,451
+# Updated: 3/29/2022  08:25 (8:25 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -63366,6 +63366,7 @@ track.carbofixreviews.store
 track.cashinpills.com
 track-cdn.39ej7e.com
 track.ceracaremarket.ga
+trackcherry.com
 track.childrensalon.com
 track.cj.akadns.net
 track.cloudflow.com.au
