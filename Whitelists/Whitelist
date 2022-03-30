@@ -103,7 +103,6 @@ iris06-gold-ssl.gameloft.com               # Gameloft - Prevents games from star
 accounts.google.com                        # Google - All - Login
 cryptauthenrollment.googleapis.com         # Google - Android - Set Payment Info
 play-lh.googleusercontent.com              # Google - Android - Store Images
-kh.google.com                              # Google - Maps - Earth View
 crls.pki.goog                              # Google - Chrome - Download - Portable Version
 chrome.google.com                          # Google - Chrome - Store - Extensions - Page
 lh3.googleusercontent.com                  # Google - Chrome - Store - Extensions - Icons
@@ -124,6 +123,7 @@ fonts.googleapis.com                       # Google - Fonts - Breaks Menus on so
 ogs.google.com                             # Google - Keep - Makes Sync Spin / Breaks Web Apps
 scone-pa.clients6.google.com               # Google - Keep - Makes Sync Spin
 signaler-pa.clients6.google.com            # Google - Keep - Makes Sync Spin
+kh.google.com                              # Google - Maps - Earth View
 whp-aus1.cold.extweb.hp.com                # HP: Driver Downloads
 whp-aus2.cold.extweb.hp.com                # HP: Driver Downloads
 oss.hpconnected.com                        # HP: Breaks 'HP Smart' app
@@ -149,6 +149,7 @@ cart.production.store-web.dynamics.com            # Microsoft - Add Payment Info
 aadcdn.msauth.net                                 # Microsoft - Breaks Images
 time.windows.com                                  # Microsoft - Clock
 client.hip.live.com                               # Microsoft - Create Email Account
+acctcdn.msftauth.net                              # Microsoft - Create Email Account
 eus.client.hip.live.com                           # Microsoft - Create Email Account (Captcha)
 scu.client.hip.live.com                           # Microsoft - Create Email Account (Captcha)
 ncu.client.hip.live.com                           # Microsoft - Create Email Account (Captcha)

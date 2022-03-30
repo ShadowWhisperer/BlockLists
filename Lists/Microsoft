@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 491
-# Updated: 3/16/2022  16:59 (4:59 PM CST)
+# Domains: 490
+# Updated: 3/30/2022  14:02 (2:02 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -284,7 +284,6 @@ edge.activity.windows.com                      # ? Server Sync (According to Mic
 enterprise.activity.windows.com                # ? Server Sync (According to Microsoft)
 test.activity.windows.com                      # ? Server Sync (According to Microsoft)
 
-acctcdn.msftauth.net                           # Sign-Ins ?
 sdx.microsoft.com                              # Sign-Ins ?
 
 fa000000002.resources.office.net               # ? Teams
