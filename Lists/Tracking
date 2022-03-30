@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 70,454
-# Updated: 3/29/2022  17:05 (5:05 PM CST)
+# Domains: 70,456
+# Updated: 3/29/2022  23:50 (11:50 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -32082,6 +32082,7 @@ idma.ext.hitachi.co.jp
 idntfy.ru
 idpix.media6degrees.com.cdn.cloudflare.net
 idpkgipardot.kgi.edu
+id.rambler.ru
 idrove.it
 id.schroders.email
 id-shop.govx.com
@@ -48835,7 +48836,6 @@ rakam.io
 rake.11st.co.kr
 rakurabe2.max-ltd.co.jp
 rakutenready.com
-rambler.ru
 rambunctiousvoyage.com
 rampanalytics.org
 rampanel.com
@@ -60002,6 +60002,7 @@ stats.secure-isako.com
 stats.securesignup.org
 stats.sedmit.com
 stats.sedrati-dinet.net
+stats.seedr.com
 stats.seekgeeks.net
 stats.segalart.fr
 stats.seibert-raumgestaltung.de
@@ -64863,6 +64864,7 @@ visitstats.com
 visit.wnj.com
 visit.yorkrisk.com
 vismapublic.visma.fi
+visor.sberbank.ru
 visualdna.com
 visualiq.com
 visual-pagerank.fr
