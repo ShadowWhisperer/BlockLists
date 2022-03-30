@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 490
-# Updated: 3/30/2022  14:02 (2:02 PM CST)
+# Domains: 491
+# Updated: 3/30/2022  15:21 (3:21 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -128,6 +128,7 @@ hp17win10.msn.com                              #MSN - Redirects to msn.com
 toshiba13.msn.com                              #MSN - Redirects to msn.com
 search.msn.com                                 #MSN - Search
 search.msn.de                                  #MSN - Search
+windows.msn.com                                #MSN - Taskbar - News and Interests
 
 aria.microsoft.com                             #Outlook Mobile / Teams / Skype
 pipe.aria.microsoft.com                        #Outlook Mobile / Teams / Skype
