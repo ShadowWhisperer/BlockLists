@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 17,137
-# Updated: 3/29/2022  18:08 (6:08 PM CST)
+# Domains: 17,138
+# Updated: 3/29/2022  21:53 (9:53 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -6267,6 +6267,7 @@ funmatrix.net
 funmere.com
 funnry.com
 funnybear.co.uk
+funnyclap.com
 funnyglee.com
 funnymouth.net
 funnynose.net
