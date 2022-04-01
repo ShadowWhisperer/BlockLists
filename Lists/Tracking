@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 70,458
-# Updated: 3/31/2022  22:47 (10:47 PM CST)
+# Domains: 70,459
+# Updated: 4/1/2022  10:15 (10:15 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -31171,6 +31171,7 @@ grabify.icu
 grabify.link
 grabr.co.uk
 gracefulsock.com
+gracioustender.com
 grafana.com
 grafana.net
 grafana.org
