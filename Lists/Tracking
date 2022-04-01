@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 70,457
-# Updated: 3/30/2022  10:31 (10:31 AM CST)
+# Domains: 70,458
+# Updated: 3/31/2022  22:47 (10:47 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12966,6 +12966,7 @@ beacon.searchspring.io
 beacons.extremereach.io
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacon.shazam.com
 beacon.shutterfly.com
 beaconsinspace.com
 beacons.mediamelon.com

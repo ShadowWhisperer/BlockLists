@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 16,237
-# Updated: 3/31/2022  11:39 (11:39 AM CST)
+# Domains: 16,238
+# Updated: 3/31/2022  22:47 (10:47 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -5677,6 +5677,7 @@ api.hvapi.com
 api.lentainform.com
 api.mobula.sdk.duapps.com
 a.pinoymoviepedia.ru
+api-promo.samsungknowledge.com
 api-push.com
 api.reviews.co.uk
 api.smartlauncher.net
