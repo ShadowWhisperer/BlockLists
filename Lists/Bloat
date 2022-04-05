@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 706
-# Updated: 3/2/2022  19:52 (7:52 PM CST)
+# Domains: 707
+# Updated: 4/4/2022  23:05 (11:05 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -578,6 +578,7 @@ svc-cf.spd.samsungdm.com                                #Samsung
 user-api.internet.apps.samsung.com                      #Samsung
 us-odc.samsungapps.com                                  #Samsung
 vas.samsungapps.com                                     #Samsung
+samsungnewsapi.picks.my                                 #Samsung
 sonybivstatic-a.akamaihd.net                            #Sony       Smart TV ?
 ssm1.internet.sony.tv                                   #Sony
 ssm2.internet.sony.tv                                   #Sony
