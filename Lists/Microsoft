@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 514
-# Updated: 12/9/2022  15:41 (3:41 PM CST)
+# Domains: 519
+# Updated: 12/14/2022  00:09 (12:09 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -248,15 +248,19 @@ rpt.msn.com                                    # ? MSN
 sam.msn.com                                    # ? MSN
 tk2.plt.msn.com                                # ? MSN
 
+onmicrosoft.com                                # ? Office - 365
+shell.cdn.office.net                           # ? Office - Facebook, Inc. ????  (https://shell.cdn.office.net/shellux/o365/versionless/suiteux.shell.responsive.7cd9b6321d8ca495e2c7.js)
+substrate.office.com                           # ? Office - Might break Outlook Mobile, Sign-in
+fpastorage.cdn.office.net                      # ? Office - First Party App Addins
 api.addins.omex.office.net                     # ? Office
-
+cdn.fluidpreview.office.net                    # ? Office
 clients.config.office.net                      # ? Office
 config.officeapps.live.com                     # ? Office
 content.lifecycle.office.net                   # ? Office
 cys-efz.ms-acdc.office.com                     # ? Office
 enrichment.osi.office.net                      # ? Office
 f-0001.f-msedge.net                            # ? Office
-fpastorage.cdn.office.net                      # ? Office - First Party App Addins
+fluidpreview.office.net                        # ? Office
 loki.delve.office.com                          # ? Office
 lpcres.delve.office.com                        # ? Office
 lyh-efz.ms-acdc.office.com                     # ? Office
@@ -268,19 +272,16 @@ officeaka.cloudapp.net                         # ? Office
 officehomeblobs.blob.core.windows.net          # ? Office
 ogma.osi.office.net                            # ? Office
 omex.cdn.office.net                            # ? Office
-onmicrosoft.com                                # ? Office 365
 outlook-1.cdn.office.net                       # ? Office
 roa-efz.ms-acdc.office.com                     # ? Office
 sat-efz.ms-acdc.office.com                     # ? Office
+s-dc-msedge.net                                # ? Office
 sfnam.loki.delve.office.com                    # ? Office
-shell.cdn.office.net                           # ? Office - Facebook, Inc. ????  (https://shell.cdn.office.net/shellux/o365/versionless/suiteux.shell.responsive.7cd9b6321d8ca495e2c7.js)
-substrate.office.com                           # ? Office - Might break Outlook Mobile, Sign-in
 uci.cdn.office.net                             # ? Office
 uci.edog.cdn.office.net                        # ? Office
 videoplayercdn.osi.office.net                  # ? Office
 webshell.suite.office.com                      # ? Office
 yyz-efz.ms-acdc.office.com                     # ? Office
-
 
 contacts.msn.com                               # ? Hotmail / Outlook - Contacts
 rdr.contacts.msn.com                           # ? Hotmail / Outlook - Contacts
@@ -325,7 +326,6 @@ privacy.xboxlive.com                           #Xbox
 
 ###############################################################################################
 ###############################################################################################
-
 
 
 a-0003.a-msedge.net
@@ -474,6 +474,7 @@ msappproxy.net
 mscrl.microsoft.com
 msc.wlxrs.com
 msdnshared.blob.core.windows.net
+msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.net
 msegceporticoprodassets.blob.core.windows.net
 myhomemsn.com
@@ -501,6 +502,7 @@ prod.blob.core.windows.net
 prod-nam-autodetect.acompli.net
 prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
+prod-setupoffice.omexexternallfb.office.net.akadns.net
 products.support.services.microsoft.com
 rad.live.com
 ra.live.com
@@ -568,6 +570,5 @@ wfbdevicemanagement
 win10-trt.msedge.net
 wip.mam.manage.microsoft.com
 woodgrovebank.com
-
 xml.login.live.com
 ztd.dds.microsoft.com
