@@ -1,0 +1,49 @@
+#
+#    File: Apple
+#    Info: Bloat
+# Domains: 33
+# Updated: 8/24/2021  17:06 (5:06 PM CST)
+# Creator: ShadowWhisperer (Sean H.)
+#
+#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
+#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
+#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#
+
+attwifi.apple.com                      # Captive Portal - Looks For Wifi Login
+captive.apple.com                      # Captive Portal - Looks For Wifi Login
+captive.g.aaplimg.com                  # Captive Portal - Looks For Wifi Login
+
+aolauth.icloud.com                     # App - AIM
+aolauthtest.icloud.com                 # App - AIM
+apfw.apple.com                         # App - AirPort Utility
+apsu.apple.com                         # App - AirPort Utility
+wu-calculator.apple.com                # App - Calculator
+qtpartners.apple.com                   # App - Quicktime
+qtsoftware.apple.com                   # App - Quicktime
+quicktimepro.apple.com                 # App - Quicktime
+guzzoni.apple.com                      # App - Siri
+guzzoni-apple-com.v.aaplimg.com        # App - Siri
+stocks-edge.apple.com                  # App - Stocks
+stocks-edge.news.apple-dns.net         # App - Stocks
+stocks-sparkline.apple.com             # App - Stocks
+wu-stocks.apple.com                    # App - Stocks
+
+pancake.apple.com                      # Authorization for Home Sharing
+pancake.cdn-apple.com.akadns.net       # Authorization for Home Sharing
+pancake.g.aaplimg.com                  # Authorization for Home Sharing
+
+proxy.safebrowsing.apple               # Safe Browsing
+safebrowsing.apple                     # Safe Browsing
+token.safebrowsing.apple               # Safe Browsing
+
+api-glb-msp.smoot.apple.com            # Spotlight Suggestions
+api-glb-use2b.smoot.apple.com          # Spotlight Suggestions
+api-glb-use2c.smoot.apple.com          # Spotlight Suggestions
+api.smoot.apple.com                    # Spotlight Suggestions
+cdn2.smoot.apple.com                   # Spotlight Suggestions
+cdn.smoot.apple.com                    # Spotlight Suggestions
+daypass.api-glb-chi.smoot.apple.com    # Spotlight Suggestions
+fbs.smoot.apple.com                    # Spotlight Suggestions
+smoot.apple.com                        # Spotlight Suggestions
+api2.smoot.apple.com                   # Spotlight Suggestions
