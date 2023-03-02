@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 18,600
-# Updated: 2/28/2023  22:32 (10:32 PM CST)
+# Domains: 18,633
+# Updated: 3/1/2023  18:57 (6:57 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -2448,6 +2448,7 @@ ads-api.ft.com
 ads.apontar.pt
 ads.apotheke-adhoc.de
 ads.appinf.com
+ads.apps.ae
 ads.appy.us
 ads.aprobadoauto.com
 ads.aptcrowd.io
@@ -2966,6 +2967,7 @@ adserve.network
 adserve.pandragon.es
 adserve.ph
 adserver01.de
+adserver01.verio.com
 adserver.0--x--0.com
 adserver.100km.odessa.ua
 adserver.10km.de
@@ -2986,6 +2988,7 @@ adserver2.bompresse.fr
 adserver2.com
 adserver2.workerscompensation.com
 adserver2.worldpadeltour.com
+adserver2.yeniavaz.com
 adserver360.com
 adserver.383media.net
 ad.server3.autooglasi.eu
@@ -3026,6 +3029,7 @@ adserver.alinasan.de
 adserver.alineap.com
 adserver.alkompis.se
 adserver.allege.news
+adserver.almawdou3.com
 adserver.alsbaitandtackle.com.au
 adserver.altaveu.com
 adserver.alwatan.com
@@ -3044,6 +3048,7 @@ adserver.asia-city.com
 adserver.asiatatler.com
 adserver.asktheme.net
 adserver.associationheadquarters.com
+adserver.audiosway.net
 adserver.auditeers.net
 adserver.auditorioteatrolaspalmasgc.es
 adserver.authorityreviews.net
@@ -3100,6 +3105,7 @@ adserver.caldera.cc
 adserver.calvertcrier.org
 adserver.capslock.mx
 adserver.card4you.net
+adserver.careerspot.com.au
 adserver.cash4webmaster.de
 adserver-cdn.euroweeklynews.com
 adserver.cdnstream.com
@@ -3111,6 +3117,7 @@ adserver.cenyrolnicze.pl
 adserver.cesco.com
 adserver.charmd.me
 adserver.chatzconnectonline.co.za
+adserver.cheapbooks.com
 adservercheck.net
 adserver.cherryfind.co.uk
 adserver.chh.pl
@@ -3134,6 +3141,7 @@ adserver.company
 adserver.coneki.com.br
 adserver.consaltex.pl
 adserver.conservativenewsandviews.com
+adserver.contactoregistrado.com
 adserver.contents.media
 adserver.contractorsdemo.com
 adserver.coolmambo.com
@@ -3156,6 +3164,7 @@ adserver.dd-media.de
 adserver.de
 adserver.deal-magazin.com
 adserver.delete-web.com
+adserver.der-lausitzer.de
 adserver.designitnow.ltd
 adserver.desnivel.com
 adserver.detailfolk.dk
@@ -3205,7 +3214,9 @@ adserver.eltriangle.eu
 adserver.empresa-journal.com
 adserver.e-ncubadora.net
 adserver.enviweb.cz
+adserver.epph.pl
 adserver.ergonomix.co.za
+adserver.erlewein-und-schulte.com
 adserver.es
 adserver-es.adkeysmedia.com
 adserver.eskyserver.com
@@ -3217,6 +3228,7 @@ adserver.etec.at
 adserver.etrafficmatrix.com
 adserver.e-tsena.net
 adserver.etudiant.ma
+adserver.eurobaustoff.de
 adserver.europneus.es
 adserver.euroweeklynews.com
 adserver.ev2.hu
@@ -3300,6 +3312,7 @@ adserver.infoabi.ee
 adserver.insidertravelreport.com
 adserver.insol.org
 adserver.instructo.nl
+adserver.intelligentmedia.co.uk
 adserver.internetguru.com.au
 adserver.interstateelectricsupply.com
 adserver.investmentreports.co
@@ -3307,6 +3320,7 @@ adserver.iranytu.org
 adserver.irma.asso.fr
 adserver.iteisa.com
 adserver.ivorytowergroup.net
+adserver.jarmark24.pl
 adserver.jeffmcdanielmarketing.com
 adserver.jetfly.hu
 adserver.jetsetmagazine.net
@@ -3356,6 +3370,7 @@ adserver.lotzadollars.com
 adserver.lqj.ch
 adserver.lr.co.at
 adserver.ltnurl.com
+adserver.lulop.com
 adserver.lystra.se
 adserver.ma
 adserver.magazyn.pl
@@ -3432,6 +3447,7 @@ adserver.oisz.hu
 adserver.ojooo.com
 adserver.oliveoiltimes.com
 adserver.ollionline.us
+adserver.ominto.com
 adserver.ondirectv.com
 adserver.oneonline.it
 adserver.online
@@ -3482,6 +3498,7 @@ adserver-prod-alb-1558369296.ap-southeast-1.elb.amazonaws.com
 adserver-prod-alb-2056226458.eu-central-1.elb.amazonaws.com
 adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com
 adserver.proyectanda.com
+adserver.pubblicitaonline.it
 adserverpub.com
 adserver-public-cdn.afd.azureedge.net
 adserver-public-cdn.azureedge.net
@@ -3503,10 +3520,12 @@ adserver.realmusic.ru
 adserver.red
 adserver.redearth.tv
 adserver.regionglobal.com
+adserver.regon.hu
 adserver.reporterpb.com.br
 adserver.resenhapolitika.com.br
 adserver.ro
 adserver.roimedianetwork.com
+adserver.rotabene.de
 adserver.rsmediaserver.com
 adserver.rw.ataninka.com
 adserver.safechat-alpha.com
@@ -3529,6 +3548,7 @@ adserver.server2.laylabs.com
 adserver.setsquareassist.com
 adserver.sfin.ro
 adserver.sgmagazine.com
+adserver.ship2yard.com
 adserver.shopnsave.world
 adserver.si
 adserver.sigma-foto.de
@@ -3541,6 +3561,7 @@ adserver.slovoplus.sk
 adserver.smgfiles.com
 adserver.socastdigital.com
 adserver.sofodynamix.com
+adserver.sollertis.ch
 adserver.solutions
 adserver.sonicplug.com
 adservers.org
@@ -3567,6 +3588,7 @@ adserver.sviv.se
 adserver.swiatobrazu.pl
 adserver.swiftmedianow.com
 adserver.syzzlingmedia.com
+adserver.szabgab.com
 adserver.tandlpublications.com
 adserver.tapcliq.com
 adserver.targroup-media.de
@@ -3578,6 +3600,7 @@ adserver.testboqt.xyz
 adserver.tfwm.com
 adserver.tg.ataninka.com
 adserver.theasset.com
+adserver.theassociationpartner.net
 adserver.thelivinggod.online
 adserver.thepit.gg
 adserver.timestechnet.com
@@ -3589,6 +3612,7 @@ adserver.topgreatestvideos.org
 adserver.toutlevin.com
 adservertq.com
 adserver.tracos.co.ke
+adserver.tradespotting.com
 adserver.trangphim.net
 adserver.travelreport.mx
 adserver.trdev.site
@@ -3603,12 +3627,14 @@ adserver.tut-kiev.com
 adserver.uebs.eu
 adserver.umi.ru
 adserver.ungoogle.xyz
+adserver.unimed.org
 adserverus.info
 adserver.uzletem.hu
 adserverv6.oberberg.net
 adserver.v8sleuth.com.au
 adserver.valuemd.com
 adserver.vanso.com
+adserver.veganok.com
 adserver.veldsoft.eu
 adserver.viata-libera.ro
 adserver.video
@@ -4587,6 +4613,7 @@ ads.nammadethrissur.com
 ads.nasazahradka.sk
 ads.nassever.com
 ads.naszepanstwo.pl
+ads.nation.africa
 ads.nationalhotrod.com
 adsnative.com
 ads.nativodigital.com.mx
@@ -4609,6 +4636,7 @@ ads.newemage.com
 ads.new-facts.eu
 ads.newideas.kz
 ads.newsdm.in
+ads.newsmemory.com
 ads.newsnet.ro
 ads.newsnumber.com
 ads.newyorkbyrail.com
@@ -4943,6 +4971,7 @@ adsrv.verlagholzhausen.at
 adsrv.wtf
 ads-sa.co.za
 ads.safarme.ir
+ads.safehouse.dk
 ads.sagamer.co.za
 ads.salat.co.il
 ads.samartmedia.com
@@ -5073,6 +5102,7 @@ ads.streampanel.net
 ads.streetwatch.bg
 ads.studentenwerk-dresden.de
 ads.studentski.net
+ads.studienett.no
 ads.studyonlinebd.com
 ads.stuttgart-tourist.de
 ads.style
@@ -5091,6 +5121,7 @@ ads.svnt.com
 ads.swimmingworldmagazine.com
 ads.swissolar.ch
 ads.swisstruck.ch
+ads.sydneyanglicans.net
 ads.syd.tn
 ads.sydvestmedia.no
 ads.symple.ch
@@ -6984,6 +7015,7 @@ axmltj.com
 axonix.com
 a.xxe2.com
 ayads.co
+ayelads.click
 ayelads.xyz
 ayotising.com
 a.youtubersgonewild.net
@@ -7651,6 +7683,7 @@ bounceads.net
 bouncebidder.com
 boutiqueads.com
 bowaba.com
+boxadvertising.gr
 boxcar.io
 boxingjav.com
 bp5hq5jivj.ru
