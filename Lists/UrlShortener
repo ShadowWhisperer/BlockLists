@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 719
-# Updated: 11/22/2022  14:43 (2:43 PM CST)
+# Domains: 745
+# Updated: 3/3/2023  16:59 (4:59 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -10,6 +10,9 @@
 #    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
 #
 
+010.at
+0987.win
+0bs.de
 0.gp
 0s0.com
 0t.cn
@@ -17,6 +20,7 @@
 123lnk.xyz
 123l.pro
 12p.eu
+153in.net
 1o2.ir
 1o.pl
 1ql.ca
@@ -27,6 +31,7 @@
 3c5.com
 3le.ru
 3o2.co
+3v3.run
 4eq.ir
 4qt.in
 54872-5471.live
@@ -45,9 +50,11 @@ add.lat
 adf.ly
 adfly.be
 adflydsp.com
+adfly.majidzhacker.com
 adfoc.us
 adlinkcash.com
 adlinkfly.in
+adlinkfly.mightyscripts.xyz
 adpaylink.com
 adsforfaucets.com
 adshort.co
@@ -105,6 +112,8 @@ bg4.me
 bhst.us
 biastonu.com
 bibl.es
+biibly.com
+biltiy.com
 binbucks.com
 bitcoinshortener.top
 bitcz.us
@@ -157,6 +166,7 @@ cjn.mx
 clic.ae
 clipurl.com
 clix.kr
+cnz.ir
 coki.me
 commerce-gov.bid
 cortalo.net
@@ -306,6 +316,7 @@ learnit.today
 learnlocalseo.tips
 leit.link
 leitup.com
+lendirlegion.xyz
 link4.net
 linkai.in
 linkcrypter.com
@@ -315,6 +326,7 @@ linkgrab.top
 linkillion.com
 linkis.co
 linkiti.com
+linkprofit.co
 link.sekuritance.com
 linksfire.in
 linkshortify.com
@@ -339,7 +351,9 @@ lnkd.ly
 lnk.do
 lnki.cc
 lnkiy.com
+lnk.vn
 lnkw.co
+looktiny.com
 lowrihouston.pro
 lsn.to
 luis.im
@@ -365,6 +379,7 @@ metro-tmo.com
 mevid.net
 miltipay.com
 min.bz
+minify.link
 minifyurl.co
 minilink.id
 minilinq.com
@@ -395,6 +410,7 @@ myshortlink.info
 mysurl.com
 nah.uy
 nathanaeldan.pro
+natura.com.vc
 neexulro.net
 nely.pw
 nin.link
@@ -443,6 +459,8 @@ quainator.com
 quamiller.com
 qurl.ca
 radly.ir
+rainonit.com
+rantenah.com
 ravshort.com
 rayzershort.com
 rb.gy
@@ -450,6 +468,7 @@ rdrt.cc
 reco.yt
 redirme.com
 reel.io
+remediosencasa.xyz
 reshort.com
 ripd.in
 riverbridge.cf
@@ -457,6 +476,7 @@ rjvn.co
 rotf.lol
 rwx.es
 sa-link.cc
+salud-url2021.es
 sangamtalks.com
 saudim.ac
 scrapy.co
@@ -560,6 +580,7 @@ shrtfly.com
 shrtme.link
 shrturl.site
 sh.st
+sht.moe
 shurl.be
 shycmedi.com
 sifu.im
@@ -579,6 +600,7 @@ srturl.xyz
 stfly.me
 stoodsef.com
 storeman.online
+stratoplot.com
 strikersoftsolutions.com
 supurlman.com
 susurl.com
@@ -615,6 +637,7 @@ tny.so
 toadli.co
 toktik.tech
 tokurlshortener.com
+tonancos.com
 track.joesdollars.com
 trezurl.ir
 trgt.ai
@@ -622,6 +645,7 @@ trimurl.co
 trl.ca
 trx.onl
 try2link.com
+tsp.pm
 t.tl
 turboagram.com
 tx0.org
@@ -664,6 +688,7 @@ urlshortly.me
 url-short.ml
 urlshortner.org
 urlshortnerpassive.com
+urlshortnerz.com
 urlshorts.online
 urlshortx.com
 urlsmall.com
@@ -727,5 +752,6 @@ znt.bz
 zom.io
 zshorten.com
 zshort.io
+zshortner.com
 zum.bi
 zzb.bz
