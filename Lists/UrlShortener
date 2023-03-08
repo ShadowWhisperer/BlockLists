@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 818
-# Updated: 3/7/2023  17:12 (5:12 PM CST)
+# Domains: 819
+# Updated: 3/7/2023  19:15 (7:15 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -646,6 +646,7 @@ sortl.in
 sotly.me
 splitterhq.com
 spyw.com
+squadgen.com
 sr23.ru
 srturl.xyz
 stfly.me
