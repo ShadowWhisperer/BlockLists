@@ -1,8 +1,8 @@
 #
 #    File: Dynamic
 #    Info: Dynamic DNS:  DNS --> IP
-# Domains: 1,665
-# Updated: 3/7/2023  14:24 (2:24 PM CST)
+# Domains: 1,664
+# Updated: 3/7/2023  22:51 (10:51 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
@@ -1276,7 +1276,6 @@ port25.biz
 portalindustries.org
 portfwd.com
 portmap.host
-portmap.io
 portrelay.com
 possessed.us
 prettyweak.com
