@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,663
-# Updated: 3/13/2023  21:40 (9:40 PM CST)
+# Domains: 66,666
+# Updated: 3/14/2023  17:40 (5:40 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -41746,6 +41746,7 @@ plausible.callingly.com
 plausible.campwire.com
 plausible.canpoi.com
 plausible.casualgaming.no
+plausiblecdn.co
 plausible.centric.shu.ac.uk
 plausible.cervenka.io
 plausible.chamburr.xyz
@@ -45253,6 +45254,7 @@ sensors.cloud.tencent.com
 sensorsdata.cn
 sensorsdata.com
 sensors.larkplayerapp.com
+sensorslinkde.olighthk.com
 sensorslink.olighthk.com
 sensors.snaptube.app
 sensortower.com
@@ -57664,6 +57666,7 @@ superdataresearch.com
 superficialeyes.com
 superficialspring.com
 superficialsquare.com
+superfluid.io
 superiormerge.com
 superiormingle.com
 superlabs.info
