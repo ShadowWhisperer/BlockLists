@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 22,350
-# Updated: 3/13/2023  21:40 (9:40 PM CST)
+# Domains: 22,351
+# Updated: 3/15/2023  18:20 (6:20 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -3552,6 +3552,7 @@ canondriversupport.com
 canondriversupport.net
 canondriversupports.com
 canondriverwindows.com
+canon-europedrivers.com
 canon-hpprinterdriverdownload.com
 canonijnetworktool.cc
 canonmx920.com
