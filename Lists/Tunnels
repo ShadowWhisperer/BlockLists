@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 494
-# Updated: 3/7/2023  14:24 (2:24 PM CST)
+# Domains: 495
+# Updated: 3/15/2023  15:02 (3:02 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
@@ -181,6 +181,7 @@ hsselite.com
 h-vpn.org
 i2pd.xyz
 i2p-projekt.de
+i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 ibvpn.com
 incloak.es
 instant-vpn.com

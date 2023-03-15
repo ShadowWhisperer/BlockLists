@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 835
-# Updated: 3/9/2023  17:31 (5:31 PM CST)
+# Domains: 837
+# Updated: 3/15/2023  15:02 (3:02 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -25,6 +25,7 @@
 1o.pl
 1ql.ca
 2bio.link
+2tf.net
 2to.info
 2xo.net
 30na.ma
@@ -769,6 +770,7 @@ urlshorts.online
 urlshortx.com
 urlsmall.com
 urlsshort.com
+url.usacomment.com
 urlxray.com
 urly.co
 urlz.fr
