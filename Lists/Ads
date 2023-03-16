@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 18,738
-# Updated: 3/14/2023  17:40 (5:40 PM CST)
+# Domains: 18,757
+# Updated: 3/16/2023  12:28 (12:28 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -867,6 +867,7 @@ ad.apl84.me
 ad.apl89.me
 ad.apl90.me
 ad.apl93.me
+ad-approvals.happycog.com
 ad.apps.fm
 ad.apq.org
 ad-apt.com
@@ -3400,6 +3401,7 @@ adserver.marriagetrac.com
 adserver.matthaesmedien.net
 adserver.mazmo.net
 adserver.mediablackhills.com
+adserver.medialokalne.pl
 adserver.mediaunion.al
 adserver.medncom.com
 adserver.mein-wadersloh.de
@@ -3942,7 +3944,9 @@ adservice.io
 adservice.jp
 adservice.kelkoogroup.net
 adservicemedia.dk
+adservice-milano.it
 adservice.no
+adservices91.com
 adservices.com
 adservices.net
 adserv.indiax.com
@@ -5726,6 +5730,7 @@ adventori.com
 adventureadagency.com
 adventuredigital.co.il
 adventurefeeds.com
+adventurefeeds.net
 ad.ventur.in
 adventurize.com
 advenuedsp.com
@@ -5761,6 +5766,7 @@ advert.bilight.biz
 advert.com
 advert.com.bd
 advert.com.tr
+advert-data.com
 advert.dtkt.ua
 advert.ee
 adverterenbijnh.nl
@@ -5898,6 +5904,7 @@ adverts.buypakalast.com
 advert.sci-lib.com
 adverts.comms-dealer.com
 adverts.crocom.net
+adverts-data.com
 advertserve.com
 advertserve.info
 advertserve.net
@@ -7682,6 +7689,7 @@ boodlewrite.com
 bookadsnow.com
 bookingrobin.com
 bookmark.hatenaapis.com
+boolabus.com
 boomads.com
 boom-boom-vroom.com
 boomcommunicationsgroup.com
@@ -12584,6 +12592,7 @@ mixerlink.ru
 mixingbowl.com
 mixpo.com
 mixtapeagency.com
+mixx-ad.net
 mjnxku.com
 mjsqm.top
 mjxukx.com
@@ -18320,18 +18329,25 @@ xml.craftviking.co
 xml-eu.craftviking-2.co
 xml-eu.craftviking.co
 xml-eu.fastdxr.com
+xml-eu.frdjs-1.co
+xml-eu.gipostart-1.co
+xml-eu.gipostart-2.co
 xml-eu.netload1.com
 xml-eu.netload2.com
 xml-eu.qksrv.cc
 xml-eu-v4.craftviking-2.co
 xml-eu-v4.craftviking.co
+xml-eu-v4.frdjs-1.co
 xml-eu-v4.gipostart-1.co
+xml-eu-v4.gipostart-2.co
 xml-eu-v4.netload2.com
 xml-eu-v4.qksrv.cc
 xml-eu-v4.xonedart-2.live
 xml-eu.xonedart-2.live
 xml.fastdnr.com
 xml.fastdxr.com
+xml.frdjs-1.co
+xml.gipostart-2.co
 xmlking.com
 xmllover.com
 xmlmonetize.com
@@ -18346,9 +18362,12 @@ xmlrtb.com
 xml.sedodna.com
 xml-v4.craftviking-2.co
 xml-v4.craftviking.co
+xml-v4.frdjs-1.co
 xml-v4.gipostart-1.co
+xml-v4.gipostart-2.co
 xml-v4.netload2.com
 xml-v4.pxfindone.com
+xml-v4.qksrv1.com
 xml-v4.qksrv.cc
 xml-v4.xonedart-2.live
 xmlwiz.com
