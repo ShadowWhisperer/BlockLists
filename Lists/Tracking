@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 66,827
-# Updated: 3/16/2023  12:28 (12:28 PM CST)
+# Updated: 3/16/2023  22:45 (10:45 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -48510,7 +48510,6 @@ static1.tuyacn.com
 static.ao.gl
 stat.icauno.net
 static.chartbeat.com
-static.cloud.coveo.com
 static.fengkongcloud.com.w.kunlunca.com
 static.gazeta.pl
 static.goqubit.com
@@ -61837,6 +61836,7 @@ wjem88trk.com
 wjq.ma.tarnkappe.info
 wkp20trk.com
 wkwk.shinhasegawa.club
+wkxppshj-qx.global.ssl.fastly.net
 wl-analytics.tsp.li
 wlssl.jd.com
 wm74trk.com

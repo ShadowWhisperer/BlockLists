@@ -19,6 +19,7 @@ net.geo.opera.com                                   #Software - Opera (Prevents 
 spclient.wg.spotify.com                             #Software - Spotify - Audio
 guc3-spclient.spotify.com                           #Software - Spotify - Create Account - Captcha
 live.thunderbird.net                                #Software - Thunderbird - Lookup email settings
+social.cdn.ubisoft.com                              #Software - Uplay (Friend invitations)
 
 prod.mobile.roku.com                                #App - Roku Remote (Video Browser)
 rights-manager.sr.roku.com                          #App - Roku Remote (Videos)
@@ -48,6 +49,7 @@ event-img.enter-pubg-new-state.com                  #Game - PUPG: New State (Bre
 ebdsw.enter-pubg-new-state.com                      #Game - PUPG: New State (What's New - Still pops up, just says "page not found")
 video.enter-pubg-new-state.com                      #Game - PUPG: New State (Crate Videos)
 lb-rdv-siege-xplay-multiaz-prod.ubisoft.com         #Game - Rainbow Six: Siege (Game will not launch)
+
 
 prod.dw.us.fdcnet.biz                               #Credit Card Terminal
 secure.uptrillion.com                               #Credit Card Terminal
@@ -89,6 +91,7 @@ routerfeedback.asus.com                    # Asus - Router Firmware Updates
 gravatar.com                               # Avatar Icons
 liveapi.yext.com                           # Cabelas - Check In Stock
 cdn.rlcdn.com                              # Cabelas - Images
+static.cloud.coveo.com                     # Cabelas - Sign-in
 graphql.api.dailymotion.com                # DailyMotion - Videos Don't Load
 s2.dmcdn.net                               # DailyMotion - Videos Thumbnails
 vendorlist.dmcdn.net                       # DailyMotion - Breaks Site (For Some Users)
