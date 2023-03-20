@@ -2,7 +2,7 @@
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
 # Domains: 853
-# Updated: 2/28/2023  22:32 (10:32 PM CST)
+# Updated: 3/20/2023  13:07 (1:07 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -50,6 +50,7 @@ fontawesome.com.cdn.cloudflare.net                      #Font      Font Awesome
 fontawesome.com                                         #Font      Font Awesome
 ka-f.fontawesome.com.cdn.cloudflare.net                 #Font      Font Awesome
 ka-f.fontawesome.com                                    #Font      Font Awesome
+ka-p.fontawesome.com                                    #Font      Font Awesome
 kit.fontawesome.com.cdn.cloudflare.net                  #Font      Font Awesome
 kit.fontawesome.com                                     #Font      Font Awesome
 kit-pro.fontawesome.com                                 #Font      Font Awesome
@@ -609,7 +610,6 @@ instantmessaging-pa-us.googleapis.com                   #Google
 lamssettings-pa.googleapis.com                          #Google
 lens-pa.googleapis.com                                  #Google
 lh2.l.google.com                                        #Google
-lh3.google.com                                          #Google
 marketingplatform.google.com                            #Google
 mdh-pa.googleapis.com                                   #Google
 metadata.google.internal                                #Google

@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,833
-# Updated: 3/17/2023  12:36 (12:36 PM CST)
+# Domains: 66,831
+# Updated: 3/20/2023  13:07 (1:07 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12952,7 +12952,6 @@ api.apple-mapkit.com
 api.autozone.com
 api-bd.kohls.com
 api.bluecore.com
-api.cleantalk.org
 api.cogswell.io
 api-data-collection.insta360.cn
 api.datasteam.io
@@ -15540,6 +15539,7 @@ cleanerproductionconference.com
 cleanhaircut.com
 cleaninsights.org
 clean.issa.com
+cleantalk.org
 clearbit.co
 clearbit.com
 clearbitjs.com
@@ -20814,6 +20814,7 @@ geoip.nekudo.com
 geoip.nfhsnetwork.com
 geoip.olx.com.br
 geoip.p24.hu
+geoip.pango-paas.co
 geoip.passpod.com
 geoip-product-blocker.zend-apps.com
 geoip.quicktext.im
@@ -21567,6 +21568,7 @@ gruvi.tv
 gs1.wac.edgecastcdn.net
 gscounters.eu1.gigya.com
 gscounters.us1.gigya.com
+gsght.com
 gsi-one.org
 gsitrix.com
 gs-loc.apple.com
@@ -32704,10 +32706,6 @@ mocoinsight.com
 mo-data.com
 mo-data.net
 modeanalytics.com
-moderate1.cleantalk.org
-moderate2.cleantalk.org
-moderate6.cleantalk.org
-moderate9.cleantalk.org
 modernpostcard.com
 modestsunf.com
 modifyeyes.com
