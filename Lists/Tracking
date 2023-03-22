@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,835
-# Updated: 3/20/2023  22:51 (10:51 PM CST)
+# Domains: 66,837
+# Updated: 3/21/2023  22:28 (10:28 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -32254,6 +32254,7 @@ metrics.motortrend.com
 metrics.myfrs.com
 metrics.nero.com
 metrics.net
+metrics.newegg.com
 metrics-now.experian.com
 metrics.n-tv.de
 metrics.nu.nl
@@ -45438,6 +45439,7 @@ sentry.io
 sentry.issuu.com
 sentry-new.divar.ir
 sentry.sc-prod.net
+sentry.sonarr.tv
 senzing.com
 seoab.io
 seoanalyzer.cc
