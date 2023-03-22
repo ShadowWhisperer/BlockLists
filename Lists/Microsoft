@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 616
-# Updated: 3/9/2023  22:53 (10:53 PM CST)
+# Domains: 615
+# Updated: 3/22/2023  18:11 (6:11 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -451,7 +451,6 @@ c1h-word-edit-15.cdn.office.net
 c1-officeapps-15.cdn.office.net
 cache.datamart.windows.com
 ccs-pe-us1.cloudapp.net
-cdn-dynmedia-1.microsoft.com
 cdn.techcommunity.microsoft.com
 cds26.ams9.msecn.net
 cggameszone.cloudapp.net
