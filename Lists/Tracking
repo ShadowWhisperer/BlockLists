@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,837
-# Updated: 3/23/2023  12:32 (12:32 PM CST)
+# Domains: 66,838
+# Updated: 3/23/2023  18:03 (6:03 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12948,7 +12948,6 @@ api-analytics.kt-pulse.dev
 api-analytics.pelikan.sk
 api-analytics-sg.huami.com
 api-analytics-us.huami.com
-api.apple-mapkit.com
 api.autozone.com
 api-bd.kohls.com
 api.bluecore.com
@@ -14073,6 +14072,7 @@ bigo.io
 bigpicture.io
 bigtime.floridacitrussports.com
 bigtincan.com
+bild.met.vgwort.de
 bilintechnology.com
 billowybead.com
 billowybelief.com
@@ -27424,6 +27424,7 @@ lightning.hbomax.com
 lightning.tcm.com
 lightning.warnermediacdn.com
 lightning.warnertv.de
+light.spicegems.org
 lightstep.com
 lightstep.medium.systems
 lijit.com

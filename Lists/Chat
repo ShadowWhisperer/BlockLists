@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 340
-# Updated: 3/20/2023  22:51 (10:51 PM CST)
+# Domains: 343
+# Updated: 3/23/2023  18:03 (6:03 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
@@ -192,6 +192,8 @@ ivy.ai
 jivochat.com
 jivosite.com
 jsonp.contactatonce.com
+kayakocdn.com
+kayako.com
 kenect.com
 kevit.io
 keyreply.com
@@ -337,6 +339,7 @@ videoask.com
 virtualspirits.com
 volusionchat.appspot.com
 vui.com
+webchat.birdeye.com
 webchat.hammer-corp.com
 webchat.scheduleengine.net
 web-chat-tag-cdn.s3.eu-west-1.amazonaws.com
