@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 217
-# Updated: 3/20/2023  13:07 (1:07 PM CST)
+# Domains: 216
+# Updated: 3/23/2023  00:38 (12:38 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
@@ -195,7 +195,6 @@ cloversites.com                                #Website Builder
 doodlekit.com                                  #Website Builder
 droppages.com                                  #Website Builder
 getshogun-cache-production.s3.amazonaws.com    #Website Builder
-getshogun.com                                  #Website Builder
 homeworkgenerator.co.uk                        #Website Builder
 hypermart.net                                  #Website Builder
 jigsy.com                                      #Website Builder
