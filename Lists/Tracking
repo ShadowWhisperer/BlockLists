@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,840
-# Updated: 3/24/2023  09:38 (9:38 AM CST)
+# Domains: 66,843
+# Updated: 3/24/2023  18:26 (6:26 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -12952,6 +12952,7 @@ api-analytics-us.huami.com
 api.autozone.com
 api-bd.kohls.com
 api.bluecore.com
+api.cid.samba.tv
 api.cogswell.io
 api-data-collection.insta360.cn
 api.datasteam.io
@@ -18379,6 +18380,7 @@ dmpjdjk2jk.com
 dmpkit.io
 dm.primarysales.com.au
 dmp.sbermarketing.ru
+dmp.truoptik.com
 dms.karmak.com
 dmt2.canon.jp
 dmt.fidelity.com
@@ -35793,6 +35795,7 @@ pigspie.com
 pi.hikesiya.co.jp
 pi.icrontech.com
 pi.idealist.org
+pi.ispot.tv
 pi.itrsgroup.com
 pi.jeffelrod.co
 pi.kyokuto.co.jp
