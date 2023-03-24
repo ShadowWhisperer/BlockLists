@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,839
-# Updated: 3/23/2023  20:08 (8:08 PM CST)
+# Domains: 66,841
+# Updated: 3/24/2023  00:12 (12:12 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -3625,6 +3625,7 @@ analytics-api.soco.id
 analytics.api.sri.com
 analytics-api.statvoo.com
 analytics-api.upliftmoney.com
+analytics-api.vanceai.com
 analytics-api.webflow.com
 analytics.apleona.artcodix.com
 analytics.aplibrary.org
@@ -42244,6 +42245,7 @@ p.miroconsulting.com
 pm.redbull.com
 pmresearch.com
 pnckmx.com
+pndsn.com
 p.ninja-sign.com
 pnstat.com
 pntheon.com
