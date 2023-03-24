@@ -265,6 +265,7 @@ codex.nflxext.com                               # Netflix - Website - Main Page
 c.paypal.com                                    # PayPal - Required for Sign In
 unauth1.prod.iot.irobotapi.com                  # Roomba - App (Sign In)
 unauth2.prod.iot.irobotapi.com                  # Roomba - App (Sign In)
+auth3.prod.iot.irobotapi.com                    # Roomba - Breaks connection to vacuum (Unable to start/stop)
 3vx2e73s43.execute-api.us-east-1.amazonaws.com  # Roomba - App (Interface)
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com  # Roomba - Connect to internet (App Says Roomba is offline)
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com      # Roomba - Connect to internet (App Says Roomba is offline)

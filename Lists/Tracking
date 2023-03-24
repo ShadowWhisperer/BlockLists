@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,838
-# Updated: 3/23/2023  18:03 (6:03 PM CST)
+# Domains: 66,839
+# Updated: 3/23/2023  20:08 (8:08 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -58538,6 +58538,7 @@ telemetry.neonslots.com
 telemetry.notable.app
 telemetry.nvidia.com
 telemetry.phenixrts.com
+telemetry.pod8.prod.avatar.ext.hp.com
 telemetry_preview.msn.com
 telemetry-prod-1054754349.us-east-1.elb.amazonaws.com
 telemetry_rad.msn.com
