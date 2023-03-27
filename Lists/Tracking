@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 66,843
-# Updated: 3/24/2023  18:26 (6:26 PM CST)
+# Updated: 3/27/2023  10:16 (10:16 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -17262,6 +17262,7 @@ cs.sunbit.co.jp
 cstat.apple.com
 cstat.wap.sasisa.ru
 cst.innogames.de
+c.strava.com
 cstream.wi-fi.ru
 cs.westlawjapan.com
 c.swiftpage.marketing
@@ -57664,7 +57665,6 @@ stratifyd.com
 stratifyd.io
 stratigent.com
 strats.cashortrade.org
-strava.com
 stravito.com
 stravtrk.com
 strawburn.com
