@@ -121,6 +121,7 @@ iris06-gold-ssl.gameloft.com               # Gameloft - Prevents games from star
 cryptauthenrollment.googleapis.com         # Google - Android - Set Payment Info
 clients1.google.com                        # Google - Android TV - YouTube - Sarch Suggest
 play-lh.googleusercontent.com              # Google - Android - Store Images
+ota-cache1.googlezip.net                   # Google - Android - System Updates
 crls.pki.goog                              # Google - Chrome - Download - Portable Version
 chrome.google.com                          # Google - Chrome - Store - Extensions - Page
 lh3.googleusercontent.com                  # Google - Chrome - Store - Extensions - Icons
