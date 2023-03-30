@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,845
-# Updated: 3/28/2023  23:22 (11:22 PM CST)
+# Domains: 66,846
+# Updated: 3/29/2023  19:30 (7:30 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -34037,7 +34037,7 @@ openstat.com
 openstat.net
 openstat.org
 openstat.ru
-opentracker.emai
+opentracker.email
 opentracking.ru
 opentrack.org
 openwebanalytics.com
@@ -59548,6 +59548,7 @@ tracking.mdl.io
 tracking.meaderecovery.com
 tracking.mercedes-benz-bus.com
 tracking.meta.vn
+tracking.miui.com
 tracking.mizuhogroup.com
 tracking.mobileadstrk.com
 tracking.monitor.pista73.com
