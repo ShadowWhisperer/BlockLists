@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 617
-# Updated: 3/23/2023  12:32 (12:32 PM CST)
+# Domains: 616
+# Updated: 3/30/2023  12:00 (12:00 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -662,7 +662,6 @@ urlappmapping.sfp.microsoft.com
 us-api.asm.skype.com
 ussus3westprod.blob.core.windows.net
 waws-prod-blu-059.cloudapp.net
-wcpstatic.microsoft.com
 wdcpalt.microsoft.com
 webportals-ngp.trafficmanager.net
 wer.microsoft.com

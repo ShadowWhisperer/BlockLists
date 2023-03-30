@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 22,520
-# Updated: 3/30/2023  09:48 (9:48 AM CST)
+# Domains: 22,521
+# Updated: 3/30/2023  12:00 (12:00 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -1213,6 +1213,7 @@ ammunitionempireshop.com
 ammunitionempirestore.com
 ammunition-firearms.com
 ammunitionfirearms.com
+ammunitiongunbroker.com
 ammunitiongunshopandammo.com
 ammunitiononlinestore.com
 ammunitionpremium.com
