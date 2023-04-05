@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 853
-# Updated: 3/20/2023  13:07 (1:07 PM CST)
+# Domains: 854
+# Updated: 4/5/2023  10:15 (10:15 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -87,6 +87,7 @@ cloud.webtype.com                                       #Font      WebType
 pls.webtype.com                                         #Font      WebType
 webtype.com                                             #Font      WebType
 fonts.nccdn.net                                         #Font    ?
+fonts.xidraslbs.com                                     #Font    ?
 comm-files-universityofconn.netdna-ssl.com              #Font  Specific
 d25purrcgqtc5w.cloudfront.net                           #Font  Specific
 d26t7ex48mr4bn.cloudfront.net                           #Font  Specific
