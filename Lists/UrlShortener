@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 994
-# Updated: 3/31/2023  10:26 (10:26 AM CST)
+# Domains: 995
+# Updated: 4/5/2023  17:42 (5:42 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -548,6 +548,7 @@ nwspprs.com
 o2qr.com
 oaglyfoa.com
 oal.lu
+oaxyteek.net
 obblink.com
 oerk.at
 offf.to

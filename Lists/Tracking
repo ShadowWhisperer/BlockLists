@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 66,918
-# Updated: 4/5/2023  12:07 (12:07 PM CST)
+# Domains: 66,921
+# Updated: 4/5/2023  17:42 (5:42 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -27703,6 +27703,7 @@ logcenter.cupshe.com
 log.chobrod.com
 log.cintamobil.com
 log.cizion.com
+log.clean.email
 log.cmbchina.com
 log.codemarketing.cloud
 log.cognativex.com
@@ -33907,6 +33908,7 @@ omni.holidaycheck.de
 omni.holidaycheck.es
 omni.huk.de
 omnikick.com
+omnilbvip01.okstate.edu
 omni.nine.com.au
 omni.quickenloans.com
 omnis.basspro.com
@@ -42883,6 +42885,7 @@ pxl.ai
 pxlclnvwe-a.akamaihd.net
 pxlctl.elpais.com
 px.leadexpert.pl
+pxl.host
 pxl.indeed.com
 px.living101.com
 pxlsrc.com
