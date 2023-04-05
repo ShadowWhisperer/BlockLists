@@ -264,6 +264,8 @@ wscont.apps.microsoft.com                         # Microsoft - Windows 10 Updat
 userpresence.xboxlive.com                         # Microsoft - Xbox / Windows Games - Friends List
 codex.nflxext.com                               # Netflix - Website - Main Page
 c.paypal.com                                    # PayPal - Required for Sign In
+api-us.roborock.com                             # Roborock - Connect to Wifi
+mqtt-us-2.roborock.com                          # Roborock - Connect vacuum to Wifi / Check for firmware updates
 unauth1.prod.iot.irobotapi.com                  # Roomba - App (Sign In)
 unauth2.prod.iot.irobotapi.com                  # Roomba - App (Sign In)
 auth3.prod.iot.irobotapi.com                    # Roomba - Breaks connection to vacuum (Unable to start/stop)
