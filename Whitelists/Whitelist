@@ -264,14 +264,16 @@ wscont.apps.microsoft.com                         # Microsoft - Windows 10 Updat
 userpresence.xboxlive.com                         # Microsoft - Xbox / Windows Games - Friends List
 codex.nflxext.com                               # Netflix - Website - Main Page
 c.paypal.com                                    # PayPal - Required for Sign In
-api-us.roborock.com                             # Roborock - Connect to Wifi
-mqtt-us-2.roborock.com                          # Roborock - Connect vacuum to Wifi / Check for firmware updates
-unauth1.prod.iot.irobotapi.com                  # Roomba - App (Sign In)
-unauth2.prod.iot.irobotapi.com                  # Roomba - App (Sign In)
-auth3.prod.iot.irobotapi.com                    # Roomba - Breaks connection to vacuum (Unable to start/stop)
-3vx2e73s43.execute-api.us-east-1.amazonaws.com  # Roomba - App (Interface)
-a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com  # Roomba - Connect to internet (App Says Roomba is offline)
-a2uowfjvhio0fa.iot.us-east-1.amazonaws.com      # Roomba - Connect to internet (App Says Roomba is offline)
+awsusor0.fds.api.xiaomi.com                     # Roborock - [App] - Voices
+api-us.roborock.com                             # Roborock - [App] [Vacuum] - Connect to Wifi
+mqtt-us-2.roborock.com                          # Roborock - [Vacuum] - Connect to Wifi / Check for firmware updates
+unauth1.prod.iot.irobotapi.com                  # Roomba - [App] - Sign In
+unauth2.prod.iot.irobotapi.com                  # Roomba - [App] - Sign In
+auth1.prod.iot.irobotapi.com                    # Roomba - [App] - Breaks connection to vacuum (Unable to start/stop)
+auth3.prod.iot.irobotapi.com                    # Roomba - [App] - Breaks connection to vacuum (Unable to start/stop)
+3vx2e73s43.execute-api.us-east-1.amazonaws.com  # Roomba - [App] - Interface
+a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com  # Roomba - [Vacuum] - Connect to internet (App says Roomba is offline)
+a2uowfjvhio0fa.iot.us-east-1.amazonaws.com      # Roomba - [Vacuum] - Connect to internet (App says Roomba is offline)
 api.checkout.com                                # Shopping Sites (Breaks Online Payments)
 l.facebook.com                                    # Social Media - Facebook (Breaks Links)
 scontent.xx.fbcdn.net                             # Social Media - Facebook (Comments: User Pic)
