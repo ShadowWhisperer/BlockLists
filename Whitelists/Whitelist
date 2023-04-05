@@ -264,6 +264,7 @@ wscont.apps.microsoft.com                         # Microsoft - Windows 10 Updat
 userpresence.xboxlive.com                         # Microsoft - Xbox / Windows Games - Friends List
 codex.nflxext.com                               # Netflix - Website - Main Page
 c.paypal.com                                    # PayPal - Required for Sign In
+cdn.awsusor0.fds.api.mi-img.com                 # Roborock - [App] - Download Firmware Updates
 awsusor0.fds.api.xiaomi.com                     # Roborock - [App] - Voices
 api-us.roborock.com                             # Roborock - [App] [Vacuum] - Connect to Wifi
 mqtt-us-2.roborock.com                          # Roborock - [Vacuum] - Connect to Wifi / Check for firmware updates
