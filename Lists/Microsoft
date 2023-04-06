@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 616
-# Updated: 3/30/2023  12:00 (12:00 PM CST)
+# Domains: 615
+# Updated: 4/6/2023  15:02 (3:02 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
@@ -388,8 +388,6 @@ activity.windows.com                           # ? Server Sync (According to Mic
 edge.activity.windows.com                      # ? Server Sync (According to Microsoft)
 enterprise.activity.windows.com                # ? Server Sync (According to Microsoft)
 test.activity.windows.com                      # ? Server Sync (According to Microsoft)
-
-sdx.microsoft.com                              # Sign-Ins ?
 
 client.prod.repmap.microsoft.com               # Captcha ?
 
