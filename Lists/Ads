@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 18,827
-# Updated: 4/5/2023  18:22 (6:22 PM CST)
+# Domains: 18,828
+# Updated: 4/6/2023  10:08 (10:08 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -18156,6 +18156,7 @@ widget.sonetel.com
 widgets.openpay.com.au
 widgets.pinterest.com
 widget.spreaker.com
+widgets.rewardstyle.com
 widgetssec.cam-content.com
 widgets.services.microsoft.com
 widgets.shopifyapps.com
