@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 995
-# Updated: 4/5/2023  17:42 (5:42 PM CST)
+# Domains: 997
+# Updated: 4/7/2023  09:53 (9:53 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -804,6 +804,7 @@ tharp.me
 therockinghuts.life
 the-rocking-huts.live
 therockinghuts.live
+theurl.to
 thinurl.com
 tiky.cc
 t.im
@@ -971,6 +972,7 @@ xmg66.cn
 xn--ul-ksa.eu
 xrshort.eu
 xsl.pt
+xtatarx.com
 xurls.org
 xy2.eu
 yamechanic.com
