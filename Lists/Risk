@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 165
-# Updated: 6/29/2023  13:23 (1:23 PM CST)
+# Domains: 166
+# Updated: 7/18/2023  17:11 (5:11 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
@@ -76,6 +76,7 @@ spyine.com                                    #Phone Monitoring
 spymasterpro.com                              #Phone Monitoring
 spyzie.io                                     #Phone Monitoring
 
+hereapi.com                                   #GPS / Tracking
 here.com                                      #GPS / Tracking
 here.net                                      #GPS / Tracking
 
