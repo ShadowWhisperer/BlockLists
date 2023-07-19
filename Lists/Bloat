@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 869
-# Updated: 7/13/2023  21:01 (9:01 PM CST)
+# Domains: 870
+# Updated: 7/19/2023  14:11 (2:11 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
@@ -327,6 +327,7 @@ doh.crypto.sx                                           #Alt DNS -
 doh.li                                                  #Alt DNS - 
 doh.netweaver.uk                                        #Alt DNS - 
 rdns.faelix.net                                         #Alt DNS - 
+sslip.io                                                #Alt DNS - sslip
 
 mailshell.net                                           #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 avastbrowser.com                                        #Antivirus   Avast - Browser
