@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,056
-# Updated: 7/18/2023  17:11 (5:11 PM CST)
+# Domains: 2,057
+# Updated: 7/19/2023  14:17 (2:17 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -2011,6 +2011,7 @@ ylink.bid
 yoalizer.com
 yo.ma
 yourcs.us
+yourlink.vip
 yourl.ir
 your.ls
 yourls.bar
