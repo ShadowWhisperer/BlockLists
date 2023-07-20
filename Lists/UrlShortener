@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,057
-# Updated: 7/19/2023  14:17 (2:17 PM CST)
+# Domains: 2,059
+# Updated: 7/20/2023  08:45 (8:45 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -238,6 +238,7 @@ att.ovh
 audiof.com
 author.to
 autoget.link
+aveerro.com
 avenir.to
 avhop.net
 avjosa.com
@@ -1640,6 +1641,7 @@ tapz.in
 targeterpro.com
 tcc.io
 tcp.pw
+tdy.lol
 tebar.in
 tecne.ws
 teenyurl.co
