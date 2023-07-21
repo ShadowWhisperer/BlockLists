@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,059
-# Updated: 7/20/2023  08:45 (8:45 AM CST)
+# Domains: 2,060
+# Updated: 7/21/2023  13:59 (1:59 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
@@ -1459,6 +1459,7 @@ short.evx.ca
 shortfd.us
 shortfex.com
 shortfires.net
+short.gy
 shorticx.com
 shortie.io
 shortify.pro

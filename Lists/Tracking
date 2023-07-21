@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,387
-# Updated: 7/21/2023  12:45 (12:45 PM CST)
+# Domains: 68,392
+# Updated: 7/21/2023  13:59 (1:59 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -2183,6 +2183,7 @@ adaptive.gomo.ie
 adaraanalytics.com
 adara.com
 adaraglobal.com
+a.datastax.com
 a.davidsbridal.com
 a.davidweekleyhomes.com
 adbeacon.com
@@ -20158,6 +20159,7 @@ experience.fcrmedia.be
 experience.fcrmedia.fr
 experience.givaudan.com
 experience-lab.com
+experience.ninetailed.co
 experience.sitee.io
 experience.tinypass.com
 experimental-hollyhocks-vi9k1xdvqxjmzwsv7n802laf.herokudns.com
@@ -33743,6 +33745,7 @@ monitor.ebay.com
 monitor.ecbrands.com
 monitor.exe-app.com
 monitoring.clients6.google.com
+monitoring.sumup.net
 monitor.isnssdk.com
 monitor.jscssfunny.com
 monitor.uu.qq.com
@@ -41216,6 +41219,7 @@ piwik.saxonia-praezisionsmechanik.de
 piwik.sazawear.com
 piwik.sbi.dk
 piwik.sbo888-thai.com
+piwik-sc.ccsd.cnrs.fr
 piwik.scene-occitanie.be
 piwik.scene-occitanie.com
 piwik.scene-occitanie.eu
@@ -49192,6 +49196,7 @@ start.hult.edu
 start.hultef.com
 start.io
 start.learningbeyondpaper.com
+startmatomo.univie.ac.at
 start.onfleet.com
 start.pflegehilfe.ch
 startrack.at
