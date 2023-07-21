@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 68,384
-# Updated: 7/21/2023  10:36 (10:36 AM CST)
+# Domains: 68,387
+# Updated: 7/21/2023  12:45 (12:45 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -17963,6 +17963,7 @@ d761erxl2qywg.cloudfront.net
 d810.mysanantonio.com
 d867x8xq12ag.cloudfront.net
 d8adriven.com
+d9253bf4bdfd.3d9ebd23.us-east-2.token.awswaf.com
 d93ndtrk.com
 d952cmcgwqsjf.cloudfront.net
 d99xz3flubf0x.cloudfront.net
@@ -20359,6 +20360,7 @@ fcmatch.google.com
 fc.vodafone.de
 fc.webmasterpro.de
 fe73trk.com
+feabtest.prod.tvlk-data.com
 fearfowl.com
 fearfulfish.com
 fearfulmint.com
@@ -28577,6 +28579,7 @@ ludicrousarch.com
 lukaszlepicki.pl
 lum-api.io
 lumberamount.com
+lumberjack-metrics.razorpay.com
 lumberjack.razorpay.com
 lumberrule.com
 lum-bext.com
