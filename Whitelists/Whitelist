@@ -291,6 +291,7 @@ auth3.prod.iot.irobotapi.com                    # Roomba - [App] - Breaks connec
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com  # Roomba - [Vacuum] - Connect to internet (App says Roomba is offline)
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com      # Roomba - [Vacuum] - Connect to internet (App says Roomba is offline)
 api.checkout.com                                # Shopping Sites (Breaks Online Payments)
+deposit.us.shopifycs.com                        # Shopping Sites (Breaks Checkout) *Shopify
 l.facebook.com                                    # Social Media - Facebook (Breaks Links)
 b-graph.facebook.com                              # Social Media - Facebook (Breaks App)
 graph.facebook.com                                # Social Media - Facebook (Breaks App)
