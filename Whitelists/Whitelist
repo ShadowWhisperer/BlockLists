@@ -296,6 +296,7 @@ deposit.us.shopifycs.com                        # Shopping Sites (Breaks Checkou
 l.facebook.com                                    # Social Media - Facebook (Breaks Links)
 b-graph.facebook.com                              # Social Media - Facebook (Breaks App)
 graph.facebook.com                                # Social Media - Facebook (Breaks App)
+web-chat-e2ee.facebook.com                        # Social Media - Facebook (Breaks 'To' in messages)
 edge-chat.instagram.com                           # Social Media - Facebook (Breaks previous messages)
 kaios-d.facebook.com                              # Social Media - Facebook (Breaks Marketplace on phone - Browser)
 scontent.xx.fbcdn.net                             # Social Media - Facebook (Comments: User Pic)
