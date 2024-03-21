@@ -1,6 +1,98 @@
 ##############################################
 #    Generic / Web Design / Web Host
 ##############################################
+schlundtech.de                            #Generic
+sui-inter.net                             #Generic
+limoodns.com                              #Generic
+iseencloud.com                            #Generic
+interactivedns.com                        #Generic
+hostneverdie.com                          #Generic
+nodevm.com                                #Generic
+hosting-mexico.net                        #Generic
+hostarmada.net                            #Generic
+tmdvps.com                                #Generic
+libyanspider.net                          #Generic
+cloudhostdns.net                          #Generic
+host.com.pk                               #Generic
+kiev.ua                                   #Generic
+hosteurope.de                             #Generic
+doteasy.com                               #Generic
+heberjahiz.com                            #Generic
+hostingberry.com                          #Generic
+parsdn.com                                #Generic
+internet-webhosting.com                   #Generic
+hostsg.com                                #Generic
+cyberneticos.com                          #Generic
+axc.nl                                    #Generic
+cprapid.com                               #Generic
+cyberneticos.com                          #Generic
+a.ack.de                                  #Generic
+b.ack.de                                  #Generic
+c.ack.de                                  #Generic
+d.ack.de                                  #Generic
+ack.de                                    #Generic
+excedodns.com                             #Generic
+excedodns.eu                              #Generic
+excedodns.net                             #Generic
+excedodns.org                             #Generic
+excedodns.se                              #Generic
+ns1.aftermarket.pl                        #Generic
+ns2.aftermarket.pl                        #Generic
+aftermarket.pl                            #Generic
+4cun.com                                  #Generic
+dns1.4cun.com                             #Generic
+dns2.4cun.com                             #Generic
+dns3.4cun.com                             #Generic
+dns4.4cun.com                             #Generic
+dns5.4cun.com                             #Generic
+dns6.4cun.com                             #Generic
+dns7.4cun.com                             #Generic
+dns8.4cun.com                             #Generic
+dominiando.asia                           #Generic
+dominiando.it                             #Generic
+dominiando.uk                             #Generic
+dominiando.us                             #Generic
+dns1.de                                   #Generic
+dns2.de                                   #Generic
+dns3.de                                   #Generic
+dns4.de                                   #Generic
+nextlayer.com                             #Generic
+nextlayer.at                              #Generic
+midphase.com                              #Generic
+webhotellen.com                           #Generic
+webhotelli.com                            #Generic
+latinoamericahosting.com                  #Generic
+klczy.com                                 #Generic
+nameshield.net                            #Generic
+observatoiredesmarques.fr                 #Generic
+ns1.fr                                    #Generic
+secondary.cloudflare.com                  #Generic
+hostyourservices.net                      #Generic
+hostingplatform.net.au                    #Generic
+freehosting.com                           #Generic
+dns1.raiolanetworks.es                    #Generic
+dns2.raiolanetworks.es                    #Generic
+dns3.raiolanetworks.es                    #Generic
+dns4.raiolanetworks.es                    #Generic
+dnsbak.dotvndns.vn                        #Generic
+dotvndns.com                              #Generic
+dotvndns.vn                               #Generic
+directnic.com                             #Generic
+dotvndns.com                              #Generic
+nsbak.dotvndns.com                        #Generic
+infomaniak.ch                             #Generic
+dotology.com                              #Generic
+cafe24.co.ckr                             #Generic
+cafe24.co.kr                              #Generic
+cafe.24.com                               #Generic
+cafe24.com                                #Generic
+cafe24.com.kr                             #Generic
+dns1.cafe24.co.kr                         #Generic
+dns1.cafe24.com                           #Generic
+dns2.cafe24.com                           #Generic
+nc3.cafe24.com                            #Generic
+nc4.cafe24.com                            #Generic
+ns.cafe24.com                             #Generic
 ddos-guard.net                            #Generic
 domainoffensive.net                       #Generic
 domainoffensive.eu                        #Generic
@@ -544,6 +636,7 @@ dnsparking.com                                #Parked
 dns.park.io                                   #Parked
 dns-suspended.com                             #Parked
 domainexpired.be                              #Parked
+domain-expired.planethoster.net               #Parked
 domain-for-sale.1224.com                      #Parked
 domain-for-sale-at.domainci.com               #Parked
 domain-for-sale.cumm.com                      #Parked
@@ -558,12 +651,16 @@ domainpark2.10dollar.ca                       #Parked
 domainparking.ru                              #Parked
 domainsforsale.gods-domains.com               #Parked
 domexpire.com                                 #Parked
+expirationwarning.net                         #Parked
 expire1.mysrsx.com                            #Parked
 expire2.mysrsx.com                            #Parked
 expired1.allwebserver.com                     #Parked
 expired1.atex.ru                              #Parked
 expired1.axelname.ru                          #Parked
+expired1.cloudhost.id                         #Parked
 expired1.domainshop.ru                        #Parked
+expired1.dotology.com                         #Parked
+expired1.fe.ru                                #Parked
 expired1.genious.net                          #Parked
 expired1.maff.com                             #Parked
 expired1.netistrar.net                        #Parked
@@ -576,7 +673,10 @@ expired1.web4africa.com                       #Parked
 expired2.allwebserver.com                     #Parked
 expired2.atex.ru                              #Parked
 expired2.axelname.ru                          #Parked
+expired2.cloudhost.id                         #Parked
 expired2.domainshop.ru                        #Parked
+expired2.dotology.com                         #Parked
+expired2.fe.ru                                #Parked
 expired2.genious.net                          #Parked
 expired2.maff.com                             #Parked
 expired2.netistrar.net                        #Parked
@@ -601,6 +701,7 @@ expired-domain-ns50.directnic.com             #Parked
 expired-domain-ns50.fabulous.com              #Parked
 expired-domain-ns51.directnic.com             #Parked
 expired-domain-ns51.fabulous.com              #Parked
+expired-domain.planethoster.net               #Parked
 expireddomains.net4india.com                  #Parked
 expireddomains.register.com                   #Parked
 expired-domain.to                             #Parked
@@ -624,6 +725,8 @@ expired.uniregistry-dns.com                   #Parked
 expire.kouming.net                            #Parked
 expirepausedns.com                            #Parked
 expiring.salenames.ru                         #Parked
+expiryparkpage1.vodien.com                    #Parked
+expiryparkpage2.vodien.com                    #Parked
 fastpark.net                                  #Parked
 for-sale-at.brandblazer.com                   #Parked
 for.sale.at.premium.pl                        #Parked
@@ -642,6 +745,9 @@ ns1.above.com                                 #Parked
 ns1.abovedomains.com                          #Parked
 ns1.dnsparking.com                            #Parked
 ns1-dominio-suspendido.traxhost.com           #Parked
+ns1-expired.fozzy.com                         #Parked
+ns1-expired.infoxly.in                        #Parked
+ns1-expired.netart-registrar.com              #Parked
 ns1.sslparking.com                            #Parked
 ns1-suspended.netart-registrar.com            #Parked
 ns1-suspended.zxcs.nl                         #Parked
@@ -649,6 +755,9 @@ ns2.above.com                                 #Parked
 ns2.abovedomains.com                          #Parked
 ns2.dnsparking.com                            #Parked
 ns2-dominio-suspendido.traxhost.com           #Parked
+ns2-expired.fozzy.com                         #Parked
+ns2-expired.infoxly.in                        #Parked
+ns2-expired.netart-registrar.com              #Parked
 ns2.sslparking.com                            #Parked
 ns2-suspended.netart-registrar.com            #Parked
 ns2-suspended.zxcs.be                         #Parked
@@ -718,6 +827,7 @@ park.i-now.com                                #Parked
 parklogic.com                                 #Parked
 parkpage.in                                   #Parked
 parktons.com                                  #Parked
+pendingrenewaldeletion.com.lamedelegation.org #Parked
 pendingrenewaldeletion.com                    #Parked
 pending-renewal-domain.com                    #Parked
 pendingrenewdelete.com                        #Parked
@@ -748,6 +858,9 @@ suspended2.web4africa.com                     #Parked
 suspended-domain.com                          #Parked
 suspended.kreativmedia.ch                     #Parked
 suspended.nic.tr                              #Parked
+suspended-ns14.midphase.com                   #Parked
+suspended-ns15.midphase.com                   #Parked
+suspended-ns16.midphase.com                   #Parked
 the-domain-name-is-for-sale.com               #Parked
 this-domain-for-sale.com                      #Parked
 this-domain-for-sale.com.ua                   #Parked
@@ -758,7 +871,7 @@ ukit-expired.com                              #Parked
 us.parkmy.name                                #Parked
 yourdomainhasexpired.com                      #Parked
 yourdomainisexpired.com                       #Parked
-expirationwarning.net                         #Parked
+exp.4cun.com                                  #Parked
 
 
 ##############################################
@@ -775,6 +888,7 @@ sega.co.uk                                #Company [Entertainment] Sega
 warnerbros.com                            #Company [Entertainment] Warner Bros.
 smith-wesson.net                          #Company [Firearms] Smith & Wesson
 pattersoncompanies.com                    #Company [Health] Patterson Companies
+millenniumhotels.co.nz                    #Company [Hotel] Millennium Hotels
 stanfordhotels.com                        #Company [Hotel] Stanford Hotels
 1800theomni.com                           #Company [Hotel] The Omni
 deere.com                                 #Company [Manufacturing] John Deere
@@ -792,6 +906,7 @@ collegewebpro.org                         #Company [Web Design] College Web Pro
 educationalnetworks.net                   #Company [Web Design] Educational Networks
 educationalnetworks.org                   #Company [Web Design] Educational Networks
 hotelsathome.com                          #Company [Web Design] Hotels At Home
+onlinehotelbusiness.net                   #Company [Web Design] Online Hotel Business
 collegextra.com                           #Company [Web Design] Union Street Media
 collegextra.net                           #Company [Web Design] Union Street Media
 universitypccare.com                      #Company [Web Design] Union Street Media

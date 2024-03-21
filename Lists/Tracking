@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 71,807
-# Updated: 3/20/2024  15:49 (3:49 PM CST)
+# Domains: 71,813
+# Updated: 3/21/2024  16:29 (4:29 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -13238,6 +13238,7 @@ avolin.com
 a.vonage.com
 avowtech.mobileadstrk.com
 avty.xboxlive.com
+a.wa.autodesk.com
 awakebird.com
 awap.equifax.com
 awaps.yandex.ru
@@ -17210,6 +17211,7 @@ dalv4le16pzj2.cloudfront.net
 damagedadvice.com
 damageddistance.com
 damagedroll.com
+damassets.autodesk.com
 damdoor.com
 dampdock.com
 damselfly.christopher.fm
@@ -35173,6 +35175,7 @@ openstat.com
 openstat.net
 openstat.org
 openstat.ru
+opentelemetry-collector.management-us-east-1.hiroad.systems
 opentracker.email
 opentracking.ru
 opentrack.org
@@ -36784,6 +36787,7 @@ personalization.centech.glulive.com
 personalization.dell.com
 personalization.vidio.com
 personalization-web-stable.mindbox.ru
+personalize.ml.dhx.autodesk.com
 personalizer.io
 personalsafety.soloprotect.com
 persona.ly
@@ -51910,6 +51914,8 @@ sonar.viously.com
 s-onetag.com
 songssmoke.com
 songsterritory.com
+sonicleads.com
+sonicleads.io
 son.ohsu.edu
 sonora.de
 sonraianalytics.com

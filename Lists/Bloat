@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 896
-# Updated: 3/7/2024  22:04 (10:04 PM CST)
+# Domains: 897
+# Updated: 3/21/2024  16:29 (4:29 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -575,6 +575,7 @@ plusone.google.com                                      #Google      Plus       
 alt1-safebrowsing.google.com                            #Google  Safe Browsing
 alt2-safebrowsing.google.com                            #Google  Safe Browsing
 android-safebrowsing.google.com                         #Google  Safe Browsing
+google-ohttp-relay-safebrowsing.fastly-edge.com         #Google  Safe Browsing
 safebrowsing-cache.google.com                           #Google  Safe Browsing
 safebrowsing.cache.l.google.com                         #Google  Safe Browsing
 safebrowsing.googleapis.com                             #Google  Safe Browsing
