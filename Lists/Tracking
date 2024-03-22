@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 71,815
-# Updated: 3/21/2024  19:18 (7:18 PM CST)
+# Domains: 71,819
+# Updated: 3/22/2024  09:42 (9:42 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -19195,6 +19195,7 @@ events.mapbox.com
 events.marleypd.co.uk
 events.matterport.com
 events.mcfadyen.com
+events.mics-notrack.com
 events.mkpartners.com
 events.motrac.be
 events.mz.unity3d.com
@@ -19296,6 +19297,7 @@ e-webtrack.net
 ew.elliswhittam.com
 e.wework.com
 ewgestor.caixa.gov.br
+ewgsa.org
 ewsdatahub.equifax.com
 ewstv.abc15.com
 ewstv.abcactionnews.com
@@ -20125,6 +20127,7 @@ furnishings.bellacor.com
 furryfork.com
 furryhorses.com
 fusedeck.net
+fuseit.com
 fusion-insight.co.uk
 futurebridge.com
 future.crandallu.ca
@@ -31801,6 +31804,7 @@ media.polleverywhere.com
 mediaproduction.fft.fr
 mediaresearch42.de
 media.reviewjournal.com
+mediarithmics.com
 mediaserver.emol.cl
 mediaservices.uefa.com
 media.sivantos.com
