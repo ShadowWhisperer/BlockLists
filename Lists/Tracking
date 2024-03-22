@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 71,813
-# Updated: 3/21/2024  16:29 (4:29 PM CST)
+# Domains: 71,815
+# Updated: 3/21/2024  19:18 (7:18 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -20376,6 +20376,7 @@ geoip.olx.com.br
 geoip.p24.hu
 geoip.pango-paas.co
 geoip.passpod.com
+geoip.peakdigital.cloud
 geoip-product-blocker.zend-apps.com
 geoip.quicktext.im
 geoip.radio-canada.ca
@@ -43349,6 +43350,7 @@ pixel.orcamais.com
 pixel.oreidotrafego.com
 pixel.oreinodomarketing.com
 pixel.organizenapratica.com.br
+pixel.orichi.info
 pixel.origem.io
 pixel.oscarlondonoec.com
 pixel.outletbaby.com.br
