@@ -14,6 +14,7 @@
 1clickcloud.uk                            #Generic
 1stdomains.net.nz                         #Generic
 24x7wpsupport.com                         #Generic
+3ds.com                                   #Generic
 4cun.com                                  #Generic
 7hostir.com                               #Generic
 a2hosting.com                             #Generic
@@ -133,6 +134,7 @@ dns1.heteml.jp                            #Generic
 dns1.namecheaphosting.com                 #Generic
 dns1.oderland.com                         #Generic
 dns1.raiolanetworks.es                    #Generic
+dns1.webpark.hu                           #Generic
 dns2.4cun.com                             #Generic
 dns2.bb.com.br                            #Generic
 dns2.cafe24.com                           #Generic
@@ -141,6 +143,7 @@ dns2.de                                   #Generic
 dns2.namecheaphosting.com                 #Generic
 dns2.oderland.com                         #Generic
 dns2.raiolanetworks.es                    #Generic
+dns2.webpark.hu                           #Generic
 dns3.4cun.com                             #Generic
 dns3.bb.com.br                            #Generic
 dns3.de                                   #Generic
@@ -339,6 +342,7 @@ kasserver.com                             #Generic
 kenyawebexperts.co.ke                     #Generic
 keymachine.de                             #Generic
 kiev.ua                                   #Generic
+kinghost.com.br                           #Generic
 klczy.com                                 #Generic
 lankahost.net                             #Generic
 latinoamericahosting.com                  #Generic
@@ -364,6 +368,7 @@ matbao.com                                #Generic
 mdnsservice.com                           #Generic
 mediatemple.net                           #Generic
 megagroup.ru                              #Generic
+mercadolibre.com                          #Generic
 mercury.orderbox-dns.com                  #Generic
 messagingengine.com                       #Generic
 metanet.ch                                #Generic
@@ -437,6 +442,9 @@ ns.arvancdn.ir                            #Generic
 nsbak.dotvndns.com                        #Generic
 ns.cafe24.com                             #Generic
 ns.cloudflare.com                         #Generic
+ns.do-ex.com                              #Generic
+ns.do-ex.net                              #Generic
+ns.do-ex.org                              #Generic
 ns.hetzner.com                            #Generic
 ns.hetzner.de.com                         #Generic
 ns.hetzner.de                             #Generic
@@ -481,6 +489,7 @@ pavietnam.vn                              #Generic
 pcshs.com                                 #Generic
 phase8.net                                #Generic
 pivotalpark.net                           #Generic
+planethoster.net                          #Generic
 playunix.com.br                           #Generic
 plesk-server.com                          #Generic
 private-nameserver.net                    #Generic
@@ -634,6 +643,7 @@ webhotellen.com                           #Generic
 webhotelli.com                            #Generic
 webhotelli.fi                             #Generic
 webhotellit.com                           #Generic
+webpark.hu                                #Generic
 websitewelcome.com                        #Generic
 wedos.com                                 #Generic
 wedos.cz                                  #Generic
@@ -826,6 +836,9 @@ ns2-suspended.netart-registrar.com            #Parked
 ns2-suspended.zxcs.be                         #Parked
 ns3-suspended.zxcs.de                         #Parked
 ns.ai                                         #Parked
+nspark01.3ds.com                              #Parked
+nspark02.3ds.com                              #Parked
+nspark03.3ds.com                              #Parked
 park11.secureserver.net                       #Parked
 park12.secureserver.net                       #Parked
 park1.alastyr.com                             #Parked
@@ -833,6 +846,8 @@ park1.dccdns.com                              #Parked
 park1.dns.ws                                  #Parked
 park1.domainsregistrationapi.com              #Parked
 park1.encirca.net                             #Parked
+park1.facilweb.net                            #Parked
+park1.hostfly.by                              #Parked
 park1.hostholic.com                           #Parked
 park1.linesis.com                             #Parked
 park1.livedns.co.il                           #Parked
@@ -848,6 +863,8 @@ park2.dccdns.com                              #Parked
 park2.dns.ws                                  #Parked
 park2.domainsregistrationapi.com              #Parked
 park2.encirca.net                             #Parked
+park2.facilweb.net                            #Parked
+park2.hostfly.by                              #Parked
 park2.hostholic.com                           #Parked
 park2.linesis.com                             #Parked
 park2.livedns.co.il                           #Parked
@@ -860,8 +877,10 @@ park2.tuthost.com                             #Parked
 park2.veridyen.com                            #Parked
 park3.dccdns.com                              #Parked
 park3.dns.ws                                  #Parked
+park3.facilweb.net                            #Parked
 park4.dccdns.com                              #Parked
 park4.dns.ws                                  #Parked
+park4.facilweb.net                            #Parked
 park6.dracoola.net                            #Parked
 park7.ru                                      #Parked
 park7.secureserver.net                        #Parked
@@ -953,6 +972,7 @@ universitytickets.com                     #Company [Education]
 sega.co.uk                                #Company [Entertainment] Sega
 warnerbros.com                            #Company [Entertainment] Warner Bros.
 smith-wesson.net                          #Company [Firearms] Smith & Wesson
+genmills.com                              #Company [Food] General Mills
 pattersoncompanies.com                    #Company [Health] Patterson Companies
 millenniumhotels.co.nz                    #Company [Hotel] Millennium Hotels
 nauhotels.com                             #Company [Hotel] Nau Hotels
