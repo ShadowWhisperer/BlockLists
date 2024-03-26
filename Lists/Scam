@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,826
-# Updated: 3/25/2024  11:28 (11:28 AM CST)
+# Domains: 12,827
+# Updated: 3/26/2024  12:38 (12:38 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -1508,6 +1508,7 @@ blueeyestee.com
 bluefanc.com
 bluefirepits.com
 blueforests.net
+bluefuntoy.com
 bluegrassfrenchies.com
 bluegrasstimes.com
 bluegreatdane.com

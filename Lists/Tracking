@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 71,925
-# Updated: 3/25/2024  23:34 (11:34 PM CST)
+# Domains: 71,927
+# Updated: 3/26/2024  12:38 (12:38 PM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -14,6 +14,7 @@
 0cf.io
 0ip.eu
 0ptimus.com
+1000minds.com
 100shoppers.com
 1010data.com
 1010tr.com
@@ -67012,6 +67013,7 @@ wellgroomedbat.com
 wellgroomedhydrant.com
 wellmadefrog.com
 wellmarkapmbeacon.wellmark.com
+wellmarkapm.wellmark.com
 wellness.spreadshirt.com
 wellpass.com
 wellsky.com
