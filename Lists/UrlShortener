@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,198
-# Updated: 3/26/2024  13:26 (1:26 PM CST)
+# Domains: 2,199
+# Updated: 3/27/2024  10:15 (10:15 AM CST)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
@@ -103,6 +103,7 @@
 531566.xyz
 5ahgwd5.com
 5e.fit
+5k.lol
 5qzr.com
 5rwv.info
 5w.fit
