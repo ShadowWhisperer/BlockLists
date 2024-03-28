@@ -234,6 +234,7 @@ p.sfx.ms                                            #Microsoft   OneDrive (Break
 storage.live.com                                    #Microsoft   OneDrive (Download files) *Web browser
 oneclient.sfx.ms                                    #Microsoft   OneDrive (Download Installer)
 statics-uhf-wus.akamaized.net                       #Microsoft   Support Pages
+statics.teams.cdn.office.net                        #Microsoft   Teams (Download)
 wdcp.microsoft.com                                  #Microsoft   Windows Defender Updates
 storecatalogrevocation.storequality.microsoft.com   #Microsoft   Windows Store (Remove licenses for malicious apps)
 displaycatalog.mp.microsoft.com                     #Microsoft   Windows Store
