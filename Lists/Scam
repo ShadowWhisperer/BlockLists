@@ -1,12 +1,11 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 12,943
-# Updated: 5/8/2024  15:50 (3:50 PM CST)
+# Domains: 12,944
+# Updated: 5/13/2024  17:11 (5:11 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 007-dvd.com
@@ -7814,6 +7813,7 @@ mysteriouslover.com
 mysteriousmissus.com
 mysteriousseductress.com
 mythicware.com
+mythit.top
 myticketstoindia.com
 mytinypawteacupyorkieboutique.com
 mytransgenderdate.com
