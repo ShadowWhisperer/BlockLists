@@ -1,12 +1,11 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,288
-# Updated: 5/9/2024  17:21 (5:21 PM CST)
+# Domains: 2,291
+# Updated: 5/13/2024  12:25 (12:25 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 010.at
@@ -137,6 +136,8 @@
 9-16.me
 925.seiu.org
 999.sh
+99vpn.pro
+9fx.org
 9jagistme.com.ng
 9k.gg
 9oz.com
@@ -376,6 +377,7 @@ b-ly.link
 bmr.li
 bnidigital.com
 bofh.us
+boofola.link
 boost.ink
 botemoda.com
 boxingtrip.com
