@@ -1,12 +1,11 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 281
-# Updated: 4/17/2024  12:46 (12:46 PM CST)
+# Domains: 282
+# Updated: 5/14/2024  16:50 (4:50 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 superantispyware.com                           #AntiMalware  SuperAntiSpyware
@@ -135,6 +134,7 @@ ibytedtos.com                                  #Company - TikTok
 ibyteimg.com                                   #Company - TikTok
 isnssdk.com                                    #Company - TikTok
 krtiktokacademy.com                            #Company - TikTok
+letschat.com                                   #Company - TikTok
 muscdn.com                                     #Company - TikTok
 musical.ly                                     #Company - TikTok
 mzfvozqybf.com                                 #Company - TikTok
