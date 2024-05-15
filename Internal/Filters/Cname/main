@@ -1,6 +1,3 @@
-############################################################
-# Generic
-############################################################
 azurewebsites.net                                              #Generic
 cloudflare.net                                                 #Generic
 edgekey.net                                                    #Generic
@@ -10,18 +7,10 @@ vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 
+lloydsbanking.com                                              #Ignore
+schoolwires.com                                                #Ignore
+townsquaremedia.com                                            #Ignore
 
-#####################################################
-# Ignore
-#####################################################
-lloydsbanking.com                                               #Ignore
-schoolwires.com                                                 #Ignore
-townsquaremedia.com                                             #Ignore
-
-
-#####################################################
-# Parked / For Sale
-#####################################################
 afternic.com                                                   #Parked
 bodis.com                                                      #Parked
 domainexpired-dnspod.cn                                        #Parked
@@ -34,13 +23,13 @@ rdtk.io                                                        #Parked
 #####################################################
 # Block
 #####################################################
-postrelease.com                                                 #Ad
-rs-stripe.com                                                   #Ad
-wpu.sh                                                          #Malware
-2o7.net                                                         #Tracker
-dataunlocker.com                                                #Tracker
-getclicky.com                                                   #Tracker
-omtrdc.net                                                      #Tracker
-pixel.hotmart.com                                               #Tracker
-stat-pulse.com                                                  #Tracker
-stats.uptimerobot.com                                           #Tracker
+postrelease.com                                                #Ad
+rs-stripe.com                                                  #Ad
+wpu.sh                                                         #Malware
+2o7.net                                                        #Tracker
+dataunlocker.com                                               #Tracker
+getclicky.com                                                  #Tracker
+omtrdc.net                                                     #Tracker
+pixel.hotmart.com                                              #Tracker
+stat-pulse.com                                                 #Tracker
+stats.uptimerobot.com                                          #Tracker
