@@ -12,13 +12,23 @@ wpenginepowered.com                                            #Generic
 
 
 #####################################################
+# Ignore
+#####################################################
+lloydsbanking.com                                               #Ignore
+schoolwires.com                                                 #Ignore
+townsquaremedia.com                                             #Ignore
+
+
+#####################################################
 # Parked / For Sale
 #####################################################
 afternic.com                                                   #Parked
 bodis.com                                                      #Parked
+domainexpired-dnspod.cn                                        #Parked
+domainexpired.dnspod.cn                                        #Parked
+expired.hichina.com                                            #Parked
 hugedomains.com                                                #Parked
 rdtk.io                                                        #Parked
-
 
 
 #####################################################
@@ -34,12 +44,3 @@ omtrdc.net                                                      #Tracker
 pixel.hotmart.com                                               #Tracker
 stat-pulse.com                                                  #Tracker
 stats.uptimerobot.com                                           #Tracker
-
-
-
-#####################################################
-# Ignore
-#####################################################
-lloydsbanking.com                                               #Ignore
-schoolwires.com                                                 #Ignore
-townsquaremedia.com                                             #Ignore
