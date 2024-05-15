@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,296
-# Updated: 5/14/2024  16:50 (4:50 PM CST)
+# Domains: 2,298
+# Updated: 5/15/2024  09:29 (9:29 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1503,6 +1503,7 @@ ripd.in
 rip.to
 riverbridge.cf
 r.jod.gg
+rjpl.link
 rjvn.co
 rli.io
 rlu.ru
@@ -1702,6 +1703,7 @@ short-url.upr.ac.id
 shorturl.win
 shortylink.org
 shortyzone.com
+shotcut.in
 shoturl.org
 shotzon.com
 shpze.com

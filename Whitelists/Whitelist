@@ -89,6 +89,7 @@ secure.uptrillion.com                               #Credit Card Terminal   Prev
 mqtt-us-2.roborock.com                              #Roborock               Connect to Wifi / Check for firmware updates *Vacuum
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com      #Roomba                 Connect to internet *Vacuum
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com          #Roomba                 Connect to internet *Vacuum
+n-use1-dw.tplinkcloud.com                           #TP-Link                Router Firmware
 
 
 #####################################################
@@ -598,8 +599,8 @@ mypdns.org                           #My Privacy DNS, web + DNS AUTH
 #####################################################
 # Optional
 #####################################################
-# analytics.dolphin-emu.org            #Analytics [Software]  Dolphin Emulator
-# telemetry.api.2kcoretech.online      #Tracker   [Game]      PGA Tour 2k1
-# googletagmanager.com                 #Tracker   [Images]    prxperformance.com
-# letsconnect.at                       #Ad        [Widget]    Live Chat Widget
-
+# analytics.dolphin-emu.org            #Analytics  [Software]  Dolphin Emulator
+# telemetry.malwarebytes.com           #Analytics  [Software]  AdwCleaner
+# telemetry.api.2kcoretech.online      #Tracker    [Game]      PGA Tour 2k1
+# googletagmanager.com                 #Tracker    [Images]    prxperformance.com
+# letsconnect.at                       #Ad         [Widget]    Live Chat Widget
