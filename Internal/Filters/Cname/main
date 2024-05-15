@@ -1,6 +1,9 @@
 ############################################################
 # Generic
 ############################################################
+azurewebsites.net                                              #Generic
+cloudflare.net                                                 #Generic
+edgekey.net                                                    #Generic
 google.com                                                     #Generic
 googlehosted.com                                               #Generic
 vercel-dns.com                                                 #Generic
@@ -8,10 +11,10 @@ wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 
 
-
 #####################################################
 # Parked / For Sale
 #####################################################
+afternic.com                                                   #Parked
 bodis.com                                                      #Parked
 hugedomains.com                                                #Parked
 rdtk.io                                                        #Parked
@@ -37,5 +40,6 @@ stats.uptimerobot.com                                           #Tracker
 #####################################################
 # Ignore
 #####################################################
+lloydsbanking.com                                               #Ignore
 schoolwires.com                                                 #Ignore
 townsquaremedia.com                                             #Ignore
