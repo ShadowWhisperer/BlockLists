@@ -1,3 +1,4 @@
+aliyuncs.com                                                   #Generic
 azurewebsites.net                                              #Generic
 cloudflare.net                                                 #Generic
 edgekey.net                                                    #Generic
@@ -6,6 +7,7 @@ googlehosted.com                                               #Generic
 vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
+wpeproxy.com                                                   #Generic
 
 lloydsbanking.com                                              #Ignore
 schoolwires.com                                                #Ignore
@@ -18,6 +20,7 @@ domainexpired.dnspod.cn                                        #Parked
 expired.hichina.com                                            #Parked
 hugedomains.com                                                #Parked
 rdtk.io                                                        #Parked
+urlforward.namebright.com                                      #Parked
 
 
 #####################################################
@@ -25,7 +28,9 @@ rdtk.io                                                        #Parked
 #####################################################
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
+
 wpu.sh                                                         #Malware
+
 2o7.net                                                        #Tracker
 dataunlocker.com                                               #Tracker
 getclicky.com                                                  #Tracker
