@@ -1,6 +1,22 @@
 ############################################################
 # Generic / Person's Name / Hidden / Web Design / Web Host
 ############################################################
+information technology                                                                  #Generic
+director of information technology                                                      #Generic
+comlaudereg                                                                             #Generic
+charleston road registry inc                                                            #Generic
+brandsight privacy customer                                                             #Generic
+markmonitorreg                                                                          #Generic
+markmonitor japan gk                                                                    #Generic
+markmonitorreg                                                                          #Generic
+organization contact                                                                    #Generic
+corporate counsel                                                                       #Generic
+finance department                                                                      #Generic
+domain administator                                                                     #Generic
+sysadmin team                                                                           #Generic
+dns administration                                                                      #Generic
+administrator                                                                           #Generic
+admin role                                                                              #Generic
 monikercom billing department                                                           #Generic
 monikercom tech department                                                              #Generic
 contactprivacyme                                                                        #Generic
@@ -875,8 +891,10 @@ bank of nova scotia                                                 #Company [Ba
 bank of scotland plc                                                #Company [Bank] Bank of Scotland
 barclays bank plc                                                   #Company [Bank] Barclays
 canadian imperial bank of commerce                                  #Company [Bank] Canadian Imperial Bank of Commerce
+capital one services llc                                            #Company [Bank] Capital One Bank
 jpmorgan chase bank national association                            #Company [Bank] Chase Bank
 jpmorgan chase co                                                   #Company [Bank] Chase Bank
+citibank berhad                                                     #Company [Bank] Citi Bank
 citibank na                                                         #Company [Bank] Citi Bank
 commerzbank ag                                                      #Company [Bank] Commerzbank
 deutsche bank ag                                                    #Company [Bank] Deutsche Bank
@@ -949,6 +967,7 @@ nike innovate cv                                                    #Company [Cl
 oxford industries inc                                               #Company [Clothing] Oxford Industries
 salomon sas                                                         #Company [Clothing] Solomon
 stitch fix                                                          #Company [Clothing] Stitch Fix
+wolverine world wide inc                                            #Company [Clothing] Wolverine World Wide Inc
 mercer inc                                                          #Company [Consulting] Mercer
 mercer us inc                                                       #Company [Consulting] Mercer
 robert half canada inc                                              #Company [Consulting] Robert Half
@@ -960,6 +979,7 @@ princess cruise lines ltd                                           #Company [Cr
 royal caribbean cruises ltd                                         #Company [Cruise] Royal Caribbean
 royal caribbean international                                       #Company [Cruise] Royal Caribbean
 silversea cruises ltd                                               #Company [Cruise] Silversea Cruises
+virgin enterprises limited                                          #Company [Cruise] Virgin
 viking river cruises                                                #Company [Cruise] Viking River Cruises
 8th avenue food and provisions inc                                  #Company [Food/Drink] 8th Avenue Food
 aldi international services gmbh co ohg                             #Company [Food/Drink] Aldi
@@ -1000,10 +1020,12 @@ jj snack food                                                       #Company [Fo
 just eat holding limited                                            #Company [Food/Drink] Just Eat
 justeat ireland limited                                             #Company [Food/Drink] Just Eat
 just eat spain                                                      #Company [Food/Drink] Just Eat
+kellogg company                                                     #Company [Food/Drink] Kellogg's
 kraft canada inc                                                    #Company [Food/Drink] Kraft Foods
 kraft foods group brands llc                                        #Company [Food/Drink] Kraft Foods
 labatt breweries of canada lp                                       #Company [Food/Drink] Labatt Brewing
 labatt brewing company limited                                      #Company [Food/Drink] Labatt Brewing
+mars incorporated                                                   #Company [Food/Drink] Mars
 mcdonalds corporation                                               #Company [Food/Drink] McDonald's
 mcdonalds restaurants of canada limited                             #Company [Food/Drink] McDonald's
 jsc moscow brewing company                                          #Company [Food/Drink] Moscow Brewing
@@ -1025,6 +1047,10 @@ red bull gmbh                                                       #Company [Fo
 royal unibrew as                                                    #Company [Food/Drink] Royal Unibrew
 smucker foods of canada corp                                        #Company [Food/Drink] Smucker
 the j m smucker company                                             #Company [Food/Drink] Smucker
+starbucks corporation                                               #Company [Food/Drink] Starbucks
+starbucks coffee company                                            #Company [Food/Drink] Starbucks
+starbucks coffee canada inc                                         #Company [Food/Drink] Starbucks
+berjaya starbucks coffee company sdn bhd                            #Company [Food/Drink] Starbucks
 tiger food brands intellectual property holding company ltd         #Company [Food/Drink] Tiger Food
 tyson foods inc                                                     #Company [Food/Drink] Tyson Foods
 winland foods inc                                                   #Company [Food/Drink] Winland Food
@@ -1048,7 +1074,6 @@ pearson technology centre                                                    #Co
 mcgrawhill global education holdings llc                                     #Company [Education] McGraw-Hill Global Education Holdings
 national geographic society                                                  #Company [Education] National Geographic Society
 sacramento county office of education                                        #Company [Education] Sacramento County Office of Education
-duke university                                                              #Company [Education] College
 arizona state university                                                     #Company [Education] College
 baylor university                                                            #Company [Education] College
 bemidji state university                                                     #Company [Education] College
@@ -1122,6 +1147,7 @@ university of arkansas for medical sciences                                  #Co
 university of asia                                                           #Company [Education] College
 university of auckland                                                       #Company [Education] College
 university of baltimore                                                      #Company [Education] College
+university of bamberg                                                        #Company [Education] College
 university of basel                                                          #Company [Education] College
 university of bath                                                           #Company [Education] College
 university of bc                                                             #Company [Education] College
@@ -1598,6 +1624,7 @@ university of york students union                                            #Co
 university of zambia                                                         #Company [Education] College
 university of zululand                                                       #Company [Education] College
 university of zurich geography department                                    #Company [Education] College
+university toronto                                                           #Company [Education] College
 utah state university                                                        #Company [Education] College
 wageningen university research centre                                        #Company [Education] College
 washington state university                                                  #Company [Education] College
@@ -1610,6 +1637,7 @@ yale university                                                              #Co
 york university                                                              #Company [Education] College
 colorado state library                                                       #Company [Education] Library
 the new york public library                                                  #Company [Education] Library
+wikimedia foundation inc                                                     #Company [Education] Wikimedia Foundation
 vattenfall ab                                                       #Company [Electrical] Vattenfall AB
 bosch rexroth ag                                                    #Company [Engineering, Tech] Bosch
 bosch san ve tic a s                                                #Company [Engineering, Tech] Bosch
@@ -1641,6 +1669,7 @@ directv llc                                                         #Company [En
 discovery communications europe limited                             #Company [Entertainment] Discovery Inc
 discovery communications llc                                        #Company [Entertainment] Discovery Inc
 discovery inc                                                       #Company [Entertainment] Discovery Inc
+dish network llc                                                    #Company [Entertainment] Dish Network
 disney enterprise inc                                               #Company [Entertainment] Disney
 disney enterprises inc                                              #Company [Entertainment] Disney
 seaworld parks and entertainment                                    #Company [Entertainment] Disney
@@ -1668,6 +1697,7 @@ fox news network llc                                                #Company [En
 twentieth century fox canada limited                                #Company [Entertainment] Fox
 twentieth century fox film corporation                              #Company [Entertainment] Fox
 twentieth century fox italy spa                                     #Company [Entertainment] Fox
+lin television corporation                                          #Company [Entertainment] Lin Television Corporation
 lions gate entertainment inc                                        #Company [Entertainment] Lions Gate
 live nation entertainment inc                                       #Company [Entertainment] Live Nation Entertainment
 live nation worldwide inc                                           #Company [Entertainment] Live Nation Entertainment
@@ -1781,6 +1811,7 @@ intuit canada ulc                                                   #Company [Fi
 intuit inc                                                          #Company [Financial] Intuit / Quickbooks
 manulife financial corporation                                      #Company [Financial] Manulife Financial
 raymond james financial inc                                         #Company [Financial] Raymond James
+rocket mortgage llc                                                 #Company [Financial] Rocket Mortgage
 quicken inc                                                         #Company [Financial] Quicken
 svb financial group                                                 #Company [Financial] SVB Financial Group
 synchrony financial                                                 #Company [Financial] Synchrony Financial
@@ -1811,8 +1842,19 @@ city of san antonio                                                 #Company [Go
 city of seattle                                                     #Company [Government] City of Seattle
 city of stamford                                                    #Company [Government] City of Stamford
 city of vancouver                                                   #Company [Government] City of Vancouver
+iowa department of transportation                                   #Company [Government] Iowa DOT
+state of iowa dom doit                                              #Company [Government] Iowa
+minnesota department of transportation                              #Company [Government] Minnesota DOT
 pole emploi                                                         #Company [Government] Pôle Emploi (French)
 schneider geospatial llc                                            #Company [Government] Schneider Geospatial
+alabama department of transportation                                #Company [Government] Schneider Geospatial
+florida department of transportation                                #Company [Government] Schneider Geospatial
+massachusetts department of transportation                          #Company [Government] Schneider Geospatial
+missouri department of transportation                               #Company [Government] Schneider Geospatial
+ohio department of transportation                                   #Company [Government] Schneider Geospatial
+texas department of transportation itd                              #Company [Government] Schneider Geospatial
+virginia department of transportation                               #Company [Government] Schneider Geospatial
+washington state department of transportation                       #Company [Government] Schneider Geospatial
 abbvie corporation                                                  #Company [Health] AbbVie
 abbvie deutschland gmbh co kg                                       #Company [Health] AbbVie
 abbvie inc                                                          #Company [Health] AbbVie
@@ -1828,6 +1870,7 @@ astrazeneca ab                                                      #Company [He
 astrazeneca canada inc                                              #Company [Health] AstraZeneca AB
 astrazeneca pharmaceuticals lp                                      #Company [Health] AstraZeneca AB
 astrazenecapharmaceuticals lp                                       #Company [Health] AstraZeneca AB
+avera health                                                        #Company [Health] Avera
 base training llc                                                   #Company [Health] Base Training LLC
 bausch and lomb americas inc                                        #Company [Health] Bausch & Lomb
 bausch health companies inc                                         #Company [Health] Bausch Health
@@ -1868,6 +1911,7 @@ hartford healthcare corporation                                     #Company [He
 hartford healthcare inc                                             #Company [Health] Hartford HealthCare
 healthhero germany gmbh                                             #Company [Health] HealthHero
 health services networks hospitals inc                              #Company [Health] Health Services Networks Hospitals Inc
+icon health fitness inc                                             #Company [Health] Icon Health & Fitness
 iherb llc                                                           #Company [Health] iHerb
 iherb llc legal department                                          #Company [Health] iHerb
 jazz pharmaceuticals inc                                            #Company [Health] Jazz Pharmaceuticals
@@ -2005,14 +2049,17 @@ zurich insurance company ltd                                        #Company [In
 centurylink communications llc                                      #Company [ISP] CenturyLink
 centurylink inc                                                     #Company [ISP] CenturyLink
 charter communications operating llc                                #Company [ISP] Charter Communications
+sterling jewelers inc                                               #Company [Jewelry] Sterling Jewelers
 norton rose fulbright us llp                                        #Company [Law Firm] Norton Rose Fulbright
 3m canada company                                                   #Company [Manufacturing] 3M
 3m chile sa                                                         #Company [Manufacturing] 3M
 3m company                                                          #Company [Manufacturing] 3M
 3m korea co ltd                                                     #Company [Manufacturing] 3M
 3m korea ltd                                                        #Company [Manufacturing] 3M
+3m malaysia sdn bhd                                                 #Company [Manufacturing] 3M
 acco brands corporation                                             #Company [Manufacturing] Acco Brands
 acuity brands inc                                                   #Company [Manufacturing] Acuity Brands Inc
+aob products company                                                #Company [Manufacturing] AOB Products
 abb asea brown boveri ltd                                           #Company [Manufacturing] Asea Brown Boveri
 abb schweiz ag                                                      #Company [Manufacturing] Asea Brown Boveri
 stanley black decker inc                                            #Company [Manufacturing] Black & Decker
@@ -2024,6 +2071,7 @@ dyson manufacturing sdn bhd                                         #Company [Ma
 dyson technology limited                                            #Company [Manufacturing] Dyson
 energizer brands llc                                                #Company [Manufacturing] Energizer
 deere company                                                       #Company [Manufacturing] John Deere
+lennox international inc                                            #Company [Manufacturing] Lennox
 koninklijke philips nv                                              #Company [Manufacturing] Philips
 philips electronics nederland bv                                    #Company [Manufacturing] Philips
 philips intellectual property and standards                         #Company [Manufacturing] Philips
@@ -2037,10 +2085,14 @@ the clorox company                                                  #Company [Ma
 the clorox company of canada ltd                                    #Company [Manufacturing] Procter & Gamble
 the procter gamble company                                          #Company [Manufacturing] Procter & Gamble
 rockler companies inc                                               #Company [Manufacturing] Rockler
+singer sourcing limited llc                                         #Company [Manufacturing] Singer
 zippo manufacturing company                                         #Company [Manufacturing] Zippo
 promo privacy                                                       #Company [Marketing] Promo People Inc.
 babcock international group plc                                     #Company [Military] Babcock International 
+bell media inc                                                      #Company [Multinational Conglomerate] Bell Meia
+general electric company                                            #Company [Multinational Conglomerate] General Electric
 abc inc                                                             #Company [News] ABC
+advance local media                                                 #Company [News] Advance Local Media
 czech news center as                                                #Company [News] Czech News Center
 citynews spa                                                        #Company [News] CityNews
 los angeles news                                                    #Company [News] LA News Inc
@@ -2050,6 +2102,8 @@ medianews group                                                     #Company [Ne
 medianews group inc                                                 #Company [News] Medianews Groupe
 american express travel related services company inc                #Company [Payment System] American Express
 community brands holdco llc                                         #Company [Payment System] Community Brands
+dfs administrator                                                   #Company [Payment System] DFS Services (Discover)
+dfs services llc                                                    #Company [Payment System] DFS Services (Discover)
 mastercard canada inc                                               #Company [Payment System] MasterCard
 mastercard                                                          #Company [Payment System] MasterCard
 mastercard europe                                                   #Company [Payment System] MasterCard
@@ -2072,12 +2126,21 @@ united parcel service of america inc                                #Company [Pa
 getty images inc                                                    #Company [Photos] Getty Images
 getty images us inc                                                 #Company [Photos] Getty Images
 shutterfly llc                                                      #Company [Photos] Shutterfly
+1800flowerscom inc                                                  #Company [Plants] 1800 Flowers
 teleflora canada                                                    #Company [Plants] Teleflora
 teleflora technologies                                              #Company [Point of Sales] Teleflora Technologies
+advance magazine publishers inc                                     #Company [Publishing] Advance Magazine Publishers Inc
+corus entertainment inc                                             #Company [Publishing] Corus Entertainment Inc
+dow jones company inc                                               #Company [Publishing] Dow Jones
+go media inc                                                        #Company [Publishing] Go Media Inc
+gamer network limited                                               #Company [Publishing] Gamer Network Limited
 informa group                                                       #Company [Publishing] Informa PLC
 informa group limited                                               #Company [Publishing] Informa PLC
 informa uk limited                                                  #Company [Publishing] Informa PLC
 pearson plc                                                         #Company [Publishing] Pearson
+postmedia network inc                                               #Company [Publishing] Postmedia Network
+postmediasupport postmediasupport                                   #Company [Publishing] Postmedia Network
+salem communications corporation                                    #Company [Publishing] Salem Communications
 trusted media brands inc                                            #Company [Publishing] Trusted Media Brands
 toronto star newspapers ltd                                         #Company [Publishing] Toronto Star Newspapers
 ubm canon                                                           #Company [Publishing] UBM Canon
@@ -2208,6 +2271,7 @@ trinity episcopal church                                            #Company [Re
 trinity lutheran church                                             #Company [Religion]
 trinity united church                                               #Company [Religion]
 trinity united methodist church                                     #Company [Religion]
+united presbyterian church                                          #Company [Religion]
 university united methodist church                                  #Company [Religion]
 victory baptist church                                              #Company [Religion]
 village baptist church                                              #Company [Religion]
@@ -2224,6 +2288,7 @@ gamestop hostmaster                                                 #Company [Re
 gamestop inc                                                        #Company [Retail] GameStop
 home depot of canada inc                                            #Company [Retail] Home Depot
 home depot product authority llc                                    #Company [Retail] Home Depot
+jc penney corporation inc                                           #Company [Retail] JC Penney
 kininc                                                              #Company [Retail] Kin, Inc / kohls
 kininc fka kohls illinois inc                                       #Company [Retail] Kin, Inc / kohls
 sears brands llc                                                    #Company [Retail] Sears
@@ -2250,10 +2315,17 @@ reddit inc                                                          #Company [So
 tumblr inc                                                          #Company [Social Media] Tumblr
 airslate inc airslate inc                                           #Company [Software] airSlate Inc
 airslate inc                                                        #Company [Software] airSlate Inc
+autodesk inc                                                        #Company [Software] Autodesk
 compugroup medical danmark as                                       #Company [Software] Compugroup Medical
 compugroup medical denmark as                                       #Company [Software] Compugroup Medical
 compugroup medical se                                               #Company [Software] Compugroup Medical
+open text corporation                                               #Company [Software] OpenText
 opera norway as                                                     #Company [Software] Opera
+passmark software                                                   #Company [Software] Passmark
+pihole                                                              #Company [Software] Pihole
+solera csc domain admin                                             #Company [Software] Solera
+solera holdings inc                                                 #Company [Software] Solera
+synacor inc                                                         #Company [Software] Synacor Inc
 tyler technologies inc at                                           #Company [Software] Tyler Technologies
 tyler technologies inc cj                                           #Company [Software] Tyler Technologies
 tyler technologies inc                                              #Company [Software] Tyler Technologies
@@ -2289,7 +2361,9 @@ cisco technology inc                                                #Company [Te
 dell emc                                                            #Company [Tech] Dell
 dell inc                                                            #Company [Tech] Dell
 dropbox inc                                                         #Company [Tech] DropBox
+epson europe bv                                                     #Company [Tech] Epson
 seiko epson corp                                                    #Company [Tech] Epson
+seiko epson corporation                                             #Company [Tech] Epson
 github inc                                                          #Company [Tech] Github
 hewlett packard enterprise company                                  #Company [Tech] Hewlett Packard
 hp inc                                                              #Company [Tech] Hewlett Packard
@@ -2304,6 +2378,7 @@ microsoft canada inc                                                #Company [Te
 microsoft corporation                                               #Company [Tech] Microsoft
 motorola solutions inc                                              #Company [Tech] Motorola
 motorola trademark holdings llc                                     #Company [Tech] Motorola
+mozilla corporation                                                 #Company [Tech] Mozilla
 microstar intl co ltd                                               #Company [Tech] MSI
 nokia corporation                                                   #Company [Tech] Nokia
 nable technologies ltd                                              #Company [Tech] N-Able
@@ -2311,16 +2386,22 @@ nvidia corporation                                                  #Company [Te
 nvidia ltd                                                          #Company [Tech] Nvidia
 okta inc                                                            #Company [Tech] Okta Inc
 okta operations                                                     #Company [Tech] Okta Inc
+qualcomm inc                                                        #Company [Tech] Qualcomm
+sectigo limited                                                     #Company [Tech] Sectigo
 schneider electric industries sas                                   #Company [Tech] Schneider Electric
-toshiba america inc                                                 #Company [Tech] Toshiba
-toshiba of europe ltd                                               #Company [Tech] Toshiba
 ns1toshibaeuropecom                                                 #Company [Tech] Toshiba
 ns2toshibaeuropecom                                                 #Company [Tech] Toshiba
 ns3toshibaeuropecom                                                 #Company [Tech] Toshiba
 ns4toshibaeuropecom                                                 #Company [Tech] Toshiba
+toshiba america inc                                                 #Company [Tech] Toshiba
+toshiba corporation                                                 #Company [Tech] Toshiba
+toshiba europe limited                                              #Company [Tech] Toshiba
+toshiba korea                                                       #Company [Tech] Toshiba
+toshiba of europe ltd                                               #Company [Tech] Toshiba
 vmware canada inc                                                   #Company [Tech] VMware
 vmware inc                                                          #Company [Tech] VMware
 vmware korea co ltd                                                 #Company [Tech] VMware
+western digital                                                     #Company [Tech] Western Digital
 xerox canada ltd                                                    #Company [Tech] Xerox
 xerox corp                                                          #Company [Tech] Xerox
 xerox corporation                                                   #Company [Tech] Xerox
@@ -2445,7 +2526,9 @@ the computer clinic of canada inc                                   #Company [We
 cyber intelligence inc                                              #Company [Webdesign] Cyber Intelligence Inc
 dreamscape networks international pte ltd                           #Company [Webdesign] Dreamscape Networks
 dreamscape networks pte ltd                                         #Company [Webdesign] Dreamscape Networks
+future publishing limited                                           #Company [Webdesign] Future Publishing Limited
 indetail advertising                                                #Company [Webdesign] In-Detail Advertising
 metroplus advertising llc                                           #Company [Webdesign] Metroplus Advertising
 mirus research                                                      #Company [Webdesign] Mirus Research
+nexstar media group                                                 #Company [Webdesign] Nexstar Media Hroup
 vertexplus technologies                                             #Company [Webdesign] Vertexplus Technologies
