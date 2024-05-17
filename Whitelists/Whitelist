@@ -147,7 +147,6 @@ encrypted-tbn3.gstatic.com                       #Google   Images
 gstatic.com                                      #Google   Images
 t0.gstatic.com                                   #Google   Images (Click an image in WEB search results) *Side popup
 redirector.gvt1.com                              #Google   Chrome
-translate.googleapis.com                         #Google   Tranlsate
 people-pa.googleapis.com                         #Google   Contacts Sync (Phone)
 peoplestack-pa.clients6.google.com               #Google   Contacts Sync (Phone)
 clients6.google.com                              #Google   Drive (Download From Browser)
@@ -168,6 +167,9 @@ op-d.storage.googleapis.com                      #Google   Maps (Download maps f
 op-u.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
 kh.google.com                                    #Google   Maps (Earth View)
 playstoregatewayadapter-pa.googleapis.com        #Google   Play Store (Breaks app search)
+pki.goog                                         #Google   Public Key
+pki-goog.l.google.com                            #Google   Public Key
+translate.googleapis.com                         #Google   Tranlsate
 youtubei.googleapis.com                          #Google   YouTube (Breaks App)
 yt3.googleusercontent.com                        #Google   YouTube (Images)
 suggestqueries-clients6.youtube.com              #Google   YouTube (Search Suggest)

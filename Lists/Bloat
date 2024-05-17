@@ -1,12 +1,11 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 896
-# Updated: 4/26/2024  15:19 (3:19 PM CST)
+# Domains: 894
+# Updated: 5/17/2024  12:27 (12:27 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 ipv4.connman.net                                        #Arch / Others - Internet Access Check
@@ -668,8 +667,6 @@ pack.google.com                                         #Google
 pai.googlezip.net                                       #Google
 people-pa.clients6.google.com                           #Google
 phonedeviceverification-pa.googleapis.com               #Google
-pki.goog                                                #Google
-pki-goog.l.google.com                                   #Google
 popup.withgoogle.com                                    #Google
 proactivebackend-pa.googleapis.com                      #Google
 pubsub.googleapis.com                                   #Google

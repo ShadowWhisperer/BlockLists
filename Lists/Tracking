@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 72,983
-# Updated: 5/17/2024  09:07 (9:07 AM CST)
+# Domains: 72,984
+# Updated: 5/17/2024  12:27 (12:27 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -20949,6 +20949,7 @@ gmfss.inergytek.com
 gmgb4.net
 g.miaminewtimes.com
 gmreg5.net
+gmscompliance-pa.googleapis.com
 gmtrack.net
 gmyze.com
 g.newtimes.com
