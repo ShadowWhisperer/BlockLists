@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 72,983
-# Updated: 5/17/2024  13:17 (1:17 PM CST)
+# Domains: 72,969
+# Updated: 5/17/2024  13:56 (1:56 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -12643,6 +12643,7 @@ api-analytics.kt-pulse.dev
 api-analytics.pelikan.sk
 api-analytics-sg.huami.com
 api-analytics-us.huami.com
+api-analytics.zepp.com
 api.autozone.com
 api-bdc.net
 api-bd.kohls.com
@@ -13674,7 +13675,6 @@ beginnerpancake.com
 begintrain.com
 behaviour.exchange
 behindthescreens.nccgroup.com
-be.info.devoteam.com
 bejksgh2iu.com
 bekbgandrmbx.com
 belladati.com
@@ -17137,7 +17137,6 @@ cyclope-series.com
 cyscape.com
 c.za.msn.com
 cz.gcloud.devoteam.com
-cz.info.devoteam.com
 d096.theweek.co.uk
 d10lpsik1i8c69.cloudfront.net
 d11bdev7tcn7wh.cloudfront.net
@@ -17687,7 +17686,6 @@ de.gcloud.devoteam.com
 de.gn.com
 degree.mses.northwestern.edu
 dei-info.dei.or.jp
-de.info.devoteam.com
 delacon.com.au
 delegate.bluestacks.com
 delegatediscussion.com
@@ -18054,7 +18052,6 @@ d.jsdelivr.plus
 dk4ywix.com
 dk98ddgl0znzm.cloudfront.net
 dki83trk.com
-dk.info.devoteam.com
 dkpklk99llpj0.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dk.zettle.com
@@ -19170,7 +19167,6 @@ esgauge.org
 es.getinge.com
 es.gn.com
 e.shangri-la.com
-es.info.devoteam.com
 esiteanalytics.com
 es.itfpharmagroup.com
 esko.corbus.com
@@ -25773,6 +25769,7 @@ insight.darceyquigley.co.uk
 insight.digitalmeasures.com
 insight-engine.newfangled.com
 insightfirst.com
+insightful-enterprise-intelligence.com
 insight.fundpath.co.uk
 insight.gm
 insight.hgdata.com
@@ -32390,6 +32387,7 @@ metric.asos.de
 metric.asos.fr
 metric.atlanta.net
 metric.australiansuper.com
+metricaweb.com
 metrica.yandex.com
 metric.baitoru.com
 metric.bakingbusiness.com
@@ -32546,6 +32544,7 @@ metric.salliemae.com
 metrics.almamedia.fi
 metrics.alpo.com
 metrics.amaguiz.com
+metrics.amazonworkdocs.com
 metrics.ambetterhealth.com
 metrics.ambetterhealthnet.com
 metrics.ameise.ch
@@ -33911,6 +33910,7 @@ metrics.shangri-la.com
 metrics.shannons.com.au
 metrics.sharecare.com
 metrics.sharpusa.com
+metrics-shell.com
 metrics.shepherd.com
 metrics.shinseibank.com
 metrics.shoedazzle.com
@@ -34286,6 +34286,7 @@ metric.toyotacertificados.com
 metric.toyotacertified.com
 metric.tsite.jp
 metric.vn
+metric.vodacom.co.za
 metric.volkswagen.com
 metric.volkswagen.de
 metric.volkswagen.ie
@@ -35503,7 +35504,6 @@ nl02.net
 nl03.net
 nl.arjo.com
 nl.gn.com
-nl.info.devoteam.com
 nlogic.ca
 nlogs.cloudimgs.net
 nlpcoaching.shigoto-manabiya.jp
@@ -35608,7 +35608,6 @@ nr-ops.net
 ns8.com
 ns8ds.com
 nsaudience.pl
-nsc.metrics-shell.com
 nscmetrics.shell.com
 nsc.natwest.com
 ns.e4.netspend.com
@@ -40897,7 +40896,6 @@ piwik.metarkice.fr
 piwik.meta-ware.at
 piwik.metaways.net
 piwik.methodicate.com
-piwik.metricaweb.com
 piwik.metropol-promotion.de
 piwik.metroprime.de
 piwik.metz.de
@@ -44506,7 +44504,6 @@ pixel.thiagoborrelli.com
 pixel.thiagodesigncruz.com
 pixel.thiagoehrhardt.com
 pixel.thingsolver.com
-pixel.thoughtmetric.io
 pixel.tiagooliver.com
 pixel.tininhaonline.com
 pixel.tiradopapel.com
@@ -45566,7 +45563,6 @@ ptengine.jp
 pt.forcetechnology.com
 pt.gcloud.devoteam.com
 pt.hydro.com
-pt.info.devoteam.com
 ptmind.com
 p-track.clear.co
 ptracker.dgaauto.com
@@ -47890,7 +47886,6 @@ scissorsstatement.com
 scite.site
 sc.kidschoiceawards.com
 sclick.baidu.com
-sc.metrics-shell.com
 scmetrics.vodafone.it
 scm-solutions.siemens-digital-logistics.com
 sc.mtv.com
@@ -49271,7 +49266,6 @@ smetrics.arkansastotalcare.com
 smetrics.armadaskis.com
 smetrics.army.mod.uk
 smetrics.arnette.com
-s.metrics.artistsnetwork.com
 smetrics.ascensioncomplete.com
 smetrics.ascentric.co.uk
 smetrics.as.com
@@ -50431,7 +50425,6 @@ smetrics.internationalchampionscup.com
 smetrics.internetbanka.cz
 smetrics.intervalresortsupport.com
 smetrics.intervalworld.com
-s.metrics.interweave.com
 smetrics.investec.com
 smetrics.investmentnews.com
 smetrics.investools.com
@@ -51259,7 +51252,6 @@ smetrics.policies.kpmg
 smetrics.politico.com
 smetrics.politicopro.com
 smetrics.polivy.com
-s.metrics.popularwoodworking.com
 smetrics.pordentrodaesclerodermia.com.br
 smetrics.potterybarn.ca
 smetrics.potterybarn.com
@@ -51382,7 +51374,6 @@ smetrics.qatarairways.com
 smetrics.qatarairways.com.qa
 smetrics.quikshiptoner.com
 smetrics.quillconnect.com
-s.metrics.quiltingcompany.com
 smetrics.quixa.it
 smetrics.qvc.com
 smetrics.qvc.de
@@ -51731,7 +51722,6 @@ smetrics.skechers.co.nz
 smetrics.skiphop.com
 smetrics.skipton.co.uk
 smetrics.skodafinancialservices.nl
-s.metrics.skyandtelescope.com
 smetrics.sky.com
 smetrics.sky.de
 smetrics.sky.es
@@ -52329,8 +52319,6 @@ smetrics.worldvision.org
 smetrics.wowtv.de
 smetrics.wradio.com.co
 smetrics.wradio.com.mx
-s.metrics.writersdigest.com
-s.metrics.writersdigestshop.com
 smetrics.wrs.com.sg
 smetrics.wsib2b.com
 smetrics.wszechnica.roche.pl
@@ -52385,7 +52373,6 @@ smetric.thecapitalgrille.com
 smetric.tlsslim.com
 smetric.tsite.jp
 smetric.unfranchise.com
-s.metric.vodacom.co.za
 smetric.volkswagen.com
 smetric.wartung-inspektion.de
 smetric.yardhouse.com
@@ -64852,6 +64839,7 @@ thongke.opencps.vn
 thorn-side-classical.b-cdn.net
 thoughtful-experimenter-1306.ck.page
 thoughtlessknot.com
+thoughtmetric.io
 thoughtspot.com
 thousandeyes.com
 threatwatch.securityondemand.com
@@ -66738,7 +66726,6 @@ uk.exponential-e.com
 uk.gcloud.devoteam.com
 uk.gn.com
 uki.arjo.com
-uk.info.devoteam.com
 uk.lenoxsoftglobal.com
 uk-script.dotmetrics.net
 uktgg.dev-tester.com
@@ -66992,7 +66979,6 @@ us-central1-callpower-repair-1548316784218.cloudfunctions.net
 us-central1-custom-site-analytics.cloudfunctions.net
 us-central1-production-225218.cloudfunctions.net
 useagility.com
-us-east-1.metrics.amazonworkdocs.com
 us-east-1-web-oao.ssp.yahoo.com
 useastmatomo.ravnur.com
 useastmonitoring.livesegmentservice.com
