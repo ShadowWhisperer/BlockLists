@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,310
-# Updated: 5/20/2024  17:53 (5:53 PM CST)
+# Domains: 2,311
+# Updated: 5/21/2024  17:33 (5:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1759,6 +1759,7 @@ slecastle.com
 slims.us
 slnk.se
 slpre.com
+s.lu
 slurl.keatsmedia.ca
 slutbook.co
 sm4ll.in
