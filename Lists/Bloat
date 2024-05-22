@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 894
-# Updated: 5/17/2024  12:27 (12:27 PM CST)
+# Domains: 893
+# Updated: 5/22/2024  08:28 (8:28 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -591,7 +591,6 @@ aa.google.com                                           #Google
 accountcapabilities-pa.googleapis.com                   #Google
 android.apis.google.com                                 #Google
 androidattestationvalidation-pa.googleapis.com          #Google
-android-context-data.googleapis.com                     #Google
 androidresumeonreboot-pa.googleapis.com                 #Google
 app.goo.gl                                              #Google
 appsgrowthpromo-pa.clients6.google.com                  #Google
