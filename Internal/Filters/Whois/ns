@@ -1,42 +1,6 @@
 ##############################################
 #    Generic / Web Design / Web Host
 ##############################################
-webparkhost.com                           #Generic
-dynadot.net                               #Generic
-sparkjapan.com                            #Generic
-cpns04.sparkjapan.com                     #Generic
-cpns05.sparkjapan.com                     #Generic
-cpns06.sparkjapan.com                     #Generic
-supremedns.com                            #Generic
-dns1.supremedns.com                       #Generic
-dns2.supremedns.com                       #Generic
-dns3.supremedns.com                       #Generic
-dns4.supremedns.com                       #Generic
-dns1.safenames.com                        #Generic
-idp365.net                                #Generic
-dns2.safenames.net                        #Generic
-dns3.safenames.org                        #Generic
-safenames.org                             #Generic
-safenames.net                             #Generic
-safenames.com                             #Generic
-ns1.parkajans.com.tr                      #Generic
-parkajans.com.tr                          #Generic
-ns2.parkajans.com.tr                      #Generic
-hostinginuae.com                          #Generic
-idc-durentiga.net                         #Generic
-nsc.ip-mobile.tv                          #Generic
-nsd.ip-mobile.tv                          #Generic
-futuresouls.com                           #Generic
-impervasecuredns.net                      #Generic
-domaindiscount24.net                      #Generic
-sprinthost.net                            #Generic
-antagus.de                                #Generic
-tildadns.com                              #Generic
-dailyrazor.com                            #Generic
-azuregov-dns.us                           #Generic
-fullcontrol.net                           #Generic
-namesrs.com                               #Generic
-uscomputergroup.com                       #Generic
 123hotel.dk                               #Generic
 1and1.com                                 #Generic
 1and1-dns.biz                             #Generic
@@ -72,6 +36,7 @@ akam.net                                  #Generic
 alfahosting.info                          #Generic
 alidns.com                                #Generic
 amenworld.com                             #Generic
+antagus.de                                #Generic
 anycast.me                                #Generic
 ardeleted.com                             #Generic
 a.register.com                            #Generic
@@ -89,13 +54,13 @@ azure-dns.com                             #Generic
 azure-dns.info                            #Generic
 azure-dns.net                             #Generic
 azure-dns.org                             #Generic
+azuregov-dns.us                           #Generic
 b.ack.de                                  #Generic
 banahosting.com                           #Generic
 bb.com.br                                 #Generic
 bdm.microsoftonline.com                   #Generic
 bebetterhotels.com                        #Generic
 beget.com                                 #Generic
-profesionalhosting.com                    #Generic
 beget.pro                                 #Generic
 beget.ru                                  #Generic
 b.ezdnscenter.com                         #Generic
@@ -149,6 +114,9 @@ conoha.io                                 #Generic
 constellix.com                            #Generic
 constellix.net                            #Generic
 contabo.net                               #Generic
+cpns04.sparkjapan.com                     #Generic
+cpns05.sparkjapan.com                     #Generic
+cpns06.sparkjapan.com                     #Generic
 cprapid.com                               #Generic
 crazydomains.com                          #Generic
 c.register.com                            #Generic
@@ -161,6 +129,7 @@ d-53.jp                                   #Generic
 d-53.org                                  #Generic
 d.ack.de                                  #Generic
 da.direct                                 #Generic
+dailyrazor.com                            #Generic
 data-hotel.net                            #Generic
 ddns1.interlink.or.jp                     #Generic
 ddns2.interlink.or.jp                     #Generic
@@ -169,6 +138,7 @@ deleted.gkg.net                           #Generic
 deleted-ns.pw                             #Generic
 delete-host.com                           #Generic
 delete-registration.com                   #Generic
+demysdns.co.uk                            #Generic
 digipark.com                              #Generic
 digitalocean.com                          #Generic
 dinahosting.com                           #Generic
@@ -185,9 +155,12 @@ dns1.co.za                                #Generic
 dns1.de                                   #Generic
 dns1.heteml.jp                            #Generic
 dns1.idp365.net                           #Generic
+dns1.linuxpl.com                          #Generic
 dns1.namecheaphosting.com                 #Generic
 dns1.oderland.com                         #Generic
 dns1.raiolanetworks.es                    #Generic
+dns1.safenames.com                        #Generic
+dns1.supremedns.com                       #Generic
 dns1.webpark.hu                           #Generic
 dns2.4cun.com                             #Generic
 dns2.bb.com.br                            #Generic
@@ -195,26 +168,34 @@ dns2.cafe24.com                           #Generic
 dns2.co.za                                #Generic
 dns2.de                                   #Generic
 dns2.idp365.net                           #Generic
+dns2.linuxpl.com                          #Generic
 dns2.namecheaphosting.com                 #Generic
 dns2.oderland.com                         #Generic
 dns2.raiolanetworks.es                    #Generic
+dns2.safenames.net                        #Generic
+dns2.supremedns.com                       #Generic
 dns2.webpark.hu                           #Generic
 dns3.4cun.com                             #Generic
 dns3.bb.com.br                            #Generic
 dns3.de                                   #Generic
 dns3.idp365.net                           #Generic
+dns3.linuxpl.com                          #Generic
 dns3.oderland.com                         #Generic
 dns3.raiolanetworks.es                    #Generic
+dns3.safenames.org                        #Generic
+dns3.supremedns.com                       #Generic
 dns4.4cun.com                             #Generic
 dns4.bb.com.br                            #Generic
 dns4.de                                   #Generic
 dns4.oderland.com                         #Generic
 dns4.raiolanetworks.es                    #Generic
+dns4.supremedns.com                       #Generic
 dns5.4cun.com                             #Generic
 dns6.4cun.com                             #Generic
 dns7.4cun.com                             #Generic
 dns8.4cun.com                             #Generic
 dnsbak.dotvndns.vn                        #Generic
+dns.com.cn                                #Generic
 dns.com                                   #Generic
 dns-diy.com                               #Generic
 dnsdotnetpark.info                        #Generic
@@ -241,6 +222,7 @@ dns-public-b.epic.com                     #Generic
 dnsv.jp                                   #Generic
 domain.com                                #Generic
 domaincontrol.com                         #Generic
+domaindiscount24.net                      #Generic
 domain-dns.com                            #Generic
 domainhotelli.fi                          #Generic
 domainnamedns.com                         #Generic
@@ -270,6 +252,7 @@ dotvndns.vn                               #Generic
 dreamhost.com                             #Generic
 d.register.com                            #Generic
 driftshotellet.com                        #Generic
+dynadot.net                               #Generic
 dyna-ns.net                               #Generic
 dyn.com                                   #Generic
 dynect.net                                #Generic
@@ -316,7 +299,10 @@ forpsi.net                                #Generic
 forpsi.us                                 #Generic
 freehosting.com                           #Generic
 freeparking.co.nz                         #Generic
+fullcontrol.net                           #Generic
+futuresouls.com                           #Generic
 gandi.net                                 #Generic
+gcd-dns.com                               #Generic
 genious.net                               #Generic
 gigaspark.com                             #Generic
 global.gc.ca                              #Generic
@@ -329,6 +315,10 @@ greengeeks.com                            #Generic
 greengeeks.net                            #Generic
 grserver.gr                               #Generic
 guzelhosting.com                          #Generic
+ha1.markmonitor.zone                      #Generic
+ha2.markmonitor.zone                      #Generic
+ha3.markmonitor.zone                      #Generic
+ha4.markmonitor.zone                      #Generic
 ha988cne.com                              #Generic
 haisoft.net                               #Generic
 harddrivehotel.com                        #Generic
@@ -337,6 +327,7 @@ heberjahiz.com                            #Generic
 he.net                                    #Generic
 heteml.jp                                 #Generic
 hexonet.net                               #Generic
+hichina.com                               #Generic
 hospedagemdesites.ws                      #Generic
 hostarmada.net                            #Generic
 hostatom.com                              #Generic
@@ -352,6 +343,7 @@ hostgator.in                              #Generic
 hostgatorwebservers.com                   #Generic
 host-h.net                                #Generic
 hostingberry.com                          #Generic
+hostinginuae.com                          #Generic
 hosting-mexico.net                        #Generic
 hostingplatform.net.au                    #Generic
 hosting.reg.ru                            #Generic
@@ -381,8 +373,11 @@ huaweicloud-dns.org                       #Generic
 hugedomainsdns.com                        #Generic
 hvosting.ua                               #Generic
 hyp.net                                   #Generic
+idc-durentiga.net                         #Generic
 identityaware.com                         #Generic
+idp365.net                                #Generic
 ihc.ru                                    #Generic
+impervasecuredns.net                      #Generic
 infomaniak.ch                             #Generic
 infomaniak.com                            #Generic
 inhostedns.com                            #Generic
@@ -422,6 +417,7 @@ libyanspider.net                          #Generic
 likuid.com                                #Generic
 limoodns.com                              #Generic
 linode.com                                #Generic
+linuxpl.com                               #Generic
 liquidweb.com                             #Generic
 livedns.co.uk                             #Generic
 locaweb.com.br                            #Generic
@@ -433,6 +429,7 @@ mail.ru                                   #Generic
 managedns.org                             #Generic
 managed-vps.net                           #Generic
 markmonitor.com                           #Generic
+markmonitor.zone                          #Generic
 mars.orderbox-dns.com                     #Generic
 masterhost.ru                             #Generic
 master.parkovka.ua                        #Generic
@@ -473,6 +470,7 @@ nameserver.net.au                         #Generic
 name-servers.gr                           #Generic
 name-services.com                         #Generic
 nameshield.net                            #Generic
+namesrs.com                               #Generic
 nametime.com                              #Generic
 natrohost.com                             #Generic
 nc3.cafe24.com                            #Generic
@@ -505,22 +503,32 @@ ns1.dominios.uol.com.br                   #Generic
 ns1.dothome.co.kr                         #Generic
 ns1.epik,com                              #Generic
 ns1.fr                                    #Generic
+ns1.parkajans.com.tr                      #Generic
 ns2.aftermarket.pl                        #Generic
 ns2.dns.com.cn                            #Generic
 ns2.dns.parking.by                        #Generic
 ns2.dominios.uol.com.br                   #Generic
 ns2.dothome.co.kr                         #Generic
 ns2.epik,com                              #Generic
+ns2.parkajans.com.tr                      #Generic
 ns3.dominios.uol.com.br                   #Generic
 ns3.dothome.co.kr                         #Generic
 ns3.epik,com                              #Generic
+ns4.demysdns.co.uk                        #Generic
 ns4.epik,com                              #Generic
+ns5.demysdns.co.uk                        #Generic
+ns6.demysdns.co.uk                        #Generic
 ns.active24.cz                            #Generic
 ns.active24.sk                            #Generic
+nsa.perf1.fr                              #Generic
 ns.arvancdn.ir                            #Generic
 nsbak.dotvndns.com                        #Generic
+nsb.perf1.com                             #Generic
 ns.cafe24.com                             #Generic
+nsc.ip-mobile.tv                          #Generic
 ns.cloudflare.com                         #Generic
+nsc.perf1.com                             #Generic
+nsd.ip-mobile.tv                          #Generic
 ns.do-ex.com                              #Generic
 ns.do-ex.net                              #Generic
 ns.do-ex.org                              #Generic
@@ -561,6 +569,7 @@ pair.com                                  #Generic
 pananames.com                             #Generic
 park1.bluerazor.com                       #Generic
 park2.bluerazor.com                       #Generic
+parkajans.com.tr                          #Generic
 parker.com                                #Generic
 parkid1.dracoola.net                      #Generic
 parkid2.dracoola.net                      #Generic
@@ -575,10 +584,13 @@ parkovka.ua                               #Generic
 parkpage.foundationapi.com                #Generic
 park-web.ru                               #Generic
 parsdn.com                                #Generic
+parsvds.com                               #Generic
 pavietnam.net                             #Generic
 pavietnam.vn                              #Generic
 pbi.net                                   #Generic
 pcshs.com                                 #Generic
+perf1.com                                 #Generic
+perf1.fr                                  #Generic
 phase8.net                                #Generic
 pivotalpark.net                           #Generic
 planethoster.net                          #Generic
@@ -587,6 +599,7 @@ plesk-server.com                          #Generic
 private-nameserver.net                    #Generic
 privatesystems.net                        #Generic
 prodns.com.br                             #Generic
+profesionalhosting.com                    #Generic
 promdns.net                               #Generic
 qwest.net                                 #Generic
 rackspace.com                             #Generic
@@ -594,6 +607,7 @@ radicenter.com                            #Generic
 radicenter.ee                             #Generic
 radicenter.eu                             #Generic
 radicenter.fi                             #Generic
+raiolanetworks.es                         #Generic
 rayanegarco.com                           #Generic
 rebel.com                                 #Generic
 reg-delete.com                            #Generic
@@ -616,6 +630,9 @@ rumahweb.com                              #Generic
 rumahweb.net                              #Generic
 rumahweb.org                              #Generic
 rzone.de                                  #Generic
+safenames.com                             #Generic
+safenames.net                             #Generic
+safenames.org                             #Generic
 safesecureweb.com                         #Generic
 sakura.ne.jp                              #Generic
 salesrep.com                              #Generic
@@ -652,11 +669,13 @@ smartname.com                             #Generic
 spaceweb.pro                              #Generic
 spaceweb.ru                               #Generic
 sparkedhost.us                            #Generic
+sparkjapan.com                            #Generic
 sparkservers.net                          #Generic
 sparkstation.net                          #Generic
 sparky.scooterdesigns.com                 #Generic
 sphere.ad.jp                              #Generic
 sphostserver.com                          #Generic
+sprinthost.net                            #Generic
 sprinthost.ru                             #Generic
 squarespacedns.com                        #Generic
 srv53.com                                 #Generic
@@ -671,6 +690,7 @@ sunucupark.net                            #Generic
 supercp.com                               #Generic
 superdnsserver.net                        #Generic
 superhosting.bg                           #Generic
+supremedns.com                            #Generic
 sureserver.com                            #Generic
 syn-deleted-hosts.com                     #Generic
 systemdns.com                             #Generic
@@ -683,6 +703,7 @@ thecloudwebsiteserver.net                 #Generic
 thecloudwebsiteserver.org                 #Generic
 thednscloud.com                           #Generic
 third-dns.netcup.net                      #Generic
+tildadns.com                              #Generic
 timeweb.org                               #Generic
 timeweb.ru                                #Generic
 tmag.de                                   #Generic
@@ -723,6 +744,7 @@ ultradns.net                              #Generic
 ultradns.org                              #Generic
 unelink.net                               #Generic
 uni5.net                                  #Generic
+uscomputergroup.com                       #Generic
 value-domain.com                          #Generic
 venus.orderbox-dns.com                    #Generic
 vercel-dns.com                            #Generic
@@ -744,6 +766,7 @@ webhotellen.com                           #Generic
 webhotelli.com                            #Generic
 webhotelli.fi                             #Generic
 webhotellit.com                           #Generic
+webparkhost.com                           #Generic
 webpark.hu                                #Generic
 websitewelcome.com                        #Generic
 wedos.com                                 #Generic
@@ -778,6 +801,7 @@ zxcs.eu                                   #Generic
 zxcs.nl                                   #Generic
 
 
+
 ##############################################
 #   Other
 ##############################################
@@ -795,9 +819,12 @@ tinyurl.com                               #ULR Shortener
 above.com                                     #Parked
 abovedomains.com                              #Parked
 afternic.com                                  #Parked
+a.pending-verification.joker.com              #Parked
 bodis.com                                     #Parked
+b.pending-verification.joker.com              #Parked
 buynow.nametime.com                           #Parked
 cashparking.com                               #Parked
+c.pending-verification.joker.com              #Parked
 dan.com                                       #Parked
 dnparking.com                                 #Parked
 dns1-parking.masterweb.com                    #Parked
@@ -837,8 +864,10 @@ dragonparking.com                             #Parked
 exp.4cun.com                                  #Parked
 expiereddnsmanager.com                        #Parked
 expirationwarning.net                         #Parked
+expire1.heberfacile.net                       #Parked
 expire1.mysrsx.com                            #Parked
 expire1.yovole.com                            #Parked
+expire2.heberfacile.net                       #Parked
 expire2.mysrsx.com                            #Parked
 expire2.yovole.com                            #Parked
 expired1.allwebserver.com                     #Parked
@@ -851,8 +880,10 @@ expired1.domainsupport.net                    #Parked
 expired1.dotology.com                         #Parked
 expired1.fe.ru                                #Parked
 expired1.genious.net                          #Parked
+expired1.indyadot.com                         #Parked
 expired1.jagoanhosting.id                     #Parked
 expired1.maff.com                             #Parked
+expired1.netfox.ru                            #Parked
 expired1.netistrar.net                        #Parked
 expired1.privacy.com.ua                       #Parked
 expired1.registrarus.ru                       #Parked
@@ -871,8 +902,10 @@ expired2.domainsupport.net                    #Parked
 expired2.dotology.com                         #Parked
 expired2.fe.ru                                #Parked
 expired2.genious.net                          #Parked
+expired2.indyadot.com                         #Parked
 expired2.jagoanhosting.id                     #Parked
 expired2.maff.com                             #Parked
+expired2.netfox.ru                            #Parked
 expired2.netistrar.net                        #Parked
 expired2.privacy.com.ua                       #Parked
 expired2.registrarus.ru                       #Parked
@@ -919,6 +952,8 @@ expired.sprintnames.ru                        #Parked
 expired.timeweb.ru                            #Parked
 expired.uniregistry-dns.com                   #Parked
 expire.kouming.net                            #Parked
+expirens3.hichina.com                         #Parked
+expirens4.hichina.com                         #Parked
 expirepausedns.com                            #Parked
 expiring.salenames.ru                         #Parked
 expiryparkpage1.vodien.com                    #Parked
@@ -931,13 +966,17 @@ forsale.b125.com                              #Parked
 forsale.hugedomainsdns.com                    #Parked
 forsale.nametime.com                          #Parked
 fundomainparking.com                          #Parked
+hulagirlparking.com                           #Parked
 ibspark.com                                   #Parked
 im.forsale                                    #Parked
+imh-parking.com                               #Parked
+inactive.namesrs.com                          #Parked
 inetparking.com                               #Parked
 inetparking.eu                                #Parked
 inetparking.nl                                #Parked
 irandomainparking.com                         #Parked
 isexpired.net                                 #Parked
+ksdom-expire.kr                               #Parked
 namefind.com                                  #Parked
 name.has.expired.ispapi.net                   #Parked
 ns01.cashparking.com                          #Parked
@@ -945,6 +984,7 @@ ns02.cashparking.com                          #Parked
 ns1.above.com                                 #Parked
 ns1.abovedomains.com                          #Parked
 ns1.dnsparking.com                            #Parked
+ns1-domain-expired.myhostadmin.net            #Parked
 ns1-dominio-suspendido.traxhost.com           #Parked
 ns1-expired.fozzy.com                         #Parked
 ns1-expired.infoxly.in                        #Parked
@@ -957,6 +997,7 @@ ns1-suspended.zxcs.nl                         #Parked
 ns2.above.com                                 #Parked
 ns2.abovedomains.com                          #Parked
 ns2.dnsparking.com                            #Parked
+ns2-domain-expired.myhostadmin.net            #Parked
 ns2-dominio-suspendido.traxhost.com           #Parked
 ns2-expired.fozzy.com                         #Parked
 ns2-expired.infoxly.in                        #Parked
@@ -971,6 +1012,8 @@ ns.ai                                         #Parked
 nspark01.3ds.com                              #Parked
 nspark02.3ds.com                              #Parked
 nspark03.3ds.com                              #Parked
+nssuspended1.webnic.my                        #Parked
+nssuspended2.webnic.my                        #Parked
 park11.secureserver.net                       #Parked
 park12.secureserver.net                       #Parked
 park1.alastyr.com                             #Parked
@@ -980,6 +1023,7 @@ park1.dns.ws                                  #Parked
 park1.domainsregistrationapi.com              #Parked
 park1.encirca.net                             #Parked
 park1.facilweb.net                            #Parked
+park1.gotobg.net                              #Parked
 park1.hostfly.by                              #Parked
 park1.hostholic.com                           #Parked
 park1.linesis.com                             #Parked
@@ -998,6 +1042,7 @@ park2.dns.ws                                  #Parked
 park2.domainsregistrationapi.com              #Parked
 park2.encirca.net                             #Parked
 park2.facilweb.net                            #Parked
+park2.gotobg.net                              #Parked
 park2.hostfly.by                              #Parked
 park2.hostholic.com                           #Parked
 park2.linesis.com                             #Parked
@@ -1012,10 +1057,12 @@ park2.veridyen.com                            #Parked
 park3.dccdns.com                              #Parked
 park3.dns.ws                                  #Parked
 park3.facilweb.net                            #Parked
+park3.gotobg.net                              #Parked
 park3.websolutions.it                         #Parked
 park4.dccdns.com                              #Parked
 park4.dns.ws                                  #Parked
 park4.facilweb.net                            #Parked
+park4.gotobg.net                              #Parked
 park4.websolutions.it                         #Parked
 park6.dracoola.net                            #Parked
 park7.ru                                      #Parked
@@ -1039,12 +1086,14 @@ parking1.netjust.com                          #Parked
 parking1.whc.ca                               #Parked
 parking2.chtdnadmin.tw                        #Parked
 parking2.cishost.ru                           #Parked
+parking2.dns26.net                            #Parked
 parking2.domenebi.ge                          #Parked
 parking2.gen.xyz                              #Parked
 parking2.netjust.com                          #Parked
 parking2.whc.ca                               #Parked
 parking3.netjust.com                          #Parked
 parkingcrew.net                               #Parked
+parking.dns26.net                             #Parked
 parking-ns01.datev.de                         #Parked
 parking-ns02.datev.com                        #Parked
 parking-page.net                              #Parked
@@ -1063,17 +1112,20 @@ parkns4.domainhizmetleri.com                  #Parked
 parkpage.foundationapi.com                    #Parked
 parkpage.in                                   #Parked
 parktons.com                                  #Parked
+pendingdelegation.namesrs.com                 #Parked
 pendingrenewaldeletion.com.lamedelegation.org #Parked
 pendingrenewaldeletion.com                    #Parked
 pending-renewal-domain.com                    #Parked
 pendingrenewdelete.com                        #Parked
 pendingtrd.com                                #Parked
+pending-verification.joker.com                #Parked
 please-renew-domain.domrobot.com              #Parked
 please-renew-your-domain-in.22.cn             #Parked
 please-renew-your-domain-in-www.22.cn         #Parked
 please-renew-your-domain-in-www.gname.com     #Parked
 please-renew-your-domain-in-www.juminghk.com  #Parked
 radinko.com                                   #Parked
+redirectdom.com                               #Parked
 renewnow.register.ca                          #Parked
 renew.register.ca                             #Parked
 renewyourexpireddomain.com                    #Parked
@@ -1095,23 +1147,32 @@ superdominiosparking.org                      #Parked
 suspend-01.rx-name.net                        #Parked
 suspend-02.rx-name.net                        #Parked
 suspend1.depa.id                              #Parked
+suspend1.liqu.id                              #Parked
 suspend2.depa.id                              #Parked
+suspend2.liqu.id                              #Parked
 suspended1.plaindns.net                       #Parked
 suspended1.web4africa.com                     #Parked
 suspended2.plaindns.net                       #Parked
 suspended2.web4africa.com                     #Parked
+suspended-dns1.westhost.com                   #Parked
+suspended-dns2.westhost.com                   #Parked
+suspended-dns3.westhost.com                   #Parked
 suspended-domain.com                          #Parked
 suspended.kreativmedia.ch                     #Parked
 suspended.nic.tr                              #Parked
 suspended-ns14.midphase.com                   #Parked
 suspended-ns15.midphase.com                   #Parked
 suspended-ns16.midphase.com                   #Parked
+suspended.sitbv.com                           #Parked
+suspended.sitbv.eu                            #Parked
+suspended.sitbv.nl                            #Parked
 suspend.hostingraja.org                       #Parked
 suspension1.mydomainprovider.com              #Parked
 suspension2.mydomainprovider.com              #Parked
 the-domain-name-is-for-sale.com               #Parked
 this-domain-for-sale.com                      #Parked
 this-domain-for-sale.com.ua                   #Parked
+this-domain-forsale.turk.network              #Parked
 thisdomainhasexpired.net                      #Parked
 this-domain-is-for-sale.uuns.com              #Parked
 tldparked.com                                 #Parked
@@ -1119,42 +1180,13 @@ ukit-expired.com                              #Parked
 us.parkmy.name                                #Parked
 yourdomainhasexpired.com                      #Parked
 yourdomainisexpired.com                       #Parked
-nssuspended1.webnic.my                        #Parked
-nssuspended2.webnic.my                        #Parked
-pendingdelegation.namesrs.com                 #Parked
-inactive.namesrs.com                          #Parked
-this-domain-forsale.turk.network              #Parked
-suspend1.liqu.id                              #Parked
-suspend2.liqu.id                              #Parked
-expire1.heberfacile.net                       #Parked
-expire2.heberfacile.net                       #Parked
-expired1.indyadot.com                         #Parked
-expired2.indyadot.com                         #Parked
-expired1.netfox.ru                            #Parked
-expired2.netfox.ru                            #Parked
-suspended-dns1.westhost.com                   #Parked
-suspended-dns2.westhost.com                   #Parked
-suspended-dns3.westhost.com                   #Parked
-suspended.sitbv.com                           #Parked
-suspended.sitbv.eu                            #Parked
-suspended.sitbv.nl                            #Parked
-pending-verification.joker.com                #Parked
-a.pending-verification.joker.com              #Parked
-b.pending-verification.joker.com              #Parked
-c.pending-verification.joker.com              #Parked
-hulagirlparking.com                           #Parked
-ksdom-expire.kr                               #Parked
-imh-parking.com                               #Parked
-park1.gotobg.net                              #Parked
-park2.gotobg.net                              #Parked
-park3.gotobg.net                              #Parked
-park4.gotobg.net                              #Parked
 
 
 ##############################################
 #  Company
 ##############################################
 jetbluedns.com                            #Company [Airport] JetBlue Airways
+dealer.com                                #Company [Automotive] Dealer
 barcap.com                                #Company [Bank] Barclays
 bowvalleycollege.ca                       #Company [Education]
 educationinturkey.org                     #Company [Education]

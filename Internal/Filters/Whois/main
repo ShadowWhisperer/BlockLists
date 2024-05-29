@@ -1,6 +1,23 @@
 ############################################################
 # Generic / Person's Name / Hidden / Web Host
 ############################################################
+sas                                                                                     #Generic
+org                                                                                     #Generic
+iti                                                                                     #Generic
+eng                                                                                     #Generic
+kim                                                                                     #Generic
+it support                                                                              #Generic
+home                                                                                    #Generic
+corporate office                                                                        #Generic
+ittrust domain services ltd                                                             #Generic
+steven johnson                                                                          #Generic
+barbero and associates ltd                                                              #Generic
+barbero associates ltd                                                                  #Generic
+barberoreg                                                                              #Generic
+sl                                                                                      #Generic
+service pro                                                                             #Generic
+fabio di matteo                                                                         #Generic
+openhostingreg                                                                          #Generic
 dropcatchcom                                                                            #Generic
 planethoster                                                                            #Generic
 turkey                                                                                  #Generic
@@ -810,47 +827,48 @@ dropcatchcom auctions                                                           
 #####################################################
 # Block These
 #####################################################
-mobclick technology limited                   #Ad_MobClick
-smartyads inc                                 #Ad_SmartyAds
-bytedance pte                                 #ByteDance
-infinite connections inc                      #Dating_Adult
-ods online dating systems ltd                 #Dating_Adult2
-people media inc                              #Dating_PeopleMedia
-caesars license company llc                   #Gambling
-8ball games ltd                               #Gambling
-caesars interactive entertainment llc         #Gambling
-casino club sociedad anonima                  #Gambling
-casino guichard perrachon                     #Gambling
-cogaming ltd                                  #Gambling
-gateway casinos and entertainment limited     #Gambling
-gateway casinos gateway casinos               #Gambling
-goto entertainment                            #Gambling
-grand battery holdings limited                #Gambling
-iowa lottery authority                        #Gambling
-lottery commission                            #Gambling
-mgm resorts international operations inc      #Gambling
-missouri lottery                              #Gambling
-ontario lottery and gaming corporatio         #Gambling
-rational intellectual holdings limited        #Gambling
-realm entertainment limited                   #Gambling
-throne entertainment bv                       #Gambling
-throne entertainment                          #Gambling
-zao pao                                       #Gambling
-google llc                                    #Google
-li yong yi                                    #Scam_Possible
-shopify inc                                   #Shopify
-yahoo ad tech llc                             #Possible-Ad_Yahoo
-nva online advertising bv                     #Possible-Adult
-nva online advertising                        #Possible-Adult
-cambuilder manager                            #Possible-Adult2
-tiktok inc                                    #TikTok
-tiktok ltd                                    #TikTok
-tiktok pte ltd                                #TikTok
-tiktok technology limited                     #TikTok
-lemon inc                                     #TikTok
-leven labs inc                                #Tracker_LevenLabs
-moodys analytics sas                          #Tracker_Moodys
-new relic inc                                 #Tracker_NewRelic
+mobclick technology limited                       #Ad_MobClick
+smartyads inc                                     #Ad_SmartyAds
+bytedance pte                                     #ByteDance
+infinite connections inc                          #Dating_Adult
+ods online dating systems ltd                     #Dating_Adult2
+people media inc                                  #Dating_PeopleMedia
+caesars license company llc                       #Gambling
+8ball games ltd                                   #Gambling
+caesars interactive entertainment llc             #Gambling
+casino club sociedad anonima                      #Gambling
+casino guichard perrachon                         #Gambling
+cogaming ltd                                      #Gambling
+gateway casinos and entertainment limited         #Gambling
+gateway casinos gateway casinos                   #Gambling
+goto entertainment                                #Gambling
+grand battery holdings limited                    #Gambling
+iowa lottery authority                            #Gambling
+lottery commission                                #Gambling
+mgm resorts international operations inc          #Gambling
+missouri lottery                                  #Gambling
+ontario lottery and gaming corporatio             #Gambling
+rational intellectual holdings limited            #Gambling
+realm entertainment limited                       #Gambling
+throne entertainment bv                           #Gambling
+throne entertainment                              #Gambling
+zao pao                                           #Gambling
+google llc                                        #Google
+li yong yi                                        #Scam_Possible
+shopify inc                                       #Shopify
+yahoo ad tech llc                                 #Possible-Ad_Yahoo
+nva online advertising bv                         #Possible-Adult
+nva online advertising                            #Possible-Adult
+cambuilder manager                                #Possible-Adult2
+tiktok inc                                        #TikTok
+tiktok ltd                                        #TikTok
+tiktok pte ltd                                    #TikTok
+tiktok technology limited                         #TikTok
+lemon inc                                         #TikTok
+global internet telemetry measurement collective  #Tracker_GITMC
+leven labs inc                                    #Tracker_LevenLabs
+moodys analytics sas                              #Tracker_Moodys
+new relic inc                                     #Tracker_NewRelic
 
 
 #####################################################
@@ -894,6 +912,11 @@ ao kaspersky lab                                                    #Company [An
 joint stock company kaspersky lab                                   #Company [Antivirus] Kaspersky
 kaspersky lab                                                       #Company [Antivirus] Kaspersky
 kasperskylab                                                        #Company [Antivirus] Kaspersky
+autoscout24 gmbh                                                    #Company [Automotive] Auto Scout
+autoscout24 sanv belgium                                            #Company [Automotive] Auto Scout
+the goodyear tire rubber company                                    #Company [Automotive] Goodyear
+holman automative group inc                                         #Company [Automotive] Holman Automative
+penske automotive group inc                                         #Company [Automotive] Penske Automotive
 american state bank                                                 #Company [Bank] American State Bank
 absa bank limited                                                   #Company [Bank] Absa Group
 australia and new zealand banking group limited                     #Company [Bank] ANZ Bank
@@ -950,16 +973,13 @@ the torontodominion bank                                            #Company [Ba
 branch banking and trust company                                    #Company [Bank] Truist Bank (BB&T)
 truist bank inc                                                     #Company [Bank] Truist Bank
 vtb bank public jointstock company                                  #Company [Bank] VTB Bank
+united overseas bank limited                                        #Company [Bank] United Overseas Bank
 us bank national association                                        #Company [Bank] U.S. Bank
 volksbank eg gera jena rudolstadt                                   #Company [Bank] Volksbank eG
 westpac banking corporation                                         #Company [Bank] Westpac
 wells fargo company                                                 #Company [Bank] Wells Fargo
 world bank                                                          #Company [Bank] World Bank
 worldbank group                                                     #Company [Bank] World Bank
-autoscout24 gmbh                                                    #Company [Car Sales] Auto Scout
-autoscout24 sanv belgium                                            #Company [Car Sales] Auto Scout
-holman automative group inc                                         #Company [Car Sales] Holman Automative
-penske automotive group inc                                         #Company [Car Sales] Penske Automotive
 oranje casino ltd                                                   #Company [Casino] Oranje Casino
 casinoz                                                             #Company [Casino] Casinoz
 basf business services gmbh                                         #Company [Chemicals] BASF
@@ -969,6 +989,7 @@ basf corporation                                                    #Company [Ch
 basf domainadmin                                                    #Company [Chemicals] BASF
 basf polyurethanes gmbh                                             #Company [Chemicals] BASF
 basf se                                                             #Company [Chemicals] BASF
+nissan chemical corporation                                         #Company [Chemicals] Nissan Chemical Corp
 staffordmiller limited                                              #Company [Chemicals] Stafford-Miller
 abercrombie fitch trading co                                        #Company [Clothing] Abercrombie & Fitch Trading Co
 adidas ag                                                           #Company [Clothing] Adidas
@@ -1043,6 +1064,7 @@ labatt brewing company limited                                      #Company [Fo
 mars incorporated                                                   #Company [Food/Drink] Mars
 mcdonalds corporation                                               #Company [Food/Drink] McDonald's
 mcdonalds restaurants of canada limited                             #Company [Food/Drink] McDonald's
+wm morrison supermarkets plc                                        #Company [Food/Drink] Morrisons
 jsc moscow brewing company                                          #Company [Food/Drink] Moscow Brewing
 national cattlemens beef association                                #Company [Food/Drink] National Cattlemen's Beef Association
 nestle canada inc                                                   #Company [Food/Drink] Nestle
@@ -2029,6 +2051,7 @@ rockwell automation domain admin                                    #Company [In
 rockwell automation inc                                             #Company [Industrial] Rockwell Automation
 aetna life insurance company                                        #Company [Insurance] Aetna
 allstate insurance company                                          #Company [Insurance] Allstate
+amica mutual insurance company                                      #Company [Insurance] Amica
 april sa                                                            #Company [Insurance] April
 atlanta life insurance company                                      #Company [Insurance] Atlanta Life Insurance
 blue cross and blue shield association                              #Company [Insurance] Blue Cross/Blue Shield
@@ -2078,6 +2101,7 @@ norton rose fulbright us llp                                        #Company [La
 acco brands corporation                                             #Company [Manufacturing] Acco Brands
 acuity brands inc                                                   #Company [Manufacturing] Acuity Brands Inc
 aob products company                                                #Company [Manufacturing] AOB Products
+arcelormittal                                                       #Company [Manufacturing] ArcelorMittal
 abb asea brown boveri ltd                                           #Company [Manufacturing] Asea Brown Boveri
 abb schweiz ag                                                      #Company [Manufacturing] Asea Brown Boveri
 stanley black decker inc                                            #Company [Manufacturing] Black & Decker
@@ -2090,6 +2114,7 @@ dyson technology limited                                            #Company [Ma
 energizer brands llc                                                #Company [Manufacturing] Energizer
 deere company                                                       #Company [Manufacturing] John Deere
 lennox international inc                                            #Company [Manufacturing] Lennox
+moog inc                                                            #Company [Manufacturing] Moog Inc
 koninklijke philips nv                                              #Company [Manufacturing] Philips
 philips electronics nederland bv                                    #Company [Manufacturing] Philips
 philips intellectual property and standards                         #Company [Manufacturing] Philips
@@ -2185,6 +2210,9 @@ scout24se                                                           #Company [Re
 swire properties ltd                                                #Company [Real Estate] Swire Properties
 toll brothers inc                                                   #Company [Real Estate] Toll Brothers
 vinci immobilier promotion                                          #Company [Real Estate] VINCI Immobilier
+st andrews episcopal church                                         #Company [Religion]
+st andrews church                                                   #Company [Religion]
+st andrews presbyterian church                                      #Company [Religion]
 all saints catholic church                                          #Company [Religion]
 all saints episcopal church                                         #Company [Religion]
 arkansas conference of the united methodist church                  #Company [Religion]
@@ -2448,6 +2476,8 @@ att services inc                                                    #Company [Te
 att web hosting                                                     #Company [Telecommunications] AT&T
 crnogorski telekom                                                  #Company [Telecommunications] Crnogorski Telekom
 ntt communications corporation                                      #Company [Telecommunications] NTT Communications
+sky international ag                                                #Company [Telecommunications] Sky Group
+sky limited                                                         #Company [Telecommunications] Sky Group
 tmobile austria gmbh                                                #Company [Telecommunications] T-Mobile
 tmobile usa inc                                                     #Company [Telecommunications] T-Mobile
 deutsche telekom ag                                                 #Company [Telecommunications] Telekom
@@ -2568,3 +2598,5 @@ metroplus advertising llc                                           #Company [We
 mirus research                                                      #Company [Webdesign] Mirus Research
 nexstar media group                                                 #Company [Webdesign] Nexstar Media Hroup
 vertexplus technologies                                             #Company [Webdesign] Vertexplus Technologies
+
+patriot brands llc                                                  #Company [Other] Patriot Brands
