@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 73,035
-# Updated: 5/31/2024  15:26 (3:26 PM CST)
+# Domains: 73,040
+# Updated: 6/2/2024  02:12 (2:12 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -27379,6 +27379,7 @@ location-services-prd.tesla.com
 location.squarespace.com
 location.syn-api.com
 location.truevaultcdn.com
+location.wynk.in
 locator.atlasvpn.com
 locator.casio.com
 locator.casio.jp
@@ -37859,6 +37860,7 @@ ping.teamviewer.com
 ping.ublock.org
 ping.ui.com
 ping.vc.logitech.com
+ping.wynk.in
 ping.zohospotlight.com
 pinkaanalytics.eu-2.evennode.com
 pink-boat.fool.com
@@ -43382,6 +43384,7 @@ pixel.bienestarjcm.com
 pixel.bilinmedia.net
 pixel.bitacoradeamor.com
 pixel.bitcoinbull.io
+pixelbits.io
 pixel.bizudeconcursos.com
 pixel.bizudodireito.com
 pixel.bizudodireitooab.com
@@ -63041,6 +63044,8 @@ stats.www.adm.novelus.fr
 stats.wwworld.it
 stats.www.pagerduty.com
 stats.wykonawcasiniat.pl
+stats.wynk.in
+stats-wynkmusic-285784487.ap-south-1.elb.amazonaws.com
 stats.wynntech24.co.th
 stats.wyzwanie-iglotex.pl
 stats.x0.ca
