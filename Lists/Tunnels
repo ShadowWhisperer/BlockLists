@@ -1,12 +1,11 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 868
-# Updated: 3/19/2024  17:01 (5:01 PM CST)
+# Domains: 869
+# Updated: 6/3/2024  18:17 (6:17 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 0000a-fast-proxy.de
@@ -843,6 +842,7 @@ wellpoint.com
 wevpn.com
 whiskergalaxy.com
 windscribe.com
+wireguard.com
 wirevpn.app
 wirevpn.cc
 wiseghostapp.com
