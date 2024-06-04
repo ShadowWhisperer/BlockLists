@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 893
-# Updated: 5/22/2024  08:28 (8:28 AM CST)
+# Domains: 885
+# Updated: 6/3/2024  22:37 (10:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -293,30 +293,21 @@ dns-family.adguard.com                                  #Alt DNS - AdGuard
 adguard-dns.com                                         #Alt DNS - AdGuard
 dns.aaflalo.me                                          #Alt DNS - Antoine Aflalo
 dns-gcp.aaflalo.me                                      #Alt DNS - Antoine Aflalo
-doh.dns.apple.com                                       #Alt DNS - Apple (Encrypted)
-doh.dns.apple.com.v.aaplimg.com                         #Alt DNS - Apple (Encrypted)
+dns.apple.com                                           #Alt DNS - Apple (Encrypted)
+dns.apple.com.v.aaplimg.com                             #Alt DNS - Apple (Encrypted)
 mask.apple-dns.net                                      #Alt DNS - Apple
 mask.icloud.com                                         #Alt DNS - Apple
 applied-privacy.net                                     #Alt DNS - Applied-Privacy
 securedns.avast.com                                     #Alt DNS - Avira Antivirus
-doh-ch.blahdns.com                                      #Alt DNS - Blah DNS
-doh-de.blahdns.com                                      #Alt DNS - Blah DNS
-doh-fi.blahdns.com                                      #Alt DNS - Blah DNS
-doh-jp.blahdns.com                                      #Alt DNS - Blah DNS
-doh-sg.blahdns.com                                      #Alt DNS - Blah DNS
-dot-ch.blahdns.com                                      #Alt DNS - Blah DNS
-dot-de.blahdns.com                                      #Alt DNS - Blah DNS
-dot-fi.blahdns.com                                      #Alt DNS - Blah DNS
-dot-jp.blahdns.com                                      #Alt DNS - Blah DNS
-dot-sg.blahdns.com                                      #Alt DNS - Blah DNS
+blahdns.com                                             #Alt DNS - Blah DNS
 cleanbrowsing.org                                       #Alt DNS - Clean Browsing
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
 dns.cloudflare.com                                      #Alt DNS - Cloudflare
 ns.cloudflare.com                                       #Alt DNS - Cloudflare
-dns.sb                                                  #Alt DNS -  DNS SB
-doh.dnswarden.com                                       #Alt DNS - DNS Warden
 comododns.com                                           #Alt DNS - Comodo Cybersecurity
+dnsbycomodo.com                                         #Alt DNS - Comodo Cybersecurity
 dnswarden.com                                           #Alt DNS - DnsWarden
+dns.sb                                                  #Alt DNS - DNS SB
 use-application-dns.net                                 #Alt DNS - FireFox (Doh)
 dns.google                                              #Alt DNS - Google
 dns.google.com                                          #Alt DNS - Google
@@ -337,6 +328,7 @@ doh.crypto.sx                                           #Alt DNS -
 doh.li                                                  #Alt DNS - 
 doh.netweaver.uk                                        #Alt DNS - 
 rdns.faelix.net                                         #Alt DNS - 
+dns.nixnet.xyz                                          #Alt DNS - 
 sslip.io                                                #Alt DNS - sslip
 
 mailshell.net                                           #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
