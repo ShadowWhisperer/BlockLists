@@ -1,6 +1,12 @@
 ############################################################
 # Generic / Person's Name / Hidden / Web Host
 ############################################################
+ligne web services                                                                      #Generic
+link club                                                                               #Generic
+rong jie yan                                                                            #Generic
+hospital                                                                                #Generic
+food                                                                                    #Generic
+sl                                                                                      #Generic
 sas                                                                                     #Generic
 org                                                                                     #Generic
 iti                                                                                     #Generic
@@ -947,6 +953,7 @@ goldman sachs hq                                                    #Company [Ba
 guyerzeller bank ag                                                 #Company [Bank] HSBC Guyerzeller Bank
 icici bank ltd                                                      #Company [Bank] Icici Bank
 ing bank nv                                                         #Company [Bank] ING Bank / ING Group
+banco internacional del peruinterbank                               #Company [Bank] Interbank
 kookmin bank                                                        #Company [Bank] Kookmin Bank / KB Kookmin Bank
 klarna bank ab                                                      #Company [Bank] Klarna
 lloyds bank plc                                                     #Company [Bank] Lloyds Bank
@@ -1004,6 +1011,7 @@ nike innovate cv                                                    #Company [Cl
 oxford industries inc                                               #Company [Clothing] Oxford Industries
 salomon sas                                                         #Company [Clothing] Solomon
 stitch fix                                                          #Company [Clothing] Stitch Fix
+sugartown worldwide inc                                             #Company [Clothing] Sugertown
 wolverine world wide inc                                            #Company [Clothing] Wolverine World Wide Inc
 mercer inc                                                          #Company [Consulting] Mercer
 mercer us inc                                                       #Company [Consulting] Mercer
@@ -1029,6 +1037,7 @@ blue apron llc                                                      #Company [Fo
 bolton alimentari spa                                               #Company [Food/Drink] Bolton Food SPA
 bolton croatia doo                                                  #Company [Food/Drink] Bolton Food SPA
 bolton food spa                                                     #Company [Food/Drink] Bolton Food SPA
+cargill incorporated                                                #Company [Food/Drink] Cargill Inc
 campbell company of canada                                          #Company [Food/Drink] Campbell
 campbell soup company                                               #Company [Food/Drink] Campbell
 csc brands lp                                                       #Company [Food/Drink] Campbell
@@ -1111,6 +1120,7 @@ pearson education canada inc                                                 #Co
 pearson education inc                                                        #Company [Education] Pearson Education
 pearson education limited                                                    #Company [Education] Pearson Education
 pearson technology centre                                                    #Company [Education] Pearson Education
+the mathworks inc                                                            #Company [Education] MathWorks
 mcgrawhill global education holdings llc                                     #Company [Education] McGraw-Hill Global Education Holdings
 national geographic society                                                  #Company [Education] National Geographic Society
 sacramento county office of education                                        #Company [Education] Sacramento County Office of Education
@@ -1789,6 +1799,7 @@ sony pictures digital entertainment                                 #Company [En
 sony pictures entertainment                                         #Company [Entertainment] Sony
 sony pictures entertainment inc                                     #Company [Entertainment] Sony
 sony pictures releasing canada inc                                  #Company [Entertainment] Sony
+soundcloud global limited co kg                                     #Company [Entertainment] SoundCloud
 spotify ab                                                          #Company [Entertainment] Spotify
 travian games gmbh                                                  #Company [Entertainment] Travian Games
 turner broadcasting system inc                                      #Company [Entertainment] Turner Broadcasting
@@ -1831,6 +1842,7 @@ amtrust financial services inc                                      #Company [Fi
 baillie gifford co                                                  #Company [Financial] Baillie Gifford & Co
 baillie gifford co ltd                                              #Company [Financial] Baillie Gifford & Co
 banco sabadell sa                                                   #Company [Financial] Banco Sabadell
+bfs health finance gmbh                                             #Company [Financial] BFS Health Finance
 blackrock advisors singapore pte ltd                                #Company [Financial] BlackRock Inc
 blackrock financial management inc                                  #Company [Financial] BlackRock Inc
 blackrock inc                                                       #Company [Financial] BlackRock Inc
@@ -1904,6 +1916,7 @@ agilent hostmaster                                                  #Company [He
 agilent technologies inc                                            #Company [Health] Agilent
 alnylam pharmaceuticals                                             #Company [Health] Alnylam Pharmaceuticals
 alberta health services                                             #Company [Health] Alberta Health Services
+alticor inc                                                         #Company [Health] Alticor Inc
 amgen canada inc                                                    #Company [Health] Amgen
 amgen inc                                                           #Company [Health] Amgen
 arizona dept health services                                        #Company [Health] Arizona Health Services
@@ -1929,8 +1942,10 @@ c4 therapeutics inc                                                 #Company [He
 cardinal health                                                     #Company [Health] Cardinal Health
 centre for addiction and mental health                              #Company [Health] Centre for Addiction & Mental Health
 chattem inc                                                         #Company [Health] Chattem
+childrens hospital medical center                                   #Company [Health] Childrens Hospital
 cvs pharmacy inc                                                    #Company [Health] CVS
 dentalcorp health services ltd                                      #Company [Health] Dentalcorp
+dentaquest                                                          #Company [Health] Dentaquest
 dignity health                                                      #Company [Health] Dignity Health
 endo pharmaceuticals inc                                            #Company [Health] Endo
 essity hygiene and health ab                                        #Company [Health] Essity
@@ -1975,6 +1990,7 @@ piedmont healthcare inc                                             #Company [He
 purehealth research llc                                             #Company [Health] PureHealth Research
 rb health llc                                                       #Company [Health] RB Health
 f hoffmannla roche ag                                               #Company [Health] Roche
+rochester regional health                                           #Company [Health] Rochester Regional Health
 rottendorf pharma gmbh                                              #Company [Health] Rottendorf Pharma
 san francisco intimacy amp sex therapy center                       #Company [Health] San Francisco *
 san francisco queer couples amp sex therapy center                  #Company [Health] San Francisco *
@@ -2124,12 +2140,16 @@ philips international bv                                            #Company [Ma
 philips it infrastructure pl nt ddiauthority                        #Company [Manufacturing] Philips
 clorox company of canada                                            #Company [Manufacturing] Procter & Gamble
 procter gamble argentina srl                                        #Company [Manufacturing] Procter & Gamble
+procter gamble chile limitada                                       #Company [Manufacturing] Procter & Gamble
+procter gamble colombia ltda                                        #Company [Manufacturing] Procter & Gamble
 procter gamble company                                              #Company [Manufacturing] Procter & Gamble
 procter gamble holding srl                                          #Company [Manufacturing] Procter & Gamble
 procter gamble inc                                                  #Company [Manufacturing] Procter & Gamble
+procter gamble international operations sa                          #Company [Manufacturing] Procter & Gamble
 procter gamble sdn bhd                                              #Company [Manufacturing] Procter & Gamble
 the clorox company                                                  #Company [Manufacturing] Procter & Gamble
 the clorox company of canada ltd                                    #Company [Manufacturing] Procter & Gamble
+the procter and gamble company                                      #Company [Manufacturing] Procter & Gamble
 the procter gamble company                                          #Company [Manufacturing] Procter & Gamble
 rheem manufacturing                                                 #Company [Manufacturing] Rheem
 rheem manufacturing company                                         #Company [Manufacturing] Rheem
@@ -2590,6 +2610,7 @@ yamaha motor corporation usa                                        #Company [Ve
 alm advertising agency                                              #Company [Webdesign] Alm Advertising Agency
 ascend collective inc                                               #Company [Webdesign] Ascend Collective Inc (Church Sites)
 big tomato tech                                                     #Company [Webdesign] Big Tomato Tech
+churchweb support inc                                               #Company [Webdesign] Churchweb Support
 the computer clinic of canada inc                                   #Company [Webdesign] Computer Clinic of Canada
 cyber intelligence inc                                              #Company [Webdesign] Cyber Intelligence Inc
 dreamscape networks international pte ltd                           #Company [Webdesign] Dreamscape Networks

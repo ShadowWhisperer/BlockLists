@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 869
-# Updated: 6/3/2024  18:17 (6:17 PM CST)
+# Domains: 872
+# Updated: 6/4/2024  17:34 (5:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -511,6 +511,9 @@ proxywebsite.co.uk
 proxy-youtube.com
 ptoserver.com
 purevpn.com
+purevpn.com.tw
+purevpn.de
+purevpn.fr
 purevpn-tools.com
 pushvpn.com
 pyproxy.com
