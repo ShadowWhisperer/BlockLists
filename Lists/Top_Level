@@ -1,13 +1,11 @@
 #
 #    File: Top_Level
 #    Info: Top Level Domains: Will block most non-traditional domains
-# Domains: 776
-# Updated: 10/25/2023  09:17 (9:17 AM CST)
-# Creator: ShadowWhisperer (Sean H.)
+# Domains: 778
+# Updated: 6/6/2024  10:41 (10:41 AM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Top_Level
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Top_Level
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 
@@ -568,6 +566,7 @@
 .eh            Unassigned
 .fw            Unassigned
 
+.an            Not Used - Netherlands Antilles (North America)
 .mf            Not Used - Saint Martin (North America)
 
 .aaa           AAA Insurance
@@ -657,6 +656,7 @@
 .bn            Asia - Brunei
 .kh            Asia - Cambodia
 .cn            Asia - China
+.tp            Asia - East Timor (Timor-Leste)
 .hk            Asia - Hong Kong
 .in            Asia - India
 .iq            Asia - Iraq
