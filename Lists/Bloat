@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 885
-# Updated: 6/3/2024  22:37 (10:37 PM CST)
+# Domains: 884
+# Updated: 6/6/2024  08:51 (8:51 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -645,7 +645,6 @@ lens-pa.googleapis.com                                  #Google
 lh2.l.google.com                                        #Google
 marketingplatform.google.com                            #Google
 mdh-pa.googleapis.com                                   #Google
-metadata.google.internal                                #Google
 mobiledataplan-pa.googleapis.com                        #Google
 mobilenetworkscoring-pa.googleapis.com                  #Google
 myphonenumbers-pa.googleapis.com                        #Google

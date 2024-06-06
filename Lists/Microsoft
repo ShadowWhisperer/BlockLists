@@ -1,12 +1,11 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 674
-# Updated: 5/2/2024  12:31 (12:31 PM CST)
+# Domains: 673
+# Updated: 6/6/2024  08:51 (8:51 AM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 fevoke-windowsservices-tas.msedge.net          #App    Candy Crush Saga (Updates)
@@ -479,7 +478,6 @@ cds26.ams9.msecn.net
 centralindia.api.cognitive.microsoft.com
 centralus.api.cognitive.microsoft.com
 cggameszone.cloudapp.net
-channel.status.request.url
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
