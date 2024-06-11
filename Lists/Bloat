@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 884
-# Updated: 6/6/2024  08:51 (8:51 AM CST)
+# Domains: 883
+# Updated: 6/11/2024  12:13 (12:13 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -247,7 +247,6 @@ videodownloaderultimate.com                             #Browser Extension - Vid
 licensebuttons.net                                      #Webpages - Icons
 badges.instagram.com                                    #Webpages - Icons
 ec2-18-216-208-225.us-east-2.compute.amazonaws.com      #Webpages - Icon (licensebuttons.net)
-i.creativecommons.org                                   #Webpages - Icon (licensebuttons.net)
 donorbox.org                                            #Webpages - Icon (Donate Button)
 d1sssn74k2rfxk.cloudfront.net                           #Webpages - Icon (Donate Button)
 s3.feedly.com                                           #Webpages - Icon (Follow Page)
