@@ -1,12 +1,11 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 128
-# Updated: 3/6/2024  17:10 (5:10 PM CST)
+# Domains: 132
+# Updated: 6/12/2024  11:49 (11:49 AM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 01com.com
@@ -95,9 +94,11 @@ pax-manager.myparallels.com
 pkhelp.us
 proxynetworks.com
 psremote.com
+purple.expert
 radmin.com
 realvnc.com
 remmina.org
+remote.bz
 remote-control-desktop.com
 remote-desktop-control.com
 remotedesktop.google.com
@@ -114,6 +115,7 @@ screenconnect.com
 screenleap.com
 showmypc.com
 splashtop.com
+studiopalms.com
 support.com
 support.gbstech.com
 support.me
@@ -129,6 +131,7 @@ terminalserviceplus.com
 tigervnc.org
 tightvnc.com
 todesk.com
+uithelp.com
 ultraviewer.net
 ultravnc.en.softonic.com
 usefirefly.com
