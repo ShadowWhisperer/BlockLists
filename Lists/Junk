@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 282
-# Updated: 5/14/2024  16:50 (4:50 PM CST)
+# Domains: 284
+# Updated: 6/13/2024  14:08 (2:08 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -134,6 +134,8 @@ ibytedtos.com                                  #Company - TikTok
 ibyteimg.com                                   #Company - TikTok
 isnssdk.com                                    #Company - TikTok
 krtiktokacademy.com                            #Company - TikTok
+lemon8-app.com                                 #Company - TikTok
+lemon8cdn.com                                  #Company - TikTok
 letschat.com                                   #Company - TikTok
 muscdn.com                                     #Company - TikTok
 musical.ly                                     #Company - TikTok
