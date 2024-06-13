@@ -462,11 +462,13 @@ t1-2.p-cdn.us                                        #App   Pandora (Breaks Audi
 t1-4.p-cdn.us                                        #App   Pandora (Breaks Audio)  Roku TV Box
 t1-3.p-cdn.us                                        #App   Pandora (Breaks Audio)  Roku TV Box
 t1-5.p-cdn.us                                        #App   Pandora (Breaks Audio)  Roku TV Box
+service-hub-builder-ga.prd.pluto.tv                  #App   Pluto (Breaks app)
 service-media-catalog.clusters.pluto.tv              #App   Pluto (Breaks channel guide)
 service-recommender.clusters.pluto.tv                #App   Pluto (Breaks channel guide)
 service-watchlist.clusters.pluto.tv                  #App   Pluto (Breaks favorite channel button)
 service-concierge.clusters.pluto.tv                  #App   Pluto (Breaks playback *DRM on some channels)
 cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv  #App   Pluto (Breaks playback)
+service-watchlist-ga.prd.pluto.tv                    #App   Pluto (Breaks playback)
 siloh-fs.plutotv.net                                 #App   Pluto (Breaks playback)
 fresnel-events.vimeocdn.com                          #App   The Criterion Channel   Breaks it
 uapi.adrise.tv                                       #App   Tubi
