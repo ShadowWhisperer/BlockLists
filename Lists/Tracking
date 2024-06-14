@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 76,607
-# Updated: 6/13/2024  22:44 (10:44 PM CST)
+# Domains: 76,620
+# Updated: 6/14/2024  09:16 (9:16 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4108,6 +4108,7 @@ analytics.attemic-apps.com
 analytics.attentif.ch
 analytics.attractivemedia.de
 analytics.atypiccraft.com
+analytics-au.cloud.coveo.com
 analytics.auctores.de
 analytics.audioeye.com
 analytics.audio-lab.org
@@ -4740,6 +4741,7 @@ analytics.cab.de
 analytics.cabinetc.be
 analytics.cabinetdemangal.com
 analytics.ca-bretagne.fr
+analytics-ca.cloud.coveo.com
 analytics.cadencehearing.com
 analytics.caf36-partenaires.fr
 analytics.caf37-partenaires.fr
@@ -5591,6 +5593,7 @@ analytics.dev.aktok.com
 analytics.devanbelles.be
 analytics.devattendant.de
 analytics.dev.caleffi.ci.sparkfabrik.cloud
+analyticsdev.cloud.coveo.com
 analytics.devcon.cc
 analytics.devcon.team
 analytics.devcore.se
@@ -5604,6 +5607,7 @@ analytics.develsoft.com.mx
 analytics.develto.nl
 analytics.dev.enovation.io
 analytics.deveshsahai.com
+analyticsdev-eu.cloud.coveo.com
 analytics.devfabriek.nl
 analytics.dev-factory.de
 analytics.dev.go2getherit.com.br
@@ -6144,6 +6148,7 @@ analytics.etic-esn.fr
 analytics.etincelle-coworking.com
 analytics.etk.fi
 analytics.eu-central-1.eu.mdxprod.io
+analytics-eu.cloud.coveo.com
 analytics.eudan.eus
 analytics.eulisa.europa.eu
 analytics.euoffice.catalyst-eu.net
@@ -7087,6 +7092,7 @@ analytics.himpler.com
 analytics.hinnendahl.com
 analytics.hinnerk-weiler.com
 analytics.hinunwech-festival.de
+analyticshipaa.cloud.coveo.com
 analytics.hiper.scot
 analytics.hipershops.com
 analytics.hipnet-20.net
@@ -9533,7 +9539,10 @@ analytics.organice.io
 analytics.organigr.am
 analytics.organizedandenergized.com
 analytics.org.coveo.com
+analytics.orgdev.coveo.com
 analytics.org.es
+analytics.orghipaa.coveo.com
+analytics.orgstg.coveo.com
 analytics.orienteer.co
 analytics.originaquatech.com
 analytics.orionoid.com
@@ -11203,6 +11212,7 @@ analytics.steve.ly
 analytics.stevemadden.com
 analytics.steven-henriot.fr
 analytics.stevewalesch.lu
+analyticsstg.cloud.coveo.com
 analytics.stg.online.xl.pt
 analytics-stg.zhdk.ch
 analytics.stifter-haus.at
@@ -70513,6 +70523,8 @@ us01-analysis.ymcart.com
 usabilitysciences.com
 usage.altrulabs.com
 usageanalytics.coveo.com
+usageanalyticsdev.coveo.com
+usageanalyticshipaa.coveo.com
 usage.atpchronicx.com
 usage.atpspotlight.com
 usage.influxdata.com
@@ -71145,6 +71157,7 @@ watermarkinsights.com
 water.mastermeter.com
 watersmart.com
 wateryvan.com
+waterywave.com
 waterywrist.com
 wat.gogoinflight.com
 watg.xxxlutz.com
