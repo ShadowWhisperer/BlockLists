@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 284
-# Updated: 6/13/2024  14:08 (2:08 PM CST)
+# Domains: 289
+# Updated: 6/17/2024  14:23 (2:23 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -101,6 +101,7 @@ techsmith.com                                  #Screen Recorder
 cdntip.com                                     #Company - Shenzhen Tencent Computer Systems
 cdntips.net                                    #Company - Shenzhen Tencent Computer Systems
 tencent.com                                    #Company - Shenzhen Tencent Computer Systems
+
 account-tiktok.com                             #Company - TikTok
 amemv.com                                      #Company - TikTok
 artistxpress.org                               #Company - TikTok
@@ -119,6 +120,7 @@ byteimg.com                                    #Company - TikTok
 byteoversea.com                                #Company - TikTok
 byteoversea.net                                #Company - TikTok
 bytetcdn.com                                   #Company - TikTok
+capcut.su                                      #Company - TikTok
 discover-tiktok.com                            #Company - TikTok
 douyin.com                                     #Company - TikTok
 download-tiktok-video.com                      #Company - TikTok
@@ -165,10 +167,13 @@ songshot.net                                   #Company - TikTok
 tikitoks.com                                   #Company - TikTok
 tiknok.com                                     #Company - TikTok
 tikotok.com                                    #Company - TikTok
+tiktokacademy.ru                               #Company - TikTok
 tiktokadawardseurope.com                       #Company - TikTok
+tiktokadawardssea.com                          #Company - TikTok
 tik-tokapi.com                                 #Company - TikTok
 tiktok-apis.com                                #Company - TikTok
 tiktok-boe.com                                 #Company - TikTok
+tiktokbusiness.ru                              #Company - TikTok
 tiktokcdn.com                                  #Company - TikTok
 tiktokcdn-in.com                               #Company - TikTok
 tiktokcdn-us.com                               #Company - TikTok
@@ -210,6 +215,7 @@ ttbuzz.com                                     #Company - TikTok
 ttlivecdn.com                                  #Company - TikTok
 ttwstatic.com                                  #Company - TikTok
 v16-tiktokcdn-com.akamaized.net                #Company - TikTok
+visactor.io                                    #Company - TikTok
 vocata.net                                     #Company - TikTok
 xtopbuzz.com                                   #Company - TikTok
 xzcs3zlph.com                                  #Company - TikTok
