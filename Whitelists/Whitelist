@@ -140,6 +140,8 @@ storage.googleapis.com                           #Google   Chrome Store (Downloa
 dl.google.com                                    #Google   Chrome (Download)
 tools.google.com                                 #Google   Chrome (Update)
 apis.google.com                                  #Google   Chrome
+cloudconsole-pa.clients6.google.com              #Google   Cloud - Breaks search bar
+cloud.google.com                                 #Google   Cloud - Breaks 'Terms of Service'
 encrypted-tbn0.gstatic.com                       #Google   Images
 encrypted-tbn1.gstatic.com                       #Google   Images
 encrypted-tbn2.gstatic.com                       #Google   Images
