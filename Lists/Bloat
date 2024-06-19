@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 861
-# Updated: 6/19/2024  12:24 (12:24 PM CST)
+# Domains: 862
+# Updated: 6/19/2024  16:55 (4:55 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -310,6 +310,7 @@ dns.sb                                                  #Alt DNS - DNS SB
 use-application-dns.net                                 #Alt DNS - FireFox (Doh)
 dns.google                                              #Alt DNS - Google
 dns.google.com                                          #Alt DNS - Google
+dns-tunnel-check.googlezip.net                          #Alt DNS - Google
 google-public-dns-a.google.com                          #Alt DNS - Google
 google-public-dns-b.google.com                          #Alt DNS - Google
 ns1.level3.net                                          #Alt DNS - Level 3 Communications
@@ -344,7 +345,7 @@ emupdate.avast.com                                      #Antivirus   Avast
 gf.tools.avast.com                                      #Antivirus   Avast
 gm.tools.avast.com                                      #Antivirus   Avast
 ipmcdn.avast.com                                        #Antivirus   Avast
-ncc.avast.com                                           #Antivirus   Avast
+ncc.avast.com                                           #Antivirus   Avast (Network Connectivity Test)
 p001.sb.avast.com                                       #Antivirus   Avast
 p002.sb.avast.com                                       #Antivirus   Avast
 program.avast.com                                       #Antivirus   Avast
