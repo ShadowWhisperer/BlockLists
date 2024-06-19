@@ -1,8 +1,8 @@
 #
 #    File: Apple
 #    Info: Bloat
-# Domains: 187
-# Updated: 6/19/2024  10:16 (10:16 AM CST)
+# Domains: 169
+# Updated: 6/19/2024  12:24 (12:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -49,6 +49,7 @@ api2.smoot.apple.com                   # Spotlight Suggestions
 ###############################################################################################
 
 
+
 amp-account.apps.apple.com
 amp-api.apps.apple.com
 api-edge.apps.apple.com
@@ -68,10 +69,6 @@ cl3-cdn.origin-apple.com.akadns.net
 cl4.apple.com
 cl5.apple.com
 cma.itunes.apple.com
-comm-cohort.ess.apple.com
-comm-main.ess.apple.com
-commnat-cohort-gc.ess.apple.com
-commnat-main-gc.ess.apple.com
 cp7vi.apple.com
 crl.apple.com
 depot.info.apple.com
@@ -86,8 +83,6 @@ friend.gc.apple.com
 gateway-carry.icloud.com
 gil.apple.com.akadns.net
 gir.apple.com
-gsas.apple.com
-gsas.apple.com.akadns.net
 gsp2.apple.com
 gsp-ssl.ls2-apple.com.akadns.net
 gz8rm.apple.com
@@ -99,11 +94,7 @@ icalserver.apple.com
 iclab.apple.com
 icloud.apple-dns.net
 identity.apple.com
-identity.ess.apple.com
-identity.ess-apple.com.akadns.net
-identity.ess.apple.com.akadns.net
 inappcheck.itunes.apple.com
-init.ess.apple.com
 init.gc.apple.com
 init-p01md.apple.com
 ink.apple.com
@@ -111,7 +102,6 @@ iphone-services.apple.com
 iphone-wu.apple.com
 iprofiles.apple.com
 itunes.apple.com.edgekey.net
-kt-prod.ess.apple.com
 limit.itunesu.com
 link.gc.apple.com
 lookup-api.apple.com
@@ -143,14 +133,11 @@ play.itunes.apple.com.edgesuite.net
 porco.apple.com
 prd-usw2-requestattribution-iad.apple.com
 proddav.apple.com
-profile.ess.apple.com
 pubsbuild.apple.com
-query.ess.apple.com
 rabat.apple.com
 radio.itunes.apple.com
 redcarpet.apple.com
 safety-alert.apple.com
-sandbox.gc.apple.com
 sandbox.itunes.apple.com
 scento.apple.com
 se2.itunes.apple.com
@@ -158,15 +145,11 @@ se-edge.itunes.apple.com
 se.itunes.apple.com
 sequoia.cdn-apple.com
 service.gc.apple.com
-sf-api-token-service.itunes.apple.com
-silverbullet-external-ats.itunes.apple.com
 smp-device-content.apple.com
 speedysub.itunes.apple.com
 sp.itunes.apple.com
-sse-ws-p189.apple.com
 st14p02sa.guzzoni-apple.com.akadns.net
 static.cdn-apple.com
-static.ess.apple.com
 static.ess.cdn-apple.com.akadns.net
 static.gc.apple.com
 static.ips.apple.com

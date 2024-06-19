@@ -223,22 +223,23 @@ compass-ssl.microsoft.com                           #Microsoft   Office 365 (Web
 spoppe-b.azureedge.net                              #Microsoft   Office 365 (Website Tile Images)
 blobs.officehome.msocdn.com                         #Microsoft   Office Site
 graph.microsoft.com                                 #Microsoft   Office Site (Enter product key)
-activation-v2.sls.microsoft.com                     #Microsoft   Office (Active)
-go.microsoft.com                                    #Microsoft   Office (Active)
-officeclient.microsoft.com                          #Microsoft   Office (Active)
-ajax.aspnetcdn.com                                  #Microsoft   Office (Download)
-az725175.vo.msecnd.net                              #Microsoft   Office (Download)
-office.live.com                                     #Microsoft   Office (Download)
-statics-marketingsites-eus-ms-com.akamaized.net     #Microsoft   Office (Download) [2010]
-statics-marketingsites-wcus-ms-com.akamaized.net    #Microsoft   Office (Download) [2010]
-f.c2r.ts.cdn.office.net                             #Microsoft   Office (Download) [2021]
-mrodevicemgr.officeapps.live.com                    #Microsoft   Office (Download) [2021] Error Code: 0-2031 [17002]
-ecs.office.com                                      #Microsoft   Office (Download) [2021] Error Code: 0-2031 [17002]
-metadata.templates.cdn.office.net                   #Microsoft   Office (Download) Templates
-res-h3.public.cdn.office.net                        #Microsoft   Office (portal.microsoft.com)
-blob.officehome.msocdn.com                          #Microsoft   Office (Login)
-logincdn.msftauth.net                               #Microsoft   Office (Login)
-identity.osi.office.net                             #Microsoft   Office (Breaks Email Logins) *Web browser
+activation-v2.sls.microsoft.com                     #Microsoft   Office Activate
+go.microsoft.com                                    #Microsoft   Office Activate
+officeclient.microsoft.com                          #Microsoft   Office Activate
+ajax.aspnetcdn.com                                  #Microsoft   Office Download
+az725175.vo.msecnd.net                              #Microsoft   Office Download
+office.live.com                                     #Microsoft   Office Download
+statics-marketingsites-eus-ms-com.akamaized.net     #Microsoft   Office Download [2010]
+statics-marketingsites-wcus-ms-com.akamaized.net    #Microsoft   Office Download [2010]
+f.c2r.ts.cdn.office.net                             #Microsoft   Office Download [2021]
+mrodevicemgr.officeapps.live.com                    #Microsoft   Office Download [2021] Error Code: 0-2031 [17002]
+ecs.office.com                                      #Microsoft   Office Download [2021] Error Code: 0-2031 [17002]
+metadata.templates.cdn.office.net                   #Microsoft   Office Download Templates
+res-h3.public.cdn.office.net                        #Microsoft   Office portal.microsoft.com)
+blob.officehome.msocdn.com                          #Microsoft   Office Login
+logincdn.msftauth.net                               #Microsoft   Office Login
+identity.osi.office.net                             #Microsoft   Office Login [Web browser]
+b.c2r.ts.cdn.office.net                             #Microsoft   Office Updates (Click-to-Run)
 p.sfx.ms                                            #Microsoft   OneDrive (Breaks file list) *Web browser
 storage.live.com                                    #Microsoft   OneDrive (Download files) *Web browser
 oneclient.sfx.ms                                    #Microsoft   OneDrive (Download Installer)
@@ -609,4 +610,7 @@ mypdns.org                           #My Privacy DNS, web + DNS AUTH
 # telemetry.malwarebytes.com           #Analytics  [Software]  AdwCleaner
 # telemetry.api.2kcoretech.online      #Tracker    [Game]      PGA Tour 2k1
 # googletagmanager.com                 #Tracker    [Images]    prxperformance.com
-# letsconnect.at                       #Ad         [Widget]    Live Chat Widget
+#
+# letsconnect.at                       #Widget      Live Chat Button
+# widget.harnessapp.com                #Widget      Donation Button
+#

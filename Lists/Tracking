@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 76,641
-# Updated: 6/19/2024  10:16 (10:16 AM CST)
+# Domains: 76,677
+# Updated: 6/19/2024  12:24 (12:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1431,6 +1431,7 @@ a8.donnatokimo-wifi.jp
 a8.drinco.jp
 a8.dstation.jp
 a8.dymtech.jp
+a8e1589eab8755f9a.awsglobalaccelerator.com
 a8.earth-shiho.com
 a8.earthwater-cayenne.com
 a8.ecwa.jp
@@ -2363,6 +2364,7 @@ adlocus.com
 adlog.hipcricket.com
 adlooxtracking.com
 adlucent.com
+adl.windows.com
 adlytics.net
 admathhd.com
 adm.centralchristian.edu
@@ -2815,6 +2817,14 @@ aip-cdn.sozcu.com.tr
 a.ipoque.com
 aiproxies.com
 a.ipvanish.com
+aiq-in.caranddriver.com
+aiq-in.countryliving.com
+aiq-in.delish.com
+aiq-in.dell.com
+aiq-in.ext.hp.com
+aiq-in.goodhousekeeping.com
+aiq-in.prevention.com
+aiq-in.quicken.com
 aiq-in.runnersworld.com
 aiq-in.thepioneerwoman.com
 air360.io
@@ -13594,6 +13604,7 @@ audioarctic.com
 audit.303br.net
 auditedmedia.ca
 auditedmedia.com
+auditrecording-pa.googleapis.com
 audrte.com
 au.engage.genesiscare.com
 augure.com
@@ -17413,6 +17424,7 @@ cs.c21-smica.com
 c.schlotzskys.com
 cs.cloudsign.jp
 csc-report-bucket.s3.amazonaws.com
+cs.dds.microsoft.com
 csell.co
 c.se.msn.com
 cse.pasonatquila.com
@@ -19443,6 +19455,7 @@ df-srv.de
 dg5vmaxujtsbb.cloudfront.net
 dg.daic.or.jp
 d.ghostery.com
+dgps.support.microsoft.com
 dg.reasso.jp
 dgt.docguide.com
 dgtrx.com
@@ -19967,6 +19980,7 @@ dsc.cs-park.jp
 ds.digital-science.com
 dsh7ky7308k4b.cloudfront.net
 dsi.gleeble.com
+ds.microsoft.com
 dsms0mj1bbhn4.cloudfront.net
 dsmstats.com
 d.sourcepoint.smoothradio.com
@@ -19975,6 +19989,7 @@ dsp.io
 dsppixel.pinbn.net
 dss0.baidu.com
 dss.platform.californiatimes.com
+ds.ssw.live.com
 dstillery.com
 dsw0trk.com
 dt4ever.com
@@ -20904,9 +20919,13 @@ es.nur7ure.com
 esomniture.com
 esplma.com
 e.sportsmansguide.com
+espresso-pa.clients6.google.com
 esprima.org
 esprssmrtn.com
 esriaustralia.com.au
+ess.apple.com
+ess-apple.com.akadns.net
+ess.apple.com.akadns.net
 essentia-analytics.com
 essential-apps-analytics.herokuapp.com
 es.strategiced.com
@@ -21325,6 +21344,7 @@ explore.vdbapp.com
 explore.walkerdunlop.com
 explore.ware2go.co
 explore.ware2goproject.com
+exp.mp.dse.microsoft.com
 exponea.com
 exposebox.com
 expressanalytics.com
@@ -21785,6 +21805,8 @@ followanalytics.com
 followborder.com
 follow.nuvisan.com
 foo.fivecolorteam.com
+footprintdns.com
+footprints-pa.googleapis.com
 forbes.realclearpolitics.com
 forbesreprints.com
 forbusiness.benenden.co.uk
@@ -23114,6 +23136,8 @@ grumpydime.com
 grumpydrawer.com
 gruvi.tv
 gs1.wac.edgecastcdn.net
+gsas.apple.com
+gsas.apple.com.akadns.net
 gscounters.eu1.gigya.com
 gscounters.us1.gigya.com
 gsght.com
@@ -26071,6 +26095,7 @@ info.mhi-machinetool.com
 info.mia.co.jp
 info.michibiki.co.jp
 info.microscan.com
+info.microsoft.com
 info.mightycube.co.jp
 info.mikeferry.com
 info.milanounica.it
@@ -33811,6 +33836,7 @@ mc.yandex.md
 mc.yandex.ru
 mczbf.com
 m.destinocerto.com.br
+mdh-pa.googleapis.com
 mdotlabs.com
 mdr.esentire.com
 mdsle.com
@@ -36549,6 +36575,7 @@ mobile.enthrall.jp
 mobilegamestats.com
 mobileindustryeye.com
 mobilelog.kugou.com
+mobilenetworkscoring-pa.googleapis.com
 mobiletech.no
 mobiletracker.org
 mobilewalla.com
@@ -36742,6 +36769,7 @@ mrtg.emailpartners.net
 ms-ads-events-us-east-1.presage.io
 ms-ads-monitoring-events-us-east-1.presage.io
 mscinfo.communication.northwestern.edu
+msc.wlxrs.com
 ms.dzen.ru
 msgapp.com
 msg.qy.net
@@ -50339,6 +50367,7 @@ sanalytics.yourbankcard.com
 sanalytics.zuerinet.ch
 s-analyticx.com
 sana.newsinc.com.s3.amazonaws.com
+sandbox.gc.apple.com
 sandboxmkt.ga-navigate.com
 sandbox-prdt.illumina.com
 sandsiv.com
@@ -51276,6 +51305,7 @@ sf.90seconds.com
 sf.acchaku-dm.net
 sf.aki-gmbh.com
 sf.anest-iwata.co.jp
+sf-api-token-service.itunes.apple.com
 sf.aquinahealth.com
 sfa.toyotsu-chemiplas.com
 sf.aviahealth.com
@@ -51512,6 +51542,7 @@ silkysoda.com
 silkysquirrel.com
 sillyscrew.com
 silva-siho.com
+silverbullet-external-ats.itunes.apple.com
 silverfish.camaleon.gt
 silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
@@ -56056,6 +56087,7 @@ sp.zalo.me
 sp.zanesvilletimesrecorder.com
 sp.zehrs.ca
 sqa-web.ory.sh
+sqm.microsoft.com
 sqm.telemetry.microsoft.com.nsatc.net
 sq.sunquestinfo.com
 squalidscrew.com
@@ -56490,6 +56522,7 @@ ssdc.pskbank.at
 ssec.hokaoneone.com
 ssec.koolaburra.com
 ssec.uggaustralia.co.uk
+sse-ws-p189.apple.com
 ssgtm.infineon.com
 s.simcoe.com
 s-sitecatalyst.work.shiseido.co.jp
@@ -56858,6 +56891,7 @@ s.stcatharinesstandard.ca
 sst.swarovski.com
 ssuperstats.observepoint.com
 ssurl.kr
+ssw.live.com
 sswmetrics.aerolineas.com.ar
 sswmetrics.airmalta.com
 sswmetrics.airniugini.com.pg
@@ -68685,6 +68719,7 @@ tr4cker.net
 tr8now.com
 traackr.com
 trace-corps.thecovidmuseum.org
+tracedepot-pa.clients6.google.com
 tracedock.com
 tracemyip.org
 trace.playtem.com
@@ -70303,6 +70338,7 @@ uktgg.dev-tester.com
 uk.thetrainingroom.com
 uk.vysiion.co.uk
 ulogs.umengcloud.com
+ulp1p-pa.googleapis.com
 ulrichstein.piwikcloud.de
 ultimatecounter.com
 ultptrk.com

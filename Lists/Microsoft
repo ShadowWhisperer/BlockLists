@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 667
-# Updated: 6/19/2024  10:16 (10:16 AM CST)
+# Domains: 655
+# Updated: 6/19/2024  12:24 (12:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -269,6 +269,10 @@ xnotify.xboxlive.com                           #Xbox
 yammer.com                                     #Yammer
 
 
+
+acompli.net                                    #Defunct - Outlook Mobile Apps
+
+
 ###############################################################################################
 ############################           BELOW = UNCERTAIN           ############################
 ###############################################################################################
@@ -423,11 +427,10 @@ privacy.xboxlive.com                           #Xbox
 ###############################################################################################
 
 
+
 a-0003.a-msedge.net
 aad.cs.dds.microsoft.com
 access-point.cloudmessaging.edge.microsoft.com
-acompli.net
-adl.windows.com
 admin-mcas-gov.us
 amcdn.msftauth.net
 api.cdp.microsoft.com
@@ -443,7 +446,6 @@ az361816.vo.msecnd.net
 az413505.vo.msecnd.net
 az512334.vo.msecnd.net
 az598575.vo.msecnd.net
-b.c2r.ts.cdn.office.net
 beta.gateway.messenger.live.com
 bingviz.com
 blob.am5prdstr10a.store.core.windows.net
@@ -493,16 +495,12 @@ c-ring.msedge.net
 crl.microsoft.com
 cs1.wpc.v0cdn.net
 c-s.cms.ms.akadns.net
-cs.dds.microsoft.com
 csp.microsoft.com
 dcg.microsoft.com
 dgps-eus2.cloudapp.net
-dgps.support.microsoft.com
 directory.services.live.com
 dispatch.kahuna.glbdns2.microsoft.com
 dmd.metaservices.microsoft.com
-ds.microsoft.com
-ds.ssw.live.com
 eastasia.api.cognitive.microsoft.com
 eastus2.api.cognitive.microsoft.com
 eastus.api.cognitive.microsoft.com
@@ -516,12 +514,10 @@ edgetipscdn.microsoft.com
 edgewelcomecdn.microsoft.com
 e-msedge.net
 europe.cp.wd.microsoft.com
-exp.mp.dse.microsoft.com
 fbs1-t-msedge.net
 fdv2-t-msedge.net
 fe2.update.microsoft.com.akadns.net
 filestore.community.answers.ms.akadns.net
-footprintdns.com
 francecentral.api.cognitive.microsoft.com
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
@@ -539,7 +535,6 @@ ieonline.microsoft.com
 ieonlinews.microsoft.com
 img.stb.s-msn.com
 imvendorportal.com
-info.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
 insiderppe.cloudapp.net
 insideruser.microsoft.com
@@ -590,7 +585,6 @@ microsoft.us
 modpim.com
 msappproxy.net
 mscrl.microsoft.com
-msc.wlxrs.com
 msdl.microsoft.com
 msdnshared.blob.core.windows.net
 msedge.b.tlu.dl.delivery.mp.microsoft.com
@@ -672,8 +666,6 @@ spo-ring.msedge.net
 spynet2.microsoft.com
 spynetalt.microsoft.com
 spyneteurope.microsoft.akadns.net
-sqm.microsoft.com
-ssw.live.com
 static.edge.microsoftapp.net
 statics-marketingsites-neu-ms-com.akamaized.net
 static-spartan-eus-s-msn-com.akamaized.net

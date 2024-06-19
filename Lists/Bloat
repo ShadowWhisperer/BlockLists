@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 872
-# Updated: 6/19/2024  10:16 (10:16 AM CST)
+# Domains: 861
+# Updated: 6/19/2024  12:24 (12:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -548,43 +548,42 @@ apps.facebook.com                                       #Facebook
 b-api.facebook.com                                      #Facebook
 error.facebook.com                                      #Facebook
 graph-fallback.facebook.com                             #Facebook
-embeddedassistant.googleapis.com                        #Google  Assistant ? (Still Works)
 contactsui-pa.googleapis.com                            #Google    Contacts
 chat-pa.clients6.google.com                             #Google  Chat
 peoplestack-pa.googleapis.com                           #Google    People
 photosdata-pa.googleapis.com                            #Google  Photos
-firebaseinappmessaging.googleapis.com                   #Google    FireBase
-firebaseperusertopics-pa.googleapis.com                 #Google    FireBase
-firebaseremoteconfig.googleapis.com                     #Google    FireBase
-firebasestorage.googleapis.com                          #Google    FireBase
-picasa.google.com                                       #Google      Picasa       (Defunct)
-picasaweb.google.com                                    #Google      Picasa       (Defunct)
-plus.google.com                                         #Google      Plus         (Defunct)
-plus.l.google.com                                       #Google      Plus         (Defunct)
-plusone.google.com                                      #Google      Plus         (Defunct)
-forcesafesearch.google.com                              #Google    Safe Search
+firebaseinappmessaging.googleapis.com                   #Google  FireBase
+firebaseperusertopics-pa.googleapis.com                 #Google  FireBase
+firebaseremoteconfig.googleapis.com                     #Google  FireBase
+firebasestorage.googleapis.com                          #Google  FireBase
+hangouts.google.com                                     #Google    Hangouts (Defunct)
+picasa.google.com                                       #Google    Picasa       (Defunct)
+picasaweb.google.com                                    #Google    Picasa       (Defunct)
+plus.google.com                                         #Google    Plus         (Defunct)
+plus.l.google.com                                       #Google    Plus         (Defunct)
+plusone.google.com                                      #Google    Plus         (Defunct)
+forcesafesearch.google.com                              #Google  Safe Search
 sticker-pa.googleapis.com                               #Google  Stickers
-mobile-gtalk.l.google.com                               #Google   Talk
-mtalk4.google.com                                       #Google   Talk
-talk.google.com                                         #Google   Talk
-talkx.l.google.com                                      #Google   Talk
-aa.google.com                                           #Google
+mobile-gtalk.l.google.com                               #Google  Talk
+mtalk4.google.com                                       #Google  Talk
+talk.google.com                                         #Google  Talk
+talkx.l.google.com                                      #Google  Talk
+nosslsearch.google.com                                  #Google  Search without SSL encryption
+toolbar.google.com                                      #Google  Toolbar
+aa.google.com                                           #Google  ? Authorization services
 accountcapabilities-pa.googleapis.com                   #Google
 android.apis.google.com                                 #Google
 androidattestationvalidation-pa.googleapis.com          #Google
 androidresumeonreboot-pa.googleapis.com                 #Google
-app.goo.gl                                              #Google
-appsgrowthpromo-pa.clients6.google.com                  #Google
-assistant.google.com                                    #Google
-auditrecording-pa.googleapis.com                        #Google
-autopush-geller-pa.sandbox.googleapis.com               #Google
+app.goo.gl                                              #Google  ? URL Shortener
+assistant.google.com                                    #Google  ? Google Assistant (Does not appear to break it)
+embeddedassistant.googleapis.com                        #Google  ? Google Assistant (Does not appear to break it)
+autopush-geller-pa.sandbox.googleapis.com               #Google  ? Notifications    (Does not break 2FA)
 blobcomments-pa.clients6.google.com                     #Google
 calendarpushsubscription-pa.googleapis.com              #Google
 cast.google.com                                         #Google
 chat-dl.google.com                                      #Google
-chromecontentsuggestions-pa.googleapis.com              #Google
-chromefeedcontentsuggestions-pa.googleapis.com          #Google
-chromesyncentities-pa.googleapis.com                    #Google
+chromesyncentities-pa.googleapis.com                    #Google  ? Syncs user data/settings
 clients5.google.com                                     #Google
 clientservices.googleapis.com                           #Google
 clients.l.google.com                                    #Google
@@ -604,7 +603,6 @@ device-provisioning.googleapis.com                      #Google
 discover-pa.googleapis.com                              #Google
 dynamicmail-pa.clients6.google.com                      #Google
 enterprise.google.com                                   #Google
-espresso-pa.clients6.google.com                         #Google
 fcmconnection.googleapis.com                            #Google
 fcm-stream.googleapis.com                               #Google
 federatedml-pa.googleapis.com                           #Google
@@ -612,40 +610,34 @@ feelinsonice.l.google.com                               #Google
 feelinsonice-mvm.l.google.com                           #Google
 firehunt.com                                            #Google
 firestore.googleapis.com                                #Google
-footprints-pa.googleapis.com                            #Google
 gem-pa.googleapis.com                                   #Google
-geotimezones.googleapis.com                             #Google
-gnpfesdk-pa.googleapis.com                              #Google
+geotimezones.googleapis.com                             #Google  ? Timezone info
+gnpfesdk-pa.googleapis.com                              #Google  ? Google Nearby
 googleapi.com                                           #Google
 googleapis.l.google.com                                 #Google
 googlecommerce.com                                      #Google
-googlehomefoyer-pa.googleapis.com                       #Google
-googleonebackup-pa.googleapis.com                       #Google
+googlehomefoyer-pa.googleapis.com                       #Google  ? Google Home setup
+googleonebackup-pa.googleapis.com                       #Google  ? Google One Backup
 googlepages.com                                         #Google
 groups.l.google.com                                     #Google
 growth-pa.googleapis.com                                #Google
-gstaticadssl.l.google.com                               #Google
-hangouts.google.com                                     #Google
 infinitedata-pa.googleapis.com                          #Google
-instantmessaging-pa.googleapis.com                      #Google
-instantmessaging-pa-us.googleapis.com                   #Google
-lamssettings-pa.googleapis.com                          #Google
+instantmessaging-pa.googleapis.com                      #Google  ? Instant Messaging
+instantmessaging-pa-us.googleapis.com                   #Google  ? Instant Messaging
+lamssettings-pa.googleapis.com                          #Google  ? Large Array Manipulation Service
 lens-pa.googleapis.com                                  #Google
 lh2.l.google.com                                        #Google
 marketingplatform.google.com                            #Google
-mdh-pa.googleapis.com                                   #Google
 mobiledataplan-pa.googleapis.com                        #Google
-mobilenetworkscoring-pa.googleapis.com                  #Google
 myphonenumbers-pa.googleapis.com                        #Google
-nosslsearch.google.com                                  #Google
-oauthaccountmanager.googleapis.com                      #Google
+oauthaccountmanager.googleapis.com                      #Google  ? Oauth
 ondevicesafety-pa.googleapis.com                        #Google
 optimizationguide-pa.googleapis.com                     #Google
 os-u.storage.googleapis.com                             #Google
 pack.google.com                                         #Google
 pai.googlezip.net                                       #Google
-people-pa.clients6.google.com                           #Google
-phonedeviceverification-pa.googleapis.com               #Google
+people-pa.clients6.google.com                           #Google  ? Contacts
+phonedeviceverification-pa.googleapis.com               #Google  ? (Does not break 2FA)
 popup.withgoogle.com                                    #Google
 proactivebackend-pa.googleapis.com                      #Google
 pubsub.googleapis.com                                   #Google
@@ -661,10 +653,7 @@ signaler-pa.googleapis.com                              #Google
 subscriptionssettings-pa.googleapis.com                 #Google
 suggestqueries.google.com                               #Google
 sustainability.google                                   #Google
-toolbar.google.com                                      #Google
-tracedepot-pa.clients6.google.com                       #Google
 trends.google.com                                       #Google
-ulp1p-pa.googleapis.com                                 #Google
 userpaneltv-pa.googleapis.com                           #Google
 voilatile-pa.googleapis.com                             #Google
 voledevice-pa.googleapis.com                            #Google
