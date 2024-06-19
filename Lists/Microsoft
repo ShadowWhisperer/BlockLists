@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 673
-# Updated: 6/6/2024  08:51 (8:51 AM CST)
+# Domains: 667
+# Updated: 6/19/2024  10:16 (10:16 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -220,8 +220,6 @@ g.ceipmsn.com                                  #SeaPort (Search Enhancement Brok
 
 survey.support.services.microsoft.com          #Survey - Popup Window
 
-iris.microsoft.com                             #Spotlight ?
-
 api.msn.com                                    #Tiles - Win 10 / 11
 appexbingfinance.trafficmanager.net            #Tiles - Win 10 / 11
 appexbingweather.trafficmanager.net            #Tiles - Win 10 / 11
@@ -399,11 +397,6 @@ msnhome.org                                    # ? Defunct
 
 config.edge.skype.com                          # ? Edge
 
-activity.windows.com                           # ? Server Sync (According to Microsoft)
-edge.activity.windows.com                      # ? Server Sync (According to Microsoft)
-enterprise.activity.windows.com                # ? Server Sync (According to Microsoft)
-test.activity.windows.com                      # ? Server Sync (According to Microsoft)
-
 client.prod.repmap.microsoft.com               # Captcha ?
 
 inv.mp.microsoft.com                           #Store layout ?
@@ -525,7 +518,6 @@ e-msedge.net
 europe.cp.wd.microsoft.com
 exp.mp.dse.microsoft.com
 fbs1-t-msedge.net
-fd.api.iris.microsoft.com
 fdv2-t-msedge.net
 fe2.update.microsoft.com.akadns.net
 filestore.community.answers.ms.akadns.net

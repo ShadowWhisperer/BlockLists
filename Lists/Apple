@@ -1,12 +1,11 @@
 #
 #    File: Apple
 #    Info: Bloat
-# Domains: 190
-# Updated: 3/6/2024  17:10 (5:10 PM CST)
+# Domains: 187
+# Updated: 6/19/2024  10:16 (10:16 AM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 attwifi.apple.com                      # Captive Portal - Looks For Wifi Login
@@ -31,10 +30,6 @@ wu-stocks.apple.com                    # App - Stocks
 pancake.apple.com                      # Authorization for Home Sharing
 pancake.cdn-apple.com.akadns.net       # Authorization for Home Sharing
 pancake.g.aaplimg.com                  # Authorization for Home Sharing
-
-proxy.safebrowsing.apple               # Safe Browsing
-safebrowsing.apple                     # Safe Browsing
-token.safebrowsing.apple               # Safe Browsing
 
 api-glb-msp.smoot.apple.com            # Spotlight Suggestions
 api-glb-use2b.smoot.apple.com          # Spotlight Suggestions

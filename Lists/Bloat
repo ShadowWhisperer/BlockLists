@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 883
-# Updated: 6/11/2024  12:13 (12:13 PM CST)
+# Domains: 872
+# Updated: 6/19/2024  10:16 (10:16 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -562,16 +562,6 @@ picasaweb.google.com                                    #Google      Picasa     
 plus.google.com                                         #Google      Plus         (Defunct)
 plus.l.google.com                                       #Google      Plus         (Defunct)
 plusone.google.com                                      #Google      Plus         (Defunct)
-alt1-safebrowsing.google.com                            #Google  Safe Browsing
-alt2-safebrowsing.google.com                            #Google  Safe Browsing
-android-safebrowsing.google.com                         #Google  Safe Browsing
-google-ohttp-relay-safebrowsing.fastly-edge.com         #Google  Safe Browsing
-safebrowsing-cache.google.com                           #Google  Safe Browsing
-safebrowsing.cache.l.google.com                         #Google  Safe Browsing
-safebrowsing.googleapis.com                             #Google  Safe Browsing
-safebrowsing.google.com                                 #Google  Safe Browsing
-safebrowsing.googleusercontent.com                      #Google  Safe Browsing
-safebrowsingohttpgateway.googleapis.com                 #Google  Safe Browsing
 forcesafesearch.google.com                              #Google    Safe Search
 sticker-pa.googleapis.com                               #Google  Stickers
 mobile-gtalk.l.google.com                               #Google   Talk
@@ -662,7 +652,6 @@ pubsub.googleapis.com                                   #Google
 realtimesupport.clients6.google.com                     #Google
 reminders-pa.clients6.google.com                        #Google
 sandbox.l.google.com                                    #Google
-sb-ssl.google.com                                       #Google
 scone-pa.googleapis.com                                 #Google
 script.google.com                                       #Google
 script.googleusercontent.com                            #Google
