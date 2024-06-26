@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 862
-# Updated: 6/19/2024  16:55 (4:55 PM CST)
+# Domains: 861
+# Updated: 6/26/2024  17:46 (5:46 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -626,7 +626,6 @@ infinitedata-pa.googleapis.com                          #Google
 instantmessaging-pa.googleapis.com                      #Google  ? Instant Messaging
 instantmessaging-pa-us.googleapis.com                   #Google  ? Instant Messaging
 lamssettings-pa.googleapis.com                          #Google  ? Large Array Manipulation Service
-lens-pa.googleapis.com                                  #Google
 lh2.l.google.com                                        #Google
 marketingplatform.google.com                            #Google
 mobiledataplan-pa.googleapis.com                        #Google
