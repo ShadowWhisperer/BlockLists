@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 861
-# Updated: 6/26/2024  17:46 (5:46 PM CST)
+# Domains: 863
+# Updated: 6/26/2024  18:02 (6:02 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -519,6 +519,8 @@ cloud.acer.com                                          #Acer  Cloud
 ib.isappcloud.com                                       #Acer  Cloud
 isappcloud.com                                          #Acer  Cloud
 aluws.acer.com                                          #Acer
+appuws.acer.com                                         #Acer
+hola.acer.com                                           #Acer
 ws.gtm.acer.com                                         #Acer
 asussupport.asus.com                                    #ASUS - Preinstalled Bloatware
 dlcdnamax.asus.com                                      #ASUS

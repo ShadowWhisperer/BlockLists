@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 76,709
-# Updated: 6/26/2024  17:11 (5:11 PM CST)
+# Domains: 76,710
+# Updated: 6/26/2024  18:02 (6:02 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16092,6 +16092,7 @@ cm.nordpass.com
 cmnr8trk.com
 c.moes.com
 cmon.loc.gov
+cmp-cdn.ghostery.com
 cmp.cdn.the-sun.com
 cmp.cdn.thesun.co.uk
 cmp.dreamlab.pl
