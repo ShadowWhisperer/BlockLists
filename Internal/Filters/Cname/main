@@ -1,0 +1,49 @@
+aliyuncs.com                                                   #Generic
+azurewebsites.net                                              #Generic
+cloudflare.net                                                 #Generic
+edgekey.net                                                    #Generic
+google.com                                                     #Generic
+googlehosted.com                                               #Generic
+vercel-dns.com                                                 #Generic
+wixdns.net                                                     #Generic
+wpenginepowered.com                                            #Generic
+wpeproxy.com                                                   #Generic
+
+lloydsbanking.com                                              #Ignore
+schoolwires.com                                                #Ignore
+townsquaremedia.com                                            #Ignore
+
+afternic.com                                                   #Parked
+a.sinkhole.yourtrap.com                                        #Parked
+bodis.com                                                      #Parked
+domainexpired-dnspod.cn                                        #Parked
+domainexpired.dnspod.cn                                        #Parked
+expired.hichina.com                                            #Parked
+hugedomains.com                                                #Parked
+rdtk.io                                                        #Parked
+urlforward.namebright.com                                      #Parked
+
+
+#####################################################
+# Block
+#####################################################
+postrelease.com                                                #Ad
+rs-stripe.com                                                  #Ad
+
+wpu.sh                                                         #Malware
+
+2o7.net                                                        #Tracker
+actonsoftware.com                                              #Tracker
+analytics.4success.com.br                                      #Tracker
+collector.xhamster.com                                         #Tracker
+custom-tracking.salesloft.com                                  #Tracker
+dataunlocker.com                                               #Tracker
+dmanalytics1.com                                               #Tracker
+edgetag.io                                                     #Tracker
+getclicky.com                                                  #Tracker
+getrockerbox.com                                               #Tracker
+omtrdc.net                                                     #Tracker
+pixel.hotmart.com                                              #Tracker
+spgo.io                                                        #Tracker
+stat-pulse.com                                                 #Tracker
+stats.uptimerobot.com                                          #Tracker
