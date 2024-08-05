@@ -176,6 +176,7 @@ kh.google.com                                    #Google   Maps (Earth View)
 playstoregatewayadapter-pa.googleapis.com        #Google   Play Store (Breaks app search)
 pki.goog                                         #Google   Public Key
 pki-goog.l.google.com                            #Google   Public Key
+o.pki.goog                                       #Google   Trust Certificates
 translate.googleapis.com                         #Google   Tranlsate
 lens-pa.googleapis.com                           #Google   Tranlsate Image
 youtubei.googleapis.com                          #Google   YouTube (Breaks App)
