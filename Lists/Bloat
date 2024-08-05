@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Fonts, Domains not required for software to function
-# Domains: 874
-# Updated: 8/4/2024  13:00 (1:00 PM CST)
+# Domains: 876
+# Updated: 8/5/2024  09:27 (9:27 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -308,6 +308,7 @@ mask.icloud.com                                         #Alt DNS - Apple
 applied-privacy.net                                     #Alt DNS - Applied-Privacy
 securedns.avast.com                                     #Alt DNS - Avira Antivirus
 blahdns.com                                             #Alt DNS - Blah DNS
+canadianshield.cira.ca                                  #Alt DNS - Cira
 cleanbrowsing.org                                       #Alt DNS - Clean Browsing
 cloudflare-dns.com                                      #Alt DNS - Cloudflare
 dns.cloudflare.com                                      #Alt DNS - Cloudflare
@@ -320,6 +321,7 @@ dns-doh-no-youtube-safe-search.dnsforfamily.com         #Alt DNS - DNS For Famil
 dns-dot.dnsforfamily.com                                #Alt DNS - DNS For Family
 dns-dot-no-safe-search.dnsforfamily.com                 #Alt DNS - DNS For Family
 dns-dot-no-youtube-safe-search.dnsforfamily.com         #Alt DNS - DNS For Family
+dnslify.com                                             #Alt DNS - Dnslify
 dnswarden.com                                           #Alt DNS - DnsWarden
 dns.sb                                                  #Alt DNS - DNS SB
 use-application-dns.net                                 #Alt DNS - FireFox (Doh)
