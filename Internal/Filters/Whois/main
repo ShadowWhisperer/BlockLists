@@ -1,6 +1,12 @@
 ############################################################
 # Generic / Person's Name / Hidden / Web Host
 ############################################################
+abuse                                                                                   #Generic
+other na                                                                                #Generic
+cscdomainsreg                                                                           #Generic
+hostlab llc                                                                             #Generic
+matt                                                                                    #Generic
+system administrator                                                                    #Generic
 health                                                                                  #Generic
 101domain grs ltd                                                                       #Generic
 1101 daerung post tower 1824 guro3dong guro gu seoul                                    #Generic
@@ -987,6 +993,7 @@ holman automative group inc                                         #Company [Au
 penske automotive group inc                                         #Company [Automotive] Penske Automotive
 american state bank                                                 #Company [Bank] American State Bank
 absa bank limited                                                   #Company [Bank] Absa Group
+ally financial inc                                                  #Company [Bank] Ally Financial Inc.
 australia and new zealand banking group limited                     #Company [Bank] ANZ Bank
 bank of america corporation                                         #Company [Bank] Bank of America
 bank of africa                                                      #Company [Bank] Bank of Africa
@@ -1000,12 +1007,14 @@ jpmorgan chase bank national association                            #Company [Ba
 jpmorgan chase co                                                   #Company [Bank] Chase Bank
 citibank berhad                                                     #Company [Bank] Citi Bank
 citibank na                                                         #Company [Bank] Citi Bank
+citizens financial group inc                                        #Company [Bank] Citizens Financial
 commerzbank ag                                                      #Company [Bank] Commerzbank
 deutsche bank ag                                                    #Company [Bank] Deutsche Bank
 dnb bank asa                                                        #Company [Bank] DNB
 firstrand bank limited                                              #Company [Bank] FirstRand Bank
 firstcitizens bank trust company                                    #Company [Bank] First Citizens BancShares
 first national bank of omaha                                        #Company [Bank] First National Bank of Omaha
+frankfurter volksbank eg                                            #Company [Bank] Frankfurter Volksbank
 goldman sachs co                                                    #Company [Bank] Goldman Sachs
 goldman sachs co hq                                                 #Company [Bank] Goldman Sachs
 goldman sachs co llc                                                #Company [Bank] Goldman Sachs
@@ -1026,6 +1035,7 @@ national australia bank limited                                     #Company [Ba
 nedbank limited                                                     #Company [Bank] Nedbank
 otp bank nyrt                                                       #Company [Bank] OTP Group
 pnc bank                                                            #Company [Bank] PNC Bank
+punjab national bank                                                #Company [Bank] Punjab
 sberbank of russia pjsc                                             #Company [Bank] PJSC Sberbank
 cooperatieve rabobank ua                                            #Company [Bank] Rabobank
 regions financial corporation                                       #Company [Bank] Regions Financial Corp
@@ -1035,6 +1045,7 @@ the royal bank of scotland group plc                                #Company [Ba
 the royal bank of scotland plc                                      #Company [Bank] Royal Bank of Scotland
 sainsburys bank                                                     #Company [Bank] Sainsbury's Bank
 sainsburys bank plc                                                 #Company [Bank] Sainsbury's Bank
+saxo bank as                                                        #Company [Bank] Saxo
 softbank corp                                                       #Company [Bank] SoftBank
 pjsc sovcombank                                                     #Company [Bank] Sovcombank
 the standard bank of south africa limited                           #Company [Bank] Standard Bank
@@ -1042,6 +1053,7 @@ state bank of india                                                 #Company [Ba
 suntrust bank                                                       #Company [Bank] Suntrust Bank
 texas capital bank na                                               #Company [Bank] Texas Capital Bank
 the torontodominion bank                                            #Company [Bank] Toronto-Dominion Bank
+jsc toyota bank                                                     #Company [Bank] Toyota
 branch banking and trust company                                    #Company [Bank] Truist Bank (BB&T)
 truist bank inc                                                     #Company [Bank] Truist Bank
 vtb bank public jointstock company                                  #Company [Bank] VTB Bank
@@ -1052,6 +1064,7 @@ westpac banking corporation                                         #Company [Ba
 wells fargo company                                                 #Company [Bank] Wells Fargo
 world bank                                                          #Company [Bank] World Bank
 worldbank group                                                     #Company [Bank] World Bank
+yapi kredi bankasi as                                               #Company [Bank] Yapı Kredi
 oranje casino ltd                                                   #Company [Casino] Oranje Casino
 casinoz                                                             #Company [Casino] Casinoz
 basf business services gmbh                                         #Company [Chemicals] BASF
@@ -1080,6 +1093,7 @@ mercer inc                                                          #Company [Co
 mercer us inc                                                       #Company [Consulting] Mercer
 robert half canada inc                                              #Company [Consulting] Robert Half
 robert half international inc                                       #Company [Consulting] Robert Half
+lg household health care ltd                                        #Company [Consulting] LG Beauty
 wella corporation                                                   #Company [Cosmetics] Wella Corporation
 cruiseline europe sa                                                #Company [Cruise] Cruiseline Europe
 hornblower cruises events                                           #Company [Cruise] Hornblower Cruises
@@ -1115,6 +1129,7 @@ diageo brands bv                                                    #Company [Fo
 diageo north america inc                                            #Company [Food/Drink] Diageo
 diageo plc                                                          #Company [Food/Drink] Diageo
 diageo scotland limited                                             #Company [Food/Drink] Diageo
+dong suh food coltd                                                 #Company [Food/Drink] Dong Suh Foods
 dr pepper snapple group                                             #Company [Food/Drink] Dr. Pepper
 eat online aps                                                      #Company [Food/Drink] Eat
 general mills canada corp                                           #Company [Food/Drink] General Mills
@@ -1130,6 +1145,7 @@ hormel foods corporation                                            #Company [Fo
 jim beam brands co                                                  #Company [Food/Drink] Jim Beam
 jj snack food                                                       #Company [Food/Drink] JJ Snack Food
 just eat holding limited                                            #Company [Food/Drink] Just Eat
+justeat holding limited                                             #Company [Food/Drink] Just Eat
 justeat ireland limited                                             #Company [Food/Drink] Just Eat
 just eat spain                                                      #Company [Food/Drink] Just Eat
 kellogg company                                                     #Company [Food/Drink] Kellogg's
@@ -1172,592 +1188,597 @@ winland foods inc                                                   #Company [Fo
 yum brands inc                                                      #Company [Food/Drink] Yum! Brands
 etsy inc                                                            #Company [E-Commerce] Etsy
 salla                                                               #Company [E-Commerce] Salla
-advtech the independent institute of education pty ltd                       #Company [Education] AdvTech
-archer education inc                                                         #Company [Education] Archer Education
-discovery education inc                                                      #Company [Education] Discovery
-discovery institute                                                          #Company [Education] Discovery
-educational testing service                                                  #Company [Education] ETS
-limited liabilily company research and education center erudite              #Company [Education] Erudite
-foundation for educational services                                          #Company [Education] Foundation For Educational Services
-korea education group                                                        #Company [Education] Korea Education Group
-los altos school district                                                    #Company [Education] Los Altos School
-ncs pearson                                                                  #Company [Education] Pearson Education
-ncs pearson inc                                                              #Company [Education] Pearson Education
-pearson canada inc                                                           #Company [Education] Pearson Education
-pearson education canada inc                                                 #Company [Education] Pearson Education
-pearson education inc                                                        #Company [Education] Pearson Education
-pearson education limited                                                    #Company [Education] Pearson Education
-pearson technology centre                                                    #Company [Education] Pearson Education
-the mathworks inc                                                            #Company [Education] MathWorks
-mcgrawhill global education holdings llc                                     #Company [Education] McGraw-Hill Global Education Holdings
-national geographic society                                                  #Company [Education] National Geographic Society
-sacramento county office of education                                        #Company [Education] Sacramento County Office of Education
-arizona state university                                                     #Company [Education] College
-baylor university                                                            #Company [Education] College
-bemidji state university                                                     #Company [Education] College
-boston university                                                            #Company [Education] College
-cambridge university press                                                   #Company [Education] College
-colorado state university                                                    #Company [Education] College
-columbia university                                                          #Company [Education] College
-cornell university                                                           #Company [Education] College
-duke university                                                              #Company [Education] College
-harvard university                                                           #Company [Education] College
-indiana university                                                           #Company [Education] College
-institute of geology at tallinn university of technology                     #Company [Education] College
-iowa state university                                                        #Company [Education] College
-iowa state university of science and technology                              #Company [Education] College
-johns hopkins university                                                     #Company [Education] College
-kansas state university                                                      #Company [Education] College
-michigan state university                                                    #Company [Education] College
-michigan technological university                                            #Company [Education] College
-mississippi state university                                                 #Company [Education] College
-missouri state university                                                    #Company [Education] College
-montana state university                                                     #Company [Education] College
-montclair state university                                                   #Company [Education] College
-moscow state university of psychology and education                          #Company [Education] College
-newcastle university                                                         #Company [Education] College
-new mexico state university                                                  #Company [Education] College
-new york university                                                          #Company [Education] College
-northwestern university                                                      #Company [Education] College
-open university of kenya                                                     #Company [Education] College
-oregon state university                                                      #Company [Education] College
-penn state university                                                        #Company [Education] College
-queensland university of technology                                          #Company [Education] College
-rutgers university                                                           #Company [Education] College
-sref university of georgia                                                   #Company [Education] College
-stanford university                                                          #Company [Education] College
-stellenbosch university                                                      #Company [Education] College
-stpetersburg state university                                                #Company [Education] College
-the johns hopkins university                                                 #Company [Education] College
-the ohio state university                                                    #Company [Education] College
-the university of auckland                                                   #Company [Education] College
-the university of melbourne                                                  #Company [Education] College
-the university of queensland                                                 #Company [Education] College
-the university of texas at austin                                            #Company [Education] College
-the university of western australia                                          #Company [Education] College
-thomas jefferson university                                                  #Company [Education] College
-trustees of boston university                                                #Company [Education] College
-universiteit stellenbosch                                                    #Company [Education] College
-universiteit stellenbosch innovus                                            #Company [Education] College
-university health network                                                    #Company [Education] College
-university of aberdeen                                                       #Company [Education] College
-university of adelaide                                                       #Company [Education] College
-university of alabama at birmingham hospital                                 #Company [Education] College
-university of alabama                                                        #Company [Education] College
-university of alaska anchorage                                               #Company [Education] College
-university of alaska                                                         #Company [Education] College
-university of alaska fairbanks center for student engagement                 #Company [Education] College
-university of albany                                                         #Company [Education] College
-university of alberta                                                        #Company [Education] College
-university of alberta division of gastroenterology                           #Company [Education] College
-university of alberta libraries                                              #Company [Education] College
-university of alberta library                                                #Company [Education] College
-university of albertas black students association                            #Company [Education] College
-university of alberta students union                                         #Company [Education] College
-university of allahabad                                                      #Company [Education] College
-university of amsterdam                                                      #Company [Education] College
-university of annaba                                                         #Company [Education] College
-university of antwerp                                                        #Company [Education] College
-university of arizona                                                        #Company [Education] College
-university of arizona school of anthropology                                 #Company [Education] College
-university of arizona school of family and consumer sciences                 #Company [Education] College
-university of arkansas for medical sciences                                  #Company [Education] College
-university of asia                                                           #Company [Education] College
-university of auckland                                                       #Company [Education] College
-university of baltimore                                                      #Company [Education] College
-university of bamberg                                                        #Company [Education] College
-university of basel                                                          #Company [Education] College
-university of bath                                                           #Company [Education] College
-university of bc                                                             #Company [Education] College
-university of birmingham                                                     #Company [Education] College
-university of brighton                                                       #Company [Education] College
-university of bristol                                                        #Company [Education] College
-university of bristol it services                                            #Company [Education] College
-university of bristol students union                                         #Company [Education] College
-university of bristol underwater club                                        #Company [Education] College
-university of british columbia                                               #Company [Education] College
-university of british columbia emerging media lab                            #Company [Education] College
-university of british columbia graduate school of journalism                 #Company [Education] College
-university of british columbia okanagan campus                               #Company [Education] College
-university of british columbia st marks college                              #Company [Education] College
-university of buea                                                           #Company [Education] College
-university of calgary                                                        #Company [Education] College
-university of calgary english department                                     #Company [Education] College
-university of calgary properties group ltd                                   #Company [Education] College
-university of calicut                                                        #Company [Education] College
-university of california at berkeley                                         #Company [Education] College
-university of california at los angeles                                      #Company [Education] College
-university of california berkeley                                            #Company [Education] College
-university of california                                                     #Company [Education] College
-university of california davis                                               #Company [Education] College
-university of california irvine                                              #Company [Education] College
-university of california irvine interfraternity council                      #Company [Education] College
-university of california los angeles                                         #Company [Education] College
-university of californialos angeles dept of inf                              #Company [Education] College
-university of california merced                                              #Company [Education] College
-university of california museum of paleontology                              #Company [Education] College
-university of california office of the president                             #Company [Education] College
-university of californiaoffice of the president                              #Company [Education] College
-university of california press                                               #Company [Education] College
-university of california san diego                                           #Company [Education] College
-university of california san francisco                                       #Company [Education] College
-university of california santa barbara                                       #Company [Education] College
-university of cambridge                                                      #Company [Education] College
-university of cambridge dept of asnc                                         #Company [Education] College
-university of cambridge mrc epidemiology unit                                #Company [Education] College
-university of cambridge whittle laboratory                                   #Company [Education] College
-university of canterbury                                                     #Company [Education] College
-university of cape town                                                      #Company [Education] College
-university of central asia                                                   #Company [Education] College
-university of central florida                                                #Company [Education] College
-university of central lancashire                                             #Company [Education] College
-university of chester                                                        #Company [Education] College
-university of chicago                                                        #Company [Education] College
-university of chicago dept of computer science                               #Company [Education] College
-university of chicago hospitals                                              #Company [Education] College
-university of chicago institute of politics                                  #Company [Education] College
-university of chicago urban education institute                              #Company [Education] College
-university of chichester students union                                      #Company [Education] College
-university of chittagong                                                     #Company [Education] College
-university of cincinnati                                                     #Company [Education] College
-university of colorado anschutz medical campus                               #Company [Education] College
-university of colorado at boulder                                            #Company [Education] College
-university of colorado at colorado springs                                   #Company [Education] College
-university of colorado boulder                                               #Company [Education] College
-university of colorado bueno center                                          #Company [Education] College
-university of colorado colorado springs                                      #Company [Education] College
-university of colorado                                                       #Company [Education] College
-university of colorado denver                                                #Company [Education] College
-university of colorado denver digital animation center                       #Company [Education] College
-university of connecticut                                                    #Company [Education] College
-university of connecticut health center                                      #Company [Education] College
-university of connecticut school of law                                      #Company [Education] College
-university of conneticut                                                     #Company [Education] College
-university of copenhagen                                                     #Company [Education] College
-university of cumbria students union                                         #Company [Education] College
-university of dallas                                                         #Company [Education] College
-university of delaware                                                       #Company [Education] College
-university of delhi south campus                                             #Company [Education] College
-university of detroit jesuit high school                                     #Company [Education] College
-university of dhaka                                                          #Company [Education] College
-university of duhok                                                          #Company [Education] College
-university of dundee                                                         #Company [Education] College
-university of dundee museum services                                         #Company [Education] College
-university of dundee share                                                   #Company [Education] College
-university of east anglia                                                    #Company [Education] College
-university of east anlglia                                                   #Company [Education] College
-university of east london                                                    #Company [Education] College
-university of edinburgh                                                      #Company [Education] College
-university of electro communications passage                                 #Company [Education] College
-university of exeter                                                         #Company [Education] College
-university of florida                                                        #Company [Education] College
-university of florida ifas communication service                             #Company [Education] College
-university of floridaunited faculty of florida                               #Company [Education] College
-university of fort hare                                                      #Company [Education] College
-university of geneva                                                         #Company [Education] College
-university of geneva faculty of law                                          #Company [Education] College
-university of genoa                                                          #Company [Education] College
-university of georgia college of agricultural                                #Company [Education] College
-university of georgia college of agricultural environmental sciences         #Company [Education] College
-university of georgia press                                                  #Company [Education] College
-university of glasgow and institute of physics                               #Company [Education] College
-university of glasgow                                                        #Company [Education] College
-university of glasgownhs forth valley                                        #Company [Education] College
-university of global village                                                 #Company [Education] College
-university of greenwich                                                      #Company [Education] College
-university of groningen                                                      #Company [Education] College
-university of guelph                                                         #Company [Education] College
-university of guelph oa partnerships for employment                          #Company [Education] College
-university of guelph ridgetown campus                                        #Company [Education] College
-university of guelph society of computing and information science            #Company [Education] College
-university of gueph                                                          #Company [Education] College
-university of guyana                                                         #Company [Education] College
-university of haifa                                                          #Company [Education] College
-university of hawaii at manoa                                                #Company [Education] College
-university of hawaii at manoa uh ctahr                                       #Company [Education] College
-university of hawaii                                                         #Company [Education] College
-university of hawaii sea grant college program                               #Company [Education] College
-university of helsinki                                                       #Company [Education] College
-university of hertfordshire                                                  #Company [Education] College
-university of houston cisre                                                  #Company [Education] College
-university of houston                                                        #Company [Education] College
-university of houston foundation                                             #Company [Education] College
-university of huddersfield                                                   #Company [Education] College
-university of hull                                                           #Company [Education] College
-university of idaho extension                                                #Company [Education] College
-university of illinois at chicago                                            #Company [Education] College
-university of illinois at springfield                                        #Company [Education] College
-university of illinois at urbana champaign                                   #Company [Education] College
-university of illinois at urbanachampaign                                    #Company [Education] College
-university of illinois chicago                                               #Company [Education] College
-university of illinois                                                       #Company [Education] College
-university of incheon                                                        #Company [Education] College
-university of inchon                                                         #Company [Education] College
-university of indiainapolis                                                  #Company [Education] College
-university of innsbruck                                                      #Company [Education] College
-university of ioannina                                                       #Company [Education] College
-university of iowa                                                           #Company [Education] College
-university of iowa hospitals and clinic                                      #Company [Education] College
-university of iowa hospitals and clinics                                     #Company [Education] College
-university of iowa hospitals clinics                                         #Company [Education] College
-university of jammu                                                          #Company [Education] College
-university of johannesburg                                                   #Company [Education] College
-university of kansas institute for policy amp social research                #Company [Education] College
-university of kent                                                           #Company [Education] College
-university of kentucky chsr                                                  #Company [Education] College
-university of kentucky college of agriculture                                #Company [Education] College
-university of kentucky                                                       #Company [Education] College
-university of kentucky department of a                                       #Company [Education] College
-university of kentucky federal credit union                                  #Company [Education] College
-university of kerala                                                         #Company [Education] College
-university of kings college chapel                                           #Company [Education] College
-university of kings college                                                  #Company [Education] College
-university of kisubi                                                         #Company [Education] College
-university of konstanz                                                       #Company [Education] College
-university of kurdistan hawler                                               #Company [Education] College
-university of kwazulunatal                                                   #Company [Education] College
-university of ladakh                                                         #Company [Education] College
-university of lapland                                                        #Company [Education] College
-university of la verne                                                       #Company [Education] College
-university of lay adventists of kigali                                       #Company [Education] College
-university of leeds                                                          #Company [Education] College
-university of leicester                                                      #Company [Education] College
-university of leicester it services                                          #Company [Education] College
-university of leicester network services                                     #Company [Education] College
-university of leiden                                                         #Company [Education] College
-university of lethbridge                                                     #Company [Education] College
-university of liberal arts bangladesh                                        #Company [Education] College
-university of limpopo                                                        #Company [Education] College
-university of limpopo medunsa campus                                         #Company [Education] College
-university of lincoln                                                        #Company [Education] College
-university of liverpool                                                      #Company [Education] College
-university of livingstonia                                                   #Company [Education] College
-university of ljubljana faculty of social sciences                           #Company [Education] College
-university of london                                                         #Company [Education] College
-university of london institute of historical research                        #Company [Education] College
-university of london school of advanced study                                #Company [Education] College
-university of louisiana lafayette                                            #Company [Education] College
-university of louisville                                                     #Company [Education] College
-university of lusaka                                                         #Company [Education] College
-university of luxembourg                                                     #Company [Education] College
-university of maine                                                          #Company [Education] College
-university of malawi                                                         #Company [Education] College
-university of management tisbi                                               #Company [Education] College
-university of manchester                                                     #Company [Education] College
-university of manchester decmt                                               #Company [Education] College
-university of manchester innovation factory ltd                              #Company [Education] College
-university of manitoba                                                       #Company [Education] College
-university of manitoba faculty association                                   #Company [Education] College
-university of manitoba graduate students association                         #Company [Education] College
-university of manitoba student chapter of sae international                  #Company [Education] College
-university of manitoba students union inc                                    #Company [Education] College
-university of maryland at baltimore count                                    #Company [Education] College
-university of maryland baltimore county                                      #Company [Education] College
-university of maryland center for environmental services                     #Company [Education] College
-university of maryland college park                                          #Company [Education] College
-university of maryland                                                       #Company [Education] College
-university of maryland institute for advanced computer studies               #Company [Education] College
-university of maryland medical system                                        #Company [Education] College
-university of maryland mprc                                                  #Company [Education] College
-university of mary washington                                                #Company [Education] College
-university of massachusetts amherst                                          #Company [Education] College
-university of massachusetts                                                  #Company [Education] College
-university of massachusetts lowell                                           #Company [Education] College
-university of massachusetts medical school                                   #Company [Education] College
-university of mauritius                                                      #Company [Education] College
-university of melbourne                                                      #Company [Education] College
-university of memphis                                                        #Company [Education] College
-university of miami                                                          #Company [Education] College
-university of miami school of medicine                                       #Company [Education] College
-university of miami school of nursing and health studies                     #Company [Education] College
-university of michigan china data center                                     #Company [Education] College
-university of michigan club of greater detroit                               #Company [Education] College
-university of michigan college of pharmacy                                   #Company [Education] College
-university of michigan                                                       #Company [Education] College
-university of michigan health system                                         #Company [Education] College
-university of michigan ics                                                   #Company [Education] College
-university of michigan injury prevention center                              #Company [Education] College
-university of michigan its                                                   #Company [Education] College
-university of michigan library                                               #Company [Education] College
-university of michigan library it                                            #Company [Education] College
-university of michigan medical school department of learning health sciences #Company [Education] College
-university of michigan music school                                          #Company [Education] College
-university of michigan school of art design                                  #Company [Education] College
-university of michigan umhs                                                  #Company [Education] College
-university of minnesota                                                      #Company [Education] College
-university of minnesota health                                               #Company [Education] College
-university of minnesota libraries                                            #Company [Education] College
-university of minnesota mn pop ctr                                           #Company [Education] College
-university of minnesota ovpr                                                 #Company [Education] College
-university of minnesota radio k                                              #Company [Education] College
-university of mississippi                                                    #Company [Education] College
-university of mississippi medical center                                     #Company [Education] College
-university of missouri college of veterinary medicine                        #Company [Education] College
-university of missouri columbia                                              #Company [Education] College
-university of missouri                                                       #Company [Education] College
-university of missouri human environmental sciences outreach                 #Company [Education] College
-university of missouri kansas city school of law                             #Company [Education] College
-university of missouri kansas city school of medicine                        #Company [Education] College
-university of montreal                                                       #Company [Education] College
-university of mpumalanga                                                     #Company [Education] College
-university of mu00fcnster case club ev                                       #Company [Education] College
-university of mumbai                                                         #Company [Education] College
-university of nairobi                                                        #Company [Education] College
-university of nairobi enterprises and services ltd                           #Company [Education] College
-university of namibia                                                        #Company [Education] College
-university of nc                                                             #Company [Education] College
-university of nebraska at omaha                                              #Company [Education] College
-university of nebraska                                                       #Company [Education] College
-university of nebraskalincoln                                                #Company [Education] College
-university of nevada las vegas                                               #Company [Education] College
-university of nevada reno                                                    #Company [Education] College
-university of new brunswick                                                  #Company [Education] College
-university of newcastle inc                                                  #Company [Education] College
-university of newcastle upon tyne                                            #Company [Education] College
-university of new england                                                    #Company [Education] College
-university of new hampshire                                                  #Company [Education] College
-university of new mexico                                                     #Company [Education] College
-university of new mexicoepscor                                               #Company [Education] College
-university of new south wales nsw                                            #Company [Education] College
-university of new york in prague sro                                         #Company [Education] College
-university of nizwa                                                          #Company [Education] College
-university of north carolina at chapel hi                                    #Company [Education] College
-university of north carolina at chapel hill                                  #Company [Education] College
-university of north carolina at greensboro                                   #Company [Education] College
-university of north carolinachapel hill                                      #Company [Education] College
-university of north carolina                                                 #Company [Education] College
-university of north carolina wilmington                                      #Company [Education] College
-university of north dakota                                                   #Company [Education] College
-university of northern british columbia                                      #Company [Education] College
-university of northern colorado                                              #Company [Education] College
-university of northern iowa                                                  #Company [Education] College
-university of north florida carcad                                           #Company [Education] College
-university of northwestern st paul                                           #Company [Education] College
-university of notre dame                                                     #Company [Education] College
-university of nottingham                                                     #Company [Education] College
-university of nottingham men39s hockey club                                  #Company [Education] College
-university of nottingham students union                                      #Company [Education] College
-university of nova gorica                                                    #Company [Education] College
-university of oklahoma                                                       #Company [Education] College
-university of oklahoma hsc                                                   #Company [Education] College
-university of oregon                                                         #Company [Education] College
-university of ottawa                                                         #Company [Education] College
-university of ottawa faculty of law                                          #Company [Education] College
-university of ottawa heart institute                                         #Company [Education] College
-university of ottawa sports services                                         #Company [Education] College
-university of ottawa university of ottawa                                    #Company [Education] College
-university of oulu                                                           #Company [Education] College
-university of oxford                                                         #Company [Education] College
-university of pennsylvania                                                   #Company [Education] College
-university of pennsylvania new bolton center                                 #Company [Education] College
-university of pennsylvania wharton school                                    #Company [Education] College
-university of peradeniya                                                     #Company [Education] College
-university of perpetual help system dalta                                    #Company [Education] College
-university of pitesti                                                        #Company [Education] College
-university of pittsburgh                                                     #Company [Education] College
-university of pittsburgh department of biological sciences                   #Company [Education] College
-university of pittsburgh nirs lab                                            #Company [Education] College
-university of plymouth                                                       #Company [Education] College
-university of portsmouth                                                     #Company [Education] College
-university of pretoria                                                       #Company [Education] College
-university of prince edward island                                           #Company [Education] College
-university of professional studies accra                                     #Company [Education] College
-university of puerto rico mayaguez                                           #Company [Education] College
-university of puerto rico rio piedras campus                                 #Company [Education] College
-university of queensland                                                     #Company [Education] College
-university of reading                                                        #Company [Education] College
-university of regina                                                         #Company [Education] College
-university of religions                                                      #Company [Education] College
-university of rhode island coastal institute                                 #Company [Education] College
-university of rhode island                                                   #Company [Education] College
-university of rhode island metcalf institute                                 #Company [Education] College
-university of richmond                                                       #Company [Education] College
-university of richmond libraries                                             #Company [Education] College
-university of rochester                                                      #Company [Education] College
-university of rochester cpe                                                  #Company [Education] College
-university of rochester medical center                                       #Company [Education] College
-university of roehampton                                                     #Company [Education] College
-university of rwanda                                                         #Company [Education] College
-university of rwanda holdings group ltd                                      #Company [Education] College
-university of ryerson                                                        #Company [Education] College
-university of saba region                                                    #Company [Education] College
-university of salford                                                        #Company [Education] College
-university of salford students union                                         #Company [Education] College
-university of san diego                                                      #Company [Education] College
-university of sankore press                                                  #Company [Education] College
-university of sargodha                                                       #Company [Education] College
-university of saskatchewan                                                   #Company [Education] College
-university of saskatchewan faculty association                               #Company [Education] College
-university of saskatchewan space design team usst                            #Company [Education] College
-university of science and technology beijing                                 #Company [Education] College
-university of seoul community center                                         #Company [Education] College
-university of seoul                                                          #Company [Education] College
-university of seychelles                                                     #Company [Education] College
-university of sheffield                                                      #Company [Education] College
-university of sherbrooke                                                     #Company [Education] College
-university of south africa                                                   #Company [Education] College
-university of south alabama foundation                                       #Company [Education] College
-university of southampton                                                    #Company [Education] College
-university of southampton students union                                     #Company [Education] College
-university of south australia                                                #Company [Education] College
-university of south carolina                                                 #Company [Education] College
-university of south carolina libraries                                       #Company [Education] College
-university of south carolina school of music                                 #Company [Education] College
-university of south dakota                                                   #Company [Education] College
-university of southern california                                            #Company [Education] College
-university of southern denmark                                               #Company [Education] College
-university of south florida                                                  #Company [Education] College
-university of sri jayawardenapura                                            #Company [Education] College
-university of st andrews                                                     #Company [Education] College
-university of st andrews school of physics and astronomy                     #Company [Education] College
-university of stellenbosch                                                   #Company [Education] College
-university of stirling                                                       #Company [Education] College
-university of stmartin                                                       #Company [Education] College
-university of strathclyde                                                    #Company [Education] College
-university of st thomas                                                      #Company [Education] College
-university of sudbury                                                        #Company [Education] College
-university of suffolk students union                                         #Company [Education] College
-university of surrey                                                         #Company [Education] College
-university of sussex                                                         #Company [Education] College
-university of sussex students union                                          #Company [Education] College
-university of sydney                                                         #Company [Education] College
-university of tampa press                                                    #Company [Education] College
-university of technology and management                                      #Company [Education] College
-university of tennessee                                                      #Company [Education] College
-university of tennessee sworps                                               #Company [Education] College
-university of tennessee usgipmgr                                             #Company [Education] College
-university of texas at arlington                                             #Company [Education] College
-university of texas at austin                                                #Company [Education] College
-university of texas                                                          #Company [Education] College
-university of texas libraries                                                #Company [Education] College
-university of texas of the permian basin                                     #Company [Education] College
-university of texas school of law                                            #Company [Education] College
-university of the fraser valley                                              #Company [Education] College
-university of the free state                                                 #Company [Education] College
-university of the humanities                                                 #Company [Education] College
-university of the incarnate word                                             #Company [Education] College
-university of the pacific                                                    #Company [Education] College
-university of the philippines                                                #Company [Education] College
-university of the philippines los banos graduate school                      #Company [Education] College
-university of the philippines manila                                         #Company [Education] College
-university of the philippines school of library and information studies      #Company [Education] College
-university of the philippines visayas                                        #Company [Education] College
-university of the poor                                                       #Company [Education] College
-university of the sacred heart gulu                                          #Company [Education] College
-university of the sunshine coast                                             #Company [Education] College
-university of the western cape                                               #Company [Education] College
-university of the west of england bristol                                    #Company [Education] College
-university of the west of england                                            #Company [Education] College
-university of the west of scotland                                           #Company [Education] College
-university of the witwatersrand                                              #Company [Education] College
-university of the witwatersrand johannesburg                                 #Company [Education] College
-university of tokushima                                                      #Company [Education] College
-university of tokyo                                                          #Company [Education] College
-university of toronto abi research lab                                       #Company [Education] College
-university of toronto autoronto                                              #Company [Education] College
-university of toronto centre for patient safety                              #Company [Education] College
-university of toronto                                                        #Company [Education] College
-university of toronto dept of art history                                    #Company [Education] College
-university of toronto division of nephrology st michaels hospital inc        #Company [Education] College
-university of toronto faculty of applied science and engineering             #Company [Education] College
-university of toronto hart house theatre                                     #Company [Education] College
-university of toronto inc                                                    #Company [Education] College
-university of toronto intramurals                                            #Company [Education] College
-university of toronto japan network                                          #Company [Education] College
-university of toronto libraries                                              #Company [Education] College
-university of toronto oa faculty of physical education and health            #Company [Education] College
-university of toronto opera                                                  #Company [Education] College
-university of toronto plastic surgery                                        #Company [Education] College
-university of toronto research group                                         #Company [Education] College
-university of toronto scarborough                                            #Company [Education] College
-university of toronto schools                                                #Company [Education] College
-university of tourismtechnology and business studies                         #Company [Education] College
-university of trento                                                         #Company [Education] College
-university of tripoli                                                        #Company [Education] College
-university of tripoli union of faculty members                               #Company [Education] College
-university of tsukuba                                                        #Company [Education] College
-university of tubingen                                                       #Company [Education] College
-university of ulsan college of medicine                                      #Company [Education] College
-university of ulsan                                                          #Company [Education] College
-university of ulster                                                         #Company [Education] College
-university of utah                                                           #Company [Education] College
-university of valley forge                                                   #Company [Education] College
-university of venda                                                          #Company [Education] College
-university of vermont ahec program office                                    #Company [Education] College
-university of vermont                                                        #Company [Education] College
-university of vermont ext                                                    #Company [Education] College
-university of vermont larner college of medicine                             #Company [Education] College
-university of verona                                                         #Company [Education] College
-university of victoria                                                       #Company [Education] College
-university of victoria law students society                                  #Company [Education] College
-university of victoria mcpherson library                                     #Company [Education] College
-university of victoria properties investments inc                            #Company [Education] College
-university of victoria schoolshake                                           #Company [Education] College
-university of vienna postgraduate center                                     #Company [Education] College
-university of virginia                                                       #Company [Education] College
-university of virginia darden school of business                             #Company [Education] College
-university of virginia library                                               #Company [Education] College
-university of virginia school of medicine                                    #Company [Education] College
-university of wales swansea                                                  #Company [Education] College
-university of warsaw                                                         #Company [Education] College
-university of warwick                                                        #Company [Education] College
-university of washington bothell                                             #Company [Education] College
-university of washington college of education                                #Company [Education] College
-university of washington                                                     #Company [Education] College
-university of washington human genome project                                #Company [Education] College
-university of washington press                                               #Company [Education] College
-university of washington school of ph                                        #Company [Education] College
-university of washingtonsorce                                                #Company [Education] College
-university of waterloo                                                       #Company [Education] College
-university of waterloo concrete canoe                                        #Company [Education] College
-university of waterloo medtechresolve student design team                    #Company [Education] College
-university of waterloo watcard office                                        #Company [Education] College
-university of western ontario                                                #Company [Education] College
-university of western ontario staff association                              #Company [Education] College
-university of western sydney                                                 #Company [Education] College
-university of west florida                                                   #Company [Education] College
-university of west georgia                                                   #Company [Education] College
-university of west london                                                    #Company [Education] College
-university of westminster                                                    #Company [Education] College
-university of winchester                                                     #Company [Education] College
-university of windsor                                                        #Company [Education] College
-university of windsor students alliance                                      #Company [Education] College
-university of winnipeg                                                       #Company [Education] College
-university of wisconsin eau claire                                           #Company [Education] College
-university of wisconsin foundation                                           #Company [Education] College
-university of wisconsin green bay                                            #Company [Education] College
-university of wisconsin hospitals and clinics authority                      #Company [Education] College
-university of wisconsinmadison                                               #Company [Education] College
-university of wisconsin madison tops lab                                     #Company [Education] College
-university of wisconsinmilwaukee                                             #Company [Education] College
-university of wisconsin oshkosh                                              #Company [Education] College
-university of wisconsinriver falls                                           #Company [Education] College
-university of witwatersrand                                                  #Company [Education] College
-university of wolverhampton students union                                   #Company [Education] College
-university of world civilizations                                            #Company [Education] College
-university of wyoming ces                                                    #Company [Education] College
-university of wyoming                                                        #Company [Education] College
-university of york                                                           #Company [Education] College
-university of york students union                                            #Company [Education] College
-university of zambia                                                         #Company [Education] College
-university of zululand                                                       #Company [Education] College
-university of zurich geography department                                    #Company [Education] College
-university toronto                                                           #Company [Education] College
-utah state university                                                        #Company [Education] College
-wageningen university research centre                                        #Company [Education] College
-washington state university                                                  #Company [Education] College
-washington university                                                        #Company [Education] College
-wayne state university                                                       #Company [Education] College
-weill medical college of cornell university                                  #Company [Education] College
-western illinois university cait                                             #Company [Education] College
-winona state university                                                      #Company [Education] College
-yale university                                                              #Company [Education] College
-york university                                                              #Company [Education] College
-des moines education association                                             #Company [Education]
-pioneers education                                                           #Company [Education]
-colorado state library                                                       #Company [Education] Library
-the new york public library                                                  #Company [Education] Library
-wikimedia foundation inc                                                     #Company [Education] Wikimedia Foundation
+advtech the independent institute of education pty ltd                                                    #Company [Education] AdvTech
+archer education inc                                                                                      #Company [Education] Archer Education
+discovery education inc                                                                                   #Company [Education] Discovery
+discovery institute                                                                                       #Company [Education] Discovery
+educational testing service                                                                               #Company [Education] ETS
+limited liabilily company research and education center erudite                                           #Company [Education] Erudite
+foundation for educational services                                                                       #Company [Education] Foundation For Educational Services
+korea education group                                                                                     #Company [Education] Korea Education Group
+los altos school district                                                                                 #Company [Education] Los Altos School
+ncs pearson                                                                                               #Company [Education] Pearson Education
+ncs pearson inc                                                                                           #Company [Education] Pearson Education
+pearson canada inc                                                                                        #Company [Education] Pearson Education
+pearson education canada inc                                                                              #Company [Education] Pearson Education
+pearson education inc                                                                                     #Company [Education] Pearson Education
+pearson education limited                                                                                 #Company [Education] Pearson Education
+pearson technology centre                                                                                 #Company [Education] Pearson Education
+the mathworks inc                                                                                         #Company [Education] MathWorks
+mcgrawhill global education holdings llc                                                                  #Company [Education] McGraw-Hill Global Education Holdings
+national geographic society                                                                               #Company [Education] National Geographic Society
+sacramento county office of education                                                                     #Company [Education] Sacramento County Office of Education
+arizona state university                                                                                  #Company [Education] College
+baylor university                                                                                         #Company [Education] College
+bemidji state university                                                                                  #Company [Education] College
+boston university                                                                                         #Company [Education] College
+cambridge university press                                                                                #Company [Education] College
+colorado state university                                                                                 #Company [Education] College
+columbia university                                                                                       #Company [Education] College
+cornell university                                                                                        #Company [Education] College
+duke university                                                                                           #Company [Education] College
+harvard university                                                                                        #Company [Education] College
+indiana university                                                                                        #Company [Education] College
+institute of geology at tallinn university of technology                                                  #Company [Education] College
+iowa state university                                                                                     #Company [Education] College
+iowa state university of science and technology                                                           #Company [Education] College
+johns hopkins university                                                                                  #Company [Education] College
+kansas state university                                                                                   #Company [Education] College
+michigan state university                                                                                 #Company [Education] College
+michigan technological university                                                                         #Company [Education] College
+mississippi state university                                                                              #Company [Education] College
+missouri state university                                                                                 #Company [Education] College
+montana state university                                                                                  #Company [Education] College
+montclair state university                                                                                #Company [Education] College
+moscow state university of psychology and education                                                       #Company [Education] College
+newcastle university                                                                                      #Company [Education] College
+new mexico state university                                                                               #Company [Education] College
+new york university                                                                                       #Company [Education] College
+northwestern university                                                                                   #Company [Education] College
+open university of kenya                                                                                  #Company [Education] College
+oregon state university                                                                                   #Company [Education] College
+penn state university                                                                                     #Company [Education] College
+queensland university of technology                                                                       #Company [Education] College
+rutgers university                                                                                        #Company [Education] College
+sref university of georgia                                                                                #Company [Education] College
+stanford university                                                                                       #Company [Education] College
+stellenbosch university                                                                                   #Company [Education] College
+stpetersburg state university                                                                             #Company [Education] College
+the johns hopkins university                                                                              #Company [Education] College
+the ohio state university                                                                                 #Company [Education] College
+the university of auckland                                                                                #Company [Education] College
+the university of melbourne                                                                               #Company [Education] College
+the university of queensland                                                                              #Company [Education] College
+the university of texas at austin                                                                         #Company [Education] College
+the university of western australia                                                                       #Company [Education] College
+thomas jefferson university                                                                               #Company [Education] College
+trustees of boston university                                                                             #Company [Education] College
+universiteit stellenbosch                                                                                 #Company [Education] College
+universiteit stellenbosch innovus                                                                         #Company [Education] College
+university health network                                                                                 #Company [Education] College
+university of aberdeen                                                                                    #Company [Education] College
+university of adelaide                                                                                    #Company [Education] College
+university of alabama at birmingham hospital                                                              #Company [Education] College
+university of alabama                                                                                     #Company [Education] College
+university of alaska anchorage                                                                            #Company [Education] College
+university of alaska                                                                                      #Company [Education] College
+university of alaska fairbanks center for student engagement                                              #Company [Education] College
+university of albany                                                                                      #Company [Education] College
+university of alberta                                                                                     #Company [Education] College
+university of alberta division of gastroenterology                                                        #Company [Education] College
+university of alberta libraries                                                                           #Company [Education] College
+university of alberta library                                                                             #Company [Education] College
+university of albertas black students association                                                         #Company [Education] College
+university of alberta students union                                                                      #Company [Education] College
+university of allahabad                                                                                   #Company [Education] College
+university of amsterdam                                                                                   #Company [Education] College
+university of annaba                                                                                      #Company [Education] College
+university of antwerp                                                                                     #Company [Education] College
+university of arizona                                                                                     #Company [Education] College
+university of arizona school of anthropology                                                              #Company [Education] College
+university of arizona school of family and consumer sciences                                              #Company [Education] College
+university of arkansas for medical sciences                                                               #Company [Education] College
+university of asia                                                                                        #Company [Education] College
+university of auckland                                                                                    #Company [Education] College
+university of baltimore                                                                                   #Company [Education] College
+university of bamberg                                                                                     #Company [Education] College
+university of basel                                                                                       #Company [Education] College
+university of bath                                                                                        #Company [Education] College
+university of bc                                                                                          #Company [Education] College
+university of birmingham                                                                                  #Company [Education] College
+university of brighton                                                                                    #Company [Education] College
+university of bristol                                                                                     #Company [Education] College
+university of bristol it services                                                                         #Company [Education] College
+university of bristol students union                                                                      #Company [Education] College
+university of bristol underwater club                                                                     #Company [Education] College
+university of british columbia                                                                            #Company [Education] College
+university of british columbia emerging media lab                                                         #Company [Education] College
+university of british columbia graduate school of journalism                                              #Company [Education] College
+university of british columbia okanagan campus                                                            #Company [Education] College
+university of british columbia st marks college                                                           #Company [Education] College
+university of buea                                                                                        #Company [Education] College
+university of calgary                                                                                     #Company [Education] College
+university of calgary english department                                                                  #Company [Education] College
+university of calgary properties group ltd                                                                #Company [Education] College
+university of calicut                                                                                     #Company [Education] College
+university of california at berkeley                                                                      #Company [Education] College
+university of california at los angeles                                                                   #Company [Education] College
+university of california berkeley                                                                         #Company [Education] College
+university of california                                                                                  #Company [Education] College
+university of california davis                                                                            #Company [Education] College
+university of california irvine                                                                           #Company [Education] College
+university of california irvine interfraternity council                                                   #Company [Education] College
+university of california los angeles                                                                      #Company [Education] College
+university of californialos angeles dept of inf                                                           #Company [Education] College
+university of california merced                                                                           #Company [Education] College
+university of california museum of paleontology                                                           #Company [Education] College
+university of california office of the president                                                          #Company [Education] College
+university of californiaoffice of the president                                                           #Company [Education] College
+university of california press                                                                            #Company [Education] College
+university of california san diego                                                                        #Company [Education] College
+university of california san francisco                                                                    #Company [Education] College
+university of california santa barbara                                                                    #Company [Education] College
+university of cambridge                                                                                   #Company [Education] College
+university of cambridge dept of asnc                                                                      #Company [Education] College
+university of cambridge mrc epidemiology unit                                                             #Company [Education] College
+university of cambridge whittle laboratory                                                                #Company [Education] College
+university of canterbury                                                                                  #Company [Education] College
+university of cape town                                                                                   #Company [Education] College
+university of central asia                                                                                #Company [Education] College
+university of central florida                                                                             #Company [Education] College
+university of central lancashire                                                                          #Company [Education] College
+university of chester                                                                                     #Company [Education] College
+university of chicago                                                                                     #Company [Education] College
+university of chicago dept of computer science                                                            #Company [Education] College
+university of chicago hospitals                                                                           #Company [Education] College
+university of chicago institute of politics                                                               #Company [Education] College
+university of chicago urban education institute                                                           #Company [Education] College
+university of chichester students union                                                                   #Company [Education] College
+university of chittagong                                                                                  #Company [Education] College
+university of cincinnati                                                                                  #Company [Education] College
+university of colorado anschutz medical campus                                                            #Company [Education] College
+university of colorado at boulder                                                                         #Company [Education] College
+university of colorado at colorado springs                                                                #Company [Education] College
+university of colorado boulder                                                                            #Company [Education] College
+university of colorado bueno center                                                                       #Company [Education] College
+university of colorado colorado springs                                                                   #Company [Education] College
+university of colorado                                                                                    #Company [Education] College
+university of colorado denver                                                                             #Company [Education] College
+university of colorado denver digital animation center                                                    #Company [Education] College
+university of connecticut                                                                                 #Company [Education] College
+university of connecticut health center                                                                   #Company [Education] College
+university of connecticut school of law                                                                   #Company [Education] College
+university of conneticut                                                                                  #Company [Education] College
+university of copenhagen                                                                                  #Company [Education] College
+university of cumbria students union                                                                      #Company [Education] College
+university of dallas                                                                                      #Company [Education] College
+university of delaware                                                                                    #Company [Education] College
+university of delhi south campus                                                                          #Company [Education] College
+university of detroit jesuit high school                                                                  #Company [Education] College
+university of dhaka                                                                                       #Company [Education] College
+university of duhok                                                                                       #Company [Education] College
+university of dundee                                                                                      #Company [Education] College
+university of dundee museum services                                                                      #Company [Education] College
+university of dundee share                                                                                #Company [Education] College
+university of east anglia                                                                                 #Company [Education] College
+university of east anlglia                                                                                #Company [Education] College
+university of east london                                                                                 #Company [Education] College
+university of edinburgh                                                                                   #Company [Education] College
+university of electro communications passage                                                              #Company [Education] College
+university of exeter                                                                                      #Company [Education] College
+university of florida                                                                                     #Company [Education] College
+university of florida ifas communication service                                                          #Company [Education] College
+university of floridaunited faculty of florida                                                            #Company [Education] College
+university of fort hare                                                                                   #Company [Education] College
+university of geneva                                                                                      #Company [Education] College
+university of geneva faculty of law                                                                       #Company [Education] College
+university of genoa                                                                                       #Company [Education] College
+university of georgia college of agricultural                                                             #Company [Education] College
+university of georgia college of agricultural environmental sciences                                      #Company [Education] College
+university of georgia press                                                                               #Company [Education] College
+university of glasgow and institute of physics                                                            #Company [Education] College
+university of glasgow                                                                                     #Company [Education] College
+university of glasgownhs forth valley                                                                     #Company [Education] College
+university of global village                                                                              #Company [Education] College
+university of greenwich                                                                                   #Company [Education] College
+university of groningen                                                                                   #Company [Education] College
+university of guelph                                                                                      #Company [Education] College
+university of guelph oa partnerships for employment                                                       #Company [Education] College
+university of guelph ridgetown campus                                                                     #Company [Education] College
+university of guelph society of computing and information science                                         #Company [Education] College
+university of gueph                                                                                       #Company [Education] College
+university of guyana                                                                                      #Company [Education] College
+university of haifa                                                                                       #Company [Education] College
+university of hawaii at manoa                                                                             #Company [Education] College
+university of hawaii at manoa uh ctahr                                                                    #Company [Education] College
+university of hawaii                                                                                      #Company [Education] College
+university of hawaii sea grant college program                                                            #Company [Education] College
+university of helsinki                                                                                    #Company [Education] College
+university of hertfordshire                                                                               #Company [Education] College
+university of houston cisre                                                                               #Company [Education] College
+university of houston                                                                                     #Company [Education] College
+university of houston foundation                                                                          #Company [Education] College
+university of huddersfield                                                                                #Company [Education] College
+university of hull                                                                                        #Company [Education] College
+university of idaho extension                                                                             #Company [Education] College
+university of illinois at chicago                                                                         #Company [Education] College
+university of illinois at springfield                                                                     #Company [Education] College
+university of illinois at urbana champaign                                                                #Company [Education] College
+university of illinois at urbanachampaign                                                                 #Company [Education] College
+university of illinois chicago                                                                            #Company [Education] College
+university of illinois                                                                                    #Company [Education] College
+university of incheon                                                                                     #Company [Education] College
+university of inchon                                                                                      #Company [Education] College
+university of indiainapolis                                                                               #Company [Education] College
+university of innsbruck                                                                                   #Company [Education] College
+university of ioannina                                                                                    #Company [Education] College
+university of iowa                                                                                        #Company [Education] College
+university of iowa hospitals and clinic                                                                   #Company [Education] College
+university of iowa hospitals and clinics                                                                  #Company [Education] College
+university of iowa hospitals clinics                                                                      #Company [Education] College
+university of jammu                                                                                       #Company [Education] College
+university of johannesburg                                                                                #Company [Education] College
+university of kansas institute for policy amp social research                                             #Company [Education] College
+university of kent                                                                                        #Company [Education] College
+university of kentucky chsr                                                                               #Company [Education] College
+university of kentucky college of agriculture                                                             #Company [Education] College
+university of kentucky                                                                                    #Company [Education] College
+university of kentucky department of a                                                                    #Company [Education] College
+university of kentucky federal credit union                                                               #Company [Education] College
+university of kerala                                                                                      #Company [Education] College
+university of kings college chapel                                                                        #Company [Education] College
+university of kings college                                                                               #Company [Education] College
+university of kisubi                                                                                      #Company [Education] College
+university of konstanz                                                                                    #Company [Education] College
+university of kurdistan hawler                                                                            #Company [Education] College
+university of kwazulunatal                                                                                #Company [Education] College
+university of ladakh                                                                                      #Company [Education] College
+university of lapland                                                                                     #Company [Education] College
+university of la verne                                                                                    #Company [Education] College
+university of lay adventists of kigali                                                                    #Company [Education] College
+university of leeds                                                                                       #Company [Education] College
+university of leicester                                                                                   #Company [Education] College
+university of leicester it services                                                                       #Company [Education] College
+university of leicester network services                                                                  #Company [Education] College
+university of leiden                                                                                      #Company [Education] College
+university of lethbridge                                                                                  #Company [Education] College
+university of liberal arts bangladesh                                                                     #Company [Education] College
+university of limpopo                                                                                     #Company [Education] College
+university of limpopo medunsa campus                                                                      #Company [Education] College
+university of lincoln                                                                                     #Company [Education] College
+university of liverpool                                                                                   #Company [Education] College
+university of livingstonia                                                                                #Company [Education] College
+university of ljubljana faculty of social sciences                                                        #Company [Education] College
+university of london                                                                                      #Company [Education] College
+university of london institute of historical research                                                     #Company [Education] College
+university of london school of advanced study                                                             #Company [Education] College
+university of louisiana lafayette                                                                         #Company [Education] College
+university of louisville                                                                                  #Company [Education] College
+university of lusaka                                                                                      #Company [Education] College
+university of luxembourg                                                                                  #Company [Education] College
+university of maine                                                                                       #Company [Education] College
+university of malawi                                                                                      #Company [Education] College
+university of management tisbi                                                                            #Company [Education] College
+university of manchester                                                                                  #Company [Education] College
+university of manchester decmt                                                                            #Company [Education] College
+university of manchester innovation factory ltd                                                           #Company [Education] College
+university of manitoba                                                                                    #Company [Education] College
+university of manitoba faculty association                                                                #Company [Education] College
+university of manitoba graduate students association                                                      #Company [Education] College
+university of manitoba student chapter of sae international                                               #Company [Education] College
+university of manitoba students union inc                                                                 #Company [Education] College
+university of maryland at baltimore count                                                                 #Company [Education] College
+university of maryland baltimore county                                                                   #Company [Education] College
+university of maryland center for environmental services                                                  #Company [Education] College
+university of maryland college park                                                                       #Company [Education] College
+university of maryland                                                                                    #Company [Education] College
+university of maryland institute for advanced computer studies                                            #Company [Education] College
+university of maryland medical system                                                                     #Company [Education] College
+university of maryland mprc                                                                               #Company [Education] College
+university of mary washington                                                                             #Company [Education] College
+university of massachusetts amherst                                                                       #Company [Education] College
+university of massachusetts                                                                               #Company [Education] College
+university of massachusetts lowell                                                                        #Company [Education] College
+university of massachusetts medical school                                                                #Company [Education] College
+university of mauritius                                                                                   #Company [Education] College
+university of melbourne                                                                                   #Company [Education] College
+university of memphis                                                                                     #Company [Education] College
+university of miami                                                                                       #Company [Education] College
+university of miami school of medicine                                                                    #Company [Education] College
+university of miami school of nursing and health studies                                                  #Company [Education] College
+university of michigan china data center                                                                  #Company [Education] College
+university of michigan club of greater detroit                                                            #Company [Education] College
+university of michigan college of pharmacy                                                                #Company [Education] College
+university of michigan                                                                                    #Company [Education] College
+university of michigan health system                                                                      #Company [Education] College
+university of michigan ics                                                                                #Company [Education] College
+university of michigan injury prevention center                                                           #Company [Education] College
+university of michigan its                                                                                #Company [Education] College
+university of michigan library                                                                            #Company [Education] College
+university of michigan library it                                                                         #Company [Education] College
+university of michigan medical school department of learning health sciences                              #Company [Education] College
+university of michigan music school                                                                       #Company [Education] College
+university of michigan school of art design                                                               #Company [Education] College
+university of michigan umhs                                                                               #Company [Education] College
+university of minnesota                                                                                   #Company [Education] College
+university of minnesota health                                                                            #Company [Education] College
+university of minnesota libraries                                                                         #Company [Education] College
+university of minnesota mn pop ctr                                                                        #Company [Education] College
+university of minnesota ovpr                                                                              #Company [Education] College
+university of minnesota radio k                                                                           #Company [Education] College
+university of mississippi                                                                                 #Company [Education] College
+university of mississippi medical center                                                                  #Company [Education] College
+university of missouri college of veterinary medicine                                                     #Company [Education] College
+university of missouri columbia                                                                           #Company [Education] College
+university of missouri                                                                                    #Company [Education] College
+university of missouri human environmental sciences outreach                                              #Company [Education] College
+university of missouri kansas city school of law                                                          #Company [Education] College
+university of missouri kansas city school of medicine                                                     #Company [Education] College
+university of montreal                                                                                    #Company [Education] College
+university of mpumalanga                                                                                  #Company [Education] College
+university of mu00fcnster case club ev                                                                    #Company [Education] College
+university of mumbai                                                                                      #Company [Education] College
+university of nairobi                                                                                     #Company [Education] College
+university of nairobi enterprises and services ltd                                                        #Company [Education] College
+university of namibia                                                                                     #Company [Education] College
+university of nc                                                                                          #Company [Education] College
+university of nebraska at omaha                                                                           #Company [Education] College
+university of nebraska                                                                                    #Company [Education] College
+university of nebraskalincoln                                                                             #Company [Education] College
+university of nevada las vegas                                                                            #Company [Education] College
+university of nevada reno                                                                                 #Company [Education] College
+university of new brunswick                                                                               #Company [Education] College
+university of newcastle inc                                                                               #Company [Education] College
+university of newcastle upon tyne                                                                         #Company [Education] College
+university of new england                                                                                 #Company [Education] College
+university of new hampshire                                                                               #Company [Education] College
+university of new mexico                                                                                  #Company [Education] College
+university of new mexicoepscor                                                                            #Company [Education] College
+university of new south wales nsw                                                                         #Company [Education] College
+university of new york in prague sro                                                                      #Company [Education] College
+university of nizwa                                                                                       #Company [Education] College
+university of north carolina at chapel hi                                                                 #Company [Education] College
+university of north carolina at chapel hill                                                               #Company [Education] College
+university of north carolina at greensboro                                                                #Company [Education] College
+university of north carolinachapel hill                                                                   #Company [Education] College
+university of north carolina                                                                              #Company [Education] College
+university of north carolina wilmington                                                                   #Company [Education] College
+university of north dakota                                                                                #Company [Education] College
+university of northern british columbia                                                                   #Company [Education] College
+university of northern colorado                                                                           #Company [Education] College
+university of northern iowa                                                                               #Company [Education] College
+university of north florida carcad                                                                        #Company [Education] College
+university of northwestern st paul                                                                        #Company [Education] College
+university of notre dame                                                                                  #Company [Education] College
+university of nottingham                                                                                  #Company [Education] College
+university of nottingham men39s hockey club                                                               #Company [Education] College
+university of nottingham students union                                                                   #Company [Education] College
+university of nova gorica                                                                                 #Company [Education] College
+university of oklahoma                                                                                    #Company [Education] College
+university of oklahoma hsc                                                                                #Company [Education] College
+university of oregon                                                                                      #Company [Education] College
+university of ottawa                                                                                      #Company [Education] College
+university of ottawa faculty of law                                                                       #Company [Education] College
+university of ottawa heart institute                                                                      #Company [Education] College
+university of ottawa sports services                                                                      #Company [Education] College
+university of ottawa university of ottawa                                                                 #Company [Education] College
+university of oulu                                                                                        #Company [Education] College
+university of oxford                                                                                      #Company [Education] College
+university of pennsylvania                                                                                #Company [Education] College
+university of pennsylvania new bolton center                                                              #Company [Education] College
+university of pennsylvania wharton school                                                                 #Company [Education] College
+university of peradeniya                                                                                  #Company [Education] College
+university of perpetual help system dalta                                                                 #Company [Education] College
+university of pitesti                                                                                     #Company [Education] College
+university of pittsburgh                                                                                  #Company [Education] College
+university of pittsburgh department of biological sciences                                                #Company [Education] College
+university of pittsburgh nirs lab                                                                         #Company [Education] College
+university of plymouth                                                                                    #Company [Education] College
+university of portsmouth                                                                                  #Company [Education] College
+university of pretoria                                                                                    #Company [Education] College
+university of prince edward island                                                                        #Company [Education] College
+university of professional studies accra                                                                  #Company [Education] College
+university of puerto rico mayaguez                                                                        #Company [Education] College
+university of puerto rico rio piedras campus                                                              #Company [Education] College
+university of queensland                                                                                  #Company [Education] College
+university of reading                                                                                     #Company [Education] College
+university of regina                                                                                      #Company [Education] College
+university of religions                                                                                   #Company [Education] College
+university of rhode island coastal institute                                                              #Company [Education] College
+university of rhode island                                                                                #Company [Education] College
+university of rhode island metcalf institute                                                              #Company [Education] College
+university of richmond                                                                                    #Company [Education] College
+university of richmond libraries                                                                          #Company [Education] College
+university of rochester                                                                                   #Company [Education] College
+university of rochester cpe                                                                               #Company [Education] College
+university of rochester medical center                                                                    #Company [Education] College
+university of roehampton                                                                                  #Company [Education] College
+university of rwanda                                                                                      #Company [Education] College
+university of rwanda holdings group ltd                                                                   #Company [Education] College
+university of ryerson                                                                                     #Company [Education] College
+university of saba region                                                                                 #Company [Education] College
+university of salford                                                                                     #Company [Education] College
+university of salford students union                                                                      #Company [Education] College
+university of san diego                                                                                   #Company [Education] College
+university of sankore press                                                                               #Company [Education] College
+university of sargodha                                                                                    #Company [Education] College
+university of saskatchewan                                                                                #Company [Education] College
+university of saskatchewan faculty association                                                            #Company [Education] College
+university of saskatchewan space design team usst                                                         #Company [Education] College
+university of science and technology beijing                                                              #Company [Education] College
+university of seoul community center                                                                      #Company [Education] College
+university of seoul                                                                                       #Company [Education] College
+university of seychelles                                                                                  #Company [Education] College
+university of sheffield                                                                                   #Company [Education] College
+university of sherbrooke                                                                                  #Company [Education] College
+university of south africa                                                                                #Company [Education] College
+university of south alabama foundation                                                                    #Company [Education] College
+university of southampton                                                                                 #Company [Education] College
+university of southampton students union                                                                  #Company [Education] College
+university of south australia                                                                             #Company [Education] College
+university of south carolina                                                                              #Company [Education] College
+university of south carolina libraries                                                                    #Company [Education] College
+university of south carolina school of music                                                              #Company [Education] College
+university of south dakota                                                                                #Company [Education] College
+university of southern california                                                                         #Company [Education] College
+university of southern denmark                                                                            #Company [Education] College
+university of south florida                                                                               #Company [Education] College
+university of sri jayawardenapura                                                                         #Company [Education] College
+university of st andrews                                                                                  #Company [Education] College
+university of st andrews school of physics and astronomy                                                  #Company [Education] College
+university of stellenbosch                                                                                #Company [Education] College
+university of stirling                                                                                    #Company [Education] College
+university of stmartin                                                                                    #Company [Education] College
+university of strathclyde                                                                                 #Company [Education] College
+university of st thomas                                                                                   #Company [Education] College
+university of sudbury                                                                                     #Company [Education] College
+university of suffolk students union                                                                      #Company [Education] College
+university of surrey                                                                                      #Company [Education] College
+university of sussex                                                                                      #Company [Education] College
+university of sussex students union                                                                       #Company [Education] College
+university of sydney                                                                                      #Company [Education] College
+university of tampa press                                                                                 #Company [Education] College
+university of technology and management                                                                   #Company [Education] College
+university of tennessee                                                                                   #Company [Education] College
+university of tennessee sworps                                                                            #Company [Education] College
+university of tennessee usgipmgr                                                                          #Company [Education] College
+university of texas at arlington                                                                          #Company [Education] College
+university of texas at austin                                                                             #Company [Education] College
+university of texas                                                                                       #Company [Education] College
+university of texas libraries                                                                             #Company [Education] College
+university of texas of the permian basin                                                                  #Company [Education] College
+university of texas school of law                                                                         #Company [Education] College
+university of the fraser valley                                                                           #Company [Education] College
+university of the free state                                                                              #Company [Education] College
+university of the humanities                                                                              #Company [Education] College
+university of the incarnate word                                                                          #Company [Education] College
+university of the pacific                                                                                 #Company [Education] College
+university of the philippines                                                                             #Company [Education] College
+university of the philippines los banos graduate school                                                   #Company [Education] College
+university of the philippines manila                                                                      #Company [Education] College
+university of the philippines school of library and information studies                                   #Company [Education] College
+university of the philippines visayas                                                                     #Company [Education] College
+university of the poor                                                                                    #Company [Education] College
+university of the sacred heart gulu                                                                       #Company [Education] College
+university of the sunshine coast                                                                          #Company [Education] College
+university of the western cape                                                                            #Company [Education] College
+university of the west of england bristol                                                                 #Company [Education] College
+university of the west of england                                                                         #Company [Education] College
+university of the west of scotland                                                                        #Company [Education] College
+university of the witwatersrand                                                                           #Company [Education] College
+university of the witwatersrand johannesburg                                                              #Company [Education] College
+university of tokushima                                                                                   #Company [Education] College
+university of tokyo                                                                                       #Company [Education] College
+university of toronto abi research lab                                                                    #Company [Education] College
+university of toronto autoronto                                                                           #Company [Education] College
+university of toronto centre for patient safety                                                           #Company [Education] College
+university of toronto                                                                                     #Company [Education] College
+university of toronto dept of art history                                                                 #Company [Education] College
+university of toronto division of nephrology st michaels hospital inc                                     #Company [Education] College
+university of toronto faculty of applied science and engineering                                          #Company [Education] College
+university of toronto hart house theatre                                                                  #Company [Education] College
+university of toronto inc                                                                                 #Company [Education] College
+university of toronto intramurals                                                                         #Company [Education] College
+university of toronto japan network                                                                       #Company [Education] College
+university of toronto libraries                                                                           #Company [Education] College
+university of toronto oa faculty of physical education and health                                         #Company [Education] College
+university of toronto opera                                                                               #Company [Education] College
+university of toronto plastic surgery                                                                     #Company [Education] College
+university of toronto research group                                                                      #Company [Education] College
+university of toronto scarborough                                                                         #Company [Education] College
+university of toronto schools                                                                             #Company [Education] College
+university of tourismtechnology and business studies                                                      #Company [Education] College
+university of trento                                                                                      #Company [Education] College
+university of tripoli                                                                                     #Company [Education] College
+university of tripoli union of faculty members                                                            #Company [Education] College
+university of tsukuba                                                                                     #Company [Education] College
+university of tubingen                                                                                    #Company [Education] College
+university of ulsan college of medicine                                                                   #Company [Education] College
+university of ulsan                                                                                       #Company [Education] College
+university of ulster                                                                                      #Company [Education] College
+university of utah                                                                                        #Company [Education] College
+university of valley forge                                                                                #Company [Education] College
+university of venda                                                                                       #Company [Education] College
+university of vermont ahec program office                                                                 #Company [Education] College
+university of vermont                                                                                     #Company [Education] College
+university of vermont ext                                                                                 #Company [Education] College
+university of vermont larner college of medicine                                                          #Company [Education] College
+university of verona                                                                                      #Company [Education] College
+university of victoria                                                                                    #Company [Education] College
+university of victoria law students society                                                               #Company [Education] College
+university of victoria mcpherson library                                                                  #Company [Education] College
+university of victoria properties investments inc                                                         #Company [Education] College
+university of victoria schoolshake                                                                        #Company [Education] College
+university of vienna postgraduate center                                                                  #Company [Education] College
+university of virginia                                                                                    #Company [Education] College
+university of virginia darden school of business                                                          #Company [Education] College
+university of virginia library                                                                            #Company [Education] College
+university of virginia school of medicine                                                                 #Company [Education] College
+university of wales swansea                                                                               #Company [Education] College
+university of warsaw                                                                                      #Company [Education] College
+university of warwick                                                                                     #Company [Education] College
+university of washington bothell                                                                          #Company [Education] College
+university of washington college of education                                                             #Company [Education] College
+university of washington                                                                                  #Company [Education] College
+university of washington human genome project                                                             #Company [Education] College
+university of washington press                                                                            #Company [Education] College
+university of washington school of ph                                                                     #Company [Education] College
+university of washingtonsorce                                                                             #Company [Education] College
+university of waterloo                                                                                    #Company [Education] College
+university of waterloo concrete canoe                                                                     #Company [Education] College
+university of waterloo medtechresolve student design team                                                 #Company [Education] College
+university of waterloo watcard office                                                                     #Company [Education] College
+university of western ontario                                                                             #Company [Education] College
+university of western ontario staff association                                                           #Company [Education] College
+university of western sydney                                                                              #Company [Education] College
+university of west florida                                                                                #Company [Education] College
+university of west georgia                                                                                #Company [Education] College
+university of west london                                                                                 #Company [Education] College
+university of westminster                                                                                 #Company [Education] College
+university of winchester                                                                                  #Company [Education] College
+university of windsor                                                                                     #Company [Education] College
+university of windsor students alliance                                                                   #Company [Education] College
+university of winnipeg                                                                                    #Company [Education] College
+university of wisconsin eau claire                                                                        #Company [Education] College
+university of wisconsin foundation                                                                        #Company [Education] College
+university of wisconsin green bay                                                                         #Company [Education] College
+university of wisconsin hospitals and clinics authority                                                   #Company [Education] College
+university of wisconsinmadison                                                                            #Company [Education] College
+university of wisconsin madison tops lab                                                                  #Company [Education] College
+university of wisconsinmilwaukee                                                                          #Company [Education] College
+university of wisconsin oshkosh                                                                           #Company [Education] College
+university of wisconsinriver falls                                                                        #Company [Education] College
+university of witwatersrand                                                                               #Company [Education] College
+university of wolverhampton students union                                                                #Company [Education] College
+university of world civilizations                                                                         #Company [Education] College
+university of wyoming ces                                                                                 #Company [Education] College
+university of wyoming                                                                                     #Company [Education] College
+university of york                                                                                        #Company [Education] College
+university of york students union                                                                         #Company [Education] College
+university of zambia                                                                                      #Company [Education] College
+university of zululand                                                                                    #Company [Education] College
+university of zurich geography department                                                                 #Company [Education] College
+university toronto                                                                                        #Company [Education] College
+utah state university                                                                                     #Company [Education] College
+wageningen university research centre                                                                     #Company [Education] College
+washington state university                                                                               #Company [Education] College
+washington university                                                                                     #Company [Education] College
+wayne state university                                                                                    #Company [Education] College
+weill medical college of cornell university                                                               #Company [Education] College
+western illinois university cait                                                                          #Company [Education] College
+winona state university                                                                                   #Company [Education] College
+yale university                                                                                           #Company [Education] College
+york university                                                                                           #Company [Education] College
+federal state budgetary educational institution of higher education togliatti state university            #Company [Education] College
+federal state budgetary educational institution of higher education volga state university of technology  #Company [Education] College
+corporation of the council of ministers of education canada                                               #Company [Education]
+des moines education association                                                                          #Company [Education]
+foundation for environmental education fee                                                                #Company [Education]
+pioneers education                                                                                        #Company [Education]
+responsive education solutions                                                                            #Company [Education]
+colorado state library                                                                                    #Company [Education] Library
+the new york public library                                                                               #Company [Education] Library
+wikimedia foundation inc                                                                                  #Company [Education] Wikimedia Foundation
 vattenfall ab                                                       #Company [Electrical] Vattenfall AB
 bosch rexroth ag                                                    #Company [Engineering, Tech] Bosch
 bosch san ve tic a s                                                #Company [Engineering, Tech] Bosch
@@ -1911,6 +1932,7 @@ nforma uk limited                                                   #Company [Ev
 adp                                                                 #Company [Financial] ADP
 adp inc                                                             #Company [Financial] ADP
 adp llc                                                             #Company [Financial] ADP
+ameriprise financial inc                                            #Company [Financial] Ameriprise Financial Inc
 amtrust financial services inc                                      #Company [Financial] Amtrust Financial
 baillie gifford co                                                  #Company [Financial] Baillie Gifford & Co
 baillie gifford co ltd                                              #Company [Financial] Baillie Gifford & Co
@@ -1986,6 +2008,7 @@ abbvie corporation                                                  #Company [He
 abbvie deutschland gmbh co kg                                       #Company [Health] AbbVie
 abbvie inc                                                          #Company [Health] AbbVie
 abbvie ltd                                                          #Company [Health] AbbVie
+abbvie srl a socio unico                                            #Company [Health] AbbVie
 agilent hostmaster                                                  #Company [Health] Agilent
 agilent technologies inc                                            #Company [Health] Agilent
 alnylam pharmaceuticals                                             #Company [Health] Alnylam Pharmaceuticals
@@ -2032,7 +2055,10 @@ genentech inc genentech inc                                         #Company [He
 gilead sciences inc                                                 #Company [Health] Gilead Sciences
 grady health system                                                 #Company [Health] Grady Health System
 glaxosmithkline biologicals sa                                      #Company [Health] GSK
+glaxosmithkline consumer healthcare holdings llc                    #Company [Health] GSK
+glaxosmithkline consumer healthcare holdings us llc                 #Company [Health] GSK
 glaxosmithkline consumer healthcare inc                             #Company [Health] GSK
+glaxosmithkline consumer healthcare ip limited                      #Company [Health] GSK
 glaxosmithkline consumer healthcare uk ip limited                   #Company [Health] GSK
 glaxosmithkline inc                                                 #Company [Health] GSK
 glaxosmithkline intellectual property limited                       #Company [Health] GSK
@@ -2051,18 +2077,22 @@ l oreal                                                             #Company [He
 lifeline of canada holdings ltd                                     #Company [Health] LifeLine
 mercy health                                                        #Company [Health] Mercy Health
 mayo foundation for medical education and research                  #Company [Health] Mayo Foundation
+nationwide childrens hospital                                       #Company [Health] Nationwide Children's Hospital
 northwell health inc                                                #Company [Health] Northwell Health
 novartis ag                                                         #Company [Health] Novartis
 novartis pharmaceuticals canada inc                                 #Company [Health] Novartis
 osf healthcare system                                               #Company [Health] OSF HealthCare
+otsuka america pharmaceutical inc                                   #Company [Health] Otsukae
 pfizer canada                                                       #Company [Health] Pfizer
 pfizer canada inc                                                   #Company [Health] Pfizer
 pfizer consumer healthcare ltd                                      #Company [Health] Pfizer
 pfizer inc                                                          #Company [Health] Pfizer
 pfizer inc nyhq                                                     #Company [Health] Pfizer
+pfizer italia srl                                                   #Company [Health] Pfizer
 pfizer pharmaceuticals korea ltd                                    #Company [Health] Pfizer
 pharma intelligence                                                 #Company [Health] Pharma Intelligence
 piedmont healthcare inc                                             #Company [Health] Piedmont Healthcare
+provincial health services authority                                #Company [Health] Provincial Health
 purehealth research llc                                             #Company [Health] PureHealth Research
 rb health llc                                                       #Company [Health] RB Health
 f hoffmannla roche ag                                               #Company [Health] Roche
@@ -2161,6 +2191,7 @@ greatwest life annuity insurance company                            #Company [In
 the guardian life insurance company of america                      #Company [Insurance] Guardian
 hartford fire insurance company                                     #Company [Insurance] Hartford Fire Insurance
 hbf health limited                                                  #Company [Insurance] HBF Health
+intact financial corporation                                        #Company [Insurance] Intact Financial
 john hancock life insurance company                                 #Company [Insurance] John Hancock Financial
 liberty mutual insurance company                                    #Company [Insurance] Liberty Mutual
 lincoln financial group                                             #Company [Insurance] Lincoln Financial
@@ -2211,6 +2242,8 @@ boeing international corporation korea branch                       #Company [Ma
 the boeing company                                                  #Company [Manufacturing] Boeing
 bridgestone licensing services inc                                  #Company [Manufacturing] Bridgestone
 church dwight co inc                                                #Company [Manufacturing] Church & Dwight
+cummins intellectual property inc                                   #Company [Manufacturing] Cummins
+llc cummins                                                         #Company [Manufacturing] Cummins
 dyson ltd                                                           #Company [Manufacturing] Dyson
 dyson manufacturing sdn bhd                                         #Company [Manufacturing] Dyson
 dyson technology limited                                            #Company [Manufacturing] Dyson
@@ -2244,6 +2277,7 @@ rheem manufacturing company                                         #Company [Ma
 rockler companies inc                                               #Company [Manufacturing] Rockler
 shurtech brands llc                                                 #Company [Manufacturing] Shurtech
 singer sourcing limited llc                                         #Company [Manufacturing] Singer
+spectrum brands inc                                                 #Company [Manufacturing] Spectrum Brands
 wd40 company                                                        #Company [Manufacturing] WD40
 wd40 manufacturing company                                          #Company [Manufacturing] WD40
 whirlpool properties inc                                            #Company [Manufacturing] Whirlpool
@@ -2318,12 +2352,14 @@ john wiley sons inc                                                 #Company [Pu
 protocol labs inc                                                   #Company [R&D] Protocol Labs Inc.
 anywhere real estate group llc                                      #Company [Real Estate] Anywhere Real Estate
 avalonbay communities inc                                           #Company [Real Estate] Avalonbay Communities Inc
+century 21 real estate llc                                          #Company [Real Estate] Century 21
 coldwell banker vanguard realty                                     #Company [Real Estate] Coldwell Banker Vanguard Realty
 delhi real estate                                                   #Company [Real Estate] Delhi Real Estate
 drehomes real estate                                                #Company [Real Estate] Drehomes Real Estate
 greystar management services lp                                     #Company [Real Estate] Greystar
 hines interests limited partnership                                 #Company [Real Estate] Hines Interests Limited Partnership
 jones lang lasalle ip inc                                           #Company [Real Estate] Jones Lang LaSalle
+nars official operator of the realtor tld                           #Company [Real Estate] Nars
 ray white real estate pty ltd                                       #Company [Real Estate] Ray White
 realatte ventures llp                                               #Company [Real Estate] Realatte
 scout24 ag                                                          #Company [Real Estate] Realatte
@@ -2332,6 +2368,7 @@ scout24se                                                           #Company [Re
 swire properties ltd                                                #Company [Real Estate] Swire Properties
 toll brothers inc                                                   #Company [Real Estate] Toll Brothers
 vinci immobilier promotion                                          #Company [Real Estate] VINCI Immobilier
+diocese of rochester                                                #Company [Religion]
 st andrews episcopal church                                         #Company [Religion]
 st andrews church                                                   #Company [Religion]
 st andrews presbyterian church                                      #Company [Religion]
@@ -2457,6 +2494,7 @@ world council of churches                                           #Company [Re
 world mission society church of god                                 #Company [Religion]
 zion lutheran church                                                #Company [Religion]
 gartner inc                                                         #Company [Research, Tech] Gartner Inc
+commonwealth scientific and industrial research organisation        #Company [Research] CSIRO
 hostmaster amazon legal dept                                        #Company [Retail] Amazon
 argos limited                                                       #Company [Retail] Argos
 authentic brands group llc                                          #Company [Retail] Authentic Brands Group
@@ -2572,6 +2610,7 @@ motorola trademark holdings llc                                     #Company [Te
 mozilla corporation                                                 #Company [Tech] Mozilla
 microstar intl co ltd                                               #Company [Tech] MSI
 nokia corporation                                                   #Company [Tech] Nokia
+nokia of america corporation                                        #Company [Tech] Nokia
 nable technologies ltd                                              #Company [Tech] N-Able
 nvidia corporation                                                  #Company [Tech] Nvidia
 nvidia ltd                                                          #Company [Tech] Nvidia
@@ -2675,6 +2714,7 @@ mercedesbenz canada inc                                             #Company [Ve
 mercedesbenz domain manager                                         #Company [Vehicle] Mercedes Benz
 mercedesbenz group ag                                               #Company [Vehicle] Mercedes Benz
 mercedesbenz south ltd                                              #Company [Vehicle] Mercedes Benz
+mercedesbenz usa llc                                                #Company [Vehicle] Mercedes Benz
 nissan canada inc                                                   #Company [Vehicle] Nissan
 nissan europe sas                                                   #Company [Vehicle] Nissan
 nissan international sa                                             #Company [Vehicle] Nissan
@@ -2688,7 +2728,10 @@ nmi durban south motors ltd                                         #Company [Ve
 nmi durban south motors pty ltd                                     #Company [Vehicle] NMI Durban South Motors
 dr ing hc f porsche ag                                              #Company [Vehicle] Porsche
 dr ing hc f porsche aktiengesellschaft                              #Company [Vehicle] Porsche
+porsche chile spa                                                   #Company [Vehicle] Porsche
 porsche informatik gesmbh                                           #Company [Vehicle] Porsche
+porsche inter auto chile spa                                        #Company [Vehicle] Porsche
+porsche interauto cz sro                                            #Company [Vehicle] Porsche
 rollsroyce motor cars limited                                       #Company [Vehicle] Rolls Royce
 sime darby motors group pty limited                                 #Company [Vehicle] Sime Darby Motors
 llc subaru motor                                                    #Company [Vehicle] Subaru
@@ -2719,7 +2762,9 @@ volkswagen group korea ltd                                          #Company [Ve
 volkswagen group of america inc                                     #Company [Vehicle] Volkswagen
 volkswagen group rus llc                                            #Company [Vehicle] Volkswagen
 volkswagen south africa ltd                                         #Company [Vehicle] Volkswagen
+yamaha motor coltd                                                  #Company [Vehicle] Yamaha
 yamaha motor corporation usa                                        #Company [Vehicle] Yamaha
+yamaha motor europe nv                                              #Company [Vehicle] Yamaha
 1steam advertising llc                                              #Company [Webdesign] 1Steam Advertising
 alm advertising agency                                              #Company [Webdesign] Alm Advertising Agency
 ascend collective inc                                               #Company [Webdesign] Ascend Collective Inc (Church Sites)
@@ -2733,6 +2778,7 @@ future publishing limited                                           #Company [We
 indetail advertising                                                #Company [Webdesign] In-Detail Advertising
 metroplus advertising llc                                           #Company [Webdesign] Metroplus Advertising
 mirus research                                                      #Company [Webdesign] Mirus Research
+progressive marketing network                                       #Company [Webdesign] Progressive Marketing Network
 nexstar media group                                                 #Company [Webdesign] Nexstar Media Hroup
 vertexplus technologies                                             #Company [Webdesign] Vertexplus Technologies
 
