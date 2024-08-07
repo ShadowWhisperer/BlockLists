@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 875
-# Updated: 7/29/2024  09:26 (9:26 AM CST)
+# Domains: 877
+# Updated: 8/7/2024  14:21 (2:21 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -399,6 +399,7 @@ nvpn.net
 nvpn.so
 nvpn.to
 nyc-ny-us.prcdn.net
+o2comm-prd.norton.com
 oceanbrowser.co
 oclearningteam.com
 octohide.com
@@ -568,6 +569,7 @@ smartydns.com
 snowproxy.com
 sparklabs.com
 speedyth.com
+spoc.norton.com
 spyoff.com
 sslprivateproxy.com
 sslproxies.net
