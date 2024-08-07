@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,910
-# Updated: 8/6/2024  21:49 (9:49 PM CST)
+# Domains: 2,911
+# Updated: 8/6/2024  22:34 (10:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1603,6 +1603,7 @@ myanlink.com
 myautotrading.live
 myaz.tech
 myduke.life
+my-elizabeth.life
 myf.mg
 myfonts.us
 my-link.in
