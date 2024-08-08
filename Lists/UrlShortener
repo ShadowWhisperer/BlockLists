@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 2,946
-# Updated: 8/7/2024  17:13 (5:13 PM CST)
+# Domains: 2,948
+# Updated: 8/7/2024  20:22 (8:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -623,6 +623,8 @@ cutelnk.com
 cutit.bid
 cut.live
 cutlly.com
+cuto.info
+cuto.life
 cut.ovh
 cuts2.com
 cuts.al
