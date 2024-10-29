@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 437
-# Updated: 10/24/2024  14:32 (2:32 PM CST)
+# Domains: 438
+# Updated: 10/29/2024  11:11 (11:11 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -106,6 +106,7 @@ chat.freshdesk.com
 chatgen.ai
 chatgen-cdn.azureedge.net
 chat.gosquared.com
+chat.icedrive.net
 chatidcdn.com
 chatid.com
 chat.intertops.eu

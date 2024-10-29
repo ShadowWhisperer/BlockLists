@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 732
-# Updated: 9/11/2024  12:42 (12:42 PM CST)
+# Domains: 736
+# Updated: 10/29/2024  11:11 (11:11 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -286,16 +286,16 @@ getpocket.com                                           #Software   FireFox    P
 img-getpocket.cdn.mozilla.net                           #Software   FireFox    Pocket
 img-prod.pocket.prod.cloudops.mozgcp.net                #Software   FireFox    Pocket
 spocs.getpocket.com                                     #Software   FireFox    Pocket
-screenshotscdn.firefox.com                              #Software   FireFox    Screenshot  *Not seen in wild
-screenshots.firefox.com                                 #Software   FireFox    Screenshot  *Not seen in wild
 blocklists.settings.services.mozilla.com                #Software   FireFox    Safe Browsing
 shavar.prod.mozaws.net                                  #Software   FireFox    Safe Browsing
 shavar.services.mozilla.com                             #Software   FireFox    Safe Browsing
+screenshotscdn.firefox.com                              #Software   FireFox    Screenshot  *Not seen in wild
+screenshots.firefox.com                                 #Software   FireFox    Screenshot  *Not seen in wild
 tiles.services.mozilla.com                              #Software   FireFox    Tiles (History > Website Preview)
 d6wjo2hisqfy2.cloudfront.net                            #Software   FireFox    Tiles (History > Website Preview)
 tiles.r53-2.services.mozilla.com                        #Software   FireFox    Tiles (HomePage)
-tiles-cloudfront.cdn.mozilla.net                        #Software   FireFox  - New Tab page ?
-activity-stream-icons.services.mozilla.com              #Software   FireFox  - New Tab page ?
+tiles-cloudfront.cdn.mozilla.net                        #Software   FireFox    New Tab page ?
+activity-stream-icons.services.mozilla.com              #Software   FireFox    New Tab page ?
 classify-client.services.mozilla.com                    #Software   FireFox
 detectportal.firefox.com                                #Software   FireFox
 prod.detectportal.prod.cloudops.mozgcp.net              #Software   FireFox
@@ -422,8 +422,12 @@ autosug.ebay.com                                        #eBay
 autosug.ebaystatic.com                                  #eBay
 apps.facebook.com                                       #Facebook
 b-api.facebook.com                                      #Facebook
+cdn.amp-endpoint2.com                                   #Facebook
+cdn-v4.amp-endpoint2.com                                #Facebook
 error.facebook.com                                      #Facebook
 graph-fallback.facebook.com                             #Facebook
+ngx-v4.amp-endpoint2.com                                #Facebook
+ngx-v6.amp-endpoint2.com                                #Facebook
 contactsui-pa.googleapis.com                            #Google    Contacts
 chat-pa.clients6.google.com                             #Google  Chat
 peoplestack-pa.googleapis.com                           #Google    People
