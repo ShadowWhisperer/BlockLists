@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 292
-# Updated: 10/16/2024  15:18 (3:18 PM CST)
+# Domains: 297
+# Updated: 10/30/2024  13:14 (1:14 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -50,8 +50,14 @@ webrootdns.net                                 #Antivirus    Webroot
 webrootmobile.com                              #Antivirus    Webroot
 webrootmultiplatform.com                       #Antivirus    Webroot
 
+
 ccleanerbrowser.com                            #Browser - Ccleaner
 orbitum.com                                    #Browser - Orbitum
+shiftapis.com                                  #Browser - Shift
+shift.com                                      #Browser - Shift
+shiftnews.com                                  #Browser - Shift
+tryshiftcdn.com                                #Browser - Shift
+tryshift.com                                   #Browser - Shift
 uc.cn                                          #Browser - UC
 ucweb.com                                      #Browser - UC
 
