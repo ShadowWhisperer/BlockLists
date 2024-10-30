@@ -2,10 +2,16 @@ alibabadns.com                                                 #Generic
 aliyuncs.com                                                   #Generic
 azureedge.net                                                  #Generic
 azurewebsites.net                                              #Generic
+casmp.adperfect.com                                            #Generic
 cloudflare.net                                                 #Generic
 edgekey.net                                                    #Generic
 google.com                                                     #Generic
 googlehosted.com                                               #Generic
+hubspot.net                                                    #Generic
+myshopify.com                                                  #Generic
+pbcdn2.podbean.com                                             #Generic
+squarespace.com                                                #Generic
+tumblr.com                                                     #Generic
 vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
@@ -16,6 +22,7 @@ mktossl.com                                                    #Generic-Ignore
 mktoweb.com                                                    #Generic-Ignore
 
 connectedcommunity.org                                         #Redirect
+dom.bandcamp.com                                               #Redirect
 higherlogic.com                                                #Redirect
 
 lloydsbanking.com                                              #Ignore
@@ -30,6 +37,7 @@ domainexpired.dnspod.cn                                        #Parked
 expired.gname.net                                              #Parked
 expired.hichina.com                                            #Parked
 hugedomains.com                                                #Parked
+parking.everad.com                                             #Parked
 rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
 
@@ -40,6 +48,7 @@ urlforward.namebright.com                                      #Parked
 client.grv.media                                               #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
+servedbyadbutler.com                                           #Ad
 with.contentpass.net                                           #Ad
 
 wpu.sh                                                         #Malware
