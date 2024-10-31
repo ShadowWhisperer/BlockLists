@@ -48,6 +48,7 @@ urlforward.namebright.com                                      #Parked
 # Block
 #####################################################
 adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
+bs-adserver.b-cdn.net                                          #Ad
 client.grv.media                                               #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
@@ -93,6 +94,7 @@ open-analytics.se                                              #Tracker
 opsone-analytics.ch                                            #Tracker
 pixel.hotmart.com                                              #Tracker
 posthog.com                                                    #Tracker
+raventrack.com                                                 #Tracker
 securedvisit.com                                               #Tracker
 segmetrics.io                                                  #Tracker
 simpleanalyticsexternal.com                                    #Tracker
@@ -102,10 +104,11 @@ stape.io                                                       #Tracker
 starman.fathomdns.com                                          #Tracker
 stat-pulse.com                                                 #Tracker
 stats.uptimerobot.com                                          #Tracker
+track.adsrv.net                                                #Tracker
+tracker-use.ortb.net                                           #Tracker
 tracking.journy.io                                             #Tracker
 trackjs.com                                                    #Tracker
 usermaven.com                                                  #Tracker
 wecantrack.com                                                 #Tracker
 we-stats.com                                                   #Tracker
 wizaly.com                                                     #Tracker
-
