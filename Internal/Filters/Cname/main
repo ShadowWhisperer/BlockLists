@@ -8,7 +8,6 @@ edgekey.net                                                    #Generic
 google.com                                                     #Generic
 googlehosted.com                                               #Generic
 hubspot.net                                                    #Generic
-myshopify.com                                                  #Generic
 pbcdn2.podbean.com                                             #Generic
 squarespace.com                                                #Generic
 tumblr.com                                                     #Generic
@@ -16,6 +15,9 @@ vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
+substack-custom-domains.com                                    #Generic
+
+shops.myshopify.com                                            #Shopping
 
 affilbox.cz                                                    #Generic-Ignore
 mktossl.com                                                    #Generic-Ignore
@@ -45,6 +47,7 @@ urlforward.namebright.com                                      #Parked
 #####################################################
 # Block
 #####################################################
+adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
 client.grv.media                                               #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
@@ -83,11 +86,13 @@ iocnt.net                                                      #Tracker
 mautic.net                                                     #Tracker
 nc0.co                                                         #Tracker
 netinsight.co.kr                                               #Tracker
+nineanalytics.io                                               #Tracker
 omtrdc.net                                                     #Tracker
 online-metrix.net                                              #Tracker
 open-analytics.se                                              #Tracker
 opsone-analytics.ch                                            #Tracker
 pixel.hotmart.com                                              #Tracker
+posthog.com                                                    #Tracker
 securedvisit.com                                               #Tracker
 segmetrics.io                                                  #Tracker
 simpleanalyticsexternal.com                                    #Tracker
@@ -103,3 +108,4 @@ usermaven.com                                                  #Tracker
 wecantrack.com                                                 #Tracker
 we-stats.com                                                   #Tracker
 wizaly.com                                                     #Tracker
+
