@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 91,944
-# Updated: 11/1/2024  09:12 (9:12 AM CST)
+# Domains: 91,947
+# Updated: 11/1/2024  11:04 (11:04 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -72328,6 +72328,7 @@ statistics.app.geoportail.lu
 statistics.app.geoportal.lu
 statistics.app.publish.founderss.cn
 statistics.app.publish-test.founderss.cn
+statistics.apps.seabroadnet.com
 statistics.arminstravels.com
 statistics.ars-sonora.pl
 statistics.artbutler.com
@@ -83891,6 +83892,7 @@ track.angelscare.org.ua
 track.angelstudios.com
 track.annspeech.com
 track.apotheosistech.com
+track.applicaster.com
 track.aqua.services
 track.armado.fr
 track.arsenal-center.com.ua
@@ -86366,6 +86368,7 @@ visit.mxrimaging.com
 visitor-analytics.io
 visitor-analytics.net
 visitor-badge.glitch.me
+visitorbadge.io
 visitor.careerbuilder.com
 visitorcounterplugin.com
 visitorlab.com
