@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 204
-# Updated: 8/16/2024  15:33 (3:33 PM CST)
+# Domains: 201
+# Updated: 11/4/2024  12:33 (12:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -75,10 +75,6 @@ spyine.com                                       #Phone Monitoring
 spymasterpro.com                                 #Phone Monitoring
 spyzie.io                                        #Phone Monitoring
 mspy.de                                          #Phone Tracking
-
-hereapi.com                                      #GPS / Tracking  [Here]
-here.com                                         #GPS / Tracking  [Here]
-here.net                                         #GPS / Tracking  [Here]
 
 actualkeylogger.com                              #Keylogger
 ardamax.com                                      #Keylogger
