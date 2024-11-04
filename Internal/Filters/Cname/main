@@ -16,12 +16,7 @@ vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
-
-shops.myshopify.com                                            #Shopping
-
-affilbox.cz                                                    #Generic-Ignore
-mktossl.com                                                    #Generic-Ignore
-mktoweb.com                                                    #Generic-Ignore
+proxy-ssl.webflow.com                                          #Generic
 
 connectedcommunity.org                                         #Redirect
 dom.bandcamp.com                                               #Redirect
@@ -42,6 +37,24 @@ hugedomains.com                                                #Parked
 parking.everad.com                                             #Parked
 rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
+
+
+hatenablog.com                                                 #Blog
+
+domains.payhip.com                                             #Shopping
+shops.myshopify.com                                            #Shopping
+
+
+readthedocs.io                                                 #Company [Documentation]
+apptegy.net                                                    #Company [Education]
+myschoolportal.co.uk                                           #Company [Education]
+affilbox.cz                                                    #Company [Marketing]
+mktossl.com                                                    #Company [Marketing]
+mktoweb.com                                                    #Company [Marketing]
+hosted-checkout.stripecdn.com                                  #Company [Payment System]
+domains.smugmug.com                                            #Company [Photography]
+ext.teamtailor.com                                             #Company [Recruiting]
+cname.thebase.in                                               #Company [Shopping]
 
 
 #####################################################
