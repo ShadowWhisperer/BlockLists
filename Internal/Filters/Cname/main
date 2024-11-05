@@ -1,6 +1,5 @@
 alibabadns.com                                                 #Generic
 aliyuncs.com                                                   #Generic
-azureedge.net                                                  #Generic
 azurewebsites.net                                              #Generic
 casmp.adperfect.com                                            #Generic
 cloudflare.net                                                 #Generic
@@ -79,6 +78,9 @@ cerebro.services                                               #Tracker
 clicktripz.com                                                 #Tracker
 cname.cordial.com                                              #Tracker
 collector.xhamster.com                                         #Tracker
+connext-cdn.azureedge.net                                      #Tracker
+connext-cdn-mng1.azureedge.net                                 #Tracker
+connext-cdn-mng2.azureedge.net                                 #Tracker
 cust.fusedeck.net                                              #Tracker
 custom-domains.appcues.com                                     #Tracker
 customer.pendo.io                                              #Tracker
@@ -91,6 +93,12 @@ edgetag.io                                                     #Tracker
 etracker.com                                                   #Tracker
 external.simpleanalytics.com                                   #Tracker
 first-party-js.datadome.co                                     #Tracker
+fp-cdn.azureedge.net                                           #Tracker
+fp-cdn-mng1.azureedge.net                                      #Tracker
+fp-cdn-mng2.azureedge.net                                      #Tracker
+g2insights-cdn.azureedge.net                                   #Tracker
+g2insights-cdn-mng1.azureedge.net                              #Tracker
+g2insights-cdn-mng2.azureedge.net                              #Tracker
 gemius.pl                                                      #Tracker
 getclicky.com                                                  #Tracker
 getrockerbox.com                                               #Tracker
