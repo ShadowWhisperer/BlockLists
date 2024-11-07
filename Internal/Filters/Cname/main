@@ -8,6 +8,7 @@ google.com                                                     #Generic
 googlehosted.com                                               #Generic
 hubspot.net                                                    #Generic
 podbean.com                                                    #Generic
+proxy-ssl.webflow.com                                          #Generic
 squarespace.com                                                #Generic
 substack-custom-domains.com                                    #Generic
 tumblr.com                                                     #Generic
@@ -15,7 +16,6 @@ vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
-proxy-ssl.webflow.com                                          #Generic
 
 connectedcommunity.org                                         #Redirect
 dom.bandcamp.com                                               #Redirect
@@ -38,6 +38,10 @@ rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
 
 
+custom.bnc.lt                                                  #BNC
+thirdparty.bnc.lt                                              #BNC
+pardot.com                                                     #Pardot
+
 hatenablog.com                                                 #Blog
 
 domains.payhip.com                                             #Shopping
@@ -59,12 +63,18 @@ cname.thebase.in                                               #Company [Shoppin
 #####################################################
 # Block
 #####################################################
+adbutler.com                                                   #Ad
 adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
+adsrv.eacdn.com                                                #Ad
+api.clickaine.com                                              #Ad
+aquaplatform.com                                               #Ad
 bs-adserver.b-cdn.net                                          #Ad
 client.grv.media                                               #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
 servedbyadbutler.com                                           #Ad
+tenmax.io                                                      #Ad
+unrulyvideo.com                                                #Ad
 with.contentpass.net                                           #Ad
 
 wpu.sh                                                         #Malware
@@ -102,7 +112,6 @@ g2insights-cdn-mng2.azureedge.net                              #Tracker
 gemius.pl                                                      #Tracker
 getclicky.com                                                  #Tracker
 getrockerbox.com                                               #Tracker
-go.pardot.com                                                  #Tracker
 hyros.com                                                      #Tracker
 iocnt.net                                                      #Tracker
 mautic.net                                                     #Tracker
