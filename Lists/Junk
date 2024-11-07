@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 297
-# Updated: 10/30/2024  13:14 (1:14 PM CST)
+# Domains: 298
+# Updated: 11/7/2024  16:52 (4:52 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -36,6 +36,7 @@ da3e3.net                                      #Antivirus    BitDefender
 e5.sk                                          #Antivirus    Eset
 eset.com                                       #Antivirus    Eset
 eset.systems                                   #Antivirus    Eset
+fortect.com                                    #Antivirus    Fortect
 ijinshan.com                                   #Antivirus    Kingsoft
 cloudantivirus.com                             #Antivirus    Panda
 pandasecurity.com                              #Antivirus    Panda

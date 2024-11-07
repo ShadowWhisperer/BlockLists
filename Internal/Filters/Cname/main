@@ -38,12 +38,12 @@ rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
 
 
-popcashjs.b-cdn.net                                            #Test-Ad_PopCash
-custom.bnc.lt                                                  #Test-BNC
-thirdparty.bnc.lt                                              #Test-BNC
-dnsdelegation.io                                               #Test-Criteo
-pardot.com                                                     #Test-Pardot
-privacy-mgmt.com                                               #Test-PrivacyMgmt
+popcashjs.b-cdn.net                                            #Ad_PopCash
+custom.bnc.lt                                                  #BNC
+thirdparty.bnc.lt                                              #BNC
+dnsdelegation.io                                               #Criteo
+pardot.com                                                     #Pardot
+privacy-mgmt.com                                               #PrivacyMgmt
 
 eloqua.com                                                     #Links-Aff
 trkpnt.ongage.net                                              #Links-Email-Link1
@@ -56,8 +56,6 @@ hatenablog.com                                                 #Blog
 
 domains.payhip.com                                             #Shopping
 shops.myshopify.com                                            #Shopping
-
-
 
 
 readthedocs.io                                                 #Company [Documentation]
@@ -83,6 +81,7 @@ api.clickaine.com                                              #Ad
 aquaplatform.com                                               #Ad
 bs-adserver.b-cdn.net                                          #Ad
 client.grv.media                                               #Ad
+engine.adglare.net                                             #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
 servedbyadbutler.com                                           #Ad
