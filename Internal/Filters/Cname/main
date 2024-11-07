@@ -4,8 +4,8 @@ azurewebsites.net                                              #Generic
 casmp.adperfect.com                                            #Generic
 cloudflare.net                                                 #Generic
 edgekey.net                                                    #Generic
+ghs.googlehosted.com                                           #Generic
 google.com                                                     #Generic
-googlehosted.com                                               #Generic
 hubspot.net                                                    #Generic
 podbean.com                                                    #Generic
 proxy-ssl.webflow.com                                          #Generic
@@ -38,14 +38,26 @@ rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
 
 
-custom.bnc.lt                                                  #BNC
-thirdparty.bnc.lt                                              #BNC
-pardot.com                                                     #Pardot
+popcashjs.b-cdn.net                                            #Test-Ad_PopCash
+custom.bnc.lt                                                  #Test-BNC
+thirdparty.bnc.lt                                              #Test-BNC
+dnsdelegation.io                                               #Test-Criteo
+pardot.com                                                     #Test-Pardot
+privacy-mgmt.com                                               #Test-PrivacyMgmt
+
+eloqua.com                                                     #Links-Aff
+trkpnt.ongage.net                                              #Links-Email-Link1
+tracking.socketlabs.com                                        #Links-Email-Link2
+mandrillapp.com                                                #Links-Email-Link3
+email-view.com                                                 #Links-Email-Link4
+md02.com                                                       #Links-Email-Link5
 
 hatenablog.com                                                 #Blog
 
 domains.payhip.com                                             #Shopping
 shops.myshopify.com                                            #Shopping
+
+
 
 
 readthedocs.io                                                 #Company [Documentation]
@@ -66,6 +78,7 @@ cname.thebase.in                                               #Company [Shoppin
 adbutler.com                                                   #Ad
 adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
 adsrv.eacdn.com                                                #Ad
+ads.vg.no                                                      #Ad
 api.clickaine.com                                              #Ad
 aquaplatform.com                                               #Ad
 bs-adserver.b-cdn.net                                          #Ad
@@ -73,6 +86,7 @@ client.grv.media                                               #Ad
 postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
 servedbyadbutler.com                                           #Ad
+share.bannersnack.com                                          #Ad
 tenmax.io                                                      #Ad
 unrulyvideo.com                                                #Ad
 with.contentpass.net                                           #Ad
@@ -84,6 +98,7 @@ actonsoftware.com                                              #Tracker
 analytics.4success.com.br                                      #Tracker
 app.leadsrx.com                                                #Tracker
 audience.kevel.com                                             #Tracker
+canny.io                                                       #Tracker
 cerebro.services                                               #Tracker
 clicktripz.com                                                 #Tracker
 cname.cordial.com                                              #Tracker
@@ -101,6 +116,7 @@ dataunlocker.com                                               #Tracker
 dmanalytics1.com                                               #Tracker
 edgetag.io                                                     #Tracker
 etracker.com                                                   #Tracker
+exactag.com                                                    #Tracker
 external.simpleanalytics.com                                   #Tracker
 first-party-js.datadome.co                                     #Tracker
 fp-cdn.azureedge.net                                           #Tracker
@@ -142,4 +158,5 @@ trackjs.com                                                    #Tracker
 usermaven.com                                                  #Tracker
 wecantrack.com                                                 #Tracker
 we-stats.com                                                   #Tracker
+whs.sendergen.com                                              #Tracker
 wizaly.com                                                     #Tracker
