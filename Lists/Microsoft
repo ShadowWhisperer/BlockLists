@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 636
-# Updated: 10/10/2024  15:22 (3:22 PM CST)
+# Domains: 635
+# Updated: 11/8/2024  17:50 (5:50 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -477,7 +477,6 @@ common.online.office.com
 compatexchange.cloudapp.net
 concierge.live.com
 connect.microsoft.com
-continuum.dds.microsoft.com
 contoso.com
 corpext.msitadfs.glbdns2.microsoft.com
 corp.sts.microsoft.com
