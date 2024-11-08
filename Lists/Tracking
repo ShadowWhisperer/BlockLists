@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,666
-# Updated: 11/8/2024  12:21 (12:21 PM CST)
+# Domains: 95,669
+# Updated: 11/8/2024  15:04 (3:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -7854,6 +7854,7 @@ analytics.infosystems4u.ro
 analytics.infra.laprimaire.org
 analytics.infuse.ch
 analytics-ingestion.production-public.tubi.io
+analytics-ingestion-production.tubitv.com
 analytics.ingewikkeld.net
 analytics.inggvirtuals.com
 analytics.ingos.com
@@ -53553,6 +53554,7 @@ our.ldk.com.au
 ourlnk.com
 our.transparency.org
 ou.shutterfly.com
+outcomes.net
 outfunnel.com
 outgoinggiraffe.com
 outgress.com
@@ -54486,7 +54488,6 @@ pagess.bsigroup.com
 pages.smartzip.com
 pages.spillman.com
 pages.ssi-schaefer.com
-pages-stats.rbl.ms
 pages.stratpharma.com
 pagestats.lct.software
 pagestats.win
@@ -82394,7 +82395,6 @@ stats.ravensdale.co.za
 stats.raven-web.eu
 stats.rayennefrost.de
 stats.ray-services.com
-stats.rbl.ms
 stats.rbs.io
 stats.rcinet.ca
 stats.rddz-tools.com
@@ -85794,7 +85794,6 @@ tag.contactatonce.co.uk
 tag.cribnotes.jp
 tagdata.com
 tagdelivery.mayoclinic.org
-tag.digops.sincro.io
 tag.durationmedia.net
 tag.elevaate.io
 tagetik.com
@@ -86685,6 +86684,7 @@ thehotelsnetwork.com
 theleadengine.co.uk
 thelead.tech
 themarketingstir.stirista.com
+themobian.com
 the-modeling-agency.com
 themodellers.com
 theoceannetwork.inttra.com
@@ -89679,6 +89679,7 @@ userreplay.net
 userreport.com
 user.rgj.com
 usersegment.wpdigital.net
+user-signals.production-public.tubi.io
 users.maxcluster.net
 usersonlinecounter.com
 userstatics.com
@@ -90997,6 +90998,7 @@ wixlabs-hcounter.appspot.com
 wizaly.com
 wiz.sncf-connect.com
 wjq.ma.tarnkappe.info
+wknd.ai
 wkp20trk.com
 wkxppshj-qx.global.ssl.fastly.net
 wl-analytics.tsp.li
@@ -91136,6 +91138,7 @@ wttd.douglas.nl
 wtustats.avg.com
 wu38ltrk.com
 wundercounter.com
+wunderkind.co
 wup-16c9d93d.halifax-online.co.uk
 wup-16c9d93d.mbna.co.uk
 wup-analytics.anz.com

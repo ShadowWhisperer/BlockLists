@@ -336,7 +336,6 @@ api.facebook.com                                    Facebook
 connect.facebook.net                                Facebook
 l.instagram.com                                     Instagram   Links from Instagram's site
 api.pinterest.com                                   Pinterest
-aws-proxy-gcp.api.snapchat.com                      SnapChat    Sending/Receiving
 mtalk.google.com                                    SnapChat    Notifications
 alt1-mtalk.google.com                               SnapChat    Notifications
 alt2-mtalk.google.com                               SnapChat    Notifications
@@ -346,6 +345,8 @@ alt5-mtalk.google.com                               SnapChat    Notifications
 alt6-mtalk.google.com                               SnapChat    Notifications
 alt7-mtalk.google.com                               SnapChat    Notifications
 alt8-mtalk.google.com                               SnapChat    Notifications
+aws-proxy-gcp.api.snapchat.com                      SnapChat    Sending/Receiving
+flux-c.sc-cdn.net                                   SnapChat    Stories
 cnc.addlive.io                                      SnapChat    Voice/Video Chat
 api.twitter.com                                     Twitter
 pbs.twimg.com                                       Twitter     Images
@@ -509,6 +510,7 @@ siloh-fs.plutotv.net                                 #App   Pluto (Breaks playba
 fresnel-events.vimeocdn.com                          #App   The Criterion Channel   Breaks it
 uapi.adrise.tv                                       #App   Tubi
 akamai2.tubi.video                                   #App   Tubi (Breaks video)
+akamai.tubi.video                                    #App   Tubi (Breaks video)
 s.adrise.tv                                          #App   Tubi (Subtitles)
 license.adrise.tv                                    #App   Tubi (Digital Rights Management Error, if blocked)
 account.production-public.tubi.io                    #App   Tubi (Breaks   Guest Sign In)
