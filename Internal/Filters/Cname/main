@@ -45,12 +45,13 @@ dnsdelegation.io                                               #Criteo
 pardot.com                                                     #Pardot
 privacy-mgmt.com                                               #PrivacyMgmt
 
-eloqua.com                                                     #Links-Aff
-trkpnt.ongage.net                                              #Links-Email-Link1
-tracking.socketlabs.com                                        #Links-Email-Link2
-mandrillapp.com                                                #Links-Email-Link3
-email-view.com                                                 #Links-Email-Link4
-md02.com                                                       #Links-Email-Link5
+eloqua.com                                                     #Links_Aff
+
+email-view.com                                                 #Links_Email
+mandrillapp.com                                                #Links_Email
+md02.com                                                       #Links_Email
+tracking.socketlabs.com                                        #Links_Email
+trkpnt.ongage.net                                              #Links_Email
 
 hatenablog.com                                                 #Blog
 
