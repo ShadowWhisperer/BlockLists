@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 93,036
-# Updated: 11/8/2024  22:11 (10:11 PM CST)
+# Updated: 11/8/2024  23:11 (11:11 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -14083,6 +14083,7 @@ backend.zaczytaj.pl
 backstory.ebay.at
 backstory.ebay.ca
 backstory.ebay.com
+backstory.ebay.com.hk
 backstory.ebay.co.uk
 backstory.ebay.de
 backstory.ebay.fr
@@ -16055,41 +16056,21 @@ clevis-research.de
 clevnet.patronpoint.com
 cl.growwwing.jp
 clic2buy.com
-click1.canadianvisaexpert.net
 click1.clickrouter.com
-click1.e.conservativetribune.com
-click1.e.iheart.com
-click1.email.carnegiecomm.com
-click1.email.dwell.com
-click1.email.fastcompany.com
-click1.email.galvanized.com
-click1.email.riskandinsurance.com
 click1.email.thegolfchannel.com
 click1.email.thehill.com
-click1.e.thechive.com
-click1.e.westernjournalism.com
 click1.fleetcardbenefits.com
 click1.hsbc.com.mx
-click1.ilovemyfreedom-email.org
 click1.mail1.vente-exclusive.com
 click1.mail.apartmenttherapy.com
-click1.mail.astrocenter.com
-click1.mail.astrology.com
 click1.mail.beliefnet.com
-click1.mail.biblica.com
-click1.mail.horoscope.com
 click1.mail.patheos.com
-click1.mail.wnd.com
-click1.members.privatecolleges.com
-click1.members.vault.com
 click1.mercadolibre.com.co
 click1.mercadolibre.com.mx
 click1.mercadolivre.com.br
 click1.net
 click1.news.thehill.com
-click1.notify.meetmemail.com
 click1.soufun.com
-click1.wellandgoodmail.com
 click2.agorafinancial.com
 click2buy.com
 click2cart.com
@@ -17700,7 +17681,6 @@ corviduk.com
 coscale.com
 cosme.caseepo.jp
 cosmosjackson.com
-cosori.myshopify.com
 costconsulting.wtpartnership.com.au
 costrategix.com
 costumeexpressemail.com
@@ -23369,6 +23349,7 @@ flyspy.co
 flytxt.com
 fma.fellow-s.co.jp
 fm.cnbc.com
+fmip.fe2.apple-dns.net
 fmip.me.com
 fmnoa.rarecarat.com
 fms-dev.citysavings.net.ph
@@ -29556,6 +29537,7 @@ initjs.rfk.biglots.com
 initjs.rfk.magidglove.com
 initjs.rfk.petco.com
 initjs.rfk.zennioptical.com
+ink1001.com
 ink.hudsonyardsnewyork.com
 inlayinsights.com
 inloggen.evivanlanschot.nl
@@ -59667,6 +59649,7 @@ pixel.animaispeconhentos.com
 pixel.anngiavila.com
 pixel.anyclip.com
 pixel.aoticadodinheiro.com.br
+pixel-api-production.up.railway.app
 pixel-api.socialhead.io
 pixel.apitherapy.co
 pixel.apponlineacademy.com
@@ -61989,10 +61972,13 @@ plausible.alinpanaitiu.com
 plausible.allien.work
 plausible.ams.to
 plausible-analysis.cstcloud.cn
+plausible-analytics-ce-production-ba4d.up.railway.app
 plausible-analytics.erisa.uk
 plausibleanalytics.eurofins.com
 plausible-analytics.linuxbox.ninja
 plausible-analytics.matadornetwork.com
+plausible-analytics-production-4a0d.up.railway.app
+plausible-analytics-production-6a24.up.railway.app
 plausible.anicetnougaret.fr
 plausible.anywherearc.com
 plausible-app.caprover.laszlokiss.dev
@@ -62695,6 +62681,7 @@ p.pinchme.com
 p.pingup.de
 ppl9ktrk.com
 p.precisionlender.com
+pp-stats.up.railway.app
 p.pulse.buyatoyota.com
 p.pulse.toyota.com
 p.qiao.baidu.com
@@ -64405,6 +64392,7 @@ r.mail.formediagroup.co.uk
 r.mail.gaeco.fr
 r.mailhost.canadianappliancesource.ca
 r.mail.hurrevac.com
+r.mailin.fr
 r.mailing01.estrategiasdeinversion.com
 r.mailing3.agirpourlenvironnement.org
 r.mailing.anafarmex.com.mx
@@ -71619,6 +71607,7 @@ souza.info
 sowa.carhartt.com
 sowlettuce.com
 sp1.baidu.com
+sp1-brevo.net
 sp2.baidu.com
 spacesolution.wakasugi-bldg.jp
 spadelocket.com
@@ -86176,6 +86165,7 @@ trish.bcm.edu
 trisul.org
 tritebadge.com
 tritethunder.com
+triton-analytics.up.railway.app
 t.rituxan.com
 trk.abcdpdf.com
 trk.adtera.com
@@ -86720,6 +86710,7 @@ ultimatecounter.com
 ultptrk.com
 ultraoranges.com
 umami.01o.de
+umami-a7759d-production.up.railway.app
 umami.achimkraemer.com
 umami.agilitynerd.com
 umami.aigenerations.net
@@ -86806,9 +86797,18 @@ umami.parthpatel.net
 umami.placha.pl
 umami.post.tablecheck.com
 umami.presswizards.com
+umami-production-0fd2.up.railway.app
+umami-production-2454.up.railway.app
+umami-production-3172.up.railway.app
+umami-production-3192.up.railway.app
 umami-production-3df5.up.railway.app
 umami-production-5fff.up.railway.app
 umami-production-6c7e.up.railway.app
+umami-production-708e.up.railway.app
+umami-production-7mid.up.railway.app
+umami-production-8fe7.up.railway.app
+umami-production-c47a.up.railway.app
+umami-production-c795.up.railway.app
 umami-prod.up.railway.app
 umami.psaux.io
 umami.pyry.me

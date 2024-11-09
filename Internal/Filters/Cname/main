@@ -2,13 +2,14 @@ alibabadns.com                                                 #Generic
 aliyuncs.com                                                   #Generic
 azurewebsites.net                                              #Generic
 casmp.adperfect.com                                            #Generic
+cdn77.org                                                      #Generic
 cloudflare.net                                                 #Generic
 edgekey.net                                                    #Generic
 ghs.googlehosted.com                                           #Generic
 google.com                                                     #Generic
-hubspot.net                                                    #Generic
 podbean.com                                                    #Generic
 proxy-ssl.webflow.com                                          #Generic
+sites.hubspot.net                                              #Generic
 squarespace.com                                                #Generic
 substack-custom-domains.com                                    #Generic
 tumblr.com                                                     #Generic
@@ -52,6 +53,7 @@ mandrillapp.com                                                #Links_Email
 md02.com                                                       #Links_Email
 tracking.socketlabs.com                                        #Links_Email
 trkpnt.ongage.net                                              #Links_Email
+click.postup.com                                               #Links_Email
 
 hatenablog.com                                                 #Blog
 
@@ -93,14 +95,17 @@ with.contentpass.net                                           #Ad
 
 wpu.sh                                                         #Malware
 
+250analytics.com                                               #Tracker
 2o7.net                                                        #Tracker
 actonsoftware.com                                              #Tracker
 analytics.4success.com.br                                      #Tracker
 app.leadsrx.com                                                #Tracker
 audience.kevel.com                                             #Tracker
+autotrack.ebaycdn.net                                          #Tracker
 canny.io                                                       #Tracker
 cerebro.services                                               #Tracker
 clicktripz.com                                                 #Tracker
+c.msn.co.uk                                                    #Tracker
 cname.cordial.com                                              #Tracker
 collector.xhamster.com                                         #Tracker
 connext-cdn.azureedge.net                                      #Tracker
@@ -116,8 +121,10 @@ dataunlocker.com                                               #Tracker
 dmanalytics1.com                                               #Tracker
 edgetag.io                                                     #Tracker
 etracker.com                                                   #Tracker
+e.truedata.co                                                  #Tracker
 exactag.com                                                    #Tracker
 external.simpleanalytics.com                                   #Tracker
+external.simpleanalytics.io                                    #Tracker
 first-party-js.datadome.co                                     #Tracker
 fp-cdn.azureedge.net                                           #Tracker
 fp-cdn-mng1.azureedge.net                                      #Tracker
@@ -128,7 +135,9 @@ g2insights-cdn-mng2.azureedge.net                              #Tracker
 gemius.pl                                                      #Tracker
 getclicky.com                                                  #Tracker
 getrockerbox.com                                               #Tracker
+ghochv3eng.trafficmanager.net                                  #Tracker
 hyros.com                                                      #Tracker
+ink1001.com                                                    #Tracker
 iocnt.net                                                      #Tracker
 mautic.net                                                     #Tracker
 nc0.co                                                         #Tracker
@@ -139,9 +148,11 @@ online-metrix.net                                              #Tracker
 open-analytics.se                                              #Tracker
 opsone-analytics.ch                                            #Tracker
 piwik.pro                                                      #Tracker
+pixel.eduzz.com                                                #Tracker
 pixel.hotmart.com                                              #Tracker
 posthog.com                                                    #Tracker
 raventrack.com                                                 #Tracker
+r.mailin.fr                                                    #Tracker
 securedvisit.com                                               #Tracker
 segmetrics.io                                                  #Tracker
 simpleanalyticsexternal.com                                    #Tracker
@@ -150,11 +161,13 @@ spgo.io                                                        #Tracker
 stape.io                                                       #Tracker
 starman.fathomdns.com                                          #Tracker
 stat-pulse.com                                                 #Tracker
+stat.really.fi                                                 #Tracker
 stats.uptimerobot.com                                          #Tracker
 track.adsrv.net                                                #Tracker
 tracker-use.ortb.net                                           #Tracker
 tracking.journy.io                                             #Tracker
 trackjs.com                                                    #Tracker
+trck.a8.net                                                    #Tracker
 usermaven.com                                                  #Tracker
 wecantrack.com                                                 #Tracker
 we-stats.com                                                   #Tracker
