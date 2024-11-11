@@ -366,6 +366,8 @@ sp.auth.adobe.com                                    #Adobe - Login Sites
 swupmf.adobe.com                                     #Adobe - Updates
 cctypekit.adobe.io                                   #Adobe - Breaks uploads (Website)
 rdc.adobe.io                                         #Adobe - Breaks advanced download (Website)
+pdfnow.adobe.io                                      #Adobe - Convert PDF to Docx
+prod.adobeccstatic.com                               #Adobe - Convert PDF to Docx
 ccmdl.adobe.com                                      #Adobe - Creative Cloud (Downloads)
 ae01.alicdn.com                                      #AliExpress - Images
 gannett-cdn.com                                      #Argus Leader - Breaks site
