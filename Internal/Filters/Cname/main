@@ -1,3 +1,4 @@
+alibaba.com                                                    #Generic
 alibabadns.com                                                 #Generic
 aliyuncs.com                                                   #Generic
 azurewebsites.net                                              #Generic
@@ -5,8 +6,11 @@ casmp.adperfect.com                                            #Generic
 cdn77.org                                                      #Generic
 cloudflare.net                                                 #Generic
 edgekey.net                                                    #Generic
+fastly.net                                                     #Generic
 ghs.googlehosted.com                                           #Generic
 google.com                                                     #Generic
+herokudns.com                                                  #Generic
+impervadns.net                                                 #Generic
 podbean.com                                                    #Generic
 proxy-ssl.webflow.com                                          #Generic
 sites.hubspot.net                                              #Generic
@@ -17,12 +21,17 @@ vercel-dns.com                                                 #Generic
 wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
+zoho.eu                                                        #Generic
 
 connectedcommunity.org                                         #Redirect
 dom.bandcamp.com                                               #Redirect
 higherlogic.com                                                #Redirect
 
+auth0.com                                                      #Ignore
+gigya-api.com                                                  #Ignore
 lloydsbanking.com                                              #Ignore
+okta.com                                                       #Ignore
+oktapreview.com                                                #Ignore
 schoolwires.com                                                #Ignore
 townsquaremedia.com                                            #Ignore
 
@@ -39,6 +48,7 @@ parking.everad.com                                             #Parked
 rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
 
+actonservice.com                                               #ActOn
 popcashjs.b-cdn.net                                            #Ad_PopCash
 custom.bnc.lt                                                  #BNC
 thirdparty.bnc.lt                                              #BNC
@@ -175,3 +185,4 @@ wecantrack.com                                                 #Tracker
 we-stats.com                                                   #Tracker
 whs.sendergen.com                                              #Tracker
 wizaly.com                                                     #Tracker
+looker.com                                                     #Tracker
