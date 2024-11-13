@@ -4,7 +4,9 @@ aliyuncs.com                                                   #Generic
 azurewebsites.net                                              #Generic
 casmp.adperfect.com                                            #Generic
 cdn77.org                                                      #Generic
+cdn.adobeaemcloud.com                                          #Generic
 cloudflare.net                                                 #Generic
+domains.transistor.fm                                          #Generic
 edgekey.net                                                    #Generic
 fastly.net                                                     #Generic
 ghs.googlehosted.com                                           #Generic
@@ -13,6 +15,7 @@ herokudns.com                                                  #Generic
 impervadns.net                                                 #Generic
 podbean.com                                                    #Generic
 proxy-ssl.webflow.com                                          #Generic
+s3-1-w.amazonaws.com                                           #Generic
 sites.hubspot.net                                              #Generic
 squarespace.com                                                #Generic
 substack-custom-domains.com                                    #Generic
@@ -22,7 +25,6 @@ wixdns.net                                                     #Generic
 wpenginepowered.com                                            #Generic
 wpeproxy.com                                                   #Generic
 zoho.eu                                                        #Generic
-s3-1-w.amazonaws.com                                           #Generic
 
 connectedcommunity.org                                         #Redirect
 dom.bandcamp.com                                               #Redirect
@@ -46,6 +48,7 @@ expired.gname.net                                              #Parked
 expired.hichina.com                                            #Parked
 hugedomains.com                                                #Parked
 parking.everad.com                                             #Parked
+parkingsrv0.dondominio.com                                     #Parked
 rdtk.io                                                        #Parked
 urlforward.namebright.com                                      #Parked
 
@@ -54,10 +57,16 @@ popcashjs.b-cdn.net                                            #Ad_PopCash
 custom.bnc.lt                                                  #BNC
 thirdparty.bnc.lt                                              #BNC
 dnsdelegation.io                                               #Criteo
+clickfunnels.com                                               #ClickFunnels
 eloqua.com                                                     #Eloqua
+mailgun.org                                                    #MailGun
 d25tro63an750f.cloudfront.net                                  #MovableInk
 pardot.com                                                     #Pardot
 privacy-mgmt.com                                               #PrivacyMgmt
+sailthru.com                                                   #SailThru
+saleshandy.com                                                 #SalesHandy
+salesforce.com                                                 #SalesForce
+salesforce-scrt.com                                            #SalesForce
 
 api.elasticemail.com                                           #Links
 click.postup.com                                               #Links
@@ -87,7 +96,9 @@ mktoweb.com                                                    #Company [Marketi
 hosted-checkout.stripecdn.com                                  #Company [Payment System]
 domains.smugmug.com                                            #Company [Photography]
 ext.teamtailor.com                                             #Company [Recruiting]
+statuspage.betteruptime.com                                    #Company [Service]
 cname.thebase.in                                               #Company [Shopping]
+schoolblocks.com                                               #Company [Web Design]
 
 
 
