@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 298
-# Updated: 11/7/2024  16:52 (4:52 PM CST)
+# Domains: 299
+# Updated: 11/13/2024  21:42 (9:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -276,6 +276,7 @@ clan.su                                        #Website Builder
 cloversites.com                                #Website Builder
 doodlekit.com                                  #Website Builder
 droppages.com                                  #Website Builder
+framer.website                                 #Website Builder
 getshogun-cache-production.s3.amazonaws.com    #Website Builder
 homeworkgenerator.co.uk                        #Website Builder
 hypermart.net                                  #Website Builder

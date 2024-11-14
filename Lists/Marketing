@@ -1,8 +1,8 @@
 #
 #    File: Marketing
 #    Info: Web Marketing / Ebay Listing Tools
-# Domains: 321
-# Updated: 11/7/2024  12:48 (12:48 PM CST)
+# Domains: 322
+# Updated: 11/13/2024  21:42 (9:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Marketing
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -43,12 +43,6 @@ idio.co            #Idio
 quarticon.com      #Quarticon
 silveregg.net      #Silver Egg Technology
 silveregg.co.jp    #Silver Egg Technology
-
-
-##############################
-#  Chatbot
-##############################
-headlinerlabs.com   #Headliner Labs
 
 
 ##############################
@@ -430,7 +424,7 @@ emfluence.com                 #Emfluence
 repeatreturns.com      #Repeat Returns
 loyaltypath.com        #Repeat Returns
 ########################
-embedsocial.com        #Reviews (On olightstore.com)
+embedsocial.com        #Reviews (olightstore.com)
 ########################
 acoustic.com           #Acoustic
 mkt81.net              #Acoustic
@@ -448,5 +442,7 @@ marketolive.com
 overflowworks.com
 preapps.com
 rubicon.com
+slgnt.eu
+slgnt.us
 smark.io
 smrk.io
