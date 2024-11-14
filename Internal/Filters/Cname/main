@@ -115,25 +115,26 @@ ext.teamtailor.com                                             #Company [Recruit
 recruitology.com                                               #Company [Recruiting]
 statuspage.betteruptime.com                                    #Company [Service]
 cname.thebase.in                                               #Company [Shopping]
+qualtrics.com                                                  #Company [Survey]
 schoolblocks.com                                               #Company [Web Design]
-
-
 
 
 #####################################################
 # Block
 #####################################################
 
+adservrs.com                                                   #Ad-RootServ
+
 0i0i0i0.com                                                    #Ad
 adbutler.com                                                   #Ad
 adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
-adservrs.com                                                   #Ad
 adsrv.eacdn.com                                                #Ad
 ads.vg.no                                                      #Ad
 aimatch.com                                                    #Ad
 amazon-adsystem.com                                            #Ad
 api.clickaine.com                                              #Ad
 aquaplatform.com                                               #Ad
+bidder.gsh.io                                                  #Ad
 bs-adserver.b-cdn.net                                          #Ad
 client.grv.media                                               #Ad
 engine.adglare.net                                             #Ad
@@ -141,11 +142,18 @@ postrelease.com                                                #Ad
 rs-stripe.com                                                  #Ad
 servedbyadbutler.com                                           #Ad
 share.bannersnack.com                                          #Ad
+smartadserver.com                                              #Ad
 tenmax.io                                                      #Ad
+unoadsrv.com                                                   #Ad
 unrulyvideo.com                                                #Ad
 with.contentpass.net                                           #Ad
+adtelligent.com                                                #Ad
+reviveservers.com                                              #Ad
+aqua-adserver.com                                              #Ad
+adloop.co                                                      #Ad
 
 native.wpu.sh                                                  #Malware
+rollserver.xyz                                                 #Malware
 
 250analytics.com                                               #Tracker
 2o7.net                                                        #Tracker
