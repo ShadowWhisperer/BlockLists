@@ -57,6 +57,7 @@ thirdparty.bnc.lt                                              #BNC
 dnsdelegation.io                                               #Criteo
 mail2easy.com.br                                               #Mail2Easy
 d25tro63an750f.cloudfront.net                                  #MovableInk
+d7b4oen68ez9x.cloudfront.net                                   #MovableInk
 pardot.com                                                     #Pardot
 privacy-mgmt.com                                               #PrivacyMgmt
 salesforce.com                                                 #SalesForce
@@ -127,18 +128,23 @@ adservrs.com                                                   #Ad-RootServ
 
 0i0i0i0.com                                                    #Ad
 adbutler.com                                                   #Ad
+adloop.co                                                      #Ad
 adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
+adsninjacdn.b-cdn.net                                          #Ad
 adsrv.eacdn.com                                                #Ad
 ads.vg.no                                                      #Ad
+adtelligent.com                                                #Ad
 aimatch.com                                                    #Ad
 amazon-adsystem.com                                            #Ad
 api.clickaine.com                                              #Ad
+aqua-adserver.com                                              #Ad
 aquaplatform.com                                               #Ad
 bidder.gsh.io                                                  #Ad
 bs-adserver.b-cdn.net                                          #Ad
 client.grv.media                                               #Ad
 engine.adglare.net                                             #Ad
 postrelease.com                                                #Ad
+reviveservers.com                                              #Ad
 rs-stripe.com                                                  #Ad
 servedbyadbutler.com                                           #Ad
 share.bannersnack.com                                          #Ad
@@ -147,10 +153,6 @@ tenmax.io                                                      #Ad
 unoadsrv.com                                                   #Ad
 unrulyvideo.com                                                #Ad
 with.contentpass.net                                           #Ad
-adtelligent.com                                                #Ad
-reviveservers.com                                              #Ad
-aqua-adserver.com                                              #Ad
-adloop.co                                                      #Ad
 
 native.wpu.sh                                                  #Malware
 rollserver.xyz                                                 #Malware
@@ -191,6 +193,7 @@ first-party-js.datadome.co                                     #Tracker
 fp-cdn.azureedge.net                                           #Tracker
 fp-cdn-mng1.azureedge.net                                      #Tracker
 fp-cdn-mng2.azureedge.net                                      #Tracker
+fpt.dfp.microsoft.com                                          #Tracker
 g2insights-cdn.azureedge.net                                   #Tracker
 g2insights-cdn-mng1.azureedge.net                              #Tracker
 g2insights-cdn-mng2.azureedge.net                              #Tracker
@@ -207,6 +210,7 @@ log.aliyuncs.com                                               #Tracker
 log-global.aliyuncs.com                                        #Tracker
 looker.com                                                     #Tracker
 mautic.net                                                     #Tracker
+mparticle.map.fastly.net                                       #Tracker
 nc0.co                                                         #Tracker
 netinsight.co.kr                                               #Tracker
 nineanalytics.io                                               #Tracker
@@ -243,5 +247,5 @@ wecantrack.com                                                 #Tracker
 we-stats.com                                                   #Tracker
 whs.sendergen.com                                              #Tracker
 wizaly.com                                                     #Tracker
+lightning.warnermediacdn.com                                   #Tracker
 wt-eu02.net                                                    #Tracker
-mparticle.map.fastly.net                                       #Tracker

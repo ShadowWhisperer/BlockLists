@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,088
-# Updated: 11/14/2024  14:38 (2:38 PM CST)
+# Domains: 95,118
+# Updated: 11/14/2024  16:26 (4:26 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13466,6 +13466,7 @@ api.techet.net
 api-track.hygraph.com
 api-track.linke.ai
 api-triangle.canadiantire.ca
+api-us.addx.live
 api.us-east-1.aiv-delivery.net
 api.v1.threatmetrix.space.ge
 api-v3.tinypass.com
@@ -14403,6 +14404,7 @@ backend.zaczytaj.pl
 backstory.ebay.at
 backstory.ebay.ca
 backstory.ebay.com
+backstory.ebay.com.au
 backstory.ebay.com.hk
 backstory.ebay.co.uk
 backstory.ebay.de
@@ -17303,6 +17305,7 @@ conference.flsmidth.com
 confesschairs.com
 confiant.com
 confiant-integrations.net
+config2.cheatmyvegas.com
 config.claspws.tv
 config.edge.skype.com
 config.edge.skype.com.trafficmanager.net
@@ -18673,6 +18676,7 @@ crow.manuel-metzger.com
 crow.themarbleking.com
 crow.voracious.dev
 crrnt.app
+crs.cr.adobe.com
 crsspxl.com
 crumbs.robinhood.com
 c.ru.msn.com
@@ -21601,6 +21605,7 @@ deviatetracking.com
 deviceatlas.com
 devicebind.ebay.com
 devicecontent.icuracao.com
+devicefingerprint.pay.checkout.worldline-solutions.com
 deviceid.ff.avast.com
 device.invoice2go.com
 device.messa.org
@@ -21637,11 +21642,13 @@ df.fragrancex.com
 df.greenmangaming.com
 dfm7wh2x5l4za.cloudfront.net
 dfme.kleinanzeigen.de
+dfpconsumer.intel.com
 dfp.mcdonalds.fr
 dfp.myshopline.com
 dfp.s-budget-mobile.at
 dfp.telering.at
 dfp.t-mobile.at
+dfp.uionline.detma.org
 df-srv.de
 df.thumbtack.com
 dfw.bakerbrothersplumbing.com
@@ -24703,6 +24710,8 @@ fps-prod-na-frontdoor.z01.azurefd.net
 fp.sun-sentinel.com
 fpt2.microsoft.com
 fpt.absa.co.za
+fpt.bumper.com
+fpt.bushnell.com
 fpt.dfp.microsoft.com
 fp.themorningsun.com
 fp.thenewsherald.com
@@ -24715,6 +24724,11 @@ fp.timesheraldonline.com
 fp.times-standard.com
 fptls3.com
 fptls.com
+fpt.neighborwho.com
+fpt.numberguru.com
+fpt.ownerly.com
+fpt.peoplelooker.com
+fpt.remington.com
 fp.trentonian.com
 fp.troyrecord.com
 fp.twincities.com
@@ -24875,6 +24889,7 @@ fun.supercamps.co.uk
 furnishings.bellacor.com
 furryfork.com
 furryhorses.com
+f.us.coca-cola.com
 fuse.davos.ch
 fusedeck.net
 fuse.emilfrey.ch
@@ -26989,6 +27004,7 @@ identification.hotmart.com
 identity2.citidirect.com
 identity3.citidirect.com
 identity.ads.roku.com
+identity.cheatmyvegas.com
 identity.nel.measure.office.net
 identity.netlify.com
 identity.prod.platform.ext.mobilityware.com
@@ -31067,6 +31083,7 @@ ip-api.io
 ip-api.streamingucms.com
 ip.apps.cntv.cn
 ip-a.pw
+i.paypal.com
 ip.bablosoft.com
 ipbase.com
 ip.bjango.com
@@ -32260,6 +32277,7 @@ lightning.cartoonnetwork.ro
 lightning.cartoonnetwork.se
 lightning.cnn.com
 lightning.hbomax.com
+lightning.ncaa.com
 lightning.tcm.com
 lightning.warnermediacdn.com
 lightning.warnertv.de
@@ -40771,6 +40789,7 @@ mite.tetrameros.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
 mittencattle.com
+mi.ulta.com
 mivo-ts.mitarbeitervorteile.de
 mix-app.holocron.it
 mixedreading.com
@@ -51818,6 +51837,7 @@ moxiesoft.com
 mp.able-group.de
 mparticle.com
 mparticle.map.fastly.net
+mparticle.weather.com
 m-pathy.com
 mp-c.info
 mpctrak.com
@@ -52218,6 +52238,7 @@ nathanprats.com
 nathanroberton.com
 nationallistservices.com
 native.ai
+nativesdks.cheatmyvegas.com
 native-track.com
 natsp.xing.com
 nats.xing.com
@@ -67828,6 +67849,7 @@ secure.poor5zero.com
 secure.raab3frog.com
 secure.rals4alum.com
 secure.rate2self.com
+secure.rate8deny.com
 secure.realwomenofphiladelphia.ca
 secure.realwomenofphiladelphia.com
 secure.rear9axis.com
@@ -73709,6 +73731,7 @@ srv.squaretrade.com
 srvsynd.com
 srvtrck.com
 srv.uk.ebayrtm.com
+srx.main.ebayrtm.com
 ssa.animalplanet.com
 ssa.asianfoodnetwork.com
 s.sachem.ca
@@ -84923,6 +84946,7 @@ synthesizescarecrow.com
 synthesizespoon.com
 s.yorkregion.com
 s.youtube.com
+s.youtubeeducation.com
 sypexgeo.net
 sysearch-app2.squareyards.com
 sysstat.tildacdn.com
@@ -85547,7 +85571,10 @@ t.db-gruppen.de
 td.bicycling.com
 tdbtf.ta3swim.com
 tdbtrk.com
+td.caranddriver.com
 td.cosmopolitan.com
+td.countryliving.com
+td.delish.com
 t.decider.com
 t.deem.com
 td.elle.com
@@ -85578,6 +85605,7 @@ td.prevention.com
 td.roadandtrack.com
 td.runnersworld.com
 td.seventeen.com
+td.thepioneerwoman.com
 td.townandcountrymag.com
 td.veranda.com
 td.womansday.com
@@ -86247,6 +86275,7 @@ tlamsi3.com
 tla.traderlink.com
 t.lebara.ch
 t.lenovo.com
+tl.foxbusiness.com
 tl.foxnews.com
 t.liberty.com.au
 tlnk.io
@@ -88382,6 +88411,7 @@ tu.tungsram.com
 t.valcyte.com
 tv-api.blivenyc.com
 t.varonis.com
+t.vibe.co
 tvisioninsights.co.jp
 tvisioninsights.com
 t.visx.net

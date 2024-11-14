@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,334
-# Updated: 11/14/2024  15:40 (3:40 PM CST)
+# Domains: 20,337
+# Updated: 11/14/2024  16:26 (4:26 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -8317,6 +8317,8 @@ cdn-plus.roxot-panel.com
 cdn-promote.weebly.com
 cdnpv.com
 cdn.sdtraff.com
+cdn.sentinelbi.com
+cdn.sentinelp.com
 cdn-server.cc
 cdn-server.info
 cdn-server.top
@@ -18031,6 +18033,7 @@ sync.bidmatic.io
 sync.etalonco.com
 sync.etalonconsulting.com
 synchromesh.com.au
+sync.ortb.152media.info
 sync.partyetalon.com
 sync.sumetalon.com
 sync.teads.tv.edgekey.net
