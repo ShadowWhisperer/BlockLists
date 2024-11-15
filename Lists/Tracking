@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 95,125
-# Updated: 11/14/2024  23:06 (11:06 PM CST)
+# Domains: 95,173
+# Updated: 11/15/2024  14:46 (2:46 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1768,6 +1768,7 @@ a8.vector-park.jp
 a8.vinew.jp
 a8.virus-gekitai.com
 a8.volstar.jp
+a8.vtuber.sexy
 a8wakiga.ike-sunshine.co.jp
 a8.watero.pet
 a8.waterstand.jp
@@ -21668,6 +21669,7 @@ dh.clean-area.jp
 d.hello.plowandhearth.com
 dhqbrvplips7x.cloudfront.net
 di0trk.com
+di2.zooplus.es
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 diagnostics.office.com
@@ -21784,6 +21786,27 @@ dii1.zoochic-eu.ru
 dii1.zoohit.cz
 dii1.zoohit.si
 dii1.zoohit.sk
+dii1.zooplus.at
+dii1.zooplus.be
+dii1.zooplus.bg
+dii1.zooplus.ch
+dii1.zooplus.com
+dii1.zooplus.co.uk
+dii1.zooplus.de
+dii1.zooplus.dk
+dii1.zooplus.fi
+dii1.zooplus.fr
+dii1.zooplus.gr
+dii1.zooplus.hr
+dii1.zooplus.hu
+dii1.zooplus.ie
+dii1.zooplus.it
+dii1.zooplus.nl
+dii1.zooplus.no
+dii1.zooplus.pl
+dii1.zooplus.pt
+dii1.zooplus.ro
+dii1.zooplus.se
 dii2.bitiba.be
 dii2.bitiba.ch
 dii2.bitiba.co.uk
@@ -21841,6 +21864,7 @@ dii3.zoochic-eu.ru
 dii3.zoohit.cz
 dii3.zoohit.si
 dii3.zoohit.sk
+dii3.zooplus.nl
 dii4.bitiba.be
 dii4.bitiba.ch
 dii4.bitiba.co.uk
@@ -38192,6 +38216,7 @@ mc.lesphinx-developpement.fr
 mc.medicanow.com
 mcmetrika.ru
 mc.myclinicalexchange.com
+m.communications.ihmvcu.org
 mcorpcx.com
 mc.payoff.com
 mcssl.com
@@ -38206,6 +38231,7 @@ mc.yandex.com
 mc.yandex.md
 mc.yandex.ru
 mczbf.com
+m.delltechnologies.com
 m.destinocerto.com.br
 mdf-analytics.rheindenken-digital.de
 mdh-pa.googleapis.com
@@ -38513,6 +38539,7 @@ med.teflaro.com
 med.viibryd.com
 med.viibrydhcp.com
 med.vraylar.com
+m.edweek.org
 meerkat.bigcrazylife.com
 meerkat.inprivy.io
 meerkat.missinglettr.com
@@ -38875,6 +38902,7 @@ metrics.ancestry.de
 metrics.angara.com
 metrics.angelinaballerina.com
 metrics.anhi.org
+metrics.animagazin.ru
 metrics.animalnetwork.com
 metrics.animatron.com
 metrics.anixter.com
@@ -39532,6 +39560,7 @@ metrics.hayesandjarvis.co.uk
 metrics.hbf.com.au
 metrics.hbogo.com
 metrics.hbogola.com
+metrics.hbs.edu
 metrics.hctra.org
 metrics.healthengine.com.au
 metrics.healthnet.com
@@ -40614,6 +40643,7 @@ metrics.writersdigest.com
 metrics.writersdigestshop.com
 metrics.wu.com
 metrics.wwltv.com
+metrics.www.apus.edu
 metrics.www.career-education.monster.com
 metrics.wwwishbone.com
 metrics.www.vwfs.de
@@ -51711,6 +51741,7 @@ mole.vcntlee.com
 mole.venturini.dev
 mollusk.forwardmx.io
 mollusk.working.actor
+m.olympia.it
 mom365mail.com
 momently.com
 momently.info
@@ -51951,6 +51982,7 @@ mtm.walls.io
 mto.cgv.vn
 mto.philippfankhauser.com
 mto.podcaster.de
+m.topschooljobs.org
 mto.videobuster.de
 mtp-98-nodeagile.top
 mtp.murrelektronik.com
@@ -63844,6 +63876,7 @@ potential.tier1performance.com
 potloc.com
 potomac-clickstream.capitalone.com
 pov.spectrum.net
+powa-ingest-prod-us-east-1.video-player.arcpublishing.com
 powderjourney.com
 powderprofit.com
 poweranalytics.com
@@ -69738,6 +69771,7 @@ smetrics.c2fo.com
 smetrics.cadenadial.com
 smetrics.cadenaser.com
 smetrics.cahealthwellness.com
+smetrics.calbaptist.edu
 smetrics.caleres.com
 smetrics.calia.com
 smetrics.caliastudio.com
@@ -69754,6 +69788,7 @@ smetrics.camzyoshcp.com
 smetrics.camzyosrems.com
 smetrics.canikur.de
 smetrics.canosan.de
+smetrics.capella.edu
 smetrics.capitalone.com
 smetrics.captiveriskltd.com
 smetrics.caracol.com.co
@@ -70478,6 +70513,8 @@ smetrics.hawthorn.com
 smetrics.hayesandjarvis.co.uk
 smetrics.hbogo.com
 smetrics.hbonow.com
+smetrics.hbs.edu
+smetrics.hbsp.harvard.edu
 smetrics.hctra.org
 smetrics.hdcymru.co.uk
 smetrics.h-dnet.com
@@ -70728,6 +70765,7 @@ smetrics.kebuena.com.mx
 smetrics.kegerator.com
 smetrics.kelownachev.com
 smetrics.kelownatoyota.com
+smetrics.kendall.edu
 smetrics.kerry.com
 smetrics.ketsusen.jp
 smetrics.keysight.co.jp
@@ -71481,6 +71519,7 @@ smetrics.pharmacysatisfaction.com
 smetrics.pharmapremiasolution.com
 smetrics.pharmawebportal.com
 smetrics.phesgo.com
+smetrics.phoenix.edu
 smetrics.phoenix.gov
 smetrics.phoenixinwest.de
 smetrics.photos.com
@@ -72572,6 +72611,8 @@ smetrics.wegmans.com
 smetrics.welivewithsz.com
 smetrics.wellcareky.com
 smetrics.westbred.com
+smetrics.westcoastuniversity.edu
+smetrics.west.edu
 smetrics.westelm.ca
 smetrics.westelm.com
 smetrics.westernaustralia.com
@@ -72580,8 +72621,10 @@ smetrics.westernfarmpress.com
 smetrics.westernskycommunitycare.com
 smetrics.westernunion.com
 smetrics.westgateresorts.com
+smetrics.westminstercollege.edu
 smetrics.westpac.com.au
 smetrics.westpacgroup.com.au
+smetrics.wgu.edu
 smetrics.whatsappsim.de
 smetrics.wheatleyvodka.com
 smetrics.whitbreadinns.co.uk
@@ -72626,6 +72669,8 @@ smetrics.wsib2b.com
 smetrics.wszechnica.roche.pl
 smetrics.wu.com
 smetrics.wunetspendprepaid.com
+smetrics.www.apus.edu
+smetrics.www.hondros.edu
 smetrics.www.vwfs.de
 smetrics.wyndham.com
 smetrics.wyndhamhotelgroup.com
@@ -74168,6 +74213,7 @@ sstats.fishersci.pt
 sstats.fishersci.se
 sstats.franklincovey.com
 sstats.gaba.co.jp
+sstats.getty.edu
 sstats.girls1st.com
 sstats.girls1st.dk
 sstats.girls1st.no
@@ -74221,6 +74267,7 @@ sstats.mistergooddeal.com
 sstats.mora.jp
 sstats.mt.com
 sstats.myafco.com
+sstats.myfidm.fidm.edu
 sstats.nalgene.com
 sstats.nana.fr
 sstats.nana-maghreb.com
@@ -80823,6 +80870,7 @@ stats.mycrypnet.io
 stats.mydienstwagen.de
 stats.my-etw.de
 stats.myfengshui.ch
+stats.myfidm.fidm.edu
 stats.mygaia.org
 stats.my-health.ch
 stats.myhonda.de
