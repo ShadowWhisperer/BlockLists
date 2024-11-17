@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 441
-# Updated: 11/13/2024  21:42 (9:42 PM CST)
+# Domains: 430
+# Updated: 11/17/2024  01:31 (1:31 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13,7 +13,6 @@
 247-inc.com
 247-inc.net
 8x8.com
-accdn.lpsnmedia.livepersonk.akadns.net
 accpi.org
 activengage.com
 ada.cx
@@ -48,7 +47,6 @@ boldchat.com
 boost.ai
 botbanhang.vn
 botcopy.com
-bot.ebilobster.ai
 botframework.com
 botfuse.com
 botmind.io
@@ -64,10 +62,8 @@ cbox.co.za
 cbox.ws
 centribal.com
 chaport.com
-chat01.salesmanago.com
 chat.24liveblog.com
 chat2desk.com
-chat50.realperson.de
 chatagents.compassion.com
 chatango.com
 chat.api.autohome.com.cn
@@ -82,7 +78,6 @@ chatbotbase.com
 chatbot-cdn.lmiutil.com
 chatbot.com
 chat-bot.contact-module.ibm.com
-chatbot.dev.metalyzer.com
 chatbot.ecom-mobile-samsung.com
 chatbot.funnelleasing.com
 chatbotize.com
@@ -98,7 +93,6 @@ chatbottudong.novaonx.com
 chatbro.com
 chatbullet.com
 chat-cf.dealercenter.net
-chat.chatovod.ru
 chat.convertfox.com
 chatdealer.jp
 chat.dermstore.com
@@ -106,7 +100,6 @@ chated.io
 chat.freshdesk.com
 chatgen.ai
 chatgen-cdn.azureedge.net
-chat.gosquared.com
 chat.icedrive.net
 chatidcdn.com
 chatid.com
@@ -115,13 +108,11 @@ chatling.ai
 chatlio.com
 chat.modelcentro.com
 chat.outboundengine.com
+chatovod.ru
 chatpath.com
 chatplus.jp
-chat-proxy-service.thulium.com
 chatra.io
 chat.rumahweb.com
-chatserver11.comm100.io
-chatserver1.comm100.io
 chat.sharpen.cx
 chat.smithville.com
 chat.stream-io-api.com
@@ -134,14 +125,12 @@ chat-us.libanswers.com
 chat.webdive.de
 chatwebsbcm.sbdesignsquare.com
 chat-widget.stb.gov.sg
-chat-widget.thulium.com
 chatwidget.woolworths.com.au
 chatwing.com
 chat.x-kom.pl
 chat.xsolla.com
 chaty.app
 chat.ybsales.net
-checkbot.gosquared.com
 clare.ai
 clickdesk.com
 cliengo.com
@@ -149,6 +138,7 @@ clientchatlive.com
 clients-liveguide01us.netop.com
 cobrowse.oraclecloud.com
 comm100.com
+comm100.io
 contactatonce.com
 continual.ly
 contrib.ai
@@ -171,14 +161,13 @@ d36jdncz9n0vtx.cloudfront.net
 d3gdddol7ipjoy.cloudfront.net
 dbrd449anfbv4.cloudfront.net
 dealereprocesschat.com
-delightchat.io
+directtalk.com.br
 dixa.com
 dixa.io
 dlnwzkim0wron.cloudfront.net
 doyoudreamup.com
 drift.com
 driftt.com
-dtbot.directtalk.com.br
 dydu.ai
 eassistancepro.com
 ebbot.ai
@@ -225,6 +214,7 @@ helloumi.com
 helpcrunch.com
 helpscout.net
 heyday.ai
+hiplatform.com
 hpchatbot.com
 hyro.ai
 iadvize.com
@@ -235,6 +225,7 @@ imichat.io
 imimobile.com
 inbenta.io
 incontact.com
+infobip.com
 inforobo.com
 instabot.io
 inteliwise.com
@@ -249,7 +240,6 @@ inthechat.com
 ivy.ai
 jivochat.com
 jivosite.com
-jsonp.contactatonce.com
 kapa.ai
 kayakocdn.com
 kayako.com
@@ -268,10 +258,8 @@ lithium.facebook.com
 live2support.com
 livechat.com
 livechat.cyberfolks.pl
-livechat-fr.infobip.com
 livechatinc.com
 livechatinc.net
-livechat.infobip.com
 livechat.innoscale.net
 livechat.ivpn.net
 livechat.messagebird.com
@@ -283,6 +271,7 @@ livechat.zen.co.uk
 live.hammer-corp.com
 livehelp.it
 liveperson.com
+livepersonk.akadns.net
 liveperson-liveengage.s3.amazonaws.com
 liveperson.net
 livesupport.com
@@ -292,7 +281,6 @@ livezhat.com
 livezilla.net
 lookery.com
 loyjoy.com
-lpcdn.lpsnmedia.livepersonk.akadns.net
 lpsnmedia.net
 lucy.ai
 manychat.com
@@ -357,6 +345,7 @@ raychat.io
 reachlocallivechat.com
 ready-chat.appspot.com
 reallygoodchatbots.com
+realperson.de
 reamaze.com
 reamaze.io
 revechat.com
@@ -406,6 +395,7 @@ tellme.com
 textchat.ai
 textrequest.com
 thelivechatsoftware.com
+thulium.com
 tidiochat.com
 tidio.co
 tidio.com
@@ -437,7 +427,6 @@ webchat.scheduleengine.net
 web-chat-tag-cdn.s3.eu-west-1.amazonaws.com
 web-chat-tuio-2019.firebaseio.com
 webim.ru
-webmecanik.inbenta.com
 whoson.com
 widget-ami-pro.mapfre.es
 widgets.binotel.com
