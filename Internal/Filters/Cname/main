@@ -29,6 +29,7 @@ zoho.eu                                                        #Generic
 connectedcommunity.org                                         #Redirect
 dom.bandcamp.com                                               #Redirect
 higherlogic.com                                                #Redirect
+webredir.gandi.net                                             #Redirect
 
 auth0.com                                                      #Ignore
 gigya-api.com                                                  #Ignore
@@ -166,6 +167,8 @@ with.contentpass.net                                           #Ad
 adnxs.com                                                      #Ad
 eskimi.com                                                     #Ad
 pexi.nl                                                        #Ad
+
+realdates4you.com                                              #Adult
 
 abimimojo2.com                                                 #Malware
 abimimojo.com                                                  #Malware
