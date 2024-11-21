@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 735
-# Updated: 11/20/2024  19:09 (7:09 PM CST)
+# Domains: 733
+# Updated: 11/21/2024  11:42 (11:42 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -121,8 +121,6 @@ linksalpha.com                                          #Webpages - Social Media
 media.line.naver.jp                                     #Webpages - Social Media
 opensharecount.com                                      #Webpages - Social Media
 pluso.ru                                                #Webpages - Social Media
-sharethis.com                                           #Webpages - Social Media
-sharethis.net                                           #Webpages - Social Media
 twitcount.com                                           #Webpages - Social Media
 uptolike.com                                            #Webpages - Social Media
 uptolike.ru                                             #Webpages - Social Media
