@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 736
-# Updated: 10/29/2024  11:11 (11:11 AM CST)
+# Domains: 735
+# Updated: 11/20/2024  19:09 (7:09 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -555,7 +555,6 @@ print-data.houston.hp.com                               #HP
 static.dataservices.hp.com                              #HP
 www-hpcom.glb1.hp.com                                   #HP
 graph.instagram.com                                     #Instagram
-dsadata.intel.com                                       #Intel   [Software]  Driver & Suport Assistant
 api.intelsa.intel.com                                   #Intel   [Software]  Security Assistant
 tkassets.com                                            #Intel   [Software]  True Key
 gameplayapi.intel.com                                   #Intel   Game Graphics Optimization Check
