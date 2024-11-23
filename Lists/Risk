@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 201
-# Updated: 11/4/2024  12:33 (12:33 PM CST)
+# Domains: 202
+# Updated: 11/22/2024  19:43 (7:43 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -244,6 +244,7 @@ download.c3pool.com                       #Bitcoin Miner (Legit) - Used by compr
 cardlesspaytech.com                       #Money Transfer  (Seen used in Tech Support Scam)
 remitly.com                               #Money Transfer  (Seen used in Tech Support Scam)
 remitly.io                                #Money Transfer  (Seen used in Tech Support Scam)
+xe.com                                    #Money Transfer  (Seen used in Tech Support Scam)
 
 abcex.io                                  #Bitcoin to cash conversions
 bitmoneyekb.com                           #Bitcoin to cash conversions
