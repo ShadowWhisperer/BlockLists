@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 202
-# Updated: 11/22/2024  19:43 (7:43 PM CST)
+# Domains: 213
+# Updated: 11/27/2024  12:49 (12:49 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -118,6 +118,7 @@ aapks.com                                        #APK Hosting (Android Apps)
 apkcombo.com                                     #APK Hosting (Android Apps)
 apkcombo.org                                     #APK Hosting (Android Apps)
 apkflash.com                                     #APK Hosting (Android Apps)
+apks.software                                    #APK Hosting (Android Apps)
 uptodown.com                                     #APK Hosting (Android Apps)
 
 zde.cz                                           #Redirector
@@ -157,10 +158,20 @@ oovoo.com                                        #Software Hosting
 qarchive.org                                     #Software Hosting
 sftapi.com                                       #Software Hosting
 soft32download.com                               #Software Hosting
+softonic.cn                                      #Software Hosting
+softonic.com.br                                  #Software Hosting
 softonic.com                                     #Software Hosting
+softonic.com.tr                                  #Software Hosting
+softonic.de                                      #Software Hosting
+softonic.fr                                      #Software Hosting
 softonic.info                                    #Software Hosting
 softonic.it                                      #Software Hosting
+softonic.jp                                      #Software Hosting
+softonic.kr                                      #Software Hosting
 softoniclabs.com                                 #Software Hosting
+softonic.nl                                      #Software Hosting
+softonic.pl                                      #Software Hosting
+softonic.ru                                      #Software Hosting
 softpedia.com                                    #Software Hosting
 vessoft.com                                      #Software Hosting
 vessoftstatic.com                                #Software Hosting
