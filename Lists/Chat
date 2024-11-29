@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 437
-# Updated: 11/22/2024  19:43 (7:43 PM CST)
+# Domains: 438
+# Updated: 11/29/2024  12:23 (12:23 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -274,6 +274,7 @@ livechat.middle.host
 livechatoo.com
 livechat-static.com
 live-chat-static.sprinklr.com
+live-chat-tooling.api.dgs.ig.com
 livechat.zen.co.uk
 live.hammer-corp.com
 livehelp.it
