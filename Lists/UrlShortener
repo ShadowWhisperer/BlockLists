@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,392
-# Updated: 11/27/2024  12:49 (12:49 PM CST)
+# Domains: 3,393
+# Updated: 12/7/2024  23:57 (11:57 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2680,6 +2680,7 @@ spdurl.com
 spidz.xyz
 splitterhq.com
 spotifypigeon.live
+spr.ly
 sproutingdiscipleship.com
 spx.re
 spyw.com
