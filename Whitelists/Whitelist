@@ -134,6 +134,7 @@ web-experience.itunes.apple.com                     #Apple   Website (Images)
 notifications-pa.googleapis.com                  #Google   2FA - Sends notification to phone/tablet
 cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
 ota-cache1.googlezip.net                         #Google   Android (System Updates)
+androidtvlauncherxfe-pa.googleapis.com           #Google   Android (Check for internet)
 play-lh.googleusercontent.com                    #Google   Android Store Images
 tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
 tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
@@ -330,6 +331,7 @@ l.facebook.com                                      Facebook    Breaks Links
 b-graph.facebook.com                                Facebook    Breaks App
 graph.facebook.com                                  Facebook    Breaks App
 web.facebook.com                                    Facebook    Messenger App (Login)
+rupload.facebook.com                                Facebook    Messenger (Upload pictures)
 web-chat-e2ee.facebook.com                          Facebook    Breaks 'To' in messages
 edge-chat.instagram.com                             Facebook    Breaks previous messages
 kaios-d.facebook.com                                Facebook    Breaks Marketplace on phone *Browser
