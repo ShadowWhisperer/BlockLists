@@ -11,6 +11,7 @@ gc.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages 
 ie.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (Internet Explorer)
 updatekeepalive.mcafee.com                          #McAfee      Installer (Internet Connection Test)
 provision.ccs.mcafee.com                            #McAfee      Installer / Activation Key (Internet Connection Test)
+consumerapps.mcafee.com                             #McAfee      Installer (Errors out)
 analytics-login.norton.com                          #Norton      Won't Login
 shasta-rrs.symantec.com                             #Norton      Won't Scan
 cloudconnect2.norton.com                            #Norton      Check account status
