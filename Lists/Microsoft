@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 636
-# Updated: 11/12/2024  13:22 (1:22 PM CST)
+# Domains: 635
+# Updated: 12/27/2024  11:55 (11:55 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -173,7 +173,7 @@ ssl.bing.com                                   #Bing
 windowssearch.com                              #Bing
 maps.windows.com                               #Bing Maps
 bingwallpaper.microsoft.com                    #Bing - Download wallpaper
-th.bing.com                                    #Bing - Thumbnails (Calls out, even when not using Bing)
+th.bing.com                                    #Bing - Download wallpaper
 
 xboxab.com                                     #Games -  Game Bar Overlay
 activation2.playready.microsoft.com            #Games -  Pirate Prevention
@@ -686,4 +686,3 @@ woodgrovebank.com
 wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 wus-streaming-video-rt-microsoft-com.akamaized.net
 xml.login.live.com
-ztd.dds.microsoft.com

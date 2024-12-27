@@ -198,6 +198,7 @@ cart.production.store-web.dynamics.com              #Microsoft   Add Payment Inf
 th.bing.com                                         #Microsoft   Bing Images
 aadcdn.msauth.net                                   #Microsoft   Breaks Images
 edgestatic-ehf9gbe6gfdfdec4.z01.azurefd.net         #Microsoft   Breaks Website
+ztd.dds.microsoft.com                               #Microsoft   Breaks Windows 11 setup (After connect to network)
 time.windows.com                                    #Microsoft   Clock
 client.hip.live.com                                 #Microsoft   Create Email Account
 acctcdn.msftauth.net                                #Microsoft   Create Email Account
