@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 733
-# Updated: 1/9/2025  12:24 (12:24 PM CST)
+# Domains: 731
+# Updated: 1/15/2025  23:39 (11:39 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -332,8 +332,6 @@ emapi.prm.data.ea.com                                   #Games [Studio]  EA
 eamobile.com                                            #Games [Studio]  EA
 m2u.sn.eamobile.com                                     #Games [Studio]  EA
 product.sn.eamobile.com                                 #Games [Studio]  EA
-syn-dir.sn.eamobile.com                                 #Games [Studio]  EA
-user.sn.eamobile.com                                    #Games [Studio]  EA
 king.com                                                #Games [Studio]  King
 
 bubblewitch3mobile.king.com                             #Game - Win 10 Start Tile

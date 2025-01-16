@@ -1,6 +1,8 @@
 ############################################################
 # Generic / Person's Name / Hidden / Web Host
 ############################################################
+wang lang                                                                               #Generic
+david pearson                                                                           #Generic
 srg is                                                                                  #Generic
 james brown                                                                             #Generic
 ernesto boschiero                                                                       #Generic
@@ -1014,6 +1016,7 @@ american airlines inc                                               #Company [Ai
 astrawalker aerospace                                               #Company [Airport] Astrawalker Aerospace
 australia pacific airports melbourne pty limited                    #Company [Airport] Australia Pacific Airports
 australia pacific airports pty limited                              #Company [Airport] Australia Pacific Airports
+brisbane airport corporation pty limited                            #Company [Airport] Brisbane Airport
 british airways plc                                                 #Company [Airport] British Airways
 cathay pacific airways                                              #Company [Airport] Cathay Pacific Airways
 cathay pacific airways limited                                      #Company [Airport] Cathay Pacific Airways
@@ -1128,6 +1131,7 @@ jsc toyota bank                                                     #Company [Ba
 branch banking and trust company                                    #Company [Bank] Truist Bank (BB&T)
 truist bank inc                                                     #Company [Bank] Truist Bank
 vtb bank public jointstock company                                  #Company [Bank] VTB Bank
+united overseas bank bhd                                            #Company [Bank] United Overseas Bank
 united overseas bank limited                                        #Company [Bank] United Overseas Bank
 us bank national association                                        #Company [Bank] U.S. Bank
 volksbank eg gera jena rudolstadt                                   #Company [Bank] Volksbank eG
@@ -2277,6 +2281,7 @@ hotelturist spa                                                     #Company [Ho
 hyatt corporation                                                   #Company [Hotel] Hyatt
 laguna resorts hotels public company                                #Company [Hotel] Laguna
 marriott international inc                                          #Company [Hotel] Marriott
+marriott international management company bv                        #Company [Hotel] Marriott
 marriott vacations worldwide corporation                            #Company [Hotel] Marriott
 iberostar hoteles y apartamentos sl                                 #Company [Hotel] Iberostar
 hotel lotte                                                         #Company [Hotel] Lotte Hotels
@@ -2449,6 +2454,7 @@ stripe inc                                                          #Company [Pa
 us bankcard services                                                #Company [Payment System] US Bankcard Services (USBS)
 visa canada corporation                                             #Company [Payment System] Visa
 visa europe limited                                                 #Company [Payment System] Visa
+visa international asia pacific korea                               #Company [Payment System] Visa
 visa international asia pacific korea ltd                           #Company [Payment System] Visa
 visa international service association                              #Company [Payment System] Visa
 worldpay canada corporation                                         #Company [Payment System] Worldpay
@@ -2718,6 +2724,7 @@ arrow electronics korea ltd                                         #Company [Te
 arrow electronics services srl                                      #Company [Tech] Arrow Electronics
 automattic inc                                                      #Company [Tech] Automattic Inc
 barracuda hostmaster                                                #Company [Tech] Barracuda
+barracuda networks australia pty ltd                                #Company [Tech] Barracuda
 barracuda networks inc                                              #Company [Tech] Barracuda
 bby solutions inc                                                   #Company [Tech] BestBuy
 best buy canada ltd                                                 #Company [Tech] BestBuy
@@ -2733,6 +2740,7 @@ canon usa inc                                                       #Company [Te
 canonical ltd                                                       #Company [Tech] Canonical [Ubuntu]
 cisco systems inc                                                   #Company [Tech] Cisco
 cisco technology inc                                                #Company [Tech] Cisco
+dell computer corporation                                           #Company [Tech] Dell
 dell emc                                                            #Company [Tech] Dell
 dell inc                                                            #Company [Tech] Dell
 dropbox inc                                                         #Company [Tech] DropBox
@@ -2915,9 +2923,11 @@ volkswagen argentina s a                                            #Company [Ve
 volkswagen de mexico sa de cv                                       #Company [Vehicle] Volkswagen
 volkswagen financial services ag                                    #Company [Vehicle] Volkswagen
 volkswagen financial services korea                                 #Company [Vehicle] Volkswagen
+volkswagen group australia pty ltd                                  #Company [Vehicle] Volkswagen
 volkswagen group canada inc                                         #Company [Vehicle] Volkswagen
 volkswagen group firenze spa                                        #Company [Vehicle] Volkswagen
 volkswagen group france                                             #Company [Vehicle] Volkswagen
+volkswagen group ireland limited                                    #Company [Vehicle] Volkswagen
 volkswagen group italia                                             #Company [Vehicle] Volkswagen
 volkswagen group italia spa                                         #Company [Vehicle] Volkswagen
 volkswagen group korea ltd                                          #Company [Vehicle] Volkswagen
