@@ -1,8 +1,8 @@
 #
 #    File: Top_Level
 #    Info: Top Level Domains: Will block most non-traditional domains
-# Domains: 778
-# Updated: 6/6/2024  10:41 (10:41 AM CST)
+# Domains: 779
+# Updated: 1/16/2025  16:48 (4:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Top_Level
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -565,6 +565,8 @@
 
 .eh            Unassigned
 .fw            Unassigned
+
+.test          Reserved / Localhost alt
 
 .an            Not Used - Netherlands Antilles (North America)
 .mf            Not Used - Saint Martin (North America)
