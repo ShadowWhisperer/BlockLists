@@ -1,12 +1,11 @@
 #
 #    File: Dynamic
 #    Info: Dynamic DNS:  DNS --> IP
-# Domains: 1,432
-# Updated: 2/27/2024  17:47 (5:47 PM CST)
+# Domains: 1,433
+# Updated: 1/23/2025  21:20 (9:20 PM CST)
 #
-#    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
-#     Git: git clone https://github.com/ShadowWhisperer/BlockLists.git
-#    Wget: wget https://codeload.github.com/ShadowWhisperer/BlockLists/zip/master
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
 0000000000000000000000.com
@@ -287,6 +286,7 @@ dns-dns.com
 dnsdojo.com
 dnsdojo.net
 dnsdojo.org
+dns-dynamic.net
 dnsdynamic.org
 dnsdyn.net
 dnset.com
