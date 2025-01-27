@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,522
-# Updated: 1/26/2025  15:51 (3:51 PM CST)
+# Domains: 96,533
+# Updated: 1/27/2025  15:41 (3:41 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15751,6 +15751,7 @@ campaigns.ssi-schaefer.com
 campaign.stala.com
 campaigns.wordandbrown.com
 campaigns.yotta.com
+campaigntracker.io
 cam-pixel-tracker-prod.azure-api.net
 campus.english-innovations.com
 canada.deloitte-digital-engage.adobesandbox.com
@@ -27282,6 +27283,7 @@ hw-analytics.airtimelink.com
 h.which.co.uk
 hw.hostway.com
 hw-stats.de
+hw-v2-web-player-tracker.biliapi.net
 hy.breathmasters.de
 hybrid-itech.com
 hybridmaterialsconference.com
@@ -40465,6 +40467,7 @@ metrics.newhope.com
 metrics.newmexico.aaa.com
 metrics.newport.com
 metrics.newportlexus.com
+metrics.news.com.au
 metrics.newsconnect.com.au
 metrics.newscorpaustralia.com
 metrics.newscorporatesubscriptions.com.au
@@ -52875,6 +52878,7 @@ nappyneck.com
 narratiive.com
 narrative.io
 narrativeresearch.ca
+narvar.com
 narwhal.bounty.studio
 narwhal.quickbudget.xyz
 narwhal.tuart.dev
@@ -66013,6 +66017,7 @@ redshell.io
 redsheriff.com
 redstatcounter.com
 redtrack.io
+redtrack.tech
 r.educafinanceira.com
 r.edu.petersons.com
 redvertisment.com
@@ -68646,6 +68651,7 @@ sdiapi.com
 sdklog.tvstore.opera.com
 sdk.loyaltylion.net
 sdk-monitoring.ogury.co
+sdkopmetrics-us.dsp-api.moloco.com
 sdk.qikify.com
 sdome.underarmour.co.jp
 sdreport.futunn.com
@@ -86412,6 +86418,7 @@ tags.abercrombie.com
 tags.acmeaom.com
 tags.aljazeera.com
 tags.aljazeera.net
+tags.asics.com
 tags.autozone.com
 tags.b1js.com
 tags.bankline.natwest.com
@@ -87087,6 +87094,7 @@ telemetry.svc.halowaypoint.com
 telemetry.svc.transifex.net
 telemetry.swe.quicinc.com
 telemetry.tradingview.com
+telemetry.us-ashburn-1.oci.oraclecloud.com
 telemetryverification.net
 telemetry.vg.ac.pvp.net
 telemetry_watson.live.com
@@ -88869,6 +88877,7 @@ tracking.unrealengine.com
 tracking.usenext.com
 tracking-user-script.s3-ap-northeast-1.amazonaws.com
 tracking.ut.se
+tracking-v2-nrl2mwczfq-uc.a.run.app
 tracking.valka.is
 tracking.vanbittern.com
 tracking.vastgotabladet.se
@@ -90016,6 +90025,7 @@ umami.fusestudio.net
 umami.gigabit.de
 umami.gs-server.de
 umami.gttmnn.com
+umami.homarr.dev
 umami.horner.tj
 umami.host06.300devs.com
 umami.inity.se
@@ -90093,6 +90103,7 @@ umami.useargo.com
 umami.virail.app
 umami.wakarimasen.moe
 umami.webhealer.net
+umami.webtor.io
 umami.weikefu.net
 umami.wowow.club
 umami.ya.codes
