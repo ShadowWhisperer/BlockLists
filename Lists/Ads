@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,741
-# Updated: 1/27/2025  15:41 (3:41 PM CST)
+# Domains: 20,742
+# Updated: 1/27/2025  17:09 (5:09 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4194,6 +4194,7 @@ ads.glasove.com
 ads.gld.dk
 ads.global-communication.de
 ads.global-fashion-group.com
+ads.global.ssl.fastly.net
 ads.gnieznolokalnie.pl
 ads.gobemax.com
 adsgoby.com

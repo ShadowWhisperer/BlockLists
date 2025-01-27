@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 635
-# Updated: 12/27/2024  11:55 (11:55 AM CST)
+# Domains: 634
+# Updated: 1/27/2025  17:09 (5:09 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -329,7 +329,6 @@ sam.msn.com                                    # ? MSN
 tk2.plt.msn.com                                # ? MSN
 
 onmicrosoft.com                                # ? Office - 365
-shell.cdn.office.net                           # ? Office - Facebook, Inc. ????  (https://shell.cdn.office.net/shellux/o365/versionless/suiteux.shell.responsive.7cd9b6321d8ca495e2c7.js)
 fpastorage.cdn.office.net                      # ? Office - First Party App Addins
 afd-a-acdc-direct.office.com                   # ? Office
 api.addins.omex.office.net                     # ? Office
