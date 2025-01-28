@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,583
-# Updated: 1/27/2025  23:42 (11:42 PM CST)
+# Domains: 96,585
+# Updated: 1/28/2025  15:47 (3:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -23882,6 +23882,7 @@ et.electronic4you.de
 et.electronic4you.hr
 et.electronic4you.si
 e.terminix.com
+et.goal-based.investments
 eth0.me
 ethdev.one
 ethereallagoon.com
@@ -67435,6 +67436,7 @@ rue21email.com
 ruleranalytics.com
 rum-collector.wpm.neustar.biz
 rum.haystack.es
+rum.hlx.page
 rumiview.com
 rum-metrics.bunny.net
 rum-observability.nissanpace.com
