@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,647
-# Updated: 1/27/2025  15:41 (3:41 PM CST)
+# Domains: 3,648
+# Updated: 1/27/2025  23:38 (11:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3088,6 +3088,7 @@ tlil.nl
 tlinky.com
 tlot.cc
 tlrd.pl
+tlrsq.top
 tlsn.io
 tls.yt
 t.ly

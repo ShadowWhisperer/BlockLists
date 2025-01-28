@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 20,744
-# Updated: 1/27/2025  21:31 (9:31 PM CST)
+# Domains: 20,917
+# Updated: 1/27/2025  23:38 (11:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -416,6 +416,7 @@
 3888537ccc.com
 38ds89f8.de
 39236100.lotre.io
+39303.traceparts.com
 39788f3ee241c9c77fa5-5f3f962c17f4c19066268fe915d96f9f.ssl.cf1.rackcdn.com
 39e6p9p7.de
 3advertising.com
@@ -743,6 +744,7 @@ aa889955aa.com
 aaaaa266.com
 aaaaa662.com
 aaaaa855.com
+aaa.aqualink.tv
 aaagency.ae
 aaa.sieglinde22.xyz
 aabclkane.bachelorarchive.com
@@ -869,6 +871,7 @@ abxxba.online
 abyamaskor.com
 a.bynix.xyz
 abyss.sk
+ac-3.mix.tokyo
 acacdn.com
 acadot.com
 ac-advertising.com
@@ -892,9 +895,17 @@ accountsdoor.com
 accretiveads.com
 accretivemedia.go2cloud.org
 acdcdn.com
+a-cdn.hktdc.com
 acdn.uploads.mobi
 a.cdnyz.com
 ace-adserver.com
+ac-ebis.otoraku.jp
+ac-ebis-otrk.usen.com
+ac-ebis-stb.usen.com
+ac-ebis-uhome.usen.com
+ac-ebis.usen.biz
+ac-ebis.usen-insurance.com
+ac-ebis.usen-ssi.jp
 acedagency.com
 acelacien.com
 a.cemir.site
@@ -970,6 +981,7 @@ ad1.ettoday.net
 ad1.one
 ad1.ru
 ad1.si
+ad1.tone.ne.jp
 ad1-updates.com
 ad1.ximiyouyue.com
 ad1.yangjinyou.com
@@ -987,6 +999,7 @@ ad2.fw.msggo.com
 ad2goal.com
 ad2.gold-eagle.com
 ad2iction.com
+ad2.mediatoday.co.kr
 ad2mix.com
 ad2.moreto.net
 ad2.netriota.hu
@@ -1059,6 +1072,7 @@ ad999.biz
 ad.a93a.com
 ada-asia.com
 ad.abchub.site
+ad.abctv.com
 ad.abema.io
 ad.abogadosbaluarte.com
 adabouts.com
@@ -1105,6 +1119,7 @@ ad-agencyservices.de
 adagio.io
 adagnit.io
 ad.aguaysig.com
+ad.aim-universe.co.jp
 ad.ajbrc.com
 ad.akom.org
 ad.alamanoman.com
@@ -1114,6 +1129,7 @@ adality.com
 adality.de
 adalladv.com
 ad.allboxing.ru
+ad.allcredit.co.kr
 adalliance.io
 ad.alphaonline.hu
 adalso.com
@@ -1170,6 +1186,8 @@ ad.atdmt.com
 ad.atown.jp
 ada.tresio.co
 adatrix.com
+ad.aucfan.com
+ad.aucview.com
 adaurum.ru
 ad.autoview.co.kr
 ad.autoviny.sk
@@ -1236,6 +1254,7 @@ adboxdigital.uk
 adbox.inbox-online.com
 adbox.lv
 ad.boxtec.ch
+adbq.bk.mufg.jp
 adbrand.com.tr
 adbrands.co.il
 adbreak.ch
@@ -1297,6 +1316,7 @@ adcanny.com
 adcannyxml.com
 adcanopus.com
 adcanvas.com
+ad.captainrebates.com
 adcaravan.uz
 ad.cardu.com.tw
 ad.carnews.com
@@ -1344,6 +1364,7 @@ ad.cksn.tk
 adclerks.com
 adclickafrica.com
 adclick.clog.jp
+ad.clickhere.ru
 adclickmedia.com
 adclickpro.com
 adclicks.io
@@ -1392,6 +1413,7 @@ adconsole.bidspotter.co.uk
 adconsole.ch
 adconsole.kozoom.com
 adconsole.lot-tissimo.com
+adconsole.sniffies.com
 ad-constructor.yandex.ru
 adcontent.xyz
 adcore.com
@@ -1503,16 +1525,58 @@ addynamo.net
 ad.dzwww.com
 ad.eamc.org
 adeaz.com
+adebis0508.brain-sleep.com
+adebis1.1rnavi.com
+adebis8628.matsui.co.jp
+adebis.aij.co.jp
+adebis.bathclin.jp
+adebis.chojyu.com
+adebis-cname.jobmall.jp
+adebis.daiwahouse.co.jp
+adebis.entetsu.co.jp
+adebis.for-s-online.jp
+adebis.gfs-official.com
+adebis.gfs.tokyo
+adebis.gogin.co.jp
+adebis.hotstaff.co.jp
+adebis.kirei-journal.jp
+adebis.kirin.co.jp
+adebis.leben-establish.jp
+adebis.leben-style.jp
+adebis.lifestylemag.jp
+adebis.mizunomori.com
+adebis.muscledeli.jp
+ad-ebis.mynavi-job20s.jp
+adebis.reruju.com
+adebis.rishiria-furel.com
+adebis.sbishinseibank.co.jp
+adebis.sbpayment.jp
+adebis.shiseido.co.jp
+adebis.shopserve.jp
+adebis.shupita.com
+adebis.shupita.jp
+adebis.s-toushi.jp
+adebis.thd-web.jp
+adebis.tipness.co.jp
+adebis.toitoitoi.clinic
+adebis.toushi-up.com
+adebis.tspot.co.jp
+adebisu.wowow.co.jp
+adebis.zenyaku-hbshop.com
 a.debub.site
 adeclik.com
 ade.clmbtech.com
 ad.ec-masters.net
 adecn.com
+ad.edaily.co.kr
 ad.editorasegmento.com.br
 ad.eepw.com.cn
 ad.ehello.jp
+ade.hirose-fx.co.jp
+ade.hirose-fx.jp
 ad.eilbote-online.com
 adeimptrck.com
+ade.jfx.co.jp
 ad.eko-7.com.pl
 ad.elektrika.info
 adelement.com
@@ -1744,6 +1808,7 @@ ad.ichiru.net
 adicio.com
 ad.ics-int.com
 ad.id5.com.br
+ad.idg.co.kr
 adify.com
 adigi.icu
 a.digitalgiftshopping.com
@@ -1767,6 +1832,7 @@ adimages.businessnews.com.au
 adimages.carsoup.com
 adimages.ch
 adimages.detik.com
+adimages.eva.live
 adimages.firestorage.jp
 adimages.footymad.net
 adimages.gns.go.com
@@ -1848,6 +1914,7 @@ ad.ipredictive.com
 ad.iq
 adiquity.com
 adireto.com
+ad.iro-dori.net
 adisfaction.de
 adisfy.com
 ad.iskonet.de
@@ -1897,6 +1964,7 @@ ad.kakaocorp.com
 ad.kanbu.cn
 ad.kancelarie.sk
 ad.kase.kz
+ad.kddi-fs.com
 ad.khan.co.kr
 ad.kids-model-audition.com
 adkingsagency.com
@@ -2233,6 +2301,7 @@ adnimation.com
 adnium.com
 adnix.ir
 ad.nl
+adnl.bk.mufg.jp
 adn.meinsol.de
 adnmore.co.kr
 adnologies.com
@@ -2417,6 +2486,7 @@ adprofits.ru
 adprofs.com
 adprofy.com
 ad.prohost.pl
+adpromo.peppynet.com
 adproresults.com
 adprosperity.com
 adprotect.net
@@ -4042,6 +4112,7 @@ adserv.prsa.org
 adserv.riggertalk.com
 adserv.rjanits.com
 adservrs.com
+adservtday.com
 adserv.turmantech.com
 adserv.webter.hu
 ads.esculap.com
@@ -5578,14 +5649,18 @@ ad.teksti.pl
 ad.teleos.ru
 adtelier.pl
 adtelligent.com
+ad.tempstaff.co.jp
 ad-test.kreuzeronline.de
 ad-text.com
 ad.tf.co.kr
 ad.theater.hu
+ad.theatreacademy.jp
+ad.theatre.co.jp
 ad.themedianw.com
 adtheorent.com
 ad.thewatchobserver.fr
 adthink.com
+ad.thinkpool.com
 adthletic.com
 ad.thola-webseiten.de
 adthrive.com
@@ -6384,6 +6459,8 @@ agahpush.com
 agajx.com
 agamaadvertising.com
 agavanilliteom.com
+agcdn.auction.com
+agcdn.divcom.com
 agcs.works
 ag.divcom.com
 agence-adverti.fr
@@ -6438,7 +6515,9 @@ agraba.io
 agreeableopinion.pro
 a.groox.xyz
 agulwv.com
+a.gumon.site
 agumtree.com
+a.gylor.xyz
 ahadi.pk
 ahalogy.com
 ahdefer.de
@@ -6446,11 +6525,13 @@ ahd.ruten.com.tw
 aheadads.com
 aheadgrow.com
 aheadofthegamemarketing.com
+a.hefim.site
 ahernssa.com
 a.herto.xyz
 ahmedamin.uk
 ahrefurl.ink
 a.hubhubhub.name
+a.humro.site
 ai71dc7.de
 aiactiv.io
 a-i-ad.com
@@ -6512,6 +6593,7 @@ ajansreklam.net
 a.jeniz.xyz
 a.jetti.site
 a.jhfhdkhkh.site
+ajitad.co.kr
 ajitads.com
 a.jivem.site
 ajpromotions.in
@@ -7687,6 +7769,7 @@ bidhead.net
 bidiology.com
 bidmachine.io
 bidmag.net
+bid.mbidwpex.com
 bidmotion.com
 bidmyadz.com
 bidmyqps.xyz
@@ -8251,6 +8334,7 @@ camdough.com
 campaign.adobe.com
 campaign.avg.com
 campaign.dasmart.eu
+campaign-direct.eisai.jp
 campaign.esdlife.com
 campaignlake.com
 campaigns.asianetnews.com
@@ -8352,6 +8436,7 @@ cbu01.alicdn.com
 cc2.camcaps.io
 cc-ad.net
 cca.sanjay44.xyz
+ccc.aqualink.tokyo
 cccpmo.com
 ccdesignlabs.com
 cc-dt.com
@@ -8397,36 +8482,53 @@ cdnads.com
 cdnads.geeksforgeeks.org
 cdn.adt328.com
 cdn-adv.unionesarda.it
+cdn.alkst.co
 cdn.ap.bittorrent.com
 cdn.asklfnmoqwe.xyz
 cdn-assets.hswstatic.com
 cdn.autoketing.org
 cdn.ay.gy
+cdn.bannersolution.net
+cdn.bestadserve.com
 cdn.bestreviews.com
+cdn.blueistheneworanges.com
+cdn-cm.hqscene.com
+cdn-cm.tiypa.com
 cdncont.com
 cdn.contentsitesrv.com
 cdn-cookieyes.com
 cdn.datateam.co.uk
 cdn.dmp.wi-fi.ru
 cdn.doubleclick.thirdparty.ooyala.com
+cdn.findamasters.com
+cdn.findaphd.com
+cdn.flixtrial.com
+cdn.flylikeaguy.com
+cdn.fsd2.digital
+cdn.fxempire.com
 cdngain.com
 cdn.gallery
+cdn.h2-view.com
 cdn.hextom.com
 cdn.jifo.co
 cdn-jinjutupian-cdn.com
 cdnjs.buymeacoffee.com
 cdn-ketchapp.akamaized.net
+cdn.laweekly.com
+cdnmc.dental-directory.co.uk
 cdn-media.brightline.tv
 cdn.megadata.co.kr
 cdn.mequoda.com
 cdn.myadsmyanmar.com
 cdn.nejxdoy.com
+cdn.partylemons.com
 cdn.personare.com.br
 cdn.piano.io
 cdn.pinktriangle.ca
 cdn-plus.roxot-panel.com
 cdn-promote.weebly.com
 cdnpv.com
+cdn.quidco.com
 cdn.sdtraff.com
 cdn.sentinelbi.com
 cdn.sentinelp.com
@@ -8447,8 +8549,10 @@ cdntugadeikn8564adgs.com
 cdn.userdatatrust.com
 cdnvid.com
 cdnvideo.mobi
+cdn.vidsdot.com
 cdn.wisc.cloud
 cdn-yudietupian-cdn.com
+cdn.zeebestmarketing.com
 cdn.zwame.pt
 c.down.tube
 cdrrvlkew.filasofighit.com
@@ -9024,6 +9128,7 @@ corgibeachday.com
 corollamedia.com
 corp.aol.com
 corpid.co
+corporate.frontierconsul.net
 corwrite.com
 cosmicsculptor.com
 cosmosads.com
@@ -9280,6 +9385,7 @@ creative-league.com
 creativemonkeys.in
 creativeparamedics.com
 creative-preview-an.com
+creatives2.extccp.com
 creative-serving.com
 creativesocean.in
 creativespace.es
@@ -9399,6 +9505,11 @@ cryptvalue.com
 crystall.io
 crystalstatus.com
 cryteo.com
+cs0010sbeda.theory-clinic.com
+cs0010sbeda.theory-diet.com
+cs0010sbeda.theory-kumatarumi.com
+cs1470sbeda.schoolasp.com
+cs2113sbeda.hokto-onlineshop.jp
 cs30.net
 csjuq.com
 cstadvertising.com
@@ -9435,6 +9546,8 @@ cutetraffic.com
 cutevo.com
 cuty.io
 c.v4dwkcv.com
+cv-adebis.my-studies.net
+cv-adebis.nlpjapan.co.jp
 cvhjcjsu.com
 cvk.supklik.com
 cvsd.tjaard11.xyz
@@ -9942,6 +10055,7 @@ djnf6e5yyirys.cloudfront.net
 djujxz.com
 djxdi.com
 dkadv.com
+d-kint.d-kintetsu.co.jp
 dkmadsnetwork.com
 dkms.digikala.com
 dl6pkf7e.ru
@@ -10201,7 +10315,42 @@ ebd.cda-hd.cc
 ebd.cda-hd.co
 ebdr3.com
 ebesucher.de
+ebis.15jikai.com
+ebis2020.hoiku-job.net
+ebis.2jikaikun.com
+ebis.care-tensyoku.com
+ebis.ce-parfait.com
+ebiscname.j-esthe.com
+ebiscname.j-esthe-yoyaku.com
+ebis-cname.mirai-japan.co.jp
+ebiscname.urr.jp
+ebiscosme.tamagokichi.com
+ebis.cp.claudia.co.jp
+ebis.delis.co.jp
+ebis.eiyoushi-tensyoku.com
+ebis.forcas.com
+ebisfracora.fracora.com
+ebis.gokusen-ichiba.com
+ebis.housekeeping.or.jp
+ebis.jobcan.jp
+ebis.jobcan.ne.jp
+ebis.kan54.jp
+ebis.kubara.jp
+ebis.makeshop.jp
 ebis.ne.jp
+ebis.nomu-silica.jp
+ebis.n-pri.jp
+ebis.radishbo-ya.co.jp
+ebis.radish-pocket.com
+ebis.s-bisco.jp
+ebis.shabon.com
+ebis.smakon.jp
+ebisstore.tamagokichi.com
+ebis.sunstar-shop.jp
+ebistoppan1.kyowahakko-bio-campaign-1.com
+ebis.touhan-navi.com
+ebis.treasurenet.jp
+ebis.yumeyakata.com
 eboundservices.com
 ebrokerpartner.pl
 ebumps.com
@@ -11431,6 +11580,7 @@ greenadz.de
 greenappleadvertising.com
 greenhaus.agency
 greenhaus.com
+greenjapan-cname.green-japan.com
 greenlight.ie
 greenmortgage.pro
 green-red.com
@@ -11741,6 +11891,7 @@ hotwords.es
 howboxmab.site
 howdyinbox.com
 howzzat.co
+hoxsin-ad.hoxsin.co.jp
 hp250820.com
 hpcyk.com
 hprofits.com
@@ -12257,6 +12408,7 @@ irresponsible-year.pro
 irritatingfog.com
 irv.si
 isboost.co.jp
+isebis.yutoriform.com
 isgqw56nfi.zzaqqwecd.lat
 ishahguv.com
 i.shareasale.com
@@ -12896,6 +13048,9 @@ limelightmedia.ng
 limpingfish.pro
 lincassa.com
 linkad.com
+linkback.danawa.com
+linkback.freeco.tv
+linkback.seoul.co.kr
 linkbucks.com
 linkbuddies.com
 linkbux.com
@@ -13138,6 +13293,7 @@ madvertise.com
 madvertise.de
 madworks.in
 maf.ad
+magicaladsolutions.net
 magicbell.com
 magicbell.io
 magicminibox.com
@@ -13235,6 +13391,7 @@ marketgid.info
 marketified.com
 marketingagencyusa.net
 marketing.alibaba.com
+marketing.biz.mynavi.jp
 marketingdeconteudo.com
 marketing.dickinson-wright.com
 marketingfunnel.website
@@ -13335,6 +13492,8 @@ mbt3st3r1.com
 mbt3st3r2.com
 mbww.com
 mbxg.com
+mcad.mods-clinic.com
+mcad.mods-clinic.info
 mccann.al
 mcfaddengavender.com
 mcgrawnow.com
@@ -13393,8 +13552,10 @@ media.eso.tv
 mediaeverywhere.com
 media.fayettevilleflyer.com
 mediafuse.com
+media.geinoschool-hikaku.net
 mediago.io
 mediahead.com
+media.hm-news.co.il
 media.horseplay.com
 mediainter.net
 mediainventor.com
@@ -14871,6 +15032,7 @@ p16-va.lemon8cdn.com
 p1.meituan.net
 p2l.info
 p30rank.ir
+p5mcwdbu.ginzo-buy.jp
 p90.net
 pace.com.au
 pacificmags.com.au
@@ -15887,6 +16049,7 @@ pushlycdn.com
 pushly.com
 push.marketcat.net
 pushmaster.bundesliga-appr.com
+pushmate.app
 pushmaze.com
 pushmessage.samsung.com
 pushmeup.art
@@ -15933,6 +16096,7 @@ pushpro.co.za
 pushprofit.net
 pushprofit.ru
 pushpro.io
+pushpro.online
 pushpros.com
 pushpros.tech
 pushpushgo.com
@@ -16260,6 +16424,7 @@ realitytraffic.com
 reallypab.com
 realmatch.com
 realmedia.com
+realmedia.hidoc.co.kr
 realm.hearst3pcc.com
 realpopbid.com
 realpush.digital
@@ -17448,6 +17613,7 @@ seoingage.com
 seopack.jp
 seosolution.co.in
 seotechexperts.net
+sep02.hinagiku-life.jp
 separationofcorporationandstate.com
 sequenceindia.com
 serconmp.com
@@ -17465,6 +17631,7 @@ servedby.biohandel.de
 servedby.bsc.news
 servedby-buysellads.com
 servedby.ceramicartsnetwork.org
+servedby.cricketworld.com
 servedby.engineeringnews.co.za
 servedby.everythingnevada.com
 servedby.healthcarescene.com
@@ -17669,6 +17836,7 @@ simpleapps.store
 simpli.fi
 simplistic-king.pro
 simplisticpitch.pro
+sinceregarden.sincere-garden.jp
 sineout1.com
 singlesadnetwork.com
 singlesos.space
@@ -18088,6 +18256,7 @@ srujaninfotech.com
 srv.7rtb.com
 srv.fyi
 srv.goadx.com
+srv.hm-news.co.il
 srv.karmaholicoffers.com
 srvmath.com
 srv.realpython.net
@@ -18601,6 +18770,8 @@ tesanadservices.com
 teser.net
 tespray-dicity.com
 test2.maxx.ddac.ru
+test-ad.lucia-c.com
+test-ad.mens-lucia.com
 testcommon.soundrussian.com
 testfcm.com
 testpublisher009.com
@@ -19689,6 +19860,7 @@ vifzod.com
 vigilantprinciple.pro
 vigisz.com
 vigo-duo.space
+villabajo.skyeng.ru
 villarriba.skyeng.ru
 vimarketingandbranding.com
 vimmyads.com
@@ -19780,6 +19952,7 @@ voiceads.cn
 voicelessvein.com
 voicepins.com
 voidgoo.com
+voidnetwork.cloud
 vola.ad
 volatintptr.com
 volt.africa
