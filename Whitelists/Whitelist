@@ -101,205 +101,6 @@ n-use1-dw.tplinkcloud.com                           #TP-Link                Rout
 
 
 #####################################################
-# Tech Giants
-#####################################################
-appleid.apple.com.akadns.net                        #Apple   App Store (Login)
-appleid.cdn-apple.com                               #Apple   App Store (Login)
-amp-api-search-edge.apps.apple.com                  #Apple   App Store (Search)
-ax.init.itunes.apple.com                            #Apple   App Store
-bag.itunes.apple.com                                #Apple   App Store
-osxapps.itunes.apple.com                            #Apple   App Store
-play.itunes.apple.com                               #Apple   App Store
-search.itunes.apple.com                             #Apple   App Store
-swcatalog.apple.com                                 #Apple   Check for updates
-idmsa.apple.com                                     #Apple   iCloud (Website Login)
-clouddrive.com                                      #Apple   iCloud
-gsa.apple.com.akadns.net                            #Apple   System Update
-gsa.apple.com                                       #Apple   System Update
-mesu.apple.com                                      #Apple   System Update
-appldnld.apple.com.akadns.net                       #Apple   Updates
-appldnld.apple.com                                  #Apple   Updates
-appldnld                                            #Apple   Updates
-gdmf.apple.com.akadns.net                           #Apple   Updates
-gdmf.apple.com                                      #Apple   Updates
-gs.apple.com.akadns.net                             #Apple   Updates
-gs.apple.com                                        #Apple   Updates
-init.itunes.apple.com                               #Apple   Updates
-mesu.g.aaplimg.com                                  #Apple   Updates
-secure-appldnld.apple.com                           #Apple   Updates
-swcdn.apple.com                                     #Apple   Updates
-swcdnlocator.apple.com                              #Apple   Updates
-swdownload.apple.com                                #Apple   Updates
-swquery.apple.com                                   #Apple   Updates
-swscan.apple.com                                    #Apple   Updates
-web-experience.itunes.apple.com                     #Apple   Website (Images)
-notifications-pa.googleapis.com                  #Google   2FA - Sends notification to phone/tablet
-cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
-ota-cache1.googlezip.net                         #Google   Android (System Updates)
-androidtvlauncherxfe-pa.googleapis.com           #Google   Android (Check for internet)
-play-lh.googleusercontent.com                    #Google   Android Store Images
-tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
-tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
-clients3.google.com                              #Google   ChromeOS Signin (connection is limited)
-crls.pki.goog                                    #Google   Chrome Download (Portable Version)
-chrome.google.com                                #Google   Chrome Store (Page)
-lh3.googleusercontent.com                        #Google   Chrome Store (Icons)
-clients2.google.com                              #Google   Chrome Store (Download)
-clients4.google.com                              #Google   Chrome (Sync Account)
-storage.googleapis.com                           #Google   Chrome Store (Download)
-dl.google.com                                    #Google   Chrome (Download)
-tools.google.com                                 #Google   Chrome (Update)
-apis.google.com                                  #Google   Chrome
-cloudconsole-pa.clients6.google.com              #Google   Cloud - Breaks search bar
-cloud.google.com                                 #Google   Cloud - Breaks 'Terms of Service'
-encrypted-tbn0.gstatic.com                       #Google   Images
-encrypted-tbn1.gstatic.com                       #Google   Images
-encrypted-tbn2.gstatic.com                       #Google   Images
-encrypted-tbn3.gstatic.com                       #Google   Images
-gstatic.com                                      #Google   Images
-t0.gstatic.com                                   #Google   Images (Click an image in WEB search results) *Side popup
-redirector.gvt1.com                              #Google   Chrome
-people-pa.googleapis.com                         #Google   Contacts Sync (Phone)
-peoplestack-pa.clients6.google.com               #Google   Contacts Sync (Phone)
-people-pa.clients6.google.com                    #Google   Contacts Suggestion (gmail)
-clients6.google.com                              #Google   Drive (Download From Browser)
-takeout-pa.clients6.google.com                   #Google   Drive (Download From Browser)
-ocsp.pki.goog                                    #Google   Drive (Sign In)
-edgedl.me.gvt1.com                               #Google   Earth Download (Fails, then tries 'dl.google.com')
-khmdb.google.com                                 #Google   Earth Database (Freezes Google Earth *App)
-geo0.ggpht.com                                   #Google   Earth Street View
-fonts.gstatic.com                                #Google   Fonts, on some menues
-fonts.googleapis.com                             #Google   Fonts, on some menues
-ogs.google.com                                   #Google   Keep (Breaks Sync / Web Apps)
-scone-pa.clients6.google.com                     #Google   Keep (Breaks Sync)
-signaler-pa.clients6.google.com                  #Google   Keep (Breaks Sync)
-accounts.google.com                              #Google   Login
-gds.google.com                                   #Google   Login (After 2FA)
-mobilemaps-pa-gz.googleapis.com                  #Google   Maps (Download maps for offline use)
-op-d.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
-op-u.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
-kh.google.com                                    #Google   Maps (Earth View)
-playstoregatewayadapter-pa.googleapis.com        #Google   Play Store (Breaks app search)
-pki.goog                                         #Google   Public Key
-pki-goog.l.google.com                            #Google   Public Key
-o.pki.goog                                       #Google   Trust Certificates
-translate.googleapis.com                         #Google   Tranlsate
-lens-pa.googleapis.com                           #Google   Tranlsate Image
-youtubei.googleapis.com                          #Google   YouTube (Breaks App)
-jnn-pa.googleapis.com                            #Google   YouTube (Buffer Issues)
-yt3.googleusercontent.com                        #Google   YouTube (Images)
-suggestqueries-clients6.youtube.com              #Google   YouTube (Search Suggest)
-youtube-nocookie.com                             #Google   YouTube (Embedded)
-youtu.be                                         #Google   YouTube (Shortener) Right click video --> "Copy at this time"
-i.ytimg.com                                      #Google   YouTube (Thumbnails)
-clients1.google.com                              #Google   Youtube (Search Suggest) *App
-g.live.com                                          #Microsoft   .Net Framework
-licensing.mp.microsoft.com                          #Microsoft   Activate Windows
-cart.production.store-web.dynamics.com              #Microsoft   Add Payment Info
-th.bing.com                                         #Microsoft   Bing Images
-aadcdn.msauth.net                                   #Microsoft   Breaks Images
-edgestatic-ehf9gbe6gfdfdec4.z01.azurefd.net         #Microsoft   Breaks Website
-ztd.dds.microsoft.com                               #Microsoft   Breaks Windows 11 setup (After connect to network)
-time.windows.com                                    #Microsoft   Clock
-client.hip.live.com                                 #Microsoft   Create Email Account
-acctcdn.msftauth.net                                #Microsoft   Create Email Account
-eus.client.hip.live.com                             #Microsoft   Create Email Account (Captcha)
-scu.client.hip.live.com                             #Microsoft   Create Email Account (Captcha)
-ncu.client.hip.live.com                             #Microsoft   Create Email Account (Captcha)
-fpt.live.com                                        #Microsoft   Create Email Account (Captcha) *Does not display
-msft.hsprotect.net                                  #Microsoft   Create Email Account (Captcha) *HumanSecurity
-packages.microsoft.com                              #Microsoft   Download Files (edge.deb)
-assets.onestore.ms                                  #Microsoft   Downloads Page
-fs.microsoft.com                                    #Microsoft   Downloads Fonts
-fs.microsoft.com.akadns.net                         #Microsoft   Downloads Fonts
-msedge.sf.dl.delivery.mp.microsoft.com              #Microsoft   Edge (Download) (.msi version)
-edgefrecdn.azureedge.net                            #Microsoft   Edge (Download)
-microsoftedgewelcome.microsoft.com                  #Microsoft   Edge (Download)
-msedge.api.cdp.microsoft.com                        #Microsoft   Edge (Download)
-msedge.f.tlu.dl.delivery.mp.microsoft.com           #Microsoft   Edge (Download)
-msedge.b.tlu.dl.delivery.mp.microsoft.com           #Microsoft   Edge (Updates)
-msedge.f.dl.delivery.mp.microsoft.com               #Microsoft   Edge (Updates)
-edge.microsoft.com                                  #Microsoft   Edge (Download) Extensions
-microsoftedge.microsoft.com                         #Microsoft   Edge (Extensions Webpage)
-ratingsedge.rnr.microsoft.com                       #Microsoft   Edge (Extensions Webpage) *Ratings
-dsm-efz.ms-acdc.office.com                          #Microsoft   Email (Imap)
-login.live.com                                      #Microsoft   Email (Login)
-login.microsoftonline.com                           #Microsoft   Email (Login)
-mdw-efz.ms-acdc.office.com                          #Microsoft   Email (Login)
-wus.client.hip.live.com                             #Microsoft   Email (Captcha)
-i1.social.s-msft.com                                #Microsoft   Forums Page
-ee38.playfabapi.com                                 #Microsoft   Games (Breaks Online) Halo: Master Chief Collection
-peoplehub.xboxlive.com                              #Microsoft   Games (Breaks Social) Halo: Master Chief Collection
-title.mgt.xboxlive.com                              #Microsoft   Games (Breaks Launch)
-insideruser.microsoft.com                           #Microsoft   Insider (Windows Updates --> Windows Insider Program)
-cdn-dynmedia-1.microsoft.com                        #Microsoft   Microsoft Store (Images)
-zone.msn.com                                        #Microsoft   MSN  (Games)
-img-s-msn-com.akamaized.net                         #Microsoft   MSN  (Images)
-assets.msn.com                                      #Microsoft   MSN  (Main Page)
-dns.msftncsi.com                                    #Microsoft   Network Icon Status
-msftconnecttest.com                                 #Microsoft   Network Icon Status
-msftncsi.com                                        #Microsoft   Network Icon Status
-assets.account.microsoft.com                        #Microsoft   Office 365 (Website Tile Images)
-compass-ssl.microsoft.com                           #Microsoft   Office 365 (Website Tile Images)
-shell.cdn.office.net                                #Microsoft   Office 365 (Website Tile Images)
-spoppe-b.azureedge.net                              #Microsoft   Office 365 (Website Tile Images)
-blobs.officehome.msocdn.com                         #Microsoft   Office Site
-graph.microsoft.com                                 #Microsoft   Office Site (Enter product key)
-activation-v2.sls.microsoft.com                     #Microsoft   Office Activate
-go.microsoft.com                                    #Microsoft   Office Activate
-officeclient.microsoft.com                          #Microsoft   Office Activate
-ajax.aspnetcdn.com                                  #Microsoft   Office Download
-az725175.vo.msecnd.net                              #Microsoft   Office Download
-office.live.com                                     #Microsoft   Office Download
-statics-marketingsites-eus-ms-com.akamaized.net     #Microsoft   Office Download [2010]
-statics-marketingsites-wcus-ms-com.akamaized.net    #Microsoft   Office Download [2010]
-f.c2r.ts.cdn.office.net                             #Microsoft   Office Download [2021]
-mrodevicemgr.officeapps.live.com                    #Microsoft   Office Download [2021] Error Code: 0-2031 [17002]
-ecs.office.com                                      #Microsoft   Office Download [2021] Error Code: 0-2031 [17002]
-metadata.templates.cdn.office.net                   #Microsoft   Office Download Templates
-res-h3.public.cdn.office.net                        #Microsoft   Office portal.microsoft.com)
-blob.officehome.msocdn.com                          #Microsoft   Office Login
-logincdn.msftauth.net                               #Microsoft   Office Login
-account.activedirectory.windowsazure.com            #Microsoft   Office Login [2 Step]
-identity.osi.office.net                             #Microsoft   Office Login [Web browser]
-b.c2r.ts.cdn.office.net                             #Microsoft   Office Updates (Click-to-Run)
-p.sfx.ms                                            #Microsoft   OneDrive (Breaks file list) *Web browser
-storage.live.com                                    #Microsoft   OneDrive (Download files) *Web browser
-oneclient.sfx.ms                                    #Microsoft   OneDrive (Download Installer)
-my.microsoftpersonalcontent.com                     #Microsoft   OneDrive (Sync)
-res.public.onecdn.static.microsoft                  #Microsoft   outlook.com (Images)
-substrate.office.com                                #Microsoft   outlook.com (Notes)
-statics-uhf-wus.akamaized.net                       #Microsoft   Support Pages
-statics.teams.cdn.office.net                        #Microsoft   Teams (Download)
-wdcp.microsoft.com                                  #Microsoft   Windows Defender Updates
-storecatalogrevocation.storequality.microsoft.com   #Microsoft   Windows Store (Remove licenses for malicious apps)
-displaycatalog.mp.microsoft.com                     #Microsoft   Windows Store
-services.apps.microsoft.com                         #Microsoft   Windows Store
-storeedgefd.dsx.mp.microsoft.com                    #Microsoft   Windows Store
-store-images.s-microsoft.com                        #Microsoft   Windows Store
-wscont1.apps.microsoft.com                          #Microsoft   Windows Store
-wscont2.apps.microsoft.com                          #Microsoft   Windows Store
-fe2.ws.microsoft.com                                #Microsoft   Windows 8 Store
-next-services.apps.microsoft.com                    #Microsoft   Windows 8 Store
-device.auth.xboxlive.com                            #Microsoft   Windows 10 Store
-user.auth.xboxlive.com                              #Microsoft   Windows 10 Store
-xsts.auth.xboxlive.com                              #Microsoft   Windows 10 Store
-fe2cr.update.microsoft.com                          #Microsoft   Windows 10 Updates
-slscr.update.microsoft.com                          #Microsoft   Windows 10 Updates
-title.auth.xboxlive.com                             #Microsoft   Windows 10 Xbox Login
-download.windowsupdate.com                          #Microsoft   Windows Updates (Probably doesn't break anything)
-tsfe.trafficshaping.dsp.mp.microsoft.com            #Microsoft   Windows Updates
-update.microsoft.com                                #Microsoft   Windows Updates
-windowsupdate.com                                   #Microsoft   Windows Updates
-msagfx.live.com                                     #Microsoft   Windows 10 (Initial setup) *User creation
-wscont.apps.microsoft.com                           #Microsoft   Windows 10 (Update Assistant)
-sdx.microsoft.com                                   #Microsoft   Windows 10 (Initial setup) *Check for internet
-userpresence.xboxlive.com                           #Microsoft   Xbox / Windows Games   (Friends List)
-emerald.xboxservices.com                            #Microsoft   Xbox Website (Buy Options)
-gfwsl.geforce.com                                   #Nvidia      Breaks driver search, on site / GeForce Experience (Updates)
-
-
-#####################################################
 # Computer MFGs
 #####################################################
 etrk.asus.com                                       #Asus   Download Drivers
@@ -377,6 +178,36 @@ pdfnow.adobe.io                                      #Adobe - Convert PDF to Doc
 prod.adobeccstatic.com                               #Adobe - Convert PDF to Docx
 ccmdl.adobe.com                                      #Adobe - Creative Cloud (Downloads)
 ae01.alicdn.com                                      #AliExpress - Images
+appleid.apple.com.akadns.net                        #Apple   App Store (Login)
+appleid.cdn-apple.com                               #Apple   App Store (Login)
+amp-api-search-edge.apps.apple.com                  #Apple   App Store (Search)
+ax.init.itunes.apple.com                            #Apple   App Store
+bag.itunes.apple.com                                #Apple   App Store
+osxapps.itunes.apple.com                            #Apple   App Store
+play.itunes.apple.com                               #Apple   App Store
+search.itunes.apple.com                             #Apple   App Store
+swcatalog.apple.com                                 #Apple   Check for updates
+idmsa.apple.com                                     #Apple   iCloud (Website Login)
+clouddrive.com                                      #Apple   iCloud
+gsa.apple.com.akadns.net                            #Apple   System Update
+gsa.apple.com                                       #Apple   System Update
+mesu.apple.com                                      #Apple   System Update
+appldnld.apple.com.akadns.net                       #Apple   Updates
+appldnld.apple.com                                  #Apple   Updates
+appldnld                                            #Apple   Updates
+gdmf.apple.com.akadns.net                           #Apple   Updates
+gdmf.apple.com                                      #Apple   Updates
+gs.apple.com.akadns.net                             #Apple   Updates
+gs.apple.com                                        #Apple   Updates
+init.itunes.apple.com                               #Apple   Updates
+mesu.g.aaplimg.com                                  #Apple   Updates
+secure-appldnld.apple.com                           #Apple   Updates
+swcdn.apple.com                                     #Apple   Updates
+swcdnlocator.apple.com                              #Apple   Updates
+swdownload.apple.com                                #Apple   Updates
+swquery.apple.com                                   #Apple   Updates
+swscan.apple.com                                    #Apple   Updates
+web-experience.itunes.apple.com                     #Apple   Website (Images)
 gannett-cdn.com                                      #Argus Leader - Breaks site
 data.amazon.com                                                #Amazon - Breaks "Add to cart"
 apx-security.amazon.com                                        #Amazon - Breaks "Add Credit Card"
@@ -406,6 +237,8 @@ static.cloud.coveo.com                               #Cabelas - Sign-in
 graphql.api.dailymotion.com                          #DailyMotion - Videos Don't Load
 s2.dmcdn.net                                         #DailyMotion - Videos Thumbnails
 vendorlist.dmcdn.net                                 #DailyMotion - Breaks Site (For Some Users)
+service-adhoc.dji.com                                #DJI  - File download (website)
+terra-2-g.djicdn.com                                 #DJI  - File download (website)
 pulsar.ebay.com                                      #Ebay - Breaks "Other Items For Sale From Seller"
 ir.ebaystatic.com                                    #Ebay - Breaks "See All" in advanced search
 gha.ebay.com                                         #Ebay - Notifications
@@ -422,6 +255,66 @@ tredir.espn.com                                      #ESPN - Prevents videos fro
 cfa.fidelity.com                                     #Fidelity - Login
 dpservice.fidelity.com                               #Fidelity - Data download
 iris06-gold-ssl.gameloft.com                         #Gameloft - Prevents games from starting
+notifications-pa.googleapis.com                  #Google   2FA - Sends notification to phone/tablet
+cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
+ota-cache1.googlezip.net                         #Google   Android (System Updates)
+androidtvlauncherxfe-pa.googleapis.com           #Google   Android (Check for internet)
+play-lh.googleusercontent.com                    #Google   Android Store Images
+tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
+tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
+clients3.google.com                              #Google   ChromeOS Signin (connection is limited)
+crls.pki.goog                                    #Google   Chrome Download (Portable Version)
+chrome.google.com                                #Google   Chrome Store (Page)
+lh3.googleusercontent.com                        #Google   Chrome Store (Icons)
+clients2.google.com                              #Google   Chrome Store (Download)
+clients4.google.com                              #Google   Chrome (Sync Account)
+storage.googleapis.com                           #Google   Chrome Store (Download)
+dl.google.com                                    #Google   Chrome (Download)
+tools.google.com                                 #Google   Chrome (Update)
+apis.google.com                                  #Google   Chrome
+cloudconsole-pa.clients6.google.com              #Google   Cloud - Breaks search bar
+cloud.google.com                                 #Google   Cloud - Breaks 'Terms of Service'
+encrypted-tbn0.gstatic.com                       #Google   Images
+encrypted-tbn1.gstatic.com                       #Google   Images
+encrypted-tbn2.gstatic.com                       #Google   Images
+encrypted-tbn3.gstatic.com                       #Google   Images
+gstatic.com                                      #Google   Images
+t0.gstatic.com                                   #Google   Images (Click an image in WEB search results) *Side popup
+redirector.gvt1.com                              #Google   Chrome
+people-pa.googleapis.com                         #Google   Contacts Sync (Phone)
+peoplestack-pa.clients6.google.com               #Google   Contacts Sync (Phone)
+people-pa.clients6.google.com                    #Google   Contacts Suggestion (gmail)
+clients6.google.com                              #Google   Drive (Download From Browser)
+takeout-pa.clients6.google.com                   #Google   Drive (Download From Browser)
+ocsp.pki.goog                                    #Google   Drive (Sign In)
+edgedl.me.gvt1.com                               #Google   Earth Download (Fails, then tries 'dl.google.com')
+khmdb.google.com                                 #Google   Earth Database (Freezes Google Earth *App)
+geo0.ggpht.com                                   #Google   Earth Street View
+fonts.gstatic.com                                #Google   Fonts, on some menues
+fonts.googleapis.com                             #Google   Fonts, on some menues
+ogs.google.com                                   #Google   Keep (Breaks Sync / Web Apps)
+scone-pa.clients6.google.com                     #Google   Keep (Breaks Sync)
+signaler-pa.clients6.google.com                  #Google   Keep (Breaks Sync)
+accounts.google.com                              #Google   Login
+gds.google.com                                   #Google   Login (After 2FA)
+mobilemaps-pa-gz.googleapis.com                  #Google   Maps (Download maps for offline use)
+op-d.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
+op-u.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
+kh.google.com                                    #Google   Maps (Earth View)
+playstoregatewayadapter-pa.googleapis.com        #Google   Play Store (Breaks app search)
+pki.goog                                         #Google   Public Key
+pki-goog.l.google.com                            #Google   Public Key
+o.pki.goog                                       #Google   Trust Certificates
+translate.googleapis.com                         #Google   Tranlsate
+lens-pa.googleapis.com                           #Google   Tranlsate Image
+youtubei.googleapis.com                          #Google   YouTube (Breaks App)
+jnn-pa.googleapis.com                            #Google   YouTube (Buffer Issues)
+yt3.googleusercontent.com                        #Google   YouTube (Images)
+suggestqueries-clients6.youtube.com              #Google   YouTube (Search Suggest)
+youtube-nocookie.com                             #Google   YouTube (Embedded)
+youtu.be                                         #Google   YouTube (Shortener) Right click video --> "Copy at this time"
+i.ytimg.com                                      #Google   YouTube (Thumbnails)
+clients1.google.com                              #Google   Youtube (Search Suggest) *App
 cdn-us-cf2.yottaa.net                                #Images - Brownells
 qoe-1.yottaa.net                                     #Images - Brownells
 terra-1-g.djicdn.com                                 #Images - DJI
@@ -430,7 +323,111 @@ staticapp.icpsc.com                                  #Images - Sig Sauer Email
 l.yimg.com                                           #Images - Yahoo
 s1.yimg.com                                          #Images - Yahoo
 s.yimg.com                                           #Images - Yahoo
+g.live.com                                              #Microsoft   .Net Framework
+licensing.mp.microsoft.com                              #Microsoft   Activate Windows
+cart.production.store-web.dynamics.com                  #Microsoft   Add Payment Info
+th.bing.com                                             #Microsoft   Bing Images
+aadcdn.msauth.net                                       #Microsoft   Breaks Images
+edgestatic-ehf9gbe6gfdfdec4.z01.azurefd.net             #Microsoft   Breaks Website
+ztd.dds.microsoft.com                                   #Microsoft   Breaks Windows 11 setup (After connect to network)
+time.windows.com                                        #Microsoft   Clock
+client.hip.live.com                                     #Microsoft   Create Email Account
+acctcdn.msftauth.net                                    #Microsoft   Create Email Account
+eus.client.hip.live.com                                 #Microsoft   Create Email Account (Captcha)
+scu.client.hip.live.com                                 #Microsoft   Create Email Account (Captcha)
+ncu.client.hip.live.com                                 #Microsoft   Create Email Account (Captcha)
+fpt.live.com                                            #Microsoft   Create Email Account (Captcha) *Does not display
+msft.hsprotect.net                                      #Microsoft   Create Email Account (Captcha) *HumanSecurity
+packages.microsoft.com                                  #Microsoft   Download Files (edge.deb)
+assets.onestore.ms                                      #Microsoft   Downloads Page
+fs.microsoft.com                                        #Microsoft   Downloads Fonts
+fs.microsoft.com.akadns.net                             #Microsoft   Downloads Fonts
+msedge.sf.dl.delivery.mp.microsoft.com                  #Microsoft   Edge (Download) (.msi version)
+edgefrecdn.azureedge.net                                #Microsoft   Edge (Download)
+microsoftedgewelcome.microsoft.com                      #Microsoft   Edge (Download)
+msedge.api.cdp.microsoft.com                            #Microsoft   Edge (Download)
+msedge.f.tlu.dl.delivery.mp.microsoft.com               #Microsoft   Edge (Download)
+msedge.b.tlu.dl.delivery.mp.microsoft.com               #Microsoft   Edge (Updates)
+msedge.f.dl.delivery.mp.microsoft.com                   #Microsoft   Edge (Updates)
+edge.microsoft.com                                      #Microsoft   Edge (Download) Extensions
+microsoftedge.microsoft.com                             #Microsoft   Edge (Extensions Webpage)
+ratingsedge.rnr.microsoft.com                           #Microsoft   Edge (Extensions Webpage) *Ratings
+dsm-efz.ms-acdc.office.com                              #Microsoft   Email (Imap)
+login.live.com                                          #Microsoft   Email (Login)
+login.microsoftonline.com                               #Microsoft   Email (Login)
+mdw-efz.ms-acdc.office.com                              #Microsoft   Email (Login)
+wus.client.hip.live.com                                 #Microsoft   Email (Captcha)
+i1.social.s-msft.com                                    #Microsoft   Forums Page
+ee38.playfabapi.com                                     #Microsoft   Games (Breaks Online) Halo: Master Chief Collection
+peoplehub.xboxlive.com                                  #Microsoft   Games (Breaks Social) Halo: Master Chief Collection
+title.mgt.xboxlive.com                                  #Microsoft   Games (Breaks Launch)
+insideruser.microsoft.com                               #Microsoft   Insider (Windows Updates --> Windows Insider Program)
+cdn-dynmedia-1.microsoft.com                            #Microsoft   Microsoft Store (Images)
+zone.msn.com                                            #Microsoft   MSN  (Games)
+img-s-msn-com.akamaized.net                             #Microsoft   MSN  (Images)
+assets.msn.com                                          #Microsoft   MSN  (Main Page)
+dns.msftncsi.com                                        #Microsoft   Network Icon Status
+msftconnecttest.com                                     #Microsoft   Network Icon Status
+msftncsi.com                                            #Microsoft   Network Icon Status
+assets.account.microsoft.com                            #Microsoft   Office 365 (Website Tile Images)
+compass-ssl.microsoft.com                               #Microsoft   Office 365 (Website Tile Images)
+shell.cdn.office.net                                    #Microsoft   Office 365 (Website Tile Images)
+spoppe-b.azureedge.net                                  #Microsoft   Office 365 (Website Tile Images)
+blobs.officehome.msocdn.com                             #Microsoft   Office Site
+graph.microsoft.com                                     #Microsoft   Office Site (Enter product key)
+activation-v2.sls.microsoft.com                         #Microsoft   Office Activate
+go.microsoft.com                                        #Microsoft   Office Activate
+officeclient.microsoft.com                              #Microsoft   Office Activate
+ajax.aspnetcdn.com                                      #Microsoft   Office Download
+az725175.vo.msecnd.net                                  #Microsoft   Office Download
+office.live.com                                         #Microsoft   Office Download
+statics-marketingsites-eus-ms-com.akamaized.net         #Microsoft   Office Download [2010]
+statics-marketingsites-wcus-ms-com.akamaized.net        #Microsoft   Office Download [2010]
+f.c2r.ts.cdn.office.net                                 #Microsoft   Office Download [2021]
+mrodevicemgr.officeapps.live.com                        #Microsoft   Office Download [2021] Error Code: 0-2031 [17002]
+ecs.office.com                                          #Microsoft   Office Download [2021] Error Code: 0-2031 [17002]
+metadata.templates.cdn.office.net                       #Microsoft   Office Download Templates
+res-h3.public.cdn.office.net                            #Microsoft   Office portal.microsoft.com)
+blob.officehome.msocdn.com                              #Microsoft   Office Login
+logincdn.msftauth.net                                   #Microsoft   Office Login
+account.activedirectory.windowsazure.com                #Microsoft   Office Login [2 Step]
+identity.osi.office.net                                 #Microsoft   Office Login [Web browser]
+b.c2r.ts.cdn.office.net                                 #Microsoft   Office Updates (Click-to-Run)
+p.sfx.ms                                                #Microsoft   OneDrive (Breaks file list) *Web browser
+storage.live.com                                        #Microsoft   OneDrive (Download files) *Web browser
+oneclient.sfx.ms                                        #Microsoft   OneDrive (Download Installer)
+my.microsoftpersonalcontent.com                         #Microsoft   OneDrive (Sync)
+res.public.onecdn.static.microsoft                      #Microsoft   outlook.com (Images)
+substrate.office.com                                    #Microsoft   outlook.com (Notes)
+statics-uhf-wus.akamaized.net                           #Microsoft   Support Pages
+statics.teams.cdn.office.net                            #Microsoft   Teams (Download)
+wdcp.microsoft.com                                      #Microsoft   Windows Defender Updates
+storecatalogrevocation.storequality.microsoft.com       #Microsoft   Windows Store (Remove licenses for malicious apps)
+displaycatalog.mp.microsoft.com                         #Microsoft   Windows Store
+services.apps.microsoft.com                             #Microsoft   Windows Store
+storeedgefd.dsx.mp.microsoft.com                        #Microsoft   Windows Store
+store-images.s-microsoft.com                            #Microsoft   Windows Store
+wscont1.apps.microsoft.com                              #Microsoft   Windows Store
+wscont2.apps.microsoft.com                              #Microsoft   Windows Store
+fe2.ws.microsoft.com                                    #Microsoft   Windows 8 Store
+next-services.apps.microsoft.com                        #Microsoft   Windows 8 Store
+device.auth.xboxlive.com                                #Microsoft   Windows 10 Store
+user.auth.xboxlive.com                                  #Microsoft   Windows 10 Store
+xsts.auth.xboxlive.com                                  #Microsoft   Windows 10 Store
+fe2cr.update.microsoft.com                              #Microsoft   Windows 10 Updates
+slscr.update.microsoft.com                              #Microsoft   Windows 10 Updates
+title.auth.xboxlive.com                                 #Microsoft   Windows 10 Xbox Login
+download.windowsupdate.com                              #Microsoft   Windows Updates (Probably doesn't break anything)
+tsfe.trafficshaping.dsp.mp.microsoft.com                #Microsoft   Windows Updates
+update.microsoft.com                                    #Microsoft   Windows Updates
+windowsupdate.com                                       #Microsoft   Windows Updates
+msagfx.live.com                                         #Microsoft   Windows 10 (Initial setup) *User creation
+wscont.apps.microsoft.com                               #Microsoft   Windows 10 (Update Assistant)
+sdx.microsoft.com                                       #Microsoft   Windows 10 (Initial setup) *Check for internet
+userpresence.xboxlive.com                               #Microsoft   Xbox / Windows Games   (Friends List)
+emerald.xboxservices.com                                #Microsoft   Xbox Website (Buy Options)
 codex.nflxext.com                                    #Netflix - Website - Main Page
+gfwsl.geforce.com                                    #Nvidia  - Breaks driver search, on site / GeForce Experience (Updates)
 c.paypal.com                                         #PayPal - Required for Sign In
 glance.cdn.net                                       #QuickBooks  Breaks Remote Support (Does not resolv)
 glance.intuit.com                                    #QuickBooks  Breaks Remote Support

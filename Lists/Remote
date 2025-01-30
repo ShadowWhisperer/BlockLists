@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 137
-# Updated: 11/27/2024  12:49 (12:49 PM CST)
+# Domains: 138
+# Updated: 1/29/2025  19:01 (7:01 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -104,6 +104,7 @@ remmina.org
 remoteassistance.support.services.microsoft.com
 remote.bz
 remote-control-desktop.com
+remotedesktop.com
 remote-desktop-control.com
 remotedesktop.google.com
 remotely-anywhere.ch
