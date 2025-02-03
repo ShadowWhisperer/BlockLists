@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,589
-# Updated: 1/30/2025  22:15 (10:15 PM CST)
+# Domains: 96,595
+# Updated: 2/3/2025  00:15 (12:15 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -17186,6 +17186,7 @@ collector-pxdojv695v.protechts.net
 collector.quizzop.com
 collector.retailcrm.pro
 collector.reviews.co.uk
+collector.reviews.io
 collector.rocketmiles.com
 collector.scopely.io
 collector.seranking.com
@@ -18643,7 +18644,6 @@ country-blocker.zend-apps.com
 country.is
 countrysamplermagazine-news.com
 countrysampler-news.com
-country.tryshift.com
 countryworks.com
 count.shein.com
 count.taobao.com
@@ -23912,6 +23912,7 @@ etrack.ext.hpe.com
 e.trajanwealth.com
 et.resellerratings.com
 etrkom.com
+ets.easybrain.com
 etsource.epicgames.com
 ettilt.com
 etui.fs.ml.com
@@ -23955,6 +23956,7 @@ event.bcon.jp
 event.bitforex.com
 eventbus.intuit.com
 event-client.viabill.com
+event.cmccdn.com
 event-collection.fevo.com
 eventcollector.azureedge.net
 eventcollector.dditservices.com
@@ -31406,6 +31408,7 @@ intermediary.leedsbuildingsociety.co.uk
 internal-analytics.odoo.com
 internalcommunications.ms.aa.com
 internalcondition.com
+internallink.live
 internalsink.com
 internal.soprasteria.com
 international.bau.edu.tr
@@ -53657,6 +53660,7 @@ ohmanalytics.com
 ohm-dot-hackster-io.appspot.com
 ohmystats.com
 ohprz.theperfectjean.nyc
+o-iab-imp-counters.mediation.unity3d.com
 oia.outdoorindustry.org
 oimg.login.cnbc.com
 oimg.m.calltheclose.cnbc.com
@@ -63093,6 +63097,7 @@ pixel.lynconfranca.com.br
 pixel.macelwallace.com.br
 pixel.maderoterapiasportofficial.es
 pixel.maesqueeducam.com.br
+pixel.magentamarketing.com
 pixel.magiconinja.com.br
 pixel.magisengenharia.com
 pixel.magistral.com
@@ -90427,6 +90432,7 @@ usesfathom.com
 use.signa.at
 usesystechone.com
 use.tamara.co
+use-trk.bluevoox.com
 useulti.xyz
 us-events.api.iheart.com
 us-fp.apitd.net
