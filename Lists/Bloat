@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 731
-# Updated: 1/15/2025  23:39 (11:39 PM CST)
+# Domains: 732
+# Updated: 2/6/2025  09:57 (9:57 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -47,6 +47,8 @@ brewsurvey.com                                          #Survey
 checkmarket.com                                         #Survey
 chkmkt.com                                              #Survey
 clixsense.com                                           #Survey
+crowdsignal.com                                         #Survey
+d2yyd1h5u9mauk.cloudfront.net                           #Survey
 inmoment.com                                            #Survey
 lb.polldaddy.com                                        #Survey
 oneopinion.com                                          #Survey
@@ -62,14 +64,13 @@ secure.polldaddy.com                                    #Survey
 sprig.com                                               #Survey
 survey2you.com                                          #Survey
 survey.app.do                                           #Survey
+survey.fm                                               #Survey
 survey.io                                               #Survey
 surveyrouter.com                                        #Survey
 tns-gallup.dk                                           #Survey
 typeform.com                                            #Survey
 ups.surveyrouter.com                                    #Survey
 wenjuan.com                                             #Survey
-survey.fm                                               #Survey
-crowdsignal.com                                         #Survey
 you-cubez.com                                           #Survey
 amdsurveys.com                                          #Survey - AMD
 delighted.com                                           #Survey - Delighted
