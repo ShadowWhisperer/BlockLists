@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,606
-# Updated: 2/6/2025  08:31 (8:31 AM CST)
+# Domains: 96,608
+# Updated: 2/6/2025  21:08 (9:08 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2799,6 +2799,7 @@ aef.argyleforum.com
 a.ehc.com
 a.ekero.se
 aem-collector.daumkakao.io
+aem-kakao-collector.onkakao.net
 a.environmentaldefense.org
 ae.oreilly.co.jp
 ae.oreilly.com
@@ -90553,6 +90554,7 @@ vbtrax.com
 v-collector.dp.aws.charter.com
 v-count.com
 vcvnl.fashionnova.com
+vdconmailbox-585.top
 vdi.parallels.com
 vdksda.com
 vdp.safety.expert
