@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,617
-# Updated: 2/11/2025  17:26 (5:26 PM CST)
+# Domains: 96,620
+# Updated: 2/11/2025  21:05 (9:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16815,6 +16815,7 @@ cl.idearu.info
 clidev.commpayhr.com
 client-analytics.braintreegateway.com
 client-errors.overwolf.com
+client-eventing-production01.cengage.info
 clientgear.com
 client-log.box.com
 client-logger.beta.salemove.com
@@ -32463,6 +32464,7 @@ lcdn-locator-usuqo.apple.com.akadns.net
 lc.e-lazy.jp
 lcgqqbzo.mi-msg.com
 lc.l-cinderella.com
+l.coupert.com
 lcprd1.samsungcloudsolution.net
 lc.res-w.com
 lc.ritz5.com
@@ -68682,6 +68684,7 @@ sc.thedailyshow.com
 sc.ulsterbank.co.uk
 sc.ulsterbank.ie
 sc.unitymedia.de
+scv.band.us
 sc.vcesupport.com
 sc.vh1.com
 sc.vmware.com
