@@ -27805,6 +27805,7 @@ pbs.org
 pbs-prod.linustechtips.com
 pbsrc.com
 pbs.twimg.com
+pbs.twimg.com.cdn.cloudflare.net
 pb.tedcdn.com
 pc2.mypreferences.com
 pcast.phenixrts.com
@@ -30050,6 +30051,7 @@ reddit-meta-production.s3.amazonaws.com
 redditsave.com
 redditstatic.com
 redditstatus.com
+reddit-subreddit-uploaded-media.s3-accelerate.amazonaws.com
 reddit-uploaded-media.s3-accelerate.amazonaws.com
 reddit-web.app.link
 reddotshooters.com
@@ -38877,6 +38879,7 @@ video.thechosen.tv
 videothumbs.me
 videotoday.site
 video.twimg.com
+video.twimg.com.cdn.cloudflare.net
 video.ubnt.com
 video.ugetube.com
 video.ui.com
