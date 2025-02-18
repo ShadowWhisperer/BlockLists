@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 441
-# Updated: 2/16/2025  11:35 (11:35 AM CST)
+# Domains: 446
+# Updated: 2/18/2025  17:30 (5:30 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -31,6 +31,8 @@ anychat.one
 apexchat.com
 apex.live
 apps.mypurecloud.de
+arklex.ai
+arklexai.github.io
 artibot.ai
 astutebot.com
 atomxdigital.com
@@ -88,6 +90,7 @@ chatbot.lmiutil.com
 chat-bot.nalog.ru
 chatbot.novaonx.com
 chatbot.pef.czu.cz
+chatbot-service.vegas.com
 chatbot-staging.novaonx.com
 chatbot.suncorpbank.com.au
 chatbotthoitrang.novaonx.com
@@ -154,6 +157,7 @@ conversica.com
 conversiobotapp.com
 conversiobot.com
 conversio-bot-media.s3.amazonaws.com
+conv.rs
 coreliscare-com.mb.softbank.jp
 crisp.chat
 crisp.im
@@ -182,6 +186,7 @@ ebbot.ai
 ebbot.app
 e-bot7.com
 echatsoft.com
+edubot-images.s3.amazonaws.com
 effect.com
 elev.io
 engagement.ai
