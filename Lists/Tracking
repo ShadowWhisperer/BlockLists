@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 96,918
-# Updated: 2/20/2025  23:22 (11:22 PM CST)
+# Domains: 96,919
+# Updated: 2/21/2025  11:58 (11:58 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5174,6 +5174,7 @@ analytics.cdmon.com
 analytics.cdn.aimediagroup.com
 analytics-cdn.avatrade.io
 analytics.cdnec.ir
+analytics-cdn.elperiodico.com
 analytics-cdn.friendly.is
 analytics-cdn.junilearning.com
 analytics-cdn.lahaus.com
