@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 293
-# Updated: 2/3/2025  00:15 (12:15 AM CST)
+# Domains: 290
+# Updated: 2/20/2025  23:22 (11:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -33,9 +33,6 @@ bitdefender.pt                                 #Antivirus    BitDefender
 bitdefender.ro                                 #Antivirus    BitDefender
 bitdefender.se                                 #Antivirus    BitDefender
 da3e3.net                                      #Antivirus    BitDefender
-e5.sk                                          #Antivirus    Eset
-eset.com                                       #Antivirus    Eset
-eset.systems                                   #Antivirus    Eset
 fortect.com                                    #Antivirus    Fortect
 ijinshan.com                                   #Antivirus    Kingsoft
 cloudantivirus.com                             #Antivirus    Panda
