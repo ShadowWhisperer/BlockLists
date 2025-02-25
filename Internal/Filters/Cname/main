@@ -1,0 +1,282 @@
+alibaba.com                                                    #Generic
+alibabadns.com                                                 #Generic
+aliyuncs.com                                                   #Generic
+azurewebsites.net                                              #Generic
+casmp.adperfect.com                                            #Generic
+cdn77.org                                                      #Generic
+cdn.adobeaemcloud.com                                          #Generic
+cloudflare.net                                                 #Generic
+domains.transistor.fm                                          #Generic
+edgekey.net                                                    #Generic
+fastly.net                                                     #Generic
+ghs.googlehosted.com                                           #Generic
+google.com                                                     #Generic
+herokudns.com                                                  #Generic
+impervadns.net                                                 #Generic
+podbean.com                                                    #Generic
+proxy-ssl.webflow.com                                          #Generic
+s3-1-w.amazonaws.com                                           #Generic
+sites.hubspot.net                                              #Generic
+squarespace.com                                                #Generic
+substack-custom-domains.com                                    #Generic
+tumblr.com                                                     #Generic
+vercel-dns.com                                                 #Generic
+wixdns.net                                                     #Generic
+wpenginepowered.com                                            #Generic
+wpeproxy.com                                                   #Generic
+zoho.eu                                                        #Generic
+
+connectedcommunity.org                                         #Redirect
+dom.bandcamp.com                                               #Redirect
+higherlogic.com                                                #Redirect
+webredir.gandi.net                                             #Redirect
+
+auth0.com                                                      #Ignore
+gigya-api.com                                                  #Ignore
+lloydsbanking.com                                              #Ignore
+okta.com                                                       #Ignore
+oktapreview.com                                                #Ignore
+schoolwires.com                                                #Ignore
+townsquaremedia.com                                            #Ignore
+
+afternic.com                                                   #Parked
+a.sinkhole.yourtrap.com                                        #Parked
+bodis.com                                                      #Parked
+cpark.go2affise.com                                            #Parked
+domainexpired-dnspod.cn                                        #Parked
+domainexpired.dnspod.cn                                        #Parked
+expired.gname.net                                              #Parked
+expired.hichina.com                                            #Parked
+hugedomains.com                                                #Parked
+parkingcrew.net                                                #Parked
+parking.everad.com                                             #Parked
+parkingsrv0.dondominio.com                                     #Parked
+rdtk.io                                                        #Parked
+sedoparking.com                                                #Parked
+urlforward.namebright.com                                      #Parked
+
+popcashjs.b-cdn.net                                            #Ad_PopCash
+thirdparty.bnc.lt                                              #BNC
+dnsdelegation.io                                               #Criteo
+fuse-ad.com                                                    #FuseAd
+funnelcockpit                                                  #FunnelCockpit
+mail2easy.com.br                                               #Mail2Easy
+d25tro63an750f.cloudfront.net                                  #MovableInk
+d7b4oen68ez9x.cloudfront.net                                   #MovableInk
+ocast.com                                                      #Ocast
+online-metrix.net                                              #OnlineMetrix
+pardot.com                                                     #Pardot
+privacy-mgmt.com                                               #PrivacyMgmt
+salesforce.com                                                 #SalesForce
+salesforce-scrt.com                                            #SalesForce
+tanx.com                                                       #TanX
+
+acs3.tc                                                        #Links
+actonservice.com                                               #Links
+api.elasticemail.com                                           #Links
+click.postup.com                                               #Links
+custom.bnc.lt                                                  #Links
+eloqua.com                                                     #Links
+email-view.com                                                 #Links
+extole.io                                                      #Links
+impactradius.com                                               #Links
+links.switchy.io                                               #Links
+mailgun.org                                                    #Links
+mandrillapp.com                                                #Links
+marketingautomation.services                                   #Links
+md02.com                                                       #Links
+msgapp.com                                                     #Links
+partners.goaffpro.com                                          #Links
+roadster.com                                                   #Links
+sailthru.com                                                   #Links
+saleshandy.com                                                 #Links
+shop.goaffpro.com                                              #Links
+tapfiliate.com                                                 #Links
+tracking.socketlabs.com                                        #Links
+tradetracker.net                                               #Links
+tradetracker.nl                                                #Links
+travelpayouts.com                                              #Links
+trkpnt.ongage.net                                              #Links
+advertiser.adtraction.com                                      #Links
+redirect.skimlinks.com                                         #Links
+
+hatenablog.com                                                 #Blog
+
+domains.payhip.com                                             #Shopping
+shops.myshopify.com                                            #Shopping
+
+readthedocs.io                                                 #Company [Documentation]
+apptegy.net                                                    #Company [Education]
+myschoolportal.co.uk                                           #Company [Education]
+affilbox.cz                                                    #Company [Marketing]
+clickdimensions.com                                            #Company [Marketing]
+clickfunnels.com                                               #Company [Marketing]
+ext-domain.couponplus.ch                                       #Company [Marketing]
+mktossl.com                                                    #Company [Marketing]
+mktoweb.com                                                    #Company [Marketing]
+rds.land                                                       #Company [Marketing]
+rdstation.com.br                                               #Company [Marketing]
+slgnt.eu                                                       #Company [Marketing]
+slgnt.us                                                       #Company [Marketing]
+wishpond.com                                                   #Company [Marketing]
+plezi.co                                                       #Company [Marketing]
+hosted-checkout.stripecdn.com                                  #Company [Payment System]
+domains.smugmug.com                                            #Company [Photography]
+ext.teamtailor.com                                             #Company [Recruiting]
+recruitology.com                                               #Company [Recruiting]
+naylor.com                                                     #Company [Recruiting]
+statuspage.betteruptime.com                                    #Company [Service]
+cname.thebase.in                                               #Company [Shopping]
+qualtrics.com                                                  #Company [Survey]
+schoolblocks.com                                               #Company [Web Design]
+
+
+#####################################################
+# Block
+#####################################################
+
+adservrs.com                                                   #Ad-RootServ
+
+0i0i0i0.com                                                    #Ad
+adbutler.com                                                   #Ad
+adglare.net                                                    #Ad
+adimages.gns.go.com                                            #Ad
+adloop.co                                                      #Ad
+adnxs.com                                                      #Ad
+adserver-2084671375.us-east-1.elb.amazonaws.com                #Ad
+adsninjacdn.b-cdn.net                                          #Ad
+adsrv.eacdn.com                                                #Ad
+adsrv.net                                                      #Ad
+ads.vg.no                                                      #Ad
+adtelligent.com                                                #Ad
+aimatch.com                                                    #Ad
+amazon-adsystem.com                                            #Ad
+api.clickaine.com                                              #Ad
+aqua-adserver.com                                              #Ad
+aquaplatform.com                                               #Ad
+bidder.gsh.io                                                  #Ad
+bs-adserver.b-cdn.net                                          #Ad
+client.grv.media                                               #Ad
+contentsfeed.com                                               #Ad
+ebis.ne.jp                                                     #Ad
+engine.adglare.net                                             #Ad
+eskimi.com                                                     #Ad
+goadserver.com                                                 #Ad
+pexi.nl                                                        #Ad
+postrelease.com                                                #Ad
+revive-adserver.net                                            #Ad
+reviveservers.com                                              #Ad
+rs-stripe.com                                                  #Ad
+servedbyadbutler.com                                           #Ad
+share.bannersnack.com                                          #Ad
+smartadserver.com                                              #Ad
+tenmax.io                                                      #Ad
+unoadsrv.com                                                   #Ad
+unrulyvideo.com                                                #Ad
+with.contentpass.net                                           #Ad
+
+realdates4you.com                                              #Adult
+
+abimimojo2.com                                                 #Malware
+abimimojo.com                                                  #Malware
+ads4tck.com                                                    #Malware
+cdn44221613.ahacdn.me                                          #Malware
+native.wpu.sh                                                  #Malware
+rollserver.xyz                                                 #Malware
+
+250analytics.com                                               #Tracker
+2o7.net                                                        #Tracker
+actonsoftware.com                                              #Tracker
+analytics.4success.com.br                                      #Tracker
+app.leadsrx.com                                                #Tracker
+audience.kevel.com                                             #Tracker
+autotrack.ebaycdn.net                                          #Tracker
+canny.io                                                       #Tracker
+cerebro.services                                               #Tracker
+clicktripz.com                                                 #Tracker
+clientseoreport.com                                            #Tracker
+c.msn.co.uk                                                    #Tracker
+cname.cordial.com                                              #Tracker
+collector.xhamster.com                                         #Tracker
+connext-cdn.azureedge.net                                      #Tracker
+connext-cdn-mng1.azureedge.net                                 #Tracker
+connext-cdn-mng2.azureedge.net                                 #Tracker
+count.ly                                                       #Tracker
+cust.fusedeck.net                                              #Tracker
+custom-domains.appcues.com                                     #Tracker
+customer.pendo.io                                              #Tracker
+custom-tracking.salesloft.com                                  #Tracker
+d3ero110829hmj.cloudfront.net                                  #Tracker
+data.adobedc.net                                               #Tracker
+dataunlocker.com                                               #Tracker
+dmanalytics1.com                                               #Tracker
+edgetag.io                                                     #Tracker
+etracker.com                                                   #Tracker
+e.truedata.co                                                  #Tracker
+eventtracking-geo-prod.connexity.com                           #Tracker
+exactag.com                                                    #Tracker
+exponea.com                                                    #Tracker
+external.simpleanalytics.com                                   #Tracker
+external.simpleanalytics.io                                    #Tracker
+first-party-js.datadome.co                                     #Tracker
+fp-cdn.azureedge.net                                           #Tracker
+fp-cdn-mng1.azureedge.net                                      #Tracker
+fp-cdn-mng2.azureedge.net                                      #Tracker
+fpt.dfp.microsoft.com                                          #Tracker
+g2insights-cdn.azureedge.net                                   #Tracker
+g2insights-cdn-mng1.azureedge.net                              #Tracker
+g2insights-cdn-mng2.azureedge.net                              #Tracker
+gemius.pl                                                      #Tracker
+getclicky.com                                                  #Tracker
+getrockerbox.com                                               #Tracker
+ghochv3eng.trafficmanager.net                                  #Tracker
+glb.deepsearch.adlucent.com                                    #Tracker
+goatcounter.com                                                #Tracker
+gsght.com                                                      #Tracker
+hyros.com                                                      #Tracker
+ink1001.com                                                    #Tracker
+iocnt.net                                                      #Tracker
+lightning.warnermediacdn.com                                   #Tracker
+log.aliyuncs.com                                               #Tracker
+log-global.aliyuncs.com                                        #Tracker
+looker.com                                                     #Tracker
+mautic.net                                                     #Tracker
+mediarithmics.com                                              #Tracker
+mparticle.map.fastly.net                                       #Tracker
+nc0.co                                                         #Tracker
+netinsight.co.kr                                               #Tracker
+nineanalytics.io                                               #Tracker
+omtrdc.net                                                     #Tracker
+open-analytics.se                                              #Tracker
+opsone-analytics.ch                                            #Tracker
+piwik.pro                                                      #Tracker
+pixel.eduzz.com                                                #Tracker
+pixel.hotmart.com                                              #Tracker
+posthog.com                                                    #Tracker
+raventrack.com                                                 #Tracker
+ris.microsoft.com                                              #Tracker
+r.mailin.fr                                                    #Tracker
+securedvisit.com                                               #Tracker
+secure.gooddata.com                                            #Tracker
+segmetrics.io                                                  #Tracker
+simpleanalyticsexternal.com                                    #Tracker
+snrbox.com                                                     #Tracker
+spgo.io                                                        #Tracker
+stape.io                                                       #Tracker
+starman.fathomdns.com                                          #Tracker
+stat-pulse.com                                                 #Tracker
+stat.really.fi                                                 #Tracker
+stats.uptimerobot.com                                          #Tracker
+taplytics.com                                                  #Tracker
+track.adsrv.net                                                #Tracker
+tracker-use.ortb.net                                           #Tracker
+tracking.journy.io                                             #Tracker
+trackjs.com                                                    #Tracker
+trck.a8.net                                                    #Tracker
+usercentrics.eu                                                #Tracker
+usermaven.com                                                  #Tracker
+wecantrack.com                                                 #Tracker
+we-stats.com                                                   #Tracker
+whs.sendergen.com                                              #Tracker
+wizaly.com                                                     #Tracker
+wt-eu02.net                                                    #Tracker
