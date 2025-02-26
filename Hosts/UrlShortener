@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,870
-# Updated: 2/26/2025  10:57 (10:57 AM CST)
+# Domains: 3,897
+# Updated: 2/26/2025  17:12 (5:12 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -883,6 +883,7 @@
 0.0.0.0 dfthethao.com
 0.0.0.0 dgmmx.com
 0.0.0.0 dgo.to
+0.0.0.0 dgshort.com
 0.0.0.0 dgt.fm
 0.0.0.0 dhe.one
 0.0.0.0 diakoniefeier.live
@@ -1493,6 +1494,7 @@
 0.0.0.0 in.mt
 0.0.0.0 inmusic.to
 0.0.0.0 insdr.life
+0.0.0.0 inshort.ly
 0.0.0.0 insprl.com
 0.0.0.0 instarouting.com
 0.0.0.0 instaurl.me
@@ -1704,6 +1706,7 @@
 0.0.0.0 kve.so
 0.0.0.0 kwx.fyi
 0.0.0.0 kyaa.info
+0.0.0.0 kyshort.xyz
 0.0.0.0 l00p.eu
 0.0.0.0 l24.im
 0.0.0.0 l2f.ca
@@ -1837,11 +1840,13 @@
 0.0.0.0 linksable.to
 0.0.0.0 link.sekuritance.com
 0.0.0.0 linksfire.net
+0.0.0.0 linkshortener.at
 0.0.0.0 linkshortenerfree.com
 0.0.0.0 linkshorteners.com
 0.0.0.0 linkshort.eu
 0.0.0.0 linkshortify.com
 0.0.0.0 linkshortner.net
+0.0.0.0 linkshortner.online
 0.0.0.0 linkshrink.org
 0.0.0.0 linksimples.com
 0.0.0.0 linkslocalstorage.com
@@ -2195,6 +2200,7 @@
 0.0.0.0 myrnamooney.pro
 0.0.0.0 mysales.life
 0.0.0.0 myshortlink.info
+0.0.0.0 myshorturl.link
 0.0.0.0 myshorturls.com
 0.0.0.0 mysurl.com
 0.0.0.0 mytd.cc
@@ -2831,6 +2837,8 @@
 0.0.0.0 shorted.biz
 0.0.0.0 shortenedlinks.com
 0.0.0.0 shortenedurl.me
+0.0.0.0 shortened.website
+0.0.0.0 shortenerlink.net
 0.0.0.0 shortener.net
 0.0.0.0 shortenerreviews.com
 0.0.0.0 shorteners.net
@@ -2838,13 +2846,17 @@
 0.0.0.0 shortenly.net
 0.0.0.0 shortenme.co
 0.0.0.0 shortenme.io
+0.0.0.0 shortenme.me
 0.0.0.0 shorten.rest
 0.0.0.0 shorten.tv
+0.0.0.0 shortenurls.eu
 0.0.0.0 shortenurl.top
 0.0.0.0 shortenwe.com
 0.0.0.0 shorten.world
 0.0.0.0 shortenworld.com
 0.0.0.0 shorterall.com
+0.0.0.0 shorter.gg
+0.0.0.0 shorter.me
 0.0.0.0 shorterurl.net
 0.0.0.0 shorte.st
 0.0.0.0 shorte.top
@@ -2855,7 +2867,9 @@
 0.0.0.0 short.icu
 0.0.0.0 shorticx.com
 0.0.0.0 shortie.io
+0.0.0.0 shortifyme.com
 0.0.0.0 shortify.pro
+0.0.0.0 shorti.me
 0.0.0.0 shorting.asia
 0.0.0.0 shortin.id
 0.0.0.0 shortin.in
@@ -2869,11 +2883,14 @@
 0.0.0.0 shortlink.com.au
 0.0.0.0 shortlink.co.za
 0.0.0.0 shortlinkid.live
+0.0.0.0 short-link.me
 0.0.0.0 shortlink.net
 0.0.0.0 shortlinksakti.xyz
 0.0.0.0 shortlk.com
 0.0.0.0 shortll.com
+0.0.0.0 shortlurl.com
 0.0.0.0 shortly.cc
+0.0.0.0 shortly.click
 0.0.0.0 short-ly.co
 0.0.0.0 shortly.cyou
 0.0.0.0 shortly.im
@@ -2887,10 +2904,13 @@
 0.0.0.0 shortmoneyus.com
 0.0.0.0 short.ms
 0.0.0.0 short.mypaste.fun
+0.0.0.0 shortner.app
 0.0.0.0 shortner.cc
 0.0.0.0 shortonly.com
+0.0.0.0 shortpals.online
 0.0.0.0 short.php8developer.com
 0.0.0.0 short.profi.lv
+0.0.0.0 shortprofit.us
 0.0.0.0 shortq.link
 0.0.0.0 shortracz.com
 0.0.0.0 shortr.at
@@ -2915,8 +2935,11 @@
 0.0.0.0 short-url.dk
 0.0.0.0 shorturl.gg
 0.0.0.0 shorturl.is
+0.0.0.0 shorturl.kg
 0.0.0.0 short-url.link
+0.0.0.0 shorturl.lk
 0.0.0.0 short-url.org
+0.0.0.0 shorturl.re
 0.0.0.0 shorturl.ru
 0.0.0.0 short-url.run
 0.0.0.0 shorturls.co.uk
@@ -2925,6 +2948,7 @@
 0.0.0.0 short-url.upr.ac.id
 0.0.0.0 shorturl.vtcode.vn
 0.0.0.0 shorturl.win
+0.0.0.0 shorturl.ws
 0.0.0.0 shortylink.org
 0.0.0.0 shortyzone.com
 0.0.0.0 shotcut.in
@@ -3490,6 +3514,7 @@
 0.0.0.0 url-shortener.info
 0.0.0.0 urlshortener.site
 0.0.0.0 urlshortenertool.com
+0.0.0.0 urlshortenervip.com
 0.0.0.0 url-shortener.yc.fstrk.io
 0.0.0.0 urlshort.host
 0.0.0.0 urlshortly.com
@@ -3500,6 +3525,7 @@
 0.0.0.0 urls.ie
 0.0.0.0 urlsmall.com
 0.0.0.0 urlsmall.link
+0.0.0.0 urls-shortener.eu
 0.0.0.0 urltamil.in
 0.0.0.0 urltin.com
 0.0.0.0 urlty.co
@@ -3645,6 +3671,7 @@
 0.0.0.0 webprografor.live
 0.0.0.0 webrc.net
 0.0.0.0 webseoexpert.life
+0.0.0.0 webshortner.com
 0.0.0.0 webshort.org
 0.0.0.0 webwebsite.live
 0.0.0.0 webz.cc
