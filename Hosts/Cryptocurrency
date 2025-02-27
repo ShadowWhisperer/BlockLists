@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,089
-# Updated: 2/26/2025  20:41 (8:41 PM CST)
+# Domains: 1,113
+# Updated: 2/26/2025  23:21 (11:21 PM CST)
 #
 0.0.0.0 10xbitcoin.com
 0.0.0.0 168pool.com
@@ -59,6 +59,7 @@
 0.0.0.0 amigacoin.org
 0.0.0.0 aminingpool.com
 0.0.0.0 angrypool.com
+0.0.0.0 ankrpool.com
 0.0.0.0 anomp.cc
 0.0.0.0 antimonycoin.com
 0.0.0.0 antmining.com
@@ -67,6 +68,7 @@
 0.0.0.0 api.cryptonator.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 aprovl.com
+0.0.0.0 arabianchain.org
 0.0.0.0 argoneum.net
 0.0.0.0 ark.io
 0.0.0.0 arqma.com
@@ -108,6 +110,7 @@
 0.0.0.0 binancepad.org
 0.0.0.0 binance.us
 0.0.0.0 bin-trade-options.ru
+0.0.0.0 bit2021.com
 0.0.0.0 bitaccess.co
 0.0.0.0 bitalo.com
 0.0.0.0 bitaps.com
@@ -183,6 +186,7 @@
 0.0.0.0 braiins.com
 0.0.0.0 browsermine.com
 0.0.0.0 bsod.pw
+0.0.0.0 btc6x.com
 0.0.0.0 btc-alpha.com
 0.0.0.0 btcc.com
 0.0.0.0 btcchina.com
@@ -403,10 +407,12 @@
 0.0.0.0 digibyteblockexplorer.com
 0.0.0.0 digipools.com
 0.0.0.0 digipools.org
+0.0.0.0 dinartether.com
 0.0.0.0 dinastycoin.com
 0.0.0.0 doex.com
 0.0.0.0 dogeblocks.com
 0.0.0.0 dogecoin.com
+0.0.0.0 dogether.dog
 0.0.0.0 dogpool.one
 0.0.0.0 dominoprotocol.com
 0.0.0.0 dpool.top
@@ -430,8 +436,11 @@
 0.0.0.0 eleccoin.org
 0.0.0.0 electrum.org
 0.0.0.0 elegro.eu
+0.0.0.0 elhereum.com
 0.0.0.0 elicoin.net
+0.0.0.0 eligius.st
 0.0.0.0 elysiumpool.com
+0.0.0.0 emc2.foundation
 0.0.0.0 emcd.io
 0.0.0.0 emeraldcrypto.de
 0.0.0.0 emercoin.com
@@ -476,6 +485,7 @@
 0.0.0.0 feesocrald.com
 0.0.0.0 fennecblockchain.com
 0.0.0.0 filecoin.io
+0.0.0.0 findchia.com
 0.0.0.0 firepool.com
 0.0.0.0 fiveg.cash
 0.0.0.0 fixedtradecoin.org
@@ -490,6 +500,7 @@
 0.0.0.0 foxypool.cf
 0.0.0.0 foxypool.io
 0.0.0.0 freebitco.in
+0.0.0.0 freshgrlc.net
 0.0.0.0 frogpool.io
 0.0.0.0 ftx.com
 0.0.0.0 ftx.cool
@@ -502,12 +513,14 @@
 0.0.0.0 gcpool.eu
 0.0.0.0 geckoterminal.com
 0.0.0.0 geekcash.org
+0.0.0.0 getbze.com
 0.0.0.0 getcrypto.info
 0.0.0.0 getcryptotab.com
 0.0.0.0 getmonero.org
 0.0.0.0 give-me-coins.com
 0.0.0.0 global-crypto.co.uk
 0.0.0.0 gltminer.com
+0.0.0.0 gntl.co.uk
 0.0.0.0 gntl.uk
 0.0.0.0 goldenbirdcoin.com
 0.0.0.0 gonspool.com
@@ -663,6 +676,7 @@
 0.0.0.0 merit.me
 0.0.0.0 metamask.io
 0.0.0.0 mibpool.com
+0.0.0.0 microvisionchain.com
 0.0.0.0 millpools.cc
 0.0.0.0 minandoando.com
 0.0.0.0 mine2gether.com
@@ -731,6 +745,7 @@
 0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
 0.0.0.0 monerop.com
+0.0.0.0 moneropool.com
 0.0.0.0 moneroworld.com
 0.0.0.0 moogis.com
 0.0.0.0 moonpay.com
@@ -753,7 +768,9 @@
 0.0.0.0 mypool.online
 0.0.0.0 myregeneaf.com
 0.0.0.0 nanopool.org
+0.0.0.0 neoxa.net
 0.0.0.0 netcoins.ca
+0.0.0.0 neurai.org
 0.0.0.0 neuropool.net
 0.0.0.0 newpool.pw
 0.0.0.0 nexioniect.com
@@ -779,6 +796,7 @@
 0.0.0.0 nullrefexcep.com
 0.0.0.0 nushypool.com
 0.0.0.0 nyxcoin.org
+0.0.0.0 ocean.xyz
 0.0.0.0 ocprotocol.com
 0.0.0.0 okcash.co
 0.0.0.0 okcoin.com
@@ -903,9 +921,11 @@
 0.0.0.0 shib.io
 0.0.0.0 siamining.com
 0.0.0.0 sigmapool.com
+0.0.0.0 signumcoin.ro
 0.0.0.0 simplemining.net
 0.0.0.0 sinovate.io
 0.0.0.0 sispop.site
+0.0.0.0 skydogepool.xyz
 0.0.0.0 skypool.org
 0.0.0.0 slushpool.com
 0.0.0.0 smartcash.cc
@@ -981,6 +1001,7 @@
 0.0.0.0 trustcoin.vip
 0.0.0.0 trustpool.cc
 0.0.0.0 ttdpool.com
+0.0.0.0 tucanpool.com
 0.0.0.0 tutor-web.info
 0.0.0.0 twnodes.com
 0.0.0.0 twotouchauthentication.online
@@ -1055,9 +1076,11 @@
 0.0.0.0 xazab.xyz
 0.0.0.0 xbasfbno.info
 0.0.0.0 xchain.io
+0.0.0.0 xdagmine.com
 0.0.0.0 xingyun.io
 0.0.0.0 xminingpool.com
 0.0.0.0 xmrchain.net
+0.0.0.0 xmrfast.com
 0.0.0.0 xmrig.com
 0.0.0.0 xmrminers.club
 0.0.0.0 xmrpool.eu
@@ -1073,6 +1096,7 @@
 0.0.0.0 zaixmrpool.com
 0.0.0.0 zalmex.online
 0.0.0.0 z.cash
+0.0.0.0 zdeex.org
 0.0.0.0 zecblockexplorer.com
 0.0.0.0 zel.cash
 0.0.0.0 zellabs.net
