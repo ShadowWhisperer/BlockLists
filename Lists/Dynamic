@@ -1,8 +1,8 @@
 #
 #    File: Dynamic
 #    Info: Dynamic DNS:  DNS --> IP
-# Domains: 1,433
-# Updated: 1/23/2025  21:20 (9:20 PM CST)
+# Domains: 1,435
+# Updated: 2/28/2025  00:39 (12:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -400,6 +400,7 @@ dynet.com
 dynip.com
 dynip.org
 dyn.mk
+dynnamn.ru
 dynns.com
 dyn-o-saur.com
 dyns.be
@@ -408,6 +409,7 @@ dynserv.org
 dyns.net
 dynssl.com
 dynu.com
+dynuddns.net
 dynu.net
 dynup.net
 dynu.systems
