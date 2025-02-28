@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 97,832
-# Updated: 2/27/2025  20:23 (8:23 PM CST)
+# Domains: 97,845
+# Updated: 2/28/2025  10:27 (10:27 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16875,6 +16875,7 @@ checkappexec.microsoft.com
 checkealos.com
 checkeffect.at
 check.fashionid.de
+checkip.350c0aba4d950bd4e3a2d6e1c5baaff700d88ca7.com
 checkip.amazonaws.com
 checkip.com.vn
 checkip.deepstateplatypus.com
@@ -16884,6 +16885,7 @@ checkip.dyn.com
 checkip.dyndns.com
 checkip.dyndns.it
 checkip.dyndns.org
+checkip.e6cc37ec81b2dba2cf019464d53fdf1718868af8.com
 checkip.eurodyndns.org
 checkip.fptplay.net
 checkip.homeseer.com
@@ -22455,6 +22457,7 @@ detailedkitten.com
 detailed-successful.bestcompany.com
 detectdinner.com
 detectdiscovery.com
+detect.ipipgo.com
 d.e.toms.com
 dev1.gearjunkie.com
 dev2.jbg-ongakuin.com
@@ -32043,9 +32046,11 @@ ip2location.com
 ip2location.wmgartistservices.com
 ip2map.com
 ip2nation.com
+ip2.privatesocks5.com
 ip3.bablosoft.com
 ip4.8n1.org
 ip4.me
+ip4.nnev.de
 ip6.im-app.net
 ipa.247sports.com
 ip.a2rev.com
@@ -32071,6 +32076,7 @@ ip-adress.com
 ip-adress.eu
 ip.amulex.com
 ip.anysrc.net
+ip.apibox.cloud
 ipapi.co
 ip-api.com
 ipapi.com
@@ -32126,6 +32132,7 @@ ipfind.com
 ipfingerprint.com
 ipfingerprints.com
 ip.freeconnect.link
+ip.gass.co.id
 ipgeaif.blairmacintyre.me
 ip-geo.appspot.com
 ipgeobase.ru
@@ -32149,6 +32156,7 @@ ip.if.iqiyi.com
 ipify10.cyberflat.info
 ipify11.cyberflat.info
 ipify1.cyberflat.info
+ipify20.cyberflat.info
 ipify21.cyberflat.info
 ipify2.cyberflat.info
 ipify3.cyberflat.info
@@ -32181,6 +32189,7 @@ ip-label.net
 iplaca.tech
 ip.leadsdelivery.com
 iplis.ru
+ip.live.fin.ag
 ip.liveryvideo.com
 iplocate.io
 iplocation.com
@@ -32200,6 +32209,7 @@ ip.marquer.io
 ip.me
 ipmeta.io
 ipm.ipmcinc.com
+ip.mktindex.com
 ipmonkey.com
 ip.moojing.com
 ipmoz.com
@@ -32261,8 +32271,10 @@ ip.up66.ru
 ip.urls.is
 ipv4.am.i.mullvad.net
 ipv4.antradar.com
+ipv4.kiki.zalo.ai
 ipv4.tipsport.cz
 ipv4.webshare.io
+ipv6-2.sdiptest.com
 ipv6.run
 ipv6.xiaoxitech.com
 ipvigilante.com
@@ -32275,6 +32287,7 @@ ipwhois.app
 ipwhois.io
 ipwhois.pro
 ip.wtf
+ip.yinghualuo.cn
 ipyxel.com
 ip.zhizhuip.net
 iq.afterpay.com
