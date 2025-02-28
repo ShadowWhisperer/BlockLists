@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 97,845
-# Updated: 2/28/2025  10:27 (10:27 AM CST)
+# Domains: 97,851
+# Updated: 2/28/2025  14:45 (2:45 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -28132,6 +28132,7 @@ ifconfig-nj.sprious.com
 ifconfig.ovh
 ifconfig.ru
 ifconfig.so
+ifconfig.xyz
 ifconf.me
 i.ffx.io
 ifmhsg.ch
@@ -53516,6 +53517,7 @@ mxsvr.com
 mx.zettle.com
 my.actiondata.co
 myadadapted.com
+myaddress.today
 myaffiliates.com
 myanalytic.net
 myanalytics.cdn.office.net
@@ -53572,6 +53574,8 @@ myhome.usg.com
 my.iheart.com
 my.iheartradio.com
 myip4.com
+myip4.constellix.com
+myip4-nyc.constellix.com
 myipaddress.com
 my-ip-address.net
 myip.bsasoftware.com
@@ -53584,6 +53588,7 @@ myip.com.ua
 myip.country
 myip.cpanel.net
 myip.cz
+my-ip.de
 myip.dk
 myip.dnsomatic.com
 myip.easylife.tw
@@ -53596,6 +53601,7 @@ myip.ht
 myip.info
 myipinfo.net
 my-ip.io
+myip.ipipgo.com
 myip.is
 myip.israel.net
 myip.kz
