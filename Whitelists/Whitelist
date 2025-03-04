@@ -6,6 +6,7 @@ my-win.avast.com                                    #AVG         Activate Free V
 ping.avast.com                                      #AVG         Install Freezes
 s-nuistatic.avcdn.net                               #AVG         Website Login
 honzik.avcdn.net                                    #AVG         Breaks install/updates
+edf.eset.com                                        #ESET        License info
 ff.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (FireFox)
 gc.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (Google Chrome)
 ie.kis.scr.kaspersky-labs.com                       #Kaspersky   Scans Webpages (Internet Explorer)
@@ -673,3 +674,10 @@ mypdns.org                           #My Privacy DNS, web + DNS AUTH
 # letsconnect.at                       #Widget     Live Chat Button
 # widget.harnessapp.com                #Widget     Donation Button
 #
+
+
+#####################################################
+# Need more testing
+#####################################################
+# androidtvsetupwraithfe-pa.googleapis.com   #Might cause new google TV home to crash (newly setup)
+

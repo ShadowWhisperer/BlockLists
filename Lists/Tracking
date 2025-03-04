@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 99,696
-# Updated: 3/3/2025  12:46 (12:46 PM CST)
+# Domains: 99,698
+# Updated: 3/4/2025  11:16 (11:16 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -17941,6 +17941,7 @@ cirium.com
 cirkevnistatistiky.cz
 cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com
 cirrusinsight.com
+cisco-tags.cisco.com
 cision.com
 cis.schibsted.com
 ci-test-tracker.sercante.com
@@ -32790,6 +32791,7 @@ insights.prestigegifting.co.uk
 insights.quantrix.com
 insightsquared.com
 insights.renasantbank.com
+insights-r.webex.com
 insights.safechem.com
 insight.ssh.com
 insights.sitesearch360.com
