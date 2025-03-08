@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 914
-# Updated: 3/2/2025  14:34 (2:34 PM CST)
+# Domains: 915
+# Updated: 3/7/2025  20:55 (8:55 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -683,6 +683,7 @@ trust.zone
 tubeprox.com
 tunnelbear.com
 tunnelbear.s3.amazonaws.com
+tunnel.googlezip.net
 tuntapproxy.info
 turbohide.org
 turbotrackvpn.com

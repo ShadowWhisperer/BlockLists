@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 914
-# Updated: 3/2/2025  14:34 (2:34 PM CST)
+# Domains: 915
+# Updated: 3/7/2025  20:55 (8:55 PM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -679,6 +679,7 @@
 0.0.0.0 tubeprox.com
 0.0.0.0 tunnelbear.com
 0.0.0.0 tunnelbear.s3.amazonaws.com
+0.0.0.0 tunnel.googlezip.net
 0.0.0.0 tuntapproxy.info
 0.0.0.0 turbohide.org
 0.0.0.0 turbotrackvpn.com

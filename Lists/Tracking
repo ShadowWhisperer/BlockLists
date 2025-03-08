@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 101,102
-# Updated: 3/6/2025  22:51 (10:51 PM CST)
+# Domains: 101,121
+# Updated: 3/7/2025  20:55 (8:55 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -18155,6 +18155,7 @@ checkip.amazonaws.com
 checkip.com.vn
 checkip.deepstateplatypus.com
 checkip.dns.he.net
+checkip.dropcontact.com
 checkip.dy.fi
 checkip.dyn.com
 checkip.dyndns.com
@@ -21221,6 +21222,7 @@ dailyonlinebenefits.com
 daisy.ubuntu.com
 daive.io
 dak5uv.com
+d.alicdn.com
 dalv4le16pzj2.cloudfront.net
 damagedadvice.com
 damageddistance.com
@@ -23151,6 +23153,8 @@ data.reservation-pendo.campspot.com
 data.resources.simprogroup.com
 data.rewards.riteaid.com
 data.rioinsider.riolasvegas.com
+datarize.ai
+datarize.io
 data.rmsocio.realmadrid.com
 datarobot.com
 datarouter.ol.epicgames.com
@@ -23303,6 +23307,7 @@ davet.tezmaksan.com.tr
 davidmcamis.com
 davidyurmanemail.com
 davieshickman.com
+dawg.wtf
 dax.yle.fi
 daydot.agency
 dazurebox-420.top
@@ -25791,6 +25796,7 @@ event-collector-etc.appspot.com
 eventcollector.mcf-prod.a.intuit.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
+event-collector-service.production.thezebra.com
 event.comforth-karoo.eu
 event.csdn.net
 event.dxmdp.com
@@ -27566,6 +27572,7 @@ geo.prod.do.dsp.mp.microsoft.com
 geo.query.yahoo.com
 georama.com
 georgefishermail.com
+geoservice.alaskaair.com
 geoservice.curse.com
 geo.settings.data.microsoft.com.akadns.net
 geo.seznam.cz
@@ -33404,6 +33411,7 @@ ip1.bablosoft.com
 ip-1.com
 ip1.privatesocks5.com
 ip20trk.com
+ip234.in
 ip2.bablosoft.com
 ip2ctrk.com
 ip2location.com
@@ -33446,6 +33454,7 @@ ip-api.com
 ipapi.com
 ipapi.de
 ip-api.io
+ipapi.is
 ip-api.streamingucms.com
 ip.apps.cntv.cn
 ip-a.pw
@@ -33456,6 +33465,7 @@ ip.bjango.com
 ipbot.net
 ip.breitbart.com
 ipcalf.com
+ip.cc
 ipc-global.com
 ipcheck0.jdownloader.org
 ipcheck1.jdownloader.org
@@ -33474,6 +33484,7 @@ ip.cn
 ipcode.pw
 ipconfig.5336-apps.nl
 ipconfig.cc
+ipconfig.io
 ipconnect.at
 ip-country-lookup-4twnn2o7la-uc.a.run.app
 ipctx.me
@@ -33585,6 +33596,7 @@ ipnow.org
 ipnya.com
 ip.onsagers.no
 iponweb.net
+ipopen.net
 ip.opsapi.cn
 ipowow.com
 ip.oxylabs.io
@@ -57069,6 +57081,7 @@ opsmm.olly.com
 opsone-analytics.ch
 opsone.ch
 opsserver.ch
+opt.aplaceformom.com
 optasports.com
 optassets.ontraport.com
 opt.delta.com
@@ -69944,6 +69957,7 @@ r.externe.inserm.fr
 reztrack.com
 rezync.com
 r.fanmail.onerpm.com
+rfb.ac
 r.fidemail2.idealwine.com
 rfihub.net
 r.fixd-app.com
@@ -73113,6 +73127,7 @@ sgtm.joostenwatersport.nl
 sgtm.k2vitamin.no
 sgtm.kaliber.net
 sgtm.karoldziedzic.pl
+sgtm.kaspersky.de
 sgtm.kentstrapper.com
 sgtm.kersversdigital.nl
 sgtm.kfzteile24.de
@@ -73309,6 +73324,7 @@ sgtm.sandboxvr.com
 sgtm.sanitino.cz
 sgtm.sanlux.sk
 sgtm.satoorday.com
+sgtm.seatgeek.com
 sgtm.sebach.it
 sgtm.servotecnica.com
 sgtm.setri.sk
@@ -93294,6 +93310,7 @@ tracking.vxonews.se
 tracking.wao-corp.com
 tracking.wao.ne.jp
 tracking.webagenten.de
+trackingweb.bitunix.com
 tracking.webfoersterei.de
 tracking.webmaklay.com
 tracking.websummit.com
@@ -93744,6 +93761,7 @@ trck.kenkiya.com
 trck.lamminatrck.com
 trcklks.com
 trck.me
+trckmetrics.com
 trck.naco-do.com
 trck.novatrck01.com
 trck.novatrck.com
@@ -95827,6 +95845,7 @@ web.jana-shoes.com
 web.kaochemicals-eu.com
 web.launitec.com
 weblog.coupang.com
+web-logger.pdffiller.com
 weblog.hackers.ac
 weblog.rclone.org
 web.lumicks.com
