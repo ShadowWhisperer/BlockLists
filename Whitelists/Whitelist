@@ -522,6 +522,7 @@ service-concierge.clusters.pluto.tv                  #App   Pluto (Breaks playba
 cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv  #App   Pluto (Breaks playback)
 service-watchlist-ga.prd.pluto.tv                    #App   Pluto (Breaks playback)
 siloh-fs.plutotv.net                                 #App   Pluto (Breaks playback)
+sp.pluto.tv                                          #App   Pluto (Breaks playback)
 fresnel-events.vimeocdn.com                          #App   The Criterion Channel   Breaks it
 uapi.adrise.tv                                       #App   Tubi
 akamai2.tubi.video                                   #App   Tubi (Breaks video)
