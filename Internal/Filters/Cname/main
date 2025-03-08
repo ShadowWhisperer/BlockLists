@@ -33,6 +33,7 @@ higherlogic.com                                                #Redirect
 redirect.pizza                                                 #Redirect
 redir.omroep.nl                                                #Redirect
 webredir.gandi.net                                             #Redirect
+webredir.partners.gandi.net                                    #Redirect
 
 auth0.com                                                      #Ignore
 gigya-api.com                                                  #Ignore
@@ -92,12 +93,14 @@ mandrillapp.com                                                #Links
 marketingautomation.services                                   #Links
 md02.com                                                       #Links
 msgapp.com                                                     #Links
+msgsndr.com                                                    #Links
 partners.goaffpro.com                                          #Links
 postaffiliatepro.com                                           #Links
 redirect.skimlinks.com                                         #Links
 roadster.com                                                   #Links
 sailthru.com                                                   #Links
 saleshandy.com                                                 #Links
+sendgrid.net                                                   #Links
 shop.goaffpro.com                                              #Links
 tapfiliate.com                                                 #Links
 tracking.socketlabs.com                                        #Links
@@ -107,6 +110,7 @@ travelpayouts.com                                              #Links
 trkpnt.ongage.net                                              #Links
 
 hatenablog.com                                                 #Blog
+xooit.net                                                      #Forums
 
 domains.payhip.com                                             #Shopping
 shops.myshopify.com                                            #Shopping
@@ -128,10 +132,12 @@ slgnt.us                                                       #Company [Marketi
 wishpond.com                                                   #Company [Marketing]
 plezi.co                                                       #Company [Marketing]
 hosted-checkout.stripecdn.com                                  #Company [Payment System]
+paylinks.commerce.godaddy.com                                  #Company [Payment System]
 domains.smugmug.com                                            #Company [Photography]
+careerwebsite.com                                              #Company [Recruiting]
 ext.teamtailor.com                                             #Company [Recruiting]
-recruitology.com                                               #Company [Recruiting]
 naylor.com                                                     #Company [Recruiting]
+recruitology.com                                               #Company [Recruiting]
 statuspage.betteruptime.com                                    #Company [Service]
 cname.thebase.in                                               #Company [Shopping]
 customer-surveys.us.confirmit.com                              #Company [Survey]
@@ -158,6 +164,7 @@ adsrv.eacdn.com                                                #Ad
 adsrv.net                                                      #Ad
 ads.vg.no                                                      #Ad
 adtelligent.com                                                #Ad
+adx1.com                                                       #Ad
 aimatch.com                                                    #Ad
 amazon-adsystem.com                                            #Ad
 api.clickaine.com                                              #Ad
