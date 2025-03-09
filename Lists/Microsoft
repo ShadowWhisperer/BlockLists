@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 633
-# Updated: 2/18/2025  17:30 (5:30 PM CST)
+# Domains: 632
+# Updated: 3/9/2025  14:08 (2:08 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -652,7 +652,6 @@ storagetos.datamart.windows.com
 storesdk.dsx.mp.microsoft.com
 sup.directory.live.com
 svmstrgprodus.blob.core.windows.net
-swymv3premium-01.azureedge.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 telecommandsvc.microsoft.com

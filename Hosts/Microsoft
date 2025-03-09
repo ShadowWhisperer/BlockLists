@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 633
-# Updated: 2/28/2025  00:40 (12:40 AM CST)
+# Domains: 632
+# Updated: 3/9/2025  14:08 (2:08 PM CST)
 #
 0.0.0.0 fevoke-windowsservices-tas.msedge.net
 0.0.0.0 cortana.ai
@@ -606,7 +606,6 @@
 0.0.0.0 storesdk.dsx.mp.microsoft.com
 0.0.0.0 sup.directory.live.com
 0.0.0.0 svmstrgprodus.blob.core.windows.net
-0.0.0.0 swymv3premium-01.azureedge.net
 0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
 0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
 0.0.0.0 telecommandsvc.microsoft.com
