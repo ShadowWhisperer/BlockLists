@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 632
-# Updated: 3/9/2025  14:08 (2:08 PM CST)
+# Domains: 622
+# Updated: 3/9/2025  14:39 (2:39 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -418,7 +418,6 @@ privacy.xboxlive.com                           #Xbox
 ###############################################################################################
 
 
-
 a-0003.a-msedge.net
 aad.cs.dds.microsoft.com
 access-point.cloudmessaging.edge.microsoft.com
@@ -438,16 +437,6 @@ az512334.vo.msecnd.net
 az598575.vo.msecnd.net
 beta.gateway.messenger.live.com
 bingviz.com
-blob.am5prdstr10a.store.core.windows.net
-blob.ams06prdstr12a.store.core.windows.net
-blob.bl6prdstr13a.store.core.windows.net
-blob.by4prdstr10a.store.core.windows.net
-blob.byaprdstr14a.store.core.windows.net
-blob.dm3prdstr04a.store.core.windows.net
-blob.dm5prdstr14a.store.core.windows.net
-blob.dm5prdstr19a.store.core.windows.net
-blob.dsz04prdstr06a.store.core.windows.net
-blob.sn4prdstr02a.store.core.windows.net
 b-msedge.net
 bn2-client-s.gateway.messenger.live.com
 brazilsouth.api.cognitive.microsoft.com

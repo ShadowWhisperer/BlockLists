@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 632
-# Updated: 3/9/2025  14:08 (2:08 PM CST)
+# Domains: 622
+# Updated: 3/9/2025  14:39 (2:39 PM CST)
 #
 0.0.0.0 fevoke-windowsservices-tas.msedge.net
 0.0.0.0 cortana.ai
@@ -392,16 +392,6 @@
 0.0.0.0 az598575.vo.msecnd.net
 0.0.0.0 beta.gateway.messenger.live.com
 0.0.0.0 bingviz.com
-0.0.0.0 blob.am5prdstr10a.store.core.windows.net
-0.0.0.0 blob.ams06prdstr12a.store.core.windows.net
-0.0.0.0 blob.bl6prdstr13a.store.core.windows.net
-0.0.0.0 blob.by4prdstr10a.store.core.windows.net
-0.0.0.0 blob.byaprdstr14a.store.core.windows.net
-0.0.0.0 blob.dm3prdstr04a.store.core.windows.net
-0.0.0.0 blob.dm5prdstr14a.store.core.windows.net
-0.0.0.0 blob.dm5prdstr19a.store.core.windows.net
-0.0.0.0 blob.dsz04prdstr06a.store.core.windows.net
-0.0.0.0 blob.sn4prdstr02a.store.core.windows.net
 0.0.0.0 b-msedge.net
 0.0.0.0 bn2-client-s.gateway.messenger.live.com
 0.0.0.0 brazilsouth.api.cognitive.microsoft.com
