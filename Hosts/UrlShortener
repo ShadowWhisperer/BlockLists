@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,899
-# Updated: 3/2/2025  14:34 (2:34 PM CST)
+# Domains: 3,903
+# Updated: 3/9/2025  19:43 (7:43 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -11,6 +11,7 @@
 0.0.0.0 0805.info
 0.0.0.0 0987.win
 0.0.0.0 0a0.uk
+0.0.0.0 0a.sk
 0.0.0.0 0bs.de
 0.0.0.0 0.gp
 0.0.0.0 0ln.io
@@ -60,6 +61,7 @@
 0.0.0.0 1shortlink.com
 0.0.0.0 1sturl.com
 0.0.0.0 1to3.link
+0.0.0.0 1url.cz
 0.0.0.0 1url.it
 0.0.0.0 1url.vn
 0.0.0.0 1zr.in
@@ -79,6 +81,7 @@
 0.0.0.0 2tf.net
 0.0.0.0 2tiny.in
 0.0.0.0 2to.info
+0.0.0.0 2u.pw
 0.0.0.0 2vu.me
 0.0.0.0 2wo.ir
 0.0.0.0 2x1.io
@@ -122,6 +125,7 @@
 0.0.0.0 4uid.com
 0.0.0.0 4x.si
 0.0.0.0 5278url.com
+0.0.0.0 52.nu
 0.0.0.0 531566.xyz
 0.0.0.0 5ahgwd5.com
 0.0.0.0 5e.fit

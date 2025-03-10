@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,899
-# Updated: 3/2/2025  14:34 (2:34 PM CST)
+# Domains: 3,903
+# Updated: 3/9/2025  19:43 (7:43 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15,6 +15,7 @@
 0805.info
 0987.win
 0a0.uk
+0a.sk
 0bs.de
 0.gp
 0ln.io
@@ -64,6 +65,7 @@
 1shortlink.com
 1sturl.com
 1to3.link
+1url.cz
 1url.it
 1url.vn
 1zr.in
@@ -83,6 +85,7 @@
 2tf.net
 2tiny.in
 2to.info
+2u.pw
 2vu.me
 2wo.ir
 2x1.io
@@ -126,6 +129,7 @@
 4uid.com
 4x.si
 5278url.com
+52.nu
 531566.xyz
 5ahgwd5.com
 5e.fit
