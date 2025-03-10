@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 101,191
-# Updated: 3/9/2025  19:43 (7:43 PM CST)
+# Domains: 101,193
+# Updated: 3/10/2025  18:13 (6:13 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15226,6 +15226,7 @@ api.e.gap.co.uk
 api.egmont.pl
 api.e.karenmillen.com
 api.element14.com
+api.eltjek24.dk
 api.email.debenhams.com
 api.email.debenhams.co.uk
 api.e.misspap.com
@@ -29664,6 +29665,7 @@ incight.ai
 incisivemarketing.com
 incisivemedia.com
 incloud-analytics.dk
+included.ai
 inclusion.kit.org
 incoming-data-sense360.s3.amazonaws.com
 incoming.telemetry.mozilla.org
