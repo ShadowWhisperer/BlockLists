@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,904
-# Updated: 3/11/2025  18:20 (6:20 PM CST)
+# Domains: 3,919
+# Updated: 3/11/2025  23:39 (11:39 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -72,7 +72,9 @@
 0.0.0.0 247superhost.com
 0.0.0.0 256.so
 0.0.0.0 2bio.link
+0.0.0.0 2fear.com
 0.0.0.0 2h.ae
+0.0.0.0 2.ht
 0.0.0.0 2it.info
 0.0.0.0 2link.in
 0.0.0.0 2one.in
@@ -86,6 +88,7 @@
 0.0.0.0 2wo.ir
 0.0.0.0 2x1.io
 0.0.0.0 2xo.net
+0.0.0.0 301.link
 0.0.0.0 301.nz
 0.0.0.0 303.kim
 0.0.0.0 30na.ma
@@ -146,6 +149,7 @@
 0.0.0.0 6nmd.us
 0.0.0.0 6urls.com
 0.0.0.0 711.is
+0.0.0.0 71a.xyz
 0.0.0.0 733s.com
 0.0.0.0 777online.life
 0.0.0.0 77url.com
@@ -908,6 +912,7 @@
 0.0.0.0 distinctrp.live
 0.0.0.0 d-its-hekis-osama-kwi.info
 0.0.0.0 divestiture.life
+0.0.0.0 divsly.com
 0.0.0.0 djarum88.shop
 0.0.0.0 djloventx.live
 0.0.0.0 djp.li
@@ -1085,6 +1090,7 @@
 0.0.0.0 f4d.uk
 0.0.0.0 f5i.org
 0.0.0.0 f5url.com
+0.0.0.0 fa.by
 0.0.0.0 facebookmarketplace.live
 0.0.0.0 facebookvideos.live
 0.0.0.0 face-time-apple.live
@@ -1139,6 +1145,7 @@
 0.0.0.0 fliplink.io
 0.0.0.0 flp.ai
 0.0.0.0 flrt.me
+0.0.0.0 flx.to
 0.0.0.0 fly4win.com
 0.0.0.0 fl-y.com
 0.0.0.0 flyurl.net
@@ -1535,6 +1542,7 @@
 0.0.0.0 itsmariapage.xyz
 0.0.0.0 itsmariaspage.xyz
 0.0.0.0 itumb.sbs
+0.0.0.0 itvty.com
 0.0.0.0 iurl.dk
 0.0.0.0 iurl.one
 0.0.0.0 iurl.us
@@ -1738,6 +1746,7 @@
 0.0.0.0 ldjet.io
 0.0.0.0 learnit.today
 0.0.0.0 learnlocalseo.tips
+0.0.0.0 learn.to
 0.0.0.0 leica.gs
 0.0.0.0 leit.link
 0.0.0.0 leitup.com
@@ -2217,6 +2226,7 @@
 0.0.0.0 mytorus.live
 0.0.0.0 myup.work
 0.0.0.0 myurl.ly
+0.0.0.0 myurls.ca
 0.0.0.0 myvdcc.com
 0.0.0.0 myweber.life
 0.0.0.0 n7s.xyz
@@ -3017,6 +3027,7 @@
 0.0.0.0 sku.su
 0.0.0.0 skye.to
 0.0.0.0 sky.si
+0.0.0.0 skyurl.cc
 0.0.0.0 slamfootball.com
 0.0.0.0 sla-tory-a-1116.info
 0.0.0.0 slecastle.com
@@ -3253,6 +3264,7 @@
 0.0.0.0 tik.lol
 0.0.0.0 tiky.cc
 0.0.0.0 t.im
+0.0.0.0 tim.com.vc
 0.0.0.0 tinderurl.com
 0.0.0.0 tinesy.com
 0.0.0.0 tinu.be
@@ -3422,6 +3434,7 @@
 0.0.0.0 uinw.site
 0.0.0.0 ujootchu.net
 0.0.0.0 ukphamacyunited.live
+0.0.0.0 ul3.ir
 0.0.0.0 ulrshrink.com
 0.0.0.0 ultimateqrcodegenerator.online
 0.0.0.0 ultrashort.me
@@ -3582,6 +3595,7 @@
 0.0.0.0 vars.us
 0.0.0.0 vats.im
 0.0.0.0 vaufs.sbs
+0.0.0.0 vbly.us
 0.0.0.0 vbxep.sbs
 0.0.0.0 vcaun.com
 0.0.0.0 vcwvb.com
@@ -3907,4 +3921,5 @@
 0.0.0.0 zurl.ir
 0.0.0.0 z-url.xyz
 0.0.0.0 zwagyi9.live
+0.0.0.0 zws.im
 0.0.0.0 zzb.bz
