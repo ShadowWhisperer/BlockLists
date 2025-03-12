@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 101,967
-# Updated: 3/11/2025  18:20 (6:20 PM CST)
+# Domains: 101,997
+# Updated: 3/11/2025  22:25 (10:25 PM CST)
 #
 0.0.0.0 01009.wikihoster.de
 0.0.0.0 01039.wikihoster.de
@@ -279,6 +279,7 @@
 0.0.0.0 6677trc.com
 0.0.0.0 66analytics.com
 0.0.0.0 6824track.com
+0.0.0.0 68c4283db8074b12df1660b31c0220a9.rambla.be
 0.0.0.0 6counter.de
 0.0.0.0 6ldu6qa.com
 0.0.0.0 6nwp0r33a71m.app.dev.cardahealth.com
@@ -3170,6 +3171,7 @@
 0.0.0.0 alertarithmetic.com
 0.0.0.0 alertbot.co.uk
 0.0.0.0 alertdesk.com
+0.0.0.0 alescodata.com
 0.0.0.0 alexametrics.com
 0.0.0.0 alfdt.com
 0.0.0.0 algalbbb.com
@@ -3636,6 +3638,7 @@
 0.0.0.0 analytic.baodantoc.vn
 0.0.0.0 analytic.belfegore.fr
 0.0.0.0 analytic-bi.tourismthailand.org
+0.0.0.0 analyticbridge.datasciencecentral.com
 0.0.0.0 analytic.buoyweather.com
 0.0.0.0 analytic.calif.aaa.com
 0.0.0.0 analytic.capitalgroup.com
@@ -5183,6 +5186,7 @@
 0.0.0.0 analytics.britishchamber.cn
 0.0.0.0 analytics.brkwsky.de
 0.0.0.0 analytics.brmc.io
+0.0.0.0 analytics.broadridge.com
 0.0.0.0 analytics.broderskab.com
 0.0.0.0 analytics.brogliag.ch
 0.0.0.0 analytics.brokenaxe.com
@@ -8583,6 +8587,7 @@
 0.0.0.0 analytics.irib.ir
 0.0.0.0 analytics.irisryp.me
 0.0.0.0 analytics.ironsight.app
+0.0.0.0 analytics.irp2.ovp.kaltura.com
 0.0.0.0 analytics.isaichenko.dev
 0.0.0.0 analytics.isarops.com
 0.0.0.0 analytics.isas.co.at
@@ -15537,6 +15542,7 @@
 0.0.0.0 appstrcking.com
 0.0.0.0 app.swipepages.com
 0.0.0.0 apptegic.com
+0.0.0.0 apptelemetry.io
 0.0.0.0 apptentive.com
 0.0.0.0 apptimize.com
 0.0.0.0 apptornado.com
@@ -19107,6 +19113,7 @@
 0.0.0.0 c.msn.ca
 0.0.0.0 c.msn.ch
 0.0.0.0 c.msn.co.jp
+0.0.0.0 c.msn.co.kr
 0.0.0.0 c.msn.com
 0.0.0.0 c.msn.co.za
 0.0.0.0 c.msn.dk
@@ -26843,6 +26850,7 @@
 0.0.0.0 f2.doodlemobile.com
 0.0.0.0 f2ns9trk.com
 0.0.0.0 f362.nola.com
+0.0.0.0 f4c9c84a853d54688cc79e9ce348ba8c.rambla.be
 0.0.0.0 f58dkcl.com
 0.0.0.0 f5.track-mv-01.com
 0.0.0.0 f703.twincities.com
@@ -27615,6 +27623,7 @@
 0.0.0.0 fp.trentonian.com
 0.0.0.0 fp.troyrecord.com
 0.0.0.0 fp.twincities.com
+0.0.0.0 fpt.windowsazure.com
 0.0.0.0 fp.ubagroup.com
 0.0.0.0 fp.ukiahdailyjournal.com
 0.0.0.0 fp-vp.azureedge.net
@@ -27715,6 +27724,7 @@
 0.0.0.0 frnchsprkl.com
 0.0.0.0 frnshrstrck.com
 0.0.0.0 frog.borgs.app
+0.0.0.0 frog.editorx.com
 0.0.0.0 frog.enduco.app
 0.0.0.0 froglytics.eventfrog.ch
 0.0.0.0 frogtray.com
@@ -34803,6 +34813,13 @@
 0.0.0.0 kiwip.blizzart.net
 0.0.0.0 kiwi.railway.app
 0.0.0.0 kizuna.sunflower-a.com
+0.0.0.0 k.jacadi.be
+0.0.0.0 k.jacadi.ch
+0.0.0.0 k.jacadi.co.uk
+0.0.0.0 k.jacadi.de
+0.0.0.0 k.jacadi.es
+0.0.0.0 k.jacadi.fr
+0.0.0.0 k.jacadi.it
 0.0.0.0 kki-matomo.silpion.de
 0.0.0.0 kk.kaku-ichi.co.jp
 0.0.0.0 kk-resources.com
@@ -35850,6 +35867,7 @@
 0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging-e2e.api.intuit.com
 0.0.0.0 logging.exblog.jp
+0.0.0.0 logging.gamehouse.com
 0.0.0.0 logging.goodgamestudios.com
 0.0.0.0 logging.groupon.com
 0.0.0.0 logging.je-apps.com
@@ -42107,9 +42125,21 @@
 0.0.0.0 mct.paypay.ne.jp
 0.0.0.0 m.cucomm.com
 0.0.0.0 mculture-analytics.jigsawgroups.work
+0.0.0.0 mc.yandex.az
+0.0.0.0 mc.yandex.co.il
 0.0.0.0 mc.yandex.com
+0.0.0.0 mc.yandex.com.ge
+0.0.0.0 mc.yandex.com.tr
+0.0.0.0 mc.yandex.ee
+0.0.0.0 mc.yandex.fr
+0.0.0.0 mc.yandex.kg
+0.0.0.0 mc.yandex.lt
+0.0.0.0 mc.yandex.lv
 0.0.0.0 mc.yandex.md
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mc.yandex.tj
+0.0.0.0 mc.yandex.tm
+0.0.0.0 mc.yandex.uz
 0.0.0.0 mczbf.com
 0.0.0.0 m.delltechnologies.com
 0.0.0.0 m.destinocerto.com.br
@@ -55930,6 +55960,7 @@
 0.0.0.0 moat.com
 0.0.0.0 moatpixel1.edgekey.net
 0.0.0.0 moatpixel.com
+0.0.0.0 mobafftrck.com
 0.0.0.0 mobalo.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -92396,7 +92427,6 @@
 0.0.0.0 t.hawkeyesports.com
 0.0.0.0 thbeq.honestpaws.com
 0.0.0.0 th.clubsolitaire.carrier.com
-0.0.0.0 theadex.com
 0.0.0.0 theajaxexperience.com
 0.0.0.0 theanovagroup.com
 0.0.0.0 theappgrader.com
@@ -97516,6 +97546,7 @@
 0.0.0.0 ww2.edenredprepagos.com.br
 0.0.0.0 ww2.flatplanet.com.au
 0.0.0.0 ww2.garden-bank.com
+0.0.0.0 ww2.gigaspaces.com
 0.0.0.0 ww2.grimsey.com.au
 0.0.0.0 ww2.myemergencydr.com
 0.0.0.0 ww2.nbmmetals.com
@@ -101879,7 +101910,6 @@
 0.0.0.0 zegnaemail.com
 0.0.0.0 zembles.com
 0.0.0.0 zenanalytics.net
-0.0.0.0 zen-desktop-morda.mediascope.mc.yandex.ru
 0.0.0.0 zendroptrk.com
 0.0.0.0 zenimpact.io
 0.0.0.0 zen.itrsgroup.com
