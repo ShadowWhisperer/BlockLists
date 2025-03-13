@@ -1,0 +1,89 @@
+BadGateway|bad gateway
+BadGateway|error code: 502
+BadRequest|bad request
+Certain_Gambling|address them to support@gg.bet
+Certain_Tracker|{"app":"adv analytics - webservice","status":"ok"}
+Cloudflare_1001|error code: 1001
+Cloudflare_520|error code: 520
+Cloudflare_DNS|error code: 1016
+Cloudflare_DNS|error code: 523
+Cloudflare_SSL|error code: 525
+Cloudflare_SSL|error code: 526
+Dead|access denied or account suspensed
+Dead|account suspended
+Dead|<a href="/disabled.html">forbidden</a>.
+Dead|<!doctype html><html lang="en"><h1>domain inactive</h1></html>
+Dead|error code: 1014
+Dead|get method not allowed
+Dead|<h3>this website has been deactivated</h3><p>please contact support</p>
+Dead|<html><head><title></title></head><body><center><b>diese domain ist unkonfiguriert.</b></center>
+Dead|parked domain
+Dead|redirect
+Dead|.rumahweb.com/suspended/index.html
+Dead|sorry, domain disabled
+Dead|sorry, this realgeeks site doesn't exist.
+Dead|the site you requested has been disabled or does not exist
+Dead|the website is currently not available. please contact support.
+Dead|>this domain name has been registered by gname, if you are interested
+Dead|this domain name is not configured yet or may be removed !
+Dead|this site has been temporarily disabled, please try again later.
+Dead|we have disabled your hosting account, please respond to the e-mail we sent you.
+Dead|your domain has been successfully parked!
+Dead|your php installation appears to be missing the mysql extension which is required by wordpress.
+Default|<html>apache is functioning normally</html>
+Default|welcome to nginx
+Denied|401 unauthorized
+Denied|403 forbidden
+Denied|access denied
+Denied|access denied.
+Denied|authorisation required
+Denied|blocked by intwall.com
+Denied|denied access
+Denied|><error><code>accessdenied</code><message>access denied.<
+Denied|<h1>forbidden</h1>you don't have permission on this server.
+Denied_Location|access denied from your location
+Denied_Location|country block, please contact customer service for assistance.
+Denied_Location|forbidden by geolocation
+Denied_Location|visitors from your country are not permitted to browse this site.
+Denied|missing index page or access denied!
+Denied|not authorized to view this page [cfn #0004]
+Denied|permission denied
+Denied|sorry, you have been blocked
+Denied|unauthorized access
+Denied|<?xml version='1.0' encoding='utf-8'?><error><code>accessdenied</code><message>access denied.</message></error>
+Empty_Ok|empty ok
+Error_404|404 not found
+Error_404|404 page not found
+Error_404|404 - page not found
+Error_404|default backend - 404
+Error_404|response 404 (backend notfound), service rules for the path non-existent
+Error|error
+Forbidden|forbidden
+Forbidden|forbidden!
+Forbidden|{"message":"forbidden"}
+InvalidExpired|session is invalid or expired.
+InvalidPath|cannot get - invalid path or write key provided.
+Moved|moved permanently
+No|no
+NotFound|405 not found
+NotFound|not found
+Ok|ok
+Ok|ok!
+Ok|ok.
+Poss_Tracker|this domain is used just for tracking
+Poss_Tracker|trackerapp
+Poss_Tracker|welcome to track api
+Retry|301 - moved permanently
+Retry|<!doctype html><html><head><meta charset="utf-8" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /> <title>
+Retry|<!doctype html><html><head><title>
+Retry|<head><title>
+Retry|<html><head><title>
+Retry|redirecting...
+Retry|this page requires "https"
+Retry|this server supports only https
+Retry|this server supports only https!
+Retry|<title>
+ServiceOK|{"service":"ok"}
+Test|test
+Timeout|error code: 521
+UnderConstruction|sito in costruzione
