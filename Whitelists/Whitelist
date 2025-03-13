@@ -262,7 +262,8 @@ notifications-pa.googleapis.com                  #Google   2FA - Sends notificat
 cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
 ota-cache1.googlezip.net                         #Google   Android (System Updates)
 androidtvlauncherxfe-pa.googleapis.com           #Google   Android (Check for internet)
-play-lh.googleusercontent.com                    #Google   Android Store Images
+play-lh.googleusercontent.com                    #Google   Android (Store Images)
+gameswhitelisted.googleapis.com                  #Google   Android (Game signin)
 tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
 tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
 clients3.google.com                              #Google   ChromeOS Signin (connection is limited)
@@ -682,5 +683,5 @@ mypdns.org                           #My Privacy DNS, web + DNS AUTH
 #####################################################
 # Need more testing
 #####################################################
-# androidtvsetupwraithfe-pa.googleapis.com   #Might cause new google TV home to crash (newly setup)
+# androidtvsetupwraithfe-pa.googleapis.com   #Might cause new Google TV home to crash (1st time setup)
 
