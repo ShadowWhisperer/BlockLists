@@ -1,3 +1,7 @@
+ASCII|;)
+ASCII|^_^
+ASCII|o_o
+BadGateway|502 bad gateway
 BadGateway|bad gateway
 BadGateway|error code: 502
 BadRequest|bad request
@@ -9,12 +13,17 @@ Cloudflare_DNS|error code: 1016
 Cloudflare_DNS|error code: 523
 Cloudflare_SSL|error code: 525
 Cloudflare_SSL|error code: 526
+ComingSoon|coming soon
+Dead|403 this website has been blocked. please contact raidboxes support for further assistance.
+Dead|404 - no restaurant found for this domain
 Dead|access denied or account suspensed
 Dead|account suspended
 Dead|<a href="/disabled.html">forbidden</a>.
 Dead|<!doctype html><html lang="en"><h1>domain inactive</h1></html>
 Dead|error code: 1014
+Dead|expired
 Dead|get method not allowed
+Dead|<h1>website disabled</h1>
 Dead|<h3>this website has been deactivated</h3><p>please contact support</p>
 Dead|<html><head><title></title></head><body><center><b>diese domain ist unkonfiguriert.</b></center>
 Dead|parked domain
@@ -22,62 +31,156 @@ Dead|redirect
 Dead|.rumahweb.com/suspended/index.html
 Dead|sorry, domain disabled
 Dead|sorry, this realgeeks site doesn't exist.
+Dead|the page you requested was removed.
 Dead|the site you requested has been disabled or does not exist
 Dead|the website is currently not available. please contact support.
 Dead|>this domain name has been registered by gname, if you are interested
 Dead|this domain name is not configured yet or may be removed !
 Dead|this site has been temporarily disabled, please try again later.
+Dead|web site expire!!!
+Dead|website suspended
 Dead|we have disabled your hosting account, please respond to the e-mail we sent you.
 Dead|your domain has been successfully parked!
+Dead|your domain has been suspended, contact your hosting provider.
 Dead|your php installation appears to be missing the mysql extension which is required by wordpress.
+Default|apache is functioning normally
 Default|<html>apache is functioning normally</html>
+Default|<html>nginx is functioning normally</html>
 Default|welcome to nginx
 Denied|401 unauthorized
+Denied|401 unauthorized.
 Denied|403 forbidden
+Denied|403 - forbidden
 Denied|access denied
 Denied|access denied.
+Denied|access forbidden
+Denied|access forbidden!
+Denied|access to directories is forbidden
+Denied|authentication required
 Denied|authorisation required
+Denied|authorization failed due to missing authtoken
+Denied|authorization required
+Denied|blocked
 Denied|blocked by intwall.com
 Denied|denied access
 Denied|><error><code>accessdenied</code><message>access denied.<
+Denied|forbidden access
+Denied|forbidden - error: [012] invalid edgeauth token
+Denied|<h1>403 forbidden</h1>
 Denied|<h1>forbidden</h1>you don't have permission on this server.
+Denied|<html>authorization required</html>
 Denied_Location|access denied from your location
 Denied_Location|country block, please contact customer service for assistance.
 Denied_Location|forbidden by geolocation
+Denied_Location|<h1>this site is not available in your country.</h1>
+Denied_Location|{"message":"your ip address is not allowed"}
+Denied_Location|this website is not available in your region
 Denied_Location|visitors from your country are not permitted to browse this site.
 Denied|missing index page or access denied!
-Denied|not authorized to view this page [cfn #0004]
+Denied|not authorized
 Denied|permission denied
+Denied|request forbidden
+Denied|request was blocked
+Denied|sorry, you have been block
 Denied|sorry, you have been blocked
+Denied|this request has been blocked by the web application firewall policy.
+Denied|unauthorized
 Denied|unauthorized access
 Denied|<?xml version='1.0' encoding='utf-8'?><error><code>accessdenied</code><message>access denied.</message></error>
+Denied|you are not allowed to view this page!
+Denied|you do not have permission to access this resource on this server.
 Empty_Ok|empty ok
+Error_400|400 bad request
+Error_404|404 error
+Error_404|404 file not found
 Error_404|404 not found
 Error_404|404 page not found
+Error_404|404 page not found!
 Error_404|404 - page not found
+Error_404|404: page not found
+Error_404|{"code":404}
+Error_404|{"code":404,"message":"the route does not exist"}
 Error_404|default backend - 404
+Error_404|error 404
+Error_404|{"error":"404"}
+Error_404|{"error":404}
+Error_404|{"error":{"status":404,"statusmessage":"not found"}}
+Error_404|<h1>404</h1><pre>not found</pre>
+Error_404|<h1>404 - not found</h1>
+Error_404|<h1>404 page can not be found</h1>
+Error_404|<h1>404 page not found</h1>
+Error_404|{"msg":"404"}
 Error_404|response 404 (backend notfound), service rules for the path non-existent
+Error_404|{"status":404,"message":"not found"}
+Error|an error occurred. please check maintenance > log
 Error|error
+ExpiredLink|link is expired
 Forbidden|forbidden
 Forbidden|forbidden!
 Forbidden|{"message":"forbidden"}
+Hello|<h1>hello!</h1>
+Hello|<h1>hello</h1>
+Hello|<h1>hello, world!</h1>
+Hello|<h1>hi</h1>
+Hello|hello
+Hello|hello :)
+Hello|hello...
+Hello|hello~
+Hello|hello, it working!
+Hello|hello there
+Hello|hello word!
+Hello|hello word~
+Hello|{"hello":"world!"}
+Hello|{"hello":"world"}
+Hello|hello world !
+Hello|hello world :)
+Hello|hello world!!
+Hello|hello world!!!
+Hello|hello world.
+Hello|hello, world
+Hello|hello, world.
+Hello|hello,world
+Hello|hey
+Hello|hey there!!!
+Hello|hi :)
+Hello|Hi
+Hello|hi there
+Hello|hi there!
+Hello|hola
+Hello|hola!
+Hello|{"message":"hello world"}
+IamAlive|iamalive
 InvalidExpired|session is invalid or expired.
 InvalidPath|cannot get - invalid path or write key provided.
 Moved|moved permanently
 No|no
+NotAcceptable|not acceptable
 NotFound|405 not found
+NotFound|{"error":"document not found"}
+NotFound|file not found
+NotFound|file not found.
 NotFound|not found
+NotFound|page not found
+Ok|{"msg":"ok"}
 Ok|ok
 Ok|ok!
 Ok|ok.
+Ok|{"status":"ok"}
 Poss_Tracker|this domain is used just for tracking
 Poss_Tracker|trackerapp
+Poss_Tracker|tracking domain is ready
 Poss_Tracker|welcome to track api
 Retry|301 - moved permanently
+Retry|<!doctype html>
 Retry|<!doctype html><html><head><meta charset="utf-8" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /> <title>
 Retry|<!doctype html><html><head><title>
 Retry|<head><title>
+Retry|<html><body>
 Retry|<html><head><title>
+Retry|<html></html>
+Retry|http method not allowed
+Retry|http not supported
+Retry|please use https
 Retry|redirecting...
 Retry|this page requires "https"
 Retry|this server supports only https
@@ -87,3 +190,10 @@ ServiceOK|{"service":"ok"}
 Test|test
 Timeout|error code: 521
 UnderConstruction|sito in costruzione
+UnderConstruction|under construction
+UnderConstruction|under construction.
+Welcome|<h1>welcome!</h1>
+Welcome|<h1>welcome</h1>
+Welcome|welcome
+Welcome|welcome!
+Welcome|welcome..
