@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 3,935
-# Updated: 3/13/2025  20:45 (8:45 PM CST)
+# Domains: 3,937
+# Updated: 3/14/2025  12:19 (12:19 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -908,6 +908,7 @@
 0.0.0.0 digitize-umfrage.at
 0.0.0.0 dinguscustoms.live
 0.0.0.0 dinzzvpn.online
+0.0.0.0 direct.minifun.games
 0.0.0.0 directorytechstoragepoint.directory
 0.0.0.0 direct.tgcoracle.com
 0.0.0.0 distinct-rp.live
@@ -1744,6 +1745,7 @@
 0.0.0.0 lavtp.com
 0.0.0.0 lavtp.cyou
 0.0.0.0 lb.cm
+0.0.0.0 lbocc.com
 0.0.0.0 l.cnr.it
 0.0.0.0 ldgr.info
 0.0.0.0 ldjet.io
