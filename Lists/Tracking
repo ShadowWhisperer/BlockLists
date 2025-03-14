@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 102,215
-# Updated: 3/14/2025  12:19 (12:19 PM CST)
+# Domains: 102,217
+# Updated: 3/14/2025  16:26 (4:26 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -15511,6 +15511,7 @@ applytics.judua3rtinpst0s.xyz
 applytics.napps-1.com
 applyze.com
 app-measurement.com
+appmeasurements.com
 appmetr.com
 appmetrica.yandex.com
 appmetrica.yandex.net
@@ -29534,6 +29535,7 @@ hello.soprema.dk
 hello.soprema.ie
 hello.soprema.nl
 hello.soprema.se
+hello.staticstuff.net
 hello.theberkeley.com
 hello.thecommondesk.com
 hello.thecustomerlink.be
