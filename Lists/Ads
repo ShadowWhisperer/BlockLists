@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 21,424
-# Updated: 3/14/2025  12:19 (12:19 PM CST)
+# Domains: 21,426
+# Updated: 3/16/2025  16:40 (4:40 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4422,6 +4422,7 @@ ads.gogel.al
 ads.gogovest.com
 ads.goldreporter.de
 ads.gol.mk
+ads.google.com
 ads.gostivarpress.mk
 ads.gotxx.net
 ads.govoritmoskva.ru
@@ -16895,6 +16896,7 @@ redclick.ru
 reddot.com.kh
 rededesignstudio.com
 redgeark.com
+rediads.com
 rediffusion.in
 redirect.com
 redirectnative.com
