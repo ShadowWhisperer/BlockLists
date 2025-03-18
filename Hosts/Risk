@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 213
-# Updated: 2/28/2025  00:40 (12:40 AM CST)
+# Domains: 214
+# Updated: 3/17/2025  20:33 (8:33 PM CST)
 #
 0.0.0.0 tedata.net
 0.0.0.0 te.eg
@@ -163,6 +163,7 @@
 0.0.0.0 cdn.snipr.gg
 0.0.0.0 snipr.gg
 0.0.0.0 mitm.it
+0.0.0.0 lhr.life
 0.0.0.0 ifud.ws
 0.0.0.0 lolz.guru
 0.0.0.0 godaddysites.com

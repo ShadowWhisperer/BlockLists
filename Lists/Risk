@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 213
-# Updated: 11/27/2024  12:49 (12:49 PM CST)
+# Domains: 214
+# Updated: 3/17/2025  20:33 (8:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -193,6 +193,7 @@ taskernet.com                                    #Android [APP]  Tasker   Allows
 cdn.snipr.gg                                     #Hacking Tool: Credential Stuffing Toolkit
 snipr.gg                                         #Hacking Tool: Credential Stuffing Toolkit
 mitm.it                                          #Hacking Tool: Man-In-Middle Proxy
+lhr.life                                         #Hacking Tool: Phishing Tool
 
 ifud.ws                                          #Hacker Forum
 lolz.guru                                        #Hacker Forum
