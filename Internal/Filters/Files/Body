@@ -119,6 +119,7 @@ ExpiredLink|link is expired
 Forbidden|forbidden
 Forbidden|forbidden!
 Forbidden|{"message":"forbidden"}
+GatewayTimeout|error code: 504
 Hello|<h1>hello!</h1>
 Hello|<h1>hello</h1>
 Hello|<h1>hello, world!</h1>
