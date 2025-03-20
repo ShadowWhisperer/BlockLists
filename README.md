@@ -5,7 +5,8 @@
     Chat             Chat Dialog Popups  
     Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not Malware)  
     Dating           Dating Sites  
-    Dynamic          Dynamic DNS:  DNS --> IP  
+    DNS              DNS Resolvers  
+    Dynamic          Dynamic DNS
     Fonts            Fonts  
     Free             Free/Cheap Hosting, Free Blogs  
     Gambling         Casino, Gambling, Poker sites  
@@ -16,7 +17,7 @@
     Microsoft        Apps, Bing, Bloat, Tiles, etc  
     Remote           Domains used for remote sessions  
     Risk             Bad ISP/Bots/Spam, Keyloggers, Sites used by compromised devices
-    Scam             Fake freight, gift cards, products, support, pet sales, firearms, news, etc    
+    Scam             Fake freight, gift cards, products, support, pets, firearms, news, etc    
     Shock            Gore, Gross, and Torture sites
     Top_Level        Top Level Domains. Sorted by continent, then by country
     Tracking         Analytics, Diagnostics, Location, Metrics, Public IP  
