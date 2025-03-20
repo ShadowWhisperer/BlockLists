@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 735
-# Updated: 3/17/2025  17:30 (5:30 PM CST)
+# Domains: 676
+# Updated: 3/20/2025  16:44 (4:44 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -134,65 +134,6 @@
 0.0.0.0 overmind.arc.io
 0.0.0.0 socket.arc.io
 0.0.0.0 static.arc.io
-0.0.0.0 adguard-dns.com
-0.0.0.0 adguard-dns.io
-0.0.0.0 dns.adguard.com
-0.0.0.0 dns-family.adguard.com
-0.0.0.0 dns.aaflalo.me
-0.0.0.0 dns-gcp.aaflalo.me
-0.0.0.0 dns.apple.com
-0.0.0.0 dns.apple.com.v.aaplimg.com
-0.0.0.0 mask.apple-dns.net
-0.0.0.0 mask.icloud.com
-0.0.0.0 applied-privacy.net
-0.0.0.0 securedns.avast.com
-0.0.0.0 blahdns.com
-0.0.0.0 canadianshield.cira.ca
-0.0.0.0 cleanbrowsing.org
-0.0.0.0 cloudflare-dns.com
-0.0.0.0 dns.cloudflare.com
-0.0.0.0 ns.cloudflare.com
-0.0.0.0 comododns.com
-0.0.0.0 dnsbycomodo.com
-0.0.0.0 dns-doh.dnsforfamily.com
-0.0.0.0 dns-doh-no-safe-search.dnsforfamily.com
-0.0.0.0 dns-doh-no-youtube-safe-search.dnsforfamily.com
-0.0.0.0 dns-dot.dnsforfamily.com
-0.0.0.0 dns-dot-no-safe-search.dnsforfamily.com
-0.0.0.0 dns-dot-no-youtube-safe-search.dnsforfamily.com
-0.0.0.0 dnslify.com
-0.0.0.0 dnswarden.com
-0.0.0.0 dns.sb
-0.0.0.0 use-application-dns.net
-0.0.0.0 dns.google
-0.0.0.0 dns.google.com
-0.0.0.0 dns-tunnel-check.googlezip.net
-0.0.0.0 google-public-dns-a.google.com
-0.0.0.0 google-public-dns-b.google.com
-0.0.0.0 ns1.level3.net
-0.0.0.0 ns2.level3.net
-0.0.0.0 maradns.org
-0.0.0.0 nextdns.io
-0.0.0.0 dnsz.corp.nortonlifelock.com
-0.0.0.0 opendns.com
-0.0.0.0 quad9.net
-0.0.0.0 spacedns.org
-0.0.0.0 doh-01.spectrum.com
-0.0.0.0 doh-02.spectrum.com
-0.0.0.0 doh-03.spectrum.com
-0.0.0.0 tiar.app
-0.0.0.0 usableprivacy.net
-0.0.0.0 crypto.sx
-0.0.0.0 dns.nixnet.xyz
-0.0.0.0 dns.rubyfish.cn
-0.0.0.0 doh.appliedprivacy.net
-0.0.0.0 doh.captnemo.in
-0.0.0.0 doh.cq0.co
-0.0.0.0 doh.crypto.sx
-0.0.0.0 doh.li
-0.0.0.0 doh.netweaver.uk
-0.0.0.0 rdns.faelix.net
-0.0.0.0 sslip.io
 0.0.0.0 mailshell.net
 0.0.0.0 avastbrowser.com
 0.0.0.0 browser-update.avast.com

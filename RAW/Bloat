@@ -11,8 +11,6 @@ acms.carconnectivity.org
 activity-stream-icons.services.mozilla.com
 addnow.com
 addtoany.com
-adguard-dns.com
-adguard-dns.io
 adkmob.com
 af.opera.com
 airdroid-img2.s3.amazonaws.com
@@ -40,7 +38,6 @@ api.spd.samsungdm.com
 api.userway.org
 app.goo.gl
 applications.mobisystems.com
-applied-privacy.net
 apps.facebook.com
 apps.toshiba.com
 appuws.acer.com
@@ -60,7 +57,6 @@ badges.instagram.com
 b-api.facebook.com
 bench.utorrent.com
 bitmango.com
-blahdns.com
 blobcomments-pa.clients6.google.com
 block-edge-anycast.dropbox.com
 blocklists.settings.services.mozilla.com
@@ -79,7 +75,6 @@ bsxplayerv13.bluestacks.com
 bubblewitch3mobile.king.com
 byvgames.com
 calendarpushsubscription-pa.googleapis.com
-canadianshield.cira.ca
 candycrush.king.com
 candycrushsoda.king.com
 capi.samsungcloud.com
@@ -107,7 +102,6 @@ chromesyncentities-pa.googleapis.com
 ciscobinary.openh264.org
 classicwords.net
 classify-client.services.mozilla.com
-cleanbrowsing.org
 cleaner.noxgroup.org
 clients5.google.com
 clientservices.googleapis.com
@@ -119,7 +113,6 @@ cloud.acrobat.com
 cloud.avg.com
 cloudconfig.googleapis.com
 cloud.dell.com
-cloudflare-dns.com
 cloudsearch.googleapis.com
 cmc.comodo.com
 cmcm.com
@@ -128,7 +121,6 @@ cms.csw.lenovo.com
 com.djinnworks.lr.s3.amazonaws.com
 com.djinnworks.newsfeed.s3.amazonaws.com
 communicator.rocketlifeproduction.com
-comododns.com
 concretesoftware.com
 config-api.internet.apps.samsung.com
 config.fsr.lenovomm.com
@@ -148,7 +140,6 @@ crosfresnel-pa.googleapis.com
 crowdsignal.com
 cryptauthdevicesync.googleapis.com
 cryptauthvault.googleapis.com
-crypto.sx
 csdsupport.toshiba.com
 cspreports.comodo.com
 cuscochromeextension-pa.googleapis.com
@@ -188,38 +179,6 @@ dlieyhrm30x3f.cloudfront.net
 dls-udc.dqa.samsung.com
 dna.cyberlink.com
 dnd.tools.avast.com
-dns.aaflalo.me
-dns.adguard.com
-dns.apple.com
-dns.apple.com.v.aaplimg.com
-dnsbycomodo.com
-dns.cloudflare.com
-dns-doh.dnsforfamily.com
-dns-doh-no-safe-search.dnsforfamily.com
-dns-doh-no-youtube-safe-search.dnsforfamily.com
-dns-dot.dnsforfamily.com
-dns-dot-no-safe-search.dnsforfamily.com
-dns-dot-no-youtube-safe-search.dnsforfamily.com
-dns-family.adguard.com
-dns-gcp.aaflalo.me
-dns.google
-dns.google.com
-dnslify.com
-dns.nixnet.xyz
-dns.rubyfish.cn
-dns.sb
-dns-tunnel-check.googlezip.net
-dnswarden.com
-dnsz.corp.nortonlifelock.com
-doh-01.spectrum.com
-doh-02.spectrum.com
-doh-03.spectrum.com
-doh.appliedprivacy.net
-doh.captnemo.in
-doh.cq0.co
-doh.crypto.sx
-doh.li
-doh.netweaver.uk
 dolphin-browser.com
 donate.mozilla.org
 donorbox.org
@@ -307,8 +266,6 @@ googlecommerce.com
 googlehomefoyer-pa.googleapis.com
 googleonebackup-pa.googleapis.com
 googlepages.com
-google-public-dns-a.google.com
-google-public-dns-b.google.com
 gpm.samsungqbe.com
 graph-fallback.facebook.com
 graph.instagram.com
@@ -384,10 +341,7 @@ m2u.sn.eamobile.com
 macupdate.utorrent.com
 magictavern.com
 mailshell.net
-maradns.org
 marketingplatform.google.com
-mask.apple-dns.net
-mask.icloud.com
 mcn.lenovo.com
 mcn.lenovo.com.cn
 media.line.naver.jp
@@ -419,7 +373,6 @@ ncc.avast.com
 n-deventry-smb.tplinkcloud.com
 n-devs-smb.tplinkcloud.com
 netmarble.com
-nextdns.io
 ngx-v4.amp-endpoint2.com
 ngx-v6.amp-endpoint2.com
 nicequest.com
@@ -427,9 +380,6 @@ nickcircelli.com
 normandy-cloudfront.cdn.mozilla.net
 nosslsearch.google.com
 noxgroup.org
-ns1.level3.net
-ns2.level3.net
-ns.cloudflare.com
 nsg.symantec.com
 oauthaccountmanager.googleapis.com
 ocsp.comodoca4.com
@@ -439,7 +389,6 @@ onboarding.avgbrowser.com
 ondevicesafety-pa.googleapis.com
 oneopinion.com
 onlineada.com
-opendns.com
 openh264.org
 opensharecount.com
 opinionbar.com
@@ -531,14 +480,12 @@ promo.webpayments.closeby.internet.apps.samsung.com
 pubsub.googleapis.com
 qrserver.com
 qsurvey.mozilla.com
-quad9.net
 questionpro.com
 questionpro.com.au
 raongames.com
 ratings-wrs.symantec.com
 ravecapture.com
 rcd.adolab.com
-rdns.faelix.net
 reachit.lenovo.com
 realtimesupport.clients6.google.com
 recsys-api.buzzfeed.com
@@ -575,7 +522,6 @@ search.utorrent.com
 secak-fota-dn.samsungdm.com
 secureapi.samqaicongen.com
 securebrowser.avast.tools.avcdn.net
-securedns.avast.com
 secure.gameloft.com
 secure.polldaddy.com
 secureprotocolengine-test.intel.com
@@ -596,7 +542,6 @@ socket.arc.io
 soniccd-cdn.s3.amazonaws.com
 sonybivstatic-a.akamaihd.net
 sonymobile.com
-spacedns.org
 speakpipe.com
 splitit.com
 splitit-images-prod-new.s3.amazonaws.com
@@ -604,7 +549,6 @@ spocs.getpocket.com
 spotlight.my.avira.com
 sprig.com
 srv3.airdroid.com
-sslip.io
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
@@ -653,7 +597,6 @@ tetrisrushlive.appspot.com
 tfgco.com
 tfg-customer.s3.amazonaws.com
 thunderbird-settings.thunderbird.net
-tiar.app
 tiles-cloudfront.cdn.mozilla.net
 tiles.r53-2.services.mozilla.com
 tiles.services.mozilla.com
@@ -685,8 +628,6 @@ ups.surveyrouter.com
 uptolike.com
 uptolike.ru
 usabilla.com
-usableprivacy.net
-use-application-dns.net
 user-api.internet.apps.samsung.com
 userpaneltv-pa.googleapis.com
 user.utorrent.com

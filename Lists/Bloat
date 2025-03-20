@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 735
-# Updated: 3/17/2025  17:30 (5:30 PM CST)
+# Domains: 676
+# Updated: 3/20/2025  16:44 (4:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -147,66 +147,6 @@ gateway.arc.io                                          #Share Bandwidth
 overmind.arc.io                                         #Share Bandwidth
 socket.arc.io                                           #Share Bandwidth
 static.arc.io                                           #Share Bandwidth
-
-adguard-dns.com                                         #Alt DNS - AdGuard
-adguard-dns.io                                          #Alt DNS - AdGuard
-dns.adguard.com                                         #Alt DNS - AdGuard
-dns-family.adguard.com                                  #Alt DNS - AdGuard
-dns.aaflalo.me                                          #Alt DNS - Antoine Aflalo
-dns-gcp.aaflalo.me                                      #Alt DNS - Antoine Aflalo
-dns.apple.com                                           #Alt DNS - Apple (Encrypted)
-dns.apple.com.v.aaplimg.com                             #Alt DNS - Apple (Encrypted)
-mask.apple-dns.net                                      #Alt DNS - Apple
-mask.icloud.com                                         #Alt DNS - Apple
-applied-privacy.net                                     #Alt DNS - Applied-Privacy
-securedns.avast.com                                     #Alt DNS - Avira Antivirus
-blahdns.com                                             #Alt DNS - Blah DNS
-canadianshield.cira.ca                                  #Alt DNS - Cira
-cleanbrowsing.org                                       #Alt DNS - Clean Browsing
-cloudflare-dns.com                                      #Alt DNS - Cloudflare
-dns.cloudflare.com                                      #Alt DNS - Cloudflare
-ns.cloudflare.com                                       #Alt DNS - Cloudflare
-comododns.com                                           #Alt DNS - Comodo Cybersecurity
-dnsbycomodo.com                                         #Alt DNS - Comodo Cybersecurity
-dns-doh.dnsforfamily.com                                #Alt DNS - DNS For Family
-dns-doh-no-safe-search.dnsforfamily.com                 #Alt DNS - DNS For Family
-dns-doh-no-youtube-safe-search.dnsforfamily.com         #Alt DNS - DNS For Family
-dns-dot.dnsforfamily.com                                #Alt DNS - DNS For Family
-dns-dot-no-safe-search.dnsforfamily.com                 #Alt DNS - DNS For Family
-dns-dot-no-youtube-safe-search.dnsforfamily.com         #Alt DNS - DNS For Family
-dnslify.com                                             #Alt DNS - Dnslify
-dnswarden.com                                           #Alt DNS - DnsWarden
-dns.sb                                                  #Alt DNS - DNS SB
-use-application-dns.net                                 #Alt DNS - FireFox (Doh)
-dns.google                                              #Alt DNS - Google
-dns.google.com                                          #Alt DNS - Google
-dns-tunnel-check.googlezip.net                          #Alt DNS - Google
-google-public-dns-a.google.com                          #Alt DNS - Google
-google-public-dns-b.google.com                          #Alt DNS - Google
-ns1.level3.net                                          #Alt DNS - Level 3 Communications
-ns2.level3.net                                          #Alt DNS - Level 3 Communications
-maradns.org                                             #Alt DNS - MaraDNS
-nextdns.io                                              #Alt DNS - NextDNS
-dnsz.corp.nortonlifelock.com                            #Alt DNS - Norton
-opendns.com                                             #Alt DNS - OpenDNS
-quad9.net                                               #Alt DNS - Quad9
-spacedns.org                                            #Alt DNS - Space DNS
-doh-01.spectrum.com                                     #Alt DNS - Spectrum
-doh-02.spectrum.com                                     #Alt DNS - Spectrum
-doh-03.spectrum.com                                     #Alt DNS - Spectrum
-tiar.app                                                #Alt DNS - Tiarap
-usableprivacy.net                                       #Alt DNS - updns
-crypto.sx                                               #Alt DNS - 
-dns.nixnet.xyz                                          #Alt DNS - 
-dns.rubyfish.cn                                         #Alt DNS - 
-doh.appliedprivacy.net                                  #Alt DNS - 
-doh.captnemo.in                                         #Alt DNS - 
-doh.cq0.co                                              #Alt DNS - 
-doh.crypto.sx                                           #Alt DNS - 
-doh.li                                                  #Alt DNS - 
-doh.netweaver.uk                                        #Alt DNS - 
-rdns.faelix.net                                         #Alt DNS - 
-sslip.io                                                #Alt DNS - sslip
 
 mailshell.net                                           #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 avastbrowser.com                                        #Antivirus   Avast - Browser
