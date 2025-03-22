@@ -1,8 +1,8 @@
 #
 #    File: Chat
-#    Info: Chat Dialog Boxes  *Not Chat Rooms
-# Domains: 464
-# Updated: 3/20/2025  16:44 (4:44 PM CST)
+#    Info: Chat Dialog Boxes
+# Domains: 465
+# Updated: 3/21/2025  19:57 (7:57 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -315,6 +315,7 @@ manychat.com
 medchatapp.com
 melibo.de
 membitbot.com
+messaging-api.shopifyapps.com
 messenger.cdn.greyhound-software.com
 me-talk.ru
 mindbehind.com
