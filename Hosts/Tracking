@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 102,377
-# Updated: 3/21/2025  19:57 (7:57 PM CST)
+# Domains: 102,381
+# Updated: 3/22/2025  11:39 (11:39 AM CST)
 #
 0.0.0.0 01009.wikihoster.de
 0.0.0.0 01039.wikihoster.de
@@ -15358,6 +15358,7 @@
 0.0.0.0 apima.ibuk.pl
 0.0.0.0 api.mailmojo.no
 0.0.0.0 apima.jezykiobce.pwn.pl
+0.0.0.0 api.majorgeeks.com
 0.0.0.0 apima.ksiegarnia.pwn.pl
 0.0.0.0 api.maladiecoronavirus.fr
 0.0.0.0 apima.libra.ibuk.pl
@@ -18032,7 +18033,6 @@
 0.0.0.0 cdn.e.nastygal.com
 0.0.0.0 cdn.e.next.co.uk
 0.0.0.0 cdn.e.nextdirect.com
-0.0.0.0 cdn.enterombacerick.com
 0.0.0.0 cdn.e.oasisfashion.com
 0.0.0.0 cdn.e.oasis-stores.com
 0.0.0.0 cdn.e-pfg.ca
@@ -19450,8 +19450,6 @@
 0.0.0.0 colossalcoat.com
 0.0.0.0 colossalcry.com
 0.0.0.0 colossusssp.com
-0.0.0.0 colrep.sitelabweb.com
-0.0.0.0 colres.sitelabweb.com
 0.0.0.0 columbo.io
 0.0.0.0 colvk.viki.io
 0.0.0.0 combativecar.com
@@ -24076,6 +24074,7 @@
 0.0.0.0 dcs.esprit.es
 0.0.0.0 dcs.esprit.eu
 0.0.0.0 dcs.esprit.fi
+0.0.0.0 dcs.esprit.fr
 0.0.0.0 dcs.esprit.hk
 0.0.0.0 dcs.esprit.kr
 0.0.0.0 dcs.esprit.nl
@@ -24127,6 +24126,7 @@
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 dd88trk.com
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
+0.0.0.0 dd.astockcdn.net
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.betano.pe
 0.0.0.0 dd.binglee.com.au
@@ -27091,7 +27091,6 @@
 0.0.0.0 feebleshock.com
 0.0.0.0 feedback.advancedwebranking.com
 0.0.0.0 feedback.aol.com
-0.0.0.0 feedback.appfollow.io
 0.0.0.0 feedback.apple.com
 0.0.0.0 feedback-apps.mycsem.ch
 0.0.0.0 feedback.betterimpact.com
@@ -56389,6 +56388,7 @@
 0.0.0.0 m-pathy.com
 0.0.0.0 mp-c.info
 0.0.0.0 mpctrak.com
+0.0.0.0 mp-data.gofundme.com
 0.0.0.0 mp.digital.wilhelmsen.com
 0.0.0.0 mpeasylink.com
 0.0.0.0 mp.ferchau.com
@@ -57342,6 +57342,7 @@
 0.0.0.0 nra.locktonaffinity.net
 0.0.0.0 nr-data.net
 0.0.0.0 nr-ops.net
+0.0.0.0 n.rosehosting.com
 0.0.0.0 ns3w1qrlbk4s.tip.etip-staging.etip.io
 0.0.0.0 ns8.com
 0.0.0.0 ns8ds.com
@@ -59996,6 +59997,7 @@
 0.0.0.0 partners.getconvey.com
 0.0.0.0 partners.growthplay.com
 0.0.0.0 partners.gus.global
+0.0.0.0 partnerships.choosemuse.com
 0.0.0.0 partnerships.inman.com
 0.0.0.0 partnerships.nrchealth.com
 0.0.0.0 partnerships.ouraring.com
@@ -62256,7 +62258,6 @@
 0.0.0.0 piwik.gbo-datacomp.de
 0.0.0.0 piwik.gbv.de
 0.0.0.0 piwik.gca-projekte.de
-0.0.0.0 piwik.gcdc.pl
 0.0.0.0 piwik.gcm-mueller.de
 0.0.0.0 piwik.gcproject.fr
 0.0.0.0 piwik.gcsoft.de
@@ -91081,6 +91082,7 @@
 0.0.0.0 sts.sbrg.sldc.pl
 0.0.0.0 ststat.net
 0.0.0.0 sts.us-west-2.amazonaws.com
+0.0.0.0 stt-alb-2-1959436880.us-east-1.elb.amazonaws.com
 0.0.0.0 stt.bupa.com.au
 0.0.0.0 stt.cpaaustralia.com.au
 0.0.0.0 stt.deakin.edu.au
@@ -91907,7 +91909,6 @@
 0.0.0.0 tags.klove.com
 0.0.0.0 tags.kmart.com.au
 0.0.0.0 tags.krymr.com
-0.0.0.0 tag.skyx.distilled.untitledfirm.com
 0.0.0.0 tags.mainova.de
 0.0.0.0 tags.martinoticias.com
 0.0.0.0 tags.mindbodyonline.com
@@ -91944,6 +91945,7 @@
 0.0.0.0 tags.shop.com
 0.0.0.0 tags.svaboda.org
 0.0.0.0 tags.svoboda.org
+0.0.0.0 tags.syf.com
 0.0.0.0 tags.synchronybank.com
 0.0.0.0 tags.synchronybusiness.com
 0.0.0.0 tags.synchrony.com
@@ -91965,6 +91967,7 @@
 0.0.0.0 tags.voaportugues.com
 0.0.0.0 tags.vodafone.pt
 0.0.0.0 tags.vozdeamerica.com
+0.0.0.0 tags.wnba.com
 0.0.0.0 tags.wyndhamhotels.com
 0.0.0.0 tag.tagcreativeprint.com
 0.0.0.0 tag.talientactiongroup.com
@@ -96427,6 +96430,7 @@
 0.0.0.0 visitors.guru
 0.0.0.0 visitorshitcounter.com
 0.0.0.0 visitors.linke.ro
+0.0.0.0 visitors.thingiverse.com
 0.0.0.0 visitors.xapted.dev
 0.0.0.0 visitor-track.com
 0.0.0.0 visitor-tracker.com

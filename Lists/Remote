@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 139
-# Updated: 2/26/2025  23:21 (11:21 PM CST)
+# Domains: 140
+# Updated: 3/22/2025  11:39 (11:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -50,6 +50,7 @@ gotomanage.com
 gotomeeting.com
 gotomypc.com
 gotomypc.eu
+gotoresolve.com
 goto-rtc.com
 gsupport.me
 hamachi.cc

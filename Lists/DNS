@@ -1,8 +1,8 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 131
-# Updated: 3/20/2025  16:44 (4:44 PM CST)
+# Domains: 132
+# Updated: 3/22/2025  11:39 (11:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13,6 +13,7 @@ dot.360.cn                                              #360 Security
 adguard.com                                             #AdGuard
 adguard-dns.com                                         #AdGuard
 adguard-dns.io                                          #AdGuard
+adguard.io                                              #AdGuard
 ahadns.net                                              #AhaDNS
 pi-dns.com                                              #AhaDNS
 alidns.com                                              #Ali DNS
