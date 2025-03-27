@@ -1,14 +1,12 @@
 #
 #    File: Fonts
-#    Info: Fonts
-# Domains: 165
-# Updated: 3/12/2025  22:49 (10:49 PM CST)
+#    Info: ^
+# Domains: 155
+# Updated: 3/27/2025  11:10 (11:10 AM CST)
 #
 0.0.0.0 allfont.net
-0.0.0.0 api.fonts.coollabs.io
 0.0.0.0 assets.rivian.com
 0.0.0.0 bunnyfonts.b-cdn.net
-0.0.0.0 cdn.fonts.coollabs.io
 0.0.0.0 cdn.linearicons.com
 0.0.0.0 cloud.webtype.com
 0.0.0.0 clyde-fonts.s3.amazonaws.com
@@ -52,6 +50,7 @@
 0.0.0.0 fonts.channel4.com
 0.0.0.0 fonts.citipo.com
 0.0.0.0 fonts.com
+0.0.0.0 fonts.coollabs.io
 0.0.0.0 fonts.cummins.com
 0.0.0.0 fonts.cursecdn.com
 0.0.0.0 fonts.dzone.com
@@ -130,12 +129,6 @@
 0.0.0.0 iconmonstr.com
 0.0.0.0 ionicframework.com
 0.0.0.0 i.piano.io
-0.0.0.0 ka-f.fontawesome.com
-0.0.0.0 ka-f.fontawesome.com.cdn.cloudflare.net
-0.0.0.0 ka-p.fontawesome.com
-0.0.0.0 kit.fontawesome.com
-0.0.0.0 kit.fontawesome.com.cdn.cloudflare.net
-0.0.0.0 kit-pro.fontawesome.com
 0.0.0.0 linearicons.com
 0.0.0.0 media.tdameritrade.com
 0.0.0.0 minted-fonts.mintedcdn.net
@@ -144,7 +137,6 @@
 0.0.0.0 nimblefonts.nimbledeals.com
 0.0.0.0 onlinewebfonts.com
 0.0.0.0 pls.webtype.com
-0.0.0.0 pro.fontawesome.com
 0.0.0.0 pstatic09.mgo-images.com
 0.0.0.0 realtype.jp
 0.0.0.0 rockomni.com
@@ -157,9 +149,7 @@
 0.0.0.0 typekit.net
 0.0.0.0 typography.doordash.com
 0.0.0.0 typotheque.com
-0.0.0.0 use.fortawesome.com
 0.0.0.0 use.typekit.net
-0.0.0.0 webfont.fontplus.jp
 0.0.0.0 webfont.honda.co.jp
 0.0.0.0 webfonts.creativecloud.com
 0.0.0.0 webfonts.ru
