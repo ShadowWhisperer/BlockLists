@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 292
-# Updated: 2/21/2025  12:20 (12:20 PM CST)
+# Domains: 294
+# Updated: 3/27/2025  10:43 (10:43 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -41,6 +41,8 @@ pandasoftware.com                              #Antivirus    Panda
 stopzilla.com                                  #Antivirus    StopZilla
 totaldefense.com                               #Antivirus    Total Defense
 ultrasecureav.com                              #Antivirus    Ultra Secure AV
+aurasvc.io                                     #Antivirus    UltraAV (pango.co)
+ultraantivirus.com                             #Antivirus    UltraAV (pango.co)
 webrootanywhere.com                            #Antivirus    Webroot
 webrootcloudav.com                             #Antivirus    Webroot
 webroot.com                                    #Antivirus    Webroot

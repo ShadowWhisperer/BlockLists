@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 916
-# Updated: 3/16/2025  16:40 (4:40 PM CST)
+# Domains: 949
+# Updated: 3/27/2025  10:43 (10:43 AM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -133,45 +133,75 @@
 0.0.0.0 cyberghostvpn.com
 0.0.0.0 d101vabyweqq2v.cloudfront.net
 0.0.0.0 d11nlh9luc38sm.cloudfront.net
+0.0.0.0 d127oyoibbqwge.cloudfront.net
 0.0.0.0 d135re68iqn9un.cloudfront.net
+0.0.0.0 d15bbbc3wnvnmn.cloudfront.net
 0.0.0.0 d1ai2z1erj0mzw.cloudfront.net
+0.0.0.0 d1ay4vtvc8e6zx.cloudfront.net
 0.0.0.0 d1bshntecis4nt.cloudfront.net
 0.0.0.0 d1cu1v8rtmkdap.cloudfront.net
 0.0.0.0 d1d8t5xydfxgeo.cloudfront.net
 0.0.0.0 d1dxafvkz5efdk.cloudfront.net
+0.0.0.0 d1h9h0ul1yshdr.cloudfront.net
 0.0.0.0 d1llq9kjmh5kle.cloudfront.net
 0.0.0.0 d1mfbo70y8oix.cloudfront.net
 0.0.0.0 d1nhfiq375vclz.cloudfront.net
 0.0.0.0 d1o29kof4patkc.cloudfront.net
 0.0.0.0 d1oil4jryamdk0.cloudfront.net
 0.0.0.0 d1pijg9qb98hxx.cloudfront.net
+0.0.0.0 d1q7l8qbm9i79g.cloudfront.net
 0.0.0.0 d1ry4tp9yai77v.cloudfront.net
+0.0.0.0 d1w3pxkso9cdze.cloudfront.net
+0.0.0.0 d1y8ra9afucwxf.cloudfront.net
+0.0.0.0 d1ygoiuoqawp5l.cloudfront.net
 0.0.0.0 d1yqrjo3t9z45y.cloudfront.net
 0.0.0.0 d1ziyscmc3vy4y.cloudfront.net
+0.0.0.0 d20azcybrwtyo1.cloudfront.net
+0.0.0.0 d20layvrh0e724.cloudfront.net
 0.0.0.0 d218zko9b2en9z.cloudfront.net
 0.0.0.0 d21j7etzkdo9k9.cloudfront.net
 0.0.0.0 d21lp3bv4cvrq0.cloudfront.net
+0.0.0.0 d22exc1qaxxg5.cloudfront.net
 0.0.0.0 d22wz8n8kxtekt.cloudfront.net
 0.0.0.0 d23adb9b00af8o.cloudfront.net
+0.0.0.0 d24pwtxnl8j1kl.cloudfront.net
 0.0.0.0 d25x2lo7c2cgcg.cloudfront.net
+0.0.0.0 d26hytpp1egyak.cloudfront.net
 0.0.0.0 d2aie540xlenvh.cloudfront.net
 0.0.0.0 d2bt0exxr0npbv.cloudfront.net
 0.0.0.0 d2j70jcgnynkmz.cloudfront.net
 0.0.0.0 d2jt5ch84ucw3d.cloudfront.net
 0.0.0.0 d2lc4c1pqsbcnb.cloudfront.net
 0.0.0.0 d2nwen82kufxls.cloudfront.net
+0.0.0.0 d2p6rd3rat982h.cloudfront.net
 0.0.0.0 d2s11oshv6yhsg.cloudfront.net
+0.0.0.0 d2snllh8r7h5xe.cloudfront.net
 0.0.0.0 d2t530yk5s6ixp.cloudfront.net
+0.0.0.0 d2wkmoh47zvvhf.cloudfront.net
 0.0.0.0 d2xl5j5majlxvm.cloudfront.net
+0.0.0.0 d30jxbzqqg5c6b.cloudfront.net
+0.0.0.0 d30mgm21mrikqh.cloudfront.net
+0.0.0.0 d33nduswak3e8z.cloudfront.net
 0.0.0.0 d33xcky42h0olw.cloudfront.net
 0.0.0.0 d3653e2epregbl.cloudfront.net
+0.0.0.0 d36jcszes5m5y9.cloudfront.net
+0.0.0.0 d37d0eet8vqwi8.cloudfront.net
+0.0.0.0 d39utm8gj45c7v.cloudfront.net
 0.0.0.0 d39vupl819wjy5.cloudfront.net
 0.0.0.0 d3b4y213ksr6z5.cloudfront.net
 0.0.0.0 d3cegil552nnks.cloudfront.net
+0.0.0.0 d3da4vp433xioa.cloudfront.net
+0.0.0.0 d3dfrde26093iw.cloudfront.net
+0.0.0.0 d3h88i27t2k9za.cloudfront.net
+0.0.0.0 d3ld64f3x32q9b.cloudfront.net
 0.0.0.0 d3mbcglufa4kg4.cloudfront.net
+0.0.0.0 d3qrgc52ksxp0f.cloudfront.net
+0.0.0.0 d3r068fmelzi0v.cloudfront.net
 0.0.0.0 d3r4uyp6f50bpa.cloudfront.net
+0.0.0.0 d3sdizpx54za7n.cloudfront.net
 0.0.0.0 d3vbve16e4mwju.cloudfront.net
 0.0.0.0 d3vo8ia181ei2.cloudfront.net
+0.0.0.0 d4q7uy1bdj3do.cloudfront.net
 0.0.0.0 d4.re
 0.0.0.0 d560g3bzhkqrf.cloudfront.net
 0.0.0.0 d8ou8y123d5vy.cloudfront.net
@@ -182,6 +212,7 @@
 0.0.0.0 dg98q1fqxxogp.cloudfront.net
 0.0.0.0 directoryproxy.info
 0.0.0.0 djx5taukzt3mb.cloudfront.net
+0.0.0.0 djzmgdkxnizyn.cloudfront.net
 0.0.0.0 dmh2vhxzf0tuf.cloudfront.net
 0.0.0.0 dontblockme.org
 0.0.0.0 dqwow4xvbctco.cloudfront.net
@@ -189,6 +220,7 @@
 0.0.0.0 dt4f1zrb25v4h.cloudfront.net
 0.0.0.0 dt4oxny0f90is.cloudfront.net
 0.0.0.0 du8aqpqj1sfsd.cloudfront.net
+0.0.0.0 dvfqxoi8ar2lj.cloudfront.net
 0.0.0.0 dwhh0bi26t86w.cloudfront.net
 0.0.0.0 dxyef5b084fjk.cloudfront.net
 0.0.0.0 dy58t8rwtsd9j.cloudfront.net
@@ -205,6 +237,7 @@
 0.0.0.0 fastproxy.org
 0.0.0.0 fastusaproxy.com
 0.0.0.0 fastvpn.im
+0.0.0.0 favoriteshoes.us
 0.0.0.0 fiberprox.com
 0.0.0.0 fiberprox.net
 0.0.0.0 files-slickvpn.netdna-ssl.com
