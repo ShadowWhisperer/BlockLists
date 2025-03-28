@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 102,374
-# Updated: 3/28/2025  14:31 (2:31 PM CST)
+# Domains: 102,375
+# Updated: 3/28/2025  18:46 (6:46 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -8473,6 +8473,7 @@ analytics.infra.laprimaire.org
 analytics.infuse.ch
 analytics-ingestion.production-public.tubi.io
 analytics-ingestion-production.tubitv.com
+analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 analytics.ingewikkeld.net
 analytics.ingos.com
 analytics-ingress-global.bitmovin.com
