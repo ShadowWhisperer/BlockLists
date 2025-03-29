@@ -83,9 +83,6 @@ dns.marbledfennec.net                                   #Marbled Fennec Networks
 maradns.org                                             #MaraDNS
 dns.momou.ch                                            #Momou!
 dns.mullvad.net                                         #Mullvad
-mypdns.cloud                                            #My Privacy DNS
-mypdns.com                                              #My Privacy DNS
-mypdns.org                                              #My Privacy DNS
 nawala.id                                               #Nawala
 doh.netweaver.uk                                        #NetWeaver
 nextdns.io                                              #NextDNS
@@ -116,6 +113,8 @@ dnsovertls1.sinodun.com                                 #Stubby
 dnsovertls.sinodun.com                                  #Stubby
 getdnsapi.net                                           #Stubby
 dns.switch.ch                                           #Switch
+safedns.allover.co.za                                  `#Ultimate.Hosts.Blacklist
+safedns2.allover.co.za                                  #Ultimate.Hosts.Blacklist
 spacedns.org                                            #Space DNS
 doh-01.spectrum.com                                     #Spectrum
 doh-02.spectrum.com                                     #Spectrum
