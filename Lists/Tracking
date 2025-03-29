@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 102,380
-# Updated: 3/28/2025  19:14 (7:14 PM CST)
+# Updated: 3/29/2025  12:07 (12:07 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -21330,6 +21330,7 @@ cs.c21-smica.com
 c.schlotzskys.com
 cs.cloudsign.jp
 csc-report-bucket.s3.amazonaws.com
+cscript-irl.global.abb
 cs.dds.microsoft.com
 csell.co
 c.se.msn.com
@@ -27517,7 +27518,6 @@ forms.glickon.com
 forms.gocardless.com
 forms.goepson.com
 forms.hosting.thgingenuity.com
-forms.hsforms.com
 forms.integrim.com
 forms.key-p.com
 forms.lkpkg.com
@@ -27525,7 +27525,6 @@ forms.loyaltylab.com
 forms.marketing.hiperbaric.com
 forms.michelman.net
 forms.mybusinessacademy.ph
-forms-na1.hsforms.com
 form.softtech.com
 forms.opencorporates.com
 forms.orianda.com
@@ -29899,6 +29898,7 @@ hs-analytics.net
 h.santanderconsumer.pl
 hscvk.tnuck.com
 h.seznam.cz
+hsforms.com
 hs.healthstream.com
 hsinfo.stanford.edu
 hsk28xtrk.com
@@ -30195,6 +30195,8 @@ idrove.it
 ids.cdnwidget.com
 id.schroders.email
 id-shop.govx.com
+ids-irl.abb.com
+ids-irl.global.abb
 id.spectator.co.uk
 idstatus.sky.com
 idstatus.sky.it
@@ -60256,9 +60258,7 @@ perfdrive.com
 perfectaudience.com
 perfettimedia.com
 perf-events.cloud.unity3d.com
-perf.hsforms.com
 perf.mouser.com
-perf-na1.hsforms.com
 perfops.net
 performanceanalyser.net
 performance-booster.com
