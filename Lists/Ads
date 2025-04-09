@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 21,258
-# Updated: 4/8/2025  20:46 (8:46 PM CST)
+# Domains: 21,260
+# Updated: 4/9/2025  16:22 (4:22 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3219,6 +3219,7 @@ ads.djc.com
 ads.dk
 ads.dkelseymedia.com
 adsdk.menaapp.net
+adsdkprod.azureedge.net
 ads.dlf.org.uk
 adsdms.mk
 ads.d-msquared.com
@@ -16414,6 +16415,7 @@ pushtry.com
 pushub.net
 pushvault.com
 push.webandname.com
+push-webapi.site
 pushwizard.com
 pushwoosh.com
 pushwoot.com
