@@ -25,24 +25,29 @@
     URL Shortener    URL Shorteners. Can be used to mask malicious domains
       
     Filter           Used by my parse script to show me what has not been blocked
-    Whitelist        Reasons for some allowed domains  
-  
+    Whitelist        Reasons for some allowed domains in Filter ^
 
-This repo was created: 2/14/2020.  https://api.github.com/repos/ShadowWhisperer/BlockLists    
-The repo is compressed occasionally, to reduce the overall size. Logs, diff, etc. do not stay with the repo because of this.  
-  
-These lists are built using custom scripts, and manual additions. (All of my own)
-<br />  
-  
-Some domains are used for both ads and tracking.  *Dating* may contain scam dating sites.  *Bloat*, *Free*, *Junk*, and *Marketing* may break stuff.
+This repository was made public on Feburary of 2020.
+All domains are add from custom scripts and/or manual additions.
 
-*Typo* will have mostly dead domains. Not recommended to use on lower-end devices. If you are looking to merge my lists, I would advise you to skip *Typo*. You will get a lot of complaints of dead domains.  
-<br />  
+## Usage Notes
+- **Overlap**: Categories like *Ads* and *Tracking* may overlap.
+- **Risk** Blocking *Bloat*, *Free*, or *Marketing* may break some software.
+- **Typo List**: Contains mostly dead domains. Avoid on low-end devices or when merging with your lists.
+- **Wildcard Blocks**: Some domains (e.g., `badsite.com`) may be blocked, but subdomains (e.g., `1.badsite.com`) may remain active.
+- **Prefixes**: `www.`, `mobile.`, and `m.` are removed.
 
-If you find sites that do not resolve an IP, it's probably a wildcard block. If _badsite.com_ is dead, _1.badsite.com_ is not. I remove dead/parked sites occasionally.  
-<br />  
+## Maintenance
+- The repository is occasionally compressed to reduce size, removing logs, diffs, and previous commits.
+- Dead or parked domains are periodically removed.
 
+## Contributing
+- Open an issue with category, domain, reason, and proof (if possible).
+- I will not merge other lists
+
+## Formats
+[HOSTS](https://github.com/ShadowWhisperer/BlockLists/tree/master/Hosts)  
+[With header comments](https://github.com/ShadowWhisperer/BlockLists/tree/master/Lists)  
+[No comments](https://github.com/ShadowWhisperer/BlockLists/tree/master/RAW)  
   
-_www<span></span>._ _mobile._ _m._ prefixes are removed.
-  
-<br />  
+[Whitelists](https://github.com/ShadowWhisperer/BlockLists/tree/master/Whitelists)
