@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,067
-# Updated: 4/16/2025  20:49 (8:49 PM CST)
+# Domains: 4,069
+# Updated: 4/17/2025  11:00 (11:00 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -729,6 +729,8 @@ chkurl.net
 chl.ink
 chl.li
 ch.run
+c-hud-aixxx.life
+chudaixxx.life
 chuyenvienming.life
 chx.to
 ci8.de
