@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 99,663
-# Updated: 4/17/2025  11:00 (11:00 AM CST)
+# Domains: 99,717
+# Updated: 4/18/2025  01:21 (1:21 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -11,6 +11,7 @@
 01009.wikihoster.de
 01039.wikihoster.de
 01counter.com
+0a58b45e.b-cdn.net
 0cf.io
 0ip.eu
 0opalquill.com
@@ -55,6 +56,7 @@
 1annuaire.com
 1.appexchange.com
 1aurl.io
+1b6wvktphtz.stresshelden-coaching.de
 1bf86f4b.tictoc.ai
 1bpmtrvkqkj.pettoonies.com
 1.bunkr-cache.se
@@ -69,6 +71,7 @@
 1.dr-n.pl
 1e90.pandasuite.io
 1eusy6.boxoffice.adventuretix.com
+1f506eaf.b-cdn.net
 1.forumgroup.com.au
 1-instant.okcupid.com
 1j2n061x3td.www.digi.no
@@ -2394,6 +2397,7 @@ acxiom.com
 acxiom.co.uk
 acxmetrics.usbank.com
 ad1x.com
+ad95-stats.cloud-ed.fr
 ada8-2.ampleur.jp
 ada8.ampleur.jp
 ad-a8.www.zeiri4.com
@@ -3013,9 +3017,11 @@ agility.cnvrm.com
 agility.ncaa.com
 agility.staples-solutions.com
 agility.tbs.com
+agility.tbs.tv
 agility.tcm.com
 agility.tntdrama.com
 agility.trutv.com
+agility.veryfunnyspots.com
 agilone.com
 agilytics.in
 aginganalytics.com
@@ -6581,6 +6587,7 @@ analytics.ecobnb.net
 analytics.eco-cards.de
 analytics.ecoland.de
 analytics.eco-logical-design.de
+analytics.econjobmarket.org
 analytics.e-containers.eu
 analytics.ecoportale.net
 analytics.ecosia.org
@@ -7188,6 +7195,7 @@ analytics.flixanalytica.com
 analytics.flixcheck.com
 analytics.flix-easy.de
 analytics.flix-site.de
+analytics.flocker.nl
 analytics.flod.org
 analytics.flokod.tech
 analytics.flole.de
@@ -16649,6 +16657,7 @@ blackcrow.ai
 blackkite.com
 blackkitetech.com
 blackwoodseven.com
+bland.starone.org
 blastanalytics.com
 blasze.com
 blasze.tk
@@ -18277,6 +18286,7 @@ click.cellenza.com
 clickcertain.com
 click.com
 click.constructbuy.com
+click.contra-bit.com
 click.demandchainsystems.com
 clickdensity.com
 clickdimensions.com
@@ -20903,6 +20913,7 @@ cpx.to
 cpxtri.com
 cqcounter.com
 cqcounter.net
+c.qrdate.org
 cqsecshf4rd9.www.tracktheta.com
 cquotient.com
 cqz6fn6aox.aporia.com
@@ -23894,10 +23905,16 @@ dc.definedcrowd.com
 d.cdngeek.com
 dc.entradas.com
 dc.esterethyl.com
+dcf.espn.com.do
+dcf.espnqa.com
 dc.firststatesuper.com.au
 dc.gordonsjewelers.com
 dcheqjwqu4.mlb.com
 dc.jared.com
+dcjm-tms.gestalterbank.de
+dcjm-tms.hannoversche-volksbank.de
+dcjm-tms.vb-mittelhessen.de
+dcjm-tms.volksbank-stuttgart.de
 dc.kay.com
 dc.kayoutlet.com
 dc.kfz-steuercheck.de
@@ -23911,6 +23928,7 @@ d-collector.jennifersoft.com
 d.connect.essence.com
 d.cordial.implus.com
 d.cordial-tracking.tarot.com
+dc.pagoda.com
 dcp-analytics.com
 dc.peoplesjewellers.com
 dc.plussizetech.com
@@ -23971,6 +23989,8 @@ dc.stokke.com
 dc.tuenergia.repsol.com
 dc.vlsgmbh.de
 dc.volkswagen.com
+dc.volkswagen.com.ar
+dc.volkswagen.com.au
 dc.volkswagen.de
 dc.volkswagen.pl
 dc.vw.com.mx
@@ -24207,6 +24227,7 @@ delegatediscussion.com
 delicatecascade.com
 delicateducks.com
 deliciousducks.com
+delicioustaco.b-cdn.net
 delidatax.net
 delightchat.io
 delightfulhour.com
@@ -25102,6 +25123,7 @@ dtpgroup.co.uk
 dtrck.net
 dtrust.atratopago.com
 dtscout.com
+dts.suchmeisterei.de
 dttrk.com
 dt-ukis-standard-logging-ingester.cf.sky.com
 d.turn.com.akadns.net
@@ -26259,6 +26281,7 @@ e.talbots.com
 e.taunton.com
 etc.bowmanpower.co.uk
 et.channel4.com
+et.corpuls.world
 etd.kramer-online.com
 etd.wackerneusongroup.com
 etd.weidemann.com
@@ -26281,6 +26304,7 @@ e.thomsonslm.co.uk
 ethreemail.com
 ethyca.com
 et.juskys.de
+et.lavita.com
 etl-xlmc-ssl.xunlei.com
 et.majdic.at
 et.nytimes.com
@@ -26310,16 +26334,23 @@ etracker.louis.pl
 etracker.louis.se
 etrack.ext.arubanetworks.com
 etrack.ext.hpe.com
+etrac.lodenwalker.com
+etrac.tita.at
 e.trajanwealth.com
 et.resellerratings.com
 etrkom.com
+et.schindlerparent.de
 ets.easybrain.com
+et.sectornord.de
 etsource.epicgames.com
 ettcc.steute.com
 ettcc.steute-controltec.com
+ettcc.steute-leantec.com
 ettcc.steute-meditec.com
 ettilt.com
 etui.fs.ml.com
+et.university-of-labour.de
+et.xenbyte.com
 eu-1-id5-sync.com
 eu.amazonpayments.com
 eu.analytics.brightwellsolutions.com
@@ -27478,6 +27509,7 @@ fp.fortmorgantimes.com
 fp.free-peace.co.jp
 fp.greeleytribune.com
 fp.growthspotter.com
+fp.homeessentials.co.uk
 fpida.amphi.jp
 fpida.bodybook.jp
 fpida.cw-x.jp
@@ -27497,6 +27529,7 @@ fpjs.io
 fp.lowellsun.com
 fp.macombdaily.com
 fp.marinij.com
+fp.marisota.co.uk
 fp.masthead.me
 fp.mcall.com
 fp.mendocinobeacon.com
@@ -27515,6 +27548,7 @@ fp.paradisepost.com
 fp.pasadenastarnews.com
 fp.pilotonline.com
 fp.pottsmerc.com
+fp.premierman.com
 fp.pressandguide.com
 fp.pressenterprise.com
 fp.presstelegram.com
@@ -28331,6 +28365,7 @@ get.whiparound.com
 getwisdom.io
 getwisely.com
 get-work.tips
+getwpo.com
 get.xxxl.jentis.com
 get.yourc.ar
 get.ypulse.com
@@ -35532,6 +35567,7 @@ load.sst.colemanfurniture.com
 load.sst.ddma.nl
 load.sst.evergreenmoney.com
 load.sst.fo.axa.be
+load.ss.thinkstrategic.com
 load.sst.hypotheek.nl
 load.sst.iamsterdam.com
 load.sst.olivebranchfostering.co.uk
@@ -35656,6 +35692,7 @@ log.baophapluat.vn
 log.baovanhoa.vn
 logbase.io
 log.betdaq.com
+log.bewohner.at
 log-bf672d0f.kabbage.com
 log-biocatch-app.bancoppel.com
 log.booster.gearupportal.com
@@ -56754,6 +56791,7 @@ newsapp.qingdaonews.com
 news.bayerische-philharmonie.de
 news.bohome.fr
 news.bradken.com
+news.btmbiz.com
 news.bureauveritas.net
 news.bureauveritas.ph
 news.bureauveritas.sg
@@ -57379,6 +57417,7 @@ om.bcit.ca
 om.blockbuster.com
 o.mbox.com.au
 om.chatrwireless.com
+om.citynews1130.com
 om.cnet.com.au
 om.cnet.co.uk
 om.constellation.com
@@ -57736,6 +57775,7 @@ onionanalytics.com
 onlineapplications.anz.com
 online-arzt.kry.de
 online.assetvantage.com
+online.assuranceagency.com
 online.dmec.org
 online.euromoney.com
 online.govexecmediagroup.com
@@ -59778,6 +59818,7 @@ pd.qatalog.com
 pd.qsidental.com
 pd.recruit-ms.co.jp
 pd.reform-online.jp
+pdr.eve.sonyentertainmentnetwork.com
 pd.ruess-group.com
 pd.stafes.com
 pd.stallergenesgreer.com
@@ -65976,6 +66017,7 @@ plausible.kukka.digital
 plausible.kulpinski.dev
 plausible.kurantrubys.de
 plausible.kwaa.dev
+plausible.k-words.io
 plausible.lab.llcoolserver.dev
 plausible.lacooperativedesinternets.fr
 plausible.lafourmi-immo.com
@@ -66982,6 +67024,7 @@ ps.saaslanding.io
 pstats11.braintrust.at
 pstats12.braintrust.at
 pstats1.braintrust.at
+pstats7.braintrust.at
 pstats.braintrust.at
 pstats.com
 pstats.hostels.com
@@ -72165,6 +72208,7 @@ shetrk.com
 shield.boostbusiness.my
 shield.crownhaven.com
 shield.intrusion.com
+shield.legalzoom.com
 shield.sitelock.com
 shihuo.log.shihuocdn.cn
 shihuo-new.log.shihuocdn.cn
@@ -82275,6 +82319,7 @@ stats.eparklabs.com
 stats.e-paycapita.com
 stats.epayworldwide.com
 stats.epic.com
+stats.epicempower.com
 stats.epic.ovh
 stats.epitrade.io
 stats.epixstudios.co.uk
@@ -82407,6 +82452,7 @@ stats.ezlab.it
 stats.ezsite.co.nz
 stats.ezyhostr.com
 stats.f02-fm.com
+stats.fab1.de
 stats.fabito.net
 stats.fabrica.net.ua
 stats.fabrice-salvaire.fr
@@ -82715,6 +82761,7 @@ stats.futurecode.net
 stats.futurelearning.nl
 stats.futureweb.at
 stats.fuzzylogic.ltd
+stats.fuzzylogicmedia.com
 stats.fuzzy-logic.org
 stats.fva-net.de
 stats.fvb.de
@@ -88670,6 +88717,7 @@ s.union.360.cn
 sunlightmetrics.b-cdn.net
 sunovaa.com
 sunshine.lillypulitzer.com
+s.up.amica.com
 s.update.fbsbx.com
 s.update.mediamathtag.com
 s.update.rainmaker-0.production-public.tubi.io
@@ -92501,6 +92549,7 @@ trk.dzr.io
 trk.effg.net
 trk.eficads.net
 trk.elasticemail.com
+trk.emailforyou.co.uk
 trk.enterpriseconnect.com
 trker.com
 trk.everypolicy.com
@@ -92510,6 +92559,7 @@ trk.fidelizanet.com
 trk.findmanufacturingbuyers.com
 trk.floorplanner.com
 trk.food-management.com
+trk.fortunegamesaffiliates.com
 trk.funiber.org
 trk.gamecareerguide.com
 trk.healthbay.net
@@ -92521,6 +92571,8 @@ trkingad.com
 trk.investacademy.net
 trk.jawoll.de
 trk.jumpmanaffiliates.co.uk
+trkkr.bugatti-media.com
+trkkr.bugatti-newsroom.com
 trk.krebsversicherung.de
 trk.lcn.com
 trk.logic.expert
@@ -92557,6 +92609,7 @@ trk.primarylens.com
 trk.publitrac.com
 trkr.35k1m0.com
 trkr5r5r5.com
+trk.reachgamingaffiliates.com
 trk.register.it
 trkr.technology
 trk.securenetgate9.com
@@ -97878,6 +97931,7 @@ www2.patientprompt.com
 www2.patriotcapitalfinancing.com
 www2.patriotenergygroup.com
 www2.paviasystems.com
+www2.paxport.net
 www2.payfirma.com
 www2.payke.co.jp
 www2.paymentus.com

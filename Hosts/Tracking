@@ -1,12 +1,13 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 99,663
-# Updated: 4/17/2025  11:00 (11:00 AM CST)
+# Domains: 99,717
+# Updated: 4/18/2025  01:21 (1:21 AM CST)
 #
 0.0.0.0 01009.wikihoster.de
 0.0.0.0 01039.wikihoster.de
 0.0.0.0 01counter.com
+0.0.0.0 0a58b45e.b-cdn.net
 0.0.0.0 0cf.io
 0.0.0.0 0ip.eu
 0.0.0.0 0opalquill.com
@@ -51,6 +52,7 @@
 0.0.0.0 1annuaire.com
 0.0.0.0 1.appexchange.com
 0.0.0.0 1aurl.io
+0.0.0.0 1b6wvktphtz.stresshelden-coaching.de
 0.0.0.0 1bf86f4b.tictoc.ai
 0.0.0.0 1bpmtrvkqkj.pettoonies.com
 0.0.0.0 1.bunkr-cache.se
@@ -65,6 +67,7 @@
 0.0.0.0 1.dr-n.pl
 0.0.0.0 1e90.pandasuite.io
 0.0.0.0 1eusy6.boxoffice.adventuretix.com
+0.0.0.0 1f506eaf.b-cdn.net
 0.0.0.0 1.forumgroup.com.au
 0.0.0.0 1-instant.okcupid.com
 0.0.0.0 1j2n061x3td.www.digi.no
@@ -2390,6 +2393,7 @@
 0.0.0.0 acxiom.co.uk
 0.0.0.0 acxmetrics.usbank.com
 0.0.0.0 ad1x.com
+0.0.0.0 ad95-stats.cloud-ed.fr
 0.0.0.0 ada8-2.ampleur.jp
 0.0.0.0 ada8.ampleur.jp
 0.0.0.0 ad-a8.www.zeiri4.com
@@ -3009,9 +3013,11 @@
 0.0.0.0 agility.ncaa.com
 0.0.0.0 agility.staples-solutions.com
 0.0.0.0 agility.tbs.com
+0.0.0.0 agility.tbs.tv
 0.0.0.0 agility.tcm.com
 0.0.0.0 agility.tntdrama.com
 0.0.0.0 agility.trutv.com
+0.0.0.0 agility.veryfunnyspots.com
 0.0.0.0 agilone.com
 0.0.0.0 agilytics.in
 0.0.0.0 aginganalytics.com
@@ -6577,6 +6583,7 @@
 0.0.0.0 analytics.eco-cards.de
 0.0.0.0 analytics.ecoland.de
 0.0.0.0 analytics.eco-logical-design.de
+0.0.0.0 analytics.econjobmarket.org
 0.0.0.0 analytics.e-containers.eu
 0.0.0.0 analytics.ecoportale.net
 0.0.0.0 analytics.ecosia.org
@@ -7184,6 +7191,7 @@
 0.0.0.0 analytics.flixcheck.com
 0.0.0.0 analytics.flix-easy.de
 0.0.0.0 analytics.flix-site.de
+0.0.0.0 analytics.flocker.nl
 0.0.0.0 analytics.flod.org
 0.0.0.0 analytics.flokod.tech
 0.0.0.0 analytics.flole.de
@@ -16645,6 +16653,7 @@
 0.0.0.0 blackkite.com
 0.0.0.0 blackkitetech.com
 0.0.0.0 blackwoodseven.com
+0.0.0.0 bland.starone.org
 0.0.0.0 blastanalytics.com
 0.0.0.0 blasze.com
 0.0.0.0 blasze.tk
@@ -18273,6 +18282,7 @@
 0.0.0.0 clickcertain.com
 0.0.0.0 click.com
 0.0.0.0 click.constructbuy.com
+0.0.0.0 click.contra-bit.com
 0.0.0.0 click.demandchainsystems.com
 0.0.0.0 clickdensity.com
 0.0.0.0 clickdimensions.com
@@ -20899,6 +20909,7 @@
 0.0.0.0 cpxtri.com
 0.0.0.0 cqcounter.com
 0.0.0.0 cqcounter.net
+0.0.0.0 c.qrdate.org
 0.0.0.0 cqsecshf4rd9.www.tracktheta.com
 0.0.0.0 cquotient.com
 0.0.0.0 cqz6fn6aox.aporia.com
@@ -23890,10 +23901,16 @@
 0.0.0.0 d.cdngeek.com
 0.0.0.0 dc.entradas.com
 0.0.0.0 dc.esterethyl.com
+0.0.0.0 dcf.espn.com.do
+0.0.0.0 dcf.espnqa.com
 0.0.0.0 dc.firststatesuper.com.au
 0.0.0.0 dc.gordonsjewelers.com
 0.0.0.0 dcheqjwqu4.mlb.com
 0.0.0.0 dc.jared.com
+0.0.0.0 dcjm-tms.gestalterbank.de
+0.0.0.0 dcjm-tms.hannoversche-volksbank.de
+0.0.0.0 dcjm-tms.vb-mittelhessen.de
+0.0.0.0 dcjm-tms.volksbank-stuttgart.de
 0.0.0.0 dc.kay.com
 0.0.0.0 dc.kayoutlet.com
 0.0.0.0 dc.kfz-steuercheck.de
@@ -23907,6 +23924,7 @@
 0.0.0.0 d.connect.essence.com
 0.0.0.0 d.cordial.implus.com
 0.0.0.0 d.cordial-tracking.tarot.com
+0.0.0.0 dc.pagoda.com
 0.0.0.0 dcp-analytics.com
 0.0.0.0 dc.peoplesjewellers.com
 0.0.0.0 dc.plussizetech.com
@@ -23967,6 +23985,8 @@
 0.0.0.0 dc.tuenergia.repsol.com
 0.0.0.0 dc.vlsgmbh.de
 0.0.0.0 dc.volkswagen.com
+0.0.0.0 dc.volkswagen.com.ar
+0.0.0.0 dc.volkswagen.com.au
 0.0.0.0 dc.volkswagen.de
 0.0.0.0 dc.volkswagen.pl
 0.0.0.0 dc.vw.com.mx
@@ -24203,6 +24223,7 @@
 0.0.0.0 delicatecascade.com
 0.0.0.0 delicateducks.com
 0.0.0.0 deliciousducks.com
+0.0.0.0 delicioustaco.b-cdn.net
 0.0.0.0 delidatax.net
 0.0.0.0 delightchat.io
 0.0.0.0 delightfulhour.com
@@ -25098,6 +25119,7 @@
 0.0.0.0 dtrck.net
 0.0.0.0 dtrust.atratopago.com
 0.0.0.0 dtscout.com
+0.0.0.0 dts.suchmeisterei.de
 0.0.0.0 dttrk.com
 0.0.0.0 dt-ukis-standard-logging-ingester.cf.sky.com
 0.0.0.0 d.turn.com.akadns.net
@@ -26255,6 +26277,7 @@
 0.0.0.0 e.taunton.com
 0.0.0.0 etc.bowmanpower.co.uk
 0.0.0.0 et.channel4.com
+0.0.0.0 et.corpuls.world
 0.0.0.0 etd.kramer-online.com
 0.0.0.0 etd.wackerneusongroup.com
 0.0.0.0 etd.weidemann.com
@@ -26277,6 +26300,7 @@
 0.0.0.0 ethreemail.com
 0.0.0.0 ethyca.com
 0.0.0.0 et.juskys.de
+0.0.0.0 et.lavita.com
 0.0.0.0 etl-xlmc-ssl.xunlei.com
 0.0.0.0 et.majdic.at
 0.0.0.0 et.nytimes.com
@@ -26306,16 +26330,23 @@
 0.0.0.0 etracker.louis.se
 0.0.0.0 etrack.ext.arubanetworks.com
 0.0.0.0 etrack.ext.hpe.com
+0.0.0.0 etrac.lodenwalker.com
+0.0.0.0 etrac.tita.at
 0.0.0.0 e.trajanwealth.com
 0.0.0.0 et.resellerratings.com
 0.0.0.0 etrkom.com
+0.0.0.0 et.schindlerparent.de
 0.0.0.0 ets.easybrain.com
+0.0.0.0 et.sectornord.de
 0.0.0.0 etsource.epicgames.com
 0.0.0.0 ettcc.steute.com
 0.0.0.0 ettcc.steute-controltec.com
+0.0.0.0 ettcc.steute-leantec.com
 0.0.0.0 ettcc.steute-meditec.com
 0.0.0.0 ettilt.com
 0.0.0.0 etui.fs.ml.com
+0.0.0.0 et.university-of-labour.de
+0.0.0.0 et.xenbyte.com
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu.amazonpayments.com
 0.0.0.0 eu.analytics.brightwellsolutions.com
@@ -27474,6 +27505,7 @@
 0.0.0.0 fp.free-peace.co.jp
 0.0.0.0 fp.greeleytribune.com
 0.0.0.0 fp.growthspotter.com
+0.0.0.0 fp.homeessentials.co.uk
 0.0.0.0 fpida.amphi.jp
 0.0.0.0 fpida.bodybook.jp
 0.0.0.0 fpida.cw-x.jp
@@ -27493,6 +27525,7 @@
 0.0.0.0 fp.lowellsun.com
 0.0.0.0 fp.macombdaily.com
 0.0.0.0 fp.marinij.com
+0.0.0.0 fp.marisota.co.uk
 0.0.0.0 fp.masthead.me
 0.0.0.0 fp.mcall.com
 0.0.0.0 fp.mendocinobeacon.com
@@ -27511,6 +27544,7 @@
 0.0.0.0 fp.pasadenastarnews.com
 0.0.0.0 fp.pilotonline.com
 0.0.0.0 fp.pottsmerc.com
+0.0.0.0 fp.premierman.com
 0.0.0.0 fp.pressandguide.com
 0.0.0.0 fp.pressenterprise.com
 0.0.0.0 fp.presstelegram.com
@@ -28327,6 +28361,7 @@
 0.0.0.0 getwisdom.io
 0.0.0.0 getwisely.com
 0.0.0.0 get-work.tips
+0.0.0.0 getwpo.com
 0.0.0.0 get.xxxl.jentis.com
 0.0.0.0 get.yourc.ar
 0.0.0.0 get.ypulse.com
@@ -35528,6 +35563,7 @@
 0.0.0.0 load.sst.ddma.nl
 0.0.0.0 load.sst.evergreenmoney.com
 0.0.0.0 load.sst.fo.axa.be
+0.0.0.0 load.ss.thinkstrategic.com
 0.0.0.0 load.sst.hypotheek.nl
 0.0.0.0 load.sst.iamsterdam.com
 0.0.0.0 load.sst.olivebranchfostering.co.uk
@@ -35652,6 +35688,7 @@
 0.0.0.0 log.baovanhoa.vn
 0.0.0.0 logbase.io
 0.0.0.0 log.betdaq.com
+0.0.0.0 log.bewohner.at
 0.0.0.0 log-bf672d0f.kabbage.com
 0.0.0.0 log-biocatch-app.bancoppel.com
 0.0.0.0 log.booster.gearupportal.com
@@ -56750,6 +56787,7 @@
 0.0.0.0 news.bayerische-philharmonie.de
 0.0.0.0 news.bohome.fr
 0.0.0.0 news.bradken.com
+0.0.0.0 news.btmbiz.com
 0.0.0.0 news.bureauveritas.net
 0.0.0.0 news.bureauveritas.ph
 0.0.0.0 news.bureauveritas.sg
@@ -57375,6 +57413,7 @@
 0.0.0.0 om.blockbuster.com
 0.0.0.0 o.mbox.com.au
 0.0.0.0 om.chatrwireless.com
+0.0.0.0 om.citynews1130.com
 0.0.0.0 om.cnet.com.au
 0.0.0.0 om.cnet.co.uk
 0.0.0.0 om.constellation.com
@@ -57732,6 +57771,7 @@
 0.0.0.0 onlineapplications.anz.com
 0.0.0.0 online-arzt.kry.de
 0.0.0.0 online.assetvantage.com
+0.0.0.0 online.assuranceagency.com
 0.0.0.0 online.dmec.org
 0.0.0.0 online.euromoney.com
 0.0.0.0 online.govexecmediagroup.com
@@ -59774,6 +59814,7 @@
 0.0.0.0 pd.qsidental.com
 0.0.0.0 pd.recruit-ms.co.jp
 0.0.0.0 pd.reform-online.jp
+0.0.0.0 pdr.eve.sonyentertainmentnetwork.com
 0.0.0.0 pd.ruess-group.com
 0.0.0.0 pd.stafes.com
 0.0.0.0 pd.stallergenesgreer.com
@@ -65972,6 +66013,7 @@
 0.0.0.0 plausible.kulpinski.dev
 0.0.0.0 plausible.kurantrubys.de
 0.0.0.0 plausible.kwaa.dev
+0.0.0.0 plausible.k-words.io
 0.0.0.0 plausible.lab.llcoolserver.dev
 0.0.0.0 plausible.lacooperativedesinternets.fr
 0.0.0.0 plausible.lafourmi-immo.com
@@ -66978,6 +67020,7 @@
 0.0.0.0 pstats11.braintrust.at
 0.0.0.0 pstats12.braintrust.at
 0.0.0.0 pstats1.braintrust.at
+0.0.0.0 pstats7.braintrust.at
 0.0.0.0 pstats.braintrust.at
 0.0.0.0 pstats.com
 0.0.0.0 pstats.hostels.com
@@ -72161,6 +72204,7 @@
 0.0.0.0 shield.boostbusiness.my
 0.0.0.0 shield.crownhaven.com
 0.0.0.0 shield.intrusion.com
+0.0.0.0 shield.legalzoom.com
 0.0.0.0 shield.sitelock.com
 0.0.0.0 shihuo.log.shihuocdn.cn
 0.0.0.0 shihuo-new.log.shihuocdn.cn
@@ -82271,6 +82315,7 @@
 0.0.0.0 stats.e-paycapita.com
 0.0.0.0 stats.epayworldwide.com
 0.0.0.0 stats.epic.com
+0.0.0.0 stats.epicempower.com
 0.0.0.0 stats.epic.ovh
 0.0.0.0 stats.epitrade.io
 0.0.0.0 stats.epixstudios.co.uk
@@ -82403,6 +82448,7 @@
 0.0.0.0 stats.ezsite.co.nz
 0.0.0.0 stats.ezyhostr.com
 0.0.0.0 stats.f02-fm.com
+0.0.0.0 stats.fab1.de
 0.0.0.0 stats.fabito.net
 0.0.0.0 stats.fabrica.net.ua
 0.0.0.0 stats.fabrice-salvaire.fr
@@ -82711,6 +82757,7 @@
 0.0.0.0 stats.futurelearning.nl
 0.0.0.0 stats.futureweb.at
 0.0.0.0 stats.fuzzylogic.ltd
+0.0.0.0 stats.fuzzylogicmedia.com
 0.0.0.0 stats.fuzzy-logic.org
 0.0.0.0 stats.fva-net.de
 0.0.0.0 stats.fvb.de
@@ -88666,6 +88713,7 @@
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 sunovaa.com
 0.0.0.0 sunshine.lillypulitzer.com
+0.0.0.0 s.up.amica.com
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.mediamathtag.com
 0.0.0.0 s.update.rainmaker-0.production-public.tubi.io
@@ -92497,6 +92545,7 @@
 0.0.0.0 trk.effg.net
 0.0.0.0 trk.eficads.net
 0.0.0.0 trk.elasticemail.com
+0.0.0.0 trk.emailforyou.co.uk
 0.0.0.0 trk.enterpriseconnect.com
 0.0.0.0 trker.com
 0.0.0.0 trk.everypolicy.com
@@ -92506,6 +92555,7 @@
 0.0.0.0 trk.findmanufacturingbuyers.com
 0.0.0.0 trk.floorplanner.com
 0.0.0.0 trk.food-management.com
+0.0.0.0 trk.fortunegamesaffiliates.com
 0.0.0.0 trk.funiber.org
 0.0.0.0 trk.gamecareerguide.com
 0.0.0.0 trk.healthbay.net
@@ -92517,6 +92567,8 @@
 0.0.0.0 trk.investacademy.net
 0.0.0.0 trk.jawoll.de
 0.0.0.0 trk.jumpmanaffiliates.co.uk
+0.0.0.0 trkkr.bugatti-media.com
+0.0.0.0 trkkr.bugatti-newsroom.com
 0.0.0.0 trk.krebsversicherung.de
 0.0.0.0 trk.lcn.com
 0.0.0.0 trk.logic.expert
@@ -92553,6 +92605,7 @@
 0.0.0.0 trk.publitrac.com
 0.0.0.0 trkr.35k1m0.com
 0.0.0.0 trkr5r5r5.com
+0.0.0.0 trk.reachgamingaffiliates.com
 0.0.0.0 trk.register.it
 0.0.0.0 trkr.technology
 0.0.0.0 trk.securenetgate9.com
@@ -97874,6 +97927,7 @@
 0.0.0.0 www2.patriotcapitalfinancing.com
 0.0.0.0 www2.patriotenergygroup.com
 0.0.0.0 www2.paviasystems.com
+0.0.0.0 www2.paxport.net
 0.0.0.0 www2.payfirma.com
 0.0.0.0 www2.payke.co.jp
 0.0.0.0 www2.paymentus.com
