@@ -32,9 +32,9 @@ All domains are from custom scripts and/or manual additions.
 
 ## Usage Notes
 - **Overlap**: Categories like *Ads* and *Tracking* may overlap.
-- **Risk** Blocking *Bloat*, *Free*, or *Marketing* may break some software.
-- **Typo List**: Contains mostly dead domains. Avoid on low-end devices or when merging with your lists.
-- **Wildcard Blocks**: Some domains (e.g., `badsite.com`) may be blocked, but subdomains (e.g., `1.badsite.com`) may remain active.
+- **Risk** Blocking *Bloat*, *Free*, or *Marketing* may break stuff.
+- **Typo**: Contains mostly dead domains. Avoid on low-end devices or when merging with your lists.
+- **Wildcard Blocks**: Some domains may appear dead (e.g. `badsite.com`), but subdomains (e.g. `1.badsite.com`) may remain active.
 - **Prefixes**: `www.`, `mobile.`, and `m.` are removed.
 
 ## Maintenance
