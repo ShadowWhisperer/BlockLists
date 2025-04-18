@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,070
-# Updated: 4/18/2025  01:21 (1:21 AM CST)
+# Domains: 4,073
+# Updated: 4/18/2025  11:01 (11:01 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -425,6 +425,7 @@
 0.0.0.0 awobio.id
 0.0.0.0 awrev.cfd
 0.0.0.0 awwurl.com
+0.0.0.0 aylink.co
 0.0.0.0 ayzyu.com
 0.0.0.0 az6.ir
 0.0.0.0 azikk.com
@@ -1564,6 +1565,7 @@
 0.0.0.0 iql.ink
 0.0.0.0 ir.cx
 0.0.0.0 iriacassu.life
+0.0.0.0 irkc.top
 0.0.0.0 irop.top
 0.0.0.0 is.am
 0.0.0.0 isc-vn.com
@@ -3493,6 +3495,7 @@
 0.0.0.0 tri.ps
 0.0.0.0 trisula88short.xyz
 0.0.0.0 trl.ca
+0.0.0.0 tr.link
 0.0.0.0 troasters.com
 0.0.0.0 troy-a-112255.life
 0.0.0.0 troya.tk
