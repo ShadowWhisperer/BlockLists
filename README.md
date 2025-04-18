@@ -28,7 +28,7 @@
     Whitelist        Reasons for some allowed domains in Filter ^
 
 This repository was made public on Feburary of 2020.
-All domains are add from custom scripts and/or manual additions.
+All domains are from custom scripts and/or manual additions.
 
 ## Usage Notes
 - **Overlap**: Categories like *Ads* and *Tracking* may overlap.
