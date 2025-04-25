@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,111
-# Updated: 4/25/2025  00:30 (12:30 AM CST)
+# Domains: 4,130
+# Updated: 4/25/2025  14:36 (2:36 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -65,6 +65,7 @@
 0.0.0.0 1url.cz
 0.0.0.0 1url.it
 0.0.0.0 1url.vn
+0.0.0.0 1z.lc
 0.0.0.0 1zr.in
 0.0.0.0 2022.bhscovid.org
 0.0.0.0 20.dk
@@ -855,6 +856,8 @@
 0.0.0.0 cvcpl.us
 0.0.0.0 cwpdk.icu
 0.0.0.0 cy8.co
+0.0.0.0 cyhrb.top
+0.0.0.0 cyizs.com
 0.0.0.0 d138.link
 0.0.0.0 d2ks.one
 0.0.0.0 dad.do
@@ -1185,6 +1188,7 @@
 0.0.0.0 fnote.it
 0.0.0.0 foee.top
 0.0.0.0 fortunium.xyz
+0.0.0.0 fovre.sbs
 0.0.0.0 freefc24code.life
 0.0.0.0 freesexes.life
 0.0.0.0 free-sex.live
@@ -1746,6 +1750,7 @@
 0.0.0.0 klas.ws
 0.0.0.0 kliks.online
 0.0.0.0 kmi.mobi
+0.0.0.0 kmrrf.com
 0.0.0.0 knf.md
 0.0.0.0 knnt.me
 0.0.0.0 knw.one
@@ -2379,6 +2384,7 @@
 0.0.0.0 noelmagada.live
 0.0.0.0 noeuz.sbs
 0.0.0.0 nofnec.live
+0.0.0.0 noicindya.life
 0.0.0.0 nolong.su
 0.0.0.0 nonamers.info
 0.0.0.0 noones-apps.live
@@ -2403,6 +2409,7 @@
 0.0.0.0 nusukservics.life
 0.0.0.0 nusukservics.live
 0.0.0.0 nuywm.pics
+0.0.0.0 nw5g.com
 0.0.0.0 nwo-s.top
 0.0.0.0 nwspprs.com
 0.0.0.0 nxc.life
@@ -2489,6 +2496,7 @@
 0.0.0.0 ovh.to
 0.0.0.0 owlti.ng
 0.0.0.0 ow.nl
+0.0.0.0 oycyi.sbs
 0.0.0.0 oyo.net
 0.0.0.0 ozb.me
 0.0.0.0 ozkyx.sbs
@@ -2827,6 +2835,7 @@
 0.0.0.0 ronald-adams-1.life
 0.0.0.0 rool.ink
 0.0.0.0 rotf.lol
+0.0.0.0 rotkt.com
 0.0.0.0 rouletteonline.live
 0.0.0.0 rounash.com
 0.0.0.0 roush-jims.live
@@ -2971,6 +2980,7 @@
 0.0.0.0 shopstees.info
 0.0.0.0 shopvt.life
 0.0.0.0 shopwoolworths.live
+0.0.0.0 shorix.ru
 0.0.0.0 shorrty.com
 0.0.0.0 short1.link
 0.0.0.0 short24.pw
@@ -2985,11 +2995,14 @@
 0.0.0.0 shortenedlinks.com
 0.0.0.0 shortenedurl.me
 0.0.0.0 shortened.website
+0.0.0.0 shortenercs.com
 0.0.0.0 shortenerlink.net
+0.0.0.0 shortenerlink.xyz
 0.0.0.0 shortener.net
 0.0.0.0 shortenerreviews.com
 0.0.0.0 shorteners.net
 0.0.0.0 shortener.winplaybox.in
+0.0.0.0 shortenlinkurl.com
 0.0.0.0 shortenly.net
 0.0.0.0 shortenme.co
 0.0.0.0 shortenme.io
@@ -3008,6 +3021,7 @@
 0.0.0.0 shorte.st
 0.0.0.0 shorte.top
 0.0.0.0 short.evx.ca
+0.0.0.0 shortfake.com
 0.0.0.0 shortfd.us
 0.0.0.0 shortfires.net
 0.0.0.0 short.gy
@@ -3048,6 +3062,7 @@
 0.0.0.0 shortme.me
 0.0.0.0 shortmenu.com
 0.0.0.0 shortme.work
+0.0.0.0 shortme.xyz
 0.0.0.0 shortmoneyus.com
 0.0.0.0 short.ms
 0.0.0.0 short.mypaste.fun
@@ -3055,6 +3070,7 @@
 0.0.0.0 shortner.cc
 0.0.0.0 shortonly.com
 0.0.0.0 shortpals.online
+0.0.0.0 shortpastebin.my.id
 0.0.0.0 short.php8developer.com
 0.0.0.0 short.profi.lv
 0.0.0.0 shortprofit.us
@@ -3069,10 +3085,12 @@
 0.0.0.0 shortswitch.com
 0.0.0.0 short.swurl.xyz
 0.0.0.0 shortu.be
+0.0.0.0 shorturl88.com
 0.0.0.0 shorturl.ac
 0.0.0.0 shorturl.ae
 0.0.0.0 shorturlapp.com
 0.0.0.0 shorturl.at
+0.0.0.0 shorturl.best
 0.0.0.0 shorturl.biz
 0.0.0.0 shorturlbot.com
 0.0.0.0 shorturl.cf
@@ -3585,6 +3603,7 @@
 0.0.0.0 uhtny.com
 0.0.0.0 uich.cc
 0.0.0.0 uinw.site
+0.0.0.0 uitve.sbs
 0.0.0.0 ujootchu.net
 0.0.0.0 ukphamacyunited.live
 0.0.0.0 ul3.ir
