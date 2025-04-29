@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 674
-# Updated: 4/23/2025  14:56 (2:56 PM CST)
+# Domains: 675
+# Updated: 4/29/2025  13:05 (1:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -76,7 +76,7 @@ amdsurveys.com                                          #Survey - AMD
 delighted.com                                           #Survey - Delighted
 getfeedback.com                                         #Survey - Get Feedback
 websites.cdn.getfeedback.com                            #Survey - Get Feedback
-hpsasudf.ext.hp.com                                     #Survet - HP
+hpsasudf.ext.hp.com                                     #Survey - HP
 survey.instagram.com                                    #Survey - Instagram
 iteratehq.com                                           #Survey - Iterate
 globaltestmarket.com                                    #Survey - Life Points
@@ -488,6 +488,7 @@ h20572.www2.hp.com                                      #HP   Help & Support
 hpdjjs.com                                              #HP     JumpStart
 cprs.hp.com                                             #HP    Controlled Permission Reconciliation Service ?
 eipd.rssx.hp.com                                        #HP
+hpgamestream.com                                        #HP
 js.redirect.hp.com                                      #HP
 mq.dataservices.hp.com                                  #HP
 print-data.houston.hp.com                               #HP

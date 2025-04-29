@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 674
-# Updated: 4/23/2025  14:56 (2:56 PM CST)
+# Domains: 675
+# Updated: 4/29/2025  13:05 (1:05 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -469,6 +469,7 @@
 0.0.0.0 hpdjjs.com
 0.0.0.0 cprs.hp.com
 0.0.0.0 eipd.rssx.hp.com
+0.0.0.0 hpgamestream.com
 0.0.0.0 js.redirect.hp.com
 0.0.0.0 mq.dataservices.hp.com
 0.0.0.0 print-data.houston.hp.com
