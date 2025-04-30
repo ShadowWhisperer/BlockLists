@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 140
-# Updated: 3/22/2025  11:39 (11:39 AM CST)
+# Domains: 141
+# Updated: 4/30/2025  00:45 (12:45 AM CST)
 #
 0.0.0.0 01com.com
 0.0.0.0 123rescue.com
@@ -117,6 +117,7 @@
 0.0.0.0 rustdesk.com
 0.0.0.0 screenconnect.com
 0.0.0.0 screenleap.com
+0.0.0.0 screenmeet.com
 0.0.0.0 showmypc.com
 0.0.0.0 splashtop.com
 0.0.0.0 studiopalms.com
