@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 21,767
-# Updated: 5/1/2025  10:39 (10:39 AM CST)
+# Domains: 21,768
+# Updated: 5/1/2025  13:57 (1:57 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -16781,6 +16781,7 @@ pushsafer.net
 push.samsungosp.com
 push-sdk.mattel163.com
 push-sdk.net
+push-sdk.site
 pushsender.com
 pushsender.pro
 push-sense.com
