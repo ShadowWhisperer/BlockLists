@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 675
-# Updated: 4/29/2025  13:05 (1:05 PM CST)
+# Domains: 676
+# Updated: 5/2/2025  10:17 (10:17 AM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -35,6 +35,7 @@
 0.0.0.0 alchemer.com
 0.0.0.0 brazzerssurvey.com
 0.0.0.0 brewsurvey.com
+0.0.0.0 chattysurvey.com
 0.0.0.0 checkmarket.com
 0.0.0.0 chkmkt.com
 0.0.0.0 clixsense.com

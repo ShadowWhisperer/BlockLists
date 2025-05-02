@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 141
-# Updated: 4/30/2025  00:45 (12:45 AM CST)
+# Domains: 142
+# Updated: 5/2/2025  10:17 (10:17 AM CST)
 #
 0.0.0.0 01com.com
 0.0.0.0 123rescue.com
@@ -26,6 +26,7 @@
 0.0.0.0 connectwise.com
 0.0.0.0 copilot.com
 0.0.0.0 dameware.com
+0.0.0.0 dee.support
 0.0.0.0 deskshare.net
 0.0.0.0 deskviewer.me
 0.0.0.0 devicevm.com

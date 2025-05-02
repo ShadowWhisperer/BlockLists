@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 141
-# Updated: 4/30/2025  00:45 (12:45 AM CST)
+# Domains: 142
+# Updated: 5/2/2025  10:17 (10:17 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -30,6 +30,7 @@ cdngetgo.com
 connectwise.com
 copilot.com
 dameware.com
+dee.support
 deskshare.net
 deskviewer.me
 devicevm.com

@@ -96,9 +96,9 @@ geoip.cudasvc.com                                   #Barracuda (Firewall)   Set 
 prod.dw.us.fdcnet.biz                               #Credit Card Terminal   Prevents Sale
 secure.uptrillion.com                               #Credit Card Terminal   Prevents Sale
 mqtt-us-2.roborock.com                              #Roborock               Connect to Wifi / Check for firmware updates *Vacuum
+files.roborock.com                                  #Roborock               Firmware update
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com      #Roomba                 Connect to internet *Vacuum
 a2uowfjvhio0fa.iot.us-east-1.amazonaws.com          #Roomba                 Connect to internet *Vacuum
-files.roborock.com                                  #Roomba                 Firmware update
 n-use1-dw.tplinkcloud.com                           #TP-Link                Router Firmware
 
 
@@ -447,6 +447,7 @@ otacdn.baidu.com                                     #Retroid - Firmware Updates
 cdn.awsusor0.fds.api.mi-img.com                      #Roborock  [App]  Download Firmware Updates
 awsusor0.fds.api.xiaomi.com                          #Roborock  [App]  Voices
 api-us.roborock.com                                  #Roborock  [App]  Connect to Wifi
+lf3-cdn-tos.bytecdntp.com                            #Roborock  [Website]  Sign In
 unauth1.prod.iot.irobotapi.com                       #Roomba    [App]  Sign In
 unauth2.prod.iot.irobotapi.com                       #Roomba    [App]  Sign In
 auth1.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks connection to vacuum (Unable to start/stop)
