@@ -1,8 +1,8 @@
 #
 #    File: Apple
 #    Info: Bloat
-# Domains: 159
-# Updated: 2/28/2025  00:40 (12:40 AM CST)
+# Domains: 158
+# Updated: 5/3/2025  16:23 (4:23 PM CST)
 #
 0.0.0.0 attwifi.apple.com
 0.0.0.0 captive.apple.com
@@ -105,7 +105,6 @@
 0.0.0.0 pd.itunes.apple.com
 0.0.0.0 pd-st.itunes.apple.com
 0.0.0.0 porco.apple.com
-0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 proddav.apple.com
 0.0.0.0 pubsbuild.apple.com
 0.0.0.0 rabat.apple.com
