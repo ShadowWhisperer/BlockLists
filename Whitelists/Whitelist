@@ -477,11 +477,12 @@ trib.al                                                 #URL Shortener
 cdn.plaid.com                                        #Various Sites - Add bank account
 production.plaid.com                                 #Various Sites - Add bank account
 gravatar.com                                         #Various Sites - Avatar Icons
+geoip.cdn.arkadiumhosted.com                         #Various Sites - Breaks games (Ex: https://zone.msn.com)
 s3.ap-northeast-2.amazonaws.com                      #Various Sites - File Downloads
 s3-eu-west-1.amazonaws.com                           #Various Sites - File Downloads
 s3.us-east-2.amazonaws.com                           #Various Sites - File Downloads
 s3-us-west-1.amazonaws.com                           #Various Sites - File Downloads
-maxcdn.bootstrapcdn.com                              #Various Sites - Icons  (Example: geapplianceparts.com)
+maxcdn.bootstrapcdn.com                              #Various Sites - Icons  (Ex: geapplianceparts.com)
 widgets.turnto.com                                   #Various Sites - User Reviews / Q&A Section
 fastpic.ru                                           #Various Sites - Images
 imagizer.imageshack.com                              #Various Sites - Images
