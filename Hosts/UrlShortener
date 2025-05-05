@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,211
-# Updated: 5/2/2025  16:36 (4:36 PM CST)
+# Domains: 4,254
+# Updated: 5/5/2025  08:47 (8:47 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -60,6 +60,7 @@
 0.0.0.0 1r2.in
 0.0.0.0 1short.io
 0.0.0.0 1shortlink.com
+0.0.0.0 1stgop.co
 0.0.0.0 1sturl.com
 0.0.0.0 1to3.link
 0.0.0.0 1url.cz
@@ -208,6 +209,7 @@
 0.0.0.0 abelinc.me
 0.0.0.0 abit.ly
 0.0.0.0 aboutmywebsite.com
+0.0.0.0 abpl.top
 0.0.0.0 abre.pub
 0.0.0.0 abr.to
 0.0.0.0 abso.lt
@@ -381,6 +383,9 @@
 0.0.0.0 apsense.cc
 0.0.0.0 apticirl.com
 0.0.0.0 apurl.in
+0.0.0.0 apzjp.com
+0.0.0.0 apzjp.sbs
+0.0.0.0 aqehb.com
 0.0.0.0 aqeq3te.com
 0.0.0.0 arab.news
 0.0.0.0 arclight.live
@@ -421,6 +426,8 @@
 0.0.0.0 austineckert.live
 0.0.0.0 author.to
 0.0.0.0 autolink.live
+0.0.0.0 auyoa.com
+0.0.0.0 auyyb.com
 0.0.0.0 avbc.me
 0.0.0.0 aveerro.com
 0.0.0.0 aven.ga
@@ -450,6 +457,7 @@
 0.0.0.0 b2g.tech
 0.0.0.0 b33.fr
 0.0.0.0 b7.tel
+0.0.0.0 b808.bet
 0.0.0.0 b8my.live
 0.0.0.0 babblecase.com
 0.0.0.0 babyurl.net
@@ -750,6 +758,7 @@
 0.0.0.0 cibel.sbs
 0.0.0.0 cib-tea.life
 0.0.0.0 cii.pet
+0.0.0.0 cinecom.info
 0.0.0.0 cintly.com
 0.0.0.0 citibanamex.xyz
 0.0.0.0 cit.to
@@ -787,6 +796,7 @@
 0.0.0.0 cloudshrinker.com
 0.0.0.0 cloudtechlinks.com
 0.0.0.0 clourls.com
+0.0.0.0 cluml.sbs
 0.0.0.0 clymont.live
 0.0.0.0 cml.lol
 0.0.0.0 cms.org.uk
@@ -870,6 +880,8 @@
 0.0.0.0 cutur.link
 0.0.0.0 cuturl.net
 0.0.0.0 cvcpl.us
+0.0.0.0 cvfmiij.wiki
+0.0.0.0 cviqs.com
 0.0.0.0 cwpdk.icu
 0.0.0.0 cy8.co
 0.0.0.0 cyhrb.top
@@ -949,6 +961,7 @@
 0.0.0.0 direct.minifun.games
 0.0.0.0 directorytechstoragepoint.directory
 0.0.0.0 direct.tgcoracle.com
+0.0.0.0 disanspam.life
 0.0.0.0 distinct-rp.live
 0.0.0.0 distinctrp.live
 0.0.0.0 d-its-hekis-osama-kwi.info
@@ -1063,6 +1076,7 @@
 0.0.0.0 edm.to
 0.0.0.0 edne.tw
 0.0.0.0 eeatu.com
+0.0.0.0 eeztk.top
 0.0.0.0 eezy99.live
 0.0.0.0 effde.sbs
 0.0.0.0 efie.co
@@ -1096,6 +1110,7 @@
 0.0.0.0 enmzv.mom
 0.0.0.0 enshom.link
 0.0.0.0 entry.bhscovid.org
+0.0.0.0 entryurl.com
 0.0.0.0 epicwin138.life
 0.0.0.0 eplt.net
 0.0.0.0 epochalchange.live
@@ -2715,7 +2730,11 @@
 0.0.0.0 qcutul2702.life
 0.0.0.0 qd.rs
 0.0.0.0 qdtw.info
+0.0.0.0 qiyel.sbs
+0.0.0.0 qjccl.com
 0.0.0.0 qk.lc
+0.0.0.0 qkvlk.com
+0.0.0.0 qlbnk.com
 0.0.0.0 qlink.pro
 0.0.0.0 qlur.top
 0.0.0.0 qndjq.com
@@ -2809,6 +2828,7 @@
 0.0.0.0 redirme.com
 0.0.0.0 redly.vip
 0.0.0.0 redr.me
+0.0.0.0 redvt.cc
 0.0.0.0 reel.io
 0.0.0.0 ref11.top
 0.0.0.0 referer.us
@@ -3358,6 +3378,7 @@
 0.0.0.0 swiftation.com
 0.0.0.0 swifttopia.com
 0.0.0.0 swi.nu
+0.0.0.0 swjdf.top
 0.0.0.0 swr1.cc
 0.0.0.0 swsupt.com
 0.0.0.0 sxfy.info
@@ -3426,6 +3447,8 @@
 0.0.0.0 tfg2000.de
 0.0.0.0 tfushort.com
 0.0.0.0 tgbe.link
+0.0.0.0 tgcv.top
+0.0.0.0 tgdgacor.com
 0.0.0.0 tg.pe
 0.0.0.0 thandisozynobiahlongwanes.life
 0.0.0.0 thaniel.life
@@ -3519,6 +3542,7 @@
 0.0.0.0 titok.website
 0.0.0.0 tiurl.link
 0.0.0.0 tixxh.com
+0.0.0.0 tjazih.com
 0.0.0.0 tj.wtf
 0.0.0.0 tkjzd.pics
 0.0.0.0 tklinks.com
@@ -3561,6 +3585,8 @@
 0.0.0.0 topfiften.com
 0.0.0.0 topkale.me
 0.0.0.0 toplistt.com
+0.0.0.0 topsitus.com
+0.0.0.0 topsubcvelens.life
 0.0.0.0 topurl.link
 0.0.0.0 toui.cc
 0.0.0.0 tov1.net
@@ -3639,6 +3665,8 @@
 0.0.0.0 tw.uy
 0.0.0.0 tx0.org
 0.0.0.0 txhih.sbs
+0.0.0.0 txtme-live.co.uk
+0.0.0.0 txtr.cc
 0.0.0.0 ty.gy
 0.0.0.0 tylervisionary.live
 0.0.0.0 tyny.to
@@ -3859,6 +3887,9 @@
 0.0.0.0 v.gd
 0.0.0.0 vgnx.co
 0.0.0.0 vgoaa.com
+0.0.0.0 vgwrm.com
+0.0.0.0 vhcae.com
+0.0.0.0 vhdgx.sbs
 0.0.0.0 viahold.com
 0.0.0.0 vibebycalifornia.life
 0.0.0.0 videopro.live
@@ -3995,8 +4026,10 @@
 0.0.0.0 wheel.to
 0.0.0.0 white-horse-dc-58.life
 0.0.0.0 white-maw.info
+0.0.0.0 whs.link
 0.0.0.0 whts.cc
 0.0.0.0 w-hun-n-9883-gh.info
+0.0.0.0 whxce.sbs
 0.0.0.0 whyiwu.com
 0.0.0.0 wig.ht
 0.0.0.0 wilksom.live
@@ -4018,6 +4051,7 @@
 0.0.0.0 woah.top
 0.0.0.0 woflpackciye.com
 0.0.0.0 wolftravels.live
+0.0.0.0 wolg.top
 0.0.0.0 womens-libido-booster.com
 0.0.0.0 wordmovies.live
 0.0.0.0 work24.life
@@ -4048,6 +4082,7 @@
 0.0.0.0 wxdib.sbs
 0.0.0.0 wy.si
 0.0.0.0 wyyw.de
+0.0.0.0 wyzvs.sbs
 0.0.0.0 x11.pw
 0.0.0.0 x2t.com
 0.0.0.0 x2y.me
@@ -4138,8 +4173,14 @@
 0.0.0.0 yourls.org
 0.0.0.0 yourmovie.co
 0.0.0.0 youtubu.us
+0.0.0.0 yozzc.com
 0.0.0.0 ypflx.com
 0.0.0.0 y.prfd.aero
+0.0.0.0 yprmu.sbs
+0.0.0.0 yqonx.com
+0.0.0.0 yrjfu.sbs
+0.0.0.0 yrtie.sbs
+0.0.0.0 yruxd.sbs
 0.0.0.0 y.stadtfabrikanten.org
 0.0.0.0 yts.nu
 0.0.0.0 ytube.io
@@ -4162,6 +4203,7 @@
 0.0.0.0 zasnx.cyou
 0.0.0.0 zat.ink
 0.0.0.0 zbgtd.biz
+0.0.0.0 zbitly.com
 0.0.0.0 zbszy.lol
 0.0.0.0 zcays.com
 0.0.0.0 zctz.me
@@ -4196,6 +4238,7 @@
 0.0.0.0 zlado.top
 0.0.0.0 zlink.fun
 0.0.0.0 zlwpq.com
+0.0.0.0 znly.in
 0.0.0.0 znt.bz
 0.0.0.0 znz.kr
 0.0.0.0 zo.cm
