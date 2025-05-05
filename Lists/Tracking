@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 103,104
-# Updated: 5/3/2025  16:23 (4:23 PM CST)
+# Domains: 103,110
+# Updated: 5/4/2025  23:13 (11:13 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -37466,6 +37466,8 @@ log.anninhthudo.vn
 log.a-rt.com
 log.arzdigital.com
 log.ato.santander.co.uk
+log-auth.flysleep.cn
+log-auth.zztfly.com
 log.automotor.vn
 log.babytree.com
 logbak.hicloud.com
@@ -37708,7 +37710,9 @@ log.schroetersa.ch
 logs.cloudimgs.net
 logs.dadatypo.net
 logs.dashlane.com
+logsdk.klingai.com
 log-sdk.ksapisrv.com
+logsdk.kwai-pro.com
 logs.doselect.com
 logservice1.hicloud.com
 logservice.hicloud.com
@@ -70282,6 +70286,7 @@ reportms.singaporepaya.com
 report.oewa.at
 report-oversea2.agora.io
 report-oversea.agora.io
+report.pixverse.ai
 report.pro-konfig.de
 reportsapi.zoho.com
 reports.bonuz.com
@@ -98446,6 +98451,7 @@ w.knuffelwuff.co.uk
 wkp20trk.com
 wkxppshj-qx.global.ssl.fastly.net
 wl-analytics.tsp.li
+wlog.kuaishou.com
 w-log.production.brexapps.com
 wlssl.jd.com
 wm74trk.com
