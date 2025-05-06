@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 573
-# Updated: 4/30/2025  09:19 (9:19 AM CST)
+# Domains: 572
+# Updated: 5/6/2025  11:23 (11:23 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -390,8 +390,6 @@ aadrm.com                                      # ? Defunct
 msantispy.com                                  # ? Defunct
 msecn.net                                      # ? Defunct
 msnhome.org                                    # ? Defunct
-
-client.prod.repmap.microsoft.com               # ? Captcha
 
 inv.mp.microsoft.com                           # ? Store layout
 
