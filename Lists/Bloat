@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 676
-# Updated: 5/2/2025  10:17 (10:17 AM CST)
+# Domains: 675
+# Updated: 5/7/2025  16:32 (4:32 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -421,7 +421,6 @@ desktop2.google.com                                     #Google
 desktop.google.com                                      #Google
 deviceintegritytokens-pa.googleapis.com                 #Google
 device-provisioning.googleapis.com                      #Google
-discover-pa.googleapis.com                              #Google
 dynamicmail-pa.clients6.google.com                      #Google
 enterprise.google.com                                   #Google
 fcmconnection.googleapis.com                            #Google

@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 676
-# Updated: 5/2/2025  10:17 (10:17 AM CST)
+# Domains: 675
+# Updated: 5/7/2025  16:32 (4:32 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -402,7 +402,6 @@
 0.0.0.0 desktop.google.com
 0.0.0.0 deviceintegritytokens-pa.googleapis.com
 0.0.0.0 device-provisioning.googleapis.com
-0.0.0.0 discover-pa.googleapis.com
 0.0.0.0 dynamicmail-pa.clients6.google.com
 0.0.0.0 enterprise.google.com
 0.0.0.0 fcmconnection.googleapis.com

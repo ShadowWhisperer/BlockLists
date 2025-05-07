@@ -260,11 +260,13 @@ cfa.fidelity.com                                     #Fidelity - Login
 dpservice.fidelity.com                               #Fidelity - Data download
 iris06-gold-ssl.gameloft.com                         #Gameloft - Prevents games from starting
 notifications-pa.googleapis.com                  #Google   2FA - Sends notification to phone/tablet
+androidplatformbackuprestore-pa.googleapis.com   #Google   Android (Backup)
 cryptauthenrollment.googleapis.com               #Google   Android (Set Payment Info)
 ota-cache1.googlezip.net                         #Google   Android (System Updates)
 androidtvlauncherxfe-pa.googleapis.com           #Google   Android (Check for internet)
 play-lh.googleusercontent.com                    #Google   Android (Store Images)
 gameswhitelisted.googleapis.com                  #Google   Android (Game signin)
+discover-pa.googleapis.com                       #Google   Android (News Page - Far left home screen)
 tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
 tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
 clients3.google.com                              #Google   ChromeOS Signin (connection is limited)
@@ -371,6 +373,7 @@ title.mgt.xboxlive.com                                  #Microsoft   Games (Brea
 insideruser.microsoft.com                               #Microsoft   Insider (Windows Updates --> Windows Insider Program)
 nam.safelink.emails.azure.net                           #Microsoft   Links (On Microsoft's Sites)
 cdn-dynmedia-1.microsoft.com                            #Microsoft   Microsoft Store (Images)
+main.prod.marketplacepartnerdirectory.azure.com         #Microsoft   Microsoft Store
 zone.msn.com                                            #Microsoft   MSN  (Games)
 img-s-msn-com.akamaized.net                             #Microsoft   MSN  (Images)
 assets.msn.com                                          #Microsoft   MSN  (Main Page)
