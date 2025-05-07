@@ -23,15 +23,18 @@ sus.sophosupd.com                                   #Sophos      Updates
 #####################################################
 # Apps
 #####################################################
-content-prod.iot.irobotapi.com                      #iRobot        Won't open app
-disc-prod.iot.irobotapi.com                         #iRobot        Won't open app
-unauth3.prod.iot.irobotapi.com                      #iRobot        Won't open app
-prod.mobile.roku.com                                #Roku Remote   Video Browser
-rights-manager.sr.roku.com                          #Roku Remote   Videos
-vod.delivery.roku.com                               #Roku Remote   Videos
-wv.service.expressplay.com                          #Roku Remote   Videos
-sf-api-token-service.itunes.apple.com               #Shazam        Won't submit audio sample
-gapi.waze.com                                       #Wayze         Search for address
+content-prod.iot.irobotapi.com                      #iRobot         Won't open app
+disc-prod.iot.irobotapi.com                         #iRobot         Won't open app
+unauth3.prod.iot.irobotapi.com                      #iRobot         Won't open app
+prod.mobile.roku.com                                #Roku Remote    Video Browser
+rights-manager.sr.roku.com                          #Roku Remote    Videos
+vod.delivery.roku.com                               #Roku Remote    Videos
+wv.service.expressplay.com                          #Roku Remote    Videos
+sf-api-token-service.itunes.apple.com               #Shazam         Won't submit audio sample
+gd57zlusmo-1.algolianet.com                         #Simple Radio   Breaks Search
+gd57zlusmo-2.algolianet.com                         #Simple Radio   Breaks Search
+gd57zlusmo-3.algolianet.com                         #Simple Radio   Breaks Search
+gapi.waze.com                                       #Wayze          Search for address
 
 
 #####################################################
