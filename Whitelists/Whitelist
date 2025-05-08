@@ -23,20 +23,22 @@ sus.sophosupd.com                                   #Sophos      Updates
 #####################################################
 # Apps
 #####################################################
-content-prod.iot.irobotapi.com                      #iRobot         Won't open app
-disc-prod.iot.irobotapi.com                         #iRobot         Won't open app
-unauth3.prod.iot.irobotapi.com                      #iRobot         Won't open app
-prod.mobile.roku.com                                #Roku Remote    Video Browser
-rights-manager.sr.roku.com                          #Roku Remote    Videos
-vod.delivery.roku.com                               #Roku Remote    Videos
-wv.service.expressplay.com                          #Roku Remote    Videos
-sf-api-token-service.itunes.apple.com               #Shazam         Won't submit audio sample
-gd57zlusmo-1.algolianet.com                         #Simple Radio   Breaks Search
-gd57zlusmo-2.algolianet.com                         #Simple Radio   Breaks Search
-gd57zlusmo-3.algolianet.com                         #Simple Radio   Breaks Search
-ctilesgcs-am.waze.com                               #Wayze          Map tiles
-gapi.waze.com                                       #Wayze          Search for address
-rt.waze.com                                         #Wayze          Won't open
+passbox-pa.googleapis.com                           #Google Authenticator    Breaks Sync
+content-prod.iot.irobotapi.com                      #iRobot                  Won't open app
+disc-prod.iot.irobotapi.com                         #iRobot                  Won't open app
+unauth3.prod.iot.irobotapi.com                      #iRobot                  Won't open app
+apim.gm.com                                         #MyChevrolet             Breaks it
+prod.mobile.roku.com                                #Roku Remote             Video Browser
+rights-manager.sr.roku.com                          #Roku Remote             Videos
+vod.delivery.roku.com                               #Roku Remote             Videos
+wv.service.expressplay.com                          #Roku Remote             Videos
+sf-api-token-service.itunes.apple.com               #Shazam                  Won't submit audio sample
+gd57zlusmo-1.algolianet.com                         #Simple Radio            Breaks Search
+gd57zlusmo-2.algolianet.com                         #Simple Radio            Breaks Search
+gd57zlusmo-3.algolianet.com                         #Simple Radio            Breaks Search
+ctilesgcs-am.waze.com                               #Wayze                   Map tiles
+gapi.waze.com                                       #Wayze                   Search for address
+rt.waze.com                                         #Wayze                   Won't open
 
 
 #####################################################
@@ -46,6 +48,7 @@ adwcleaner.toolslib.net                             #Adwcleaner            Updat
 cache-cms-ext-us.battle.net                         #Battle.net            What's New
 cdn-bgp.bluestacks.com                              #BlueStacks            App Store
 zna7usvzk4.execute-api.us-east-1.amazonaws.com      #Carbonite             Download
+api.djiservice.org                                  #DJI Fly               Map
 dl.dropboxusercontent.com                           #DropBox               Download DropBox
 nsf-2.dropbox.com                                   #DropBox               Breaks Sync
 eulatracking-public-service-prod.ak.epicgames.com   #Epic Games Launcher   Breaks game downloads
@@ -139,37 +142,37 @@ media.dds.lenovo.com                                #Lenovo   Media Creation Too
 #####################################################
 # Social Media
 #####################################################
-l.facebook.com                                      Facebook    Breaks Links
-b-graph.facebook.com                                Facebook    Breaks App
-graph.facebook.com                                  Facebook    Breaks App
-web.facebook.com                                    Facebook    Messenger App (Login)
-rupload.facebook.com                                Facebook    Messenger (Upload pictures)
-web-chat-e2ee.facebook.com                          Facebook    Breaks 'To' in messages
-edge-chat.instagram.com                             Facebook    Breaks previous messages
-kaios-d.facebook.com                                Facebook    Breaks Marketplace on phone *Browser
-scontent.xx.fbcdn.net                               Facebook    Comments *User Picture
-api.facebook.com                                    Facebook
-connect.facebook.net                                Facebook
-l.instagram.com                                     Instagram   Links from Instagram's site
-api.pinterest.com                                   Pinterest
-mtalk.google.com                                    SnapChat    Notifications
-alt1-mtalk.google.com                               SnapChat    Notifications
-alt2-mtalk.google.com                               SnapChat    Notifications
-alt3-mtalk.google.com                               SnapChat    Notifications
-alt4-mtalk.google.com                               SnapChat    Notifications
-alt5-mtalk.google.com                               SnapChat    Notifications
-alt6-mtalk.google.com                               SnapChat    Notifications
-alt7-mtalk.google.com                               SnapChat    Notifications
-alt8-mtalk.google.com                               SnapChat    Notifications
-aws-proxy-gcp.api.snapchat.com                      SnapChat    Sending/Receiving
-flux-c.sc-cdn.net                                   SnapChat    Stories
-cnc.addlive.io                                      SnapChat    Voice/Video Chat
-api.twitter.com                                     Twitter
-pbs.twimg.com                                       Twitter     Images
-assets.vsco.co                                      Vsco
-im.vsco.co                                          Vsco
-i.vsco.co                                           Vsco
-static.vsco.co                                      Vsco
+l.facebook.com                                     #Facebook    Breaks Links
+b-graph.facebook.com                               #Facebook    Breaks App
+graph.facebook.com                                 #Facebook    Breaks App
+web.facebook.com                                   #Facebook    Messenger App (Login)
+rupload.facebook.com                               #Facebook    Messenger (Upload pictures)
+web-chat-e2ee.facebook.com                         #Facebook    Breaks 'To' in messages
+edge-chat.instagram.com                            #Facebook    Breaks previous messages
+kaios-d.facebook.com                               #Facebook    Breaks Marketplace on phone *Browser
+scontent.xx.fbcdn.net                              #Facebook    Comments *User Picture
+api.facebook.com                                   #Facebook
+connect.facebook.net                               #Facebook
+l.instagram.com                                    #Instagram   Links from Instagram's site
+api.pinterest.com                                  #Pinterest
+mtalk.google.com                                   #SnapChat    Notifications
+alt1-mtalk.google.com                              #SnapChat    Notifications
+alt2-mtalk.google.com                              #SnapChat    Notifications
+alt3-mtalk.google.com                              #SnapChat    Notifications
+alt4-mtalk.google.com                              #SnapChat    Notifications
+alt5-mtalk.google.com                              #SnapChat    Notifications
+alt6-mtalk.google.com                              #SnapChat    Notifications
+alt7-mtalk.google.com                              #SnapChat    Notifications
+alt8-mtalk.google.com                              #SnapChat    Notifications
+aws-proxy-gcp.api.snapchat.com                     #SnapChat    Sending/Receiving
+flux-c.sc-cdn.net                                  #SnapChat    Stories
+cnc.addlive.io                                     #SnapChat    Voice/Video Chat
+api.twitter.com                                    #Twitter
+pbs.twimg.com                                      #Twitter     Images
+assets.vsco.co                                     #Vsco
+im.vsco.co                                         #Vsco
+i.vsco.co                                          #Vsco
+static.vsco.co                                     #Vsco
 
 
 #####################################################
@@ -249,6 +252,7 @@ vendorlist.dmcdn.net                                 #DailyMotion - Breaks Site 
 service-adhoc.dji.com                                #DJI  - File download (website)
 terra-2-g.djicdn.com                                 #DJI  - File download (website)
 www-cdn.djiits.com                                   #DJI  - Breaks page   (website)
+terra-1-g.djicdn.com                                 #DJI  - Images
 pulsar.ebay.com                                      #Ebay - Breaks "Other Items For Sale From Seller"
 ir.ebaystatic.com                                    #Ebay - Breaks "See All" in advanced search
 gha.ebay.com                                         #Ebay - Notifications
@@ -330,9 +334,8 @@ i.ytimg.com                                      #Google   YouTube (Thumbnails)
 clients1.google.com                              #Google   Youtube (Search Suggest) *App
 cdn-us-cf2.yottaa.net                                #Images - Brownells
 qoe-1.yottaa.net                                     #Images - Brownells
-terra-1-g.djicdn.com                                 #Images - DJI
 reddit-meta-production.s3.amazonaws.com              #Images - Reddit
-staticapp.icpsc.com                                  #Images - Sig Sauer Email
+staticapp.icpsc.com                                  #Images - Sig Sauer (Email)
 l.yimg.com                                           #Images - Yahoo
 s1.yimg.com                                          #Images - Yahoo
 s.yimg.com                                           #Images - Yahoo
