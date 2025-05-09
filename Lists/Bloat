@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 675
-# Updated: 5/7/2025  16:32 (4:32 PM CST)
+# Domains: 674
+# Updated: 5/9/2025  10:22 (10:22 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -457,7 +457,6 @@ pack.google.com                                         #Google
 pai.googlezip.net                                       #Google
 phonedeviceverification-pa.googleapis.com               #Google  ? (Does not break 2FA)
 popup.withgoogle.com                                    #Google
-proactivebackend-pa.googleapis.com                      #Google
 pubsub.googleapis.com                                   #Google
 realtimesupport.clients6.google.com                     #Google
 reminders-pa.clients6.google.com                        #Google
