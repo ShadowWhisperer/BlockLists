@@ -24,6 +24,7 @@ sus.sophosupd.com                                   #Sophos      Updates
 # Apps
 #####################################################
 passbox-pa.googleapis.com                           #Google Authenticator    Breaks Sync
+pixelweatherhub-pa.googleapis.com                   #Google Weather (Pixel)  Breaks Sync
 content-prod.iot.irobotapi.com                      #iRobot                  Won't open app
 disc-prod.iot.irobotapi.com                         #iRobot                  Won't open app
 unauth3.prod.iot.irobotapi.com                      #iRobot                  Won't open app
