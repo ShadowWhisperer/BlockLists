@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 144
-# Updated: 5/12/2025  23:59 (11:59 PM CST)
+# Domains: 146
+# Updated: 5/16/2025  16:20 (4:20 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -125,11 +125,13 @@ rustdesk.com
 screenconnect.com
 screenleap.com
 screenmeet.com
+setme.net
 showmypc.com
 splashtop.com
 studiopalms.com
 support.com
 support.gbstech.com
+supporthopper.com
 support.me
 support.mypremieronline.com
 supportview.com
