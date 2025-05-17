@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 98,517
-# Updated: 5/16/2025  16:20 (4:20 PM CST)
+# Domains: 98,518
+# Updated: 5/16/2025  20:41 (8:41 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -90664,6 +90664,7 @@ tracker.bannerflow.com
 tracker.bdash-cloud.com
 tracker.beam.dasmart.eu
 tracker.beezup.com
+tracker-be-prod.pubplus.com
 tracker.bidder-playdigo.com
 tracker.bigl.ua
 tracker.bihk.de
