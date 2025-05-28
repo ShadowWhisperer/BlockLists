@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 294
-# Updated: 3/27/2025  10:43 (10:43 AM CST)
+# Domains: 297
+# Updated: 5/28/2025  10:35 (10:35 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -234,6 +234,9 @@ iolo.com                                       #Software - Iolo (System Mechanic
 iolo.net                                       #Software - Iolo (System Mechanic)
 magix.com                                      #Software - Maxig (System Optimizer)
 simplitec.com                                  #Software - Maxig (System Optimizer)
+movavi.com                                     #Software - Movavi (Says not activated with legit key / Does not show in program list)
+movavi.de                                      #Software - Movavi (Says not activated with legit key / Does not show in program list)
+movavi.id                                      #Software - Movavi (Says not activated with legit key / Does not show in program list)
 duapp.com                                      #Software - Nox (Android Emulator)
 appexnw.com                                    #Software - Pokki (Start Menu)
 pokki.com                                      #Software - Pokki (Start Menu)
