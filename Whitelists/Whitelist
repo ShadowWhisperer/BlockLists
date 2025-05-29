@@ -321,6 +321,7 @@ proactivebackend-pa.googleapis.com               #Google   Breaks Gemini (App)
 ogs.google.com                                   #Google   Keep (Breaks Sync / Web Apps)
 scone-pa.clients6.google.com                     #Google   Keep (Breaks Sync)
 signaler-pa.clients6.google.com                  #Google   Keep (Breaks Sync)
+firebasedynamiclinks.googleapis.com              #Google   Links (Maps: Share)
 accounts.google.com                              #Google   Login
 gds.google.com                                   #Google   Login (After 2FA)
 mobilemaps-pa-gz.googleapis.com                  #Google   Maps (Download maps for offline use)
