@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,458
-# Updated: 5/31/2025  18:08 (6:08 PM CST)
+# Domains: 4,462
+# Updated: 6/1/2025  14:34 (2:34 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -82,6 +82,7 @@
 0.0.0.0 2.ht
 0.0.0.0 2it.info
 0.0.0.0 2link.in
+0.0.0.0 2m.is
 0.0.0.0 2my.info
 0.0.0.0 2one.in
 0.0.0.0 2pu.sh
@@ -102,6 +103,7 @@
 0.0.0.0 31productions.de
 0.0.0.0 369.xn--6frz82g
 0.0.0.0 389sport.fun
+0.0.0.0 389sport.store
 0.0.0.0 3c5.com
 0.0.0.0 3ind.com
 0.0.0.0 3le.ru
@@ -1429,6 +1431,7 @@
 0.0.0.0 golnk.eu
 0.0.0.0 go.lsb.nrw
 0.0.0.0 gol.to
+0.0.0.0 goly.me
 0.0.0.0 goninja.live
 0.0.0.0 goo2url.com
 0.0.0.0 goo.by
@@ -2906,6 +2909,7 @@
 0.0.0.0 rdv.az
 0.0.0.0 realtours360.com
 0.0.0.0 rebrand.pw
+0.0.0.0 rec-law.us
 0.0.0.0 reco.yt
 0.0.0.0 recruiment.live
 0.0.0.0 recruitings.online

@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,458
-# Updated: 5/31/2025  18:08 (6:08 PM CST)
+# Domains: 4,462
+# Updated: 6/1/2025  14:34 (2:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -86,6 +86,7 @@
 2.ht
 2it.info
 2link.in
+2m.is
 2my.info
 2one.in
 2pu.sh
@@ -106,6 +107,7 @@
 31productions.de
 369.xn--6frz82g
 389sport.fun
+389sport.store
 3c5.com
 3ind.com
 3le.ru
@@ -1433,6 +1435,7 @@ golink.us
 golnk.eu
 go.lsb.nrw
 gol.to
+goly.me
 goninja.live
 goo2url.com
 goo.by
@@ -2910,6 +2913,7 @@ rdrt.cc
 rdv.az
 realtours360.com
 rebrand.pw
+rec-law.us
 reco.yt
 recruiment.live
 recruitings.online
