@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 98,757
-# Updated: 6/1/2025  14:34 (2:34 PM CST)
+# Updated: 6/2/2025  14:50 (2:50 PM CST)
 #
 0.0.0.0 01009.wikihoster.de
 0.0.0.0 01039.wikihoster.de
@@ -12724,6 +12724,7 @@
 0.0.0.0 analytics.skylinkhub.org
 0.0.0.0 analytics.skyraker.ca
 0.0.0.0 analytics.skyscanner.net
+0.0.0.0 analytics.skyscanner.net.cdn.skyscannerplatform.net
 0.0.0.0 analytics.skyvsthehunger.de
 0.0.0.0 analytics.skywt.cn
 0.0.0.0 analytics.sladko.si
@@ -66084,7 +66085,6 @@
 0.0.0.0 pw.wornex.com
 0.0.0.0 pwztag.com
 0.0.0.0 px.0o0o.io
-0.0.0.0 px-cdn.net
 0.0.0.0 pxchk.net
 0.0.0.0 px-client.net
 0.0.0.0 px-cloud.net
