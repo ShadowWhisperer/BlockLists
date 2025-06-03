@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,464
-# Updated: 6/2/2025  14:50 (2:50 PM CST)
+# Domains: 4,466
+# Updated: 6/3/2025  15:08 (3:08 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3961,6 +3961,7 @@ urls.ie
 urlsmall.com
 urlsmall.link
 urls-shortener.eu
+url-s.xyz
 urltamil.in
 urltin.com
 urlty.co
@@ -3991,6 +3992,7 @@ usheethe.com
 usmfs.info
 uspsexpress.org
 usps-v2.com
+usreviewers.com
 u.tlht.us
 utm.to
 utracky.com

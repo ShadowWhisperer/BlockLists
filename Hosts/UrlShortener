@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,464
-# Updated: 6/2/2025  14:50 (2:50 PM CST)
+# Domains: 4,466
+# Updated: 6/3/2025  15:08 (3:08 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -3957,6 +3957,7 @@
 0.0.0.0 urlsmall.com
 0.0.0.0 urlsmall.link
 0.0.0.0 urls-shortener.eu
+0.0.0.0 url-s.xyz
 0.0.0.0 urltamil.in
 0.0.0.0 urltin.com
 0.0.0.0 urlty.co
@@ -3987,6 +3988,7 @@
 0.0.0.0 usmfs.info
 0.0.0.0 uspsexpress.org
 0.0.0.0 usps-v2.com
+0.0.0.0 usreviewers.com
 0.0.0.0 u.tlht.us
 0.0.0.0 utm.to
 0.0.0.0 utracky.com
