@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,466
-# Updated: 6/3/2025  15:08 (3:08 PM CST)
+# Domains: 4,467
+# Updated: 6/4/2025  18:18 (6:18 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1696,6 +1696,7 @@ ioui.ru
 ipgrab.org
 ipkill.org
 ipm.mo
+ipoy.me
 iql.ink
 ir.cx
 iriacassu.life
