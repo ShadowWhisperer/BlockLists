@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 675
-# Updated: 5/20/2025  16:13 (4:13 PM CST)
+# Domains: 674
+# Updated: 6/14/2025  22:09 (10:09 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -448,7 +448,6 @@ lh2.l.google.com                                        #Google
 marketingplatform.google.com                            #Google
 mobiledataplan-pa.googleapis.com                        #Google
 myphonenumbers-pa.googleapis.com                        #Google
-oauthaccountmanager.googleapis.com                      #Google  ? Oauth
 ondevicesafety-pa.googleapis.com                        #Google
 optimizationguide-pa.googleapis.com                     #Google
 os-u.storage.googleapis.com                             #Google
