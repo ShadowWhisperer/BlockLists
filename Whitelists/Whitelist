@@ -474,6 +474,7 @@ cdn.awsusor0.fds.api.mi-img.com                      #Roborock  [App]  Download 
 awsusor0.fds.api.xiaomi.com                          #Roborock  [App]  Voices
 api-us.roborock.com                                  #Roborock  [App]  Connect to Wifi
 lf3-cdn-tos.bytecdntp.com                            #Roborock  [Website]  Sign In
+euiot.roborock.com                                   #Roborock  [Home Assistant]  Sign In
 unauth1.prod.iot.irobotapi.com                       #Roomba    [App]  Sign In
 unauth2.prod.iot.irobotapi.com                       #Roomba    [App]  Sign In
 auth1.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks connection to vacuum (Unable to start/stop)
