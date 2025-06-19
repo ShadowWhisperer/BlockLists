@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 215
-# Updated: 5/12/2025  23:59 (11:59 PM CST)
+# Domains: 216
+# Updated: 6/19/2025  15:04 (3:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -95,6 +95,8 @@ spyrix.com                                       #Keylogger
 spyrix.info                                      #Keylogger
 win-spy.com                                      #Keylogger
 wolfeye.us                                       #Keylogger
+
+tango.me                                         #Live Video Streaming
 
 hikvision.com                                    #Chineese Security Cameras - Banned By US Gov
 api.hikvision.com                                #Chineese Security Cameras - Banned By US Gov

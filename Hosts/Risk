@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 215
-# Updated: 5/12/2025  23:59 (11:59 PM CST)
+# Domains: 216
+# Updated: 6/19/2025  15:04 (3:04 PM CST)
 #
 0.0.0.0 tedata.net
 0.0.0.0 te.eg
@@ -78,6 +78,7 @@
 0.0.0.0 spyrix.info
 0.0.0.0 win-spy.com
 0.0.0.0 wolfeye.us
+0.0.0.0 tango.me
 0.0.0.0 hikvision.com
 0.0.0.0 api.hikvision.com
 0.0.0.0 hikvision.com.cn
