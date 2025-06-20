@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 571
-# Updated: 5/15/2025  14:00 (2:00 PM CST)
+# Domains: 545
+# Updated: 6/20/2025  15:17 (3:17 PM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -59,36 +59,12 @@
 0.0.0.0 sharepointonline.com
 0.0.0.0 spoppe.com
 0.0.0.0 static2.sharepointonline.com
-0.0.0.0 a.config.skype.com
-0.0.0.0 a.lw.skype.com
-0.0.0.0 api3.cc.skype.com
-0.0.0.0 api.flightproxy.skype.com
-0.0.0.0 badwlas.skype.com
-0.0.0.0 b.config.skype.com
-0.0.0.0 c1.skype.com
-0.0.0.0 community.skype.com
-0.0.0.0 consumer.entitlement.skype.com
-0.0.0.0 eus1-api-skype.cloudapp.net
-0.0.0.0 experimental-api.asm.skype.com
-0.0.0.0 mrrcountries.cdn.skype.com
-0.0.0.0 msgsearch.skype.com
-0.0.0.0 noam.cc.skype.com
-0.0.0.0 open-ai-connect.skype.com
-0.0.0.0 people.skype.com
-0.0.0.0 pnv.skype.com
-0.0.0.0 quicktips2016.skypeforbusiness.com
-0.0.0.0 s2s.config.skype.com
-0.0.0.0 skypeecs-prod-use-0-b.cloudapp.net
-0.0.0.0 skype-pcs-prod-usea2-fe-b.cloudapp.net
-0.0.0.0 worldaz.tr.skype.com
-0.0.0.0 world.relay.skype.com
 0.0.0.0 sway-cdn.com
 0.0.0.0 sway.com
 0.0.0.0 amer.devicemgmt.teams.microsoft.com
 0.0.0.0 amer.ng.msg.teams.microsoft.com
 0.0.0.0 api.flightproxy.teams.microsoft.com
 0.0.0.0 api-noam.flightproxy.teams.microsoft.com
-0.0.0.0 api.userstore.skype.com
 0.0.0.0 appsuggestions.teams.microsoft.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 devicemgmt.teams.microsoft.com
@@ -226,7 +202,6 @@
 0.0.0.0 l-0011.l-msedge.net
 0.0.0.0 l-0012.l-msedge.net
 0.0.0.0 l-0013.l-msedge.net
-0.0.0.0 l-0014.config.skype.com
 0.0.0.0 l-0014.l-msedge.net
 0.0.0.0 l-0015.l-msedge.net
 0.0.0.0 msedge.net
@@ -563,7 +538,6 @@
 0.0.0.0 ucis.msdxcdn.microsoft.com
 0.0.0.0 ugcorigin.s-microsoft.com
 0.0.0.0 urlappmapping.sfp.microsoft.com
-0.0.0.0 us-api.asm.skype.com
 0.0.0.0 ussus3westprod.blob.core.windows.net
 0.0.0.0 waws-prod-blu-059.cloudapp.net
 0.0.0.0 wdcpalt.microsoft.com

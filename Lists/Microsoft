@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 571
-# Updated: 5/15/2025  14:00 (2:00 PM CST)
+# Domains: 545
+# Updated: 6/20/2025  15:17 (3:17 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -64,36 +64,12 @@ sharepoint-df.com                              #App     SharePoint
 sharepointonline.com                           #App     SharePoint
 spoppe.com                                     #App     SharePoint
 static2.sharepointonline.com                   #App     SharePoint
-a.config.skype.com                             #App   Skype
-a.lw.skype.com                                 #App   Skype
-api3.cc.skype.com                              #App   Skype
-api.flightproxy.skype.com                      #App   Skype
-badwlas.skype.com                              #App   Skype
-b.config.skype.com                             #App   Skype
-c1.skype.com                                   #App   Skype
-community.skype.com                            #App   Skype
-consumer.entitlement.skype.com                 #App   Skype
-eus1-api-skype.cloudapp.net                    #App   Skype
-experimental-api.asm.skype.com                 #App   Skype
-mrrcountries.cdn.skype.com                     #App   Skype
-msgsearch.skype.com                            #App   Skype
-noam.cc.skype.com                              #App   Skype
-open-ai-connect.skype.com                      #App   Skype
-people.skype.com                               #App   Skype
-pnv.skype.com                                  #App   Skype
-quicktips2016.skypeforbusiness.com             #App   Skype
-s2s.config.skype.com                           #App   Skype
-skypeecs-prod-use-0-b.cloudapp.net             #App   Skype
-skype-pcs-prod-usea2-fe-b.cloudapp.net         #App   Skype
-worldaz.tr.skype.com                           #App   Skype
-world.relay.skype.com                          #App   Skype
 sway-cdn.com                                   #App     Sway
 sway.com                                       #App     Sway
 amer.devicemgmt.teams.microsoft.com            #App    Teams
 amer.ng.msg.teams.microsoft.com                #App    Teams
 api.flightproxy.teams.microsoft.com            #App    Teams
 api-noam.flightproxy.teams.microsoft.com       #App    Teams
-api.userstore.skype.com                        #App    Teams
 appsuggestions.teams.microsoft.com             #App    Teams (Auto-fill ?)
 config.teams.microsoft.com                     #App    Teams
 devicemgmt.teams.microsoft.com                 #App    Teams
@@ -251,7 +227,6 @@ l-0010.l-msedge.net                            #? Edge
 l-0011.l-msedge.net                            #? Edge
 l-0012.l-msedge.net                            #? Edge
 l-0013.l-msedge.net                            #? Edge
-l-0014.config.skype.com                        #? Edge
 l-0014.l-msedge.net                            #? Edge
 l-0015.l-msedge.net                            #? Edge
 msedge.net                                     #? Edge
@@ -603,7 +578,6 @@ uasprod.blob.core.windows.net
 ucis.msdxcdn.microsoft.com
 ugcorigin.s-microsoft.com
 urlappmapping.sfp.microsoft.com
-us-api.asm.skype.com
 ussus3westprod.blob.core.windows.net
 waws-prod-blu-059.cloudapp.net
 wdcpalt.microsoft.com
