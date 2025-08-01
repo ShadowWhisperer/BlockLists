@@ -1,0 +1,178 @@
+#
+#    File: Apple
+#    Info: Bloat
+# Domains: 158
+# Updated: 5/3/2025  16:23 (4:23 PM CST)
+#
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
+#
+
+attwifi.apple.com                      # Captive Portal - Looks For Wifi Login
+captive.apple.com                      # Captive Portal - Looks For Wifi Login
+captive.g.aaplimg.com                  # Captive Portal - Looks For Wifi Login
+
+aolauth.icloud.com                     # App - AIM
+aolauthtest.icloud.com                 # App - AIM
+apfw.apple.com                         # App - AirPort Utility
+apsu.apple.com                         # App - AirPort Utility
+wu-calculator.apple.com                # App - Calculator
+qtpartners.apple.com                   # App - Quicktime
+qtsoftware.apple.com                   # App - Quicktime
+quicktimepro.apple.com                 # App - Quicktime
+guzzoni.apple.com                      # App - Siri
+guzzoni-apple-com.v.aaplimg.com        # App - Siri
+stocks-edge.apple.com                  # App - Stocks
+stocks-edge.news.apple-dns.net         # App - Stocks
+stocks-sparkline.apple.com             # App - Stocks
+wu-stocks.apple.com                    # App - Stocks
+
+pancake.apple.com                      # Authorization for Home Sharing
+pancake.cdn-apple.com.akadns.net       # Authorization for Home Sharing
+pancake.g.aaplimg.com                  # Authorization for Home Sharing
+
+smoot.apple.com                        # Spotlight Suggestions
+
+
+###############################################################################################
+############################           BELOW = UNCERTAIN           ############################
+###############################################################################################
+
+
+amp-account.apps.apple.com
+amp-api.apps.apple.com
+api-edge.apps.apple.com
+apple.com.edgekey.net.globalredir.akadns.net
+apple-dns.net
+app-site-association.cdn-apple.com
+autolinkmaker.itunes.apple.com
+basejumper.apple.com
+buy.apps.apple.com
+carrierbundle.itunes.apple.com
+cdn.apple-cloudkit.com
+cdn.apple-livephotoskit.com
+cdn.apple-mapkit.com
+cdn.cvws.apple-dns.net
+cds.apple.com
+cl3-cdn.origin-apple.com.akadns.net
+cl4.apple.com
+cl5.apple.com
+cma.itunes.apple.com
+cp7vi.apple.com
+crl.apple.com
+depot.info.apple.com
+df6ed.apple.com
+edge-002.usmin.ce.apple-dns.net
+edge.icloud.apple-dns.net
+fdereg.apple.com
+fe.apple-dns.net
+fides-pol.apple.com
+fpinit.itunes.apple.com
+friend.gc.apple.com
+gateway-carry.icloud.com
+gil.apple.com.akadns.net
+gir.apple.com
+gsp2.apple.com
+gsp-ssl.ls2-apple.com.akadns.net
+gz8rm.apple.com
+hello.connectivity.me.com
+homesharing.itunes.apple.com
+humb.apple.com
+icalbridge.apple.com
+icalserver.apple.com
+iclab.apple.com
+icloud.apple-dns.net
+identity.apple.com
+inappcheck.itunes.apple.com
+init.gc.apple.com
+init-p01md.apple.com
+ink.apple.com
+iphone-services.apple.com
+iphone-wu.apple.com
+iprofiles.apple.com
+itunes.apple.com.edgekey.net
+limit.itunesu.com
+link.gc.apple.com
+lookup-api.apple.com
+lookup.apple.com
+mac-services.apple.com
+marimba.apple.com
+members.me.com
+messagetracer-whitelist.apple.com
+mobileapp.apple.com
+musicstatus.itunes.apple.com
+nc-pod5-smp-device.apple.com
+networking.apple
+news-edge.apple.com
+news-edge.news.apple-dns.net
+news-events.apple.com
+ns.itunes.apple.com
+ocsp2.g.aaplimg.com
+ontology.health.apple.com
+origin.guzzoni-apple.com.akadns.net
+p01-swscan.apple.com.akadns.net
+p26-btmmdns.icloud.com
+partiality.itunes.apple.com
+pba0.apple.com
+pba.apple.com
+pcr.apple.com
+pd.itunes.apple.com
+pd-st.itunes.apple.com
+porco.apple.com
+proddav.apple.com
+pubsbuild.apple.com
+rabat.apple.com
+radio.itunes.apple.com
+redcarpet.apple.com
+safety-alert.apple.com
+sandbox.itunes.apple.com
+scento.apple.com
+se2.itunes.apple.com
+se-edge.itunes.apple.com
+se.itunes.apple.com
+sequoia.cdn-apple.com
+service.gc.apple.com
+smp-device-content.apple.com
+speedysub.itunes.apple.com
+sp.itunes.apple.com
+st14p02sa.guzzoni-apple.com.akadns.net
+static.cdn-apple.com
+static.ess.cdn-apple.com.akadns.net
+static.gc.apple.com
+static.ips.apple.com
+stocks-data-service.apple.com
+suconfig.apple.com
+swcdn.apple.com.akadns.net
+swdist.apple.com
+swdlp.apple.com
+swdlp-static.apple.com
+swpost.apple.com
+swscan-cdn.apple.com.akadns.net
+tbsc.apple.com
+td1.apple.com
+td2.apple.com
+td3.apple.com
+td4.apple.com
+time.g.aaplimg.com
+timestamp.apple.com
+tools.applemediaservices.com
+trackingshipment.apple.com
+turn.gc.apple.com
+updates.g.aaplimg.com
+upp.itunes.apple.com
+uschi.ce.apple-dns.net
+us-east-1-dynamic.meta-weights.apple-dns.net
+userpub.itunes.apple.com
+usmes1.ce.apple-dns.net
+usmin.ce.apple-dns.net
+uts-api.itunes.apple.com
+vocabulary.itunes.apple.com
+webservices.mac.com
+wu.apple.com
+wu-charts.apple.com
+wu-converter.apple.com
+wu-nwk.apple.com.akadns.net
+wu-quotes.apple.com
+xp.itunes-apple.com.akadns.net
+z2r0y.apple.com
+zeusmedia.g.aaplimg.com
