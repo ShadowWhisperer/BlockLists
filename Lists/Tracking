@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 102,757
-# Updated: 8/4/2025  13:06 (1:06 PM CST)
+# Domains: 102,760
+# Updated: 8/5/2025  17:24 (5:24 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -18097,6 +18097,7 @@ cables.conwire.com
 cadiomobile.com
 cadmus2.script.ac
 cadmus.script.ac
+c.adora-cdn.com
 cafecoffeediscounts.com
 cafemedia-com.videoplayerhub.com
 ca.foolpitches.com
@@ -29384,6 +29385,7 @@ gscounters.us1.gigya.com
 gsi-one.org
 gsitrix.com
 gs-loc.apple.com
+gs-loc.ls-apple.com.akadns.net
 gsmblasts.com
 gsp10-ssl.apple.com
 gsp1.apple.com
@@ -57622,6 +57624,7 @@ mpctrak.com
 mp.cwtv.com
 mp-data.gofundme.com
 mpeasylink.com
+mp.hrblock.com
 mpianalytics.com
 mpio.io
 mpminfosoft.com
