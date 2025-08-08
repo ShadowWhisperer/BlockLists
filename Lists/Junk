@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 296
-# Updated: 8/5/2025  17:24 (5:24 PM CST)
+# Domains: 283
+# Updated: 8/8/2025  15:44 (3:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -19,19 +19,6 @@ enigmasoftware.com                             #AntiMalware  SpyHunter
 adaware.com                                    #Antivirus    Adaware
 lavasoft.com                                   #Antivirus    Adaware
 webcompanion.com                               #Antivirus    Adaware
-bitdefender.be                                 #Antivirus    BitDefender
-bitdefender.com                                #Antivirus    BitDefender
-bitdefender.com.au                             #Antivirus    BitDefender
-bitdefender.co.uk                              #Antivirus    BitDefender
-bitdefender.de                                 #Antivirus    BitDefender
-bitdefender.es                                 #Antivirus    BitDefender
-bitdefender.fr                                 #Antivirus    BitDefender
-bitdefender.it                                 #Antivirus    BitDefender
-bitdefender.net                                #Antivirus    BitDefender
-bitdefender.nl                                 #Antivirus    BitDefender
-bitdefender.pt                                 #Antivirus    BitDefender
-bitdefender.ro                                 #Antivirus    BitDefender
-bitdefender.se                                 #Antivirus    BitDefender
 da3e3.net                                      #Antivirus    BitDefender
 fortect.com                                    #Antivirus    Fortect
 ijinshan.com                                   #Antivirus    Kingsoft
