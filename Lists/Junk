@@ -1,0 +1,316 @@
+#
+#    File: Junk
+#    Info: Surveys, Personally Untrusted Software, Search Engines, etc
+# Domains: 283
+# Updated: 8/8/2025  15:44 (3:44 PM CST)
+#
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
+#
+
+superantispyware.com                           #AntiMalware  SuperAntiSpyware
+enigmasoftware.com                             #AntiMalware  SpyHunter
+
+360.cn                                         #Antivirus    360 Total Security
+360.com                                        #Antivirus    360 Total Security
+360os.com                                      #Antivirus    360 Total Security
+360safe.com                                    #Antivirus    360 Total Security
+360totalsecurity.com                           #Antivirus    360 Total Security
+adaware.com                                    #Antivirus    Adaware
+lavasoft.com                                   #Antivirus    Adaware
+webcompanion.com                               #Antivirus    Adaware
+da3e3.net                                      #Antivirus    BitDefender
+fortect.com                                    #Antivirus    Fortect
+ijinshan.com                                   #Antivirus    Kingsoft
+cloudantivirus.com                             #Antivirus    Panda
+pandasecurity.com                              #Antivirus    Panda
+pandasoftware.com                              #Antivirus    Panda
+stopzilla.com                                  #Antivirus    StopZilla
+totaldefense.com                               #Antivirus    Total Defense
+ultrasecureav.com                              #Antivirus    Ultra Secure AV
+aurasvc.io                                     #Antivirus    UltraAV (pango.co)
+ultraantivirus.com                             #Antivirus    UltraAV (pango.co)
+webrootanywhere.com                            #Antivirus    Webroot
+webrootcloudav.com                             #Antivirus    Webroot
+webroot.com                                    #Antivirus    Webroot
+webrootdns.net                                 #Antivirus    Webroot
+webrootmobile.com                              #Antivirus    Webroot
+webrootmultiplatform.com                       #Antivirus    Webroot
+
+ccleanerbrowser.com                            #Browser - Ccleaner
+orbitum.com                                    #Browser - Orbitum
+uc.cn                                          #Browser - UC
+ucweb.com                                      #Browser - UC
+
+ad-blocker.org                                 #Browser Extension
+adblock.fr                                     #Browser Extension
+adgone.org                                     #Browser Extension
+adzero.org                                     #Browser Extension
+bleengo.com                                    #Browser Extension
+getadblock.com                                 #Browser Extension
+gingersoftware.com                             #Browser Extension
+vid-adblocker.com                              #Browser Extension
+video-adblock.com                              #Browser Extension
+
+
+curtivendi.com.br                              #Cash Back
+ebates.com                                     #Cash Back
+ecbsn.com                                      #Cash Back (Ebates)
+rakuten.com                                    #Cash Back
+shopbackau.zendesk.com                         #Cash Back
+shopback.com.au                                #Cash Back
+shopback.com                                   #Cash Back
+shopback.my                                    #Cash Back
+shopbacksg2.zendesk.com                        #Cash Back
+shopback.sg                                    #Cash Back
+
+chatrandom.com                                 #Chatroom - Talk to random people
+chatspin.com                                   #Chatroom - Talk to random people
+omegle.com                                     #Chatroom - Talk to random people
+
+befrugal.com                                   #Coupons
+coupons.com                                    #Coupons
+cpnscdn.com                                    #Coupons
+finosfin.com                                   #Coupons
+hizonetech.com                                 #Coupons
+shopathome.com                                 #Coupons
+steamloto.org                                  #Coupons
+
+pch.com                                        #Prizes / Giveaways
+thedailywinnings.com                           #Prizes / Giveaways
+
+harpquiz.com                                   #Quiz
+magiquiz.com                                   #Quiz
+
+panopto.com                                    #Screen Recorder
+screencastify.com                              #Screen Recorder
+techsmith.com                                  #Screen Recorder
+
+cdntip.com                                     #Company - Shenzhen Tencent Computer Systems
+cdntips.net                                    #Company - Shenzhen Tencent Computer Systems
+tencent.com                                    #Company - Shenzhen Tencent Computer Systems
+
+account-tiktok.com                             #TikTok
+amemv.com                                      #TikTok
+artistxpress.org                               #TikTok
+beyondthetrends-ca-tiktok.com                  #TikTok
+brightbeat.net                                 #TikTok
+bytecdn.cn                                     #TikTok
+bytedanceapi.com                               #TikTok
+bytedance.com                                  #TikTok
+bytedance.net                                  #TikTok
+bytedns.net                                    #TikTok
+byted.org                                      #TikTok
+byte-edge.org                                  #TikTok
+byteeffecttos-g.com                            #TikTok
+byteicdn.com                                   #TikTok
+byteigtm.com                                   #TikTok
+byteimg.com                                    #TikTok
+byteoversea.com                                #TikTok
+byteoversea.net                                #TikTok
+bytetcdn.com                                   #TikTok
+capcut.su                                      #TikTok
+discover-tiktok.com                            #TikTok
+douyin.com                                     #TikTok
+download-tiktok-video.com                      #TikTok
+dubaichambertiktokacademy.com                  #TikTok
+effecthouse.com                                #TikTok
+goofy-cdn.com                                  #TikTok
+helo-app.com                                   #TikTok
+helo.com                                       #TikTok
+helo.in                                        #TikTok
+hypstarcdn.com                                 #TikTok
+i18n-pglstatp.com                              #TikTok
+ibytedtos.com                                  #TikTok
+isnssdk.com                                    #TikTok
+krtiktokacademy.com                            #TikTok
+lemon8-app.com                                 #TikTok
+lemon8cdn.com                                  #TikTok
+letschat.com                                   #TikTok
+muscdn.com                                     #TikTok
+musical.ly                                     #TikTok
+mzfvozqybf.com                                 #TikTok
+p16-tiktokcdn-com.akamaized.net                #TikTok
+pangle-b.io                                    #TikTok
+pangleglobal.com                               #TikTok
+pangle.io                                      #TikTok
+pet8888.co.kr                                  #TikTok
+pictiktok.com                                  #TikTok
+piktiktok.com                                  #TikTok
+pitaya-clientai.com                            #TikTok
+projectevogame.com                             #TikTok
+qfyf1toi.com                                   #TikTok
+ressoforartist.com                             #TikTok
+ressoforartist.net                             #TikTok
+ressoforartists.com                            #TikTok
+ressoforartists.net                            #TikTok
+seasgames.com                                  #TikTok
+sgpstatp.com                                   #TikTok
+sgsnssdk.com                                   #TikTok
+sharee.com                                     #TikTok
+snk-allstarfight.com                           #TikTok
+solera-kyoto.com                               #TikTok
+sometiktok.com                                 #TikTok
+songshot.net                                   #TikTok
+tikitoks.com                                   #TikTok
+tiknok.com                                     #TikTok
+tikotok.com                                    #TikTok
+tiktokacademy.ru                               #TikTok
+tiktokadawardseurope.com                       #TikTok
+tiktokadawardssea.com                          #TikTok
+tik-tokapi.com                                 #TikTok
+tiktok-apis.com                                #TikTok
+tiktok-boe.com                                 #TikTok
+tiktokbusiness.ru                              #TikTok
+tiktokcdn.com                                  #TikTok
+tiktokcdn-eu.com                               #TikTok
+tiktokcdn-in.com                               #TikTok
+tiktokcdn-us.com                               #TikTok
+tiktok.com.c.footprint.net                     #TikTok
+tiktok.com                                     #TikTok
+tiktokcu.com                                   #TikTok
+tiktokfeed.com                                 #TikTok
+tiktokforartist.com                            #TikTok
+tiktokforartist.net                            #TikTok
+tiktokforartists.net                           #TikTok
+tiktokforbusinessoutbound.com                  #TikTok
+tiktokglobalshop-governance.com                #TikTok
+tiktokgram.com                                 #TikTok
+tiktokgym.com                                  #TikTok
+tiktokhi.com                                   #TikTok
+tiktokin.com                                   #TikTok
+tiktokinfo.in                                  #TikTok
+tiktok.in                                      #TikTok
+tiktokpartnersprogram.com                      #TikTok
+tiktokplay.com                                 #TikTok
+tiktokseaimpactforum.com                       #TikTok
+tiktok-smallbizblockparty.com                  #TikTok
+tiktoksmbacademy.com                           #TikTok
+tiktoksummit.ru                                #TikTok
+tiktoktag.com                                  #TikTok
+tiktoktik.com                                  #TikTok
+tiktokus.info                                  #TikTok
+tiktokv.com                                    #TikTok
+tiktokvid.com                                  #TikTok
+tik-tok-videos.com                             #TikTok
+tiktokview.com                                 #TikTok
+tiktokv.us                                     #TikTok
+tiktokw.us                                     #TikTok
+tikvid.com                                     #TikTok
+tikvok.com                                     #TikTok
+tivtok.com                                     #TikTok
+topbuzz.com                                    #TikTok
+ttbuzz.com                                     #TikTok
+ttlivecdn.com                                  #TikTok
+ttwstatic.com                                  #TikTok
+v16-tiktokcdn-com.akamaized.net                #TikTok
+visactor.io                                    #TikTok
+vocata.net                                     #TikTok
+xtopbuzz.com                                   #TikTok
+xzcs3zlph.com                                  #TikTok
+yourbytematch.com                              #TikTok
+
+admuncher.com                                  #Software - AdMuncher
+appsgeyser.com                                 #Software - AppsGeyser  (App Creator)
+asusappnw.com                                  #Software - Asus (MyASUS Service Center)
+curseapp.net                                   #Software - Curse  (In-Game Voice Chat)
+glarysoft.com                                  #Software - Glary Utilities
+iolo.com                                       #Software - Iolo (System Mechanic)
+iolo.net                                       #Software - Iolo (System Mechanic)
+magix.com                                      #Software - Maxig (System Optimizer)
+simplitec.com                                  #Software - Maxig (System Optimizer)
+movavi.com                                     #Software - Movavi (Says not activated with legit key / Does not show in program list)
+movavi.de                                      #Software - Movavi (Says not activated with legit key / Does not show in program list)
+movavi.id                                      #Software - Movavi (Says not activated with legit key / Does not show in program list)
+duapp.com                                      #Software - Nox (Android Emulator)
+appexnw.com                                    #Software - Pokki (Start Menu)
+pokki.com                                      #Software - Pokki (Start Menu)
+pokkinw.com                                    #Software - Pokki (Start Menu)
+real.com                                       #Software - RealPlayer
+quickconnect.to                                #Software - Synology QuickConnect (Cloud Storage)
+weatherbug.com                                 #Software - Weatherbug
+weatherbug.net                                 #Software - Weatherbug
+remotewd.com                                   #Software - Western Digital (Cloud Storage)
+wdtest8.com                                    #Software - Western Digital (Cloud Storage)
+ampsvc.com                                     #Software - WildTangent Games
+winzip.com                                     #Software - Winzip
+kingsoft-office-service.com                    #Software - WPS Office
+kingsoftstore.com                              #Software - WPS Office
+versiontracker.com                             #Software - WPS Office
+wps.cn                                         #Software - WPS Office
+wps.com                                        #Software - WPS Office
+
+zoho.com                                       #Cloud Based Software - Zoho
+zohowebstatic.com                              #Cloud Based Software - Zoho
+
+ebaumsworld.com                                #Website - eBaum's World (Contains adult content)
+scrolller.com                                  #Website - Scroller (Contains NSFW iamge section)
+mystart.incredimail.com                        #Website - Incredimail (Browser Homepage Hijack)
+rt.com                                         #Website - RT (News site, operated by Russian Gov.)
+vidmo.org                                      #Website - Vidmo (Contains adult videos)
+
+angellrackets.com                              #Website Builder
+bitballoon.com                                 #Website Builder
+bravesites.com                                 #Website Builder
+cabanova.com                                   #Website Builder
+cabanova.fr                                    #Website Builder
+citymax.com                                    #Website Builder
+clan.su                                        #Website Builder
+cloversites.com                                #Website Builder
+doodlekit.com                                  #Website Builder
+droppages.com                                  #Website Builder
+framer.website                                 #Website Builder
+getshogun-cache-production.s3.amazonaws.com    #Website Builder
+homeworkgenerator.co.uk                        #Website Builder
+hypermart.net                                  #Website Builder
+jigsy.com                                      #Website Builder
+masterweb.id                                   #Website Builder
+moonfruit.com                                  #Website Builder
+mystrikingly.com                               #Website Builder
+netfirms.com                                   #Website Builder
+ning.com                                       #Website Builder
+strikingly.com                                 #Website Builder
+ucraft.me                                      #Website Builder
+ukit.me                                        #Website Builder
+univer.se                                      #Website Builder
+urest.org                                      #Website Builder
+wapka.mobi                                     #Website Builder
+webador.com                                    #Website Builder
+webeden.co.uk                                  #Website Builder
+webme.com                                      #Website Builder
+webydo.com                                     #Website Builder
+xtgem.com                                      #Website Builder
+zohosites.com                                  #Website Builder
+
+lycos.com                                      #Search Engine - Links to malware
+
+sogou.com                                      #Search Engine [China]
+soso.com                                       #Search Engine [China]
+so.com                                         #Search Engine [French]
+gncia.fr                                       #Search Engine [French]
+francite.com                                   #Search Engine [French]
+lilo.org                                       #Search Engine [French]
+uselilo.org                                    #Search Engine [French]
+yandex.net                                     #Search Engine [Russian]
+naver.com                                      #Search Engine [South Korea]
+ask-tb.com                                     #Search Engine - Ask (Toolbar
+ask.com                                        #Search Engine - Ask
+search.comodo.com                              #Search Engine - Comodo
+search.com                                     #Search Engine - CBS
+cliqz.com                                      #Search Engine - Cliqz
+search.juno.com                                #Search Engine - Juno
+search.yahoo.com                               #Search Engine - Yahoo
+search.yahoo.net                               #Search Engine - Yahoo
+copernicus-software.stores.yahoo.net           #Search Engine - Yahoo
+
+hi5.com                                        #Social Media (Contains Adult Sites)
+
+mediaconverteronline.com                       #Video Converter
+
+downloadaccelerator.com                        #Video Downloader
+savetubevideo.com                              #Video Downloader
+snappea.com                                    #Video Downloader
+
+areyourinlove.com                              #Enter Phone Number for answer
+
+emojirequest.com                               #Sign in with facebook to recieve
