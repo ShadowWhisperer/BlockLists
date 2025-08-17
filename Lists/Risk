@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 215
-# Updated: 8/17/2025  10:37 (10:37 AM CST)
+# Domains: 214
+# Updated: 8/17/2025  10:43 (10:43 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -29,7 +29,6 @@ charter.net                                      #ISP    Worst  Botnet   Nov 202
 chinamobile.com                                  #ISP    Worst  Botnet   Nov 2020
 ntl.com                                          #ISP    Worst  Botnet   Nov 2020
 rr.com                                           #ISP    Worst  Botnet   Nov 2020
-
 airtel.in                                        #ISP    Worst  Spam     Feb 2019
 kornet.net                                       #ISP    Worst  Spam     Oct 2019
 moldtelecom.md                                   #ISP    Worst  Spam     Oct 2019
@@ -91,13 +90,13 @@ cocospy.com                                      #Computer / Phone
 cerberusapp.com                                  #Phone
 devicetrackerplus.com                            #Phone
 eyezy.com                                        #Phone
+mspy.de                                          #Phone
 spy24.app                                        #Phone
 spyfone.com                                      #Phone
 spyhuman.com                                     #Phone
 spyine.com                                       #Phone
 spymasterpro.com                                 #Phone
 spyzie.io                                        #Phone
-mspy.de                                          #Phone Tracking
 sharemyinsight.com                               #Customer Monitoring *Not likely user side
 
 
@@ -107,7 +106,6 @@ sharemyinsight.com                               #Customer Monitoring *Not likel
 lolz.guru                                        #Forum
 lolz.live                                        #Forum
 
-cdn.snipr.gg                                     #Tool: Credential Stuffing Toolkit
 snipr.gg                                         #Tool: Credential Stuffing Toolkit
 actualkeylogger.com                              #Tool: Keylogger
 ardamax.com                                      #Tool: Keylogger
@@ -210,7 +208,7 @@ teste.website                                    #Web Host [HostGator] Known to 
 
 
 ###########################################################################################
-#  Internet Sharing (Use your as a proxy)
+#  Internet Sharing (Use you as a proxy)
 ###########################################################################################
 ariesbee.com                                     #HoneyGain - Make money by sharing your Internet
 aurigabee.xyz                                    #HoneyGain - Make money by sharing your Internet

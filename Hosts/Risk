@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 215
-# Updated: 8/17/2025  10:37 (10:37 AM CST)
+# Domains: 214
+# Updated: 8/17/2025  10:43 (10:43 AM CST)
 #
 0.0.0.0 tedata.net
 0.0.0.0 te.eg
@@ -73,17 +73,16 @@
 0.0.0.0 cerberusapp.com
 0.0.0.0 devicetrackerplus.com
 0.0.0.0 eyezy.com
+0.0.0.0 mspy.de
 0.0.0.0 spy24.app
 0.0.0.0 spyfone.com
 0.0.0.0 spyhuman.com
 0.0.0.0 spyine.com
 0.0.0.0 spymasterpro.com
 0.0.0.0 spyzie.io
-0.0.0.0 mspy.de
 0.0.0.0 sharemyinsight.com
 0.0.0.0 lolz.guru
 0.0.0.0 lolz.live
-0.0.0.0 cdn.snipr.gg
 0.0.0.0 snipr.gg
 0.0.0.0 actualkeylogger.com
 0.0.0.0 ardamax.com
