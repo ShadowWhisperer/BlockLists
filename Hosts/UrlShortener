@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,702
-# Updated: 8/15/2025  16:00 (4:00 PM CST)
+# Domains: 4,704
+# Updated: 8/17/2025  10:37 (10:37 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -2093,6 +2093,7 @@
 0.0.0.0 linkclickcounter.com
 0.0.0.0 linkcloaker.pro
 0.0.0.0 linkcrypter.com
+0.0.0.0 link-cut.com
 0.0.0.0 linkcutt.com
 0.0.0.0 link.devit.group
 0.0.0.0 link.digipull.in
@@ -4121,6 +4122,7 @@
 0.0.0.0 urlgit.com
 0.0.0.0 urlhum.com
 0.0.0.0 url.ie
+0.0.0.0 urli.info
 0.0.0.0 ur.link
 0.0.0.0 urlinko.com
 0.0.0.0 urlinks.cc
