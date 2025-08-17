@@ -29,9 +29,8 @@
 
 This repository was made public in Feb of 2020.  All domains are from custom scripts and/or manual additions.  
 
-```diff
-- Notice
-  Due to increasing scams, all generic remote support domains will be added to the Malware list, unless proven safe.  
+> [!IMPORTANT]
+> Due to increasing scams, all generic remote support domains will be added to the Malware list, unless proven safe.  
 ```
 
 ## Usage Notes
