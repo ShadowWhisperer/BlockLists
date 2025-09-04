@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 283
-# Updated: 8/8/2025  15:44 (3:44 PM CST)
+# Domains: 284
+# Updated: 9/4/2025  10:30 (10:30 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -268,6 +268,7 @@ masterweb.id                                   #Website Builder
 moonfruit.com                                  #Website Builder
 mystrikingly.com                               #Website Builder
 netfirms.com                                   #Website Builder
+nicepage.io                                    #Website Builder
 ning.com                                       #Website Builder
 strikingly.com                                 #Website Builder
 ucraft.me                                      #Website Builder
