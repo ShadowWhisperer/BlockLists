@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 119,541
-# Updated: 9/4/2025  22:16 (10:16 PM CST)
+# Updated: 9/4/2025  22:37 (10:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -109156,6 +109156,7 @@ tellnsearch.com
 tellofy.com
 tellus.hr
 tellyou.info
+tel.malwarebytes.com
 telmetrics.com
 telogical.com
 telogicalsystems.com
@@ -111645,7 +111646,6 @@ track.savetube.me
 track.schlaffabrik.com
 track.schoenenhandekyn.be
 track.se0a.top
-track.seadform.net
 track.searchopticsreporting.com
 track.securedopen-bp.com
 track.securedopen-cx.com
