@@ -1,8 +1,8 @@
 #
 #    File: Dynamic
 #    Info: Dynamic DNS
-# Domains: 1,451
-# Updated: 9/8/2025  17:42 (5:42 PM CST)
+# Domains: 1,454
+# Updated: 9/11/2025  18:04 (6:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -954,6 +954,8 @@ myddns.com
 myddns.me
 myddns.rocks
 mydissent.net
+mydns.bz
+mydns.jp
 myeffect.net
 myfritz.net
 myftp.biz
@@ -1315,6 +1317,7 @@ sytes.net
 tallison.com
 tamaragibson.com
 tantrum.org
+tcp4.me
 tdkare.ru
 teaches-yoga.com
 technopagans.com
