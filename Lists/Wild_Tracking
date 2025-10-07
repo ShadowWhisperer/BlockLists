@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,311
-# Updated: 10/7/2025  14:52 (2:52 PM CST)
+# Domains: 16,313
+# Updated: 10/7/2025  18:47 (6:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -446,6 +446,7 @@ adnxtr.com
 adnymics.com
 adobedc.net
 adobedtm.com
+adobeoobe.com
 adobestats.io
 adobetag.com
 adomic.com
@@ -3730,6 +3731,7 @@ erfrischtestracking.ch
 erraticreaction.com
 errlog.io
 errorception.com
+error.reg.pf-d.ca
 errortrace.dev
 ersaltametrics.com
 eruditeanalytics.com
