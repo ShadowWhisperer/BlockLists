@@ -305,6 +305,7 @@ apikeys.clients6.google.com                      #Google   Cloud - API Keys
 cloudconsole-pa.clients6.google.com              #Google   Cloud - Breaks search bar
 cloud.google.com                                 #Google   Cloud - Breaks 'Terms of Service'
 cloudusersettings-pa.clients6.google.com         #Google   Cloud - Breaks 'website
+signaler-pa.googleapis.com                       #Google   Drive - Activity Status
 encrypted-tbn0.gstatic.com                       #Google   Images
 encrypted-tbn1.gstatic.com                       #Google   Images
 encrypted-tbn2.gstatic.com                       #Google   Images

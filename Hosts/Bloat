@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 677
-# Updated: 9/24/2025  00:25 (12:25 AM CST)
+# Domains: 676
+# Updated: 10/7/2025  10:21 (10:21 AM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -448,7 +448,6 @@
 0.0.0.0 script.googleusercontent.com
 0.0.0.0 securitydomain-pa.googleapis.com
 0.0.0.0 services.google.com
-0.0.0.0 signaler-pa.googleapis.com
 0.0.0.0 subscriptionssettings-pa.googleapis.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 sustainability.google

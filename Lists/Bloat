@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 677
-# Updated: 9/24/2025  00:25 (12:25 AM CST)
+# Domains: 676
+# Updated: 10/7/2025  10:21 (10:21 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -467,7 +467,6 @@ script.google.com                                       #Google
 script.googleusercontent.com                            #Google
 securitydomain-pa.googleapis.com                        #Google
 services.google.com                                     #Google
-signaler-pa.googleapis.com                              #Google
 subscriptionssettings-pa.googleapis.com                 #Google
 suggestqueries.google.com                               #Google
 sustainability.google                                   #Google
