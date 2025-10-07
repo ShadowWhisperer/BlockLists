@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,306
-# Updated: 10/7/2025  10:21 (10:21 AM CST)
+# Domains: 16,311
+# Updated: 10/7/2025  14:52 (2:52 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -71,6 +71,8 @@
 24log.it
 24log.ru
 24metrics.com
+24proweb.com
+24trckweb.com
 250analytics.com
 254a.com
 2-aclk.net
@@ -454,6 +456,7 @@ adorableanger.com
 adorableattention.com
 adp13a.com
 adpatrof.com
+ad-portal.pl
 adpredictive.com
 adpredictive.io
 adpxl.co
@@ -3374,6 +3377,7 @@ dsaa.co
 dsa-analytics.de
 dscallards.com
 dsfgnt7svtrk.com
+dshopboard.pl
 dsmstats.com
 dsp.io
 dstillery.com
@@ -13693,6 +13697,7 @@ snoobi-technology.com
 snoovetrk.com
 snoresmile.com
 snowads.net
+snowdrop.asia
 snowflake-analytics.com
 snowplowanalytics.com
 snowplow.io

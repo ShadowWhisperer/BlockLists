@@ -187,9 +187,6 @@ static.vsco.co                                     #Vsco
 # Other
 #####################################################
 lm.licenses.adobe.com                                #Adobe - Activate Software
-p13n.adobe.io                                        #Adobe - MS Teams Integration
-sp.auth.adobe.com                                    #Adobe - Login Sites
-swupmf.adobe.com                                     #Adobe - Updates
 cctypekit.adobe.io                                   #Adobe - Breaks uploads (Website)
 rdc.adobe.io                                         #Adobe - Breaks advanced download (Website)
 aps-web.adobe.io                                     #Adobe - Breaks my apps list (Website)
@@ -197,6 +194,11 @@ ffc-static-cdn.oobesaas.adobe.com                    #Adobe - Breaks my apps lis
 pdfnow.adobe.io                                      #Adobe - Convert PDF to Docx
 prod.adobeccstatic.com                               #Adobe - Convert PDF to Docx
 ccmdl.adobe.com                                      #Adobe - Creative Cloud (Downloads)
+cchome.adobe.io                                      #Adobe - Creative Cloud (Downloads)
+resources.licenses.adobe.com                         #Adobe - Creative Cloud login / download
+sp.auth.adobe.com                                    #Adobe - Login Sites
+p13n.adobe.io                                        #Adobe - MS Teams Integration
+swupmf.adobe.com                                     #Adobe - Updates
 ae01.alicdn.com                                      #AliExpress - Images
 appleid.apple.com.akadns.net                        #Apple   App Store (Login)
 appleid.cdn-apple.com                               #Apple   App Store (Login)
@@ -306,6 +308,7 @@ cloudconsole-pa.clients6.google.com              #Google   Cloud - Breaks search
 cloud.google.com                                 #Google   Cloud - Breaks 'Terms of Service'
 cloudusersettings-pa.clients6.google.com         #Google   Cloud - Breaks 'website
 signaler-pa.googleapis.com                       #Google   Drive - Activity Status
+ipv4.google.com                                  #Google   Drive - Download Link
 encrypted-tbn0.gstatic.com                       #Google   Images
 encrypted-tbn1.gstatic.com                       #Google   Images
 encrypted-tbn2.gstatic.com                       #Google   Images
