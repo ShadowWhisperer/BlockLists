@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 545
-# Updated: 8/11/2025  17:56 (5:56 PM CST)
+# Domains: 580
+# Updated: 10/7/2025  22:36 (10:36 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -292,11 +292,13 @@ c1h-onenote-15.cdn.office.net                           # ? Office
 c1h-word-edit-15.cdn.office.net                         # ? Office
 c1-officeapps-15.cdn.office.net                         # ? Office
 cdn.fluidpreview.office.net                             # ? Office
+checkout.office.com                                     # ? Office
 collabrtc.officeapps.live.com                           # ? Office
 common.online.office.com                                # ? Office
 config.officeapps.live.com                              # ? Office
 consent.config.office.com                               # ? Office
 content.lifecycle.office.net                            # ? Office
+cxcs.cdn.office.net                                     # ? Office
 cys-efz.ms-acdc.office.com                              # ? Office
 enrichment.osi.office.net                               # ? Office
 f-0001.f-msedge.net                                     # ? Office
@@ -306,9 +308,11 @@ gtm-dyn-direct.office365.com                            # ? Office
 loki.delve.office.com                                   # ? Office
 lpcres.delve.office.com                                 # ? Office
 lyh-efz.ms-acdc.office.com                              # ? Office
+messaging.action.office.com                             # ? Office
 messaging.lifecycle.office.com                          # ? Office
 messaging.office.com                                    # ? Office
 modernb.akamai.odsp.cdn.office.net                      # ? Office
+nam-cosmic.loki.delve.office.com                        # ? Office
 nam.loki.delve.office.com                               # ? Office
 nleditor.osi.office.net                                 # ? Office
 oauth.online.office.com                                 # ? Office
@@ -324,6 +328,7 @@ onmicrosoft.com                                         # ? Office - 365
 ooc-g2.tm-4.office.com                                  # ? Office
 outlook-1.cdn.office.net                                # ? Office
 outlook-2.cdn.office.net                                # ? Office
+outlook-sdf.office.com                                  # ? Office
 pages.store.office.com                                  # ? Office
 pptsgs.officeapps.live.com                              # ? Office
 prod-setupoffice.omexexternallfb.office.net.akadns.net  # ? Office
@@ -341,6 +346,10 @@ shredder-us.osi.office.net                              # ? Office
 sjc-efz.ms-acdc.office.com                              # ? Office
 sus1-onenote.officeapps.live.com                        # ? Office
 thor.aesir.office.com                                   # ? Office
+tr-tmc-afdmira.office.com                               # ? Office
+tr-tmc-afd.office.com                                   # ? Office
+tr-tmc-geo.office.com                                   # ? Office
+tr-tmc-mira.office.com                                  # ? Office
 uci.cdn.office.net                                      # ? Office
 uci.edog.cdn.office.net                                 # ? Office
 us7-excel-collab.officeapps.live.com                    # ? Office
@@ -350,6 +359,7 @@ videoplayercdn.osi.office.net                           # ? Office
 waconatm.officeapps.live.com                            # ? Office
 webshell.suite.office.com                               # ? Office
 wise.public.cdn.office.net                              # ? Office
+wwdb.webshell.suite.office.com                          # ? Office
 yyz-efz.ms-acdc.office.com                              # ? Office
 
 contacts.msn.com                               # ? Hotmail / Outlook - Contacts
@@ -395,12 +405,16 @@ admin-mcas-gov.us
 agent.rooms.microsoft.com
 aiinfrastructure.static.microsoft
 aks-prod-eastus.access-point.cloudmessaging.edge.microsoft.com
+aks-prod-westus2.access-point.cloudmessaging.edge.microsoft.com
 amcdn.msftauth.net
 api.cdp.microsoft.com
+api-edge.cognitive.microsofttranslator.com
 api.myaccount.microsoft.com
 api.mysignins.microsoft.com
+api-usea-skyman-v10.microsofttranslator.com
 apsaiservices.microsoft.com
 augloop.svc.cloud.microsoft
+autologon.microsoftazuread-sso.com
 az158878.vo.msecnd.net
 az361816.vo.msecnd.net
 az413505.vo.msecnd.net
@@ -412,7 +426,9 @@ bingviz.com
 bn2-client-s.gateway.messenger.live.com
 cass.api.microsoft.com
 ccs-pe-us1.cloudapp.net
+cdn.storeedgefd.dsx.mp.microsoft.com
 cdn.techcommunity.microsoft.com
+cdn.winget.microsoft.com
 cds26.ams9.msecn.net
 cggameszone.cloudapp.net
 choice.microsoft.com
@@ -426,10 +442,14 @@ club.live.com
 co2.sls.microsoft.com
 compatexchange.cloudapp.net
 concierge.live.com
+config.svc.cloud.microsoft
 connect.microsoft.com
 contoso.com
 corpext.msitadfs.glbdns2.microsoft.com
 corp.sts.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
+cp801.prod.do.dsp.mp.microsoft.com
 crl.microsoft.com
 cs1.wpc.v0cdn.net
 c-s.cms.ms.akadns.net
@@ -437,8 +457,10 @@ csp.microsoft.com
 df.cfp.microsoft.com
 dgps-eus2.cloudapp.net
 directory.services.live.com
+disc801.prod.do.dsp.mp.microsoft.com
 dispatch.kahuna.glbdns2.microsoft.com
 dmd.metaservices.microsoft.com
+eagle.sapphire.microsoftapp.net
 ecn-us.dev.virtualearth.net
 edgeassetservice.azureedge.net
 edgebooks.rec.mp.microsoft.com
@@ -461,6 +483,7 @@ groups.photos.microsoft.com
 gsa.view.api.account.microsoft.com
 i1.services.social.microsoft.com
 i2-technet.sec.s-msft.com
+idmapper.microsoftcasualgames.com
 ie9comview.vo.msecnd.net
 ieonline.microsoft.com
 ieonlinews.microsoft.com
@@ -468,11 +491,13 @@ img.stb.s-msn.com
 imvendorportal.com
 inputsuggestions.msdxcdn.microsoft.com
 insiderppe.cloudapp.net
+insideruser.microsoft.com
 internetexplorer.com
 ipv4.login.msa.akadns6.net
 iriscoremetadataprod.blob.core.windows.net
 i.s-microsoft.com
 jcmsfd.account.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
 lb1.www.ms.akadns.net
 lgincdnvzeuno.azureedge.net
 licensingphone.mp.microsoft.com
@@ -502,14 +527,18 @@ msegceporticoprodassets.blob.core.windows.net
 mydefender.microsoft.com
 myhomemsn.com
 mysecurity.microsoft.com
+notification.m365.svc.cloud.microsoft
+ntc-keyid-b6eaa11f201ff74ed4f2510e15bf2e3884dc4055.microsoftaik.azure.net
 oaspapps.com
 offerservicefallback.blob.core.windows.net
+offline.microsofttranslator.com
 oloobe-prod-cdn-storage.azureedge.net
 onerm.olsvc.com
 optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
 otelrules.svc.static.microsoft
+outlook.cloud.microsoft
 outlook-exo.trafficmanager.net
 packages.dmd.metaservices.microsoft.com
 passport.net
@@ -522,6 +551,7 @@ p.pfx.ms
 prod0-api.acompli.net
 prod-api.acompli.net
 prod-api-community.windows.com
+prod.autodetect.outlook.cloud.microsoft
 prod-azurecdn-akamai-iris.azureedge.net
 prod.blob.core.windows.net
 prod.c2rsetup.microsoft.com.akadns.net
@@ -534,6 +564,7 @@ products.support.services.microsoft.com
 prod-westus2.access-point.cloudmessaging.edge.microsoft.com
 ps.azurewaf.microsoft.com
 rarewaves.blob.core.windows.net
+recent.svc.cloud.microsoft
 redir1.cloudapp.net
 res-4.public.onecdn.static.microsoft
 res.df.onecdn.static.microsoft
@@ -562,7 +593,10 @@ static.edge.microsoftapp.net
 statics-marketingsites-neu-ms-com.akamaized.net
 static-spartan-eus-s-msn-com.akamaized.net
 staticview.msn.com
+stm-keyid-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net
 storesdk.dsx.mp.microsoft.com
+subs-paynow.msdxcdn.microsoft.com
+subs-paynow.msdx.microsoft.com
 sup.directory.live.com
 svmstrgprodus.blob.core.windows.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -586,6 +620,7 @@ wer.microsoft.com
 wfbdevicemanagement
 winatp-gw-cus.microsoft.com
 wip.mam.manage.microsoft.com
+wise-backup.public.onecdn.static.microsoft
 woodgrovebank.com
 wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 wus-streaming-video-rt-microsoft-com.akamaized.net

@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 545
-# Updated: 8/11/2025  17:56 (5:56 PM CST)
+# Domains: 580
+# Updated: 10/7/2025  22:36 (10:36 PM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -264,11 +264,13 @@
 0.0.0.0 c1h-word-edit-15.cdn.office.net
 0.0.0.0 c1-officeapps-15.cdn.office.net
 0.0.0.0 cdn.fluidpreview.office.net
+0.0.0.0 checkout.office.com
 0.0.0.0 collabrtc.officeapps.live.com
 0.0.0.0 common.online.office.com
 0.0.0.0 config.officeapps.live.com
 0.0.0.0 consent.config.office.com
 0.0.0.0 content.lifecycle.office.net
+0.0.0.0 cxcs.cdn.office.net
 0.0.0.0 cys-efz.ms-acdc.office.com
 0.0.0.0 enrichment.osi.office.net
 0.0.0.0 f-0001.f-msedge.net
@@ -278,9 +280,11 @@
 0.0.0.0 loki.delve.office.com
 0.0.0.0 lpcres.delve.office.com
 0.0.0.0 lyh-efz.ms-acdc.office.com
+0.0.0.0 messaging.action.office.com
 0.0.0.0 messaging.lifecycle.office.com
 0.0.0.0 messaging.office.com
 0.0.0.0 modernb.akamai.odsp.cdn.office.net
+0.0.0.0 nam-cosmic.loki.delve.office.com
 0.0.0.0 nam.loki.delve.office.com
 0.0.0.0 nleditor.osi.office.net
 0.0.0.0 oauth.online.office.com
@@ -296,6 +300,7 @@
 0.0.0.0 ooc-g2.tm-4.office.com
 0.0.0.0 outlook-1.cdn.office.net
 0.0.0.0 outlook-2.cdn.office.net
+0.0.0.0 outlook-sdf.office.com
 0.0.0.0 pages.store.office.com
 0.0.0.0 pptsgs.officeapps.live.com
 0.0.0.0 prod-setupoffice.omexexternallfb.office.net.akadns.net
@@ -313,6 +318,10 @@
 0.0.0.0 sjc-efz.ms-acdc.office.com
 0.0.0.0 sus1-onenote.officeapps.live.com
 0.0.0.0 thor.aesir.office.com
+0.0.0.0 tr-tmc-afdmira.office.com
+0.0.0.0 tr-tmc-afd.office.com
+0.0.0.0 tr-tmc-geo.office.com
+0.0.0.0 tr-tmc-mira.office.com
 0.0.0.0 uci.cdn.office.net
 0.0.0.0 uci.edog.cdn.office.net
 0.0.0.0 us7-excel-collab.officeapps.live.com
@@ -322,6 +331,7 @@
 0.0.0.0 waconatm.officeapps.live.com
 0.0.0.0 webshell.suite.office.com
 0.0.0.0 wise.public.cdn.office.net
+0.0.0.0 wwdb.webshell.suite.office.com
 0.0.0.0 yyz-efz.ms-acdc.office.com
 0.0.0.0 contacts.msn.com
 0.0.0.0 rdr.contacts.msn.com
@@ -355,12 +365,16 @@
 0.0.0.0 agent.rooms.microsoft.com
 0.0.0.0 aiinfrastructure.static.microsoft
 0.0.0.0 aks-prod-eastus.access-point.cloudmessaging.edge.microsoft.com
+0.0.0.0 aks-prod-westus2.access-point.cloudmessaging.edge.microsoft.com
 0.0.0.0 amcdn.msftauth.net
 0.0.0.0 api.cdp.microsoft.com
+0.0.0.0 api-edge.cognitive.microsofttranslator.com
 0.0.0.0 api.myaccount.microsoft.com
 0.0.0.0 api.mysignins.microsoft.com
+0.0.0.0 api-usea-skyman-v10.microsofttranslator.com
 0.0.0.0 apsaiservices.microsoft.com
 0.0.0.0 augloop.svc.cloud.microsoft
+0.0.0.0 autologon.microsoftazuread-sso.com
 0.0.0.0 az158878.vo.msecnd.net
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az413505.vo.msecnd.net
@@ -372,7 +386,9 @@
 0.0.0.0 bn2-client-s.gateway.messenger.live.com
 0.0.0.0 cass.api.microsoft.com
 0.0.0.0 ccs-pe-us1.cloudapp.net
+0.0.0.0 cdn.storeedgefd.dsx.mp.microsoft.com
 0.0.0.0 cdn.techcommunity.microsoft.com
+0.0.0.0 cdn.winget.microsoft.com
 0.0.0.0 cds26.ams9.msecn.net
 0.0.0.0 cggameszone.cloudapp.net
 0.0.0.0 choice.microsoft.com
@@ -386,10 +402,14 @@
 0.0.0.0 co2.sls.microsoft.com
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 concierge.live.com
+0.0.0.0 config.svc.cloud.microsoft
 0.0.0.0 connect.microsoft.com
 0.0.0.0 contoso.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 corp.sts.microsoft.com
+0.0.0.0 cp501.prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 cp801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 crl.microsoft.com
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 c-s.cms.ms.akadns.net
@@ -397,8 +417,10 @@
 0.0.0.0 df.cfp.microsoft.com
 0.0.0.0 dgps-eus2.cloudapp.net
 0.0.0.0 directory.services.live.com
+0.0.0.0 disc801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 dispatch.kahuna.glbdns2.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 eagle.sapphire.microsoftapp.net
 0.0.0.0 ecn-us.dev.virtualearth.net
 0.0.0.0 edgeassetservice.azureedge.net
 0.0.0.0 edgebooks.rec.mp.microsoft.com
@@ -421,6 +443,7 @@
 0.0.0.0 gsa.view.api.account.microsoft.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i2-technet.sec.s-msft.com
+0.0.0.0 idmapper.microsoftcasualgames.com
 0.0.0.0 ie9comview.vo.msecnd.net
 0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
@@ -428,11 +451,13 @@
 0.0.0.0 imvendorportal.com
 0.0.0.0 inputsuggestions.msdxcdn.microsoft.com
 0.0.0.0 insiderppe.cloudapp.net
+0.0.0.0 insideruser.microsoft.com
 0.0.0.0 internetexplorer.com
 0.0.0.0 ipv4.login.msa.akadns6.net
 0.0.0.0 iriscoremetadataprod.blob.core.windows.net
 0.0.0.0 i.s-microsoft.com
 0.0.0.0 jcmsfd.account.microsoft.com
+0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 lgincdnvzeuno.azureedge.net
 0.0.0.0 licensingphone.mp.microsoft.com
@@ -462,14 +487,18 @@
 0.0.0.0 mydefender.microsoft.com
 0.0.0.0 myhomemsn.com
 0.0.0.0 mysecurity.microsoft.com
+0.0.0.0 notification.m365.svc.cloud.microsoft
+0.0.0.0 ntc-keyid-b6eaa11f201ff74ed4f2510e15bf2e3884dc4055.microsoftaik.azure.net
 0.0.0.0 oaspapps.com
 0.0.0.0 offerservicefallback.blob.core.windows.net
+0.0.0.0 offline.microsofttranslator.com
 0.0.0.0 oloobe-prod-cdn-storage.azureedge.net
 0.0.0.0 onerm.olsvc.com
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 0.0.0.0 osizpcusmagenta001.blob.core.windows.net
 0.0.0.0 otelrules.svc.static.microsoft
+0.0.0.0 outlook.cloud.microsoft
 0.0.0.0 outlook-exo.trafficmanager.net
 0.0.0.0 packages.dmd.metaservices.microsoft.com
 0.0.0.0 passport.net
@@ -482,6 +511,7 @@
 0.0.0.0 prod0-api.acompli.net
 0.0.0.0 prod-api.acompli.net
 0.0.0.0 prod-api-community.windows.com
+0.0.0.0 prod.autodetect.outlook.cloud.microsoft
 0.0.0.0 prod-azurecdn-akamai-iris.azureedge.net
 0.0.0.0 prod.blob.core.windows.net
 0.0.0.0 prod.c2rsetup.microsoft.com.akadns.net
@@ -494,6 +524,7 @@
 0.0.0.0 prod-westus2.access-point.cloudmessaging.edge.microsoft.com
 0.0.0.0 ps.azurewaf.microsoft.com
 0.0.0.0 rarewaves.blob.core.windows.net
+0.0.0.0 recent.svc.cloud.microsoft
 0.0.0.0 redir1.cloudapp.net
 0.0.0.0 res-4.public.onecdn.static.microsoft
 0.0.0.0 res.df.onecdn.static.microsoft
@@ -522,7 +553,10 @@
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 static-spartan-eus-s-msn-com.akamaized.net
 0.0.0.0 staticview.msn.com
+0.0.0.0 stm-keyid-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net
 0.0.0.0 storesdk.dsx.mp.microsoft.com
+0.0.0.0 subs-paynow.msdxcdn.microsoft.com
+0.0.0.0 subs-paynow.msdx.microsoft.com
 0.0.0.0 sup.directory.live.com
 0.0.0.0 svmstrgprodus.blob.core.windows.net
 0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
@@ -546,6 +580,7 @@
 0.0.0.0 wfbdevicemanagement
 0.0.0.0 winatp-gw-cus.microsoft.com
 0.0.0.0 wip.mam.manage.microsoft.com
+0.0.0.0 wise-backup.public.onecdn.static.microsoft
 0.0.0.0 woodgrovebank.com
 0.0.0.0 wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
 0.0.0.0 wus-streaming-video-rt-microsoft-com.akamaized.net
