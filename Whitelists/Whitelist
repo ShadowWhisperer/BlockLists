@@ -583,11 +583,13 @@ fresnel-events.vimeocdn.com                          #App   The Criterion Channe
 uapi.adrise.tv                                       #App   Tubi
 akamai2.tubi.video                                   #App   Tubi (Breaks video)
 akamai.tubi.video                                    #App   Tubi (Breaks video)
-s.adrise.tv                                          #App   Tubi (Subtitles)
-license.adrise.tv                                    #App   Tubi (Digital Rights Management Error, if blocked)
-account.production-public.tubi.io                    #App   Tubi (Breaks   Guest Sign In)
-cdn.adrise.tv                                        #App   Tubi (AdBlock Message)
+fa2.tubi.video                                       #App   Tubi (Breaks video)
+nc-fa2.tubi.video                                    #App   Tubi (Breaks video)
+account.production-public.tubi.io                    #App   Tubi (Breaks 'Guest Sign In')
 canvas.tubitv.com                                    #App   Tubi (Movie Covers)
+cdn.adrise.tv                                        #App   Tubi (AdBlock Message)
+license.adrise.tv                                    #App   Tubi (Digital Rights Management Error, if blocked)
+s.adrise.tv                                          #App   Tubi (Subtitles)
 tensor.production-public.tubi.io                     #App   Tubi (Give error on channel list) RO-1-100--7
 api2.sr.roku.com                                     #App   The Roku Channel
 austin.sw.roku.com                             #Roku - System Update Check
