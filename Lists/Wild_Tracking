@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,721
-# Updated: 11/1/2025  21:28 (9:28 PM CST)
+# Domains: 16,725
+# Updated: 11/2/2025  18:01 (6:01 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -6261,6 +6261,10 @@ logr-ingest.com
 logrocket.com
 logrocket.io
 log.rutube.ru
+logs.eu-south-1.amazonaws.com
+logs.eu-south-1.api.aws
+logs.eu-south-1.vpce.amazonaws.com
+logs.eu-south-1.vpce.api.aws
 logsmasters.com
 logspot.io
 logs.roku.com

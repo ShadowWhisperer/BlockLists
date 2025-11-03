@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,721
-# Updated: 11/1/2025  21:28 (9:28 PM CST)
+# Domains: 16,725
+# Updated: 11/2/2025  18:01 (6:01 PM CST)
 #
 0.0.0.0 02good4u.com
 0.0.0.0 0cf.io
@@ -6257,6 +6257,10 @@
 0.0.0.0 logrocket.com
 0.0.0.0 logrocket.io
 0.0.0.0 log.rutube.ru
+0.0.0.0 logs.eu-south-1.amazonaws.com
+0.0.0.0 logs.eu-south-1.api.aws
+0.0.0.0 logs.eu-south-1.vpce.amazonaws.com
+0.0.0.0 logs.eu-south-1.vpce.api.aws
 0.0.0.0 logsmasters.com
 0.0.0.0 logspot.io
 0.0.0.0 logs.roku.com
