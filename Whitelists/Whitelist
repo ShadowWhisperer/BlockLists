@@ -292,6 +292,8 @@ discover-pa.googleapis.com                       #Google   Android (News Page - 
 gameswhitelisted.googleapis.com                  #Google   Android (Game signin)
 ota-cache1.googlezip.net                         #Google   Android (System Updates)
 play-lh.googleusercontent.com                    #Google   Android (Store Images)
+www3.l.google.com                                #Google   Various Services
+www4.l.google.com                                #Google   Various Services
 tasks-pa.clients6.google.com                     #Google   Calendar Sync (Phone)
 tasks-pa.googleapis.com                          #Google   Calendar Sync (Phone)
 clients3.google.com                              #Google   ChromeOS Signin (connection is limited)

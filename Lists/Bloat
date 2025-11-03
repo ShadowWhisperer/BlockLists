@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 674
-# Updated: 10/22/2025  09:16 (9:16 AM CST)
+# Domains: 672
+# Updated: 11/3/2025  10:52 (10:52 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -471,8 +471,6 @@ sustainability.google                                   #Google
 userpaneltv-pa.googleapis.com                           #Google
 voilatile-pa.googleapis.com                             #Google
 voledevice-pa.googleapis.com                            #Google
-www3.l.google.com                                       #Google
-www4.l.google.com                                       #Google
 ytimg-edge-static.l.google.com                          #Google
 ytstatic.l.google.com                                   #Google
 zerostateproxy-pa.googleapis.com                        #Google
