@@ -26,6 +26,7 @@ sus.sophosupd.com                                   #Sophos      Updates
 #####################################################
 passbox-pa.googleapis.com                           #Google Authenticator    Breaks Sync
 pixelweatherhub-pa.googleapis.com                   #Google Weather (Pixel)  Breaks Sync
+app2.govee.com                                      #Govee                   Breaks Login
 content-prod.iot.irobotapi.com                      #iRobot                  Won't open app
 disc-prod.iot.irobotapi.com                         #iRobot                  Won't open app
 unauth3.prod.iot.irobotapi.com                      #iRobot                  Won't open app
@@ -125,6 +126,7 @@ routerfeedback.asus.com                             #Asus   Router Firmware Upda
 d.la1-c1-ord.salesforceliveagent.com                #Dell   Chat
 la1-c1-ord.ord.r.salesforceliveagent.com            #Dell   Chat
 dellupdater.dell.com                                #Dell   Download "Alienware Command Center"
+saupdates.dell.com                                  #Dell   Support Assist (Installer)
 supportkb.dell.com                                  #Dell   Support Page Images
 www1.ins.dell.com                                   #Dell   TechDirect - Parts Page
 mastiff.ext.hp.com                                  #HP   Driver Downloads
