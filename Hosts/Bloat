@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 672
-# Updated: 11/3/2025  10:52 (10:52 AM CST)
+# Domains: 673
+# Updated: 11/6/2025  12:31 (12:31 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -68,6 +68,7 @@
 0.0.0.0 getfeedback.com
 0.0.0.0 websites.cdn.getfeedback.com
 0.0.0.0 hpsasudf.ext.hp.com
+0.0.0.0 hyouka-ai.com
 0.0.0.0 survey.instagram.com
 0.0.0.0 iteratehq.com
 0.0.0.0 globaltestmarket.com

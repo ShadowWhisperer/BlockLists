@@ -508,6 +508,7 @@ deposit.us.shopifycs.com                             #Shopping Sites (Breaks Che
 dyncdn.me                                            #Torrents - Pictures
 k.twitchcdn.net                                      #Twitch - Breaks login, follow channel
 ubiquiti.ada.support                                 #Ubiquiti - Breaks login (Trust Device)
+nca-iot-us-west-2.svc.ui.com                         #Ubiquiti - Breaks Backups, possibly remote
 static.ui.com                                        #Ubiquiti - NVR (Icons)
 unpkg.com                                            #Ubiquiti - NVR
 api-gw.uid.alpha.ui.com                              #Ubiquiti - NVR (Application Updates)
