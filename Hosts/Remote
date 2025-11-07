@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 150
-# Updated: 10/8/2025  11:09 (11:09 AM CST)
+# Domains: 153
+# Updated: 11/7/2025  16:04 (4:04 PM CST)
 #
 0.0.0.0 01com.com
 0.0.0.0 123rescue.com
@@ -23,6 +23,7 @@
 0.0.0.0 azure-devices.net
 0.0.0.0 beanywhere.com
 0.0.0.0 beyondtrustcloud.com
+0.0.0.0 bmasupport.com
 0.0.0.0 bomgar.com
 0.0.0.0 cdngetgo.com
 0.0.0.0 connectwise.com
@@ -66,9 +67,11 @@
 0.0.0.0 jumpcloud.com
 0.0.0.0 justinter.net
 0.0.0.0 litemanager.com
+0.0.0.0 livecare.it
 0.0.0.0 livepcsupport.com
 0.0.0.0 lizardsystems.com
 0.0.0.0 logicnow.us
+0.0.0.0 logme.com.au
 0.0.0.0 logme.in
 0.0.0.0 logmein123.com
 0.0.0.0 logmeincdn.azureedge.net

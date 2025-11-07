@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 150
-# Updated: 10/8/2025  11:09 (11:09 AM CST)
+# Domains: 153
+# Updated: 11/7/2025  16:04 (4:04 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -27,6 +27,7 @@ aweray.net
 azure-devices.net
 beanywhere.com
 beyondtrustcloud.com
+bmasupport.com
 bomgar.com
 cdngetgo.com
 connectwise.com
@@ -70,9 +71,11 @@ jumitech.com
 jumpcloud.com
 justinter.net
 litemanager.com
+livecare.it
 livepcsupport.com
 lizardsystems.com
 logicnow.us
+logme.com.au
 logme.in
 logmein123.com
 logmeincdn.azureedge.net
