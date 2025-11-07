@@ -340,6 +340,7 @@ signaler-pa.clients6.google.com                  #Google   Keep (Breaks Sync)
 firebasedynamiclinks.googleapis.com              #Google   Links (Maps: Share)
 accounts.google.com                              #Google   Login
 gds.google.com                                   #Google   Login (After 2FA)
+mapsmobilesdks-pa.googleapis.com                 #Google   Maps (Used by other apps. Zillow, etc)
 mobilemaps-pa-gz.googleapis.com                  #Google   Maps (Download maps for offline use)
 op-d.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
 op-u.storage.googleapis.com                      #Google   Maps (Download maps for offline use)
