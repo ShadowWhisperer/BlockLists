@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 287
-# Updated: 10/20/2025  21:12 (9:12 PM CST)
+# Domains: 288
+# Updated: 11/10/2025  17:29 (5:29 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -128,6 +128,7 @@ ibytedtos.com                                  #TikTok
 isnssdk.com                                    #TikTok
 krtiktokacademy.com                            #TikTok
 lemon8-app.com                                 #TikTok
+lemon8-app.us                                  #TikTok
 lemon8cdn.com                                  #TikTok
 letschat.com                                   #TikTok
 muscdn.com                                     #TikTok
