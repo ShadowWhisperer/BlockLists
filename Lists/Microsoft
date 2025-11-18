@@ -1,0 +1,626 @@
+#
+#    File: Microsoft
+#    Info: Apps, Bing, Tiles, Unknown
+# Domains: 579
+# Updated: 10/12/2025  18:11 (6:11 PM CST)
+#
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
+#
+
+api.cognitive.microsoft.com                    #AI
+australiaeast.api.cognitive.microsoft.com      #AI
+brazilsouth.api.cognitive.microsoft.com        #AI
+canadacentral.api.cognitive.microsoft.com      #AI
+centralindia.api.cognitive.microsoft.com       #AI
+centralus.api.cognitive.microsoft.com          #AI
+eastasia.api.cognitive.microsoft.com           #AI
+eastus2.api.cognitive.microsoft.com            #AI
+eastus.api.cognitive.microsoft.com             #AI
+francecentral.api.cognitive.microsoft.com      #AI
+japaneast.api.cognitive.microsoft.com          #AI
+japanwest.api.cognitive.microsoft.com          #AI
+koreacentral.api.cognitive.microsoft.com       #AI
+northcentralus.api.cognitive.microsoft.com     #AI
+northeurope.api.cognitive.microsoft.com        #AI
+southafricanorth.api.cognitive.microsoft.com   #AI
+southcentralus.api.cognitive.microsoft.com     #AI
+southeastasia.api.cognitive.microsoft.com      #AI
+uksouth.api.cognitive.microsoft.com            #AI
+westcentralus.api.cognitive.microsoft.com      #AI
+westeurope.api.cognitive.microsoft.com         #AI
+westus2.api.cognitive.microsoft.com            #AI
+westus.api.cognitive.microsoft.com             #AI
+
+fevoke-windowsservices-tas.msedge.net          #App    Candy Crush Saga (Updates)
+copilot.microsoft.com                          #App   Copilot
+cortana.ai                                     #App   Cortana
+browserdefaults.microsoft.com                  #App     Edge  (Downlods Recommended Settings From Microsoft)
+extensionwebstorebase.edgesv.net               #App     Edge
+microsoftedge.com                              #App     Edge
+ntp.msn.com                                    #App     Edge
+a-msedge.net                                   #App   Office
+a-ring.msedge.net                              #App   Office
+b-ring.msedge.net                              #App   Office
+l-ring.msedge.net                              #App   Office
+q-ring.msedge.net                              #App   Office
+s-ring.msedge.net                              #App   Office
+t-ring.msedge.net                              #App   Office
+v4ncsi.msedge.net                              #App   Office
+1drv.com                                       #App     OneDrive
+common-us.onedrive.akadns.net                  #App     OneDrive
+livefilestore.com                              App      OneDrive
+onedrive.akadns.net                            #App     OneDrive
+onenote.com                                    #App   OneNote
+onenote.net                                    #App   OneNote
+dcg.microsoft.com                              #App   Phone Link
+microsoft-my.sharepoint-df.com                 #App     SharePoint
+microsoft.sharepoint-df.com                    #App     SharePoint
+msft-my.spoppe.com                             #App     SharePoint
+msft.spoppe.com                                #App     SharePoint
+sharepoint.com                                 #App     SharePoint
+sharepoint-df.com                              #App     SharePoint
+sharepointonline.com                           #App     SharePoint
+sharepoint.us                                  #App     SharePoint
+spoppe.com                                     #App     SharePoint
+static2.sharepointonline.com                   #App     SharePoint
+sway-cdn.com                                   #App     Sway
+sway.com                                       #App     Sway
+amer.devicemgmt.teams.microsoft.com            #App    Teams
+amer.ng.msg.teams.microsoft.com                #App    Teams
+api.flightproxy.teams.microsoft.com            #App    Teams
+api-noam.flightproxy.teams.microsoft.com       #App    Teams
+appsuggestions.teams.microsoft.com             #App    Teams (Auto-fill ?)
+config.teams.microsoft.com                     #App    Teams
+devicemgmt.teams.microsoft.com                 #App    Teams
+go.trouter.teams.microsoft.com                 #App    Teams
+installer.teams.static.microsoft               #App    Teams
+presence.teams.microsoft.com                   #App    Teams
+pub-ent-usea2-15-t.trouter.teams.microsoft.com #App    Teams
+sfbassets.com                                  #App    Teams
+teams.cdn.live.net                             #App    Teams
+teams.cdn.office.net                           #App    Teams
+teams.cloud.microsoft                          #App    Teams
+teams.live.com                                 #App    Teams
+teams.microsoft.com                            #App    Teams
+teams.microsoftonline.cn                       #App    Teams
+teams.microsoft.us                             #App    Teams
+tr.teams.microsoft.com                         #App    Teams
+us-prod.asyncgw.teams.microsoft.com            #App    Teams
+worldaz.relay.teams.microsoft.com              #App    Teams
+to-do.officeppe.com                            #App     To Do
+to-do.microsoft.com                            #App     To Do
+wallet.microsoft.com                           #App       Wallet
+wbd.ms                                         #App   Whiteboard
+whiteboard.cloud.dev.microsoft                 #App   Whiteboard
+whiteboard.cloud.microsoft                     #App   Whiteboard
+whiteboard.microsoft.com                       #App   Whiteboard
+whiteboard.ms                                  #App   Whiteboard
+cmsresources.windowsphone.com                  #App     Windows Phone (From Win 10 Tower)
+config.scm.windowsphone.com                    #App     Windows Phone (From Win 10 Tower)
+ess.windowsphone.net                           #App     Windows Phone (From Win 10 Tower)
+windowsphone.xbox.com                          #App     Windows Phone (From Win 10 Tower)
+
+api.bing.com                                   #Bing
+bingapis.com                                   #Bing
+bing.com                                       #Bing
+bingforbusiness.com                            #Bing
+bing.net                                       #Bing
+c-bing-com.a-0001.a-msedge.net                 #Bing
+customsearch.ai                                #Bing
+platform.bing.com                              #Bing
+ssl.bing.com                                   #Bing
+windowssearch.com                              #Bing
+maps.windows.com                               #Bing Maps
+bingwallpaper.microsoft.com                    #Bing - Download wallpaper
+
+xboxab.com                                     #Games -  Game Bar Overlay
+activation2.playready.microsoft.com            #Games -  Pirate Prevention
+playready.microsoft.com                        #Games -  Pirate Prevention
+
+r20swj13mr.microsoft.com                       #Internet Explorer - After Updating
+ie11welcome.microsoft.com                      #Internet Explorer
+
+6to4.ipv6.microsoft.com                        #IPV6
+hipipv6-eu1-prod.cloudapp.net                  #IPV6
+ipv6.login.live.com                            #IPV6
+ipv6.microsoft.com.akadns.net                  #IPV6
+ipv6.microsoft.com                             #IPV6
+ipv6.msftconnecttest.com                       #IPV6
+ipv6.msftncsi.com.edgesuite.net                #IPV6
+ipv6.msftncsi.com                              #IPV6
+teredo.ipv6.microsoft.com                      #IPV6
+win10.ipv6.microsoft.com                       #IPV6
+win1710.ipv6.microsoft.com                     #IPV6
+win8.ipv6.microsoft.com                        #IPV6
+www2.bing.com                                  #IPV6
+
+acer17win10.msn.com                            #MSN - Redirects to msn.com
+dell15.msn.com                                 #MSN - Redirects to msn.com
+hp13.us.msn.com                                #MSN - Redirects to msn.com
+hp17win10.msn.com                              #MSN - Redirects to msn.com
+toshiba13.msn.com                              #MSN - Redirects to msn.com
+search.msn.com                                 #MSN - Search
+search.msn.de                                  #MSN - Search
+windows.msn.com                                #MSN - Taskbar - News and Interests
+
+survey.support.services.microsoft.com          #Survey - Popup Window
+
+api.msn.com                                    #Tiles - Win 10 / 11
+appexbingfinance.trafficmanager.net            #Tiles - Win 10 / 11
+appexbingweather.trafficmanager.net            #Tiles - Win 10 / 11
+appexeusprodweather.blob.core.windows.net      #Tiles - Win 10 / 11
+appexfinanceappupdate.blob.core.windows.net    #Tiles - Win 10 / 11
+appexnewsappupdate.blob.core.windows.net       #Tiles - Win 10 / 11
+appexsports.trafficmanager.net                 #Tiles - Win 10 / 11
+appexwusprodweather.blob.core.windows.net      #Tiles - Win 10 / 11
+blob.weather.microsoft.com                     #Tiles - Win 10 / 11
+cloudtile.photos.microsoft.com                 #Tiles - Win 10 / 11
+finance.services.appex.bing.com                #Tiles - Win 10 / 11
+finance-services.msn.com                       #Tiles - Win 10 / 11
+foodanddrink.services.appex.bing.com           #Tiles - Win 10 / 11
+foodanddrink.tile.appex.bing.com               #Tiles - Win 10 / 11
+insiderhub.microsoft.com                       #Tiles - Win 10 / 11
+insiderservice.microsoft.com                   #Tiles - Win 10 / 11
+livetileedge.dsx.mp.microsoft.com              #Tiles - Win 10 / 11
+livetile.hulu.com                              #Tiles - Win 10 / 11
+livetiles.health.appex.bing.com                #Tiles - Win 10 / 11
+mgslivetiles.cloudapp.net                      #Tiles - Win 10 / 11
+phone.sports.tile.appex.bing.com               #Tiles - Win 10 / 11
+service.weather.microsoft.com                  #Tiles - Win 10 / 11
+tile-service.weather.microsoft.com             #Tiles - Win 10 / 11
+travel.tile.appex.bing.com                     #Tiles - Win 10 / 11
+weather.microsoft.com                          #Tiles - Win 10 / 11
+weather.services.appex.bing.com                #Tiles - Win 10 / 11
+weather.tile.appex.bing.com                    #Tiles - Win 10 / 11
+
+westus.tts.speech.microsoft.com                #Text To Speech API
+
+toolbar.msn.com                                #Toolbar - MSN
+ie9cvlist.ie.microsoft.com                     #Toolbar - Uninstall
+iecvlist.microsoft.com                         #Toolbar - Uninstall
+
+cdf-anon.gtm.xboxlive.com                      #Xbox
+cdf-anon.xboxlive.com.edgekey.net              #Xbox
+cdf-anon.xboxlive.com                          #Xbox
+cloudcollection-ssl.xboxlive.com               #Xbox
+compass-ssl.xboxlive.com                       #Xbox
+da.xboxservices.com                            #Xbox - Microsfot Edge ?  (Microsoft Docs)
+notificationinbox.xboxlive.com                 #Xbox
+settings-ssl.xboxlive.com                      #Xbox
+x1ds.xboxlive.com                              #Xbox
+xnotify.xboxlive.com                           #Xbox
+
+yammer.com                                     #Yammer
+
+acompli.net                                    #Defunct - Outlook Mobile Apps
+
+
+###############################################################################################
+############################           BELOW = UNCERTAIN           ############################
+###############################################################################################
+
+
+bg1.v4.a.dl.ws.microsoft.com                   # ? App Store (Windows 8)
+bg.v4.emdl.ws.microsoft.com                    # ? App Store (Windows 8)
+
+a-0003.a-msedge.net                            #? Edge
+a-ring-fallback.msedge.net                     #? Edge
+b-msedge.net                                   #? Edge
+config-edge-skype.l-0014.l-msedge.net          #? Edge
+c-ring.msedge.net                              #? Edge
+e-msedge.net                                   #? Edge
+fbs1-t-msedge.net                              #? Edge
+fdv2-t-msedge.net                              #? Edge
+k-0002.k-msedge.net                            #? Edge
+k-ring.msedge.net                              #? Edge
+l-0001.l-msedge.net                            #? Edge
+l-0002.l-msedge.net                            #? Edge
+l-0003.l-msedge.net                            #? Edge
+l-0004.l-msedge.net                            #? Edge
+l-0005.l-msedge.net                            #? Edge
+l-0006.l-msedge.net                            #? Edge
+l-0007.l-msedge.net                            #? Edge
+l-0008.l-msedge.net                            #? Edge
+l-0009.l-msedge.net                            #? Edge
+l-0010.l-msedge.net                            #? Edge
+l-0011.l-msedge.net                            #? Edge
+l-0012.l-msedge.net                            #? Edge
+l-0013.l-msedge.net                            #? Edge
+l-0014.l-msedge.net                            #? Edge
+l-0015.l-msedge.net                            #? Edge
+msedge.net                                     #? Edge
+peer2-den02.msedge.net                         #? Edge
+s-0001.s-msedge.net                            #? Edge
+s-0002.s-msedge.net                            #? Edge
+s-0003.s-msedge.net                            #? Edge
+s-0004.s-msedge.net                            #? Edge
+segments-s.msedge.net                          #? Edge
+spo-msedge.net                                 #? Edge
+spo-ring.msedge.net                            #? Edge
+spov-msedge.net                                #? Edge
+t-msedge.net                                   #? Edge
+win10-trt.msedge.net                           #? Edge
+
+cds1204.lon.llnw.net                           # ? Limelight Networks (CDN)
+cds1289.lon.llnw.net                           # ? Limelight Networks (CDN)
+cds1293.lon.llnw.net                           # ? Limelight Networks (CDN)
+cds1327.lon.llnw.net                           # ? Limelight Networks (CDN)
+cds20417.lcy.llnw.net                          # ? Limelight Networks (CDN)
+cds20431.lcy.llnw.net                          # ? Limelight Networks (CDN)
+cds20450.lcy.llnw.net                          # ? Limelight Networks (CDN)
+cds20457.lcy.llnw.net                          # ? Limelight Networks (CDN)
+cds20475.lcy.llnw.net                          # ? Limelight Networks (CDN)
+cds21244.lon.llnw.net                          # ? Limelight Networks (CDN)
+cds299.lcy.llnw.net                            # ? Limelight Networks (CDN)
+cds405.lcy.llnw.net                            # ? Limelight Networks (CDN)
+cds425.lcy.llnw.net                            # ? Limelight Networks (CDN)
+cds459.lcy.llnw.net                            # ? Limelight Networks (CDN)
+cds494.lcy.llnw.net                            # ? Limelight Networks (CDN)
+cds965.lon.llnw.net                            # ? Limelight Networks (CDN)
+
+search.yupimsn.com                             # ? MSN - Search
+carrentals.msn.com                             # ? MSN
+cdn.content.prod.cms.msn.com                   # ? MSN
+config.messenger.msn.com                       # ? MSN
+en-us.appex-rf.msn.com                         # ? MSN
+flex.msn.com                                   # ? MSN
+flights.msn.com                                # ? MSN
+global.sam.msn.com                             # ? MSN
+g.msn.com                                      # ? MSN
+h1.msn.com                                     # ? MSN
+h2.msn.com                                     # ? MSN
+h3.msn.com                                     # ? MSN
+h4.msn.com                                     # ? MSN
+h5.msn.com                                     # ? MSN
+h7.msn.com                                     # ? MSN
+int1.msn.com                                   # ? MSN
+live.rads.msn.com                              # ? MSN
+messenger.msn.com                              # ? MSN
+newsletters.msn.com                            # ? MSN
+preview.msn.com                                # ? MSN
+query.prod.cms.msn.com                         # ? MSN
+rad.msn.com                                    # ? MSN
+sam.msn.com                                    # ? MSN
+tk2.plt.msn.com                                # ? MSN
+
+afd-a-acdc-direct.office.com                            # ? Office
+api.addins.omex.office.net                              # ? Office
+augloop.office.com                                      # ? Office
+c1h-excel-15.cdn.office.net                             # ? Office
+c1h-onenote-15.cdn.office.net                           # ? Office
+c1h-word-edit-15.cdn.office.net                         # ? Office
+c1-officeapps-15.cdn.office.net                         # ? Office
+cdn.fluidpreview.office.net                             # ? Office
+checkout.office.com                                     # ? Office
+collabrtc.officeapps.live.com                           # ? Office
+common.online.office.com                                # ? Office
+config.officeapps.live.com                              # ? Office
+consent.config.office.com                               # ? Office
+content.lifecycle.office.net                            # ? Office
+cxcs.cdn.office.net                                     # ? Office
+cys-efz.ms-acdc.office.com                              # ? Office
+enrichment.osi.office.net                               # ? Office
+f-0001.f-msedge.net                                     # ? Office
+fluidpreview.office.net                                 # ? Office
+fpastorage.cdn.office.net                               # ? Office - First Party App Addins
+gtm-dyn-direct.office365.com                            # ? Office
+loki.delve.office.com                                   # ? Office
+lpcres.delve.office.com                                 # ? Office
+lyh-efz.ms-acdc.office.com                              # ? Office
+messaging.action.office.com                             # ? Office
+messaging.lifecycle.office.com                          # ? Office
+messaging.office.com                                    # ? Office
+modernb.akamai.odsp.cdn.office.net                      # ? Office
+nam-cosmic.loki.delve.office.com                        # ? Office
+nam.loki.delve.office.com                               # ? Office
+nleditor.osi.office.net                                 # ? Office
+oauth.online.office.com                                 # ? Office
+office365.us                                            # ? Office
+officeaka.cloudapp.net                                  # ? Office
+officehomeblobs.blob.core.windows.net                   # ? Office
+ogma.osi.office.net                                     # ? Office
+olc-g2.tm-4.office.com                                  # ? Office
+oloobe.officeapps.live.com                              # ? Office
+omex.cdn.office.net                                     # ? Office
+onenote.officeapps.live.com                             # ? Office
+onmicrosoft.com                                         # ? Office - 365
+ooc-g2.tm-4.office.com                                  # ? Office
+outlook-1.cdn.office.net                                # ? Office
+outlook-2.cdn.office.net                                # ? Office
+outlook-sdf.office.com                                  # ? Office
+pages.store.office.com                                  # ? Office
+pptsgs.officeapps.live.com                              # ? Office
+prod-setupoffice.omexexternallfb.office.net.akadns.net  # ? Office
+pus4-collabhubrtc.officeapps.live.com                   # ? Office
+pus5-collabhubrtc.officeapps.live.com                   # ? Office
+pus6-collabhubrtc.officeapps.live.com                   # ? Office
+pus7-collabhubrtc.officeapps.live.com                   # ? Office
+pus8-collabhubrtc.officeapps.live.com                   # ? Office
+roa-efz.ms-acdc.office.com                              # ? Office
+sat-efz.ms-acdc.office.com                              # ? Office
+s-dc-msedge.net                                         # ? Office
+sfnam.loki.delve.office.com                             # ? Office
+shredder.osi.office.net                                 # ? Office
+shredder-us.osi.office.net                              # ? Office
+sjc-efz.ms-acdc.office.com                              # ? Office
+sus1-onenote.officeapps.live.com                        # ? Office
+thor.aesir.office.com                                   # ? Office
+tr-tmc-afdmira.office.com                               # ? Office
+tr-tmc-afd.office.com                                   # ? Office
+tr-tmc-geo.office.com                                   # ? Office
+tr-tmc-mira.office.com                                  # ? Office
+uci.cdn.office.net                                      # ? Office
+uci.edog.cdn.office.net                                 # ? Office
+us7-excel-collab.officeapps.live.com                    # ? Office
+usc-excel.officeapps.live.com                           # ? Office
+usc-onenote.officeapps.live.com                         # ? Office
+videoplayercdn.osi.office.net                           # ? Office
+waconatm.officeapps.live.com                            # ? Office
+webshell.suite.office.com                               # ? Office
+wise.public.cdn.office.net                              # ? Office
+wwdb.webshell.suite.office.com                          # ? Office
+yyz-efz.ms-acdc.office.com                              # ? Office
+
+contacts.msn.com                               # ? Hotmail / Outlook - Contacts
+rdr.contacts.msn.com                           # ? Hotmail / Outlook - Contacts
+
+o.xbox.com                                     # ? Tracking (Blank)
+
+amp-test.com                                   # ? On msn.com
+udc.amp-test.com                               # ? On msn.com
+
+aadrm.com                                      # ? Defunct
+msantispy.com                                  # ? Defunct
+msecn.net                                      # ? Defunct
+msnhome.org                                    # ? Defunct
+
+inv.mp.microsoft.com                           # ? Store layout
+
+acctcdnvzeuno.azureedge.net                    #Azure
+azureedge.net                                  #Azure
+bastion.azure.com                              #Azure
+bot-framework.azureedge.net                    #Azure
+greenid-prod.westus2.cloudapp.azure.com        #Azure
+microsoftazurelogicapps.net                    #Azure
+microsoftazurelogicapps.us                     #Azure
+msftspeechmodelsprod.azureedge.net             #Azure
+odinvzc.azureedge.net                          #Azure
+onecs-live.azureedge.net                       #Azure
+owassets.azureedge.net                         #Azure
+
+gameclipscontent-d2006.media.xboxlive.com      #Xbox
+gameclipscontent-t2006.xboxlive.com            #Xbox
+lfghub-anonymous.xboxlive.com                  #Xbox
+privacy.xboxlive.com                           #Xbox
+
+
+###############################################################################################
+###############################################################################################
+
+aad.cs.dds.microsoft.com
+access-point.cloudmessaging.edge.microsoft.com
+accountcheckupwiz.msdx.microsoft.com
+admin-mcas-gov.us
+agent.rooms.microsoft.com
+aiinfrastructure.static.microsoft
+aks-prod-eastus.access-point.cloudmessaging.edge.microsoft.com
+aks-prod-westus2.access-point.cloudmessaging.edge.microsoft.com
+amcdn.msftauth.net
+api.cdp.microsoft.com
+api-edge.cognitive.microsofttranslator.com
+api.myaccount.microsoft.com
+api.mysignins.microsoft.com
+api-usea-skyman-v10.microsofttranslator.com
+apsaiservices.microsoft.com
+augloop.svc.cloud.microsoft
+autologon.microsoftazuread-sso.com
+az158878.vo.msecnd.net
+az361816.vo.msecnd.net
+az413505.vo.msecnd.net
+az512334.vo.msecnd.net
+az598575.vo.msecnd.net
+beta.gateway.messenger.live.com
+bgappservices.microsoft.com
+bingviz.com
+bn2-client-s.gateway.messenger.live.com
+cass.api.microsoft.com
+ccs-pe-us1.cloudapp.net
+cdn.storeedgefd.dsx.mp.microsoft.com
+cdn.techcommunity.microsoft.com
+cds26.ams9.msecn.net
+cggameszone.cloudapp.net
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+choice.microsoft.com.nstac.net
+clientconfig.passport.net
+client.ppe.repmap.microsoft.com
+clientsettings.books.microsoft.com
+cloudappconfig.blob.core.windows.net
+club.live.com
+co2.sls.microsoft.com
+compatexchange.cloudapp.net
+concierge.live.com
+config.svc.cloud.microsoft
+connect.microsoft.com
+contoso.com
+corpext.msitadfs.glbdns2.microsoft.com
+corp.sts.microsoft.com
+cp501.prod.do.dsp.mp.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
+cp801.prod.do.dsp.mp.microsoft.com
+crl.microsoft.com
+cs1.wpc.v0cdn.net
+c-s.cms.ms.akadns.net
+csp.microsoft.com
+df.cfp.microsoft.com
+dgps-eus2.cloudapp.net
+directory.services.live.com
+disc801.prod.do.dsp.mp.microsoft.com
+dispatch.kahuna.glbdns2.microsoft.com
+dmd.metaservices.microsoft.com
+eagle.sapphire.microsoftapp.net
+ecn-us.dev.virtualearth.net
+edgeassetservice.azureedge.net
+edgebooks.rec.mp.microsoft.com
+edge-http.microsoft.com
+edgestoreweb.azureedge.net
+edgestorewebcdn.azureedge.net
+edgetipscdn.microsoft.com
+edgewelcomecdn.microsoft.com
+europe.cp.wd.microsoft.com
+fe2.update.microsoft.com.akadns.net
+filestore.community.answers.ms.akadns.net
+fs-wildcard.microsoft.com.edgekey.net
+fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
+gateway-outlook.bingviz.com
+go.microsoft.akadns.net
+graph.print.microsoft.com
+graph.windows.net
+groove.microsoft.com
+groups.photos.microsoft.com
+gsa.view.api.account.microsoft.com
+i1.services.social.microsoft.com
+i2-technet.sec.s-msft.com
+idmapper.microsoftcasualgames.com
+ie9comview.vo.msecnd.net
+ieonline.microsoft.com
+ieonlinews.microsoft.com
+img.stb.s-msn.com
+imvendorportal.com
+inputsuggestions.msdxcdn.microsoft.com
+insiderppe.cloudapp.net
+insideruser.microsoft.com
+internetexplorer.com
+ipv4.login.msa.akadns6.net
+iriscoremetadataprod.blob.core.windows.net
+i.s-microsoft.com
+jcmsfd.account.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
+lb1.www.ms.akadns.net
+lgincdnvzeuno.azureedge.net
+licensingphone.mp.microsoft.com
+local-blu-people.directory.live.com
+ls2web.redmond.corp.microsoft.com
+lync.com
+mamservice.manage.microsoft.com
+markets.books.microsoft.com
+mcas-gov.ms
+mcas-gov.us
+mcas.ms
+mediadiscovery.microsoft.com
+mediaredirect.microsoft.com
+metaservices.microsoft.com
+microsoftcrmportals.com
+microsoftedgetips.microsoft.com
+microsoft.net
+microsoftonline.com
+microsoft.us
+mobileappcommunicator.auth.microsoft.com
+modpim.com
+msappproxy.net
+mscrl.microsoft.com
+msdl.microsoft.com
+msdnshared.blob.core.windows.net
+msegceporticoprodassets.blob.core.windows.net
+mydefender.microsoft.com
+myhomemsn.com
+mysecurity.microsoft.com
+notification.m365.svc.cloud.microsoft
+ntc-keyid-b6eaa11f201ff74ed4f2510e15bf2e3884dc4055.microsoftaik.azure.net
+oaspapps.com
+offerservicefallback.blob.core.windows.net
+offline.microsofttranslator.com
+oloobe-prod-cdn-storage.azureedge.net
+onerm.olsvc.com
+optanon.blob.core.windows.net
+orca9o5ptld7p8kl709wbwth.blob.core.windows.net
+osizpcusmagenta001.blob.core.windows.net
+otelrules.svc.static.microsoft
+outlook.cloud.microsoft
+outlook-exo.trafficmanager.net
+packages.dmd.metaservices.microsoft.com
+passport.net
+playfabapi.com
+portal.manage-beta.microsoft.com
+portal.manage-dogfood.microsoft.com
+portal.manage.microsoft.com
+portal.manage-selfhost.microsoft.com
+p.pfx.ms
+prod0-api.acompli.net
+prod-api.acompli.net
+prod-api-community.windows.com
+prod.autodetect.outlook.cloud.microsoft
+prod-azurecdn-akamai-iris.azureedge.net
+prod.blob.core.windows.net
+prod.c2rsetup.microsoft.com.akadns.net
+prod.client.wosc.services.microsoft.com
+prod-eastus.access-point.cloudmessaging.edge.microsoft.com
+prod-nam-autodetect.acompli.net
+prod.omexcosubretailer.live.com.akadns.net
+prod.rewardsplatform.microsoft.com
+products.support.services.microsoft.com
+prod-westus2.access-point.cloudmessaging.edge.microsoft.com
+ps.azurewaf.microsoft.com
+rarewaves.blob.core.windows.net
+recent.svc.cloud.microsoft
+redir1.cloudapp.net
+res-4.public.onecdn.static.microsoft
+res.df.onecdn.static.microsoft
+rewards.microsoft.com
+r.msftstatic.com
+romeccs.microsoft.com
+rs-mcas.ms
+rssgov.windows.microsoft.com
+rzpict1.blob.core.windows.net
+sbsdomains.blob.core.windows.net
+schemas.microsoft.akadns.net
+sci1-1.am.microsoft.com
+sci1-2.am.microsoft.com
+sci2-1.am.microsoft.com
+sci2-2.am.microsoft.com
+searchclient.live.net
+settings.data.glbdns2.microsoft.com
+settings.data.microsoft.com
+sfdataservice.microsoft.com
+sfp.microsoft.com
+share.microsoft.com
+shell.windows.com
+skyapi.onedrive.live.com
+snoop.minecraft.net
+static.edge.microsoftapp.net
+statics-marketingsites-neu-ms-com.akamaized.net
+static-spartan-eus-s-msn-com.akamaized.net
+staticview.msn.com
+stm-keyid-fb17d70d734870e919c4e8e603975e664e0e43de.microsoftaik.azure.net
+storesdk.dsx.mp.microsoft.com
+subs-paynow.msdxcdn.microsoft.com
+subs-paynow.msdx.microsoft.com
+sup.directory.live.com
+svmstrgprodus.blob.core.windows.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+telecommandsvc.microsoft.com
+titles.prod.mos.microsoft.com
+trafficmanager.net
+trafficshaping.dsp.mp.microsoft.com
+troubleshooting.microsoft.com
+trustwave.blob.core.windows.net
+turing-writingassistance.edge.microsoft.com
+uasprod.blob.core.windows.net
+ucis.msdxcdn.microsoft.com
+ugcorigin.s-microsoft.com
+urlappmapping.sfp.microsoft.com
+ussus3westprod.blob.core.windows.net
+waws-prod-blu-059.cloudapp.net
+wdcpalt.microsoft.com
+webportals-ngp.trafficmanager.net
+wer.microsoft.com
+wfbdevicemanagement
+winatp-gw-cus.microsoft.com
+wip.mam.manage.microsoft.com
+wise-backup.public.onecdn.static.microsoft
+woodgrovebank.com
+wus2s2c-displaycatalog.frontdoor.bigcatalog.commerce.microsoft.com
+wus-streaming-video-rt-microsoft-com.akamaized.net
+xml.login.live.com
