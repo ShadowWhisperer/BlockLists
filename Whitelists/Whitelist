@@ -81,27 +81,32 @@ social.cdn.ubisoft.com                              #Uplay                 Frien
 #####################################################
 # Games
 #####################################################
-dmp.mgapex.com                                      #Apex Legends              Check for updates
-file.mgapex.com                                     #Apex Legends              Download files
-itop.mgapex.com                                     #Apex Legends              Account login
-rtm.tnt-ea.com                                      #Battlefield 2042          Friends list
-discovery.services.gearboxsoftware.com              #Borderlands 3             Breaks multiplayer
-prod-03.escapefromtarkov.com                        #Escape from Tarkov        Load profile data
-prod.escapefromtarkov.com                           #Escape from Tarkov        Server selection
-ragfair.escapefromtarkov.com                        #Escape from Tarkov        Flea Market
-wsn-03.escapefromtarkov.com                         #Escape from Tarkov        Player invite
-wsn-04.escapefromtarkov.com                         #Escape from Tarkov        Player invite
-halostats.svc.halowaypoint.com                      #Halo: Infinite            Breaks leveling up
-api.epicgames.dev                                   #Insurgency: Sandstorm     Breaks anticheat
-ping1.tnt-ea.com                                    Plants vs Zombies: Heros   Check for internet
-country-code.pubg-ns-gate.com                       #PUPG: New State           Check for updates
-maintenance-gate.pubg-ns-gate.com                   #PUPG: New State           Check for updates
-cdn.enter-pubg-new-state.com                        #PUPG: New State           Check for updates
-lobby.pubg-ns-gate.com                              #PUPG: New State           Load pre-match screen
-event-img.enter-pubg-new-state.com                  #PUPG: New State           Breaks crate (Top Right, in Lobby)
-ebdsw.enter-pubg-new-state.com                      #PUPG: New State           What's New (Still pops up, just says "page not found")
-video.enter-pubg-new-state.com                      #PUPG: New State           Crate videos
-lb-rdv-siege-xplay-multiaz-prod.ubisoft.com         #Rainbow Six: Siege        Game will not launch
+dmp.mgapex.com                                      #Apex Legends                  Check for updates
+file.mgapex.com                                     #Apex Legends                  Download files
+itop.mgapex.com                                     #Apex Legends                  Account login
+rtm.tnt-ea.com                                      #Battlefield 2042              Friends list
+discovery.services.gearboxsoftware.com              #Borderlands 3                 Breaks multiplayer
+prod-03.escapefromtarkov.com                        #Escape from Tarkov            Load profile data
+prod.escapefromtarkov.com                           #Escape from Tarkov            Server selection
+ragfair.escapefromtarkov.com                        #Escape from Tarkov            Flea Market
+wsn-03.escapefromtarkov.com                         #Escape from Tarkov            Player invite
+wsn-04.escapefromtarkov.com                         #Escape from Tarkov            Player invite
+halostats.svc.halowaypoint.com                      #Halo: Infinite                Breaks leveling up
+api.epicgames.dev                                   #Insurgency: Sandstorm         Breaks anticheat
+ping1.tnt-ea.com                                    Plants vs Zombies: Heros       Check for internet
+country-code.pubg-ns-gate.com                       #PUPG: New State               Check for updates
+maintenance-gate.pubg-ns-gate.com                   #PUPG: New State               Check for updates
+cdn.enter-pubg-new-state.com                        #PUPG: New State               Check for updates
+lobby.pubg-ns-gate.com                              #PUPG: New State               Load pre-match screen
+event-img.enter-pubg-new-state.com                  #PUPG: New State               Breaks crate (Top Right, in Lobby)
+ebdsw.enter-pubg-new-state.com                      #PUPG: New State               What's New (Still pops up, just says "page not found")
+video.enter-pubg-new-state.com                      #PUPG: New State               Crate videos
+lb-rdv-siege-xplay-multiaz-prod.ubisoft.com         #Rainbow Six: Siege            Game will not launch
+gbranch.joycityglobal.com                           #Resident Evil Survival Unit   Download updates
+gsys1.joycityglobal.com                             #Resident Evil Survival Unit   Download updates
+strat-public-global.joycityglobal.com               #Resident Evil Survival Unit   Download updates
+gaccount1.joycityglobal.com                         #Resident Evil Survival Unit   Login
+gcontent1.joycityglobal.com                         #Resident Evil Survival Unit   Login
 
 
 #####################################################
