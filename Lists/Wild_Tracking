@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 16,861
-# Updated: 11/18/2025  10:26 (10:26 AM CST)
+# Domains: 16,863
+# Updated: 11/19/2025  23:38 (11:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -11360,6 +11360,7 @@ monopolymillionairesemail.com
 monsido.com
 monsterinsights.com
 montesano.com
+mon-trk.com
 monu.delivery
 moodleanalytics.com
 moodysanalytics.com
@@ -15027,6 +15028,7 @@ telemetry.microsoft.com
 telemetry.mozilla.org
 telemetry.nbcuott.com
 telemetry-p.aws.remedygames.online
+telemetry.services.yofi.ai
 telemetry.swe.quicinc.com
 telemetry.us-ashburn-1.oci.oraclecloud.com
 telemetryverification.net
