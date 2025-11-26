@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,056
-# Updated: 10/18/2025  02:06 (2:06 AM CST)
+# Domains: 1,057
+# Updated: 11/26/2025  08:55 (8:55 AM CST)
 #
 0.0.0.0 tedata.net
 0.0.0.0 te.eg
@@ -162,6 +162,7 @@
 0.0.0.0 softonic.pl
 0.0.0.0 softonic.ru
 0.0.0.0 softpedia.com
+0.0.0.0 taiwebs.com
 0.0.0.0 vessoft.com
 0.0.0.0 vessoftstatic.com
 0.0.0.0 winsite.com
