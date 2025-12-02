@@ -170,7 +170,8 @@ kaios-d.facebook.com                               #Facebook    Breaks Marketpla
 scontent.xx.fbcdn.net                              #Facebook    Comments *User Picture
 api.facebook.com                                   #Facebook
 connect.facebook.net                               #Facebook
-l.instagram.com                                    #Instagram   Links from Instagram's site
+l.instagram.com                                    #Instagram   Breaks links
+test-gateway.instagram.com                         #Instagram   Breaks message sync
 api.pinterest.com                                  #Pinterest
 mtalk.google.com                                   #SnapChat    Notifications
 alt1-mtalk.google.com                              #SnapChat    Notifications
