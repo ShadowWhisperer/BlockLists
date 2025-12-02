@@ -1,0 +1,146 @@
+#
+#    File: DNS
+#    Info: DNS Resolvers
+# Domains: 135
+# Updated: 9/23/2025  23:43 (11:43 PM CST)
+#
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
+#
+
+doh.360.cn                                              #360 Security
+dot.360.cn                                              #360 Security
+adguard.com                                             #AdGuard
+adguard-dns.com                                         #AdGuard
+adguard-dns.io                                          #AdGuard
+adguard.io                                              #AdGuard
+ahadns.net                                              #AhaDNS
+pi-dns.com                                              #AhaDNS
+alidns.com                                              #Ali DNS
+dns.aaflalo.me                                          #Antoine Aflalo
+dns-gcp.aaflalo.me                                      #Antoine Aflalo
+dns.apple.com                                           #Apple
+dns.apple.com.v.aaplimg.com                             #Apple
+mask.apple-dns.net                                      #Apple
+mask.icloud.com                                         #Apple
+doh.appliedprivacy.net                                  #Applied Privacy
+applied-privacy.net                                     #Applied Privacy
+arapurayil.com                                          #Arapurayil
+dohtrial.att.net                                        #AT&T
+securedns.avast.com                                     #Avira Antivirus
+bebasid.com                                             #BabasDNS
+dns.bitgeek.in                                          #Bitgeek Technologies
+rx.techomespace.com                                     #BlackMagicc DNS
+blahdns.com                                             #Blah DNS
+blokada.org                                             #Blokada
+dnscrypt-cert.captnemo.in                               #Captnemo DNS
+doh.captnemo.in                                         #Captnemo DNS
+dns.cfiec.net                                           #CFIEC
+canadianshield.cira.ca                                  #Cira
+cleanbrowsing.org                                       #Clean Browsing
+cloudflare-dns.com                                      #Cloudflare
+dns.cloudflare.com                                      #Cloudflare
+ns.cloudflare.com                                       #Cloudflare
+one.one.one.one                                         #Cloudflare
+comododns.com                                           #Comodo Cybersecurity
+dnsbycomodo.com                                         #Comodo Cybersecurity
+dns.controld.com                                        #Controld
+freedns.controld.com                                    #Controld
+dandelionsprout.asuscomm.com                            #Dandelion Sprout
+decloudus.com                                           #DeCloudUs
+digitale-gesellschaft.ch                                #Digitale Gesellschaft
+dnsbunker.org                                           #DNS Bunker
+dns.sb                                                  #DNS.SB
+dns-oarc.net                                            #DNS-OARC
+dnscrypt.info                                           #Dnscrypt
+dnsforfamily.com                                        #DNS For Family
+dnsforge.de                                             #DNS Forge
+dnslify.com                                             #Dnslify
+dnswarden.com                                           #DnsWarden
+dns0.eu                                                 #DNS Zero
+rdns.faelix.net                                         #Faelix
+doh.li                                                  #Feroz Salam
+use-application-dns.net                                 #FireFox (Doh)
+dnscrypt-cert.ffmuc.net                                 #Freifunk München
+doh.ffmuc.net                                           #Freifunk München
+dot.ffmuc.net                                           #Freifunk München
+futuredns.eu.org                                        #FutureDNS
+dnscrypt-cert.dnsrec.meo.ws                             #FVZ DNS
+privacydns.go6lab.si                                    #Go6 Lab
+dns.google.com                                          #Google
+dns.google                                              #Google
+dns-tunnel-check.googlezip.net                          #Google
+google-public-dns-a.google.com                          #Google
+google-public-dns-b.google.com                          #Google
+dns.hostux.net                                          #HostuxDNS
+ordns.he.net                                            #Hurricane Electric
+ibksturm.synology.me                                    #Ibksturm
+dns.iij.jp                                              #IIJ.JP DNS
+jupitrdns.com                                           #JupitrDNS
+resolver-eu.lelux.fi                                    #Lelux
+ns1.level3.net                                          #Level 3 Communications
+ns2.level3.net                                          #Level 3 Communications
+libredns.gr                                             #LibreDNS
+dns.marbledfennec.net                                   #Marbled Fennec Networks
+maradns.org                                             #MaraDNS
+dns.momou.ch                                            #Momou!
+dns.mullvad.net                                         #Mullvad
+mypdns.cloud                                            #My Privacy DNS
+mypdns.org                                              #My Privacy DNS
+nawala.id                                               #Nawala
+doh.netweaver.uk                                        #NetWeaver
+nextdns.io                                              #NextDNS
+dnsotls.lab.nic.cl                                      #Nic.cl
+odvr.nic.cz                                             #Nic.cz
+nwps.fi                                                 #LaxrFar
+dnsz.corp.nortonlifelock.com                            #Norton
+onedns.net                                              #OneDNS
+opendns.com                                             #OpenDNS
+openbld.net                                             #OpenBLD
+oszx.co                                                 #OSZX
+tiarap.org                                              #Privacy-First
+tiar.app                                                #Privacy-First
+pumplex.com                                             #PumpleX
+dns.twnic.tw                                            #Quad101
+quad9.net                                               #Quad9
+qis.io                                                  #Quadrant Security
+rabbitdns.org                                           #Rabbit DNS
+restena.lu                                              #Restena
+rethinkdns.com                                          #Rethink
+rubyfish.cn                                             #RubyFish
+safesurfer.co.nz                                        #Safe Surfer
+safesurfer.io                                           #Safe Surfer
+dns.seby.io                                             #Seby
+dot.seby.io                                             #Seby
+dns.brahma.world                                        #Stubby
+dnsovertls1.sinodun.com                                 #Stubby
+dnsovertls.sinodun.com                                  #Stubby
+getdnsapi.net                                           #Stubby
+dns.switch.ch                                           #Switch
+spacedns.org                                            #Space DNS
+doh-01.spectrum.com                                     #Spectrum
+doh-02.spectrum.com                                     #Spectrum
+doh-03.spectrum.com                                     #Spectrum
+sslip.io                                                #SSLIP
+dnsprivacy.org.uk                                       #UK DNS Privacy Project
+safedns.allover.co.za                                   #Ultimate.Hosts.Blacklist
+safedns2.allover.co.za                                  #Ultimate.Hosts.Blacklist
+usableprivacy.net                                       #UpDNS
+censurfridns.dk                                         #UncensoredDNS
+uncensoreddns.org                                       #UncensoredDNS
+wikimedia-dns.org                                       #Wikimedia DNS
+dns.seia.io                                             #Xstl DNS
+dns.yandex.net                                          #Yandex
+
+crypto.sx
+dns.cmrg.net
+dns.larsdebruin.net
+dns.neutopia.org
+dns.nixnet.xyz
+dnsprivacy.at
+dns.t53.de
+dns-tls.bitwiseshift.net
+doh.cq0.co
+doh.crypto.sx
+dohdot.coxlab.net
+doh.pub
