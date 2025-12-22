@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 113,627
-# Updated: 12/22/2025  12:44 (12:44 PM CST)
+# Domains: 113,628
+# Updated: 12/22/2025  14:34 (2:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -21040,6 +21040,7 @@ clickzinc.com
 client-analytics.braintreegateway.com
 client-errors.overwolf.com
 client-eventing-production01.cengage.info
+client-events.gambinoslot.com
 clientgear.com
 client-log.box.com
 client-logger.beta.salemove.com

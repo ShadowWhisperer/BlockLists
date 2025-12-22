@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 675
-# Updated: 12/19/2025  01:37 (1:37 AM CST)
+# Domains: 676
+# Updated: 12/22/2025  14:34 (2:34 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -33,6 +33,7 @@
 0.0.0.0 zip.co
 0.0.0.0 zipmoney.com.au
 0.0.0.0 alchemer.com
+0.0.0.0 asklayer.io
 0.0.0.0 brazzerssurvey.com
 0.0.0.0 brewsurvey.com
 0.0.0.0 chattysurvey.com

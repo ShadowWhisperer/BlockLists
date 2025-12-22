@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 675
-# Updated: 12/19/2025  01:37 (1:37 AM CST)
+# Domains: 676
+# Updated: 12/22/2025  14:34 (2:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -42,6 +42,7 @@ zip.co                                                  #Alt Pay Method
 zipmoney.com.au                                         #Alt Pay Method
 
 alchemer.com                                            #Survey
+asklayer.io                                             #Survey
 brazzerssurvey.com                                      #Survey
 brewsurvey.com                                          #Survey
 chattysurvey.com                                        #Survey
