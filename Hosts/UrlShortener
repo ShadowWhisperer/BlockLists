@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,725
-# Updated: 11/5/2025  17:41 (5:41 PM CST)
+# Domains: 5,727
+# Updated: 12/23/2025  10:47 (10:47 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -337,6 +337,7 @@
 0.0.0.0 aghq.top
 0.0.0.0 agileurbia.com
 0.0.0.0 agirz.com
+0.0.0.0 agll.ink
 0.0.0.0 agmd.win
 0.0.0.0 agoz.me
 0.0.0.0 agphosting.com
@@ -3378,6 +3379,7 @@
 0.0.0.0 otolink.pl
 0.0.0.0 otp.li
 0.0.0.0 ottv.co
+0.0.0.0 otw-news.org
 0.0.0.0 ouoi.in
 0.0.0.0 ourl.tw
 0.0.0.0 ourmagazines.co.uk
