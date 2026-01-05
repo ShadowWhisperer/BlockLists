@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,734
-# Updated: 12/29/2025  10:57 (10:57 AM CST)
+# Domains: 5,736
+# Updated: 1/5/2026  12:44 (12:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1306,6 +1306,7 @@ dourl.pl
 douyin.team
 dow.la
 download.fxsound.com
+downloadtonic.com
 dpba2404.com
 dpb.fm
 dpb.link
@@ -1737,6 +1738,7 @@ gfree.fr
 gf.to
 gfwtz.top
 gfxa.top
+ggapps.xyz
 ggayt.sbs
 ggilfz.link
 ggle.io
