@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 289
-# Updated: 12/2/2025  09:27 (9:27 AM CST)
+# Domains: 345
+# Updated: 1/8/2026  17:38 (5:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -75,6 +75,64 @@ finosfin.com                                   #Coupons
 hizonetech.com                                 #Coupons
 shopathome.com                                 #Coupons
 steamloto.org                                  #Coupons
+
+gamelift-ping.af-south-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ap-east-1.api.aws                         #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ap-northeast-1.api.aws                    #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ap-northeast-2.api.aws                    #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ap-south-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ap-southeast-1.api.aws                    #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ap-southeast-2.api.aws                    #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.ca-central-1.api.aws                      #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.eu-central-1.api.aws                      #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.eu-north-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.eu-south-1.api.aws                        #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.eu-west-1.api.aws                         #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.eu-west-2.api.aws                         #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.eu-west-3.api.aws                         #Games  Foreign game servers - High ping, if from USA
+gamelift-ping.sa-east-1.api.aws                         #Games  Foreign game servers - High ping, if from USA
+pfmsqos.australiaeast.cloudapp.azure.com                #Games  Foreign game servers - High ping, if from USA
+pfmsqos.australiasoutheast.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
+pfmsqos.brazilsouth.cloudapp.azure.com                  #Games  Foreign game servers - High ping, if from USA
+pfmsqos.eastasia.cloudapp.azure.com                     #Games  Foreign game servers - High ping, if from USA
+pfmsqos.japaneast.cloudapp.azure.com                    #Games  Foreign game servers - High ping, if from USA
+pfmsqos.japanwest.cloudapp.azure.com                    #Games  Foreign game servers - High ping, if from USA
+pfmsqos.northeurope.cloudapp.azure.com                  #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.australiaeast.cloudapp.azure.com         #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.brazilsouth.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.eastasia.cloudapp.azure.com              #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.japaneast.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.northeurope.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.southafricanorth.cloudapp.azure.com      #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.southeastasia.cloudapp.azure.com         #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.uaenorth.cloudapp.azure.com              #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod1-0.westeurope.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.australiaeast.cloudapp.azure.com         #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.brazilsouth.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.eastasia.cloudapp.azure.com              #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.japaneast.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.northeurope.cloudapp.azure.com           #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.southafricanorth.cloudapp.azure.com      #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.southeastasia.cloudapp.azure.com         #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.uaenorth.cloudapp.azure.com              #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod2-0.westeurope.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.australiaeast.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.australiasoutheast.cloudapp.azure.com       #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.eastasia.cloudapp.azure.com                 #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.japaneast.cloudapp.azure.com                #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.japanwest.cloudapp.azure.com                #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.northeurope.cloudapp.azure.com              #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.southafricanorth.cloudapp.azure.com         #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.southeastasia.cloudapp.azure.com            #Games  Foreign game servers - High ping, if from USA
+pfmsqosprod.westeurope.cloudapp.azure.com               #Games  Foreign game servers - High ping, if from USA
+pfmsqos.southafricanorth.cloudapp.azure.com             #Games  Foreign game servers - High ping, if from USA
+pfmsqos.southeastasia.cloudapp.azure.com                #Games  Foreign game servers - High ping, if from USA
+pfmsqos.westeurope.cloudapp.azure.com                   #Games  Foreign game servers - High ping, if from USA
+pfmsqssi.uaenorth.cloudapp.azure.com                    #Games  Foreign game servers - High ping, if from USA
+
+pay.mgapex.com                                          #Game   Apex Legends - In Game Purchases
+pachinko-api.wbagora.com                                #Game   Injustice 2 - Multiplayer
+wb-agora-hydra-file-storage-pachinko.s3.amazonaws.com   #Game   Injustice 2 - ?
 
 pch.com                                        #Prizes / Giveaways
 thedailywinnings.com                           #Prizes / Giveaways

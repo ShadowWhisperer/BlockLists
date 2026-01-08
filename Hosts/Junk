@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 289
-# Updated: 12/2/2025  09:27 (9:27 AM CST)
+# Domains: 345
+# Updated: 1/8/2026  17:38 (5:38 PM CST)
 #
 0.0.0.0 superantispyware.com
 0.0.0.0 enigmasoftware.com
@@ -64,6 +64,62 @@
 0.0.0.0 hizonetech.com
 0.0.0.0 shopathome.com
 0.0.0.0 steamloto.org
+0.0.0.0 gamelift-ping.af-south-1.api.aws
+0.0.0.0 gamelift-ping.ap-east-1.api.aws
+0.0.0.0 gamelift-ping.ap-northeast-1.api.aws
+0.0.0.0 gamelift-ping.ap-northeast-2.api.aws
+0.0.0.0 gamelift-ping.ap-south-1.api.aws
+0.0.0.0 gamelift-ping.ap-southeast-1.api.aws
+0.0.0.0 gamelift-ping.ap-southeast-2.api.aws
+0.0.0.0 gamelift-ping.ca-central-1.api.aws
+0.0.0.0 gamelift-ping.eu-central-1.api.aws
+0.0.0.0 gamelift-ping.eu-north-1.api.aws
+0.0.0.0 gamelift-ping.eu-south-1.api.aws
+0.0.0.0 gamelift-ping.eu-west-1.api.aws
+0.0.0.0 gamelift-ping.eu-west-2.api.aws
+0.0.0.0 gamelift-ping.eu-west-3.api.aws
+0.0.0.0 gamelift-ping.sa-east-1.api.aws
+0.0.0.0 pfmsqos.australiaeast.cloudapp.azure.com
+0.0.0.0 pfmsqos.australiasoutheast.cloudapp.azure.com
+0.0.0.0 pfmsqos.brazilsouth.cloudapp.azure.com
+0.0.0.0 pfmsqos.eastasia.cloudapp.azure.com
+0.0.0.0 pfmsqos.japaneast.cloudapp.azure.com
+0.0.0.0 pfmsqos.japanwest.cloudapp.azure.com
+0.0.0.0 pfmsqos.northeurope.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.australiaeast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.brazilsouth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.eastasia.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.japaneast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.northeurope.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.southafricanorth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.southeastasia.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.uaenorth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod1-0.westeurope.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.australiaeast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.brazilsouth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.eastasia.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.japaneast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.northeurope.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.southafricanorth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.southeastasia.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.uaenorth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod2-0.westeurope.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.australiaeast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.australiasoutheast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.eastasia.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.japaneast.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.japanwest.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.northeurope.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.southafricanorth.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.southeastasia.cloudapp.azure.com
+0.0.0.0 pfmsqosprod.westeurope.cloudapp.azure.com
+0.0.0.0 pfmsqos.southafricanorth.cloudapp.azure.com
+0.0.0.0 pfmsqos.southeastasia.cloudapp.azure.com
+0.0.0.0 pfmsqos.westeurope.cloudapp.azure.com
+0.0.0.0 pfmsqssi.uaenorth.cloudapp.azure.com
+0.0.0.0 pay.mgapex.com
+0.0.0.0 pachinko-api.wbagora.com
+0.0.0.0 wb-agora-hydra-file-storage-pachinko.s3.amazonaws.com
 0.0.0.0 pch.com
 0.0.0.0 thedailywinnings.com
 0.0.0.0 harpquiz.com

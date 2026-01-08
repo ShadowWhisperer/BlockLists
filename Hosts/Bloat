@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 676
-# Updated: 12/22/2025  14:34 (2:34 PM CST)
+# Domains: 635
+# Updated: 1/8/2026  17:38 (5:38 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -267,47 +267,6 @@
 0.0.0.0 candycrush.king.com
 0.0.0.0 candycrushsoda.king.com
 0.0.0.0 ccs.play.king.com
-0.0.0.0 pfmsqos.australiaeast.cloudapp.azure.com
-0.0.0.0 pfmsqos.australiasoutheast.cloudapp.azure.com
-0.0.0.0 pfmsqos.brazilsouth.cloudapp.azure.com
-0.0.0.0 pfmsqos.eastasia.cloudapp.azure.com
-0.0.0.0 pfmsqos.japaneast.cloudapp.azure.com
-0.0.0.0 pfmsqos.japanwest.cloudapp.azure.com
-0.0.0.0 pfmsqos.northeurope.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.australiaeast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.brazilsouth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.eastasia.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.japaneast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.northeurope.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.southafricanorth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.southeastasia.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.uaenorth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod1-0.westeurope.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.australiaeast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.brazilsouth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.eastasia.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.japaneast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.northeurope.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.southafricanorth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.southeastasia.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.uaenorth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod2-0.westeurope.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.australiaeast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.australiasoutheast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.eastasia.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.japaneast.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.japanwest.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.northeurope.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.southafricanorth.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.southeastasia.cloudapp.azure.com
-0.0.0.0 pfmsqosprod.westeurope.cloudapp.azure.com
-0.0.0.0 pfmsqos.southafricanorth.cloudapp.azure.com
-0.0.0.0 pfmsqos.southeastasia.cloudapp.azure.com
-0.0.0.0 pfmsqos.westeurope.cloudapp.azure.com
-0.0.0.0 pfmsqssi.uaenorth.cloudapp.azure.com
-0.0.0.0 pay.mgapex.com
-0.0.0.0 pachinko-api.wbagora.com
-0.0.0.0 wb-agora-hydra-file-storage-pachinko.s3.amazonaws.com
 0.0.0.0 experience.amd.com
 0.0.0.0 ama-api.isappcloud.com
 0.0.0.0 ape-asus.isappcloud.com
