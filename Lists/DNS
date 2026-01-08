@@ -1,8 +1,8 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 138
-# Updated: 12/11/2025  22:36 (10:36 PM CST)
+# Domains: 140
+# Updated: 1/8/2026  01:07 (1:07 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -53,6 +53,7 @@ decloudus.com                                           #DeCloudUs
 digitale-gesellschaft.ch                                #Digitale Gesellschaft
 dns4all.eu                                              #Dns4All
 dnsbunker.org                                           #DNS Bunker
+dnscrypt.ca                                             #DNS Bunker
 dns.sb                                                  #DNS.SB
 dns-oarc.net                                            #DNS-OARC
 dnscrypt.info                                           #Dnscrypt
@@ -136,6 +137,7 @@ dns.seia.io                                             #Xstl DNS
 dns.yandex.net                                          #Yandex
 
 crypto.sx
+dns.circl.lu
 dns.cmrg.net
 dns.larsdebruin.net
 dns.neutopia.org

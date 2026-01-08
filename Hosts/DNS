@@ -1,8 +1,8 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 138
-# Updated: 12/11/2025  22:36 (10:36 PM CST)
+# Domains: 140
+# Updated: 1/8/2026  01:07 (1:07 AM CST)
 #
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
@@ -49,6 +49,7 @@
 0.0.0.0 digitale-gesellschaft.ch
 0.0.0.0 dns4all.eu
 0.0.0.0 dnsbunker.org
+0.0.0.0 dnscrypt.ca
 0.0.0.0 dns.sb
 0.0.0.0 dns-oarc.net
 0.0.0.0 dnscrypt.info
@@ -131,6 +132,7 @@
 0.0.0.0 dns.seia.io
 0.0.0.0 dns.yandex.net
 0.0.0.0 crypto.sx
+0.0.0.0 dns.circl.lu
 0.0.0.0 dns.cmrg.net
 0.0.0.0 dns.larsdebruin.net
 0.0.0.0 dns.neutopia.org
