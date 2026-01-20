@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 578
-# Updated: 12/9/2025  15:48 (3:48 PM CST)
+# Domains: 577
+# Updated: 1/20/2026  10:07 (10:07 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -536,7 +536,6 @@ onerm.olsvc.com
 optanon.blob.core.windows.net
 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 osizpcusmagenta001.blob.core.windows.net
-otelrules.svc.static.microsoft
 outlook.cloud.microsoft
 outlook-exo.trafficmanager.net
 packages.dmd.metaservices.microsoft.com

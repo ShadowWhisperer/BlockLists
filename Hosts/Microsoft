@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 578
-# Updated: 12/9/2025  15:48 (3:48 PM CST)
+# Domains: 577
+# Updated: 1/20/2026  10:07 (10:07 AM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -495,7 +495,6 @@
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 orca9o5ptld7p8kl709wbwth.blob.core.windows.net
 0.0.0.0 osizpcusmagenta001.blob.core.windows.net
-0.0.0.0 otelrules.svc.static.microsoft
 0.0.0.0 outlook.cloud.microsoft
 0.0.0.0 outlook-exo.trafficmanager.net
 0.0.0.0 packages.dmd.metaservices.microsoft.com
