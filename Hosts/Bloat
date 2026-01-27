@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 635
-# Updated: 1/8/2026  17:38 (5:38 PM CST)
+# Domains: 634
+# Updated: 1/27/2026  00:40 (12:40 AM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -317,7 +317,6 @@
 0.0.0.0 photos.googleapis.com
 0.0.0.0 firebaseinappmessaging.googleapis.com
 0.0.0.0 firebaseperusertopics-pa.googleapis.com
-0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 hangouts.google.com
 0.0.0.0 nearbysharing-pa.googleapis.com

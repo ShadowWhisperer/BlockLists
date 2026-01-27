@@ -1,8 +1,8 @@
 #
 #    File: Bloat
 #    Info: Domains not required for software to function
-# Domains: 635
-# Updated: 1/8/2026  17:38 (5:38 PM CST)
+# Domains: 634
+# Updated: 1/27/2026  00:40 (12:40 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Bloat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -334,7 +334,6 @@ photosdata-pa.googleapis.com                            #Google  Photos
 photos.googleapis.com                                   #Google  Photos
 firebaseinappmessaging.googleapis.com                   #Google  FireBase
 firebaseperusertopics-pa.googleapis.com                 #Google  FireBase
-firebaseremoteconfig.googleapis.com                     #Google  FireBase
 firebasestorage.googleapis.com                          #Google  FireBase
 hangouts.google.com                                     #Google    Hangouts (Defunct)
 nearbysharing-pa.googleapis.com                         #Google    Nearby Sharing
@@ -425,7 +424,7 @@ sandbox.l.google.com                                    #Google
 scone-pa.googleapis.com                                 #Google
 script.google.com                                       #Google
 script.googleusercontent.com                            #Google
-securitydomain-pa.googleapis.com                        #Google
+securitydomain-pa.googleapis.com                        #Google - Might break Google Key
 services.google.com                                     #Google
 subscriptionssettings-pa.googleapis.com                 #Google
 sustainability.google                                   #Google
