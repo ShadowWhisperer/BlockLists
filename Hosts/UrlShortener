@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,754
-# Updated: 1/12/2026  18:12 (6:12 PM CST)
+# Domains: 5,756
+# Updated: 2/2/2026  11:54 (11:54 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -4531,6 +4531,7 @@
 0.0.0.0 t2m.co
 0.0.0.0 t2m.io
 0.0.0.0 t2mio.com
+0.0.0.0 t.360scm.com
 0.0.0.0 t77reg.click
 0.0.0.0 taedy.com
 0.0.0.0 tahmil.net
@@ -5143,6 +5144,7 @@
 0.0.0.0 urlxray.com
 0.0.0.0 urly.co
 0.0.0.0 urlz.at
+0.0.0.0 url.zeus27.com
 0.0.0.0 urlz.fr
 0.0.0.0 urlz.my
 0.0.0.0 urlzs.in
