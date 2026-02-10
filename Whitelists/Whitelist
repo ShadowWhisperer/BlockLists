@@ -258,6 +258,7 @@ apx-security.amazon.com                                        #Amazon - Breaks 
 devices.a2z.com                                                #Amazon - Breaks Echo cnames
 d1nruqhae353qc.cloudfront.net                                  #Amazon - Breaks "Join Prime" popup
 aax-us-iad.amazon.com                                          #Amazon - Breaks links on site
+aax-us-east-retail-direct.amazon.com                           #Amazon - Breaks links on site
 mas-ext.amazon.com                                             #Amazon - FireStick - App Downloads
 ftv-smp.ntp-fireos.com                                         #Amazon - FireStick - Date & Time
 unagi.amazon.com                                               #Amazon - Audible - Breaks it
