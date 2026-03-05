@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 496
-# Updated: 2/5/2026  21:17 (9:17 PM CST)
+# Domains: 499
+# Updated: 3/5/2026  12:18 (12:18 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -20,6 +20,7 @@ agencychatbot.app
 agentz.ai
 aihelp.net
 aihelp.net.qiniudns.com
+aimdoc.ai
 airbud.io
 alamy-livechat.secure.force.com
 alimebot.aliexpress.com
@@ -359,6 +360,7 @@ nuance-va.com
 nuteqsolutions.com
 oc-cdn-ocprod.azureedge.net
 ocelotbot.com
+octocom.ai
 oggchat2.icoa.com
 olark.com
 ometrics.com
@@ -410,6 +412,7 @@ rul.ai
 salesforceliveagent.com
 salesiq.zoho.com
 sales-live-chat.stripe.com
+salesmartly.com
 satis.fi
 satisfilabs.com
 save-optimy-cdn-staging.s3.ca-central-1.amazonaws.com
