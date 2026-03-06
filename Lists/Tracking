@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 114,063
-# Updated: 3/5/2026  12:18 (12:18 PM CST)
+# Domains: 114,064
+# Updated: 3/6/2026  01:24 (1:24 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -95568,7 +95568,6 @@ stat.rew.pl
 stat.r-hv.com
 stat.rickenbach-tg.ch
 stat.rigexpert.com
-stat.ripe.net
 stat.rkltuovinen.fi
 stat-rock.com
 stat.rockfish-river.com
@@ -105696,6 +105695,7 @@ telemetry_ads.msn.com
 telemetry.am.pictet.com
 telemetry.api.2kcoretech.online
 telemetryapi.logos.com
+telemetry.api.mylyve.com
 telemetry.api.playstation.com
 telemetry.api.wmcdp.io
 telemetry.bowflex.ca
@@ -110708,6 +110708,7 @@ usage.osmap.de
 usage.osmappa.it
 usage.osmap.uk
 usage.osmap.us
+usage-ping.brave.com
 usage-reporter.duplicati.com
 usage.weba-sonnenschirme.de
 usamidia.v4company.com
