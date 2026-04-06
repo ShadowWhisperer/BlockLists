@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,010
-# Updated: 4/1/2026  12:25 (12:25 PM CST)
+# Domains: 1,011
+# Updated: 4/6/2026  10:31 (10:31 AM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -953,6 +953,7 @@
 0.0.0.0 vpnrice.com
 0.0.0.0 vpns.best
 0.0.0.0 vpn-sd.ff.avast.com
+0.0.0.0 vpnshieldapp.com
 0.0.0.0 vpnsuper.app
 0.0.0.0 vpntunnel.com
 0.0.0.0 vpnunlimitedapp.com
