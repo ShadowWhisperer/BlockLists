@@ -1,0 +1,1373 @@
+#
+#    File: Top_Level
+#    Info: Top Level Domains: Will block most non-traditional domains
+# Domains: 1,301
+# Updated: 6/6/2025  23:41 (11:41 PM CST)
+#
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Top_Level
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
+#
+
+
+# Not Blocked
+####################
+#
+#  .com
+#  .co.uk
+#  .edu
+#  .gov
+#  .net
+#  .org
+#
+#  .mil
+#
+#  .cloud
+#  .deals
+#  .email
+#  .guide
+#  .media
+#  .page
+#  .software
+#  .supply
+#  .tech
+#  .video
+#  .wiki
+#
+#  .be       Belgium
+#  .ca       Canada
+#  .ch       Switzerland
+#  .berlin   Germany
+#  .de       Germany
+#  .es       Spain
+#  .fm       Federated States of Micronesia
+#  .fr       France
+#  .ie       Ireland
+#  .it       Italy
+#  .se       Sweden
+#  .uk       UK
+#  .eu       European Union
+#
+
+.abb
+.abbott
+.abbvie
+.abc
+.abogado
+.abudhabi
+.academy
+.accenture
+.accountant
+.accountants
+.aco
+.actor
+.adac
+.ads
+.adult
+.aero
+.agakhan
+.agency
+.ai
+.aig
+.ai.net
+.airbus
+.airforce
+.airtel
+.akdn
+.alibaba
+.alipay
+.allfinanz
+.allstate
+.ally
+.alstom
+.amazon
+.americanexpress
+.americanfamily
+.amex
+.amfam
+.amica
+.analytics
+.android
+.anquan
+.anz
+.aol
+.apartments
+.app
+.aquarelle
+.arab
+.aramco
+.archi
+.army
+.arpa
+.art
+.arte
+.asda
+.associates
+.athleta
+.attorney
+.auction
+.audi
+.audible
+.audio
+.auspost
+.author
+.auto
+.autos
+.aws
+.axa
+.azure
+.baby
+.baidu
+.banamex
+.band
+.bank
+.bar
+.barcelona
+.barclaycard
+.barclays
+.barefoot
+.bargains
+.baseball
+.basketball
+.bauhaus
+.bayern
+.bbc
+.bbt
+.bbva
+.bcg
+.bcn
+.beats
+.beauty
+.beer
+.best
+.bestbuy
+.bet
+.bharti
+.bible
+.bid
+.bike
+.bing
+.bingo
+.bio
+.biz
+.black
+.blackfriday
+.blockbuster
+.blog
+.bloomberg
+.blue
+.bms
+.bmw
+.bnpparibas
+.boats
+.boehringer
+.bofa
+.bom
+.bond
+.boo
+.book
+.booking
+.bosch
+.bostik
+.boston
+.bot
+.boutique
+.box
+.bradesco
+.bridgestone
+.broadway
+.broker
+.brother
+.brown
+.brussels
+.build
+.builders
+.business
+.buy
+.buzz
+.cab
+.cafe
+.cal
+.call
+.calvinklein
+.cam
+.camera
+.camp
+.canon
+.capetown
+.capital
+.capitalone
+.car
+.caravan
+.cards
+.care
+.career
+.careers
+.cars
+.casa
+.case
+.cash
+.casino
+.cat
+.catering
+.catholic
+.cba
+.cbn
+.cbre
+.center
+.ceo
+.cern
+.cfa
+.cfd
+.chanel
+.channel
+.charity
+.chase
+.chat
+.cheap
+.chintai
+.christmas
+.chrome
+.church
+.cipriani
+.circle
+.cisco
+.citadel
+.citi
+.citic
+.city
+.claims
+.cleaning
+.click
+.clinic
+.clinique
+.clothing
+.club
+.clubmed
+.coach
+.codes
+.coffee
+.college
+.cologne
+.commbank
+.community
+.company
+.compare
+.computer
+.comsec
+.condos
+.construction
+.consulting
+.contact
+.contractors
+.cooking
+.cool
+.coop
+.corsica
+.country
+.coupon
+.coupons
+.courses
+.cpa
+.credit
+.creditcard
+.creditunion
+.cricket
+.crown
+.crs
+.cruise
+.cruises
+.cuisinella
+.cymru
+.cyou
+.dad
+.dance
+.data
+.date
+.dating
+.datsun
+.day
+.dclk
+.dds
+.deal
+.dealer
+.degree
+.delivery
+.dell
+.deloitte
+.delta
+.democrat
+.dental
+.dentist
+.desi
+.design
+.dev
+.dhl
+.diamonds
+.diet
+.digital
+.direct
+.directory
+.disabled
+.discount
+.discover
+.dish
+.diy
+.dnp
+.docs
+.doctor
+.dog
+.dom
+.domains
+.dot
+.download
+.drive
+.dtv
+.dubai
+.duck
+.dunlop
+.dupont
+.durban
+.dvag
+.dvr
+.earth
+.eat
+.eco
+.edeka
+.education
+.emerck
+.energy
+.engineer
+.engineering
+.enterprises
+.epson
+.equipment
+.ericsson
+.erni
+.esq
+.estate
+.eurovision
+.eus
+.events
+.exchange
+.expert
+.exposed
+.express
+.extraspace
+.fage
+.fail
+.fairwinds
+.faith
+.family
+.fan
+.fans
+.farm
+.farmers
+.fashion
+.fast
+.fedex
+.feedback
+.ferrari
+.ferrero
+.fidelity
+.fido
+.film
+.final
+.finance
+.financial
+.fire
+.firestone
+.firmdale
+.fish
+.fishing
+.fit
+.fitness
+.flickr
+.flights
+.flir
+.florist
+.flowers
+.fly
+.foo
+.food
+.football
+.ford
+.forex
+.forsale
+.forum
+.foundation
+.fox
+.free
+.fresenius
+.frogans
+.frontier
+.ftr
+.fujitsu
+.fun
+.fund
+.furniture
+.futbol
+.fyi
+.gal
+.gallery
+.gallo
+.gallup
+.game
+.games
+.gap
+.garden
+.gay
+.gbiz
+.gdn
+.gea
+.gent
+.genting
+.george
+.ggee
+.gift
+.gifts
+.gives
+.giving
+.glass
+.gle
+.global
+.globo
+.gmail
+.gmbh
+.gmo
+.gmx
+.godaddy
+.gold
+.goldpoint
+.golf
+.goo
+.goodyear
+.gop
+.got
+.grainger
+.graphics
+.gratis
+.green
+.gripe
+.grocery
+.group
+.guardian
+.gucci
+.guge
+.guitars
+.guru
+.hair
+.hangout
+.haus
+.hbo
+.hdfc
+.hdfcbank
+.health
+.healthcare
+.help
+.helsinki
+.here
+.hermes
+.hiphop
+.hisamitsu
+.hitachi
+.hiv
+.hkt
+.hockey
+.holdings
+.holiday
+.home
+.homedepot
+.homegoods
+.homes
+.homesense
+.honda
+.horse
+.hospital
+.host
+.hosting
+.hot
+.hotels
+.hotmail
+.house
+.how
+.hsbc
+.html
+.hughes
+.hyatt
+.hyundai
+.ibm
+.icbc
+.ice
+.icu
+.ieee
+.ifm
+.ikano
+.imamat
+.imdb
+.immo
+.immobilien
+.imrworld
+.inc
+.industries
+.infiniti
+.info
+.ing
+.ink
+.institute
+.insurance
+.insure
+.int
+.international
+.intuit
+.invalid
+.investments
+.ipiranga
+.irish
+.ismaili
+.ist
+.itau
+.itv
+.jaguar
+.java
+.jcb
+.jeep
+.jetzt
+.jewelry
+.jio
+.jll
+.jmp
+.jnj
+.jobs
+.joburg
+.jot
+.joy
+.jpmorgan
+.jprs
+.juegos
+.juniper
+.kaufen
+.kddi
+.kerryhotels
+.kerryproperties
+.kfh
+.kia
+.kids
+.kim
+.kindle
+.kitchen
+.kiwi
+.koeln
+.komatsu
+.kosher
+.kpmg
+.kpn
+.krd
+.kred
+.kuokgroup
+.kyoto
+.lacaixa
+.lamborghini
+.lamer
+.lancaster
+.land
+.landrover
+.lanxess
+.lasalle
+.lat
+.latino
+.latrobe
+.law
+.lawyer
+.lds
+.lease
+.leclerc
+.lefrak
+.legal
+.lego
+.lexus
+.lgbt
+.lidl
+.life
+.lifeinsurance
+.lifestyle
+.lighting
+.like
+.lilly
+.limited
+.limo
+.lincoln
+.link
+.live
+.living
+.llc
+.llp
+.loan
+.loans
+.locker
+.locus
+.lol
+.london
+.lotte
+.lotto
+.love
+.lpl
+.lplfinancial
+.ltd
+.ltda
+.lundbeck
+.luxe
+.luxury
+.maif
+.maison
+.makeup
+.man
+.management
+.mango
+.map
+.market
+.marketing
+.markets
+.marriott
+.marshalls
+.mattel
+.mba
+.mckinsey
+.med
+.meet
+.melbourne
+.meme
+.memorial
+.men
+.menu
+.merckmsd
+.miami
+.mini
+.mint
+.mit
+.mitsubishi
+.mlb
+.mls
+.mma
+.mobi
+.mobile
+.moda
+.moe
+.moi
+.mom
+.monash
+.money
+.monster
+.mormon
+.mortgage
+.moto
+.motorcycles
+.mov
+.movie
+.msd
+.mtn
+.mtr
+.museum
+.music
+.nab
+.nagoya
+.name
+.navy
+.nba
+.nec
+.netbank
+.netflix
+.network
+.neustar
+.new
+.news
+.next
+.nextdirect
+.nexus
+.nfl
+.ngo
+.nhk
+.nico
+.nike
+.nikon
+.ninja
+.nissan
+.nissay
+.nokia
+.norton
+.now
+.nowruz
+.nowtv
+.nra
+.nrw
+.ntt
+.nyc
+.obi
+.observer
+.office
+.okinawa
+.olayan
+.olayangroup
+.ollo
+.omega
+.one
+.ong
+.onl
+.online
+.ooo
+.open
+.oracle
+.orange
+.organic
+.origins
+.osaka
+.otsuka
+.ott
+.ovh
+.panasonic
+.paris
+.pars
+.partners
+.parts
+.party
+.pay
+.pccw
+.pet
+.pfizer
+.pharmacy
+.phd
+.philips
+.phone
+.photo
+.photography
+.photos
+.php
+.physio
+.pics
+.pictet
+.pictures
+.pid
+.pin
+.ping
+.pink
+.pioneer
+.pizza
+.place
+.play
+.playstation
+.plumbing
+.plus
+.pnc
+.pohl
+.poker
+.politie
+.porn
+.post
+.pramerica
+.praxi
+.press
+.prime
+.pro
+.prod
+.productions
+.prof
+.progressive
+.promo
+.properties
+.property
+.protection
+.pru
+.prudential
+.pub
+.pwc
+.qpon
+.quebec
+.quest
+.racing
+.radio
+.raid
+.read
+.realestate
+.realtor
+.realty
+.recipes
+.red
+.redstone
+.redumbrella
+.rehab
+.reise
+.reisen
+.reit
+.reliance
+.ren
+.rent
+.rentals
+.repair
+.report
+.republican
+.rest
+.restaurant
+.review
+.reviews
+.rexroth
+.rich
+.richardli
+.ricoh
+.ril
+.rio
+.rip
+.rocks
+.rodeo
+.rogers
+.room
+.rsvp
+.rugby
+.ruhr
+.run
+.rwe
+.ryukyu
+.saarland
+.safe
+.safety
+.sakura
+.sale
+.salon
+.samsclub
+.samsung
+.sandvik
+.sandvikcoromant
+.sanofi
+.sap
+.sarl
+.sas
+.save
+.saxo
+.sbi
+.sbs
+.scb
+.schaeffler
+.schmidt
+.scholarships
+.school
+.schule
+.schwarz
+.science
+.scot
+.search
+.seat
+.secure
+.security
+.seek
+.select
+.sener
+.services
+.seven
+.sew
+.sex
+.sexy
+.sfr
+.shangrila
+.sharp
+.shell
+.shia
+.shiksha
+.shoes
+.shop
+.shopping
+.shouji
+.show
+.silk
+.sina
+.singles
+.site
+.size
+.ski
+.skin
+.sky
+.skype
+.sling
+.smart
+.smile
+.sncf
+.soccer
+.social
+.softbank
+.software
+.sohu
+.solar
+.solutions
+.song
+.sony
+.soy
+.spa
+.space
+.sport
+.spot
+.spreadbetting
+.srl
+.stada
+.staples
+.star
+.statebank
+.statefarm
+.stc
+.stcgroup
+.stockholm
+.storage
+.store
+.stream
+.studio
+.study
+.style
+.sucks
+.supplies
+.supply
+.support
+.surf
+.surgery
+.suzuki
+.swatch
+.swiss
+.sydney
+.systems
+.tab
+.taipei
+.talk
+.taobao
+.target
+.tatamotors
+.tatar
+.tattoo
+.tax
+.taxi
+.tci
+.tdk
+.team
+.technology
+.tel
+.temasek
+.tennis
+.teva
+.thd
+.theater
+.theatre
+.tiaa
+.tickets
+.tienda
+.tiffany
+.tips
+.tires
+.tirol
+.tjmaxx
+.tjx
+.tkmaxx
+.tld
+.tmall
+.today
+.tools
+.top
+.toray
+.toshiba
+.total
+.tours
+.town
+.toyota
+.toys
+.trade
+.trading
+.training
+.travel
+.travelers
+.travelersinsurance
+.trust
+.trv
+.tube
+.tui
+.tunes
+.tushu
+.tvs
+.ubank
+.ubs
+.unicom
+.university
+.uno
+.uol
+.ups
+.vacations
+.vana
+.vanguard
+.vegas
+.ventures
+.verisign
+.versicherung
+.vet
+.viajes
+.video
+.vig
+.viking
+.villas
+.vin
+.vip
+.virgin
+.visa
+.vision
+.viva
+.vivo
+.vlaanderen
+.vodka
+.volvo
+.vote
+.voting
+.voto
+.voyage
+.wales
+.walmart
+.walter
+.wang
+.wanggou
+.watch
+.watches
+.weather
+.weatherchannel
+.webcam
+.weber
+.website
+.wed
+.wedding
+.weibo
+.weir
+.whoswho
+.wien
+.wiki
+.williamhill
+.win
+.windows
+.wine
+.winners
+.wme
+.wolterskluwer
+.woodside
+.work
+.works
+.world
+.wow
+.wtc
+.wtf
+.xihuan
+.xin
+.xyz
+.yachts
+.yahoo
+.yamaxun
+.yandex
+.yodobashi
+.yoga
+.yokohama
+.you
+.yun
+.zappos
+.zara
+.zero
+.zip
+.zone
+.zuerich
+
+.bin         #Invalid
+.cmd         #Invalid
+.exe         #Invalid
+.js          #Invalid
+
+.eh          #Unassigned
+.fw          #Unassigned
+
+.test        #Reserved / Local use
+.local       #Local use
+
+.aaa         #AAA Insurance
+.aeg         #Electrolux - Home Appliances
+.aetna       #Aetna Inc. - Health Care Company
+.aarp        #American Association of Retired Persons
+.abarth      #Abarth - Car Company
+.able        #Able Inc. - Non-profit for disabled peole
+.apple       #Apple
+.afl         #Australian Football League
+.goog        #Google
+.google      #Google
+.youtube     #Google
+.microsoft   #Microsoft
+.xbox        #Microsoft
+.xerox       #Xerox
+
+
+.an          #Not Used - Netherlands Antilles (North America)
+.mf          #Not Used - Saint Martin (North America)
+
+.alsace      #lsatia - Cultural region in eastern France
+.bzh         #Brittany / Breton Culture & Languages
+
+.tf          #Multiple - French Southern & Antarctic Lands
+.bv          #No Continent - Bouvet Island
+
+.africa      #Africa
+.cf          #Africa - African Republic
+.dz          #Africa - Algeria
+.ao          #Africa - Angola
+.bj          #Africa - Benin
+.bw          #Africa - Botswana
+.bf          #Africa - Burkina Faso
+.bi          #Africa - Burundi
+.cv          #Africa - Cape Verde
+.td          #Africa - Chad
+.cm          #Africa - Cameroon
+.km          #Africa - Comoros
+.cd          #Africa - Congo
+.cg          #Africa - Congo
+.ci          #Africa - Côte d'Ivoire
+.dj          #Africa - Djibouti
+.gq          #Africa - Equatorial Guinea
+.er          #Africa - Eritrea
+.sz          #Africa - Eswatini
+.et          #Africa - Ethiopia
+.ga          #Africa - Gabon
+.gm          #Africa - The Gambia
+.gn          #Africa - Guinea
+.gw          #Africa - Guinea-Bissau
+.ke          #Africa - Kenya
+.ls          #Africa - Lesotho
+.lr          #Africa - Liberia
+.ly          #Africa - Libya
+.mg          #Africa - Madagascar
+.mw          #Africa - Malawi
+.ml          #Africa - Mali
+.yt          #Africa - Mayotte (Owned by the French)
+.mr          #Africa - Mauritania
+.mu          #Africa - Mauritius
+.ma          #Africa - Morocco
+.na          #Africa - Namibia
+.ne          #Africa - Niger
+.re          #Africa - Réunion
+.rw          #Africa - Rwanda
+.ac          #Africa - Saint Helena
+.sh          #Africa - Saint Helena
+.so          #Africa - Somalia
+.st          #Africa - São Tomé & Príncipe
+.sn          #Africa - Senegal
+.sc          #Africa - Seychelles
+.sl          #Africa - Sierra Leone
+.za          #Africa - South Africa
+.ss          #Africa - South Sudan
+.sd          #Africa - Sudan
+.tz          #Africa - Tanzania
+.tg          #Africa - Togo
+.tn          #Africa - Tunisia
+.ug          #Africa - Uganda
+.zm          #Africa - Zambia
+.zw          #Africa - Zimbabwe
+
+.eg          #Africa / Asia - Egypt
+
+.madrid      #Africa / Europe - Madrid, Spain
+
+.aq          #Antarctica
+.gs          #Antarctica - South Georgia / South Sandwich Islands
+
+.asia        #Asia
+.af          #Asia - Afghanistan
+.am          #Asia - Armenia
+.az          #Asia - Azerbaijan
+.bh          #Asia - Bahrain
+.bd          #Asia - Bangladesh
+.io          #Asia - British Indian Ocean Territory
+.bn          #Asia - Brunei
+.kh          #Asia - Cambodia
+.cn          #Asia - China
+.tp          #Asia - East Timor (Timor-Leste)
+.hk          #Asia - Hong Kong
+.in          #Asia - India
+.iq          #Asia - Iraq
+.ir          #Asia - Iran
+.il          #Asia - Israel
+.jp          #Asia - Japan
+.tokyo       #Asia - Japan
+.jo          #Asia - Jordan
+.bt          #Asia - Kingdom of Bhutan
+.la          #Asia - Laos
+.lb          #Asia - Lebanon
+.mo          #Asia - Macao
+.my          #Asia - Malaysia
+.mn          #Asia - Mongolia
+.mm          #Asia - Myanmar
+.np          #Asia - Nepal
+.ng          #Asia - Nigeria
+.om          #Asia - Oman
+.kg          #Asia - Kyrgyzstan
+.kz          #Asia - Kazakhstan
+.қаз         #Asia - Kazakhstan
+.kw          #Asia - Kuwait
+.mz          #Asia - Mozambique
+.kp          #Asia - North Korea
+.pk          #Asia - Pakistan
+.ph          #Asia - Philippines
+.qa          #Asia - Qatar
+.mv          #Asia - Republic of Maldives
+.sg          #Asia - Singapore
+.sa          #Asia - Saudi Arabia
+.kr          #Asia - South Korea
+.lk          #Asia - Sri Lanka
+.ps          #Asia - State of Palestine
+.sy          #Asia - Syria
+.tj          #Asia - Tajikistan
+.tw          #Asia - Taiwan
+.th          #Asia - Thailand
+.tm          #Asia - Turkmenistan
+.ae          #Asia - United Arab Emirates
+.uz          #Asia - Uzbekistan
+.vn          #Asia - Vietnam
+.ye          #Asia - Yemen
+
+.ge          #Asia / Europe - Georgia
+.moscow      #Asia / Europe - Russia
+.ru          #Asia / Europe - Russia
+.ru.com      #Asia / Europe - Russia
+.xn--p1acf   #Asia / Europe - Russia
+.рф          #Asia / Europe - Russia
+.xn--p1ai    #Asia / Europe - Russian Federation
+.su          #Asia / Europe - Russian Soviet Union
+.tc          #Asia / Europe - Turks & Caicos Islands
+.istanbul    #Asia / Europe - Turkey
+.tr          #Asia / Europe - Turkey
+
+.tl          #Asia / Oceania - East Timor
+.id          #Asia / Oceania - Indonesia
+
+.au          #Australia - Australia
+.cx          #Australia - Christmas Island
+.cc          #Australia - Cocos (Keeling) Islands
+.hm          #Australia - Heard Island and McDonald Islands
+
+.bz          #Central America - Belize
+.cr          #Central America - Costa Rica
+
+.al          #Europe - Albania
+.ax          #Europe - Åland Islands
+.ad          #Europe - Andorra
+.at          #Europe - Austria
+.gg          #Europe - Bailiwick of Guernsey
+.ba          #Europe - Bosnia & Herzegovina
+.bg          #Europe - Bulgaria
+.by          #Europe - Belarus
+.hr          #Europe - Croatia
+.cy          #Europe - Cyprus
+.cz          #Europe - Czech Republic
+.dk          #Europe - Denmark
+.ee          #Europe - Estonia
+.fo          #Europe - Faroe Islands
+.fi          #Europe - Finland
+.hamburg     #Europe - Germany
+.gi          #Europe - Gibraltar
+.gr          #Europe - Greece
+.hu          #Europe - Hungary
+.is          #Europe - Iceland
+.im          #Europe - Isle of Man
+.je          #Europe - Jersey
+.lv          #Europe - Latvia
+.li          #Europe - Liechtenstein
+.lt          #Europe - Lithuania
+.lu          #Europe - Luxembourg
+.mt          #Europe - Malta
+.md          #Europe - Moldova
+.mc          #Europe - Monaco
+.me          #Europe - Montenegro
+.nl          #Europe - Netherlands
+.amsterdam   #Europe - Netherlands (Amsterdam)
+.frl         #Europe - Netherlands (Friesland)
+.mk          #Europe - North Macedonia
+.no          #Europe - Norway
+.pl          #Europe - Poland
+.pt          #Europe - Portugal
+.ro          #Europe - Romania
+.sm          #Europe - San Marino
+.rs          #Europe - Serbia
+.sj          #Europe - Svalbard & Jan Mayen
+.si          #Eurpoe - Slovenia
+.sk          #Europe - Slovakia
+.gb          #Europe - United Kingdom
+.ua          #Europe - Ukraine
+.xn--j1amh   #Europe - Ukraine
+.va          #Europe - Vatican City
+.wf          #Europe - Wallis and Futuna Islands (French Island)
+
+.ag          #North America - Antigua & Barbuda
+.bs          #North America - Bahamas
+.bb          #North America - Barbados
+.bm          #North America - Bermuda
+.vg          #North America - British Virgin Islands
+.ky          #North America - Cayman Islands
+.cu          #North America - Cuba
+.dm          #North America - Dominica
+.do          #North America - Dominican Republic
+.sv          #North America - El Salvador
+.gp          #North America - Guadeloupe
+.gl          #North America - Greenland
+.gd          #North America - Grenada
+.ht          #North America - Haiti
+.hn          #North America - Honduras
+.jm          #North America - Jamaica
+.mq          #North America - Martinique
+.mx          #North America - Mexico
+.ms          #North America - Montserrat
+.ni          #North America - Nicaragua
+.pa          #North America - Panama
+.pr          #North America - Puerto Rico
+.bl          #North America - Saint Barthélemy
+.kn          #North America - Saint Kitts & Nevis
+.lc          #North America - Saint Lucia
+.pm          #North America - Saint Pierre & Miquelon
+.vc          #North America - Saint Vincent & The Grenadines
+.sx          #North America - Sint Maarten
+.us          #North America - USA
+.um          #North America - US Minor Outlying Islands
+.vi          #North America - Virgin Islands
+
+.aw          #North & South America - Aruba
+.cw          #North & South America - Curaçao
+
+.ar          #South America - Argentina
+.bo          #South America - Bolivia
+.br          #South America - Brazil
+.bq          #South America - Caribbean Netherlands
+.cl          #South America - Chile
+.co          #South America - Colombia
+.ec          #South America - Ecuador
+.fk          #South America - Falkland Islands
+.gf          #South America - French Guiana
+.gh          #South America - Ghana
+.gt          #South America - Guatemala
+.gy          #South America - Guyana
+.pe          #South America - Peru
+.py          #South America - Paraguay
+.sr          #South America - Suriname
+.tt          #South America - Trinidad and Tobago
+.uy          #South America - Uruguay
+.ve          #South America - Venezuela
+
+.as          #Oceania - American Samoa
+.ck          #Oceania - Cook Islands
+.gu          #Oceania - Guam
+.ki          #Oceania - Kiribati
+.mh          #Oceania - Marshall Islands
+.nr          #Oceania - Nauru
+.nc          #Oceania - New Caledonia
+.nz          #Oceania - New Zealand
+.nf          #Oceania - Norfolk Island
+.mp          #Oceania - Northern Mariana Islands
+.nu          #Oceania - Niue
+.pw          #Oceania - Palau
+.pg          #Oceania - Papua New Guinea
+.pn          #Oceania - Pitcairn Islands
+.pf          #Oceania - Polynesia
+.ws          #Oceania - Samoa
+.sb          #Oceania - Solomon Islands
+.to          #Oceania - Tonga
+.tk          #Oceania - Tokelau
+.tv          #Oceania - Tuvalu
+.fj          #Oceania - University of the South Pacific
