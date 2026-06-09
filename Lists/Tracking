@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 114,465
-# Updated: 6/8/2026  19:46 (7:46 PM CST)
+# Domains: 114,490
+# Updated: 6/9/2026  17:52 (5:52 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -9077,6 +9077,7 @@ analytics.imobiliariaborgesitz.com.br
 analytics.imobiliariaclaudio.com
 analytics.imobiliariaconfiancace.com.br
 analytics.imobiliariadeon.com.br
+analytics.imobiliariafabris.com.br
 analytics.imobiliariagaucha.com.br
 analytics.imobiliariagomesimoveis.com.br
 analytics.imobiliariahabitabem.com.br
@@ -21105,6 +21106,7 @@ click.mysugr.com
 click.netsuite.com
 click.newsletter.smashmagpresents.com
 clicknurture.com
+click.nuwber.com
 clickocean.io
 clickomo.fr
 clickon.co.il
@@ -38352,6 +38354,7 @@ improvedcontactform.com
 improve.joy-event-media.de
 improvely.com
 improving.duckduckgo.com
+imptracking.com
 impulsehands.com
 impulsejewel.com
 impulselumber.com
@@ -80271,6 +80274,7 @@ sgtm.saatva.com
 sgtm.saba.com.au
 sgtm.sabliers-du-monde.fr
 sgtm.saguenayaventures.com
+sgtm.sajasgroup.com
 sgtm.sajdakwt.com
 sgtm.sak.fi
 sgtm.sakuradate.com
@@ -80428,6 +80432,8 @@ sgtmstape.scentworld.ae
 sgtm.stape.video
 sgtm.starlumen.com.br
 sgtm.startsro.sk
+sgtm.stateofart.be
+sgtm.stateofart.com
 sgtm.stationdeus.com
 sgtm.stayonera.com
 sgtm.stealthrdp.com
@@ -80467,6 +80473,7 @@ sgtm.stihl.pt
 sgtm.stihl.ro
 sgtm.stihl.rs
 sgtm.stihl.ru
+sgtm.stihl-timbersports.com
 sgtm.stihl.ua
 sgtm.stihlusa.com
 sgtm.stitchshop.com.bd
@@ -80484,6 +80491,7 @@ sgtm.stroempekompagniet.dk
 sgtm.strotonin.com
 sgtm.studiolnrd.nl
 sgtm.styleorion.com
+sgtm.suedukeenergy.org
 sgtm.suerox.us
 sgtm.summitthc.com
 sgtm.sund-ryg.dk
@@ -80512,6 +80520,7 @@ sgtm.sysleriet.dk
 sgtm.systemcatalysts.com
 sgtm.t-2.net
 sgtm.t3lm.com
+sgtm.tablesetting.dk
 sgtm.tabletoday.se
 sgtm.tagmanageritalia.it
 sgtm.takeaboat.com
@@ -80519,6 +80528,7 @@ sgtm.tamapastel.com.br
 sgtm.tampereenkauppakamari.fi
 sgtm.tankterminals.com
 sgtm.tastecle.com
+sgtm.tattico.it
 sgtm.taxalchemy.com
 sgtm.taxpilot.it
 sgtm.taztycandy.com
@@ -80573,9 +80583,11 @@ sgtm.thehut.com
 sgtm.thekentmotel.com
 sgtm.theleeco.com
 sgtm.themossway.co.uk
+sgtm.theroofwindowstore.co.uk
 sgtm.theshade.com.au
 sgtm.thespartanelectric.com
 sgtm.thesurryrooftop.com.au
+sgtm.thetaxdefenders.com
 sgtm.thevictorianemporium.com
 sgtm.thewittylemon.com
 sgtm.thinqmedia.com
@@ -80642,6 +80654,7 @@ sgtm.trudon.co.uk
 sgtm.truecar.co.il
 sgtm.trueeco.com.au
 sgtm.trueflame.com
+sgtm.trumf.no
 sgtm.trungsoncare.com
 sgtm.tryeden.com
 sgtm.trymoin.de
@@ -80654,6 +80667,7 @@ sgtm.tvaksjonen.no
 sgtm.tvelina.com.ua
 sgtm.twiddles.in
 sgtm.twinings.co.uk
+sgtm.tychebank.it
 sgtm.ufred.ca
 sgtm.uk-consumer-review-company.com
 sgtm.uk.mondaine.com
@@ -80701,6 +80715,7 @@ sgtm.vdnkitchen.nl
 sgtm.vedrai.com
 sgtm.veldhuiszonwering.nl
 sgtm.veloretti.com
+sgtm.velux.com
 sgtm.velux.pl
 sgtm.velvit.de
 sgtm.venderbys.dk
@@ -80718,6 +80733,7 @@ sgtm.viden.gr
 sgtm.videnskab.dk
 sgtm.vikinggenetics.biz
 sgtm.vikinggenetics.com
+sgtm.vikinggenetics.com.au
 sgtm.vikinggenetics.de
 sgtm.vildtkamera.dk
 sgtm.villaggiosanfrancesco.com
@@ -97725,6 +97741,7 @@ stats.doo-systems.com
 stats.dopaminum.pl
 stats.dorgalizone.net
 stats.dorint.com
+stats.dosba.nl
 stats.dotcom.co.il
 stats.doteki.org
 stats.dotmap.fr
@@ -108036,7 +108053,10 @@ track.hubspot.com
 track.hyacinthe-mag.fr
 track.iadaaprovacao.com.br
 track.iafstore.com
+track.iconicaemailstats.com
+track.icrewmailstats.com
 track.idealgasm.com
+track.idsemailreporting.com
 trackier1.com
 trackier1.exnessaffiliates.com
 trackier2.exnessaffiliates.com
@@ -108048,11 +108068,15 @@ trackier.io
 trackier.net
 trackif.com
 track.ifyeusa.org
+track.ignitedservicesstats.com
 track.igniteopm.com
 track.igorsilveira.com.br
+track.ikonicstats.com
 track.illustrarch.com
 track.importsend.io
+track.imsemailstats.com
 track.imsinfo.com
+track.imstats.com
 track.imtresidential.com
 track.inclusivetrading.ru
 track.indigoway.lt
@@ -108960,6 +108984,7 @@ track.mondotop.com
 track.moneyatlas.com
 track.monj.com
 track.mrjet.se
+track.mtasrv.net
 track.mueen-mkh.com
 track.multicrediario.com.br
 track-mv.com
