@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 952
-# Updated: 6/10/2026  19:05 (7:05 PM CST)
+# Domains: 953
+# Updated: 6/11/2026  08:16 (8:16 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -19,6 +19,7 @@ airdroid-img2.s3.amazonaws.com                      #Android  [App]   AirDroid
 dl.airdroid.com                                     #Android  [App]   AirDroid
 img4.airdroid.com                                   #Android  [App]   AirDroid
 lb.airdroid.com                                     #Android  [App]   AirDroid
+d3vwfxaf5101lb.cloudfront.net                       #Android  [App]   AirDroid (Home Tab - Forum Integration)
 pc.airdroid.com                                     #Android  [App]   AirDroid (Home Tab - Forum Integration)
 pc.airdroid.com.s3-website-us-east-1.amazonaws.com  #Android  [App]   AirDroid (Home Tab - Forum Integration)
 srv3.airdroid.com                                   #Android  [App]   AirDroid (Home Tab - Forum Integration)
@@ -263,7 +264,6 @@ gingersoftware.com                                  #Browser Extension
 vid-adblocker.com                                   #Browser Extension
 video-adblock.com                                   #Browser Extension
 videodownloaderultimate.com                         #Browser Extension
-
 
 curtivendi.com.br                                   #Cash Back
 ebates.com                                          #Cash Back
@@ -582,8 +582,6 @@ muscdn.com                                          #TikTok
 musical.ly                                          #TikTok
 mzfvozqybf.com                                      #TikTok
 p16-tiktokcdn-com.akamaized.net                     #TikTok
-
-
 pet8888.co.kr                                       #TikTok
 pictiktok.com                                       #TikTok
 piktiktok.com                                       #TikTok
@@ -982,9 +980,9 @@ user-api.internet.apps.samsung.com                  #Samsung
 us-odc.samsungapps.com                              #Samsung
 vas.samsungapps.com                                 #Samsung
 samsungnewsapi.picks.my                             #Samsung
-cdntip.com                                          Shenzhen Tencent Computer Systems
-cdntips.net                                         Shenzhen Tencent Computer Systems
-tencent.com                                         Shenzhen Tencent Computer Systems
+cdntip.com                                          #Shenzhen Tencent Computer Systems
+cdntips.net                                         #Shenzhen Tencent Computer Systems
+tencent.com                                         #Shenzhen Tencent Computer Systems
 sonybivstatic-a.akamaihd.net                        #Sony  Smart TV ?
 ssm1.internet.sony.tv                               #Sony
 ssm2.internet.sony.tv                               #Sony

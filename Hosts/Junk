@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 952
-# Updated: 6/10/2026  19:05 (7:05 PM CST)
+# Domains: 953
+# Updated: 6/11/2026  08:16 (8:16 AM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -13,6 +13,7 @@
 0.0.0.0 dl.airdroid.com
 0.0.0.0 img4.airdroid.com
 0.0.0.0 lb.airdroid.com
+0.0.0.0 d3vwfxaf5101lb.cloudfront.net
 0.0.0.0 pc.airdroid.com
 0.0.0.0 pc.airdroid.com.s3-website-us-east-1.amazonaws.com
 0.0.0.0 srv3.airdroid.com
