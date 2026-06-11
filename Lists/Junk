@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 953
-# Updated: 6/11/2026  08:16 (8:16 AM CST)
+# Domains: 945
+# Updated: 6/11/2026  09:10 (9:10 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -29,11 +29,7 @@ ipv6.unagi-na.amazon.com                            #Android  [App]   Amazon Vid
 applications.mobisystems.com                        #Android  [App]   File Commander
 cfg.mobisystems.com                                 #Android  [App]   File Commander
 connect.mobisystems.com                             #Android  [App]   File Commander
-androidapi.mxplay.com                               #Android  [App]   MXplayer
-androidc.mxplay.com                                 #Android  [App]   MXplayer
-i.mxplayer.j2inter.com                              #Android  [App]   MXplayer
 mxplay.com                                          #Android  [App]   MXplayer
-mxplayer.j2inter.com                                #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com            #Android  [App]   MXplayer
 nickcircelli.com                                    #Android  [App]   Net Scan
 cleaner.noxgroup.org                                #Android  [App]   NoxCleaner
@@ -62,9 +58,6 @@ fingersoft.net                                      #Android  [App Studio]    Fi
 four33.com                                          #Android  [App Studio]    FourThirtyThree
 funlabmobile.com                                    #Android  [App Studio]    FunLab
 funplus.com                                         #Android  [App Studio]    FunPlus
-as23r23ljf.gameloft.com                             #Android  [App Studio]    Gameloft
-etsv2.gameloft.com                                  #Android  [App Studio]    Gameloft
-etsv.gameloft.com                                   #Android  [App Studio]    Gameloft
 eur-osiris.gameloft.com                             #Android  [App Studio]    Gameloft
 game-portal.eur.gameloft.com                        #Android  [App Studio]    Gameloft
 in-game-news.gameloft.com                           #Android  [App Studio]    Gameloft
@@ -83,6 +76,7 @@ hardlightgames.com                                  #Android  [App Studio]    Ha
 hotheadgames.com                                    #Android  [App Studio]    Hot Head Games
 igates.co.il                                        #Android  [App Studio]    iGates
 ironhidegames.com                                   #Android  [App Studio]    Ironhide Games
+j2inter.com                                         #Android  [App Studio]    J2 Interactive
 midasplayer.com                                     #Android  [App Studio]    King
 kingsgroupgames.com                                 #Android  [App Studio]    KngsGroupGames
 libii.com                                           #Android  [App Studio]    Libii Game
@@ -352,7 +346,6 @@ pfmsqos.southeastasia.cloudapp.azure.com               #Games - Non-USA Servers
 pfmsqos.westeurope.cloudapp.azure.com                  #Games - Non-USA Servers
 pfmsqssi.uaenorth.cloudapp.azure.com                   #Games - Non-USA Servers
 
-emapi.prm.data.ea.com                                  #Games [Studio]  EA
 eamobile.com                                           #Games [Studio]  EA
 m2u.sn.eamobile.com                                    #Games [Studio]  EA
 product.sn.eamobile.com                                #Games [Studio]  EA
@@ -469,15 +462,17 @@ user.utorrent.com                                   #Software     µTorrent
 utclient.utorrent.com                               #Software     µTorrent
 weatherbug.com                                      #Software  Weatherbug
 weatherbug.net                                      #Software  Weatherbug
-remotewd.com                                        #Software  Western Digital (Cloud Storage)
-wdtest8.com                                         #Software  Western Digital (Cloud Storage)
+remotewd.com                                        #Software   Western Digital (Cloud Storage)
+wdtest8.com                                         #Software   Western Digital (Cloud Storage)
 ampsvc.com                                          #Software  WildTangent Games
 winzip.com                                          #Software  Winzip
-kingsoft-office-service.com                         #Software  WPS Office
-kingsoftstore.com                                   #Software  WPS Office
-versiontracker.com                                  #Software  WPS Office
-wps.cn                                              #Software  WPS Office
-wps.com                                             #Software  WPS Office
+kingsoft-office-service.com                         #Software   WPS Office
+kingsoftstore.com                                   #Software   WPS Office
+versiontracker.com                                  #Software   WPS Office
+wps.cn                                              #Software   WPS Office
+wps.com                                             #Software   WPS Office
+zoho.com                                            #Software  Zoho
+zohowebstatic.com                                   #Software  Zoho
 
 alchemer.com                                        #Survey
 asklayer.io                                         #Survey
@@ -631,6 +626,8 @@ tiktokinfo.in                                       #TikTok
 tiktok.in                                           #TikTok
 tiktok-minis.us                                     #TikTok
 tiktokpartnersprogram.com                           #TikTok
+tiktokpaylater.ai                                   #TikTok
+tiktokpaylater.biz                                  #TikTok
 tiktokplay.com                                      #TikTok
 tiktokseaimpactforum.com                            #TikTok
 tiktok-smallbizblockparty.com                       #TikTok
@@ -658,9 +655,6 @@ vocata.net                                          #TikTok
 xtopbuzz.com                                        #TikTok
 xzcs3zlph.com                                       #TikTok
 yourbytematch.com                                   #TikTok
-
-zoho.com                                            #Cloud Based Software - Zoho
-zohowebstatic.com                                   #Cloud Based Software - Zoho
 
 licensebuttons.net                                  #Webpages - Icons
 badges.instagram.com                                #Webpages - Icons
@@ -886,7 +880,6 @@ googlehomefoyer-pa.googleapis.com                   #Google  ? Google Home setup
 googleonebackup-pa.googleapis.com                   #Google  ? Google One Backup
 googlepages.com                                     #Google
 groups.l.google.com                                 #Google
-growth-pa.googleapis.com                            #Google
 infinitedata-pa.googleapis.com                      #Google
 instantmessaging-pa.googleapis.com                  #Google  ? Instant Messaging
 instantmessaging-pa-us.googleapis.com               #Google  ? Instant Messaging
@@ -930,9 +923,7 @@ cprs.hp.com                                         #HP    Controlled Permission
 eipd.rssx.hp.com                                    #HP
 hpgamestream.com                                    #HP
 js.redirect.hp.com                                  #HP
-mq.dataservices.hp.com                              #HP
 print-data.houston.hp.com                           #HP
-static.dataservices.hp.com                          #HP
 www-hpcom.glb1.hp.com                               #HP
 graph.instagram.com                                 #Instagram
 api.intelsa.intel.com                               #Intel   [Software]  Security Assistant

@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 114,501
-# Updated: 6/10/2026  19:05 (7:05 PM CST)
+# Domains: 114,506
+# Updated: 6/11/2026  09:10 (9:10 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -27394,6 +27394,7 @@ data.service.pradagroup.com
 data.services.callme.dk
 data.services.chowtaifook.com
 data.services.heartsonfire.com
+dataservices.hp.com
 data.services.mittele.dk
 data.services.telia.dk
 data.service.tiresplus.com
@@ -30260,6 +30261,7 @@ emailupfluence.com
 email-view.com
 emailvtr.cl
 e.mail.worktruckonline.com
+emapi.prm.data.ea.com 
 emark.com
 emarketer.com
 emarketing.landisgyr.com
@@ -30874,6 +30876,8 @@ ets.easybrain.com
 et.sectornord.de
 ets.eterna.de
 etsource.epicgames.com
+etsv2.gameloft.com
+etsv.gameloft.com
 ettcc.steute.com
 ettcc.steute-controltec.com
 ettcc.steute-leantec.com
@@ -33941,6 +33945,7 @@ growthbook.io
 growthengines.io
 growth.fullthrottle.ai
 growthily.com
+growth-pa.googleapis.com
 growth.shop
 growth.wisetack.com
 grr.bears.lu

@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 953
-# Updated: 6/11/2026  08:16 (8:16 AM CST)
+# Domains: 945
+# Updated: 6/11/2026  09:10 (9:10 AM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -23,11 +23,7 @@
 0.0.0.0 applications.mobisystems.com
 0.0.0.0 cfg.mobisystems.com
 0.0.0.0 connect.mobisystems.com
-0.0.0.0 androidapi.mxplay.com
-0.0.0.0 androidc.mxplay.com
-0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 mxplay.com
-0.0.0.0 mxplayer.j2inter.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 nickcircelli.com
 0.0.0.0 cleaner.noxgroup.org
@@ -55,9 +51,6 @@
 0.0.0.0 four33.com
 0.0.0.0 funlabmobile.com
 0.0.0.0 funplus.com
-0.0.0.0 as23r23ljf.gameloft.com
-0.0.0.0 etsv2.gameloft.com
-0.0.0.0 etsv.gameloft.com
 0.0.0.0 eur-osiris.gameloft.com
 0.0.0.0 game-portal.eur.gameloft.com
 0.0.0.0 in-game-news.gameloft.com
@@ -76,6 +69,7 @@
 0.0.0.0 hotheadgames.com
 0.0.0.0 igates.co.il
 0.0.0.0 ironhidegames.com
+0.0.0.0 j2inter.com
 0.0.0.0 midasplayer.com
 0.0.0.0 kingsgroupgames.com
 0.0.0.0 libii.com
@@ -329,7 +323,6 @@
 0.0.0.0 pfmsqos.southeastasia.cloudapp.azure.com
 0.0.0.0 pfmsqos.westeurope.cloudapp.azure.com
 0.0.0.0 pfmsqssi.uaenorth.cloudapp.azure.com
-0.0.0.0 emapi.prm.data.ea.com
 0.0.0.0 eamobile.com
 0.0.0.0 m2u.sn.eamobile.com
 0.0.0.0 product.sn.eamobile.com
@@ -447,6 +440,8 @@
 0.0.0.0 versiontracker.com
 0.0.0.0 wps.cn
 0.0.0.0 wps.com
+0.0.0.0 zoho.com
+0.0.0.0 zohowebstatic.com
 0.0.0.0 alchemer.com
 0.0.0.0 asklayer.io
 0.0.0.0 brazzerssurvey.com
@@ -598,6 +593,8 @@
 0.0.0.0 tiktok.in
 0.0.0.0 tiktok-minis.us
 0.0.0.0 tiktokpartnersprogram.com
+0.0.0.0 tiktokpaylater.ai
+0.0.0.0 tiktokpaylater.biz
 0.0.0.0 tiktokplay.com
 0.0.0.0 tiktokseaimpactforum.com
 0.0.0.0 tiktok-smallbizblockparty.com
@@ -625,8 +622,6 @@
 0.0.0.0 xtopbuzz.com
 0.0.0.0 xzcs3zlph.com
 0.0.0.0 yourbytematch.com
-0.0.0.0 zoho.com
-0.0.0.0 zohowebstatic.com
 0.0.0.0 licensebuttons.net
 0.0.0.0 badges.instagram.com
 0.0.0.0 ec2-18-216-208-225.us-east-2.compute.amazonaws.com
@@ -841,7 +836,6 @@
 0.0.0.0 googleonebackup-pa.googleapis.com
 0.0.0.0 googlepages.com
 0.0.0.0 groups.l.google.com
-0.0.0.0 growth-pa.googleapis.com
 0.0.0.0 infinitedata-pa.googleapis.com
 0.0.0.0 instantmessaging-pa.googleapis.com
 0.0.0.0 instantmessaging-pa-us.googleapis.com
@@ -885,9 +879,7 @@
 0.0.0.0 eipd.rssx.hp.com
 0.0.0.0 hpgamestream.com
 0.0.0.0 js.redirect.hp.com
-0.0.0.0 mq.dataservices.hp.com
 0.0.0.0 print-data.houston.hp.com
-0.0.0.0 static.dataservices.hp.com
 0.0.0.0 www-hpcom.glb1.hp.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 api.intelsa.intel.com
