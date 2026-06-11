@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 581
-# Updated: 6/4/2026  00:19 (12:19 AM CST)
+# Domains: 570
+# Updated: 6/10/2026  19:05 (7:05 PM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -240,10 +240,7 @@
 0.0.0.0 carrentals.msn.com
 0.0.0.0 cdn.content.prod.cms.msn.com
 0.0.0.0 config.messenger.msn.com
-0.0.0.0 en-us.appex-rf.msn.com
-0.0.0.0 flex.msn.com
 0.0.0.0 flights.msn.com
-0.0.0.0 global.sam.msn.com
 0.0.0.0 g.msn.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
@@ -252,14 +249,10 @@
 0.0.0.0 h5.msn.com
 0.0.0.0 h7.msn.com
 0.0.0.0 int1.msn.com
-0.0.0.0 live.rads.msn.com
 0.0.0.0 messenger.msn.com
 0.0.0.0 newsletters.msn.com
 0.0.0.0 preview.msn.com
 0.0.0.0 query.prod.cms.msn.com
-0.0.0.0 rad.msn.com
-0.0.0.0 sam.msn.com
-0.0.0.0 tk2.plt.msn.com
 0.0.0.0 afd-a-acdc-direct.office.com
 0.0.0.0 api.addins.omex.office.net
 0.0.0.0 augloop.office.com
@@ -386,7 +379,6 @@
 0.0.0.0 az598575.vo.msecnd.net
 0.0.0.0 beta.gateway.messenger.live.com
 0.0.0.0 bgappservices.microsoft.com
-0.0.0.0 bingviz.com
 0.0.0.0 bn2-client-s.gateway.messenger.live.com
 0.0.0.0 cass.api.microsoft.com
 0.0.0.0 ccs-pe-us1.cloudapp.net
@@ -437,7 +429,6 @@
 0.0.0.0 filestore.community.answers.ms.akadns.net
 0.0.0.0 fs-wildcard.microsoft.com.edgekey.net
 0.0.0.0 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
-0.0.0.0 gateway-outlook.bingviz.com
 0.0.0.0 go.microsoft.akadns.net
 0.0.0.0 graph.print.microsoft.com
 0.0.0.0 graph.windows.net
@@ -549,7 +540,6 @@
 0.0.0.0 share.microsoft.com
 0.0.0.0 shell.windows.com
 0.0.0.0 skyapi.onedrive.live.com
-0.0.0.0 snoop.minecraft.net
 0.0.0.0 static.edge.microsoftapp.net
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 static-spartan-eus-s-msn-com.akamaized.net
@@ -577,7 +567,6 @@
 0.0.0.0 waws-prod-blu-059.cloudapp.net
 0.0.0.0 wdcpalt.microsoft.com
 0.0.0.0 webportals-ngp.trafficmanager.net
-0.0.0.0 wer.microsoft.com
 0.0.0.0 wfbdevicemanagement
 0.0.0.0 winatp-gw-cus.microsoft.com
 0.0.0.0 wip.mam.manage.microsoft.com

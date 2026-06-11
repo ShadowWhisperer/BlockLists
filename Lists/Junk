@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 962
-# Updated: 6/4/2026  00:19 (12:19 AM CST)
+# Domains: 952
+# Updated: 6/10/2026  19:05 (7:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -30,9 +30,7 @@ cfg.mobisystems.com                                 #Android  [App]   File Comma
 connect.mobisystems.com                             #Android  [App]   File Commander
 androidapi.mxplay.com                               #Android  [App]   MXplayer
 androidc.mxplay.com                                 #Android  [App]   MXplayer
-clmbtech.com                                        #Android  [App]   MXplayer
 i.mxplayer.j2inter.com                              #Android  [App]   MXplayer
-mxase.clmbtech.com                                  #Android  [App]   MXplayer
 mxplay.com                                          #Android  [App]   MXplayer
 mxplayer.j2inter.com                                #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com            #Android  [App]   MXplayer
@@ -50,7 +48,6 @@ babeltimeus.com                                     #Android  [App Studio]    Ba
 bitmango.com                                        #Android  [App Studio]    Bitmango
 byvgames.com                                        #Android  [App Studio]    Byv Games
 castcrown.com.cy                                    #Android  [App Studio]    Cast Crown
-adkmob.com                                          #Android  [App Studio]    Cheetah Mobile Technology
 cmcm.com                                            #Android  [App Studio]    Cheetah Mobile Technology
 duba.net                                            #Android  [App Studio]    Cheetah Mobile Technology
 concretesoftware.com                                #Android  [App Studio]    Concrete Software
@@ -73,8 +70,6 @@ in-game-news.gameloft.com                           #Android  [App Studio]    Ga
 interstatic06.gameloft.com                          #Android  [App Studio]    Gameloft
 oct.gameloft.com                                    #Android  [App Studio]    Gameloft
 secure.gameloft.com                                 #Android  [App Studio]    Gameloft
-sink.gameloft.com                                   #Android  [App Studio]    Gameloft
-ssp-ges.gameloft.com                                #Android  [App Studio]    Gameloft
 gamevil.com                                         #Android  [App Studio]    Gamevil
 glu.com                                             #Android  [App Studio]    Glu
 glulive.com                                         #Android  [App Studio]    Glu
@@ -207,7 +202,6 @@ fls.security.comodo.com                             #Antivirus     Comodo
 flsservices.security.comodo.com                     #Antivirus     Comodo
 trustlogo.comodo.com                                #Antivirus     Comodo
 usfftp.security.comodo.com                          #Antivirus     Comodo
-fortect.com                                         #Antivirus    Fortect
 ijinshan.com                                        #Antivirus    Kingsoft
 liteapps.mcafee.com                                 #Antivirus     McAfee
 webadvisorc.rest.gti.mcafee.com                     #Antivirus     McAfee Webadvisor
@@ -588,9 +582,8 @@ muscdn.com                                          #TikTok
 musical.ly                                          #TikTok
 mzfvozqybf.com                                      #TikTok
 p16-tiktokcdn-com.akamaized.net                     #TikTok
-pangle-b.io                                         #TikTok
-pangleglobal.com                                    #TikTok
-pangle.io                                           #TikTok
+
+
 pet8888.co.kr                                       #TikTok
 pictiktok.com                                       #TikTok
 piktiktok.com                                       #TikTok
@@ -795,7 +788,6 @@ fb-graph.asus.com                                   #ASUS - Facebook Graph API
 rogapi.asus.com                                     #ASUS
 vip.asus.com                                        #ASUS
 epdg.epc.att.net                                    #AT&T - Wifi Calling
-recsys-api.buzzfeed.com                             #Buzzfeed - Recommender system
 detect.gocyberlink.com                              #Cyberlink
 liveupdate.gocyberlink.com                          #Cyberlink
 detect.cyberlink.com                                #Cyberlink

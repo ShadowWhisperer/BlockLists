@@ -1,8 +1,8 @@
 #
 #    File: Apple
 #    Info: Apple bloat
-# Domains: 157
-# Updated: 4/3/2026  15:04 (3:04 PM CST)
+# Domains: 156
+# Updated: 6/10/2026  19:05 (7:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -30,8 +30,6 @@ wu-stocks.apple.com                    # App - Stocks
 pancake.apple.com                      # Authorization for Home Sharing
 pancake.cdn-apple.com.akadns.net       # Authorization for Home Sharing
 pancake.g.aaplimg.com                  # Authorization for Home Sharing
-
-smoot.apple.com                        # Spotlight Suggestions
 
 
 ###############################################################################################

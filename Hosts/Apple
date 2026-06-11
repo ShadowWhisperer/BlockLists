@@ -1,8 +1,8 @@
 #
 #    File: Apple
 #    Info: Apple bloat
-# Domains: 157
-# Updated: 4/3/2026  15:04 (3:04 PM CST)
+# Domains: 156
+# Updated: 6/10/2026  19:05 (7:05 PM CST)
 #
 0.0.0.0 attwifi.apple.com
 0.0.0.0 captive.apple.com
@@ -24,7 +24,6 @@
 0.0.0.0 pancake.apple.com
 0.0.0.0 pancake.cdn-apple.com.akadns.net
 0.0.0.0 pancake.g.aaplimg.com
-0.0.0.0 smoot.apple.com
 0.0.0.0 amp-account.apps.apple.com
 0.0.0.0 amp-api.apps.apple.com
 0.0.0.0 api-edge.apps.apple.com

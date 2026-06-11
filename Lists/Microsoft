@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 581
-# Updated: 6/4/2026  00:19 (12:19 AM CST)
+# Domains: 570
+# Updated: 6/10/2026  19:05 (7:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -268,10 +268,7 @@ search.yupimsn.com                             # ? MSN - Search
 carrentals.msn.com                             # ? MSN
 cdn.content.prod.cms.msn.com                   # ? MSN
 config.messenger.msn.com                       # ? MSN
-en-us.appex-rf.msn.com                         # ? MSN
-flex.msn.com                                   # ? MSN
 flights.msn.com                                # ? MSN
-global.sam.msn.com                             # ? MSN
 g.msn.com                                      # ? MSN
 h1.msn.com                                     # ? MSN
 h2.msn.com                                     # ? MSN
@@ -280,14 +277,10 @@ h4.msn.com                                     # ? MSN
 h5.msn.com                                     # ? MSN
 h7.msn.com                                     # ? MSN
 int1.msn.com                                   # ? MSN
-live.rads.msn.com                              # ? MSN
 messenger.msn.com                              # ? MSN
 newsletters.msn.com                            # ? MSN
 preview.msn.com                                # ? MSN
 query.prod.cms.msn.com                         # ? MSN
-rad.msn.com                                    # ? MSN
-sam.msn.com                                    # ? MSN
-tk2.plt.msn.com                                # ? MSN
 
 afd-a-acdc-direct.office.com                            # ? Office
 api.addins.omex.office.net                              # ? Office
@@ -427,7 +420,6 @@ az512334.vo.msecnd.net
 az598575.vo.msecnd.net
 beta.gateway.messenger.live.com
 bgappservices.microsoft.com
-bingviz.com
 bn2-client-s.gateway.messenger.live.com
 cass.api.microsoft.com
 ccs-pe-us1.cloudapp.net
@@ -478,7 +470,6 @@ fe2.update.microsoft.com.akadns.net
 filestore.community.answers.ms.akadns.net
 fs-wildcard.microsoft.com.edgekey.net
 fs-wildcard.microsoft.com.edgekey.net.globalredir.akadns.net
-gateway-outlook.bingviz.com
 go.microsoft.akadns.net
 graph.print.microsoft.com
 graph.windows.net
@@ -590,7 +581,6 @@ sfp.microsoft.com
 share.microsoft.com
 shell.windows.com
 skyapi.onedrive.live.com
-snoop.minecraft.net
 static.edge.microsoftapp.net
 statics-marketingsites-neu-ms-com.akamaized.net
 static-spartan-eus-s-msn-com.akamaized.net
@@ -618,7 +608,7 @@ ussus3westprod.blob.core.windows.net
 waws-prod-blu-059.cloudapp.net
 wdcpalt.microsoft.com
 webportals-ngp.trafficmanager.net
-wer.microsoft.com
+
 wfbdevicemanagement
 winatp-gw-cus.microsoft.com
 wip.mam.manage.microsoft.com

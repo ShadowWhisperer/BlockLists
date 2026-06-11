@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 962
-# Updated: 6/4/2026  00:19 (12:19 AM CST)
+# Domains: 952
+# Updated: 6/10/2026  19:05 (7:05 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -24,9 +24,7 @@
 0.0.0.0 connect.mobisystems.com
 0.0.0.0 androidapi.mxplay.com
 0.0.0.0 androidc.mxplay.com
-0.0.0.0 clmbtech.com
 0.0.0.0 i.mxplayer.j2inter.com
-0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxplay.com
 0.0.0.0 mxplayer.j2inter.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
@@ -43,7 +41,6 @@
 0.0.0.0 bitmango.com
 0.0.0.0 byvgames.com
 0.0.0.0 castcrown.com.cy
-0.0.0.0 adkmob.com
 0.0.0.0 cmcm.com
 0.0.0.0 duba.net
 0.0.0.0 concretesoftware.com
@@ -66,8 +63,6 @@
 0.0.0.0 interstatic06.gameloft.com
 0.0.0.0 oct.gameloft.com
 0.0.0.0 secure.gameloft.com
-0.0.0.0 sink.gameloft.com
-0.0.0.0 ssp-ges.gameloft.com
 0.0.0.0 gamevil.com
 0.0.0.0 glu.com
 0.0.0.0 glulive.com
@@ -195,7 +190,6 @@
 0.0.0.0 flsservices.security.comodo.com
 0.0.0.0 trustlogo.comodo.com
 0.0.0.0 usfftp.security.comodo.com
-0.0.0.0 fortect.com
 0.0.0.0 ijinshan.com
 0.0.0.0 liteapps.mcafee.com
 0.0.0.0 webadvisorc.rest.gti.mcafee.com
@@ -554,9 +548,6 @@
 0.0.0.0 musical.ly
 0.0.0.0 mzfvozqybf.com
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
-0.0.0.0 pangle-b.io
-0.0.0.0 pangleglobal.com
-0.0.0.0 pangle.io
 0.0.0.0 pet8888.co.kr
 0.0.0.0 pictiktok.com
 0.0.0.0 piktiktok.com
@@ -749,7 +740,6 @@
 0.0.0.0 rogapi.asus.com
 0.0.0.0 vip.asus.com
 0.0.0.0 epdg.epc.att.net
-0.0.0.0 recsys-api.buzzfeed.com
 0.0.0.0 detect.gocyberlink.com
 0.0.0.0 liveupdate.gocyberlink.com
 0.0.0.0 detect.cyberlink.com
