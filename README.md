@@ -29,7 +29,7 @@
 ```diff
 - Notice
   - Due to increasing scams, all generic remote support domains will be added to the Malware list.
-  - Junk is my personal list. If it breaks something of yours. Whitelist it. I will not remove anything from it.
+  - Junk is my personal list. If it affects something of yours, whitelist it. I won't modify it.
 ```
 
 ## Usage Notes
