@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 945
-# Updated: 6/11/2026  09:10 (9:10 AM CST)
+# Domains: 942
+# Updated: 6/11/2026  20:44 (8:44 PM CST)
 #
 0.0.0.0 ipv4.connman.net
 0.0.0.0 connectivity-check.ubuntu.com
@@ -142,9 +142,6 @@
 0.0.0.0 adaware.com
 0.0.0.0 lavasoft.com
 0.0.0.0 webcompanion.com
-0.0.0.0 avgbrowser.com
-0.0.0.0 browser-update.avg.com
-0.0.0.0 isearch.avg.com
 0.0.0.0 update-tuneup.avg.com
 0.0.0.0 tu.update.avg.com
 0.0.0.0 tu.backup.avg.cz
@@ -157,17 +154,14 @@
 0.0.0.0 zas-api.avg.com
 0.0.0.0 prod.tl.avira.com
 0.0.0.0 asu.aa.avast.com
-0.0.0.0 avastbrowser.com
 0.0.0.0 driver-updater.svc.avast.com
 0.0.0.0 emupdate.avast.com
-0.0.0.0 engagement.avastbrowser.com
 0.0.0.0 ipmcdn.avast.com
 0.0.0.0 mailshell.net
 0.0.0.0 ncc.avast.com
 0.0.0.0 p001.sb.avast.com
 0.0.0.0 p002.sb.avast.com
 0.0.0.0 program.avast.com
-0.0.0.0 securebrowser.avast.tools.avcdn.net
 0.0.0.0 spotlight.my.avira.com
 0.0.0.0 tools.avast.com
 0.0.0.0 tuneup.avast.tools.avcdn.net
@@ -227,8 +221,14 @@
 0.0.0.0 syfpayments.com
 0.0.0.0 zip.co
 0.0.0.0 zipmoney.com.au
+0.0.0.0 securebrowser.avast.tools.avcdn.net
+0.0.0.0 avastbrowser.com
+0.0.0.0 engagement.avastbrowser.com
+0.0.0.0 avgbrowser.com
+0.0.0.0 browser-update.avg.com
 0.0.0.0 ccleanerbrowser.com
 0.0.0.0 dolphin-browser.com
+0.0.0.0 securebrowser.com
 0.0.0.0 orbitum.com
 0.0.0.0 uc.cn
 0.0.0.0 ucweb.com
@@ -266,10 +266,6 @@
 0.0.0.0 hizonetech.com
 0.0.0.0 shopathome.com
 0.0.0.0 steamloto.org
-0.0.0.0 bubblewitch3mobile.king.com
-0.0.0.0 candycrush.king.com
-0.0.0.0 candycrushsoda.king.com
-0.0.0.0 ccs.play.king.com
 0.0.0.0 gamelift-ping.af-south-1.api.aws
 0.0.0.0 gamelift-ping.ap-east-1.api.aws
 0.0.0.0 gamelift-ping.ap-northeast-1.api.aws
@@ -704,6 +700,7 @@
 0.0.0.0 naver.com
 0.0.0.0 ask-tb.com
 0.0.0.0 ask.com
+0.0.0.0 isearch.avg.com
 0.0.0.0 search.comodo.com
 0.0.0.0 search.com
 0.0.0.0 cliqz.com

@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 570
-# Updated: 6/10/2026  19:05 (7:05 PM CST)
+# Domains: 574
+# Updated: 6/11/2026  20:44 (8:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -41,7 +41,7 @@ microsoftedge.com                              #App     Edge
 ntp.msn.com                                    #App     Edge
 1drv.com                                       #App     OneDrive
 common-us.onedrive.akadns.net                  #App     OneDrive
-livefilestore.com                              App      OneDrive
+livefilestore.com                              #App      OneDrive
 onedrive.akadns.net                            #App     OneDrive
 onenote.com                                    #App   OneNote
 onenote.net                                    #App   OneNote
@@ -143,6 +143,10 @@ smartscreen-prod.microsoft.com                 #SmartScreen
 smartscreen.microsoft.com                      #SmartScreen
 checkappexec.microsoft.com                     #SmartScreen
 
+bubblewitch3mobile.king.com                    #Tiles - Win 10
+candycrush.king.com                            #Tiles - Win 10
+candycrushsoda.king.com                        #Tiles - Win 10
+ccs.play.king.com                              #Tiles - Win 10
 api.msn.com                                    #Tiles - Win 10 / 11
 appexbingfinance.trafficmanager.net            #Tiles - Win 10 / 11
 appexbingweather.trafficmanager.net            #Tiles - Win 10 / 11

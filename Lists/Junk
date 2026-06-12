@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 945
-# Updated: 6/11/2026  09:10 (9:10 AM CST)
+# Domains: 942
+# Updated: 6/11/2026  20:44 (8:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -154,9 +154,6 @@ enigmasoftware.com                                  #Antimalware  SpyHunter
 adaware.com                                         #Antivirus    Adaware
 lavasoft.com                                        #Antivirus    Adaware
 webcompanion.com                                    #Antivirus    Adaware
-avgbrowser.com                                      #Antivirus     AVG  Browser
-browser-update.avg.com                              #Antivirus     AVG  Browser
-isearch.avg.com                                     #Antivirus     AVG  Browser Search Engine
 update-tuneup.avg.com                               #Antivirus     AVG    TuneUp
 tu.update.avg.com                                   #Antivirus     AVG    TuneUp
 tu.backup.avg.cz                                    #Antivirus     AVG    TuneUp
@@ -169,17 +166,14 @@ toolbar.avg.com                                     #Antivirus     AVG
 zas-api.avg.com                                     #Antivirus     AVG
 prod.tl.avira.com                                   #Antivirus    Avira
 asu.aa.avast.com                                    #Antivirus   Avast
-avastbrowser.com                                    #Antivirus   Avast - Browser
 driver-updater.svc.avast.com                        #Antivirus   Avast - Driver Updater
 emupdate.avast.com                                  #Antivirus   Avast
-engagement.avastbrowser.com                         #Antivirus   Avast - Browser
 ipmcdn.avast.com                                    #Antivirus   Avast
 mailshell.net                                       #Antivirus   Avast | AVG | Avira | Sophos (Web/Email Filter)
 ncc.avast.com                                       #Antivirus   Avast - Network Connectivity Test
 p001.sb.avast.com                                   #Antivirus   Avast
 p002.sb.avast.com                                   #Antivirus   Avast
 program.avast.com                                   #Antivirus   Avast
-securebrowser.avast.tools.avcdn.net                 #Antivirus   Avast - Browser
 spotlight.my.avira.com                              #Antivirus   Avast - Spotlight
 tools.avast.com                                     #Antivirus   Avast
 tuneup.avast.tools.avcdn.net                        #Antivirus   Avast - TuneUp
@@ -242,8 +236,14 @@ syfpayments.com                                     #Alt Pay Method
 zip.co                                              #Alt Pay Method
 zipmoney.com.au                                     #Alt Pay Method
 
+securebrowser.avast.tools.avcdn.net                 #Browser - Avast
+avastbrowser.com                                    #Browser - Avast
+engagement.avastbrowser.com                         #Browser - Avast
+avgbrowser.com                                      #Browser - AVG
+browser-update.avg.com                              #Browser - AVG
 ccleanerbrowser.com                                 #Browser - Ccleaner
 dolphin-browser.com                                 #Browser - Dolphin
+securebrowser.com                                   #Browser - Norton
 orbitum.com                                         #Browser - Orbitum
 uc.cn                                               #Browser - UC
 ucweb.com                                           #Browser - UC
@@ -286,11 +286,6 @@ finosfin.com                                        #Coupons
 hizonetech.com                                      #Coupons
 shopathome.com                                      #Coupons
 steamloto.org                                       #Coupons
-
-bubblewitch3mobile.king.com                            #Game - Win 10 Start Tile
-candycrush.king.com                                    #Game - Win 10 Start Tile
-candycrushsoda.king.com                                #Game - Win 10 Start Tile
-ccs.play.king.com                                      #Game - Win 10 Start Tile
 
 gamelift-ping.af-south-1.api.aws                       #Games - Non-USA Servers
 gamelift-ping.ap-east-1.api.aws                        #Games - Non-USA Servers
@@ -392,9 +387,9 @@ eb.bluestacks.com                                   #Software    BlueStacks (And
 wallet.now.gg                                       #Software    BlueStacks (Android Emulator)
 webapi-cloud.bluestacks.com                         #Software    BlueStacks (Android Emulator)
 x-api.bluestacks.com                                #Software    BlueStacks (Android Emulator)
-passwordsleakcheck-pa.googleapis.com                #Software     Chrome (Compare site to leaked sites)  *Tracking
-curseapp.net                                        #Software   Curse (In-Game Voice Chat)
-block-edge-anycast.dropbox.com                      #Software    DropBox
+passwordsleakcheck-pa.googleapis.com                #Software  Chrome (Check for exposed passwords)
+curseapp.net                                        #Software  Curse (In-Game Voice Chat)
+block-edge-anycast.dropbox.com                      #Software  DropBox
 ciscobinary.openh264.org                            #Software   FireFox    Bloat   openh264
 openh264.org                                        #Software   FireFox    Bloat   openh264
 donate.mozilla.org                                  #Software   FireFox    Donate
@@ -741,6 +736,7 @@ yandex.net                                          #Search Engine [Russian]
 naver.com                                           #Search Engine [South Korea]
 ask-tb.com                                          #Search Engine - Ask (Toolbar
 ask.com                                             #Search Engine - Ask
+isearch.avg.com                                     #Search Engine - AVG
 search.comodo.com                                   #Search Engine - Comodo
 search.com                                          #Search Engine - CBS
 cliqz.com                                           #Search Engine - Cliqz

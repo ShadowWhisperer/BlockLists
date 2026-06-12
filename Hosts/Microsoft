@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 570
-# Updated: 6/10/2026  19:05 (7:05 PM CST)
+# Domains: 574
+# Updated: 6/11/2026  20:44 (8:44 PM CST)
 #
 0.0.0.0 api.cognitive.microsoft.com
 0.0.0.0 australiaeast.api.cognitive.microsoft.com
@@ -130,6 +130,10 @@
 0.0.0.0 smartscreen-prod.microsoft.com
 0.0.0.0 smartscreen.microsoft.com
 0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 bubblewitch3mobile.king.com
+0.0.0.0 candycrush.king.com
+0.0.0.0 candycrushsoda.king.com
+0.0.0.0 ccs.play.king.com
 0.0.0.0 api.msn.com
 0.0.0.0 appexbingfinance.trafficmanager.net
 0.0.0.0 appexbingweather.trafficmanager.net
