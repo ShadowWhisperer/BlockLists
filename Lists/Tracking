@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 114,528
-# Updated: 6/15/2026  21:58 (9:58 PM CST)
+# Domains: 114,530
+# Updated: 6/16/2026  10:16 (10:16 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -536,6 +536,7 @@
 95nedowamy-metrics.bancobmg.com.br
 970478029.myolavson.com
 97660ccadcc445599a18731f44643af0.apm.us-east-1.aws.cloud.es.io
+977393705048-logs.s3.us-east-1.amazonaws.com
 98pso.r.a.d.sendibm1.com
 9b583af3.b-cdn.net
 9.dr-n.pl
@@ -110416,6 +110417,7 @@ twf.wechselfabrik.de
 t.whats-up.de
 t.wibu.care
 t.wien-augenlasern.at
+t.windyapp.co
 twingly.com
 twinpinenetwork.com
 t.wintersteiger.com
