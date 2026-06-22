@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,058
-# Updated: 5/12/2026  10:52 (10:52 AM CST)
+# Domains: 1,059
+# Updated: 6/22/2026  09:26 (9:26 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -79,6 +79,7 @@ d1ss45t6zb3sdy.cloudfront.net                    #Talkie
 glowapp.vip                                      #Talkie
 sensorsdata.glowapp.vip                          #Talkie
 talkie-ai.com                                    #Talkie
+realmrift.online                                 #
 
 
 ###########################################################################################
