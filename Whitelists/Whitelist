@@ -535,12 +535,13 @@ dyncdn.me                                            #Torrents - Pictures
 k.twitchcdn.net                                      #Twitch - Breaks login, follow channel
 ubiquiti.ada.support                                 #Ubiquiti - Breaks login (Trust Device)
 nca-iot-us-west-2.svc.ui.com                         #Ubiquiti - Breaks Backups, possibly remote
+unifi-kms.svc.ui.com                                 #Ubiquiti - Breaks Backups
 static.ui.com                                        #Ubiquiti - NVR (Icons)
 unpkg.com                                            #Ubiquiti - NVR
 api-gw.uid.alpha.ui.com                              #Ubiquiti - NVR (Application Updates)
 ues.svc.ui.com                                       #Ubiquiti - Subscriptions - Check
 ping.ubnt.com                                        #Ubiquiti - Check for internet access (Doesn't break anything, if blocked)
-ping.ui.com                                          #Ubiquiti - Track hardware uptime (Viewable unifi.ui.com)
+ping.ui.com                                          #Ubiquiti - Track hardware uptime (Viewable on unifi.ui.com)
 alnk.to                                                 #URL Shortener
 anonym.to                                               #URL Shortener
 bit.ly                                                  #URL Shortener
