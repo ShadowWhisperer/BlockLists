@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 942
-# Updated: 6/11/2026  20:44 (8:44 PM CST)
+# Domains: 943
+# Updated: 6/25/2026  18:27 (6:27 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -795,6 +795,7 @@ df-staging.dell.com                                 #Dell
 update.backup.techconcierge.dell.com                #Dell
 autosug.ebay.com                                    #eBay
 autosug.ebaystatic.com                              #eBay
+live.us.shoplive.cloud                              #eBay (Live videos)
 apps.facebook.com                                   #Facebook
 b-api.facebook.com                                  #Facebook
 cdn.amp-endpoint2.com                               #Facebook
