@@ -1,13 +1,14 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 142
-# Updated: 1/24/2026  12:36 (12:36 PM CST)
+# Domains: 143
+# Updated: 6/29/2026  00:39 (12:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
+ohttp.prod.via.google
 adfilter.net
 adguard.com
 adguard-dns.com
