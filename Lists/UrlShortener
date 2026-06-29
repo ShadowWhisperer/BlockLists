@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,805
-# Updated: 6/18/2026  23:05 (11:05 PM CST)
+# Domains: 5,806
+# Updated: 6/29/2026  09:47 (9:47 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4067,6 +4067,7 @@ s.gdngs.de
 sgrtldm.com
 sgsu.ru
 sguhslig.com
+sgyan.com
 sh7.ch
 shadowtech.life
 shadyurl.com
