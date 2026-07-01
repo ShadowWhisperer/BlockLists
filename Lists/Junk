@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 947
-# Updated: 6/28/2026  00:34 (12:34 AM CST)
+# Domains: 948
+# Updated: 7/1/2026  00:14 (12:14 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -702,6 +702,7 @@ doodlekit.com                                       #Website Builder
 droppages.com                                       #Website Builder
 framer.ai                                           #Website Builder
 framer.app                                          #Website Builder
+framer.media                                        #Website Builder
 framer.website                                      #Website Builder
 getshogun-cache-production.s3.amazonaws.com         #Website Builder
 homeworkgenerator.co.uk                             #Website Builder
