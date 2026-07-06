@@ -481,14 +481,15 @@ substrate.office.com                                    #Microsoft   outlook.com
 statics-uhf-wus.akamaized.net                           #Microsoft   Support Pages
 statics.teams.cdn.office.net                            #Microsoft   Teams (Download)
 wdcp.microsoft.com                                      #Microsoft   Windows Defender Updates
-storecatalogrevocation.storequality.microsoft.com       #Microsoft   Windows Store (Remove licenses for malicious apps)
 displaycatalog.mp.microsoft.com                         #Microsoft   Windows Store
+edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net        #Microsoft   Windows Store (Search results)
 services.apps.microsoft.com                             #Microsoft   Windows Store
+storecatalogrevocation.storequality.microsoft.com       #Microsoft   Windows Store (Remove licenses for malicious apps)
 storeedgefd.dsx.mp.microsoft.com                        #Microsoft   Windows Store
+storeedge.microsoft.com                                 #Microsoft   Windows Store
 store-images.s-microsoft.com                            #Microsoft   Windows Store
 wscont1.apps.microsoft.com                              #Microsoft   Windows Store
 wscont2.apps.microsoft.com                              #Microsoft   Windows Store
-edgestorewebpme-d2hnhfgbgnfmfuha.z01.azurefd.net        #Microsoft   Windows Store (Search results)
 fe2.ws.microsoft.com                                    #Microsoft   Windows 8 Store
 next-services.apps.microsoft.com                        #Microsoft   Windows 8 Store
 device.auth.xboxlive.com                                #Microsoft   Windows 10 Store
