@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 948
-# Updated: 7/1/2026  00:14 (12:14 AM CST)
+# Domains: 949
+# Updated: 7/7/2026  19:37 (7:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -117,6 +117,7 @@ voodoo-gaming.io                                    #Android  [App Studio]    Vo
 voodoo-tech.io                                      #Android  [App Studio]    Voodoo
 tfgco.com                                           #Android  [App Studio]    WildLife
 zeptolab.com                                        #Android  [App Studio]    Zepto Lab
+zipoapps.com                                        #Android  [App Studio]    ZippoApps
 
 d3699v4tsyfjnd.cloudfront.net                       #Android  [Game Engine]   Unity 3D
 unity3d.com                                         #Android  [Game Engine]   Unity 3D
