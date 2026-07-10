@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,283
-# Updated: 7/9/2026  19:09 (7:09 PM CST)
+# Domains: 17,285
+# Updated: 7/10/2026  15:47 (3:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3079,6 +3079,7 @@ datadecisionsgroup.com
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+datadog.pool.ntp.org
 datadogsux.com
 datadogsux.net
 datadome.co
@@ -13052,6 +13053,7 @@ proudprose.com
 providercall.com
 proxcactus.com
 proxem.com
+proxima.ai
 proximic.com
 proxnodded.com
 proxomnibusborn.com
