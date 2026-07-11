@@ -1,8 +1,8 @@
 #
 #    File: Fonts
 #    Info: Fonts
-# Domains: 167
-# Updated: 6/28/2026  00:34 (12:34 AM CST)
+# Domains: 168
+# Updated: 7/11/2026  18:16 (6:16 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Fonts
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -71,6 +71,7 @@ fonts.garmin.com
 fonts.garmin.com.cdn.cloudflare.net
 fonts.googleapi.com
 fonts.google.com
+fonts.gsma.com
 fonts-gstatic-com.cdn.ampproject.org
 fonts-gstatic-com.translate.goog
 fonts.hamburg.de
