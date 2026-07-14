@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 27,012
-# Updated: 7/12/2026  21:20 (9:20 PM CST)
+# Domains: 27,013
+# Updated: 7/14/2026  10:50 (10:50 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -26143,6 +26143,7 @@ widgets.stores-bloomingdales.com
 widget.starfieldtech.com
 widgets.thereviewsplace.com
 widgets.tree.com
+widgets.ups.com
 widgets.upstart.com
 widgets.vinaudit.com
 widgets.wp.com
