@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 950
-# Updated: 7/12/2026  21:20 (9:20 PM CST)
+# Domains: 951
+# Updated: 7/16/2026  18:31 (6:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -244,6 +244,7 @@ avgbrowser.com                                      #Browser - AVG
 browser-update.avg.com                              #Browser - AVG
 ccleanerbrowser.com                                 #Browser - Ccleaner
 dolphin-browser.com                                 #Browser - Dolphin
+neobrowser.ai                                       #Browser - Norton
 securebrowser.com                                   #Browser - Norton
 orbitum.com                                         #Browser - Orbitum
 uc.cn                                               #Browser - UC
