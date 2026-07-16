@@ -1,36 +1,12 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 574
-# Updated: 6/11/2026  20:44 (8:44 PM CST)
+# Domains: 551
+# Updated: 7/15/2026  23:36 (11:36 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
-
-api.cognitive.microsoft.com                    #AI
-australiaeast.api.cognitive.microsoft.com      #AI
-brazilsouth.api.cognitive.microsoft.com        #AI
-canadacentral.api.cognitive.microsoft.com      #AI
-centralindia.api.cognitive.microsoft.com       #AI
-centralus.api.cognitive.microsoft.com          #AI
-eastasia.api.cognitive.microsoft.com           #AI
-eastus2.api.cognitive.microsoft.com            #AI
-eastus.api.cognitive.microsoft.com             #AI
-francecentral.api.cognitive.microsoft.com      #AI
-japaneast.api.cognitive.microsoft.com          #AI
-japanwest.api.cognitive.microsoft.com          #AI
-koreacentral.api.cognitive.microsoft.com       #AI
-northcentralus.api.cognitive.microsoft.com     #AI
-northeurope.api.cognitive.microsoft.com        #AI
-southafricanorth.api.cognitive.microsoft.com   #AI
-southcentralus.api.cognitive.microsoft.com     #AI
-southeastasia.api.cognitive.microsoft.com      #AI
-uksouth.api.cognitive.microsoft.com            #AI
-westcentralus.api.cognitive.microsoft.com      #AI
-westeurope.api.cognitive.microsoft.com         #AI
-westus2.api.cognitive.microsoft.com            #AI
-westus.api.cognitive.microsoft.com             #AI
 
 fevoke-windowsservices-tas.msedge.net          #App    Candy Crush Saga (Updates)
 copilot.microsoft.com                          #App   Copilot
@@ -612,7 +588,6 @@ ussus3westprod.blob.core.windows.net
 waws-prod-blu-059.cloudapp.net
 wdcpalt.microsoft.com
 webportals-ngp.trafficmanager.net
-
 wfbdevicemanagement
 winatp-gw-cus.microsoft.com
 wip.mam.manage.microsoft.com
