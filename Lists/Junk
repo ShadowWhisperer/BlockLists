@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 951
-# Updated: 7/16/2026  18:31 (6:31 PM CST)
+# Domains: 960
+# Updated: 7/18/2026  21:40 (9:40 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -304,6 +304,15 @@ gamelift-ping.eu-west-1.api.aws                        #Games - Non-USA Servers
 gamelift-ping.eu-west-2.api.aws                        #Games - Non-USA Servers
 gamelift-ping.eu-west-3.api.aws                        #Games - Non-USA Servers
 gamelift-ping.sa-east-1.api.aws                        #Games - Non-USA Servers
+mpsqosprod.australiaeast.cloudapp.azure.com            #Games - Non-USA Servers
+mpsqosprod.brazilsouth.cloudapp.azure.com              #Games - Non-USA Servers
+mpsqosprod.eastasia.cloudapp.azure.com                 #Games - Non-USA Servers
+mpsqosprod.japaneast.cloudapp.azure.com                #Games - Non-USA Servers
+mpsqosprod.northeurope.cloudapp.azure.com              #Games - Non-USA Servers
+mpsqosprod.southafricanorth.cloudapp.azure.com         #Games - Non-USA Servers
+mpsqosprod.southeastasia.cloudapp.azure.com            #Games - Non-USA Servers
+mpsqosprod.uaenorth.cloudapp.azure.com                 #Games - Non-USA Servers
+mpsqosprod.westeurope.cloudapp.azure.com               #Games - Non-USA Servers
 pfmsqos.australiaeast.cloudapp.azure.com               #Games - Non-USA Servers
 pfmsqos.australiasoutheast.cloudapp.azure.com          #Games - Non-USA Servers
 pfmsqos.brazilsouth.cloudapp.azure.com                 #Games - Non-USA Servers
