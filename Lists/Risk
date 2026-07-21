@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,257
-# Updated: 7/10/2026  15:47 (3:47 PM CST)
+# Domains: 1,259
+# Updated: 7/21/2026  13:05 (1:05 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -134,8 +134,9 @@ apks.software                                    #APK Hosting
 fikfak.net                                       #APK Hosting
 uptodown.com                                     #APK Hosting
 
-appdomain.cloud                                  #Cloud Storage (IBM) - Known to have malware
-top4top.io                                       #Cloud Storage - Known to have malware
+appdomain.cloud                                  #Cloud Storage - Known to host malware (IBM)
+top4top.io                                       #Cloud Storage - Known to host malware
+r2.dev                                           #Cloud Storage - Temp storage (Amazon)
 
 codefactory.sh                                   #Code Hosting
 onrender.com                                     #Code Hosting
@@ -146,6 +147,8 @@ glitch.me                                        #Code Hosting - Hosts malware /
 repl.co                                          #Code Hosting - Hosts malware / scam sites
 repl.it                                          #Code Hosting - Hosts malware / scam sites
 stackblitz.io                                    #Code Hosting - Hosts malware / scam sites
+
+replit.app                                       #Software Development
 
 apponic.com                                      #Software Hosting
 brothersoft.com                                  #Software Hosting

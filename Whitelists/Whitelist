@@ -542,8 +542,8 @@ static.ui.com                                        #Ubiquiti - NVR (Icons)
 unpkg.com                                            #Ubiquiti - NVR
 api-gw.uid.alpha.ui.com                              #Ubiquiti - NVR (Application Updates)
 ues.svc.ui.com                                       #Ubiquiti - Subscriptions - Check
-ping.ubnt.com                                        #Ubiquiti - Check for internet access (Doesn't break anything, if blocked)
-ping.ui.com                                          #Ubiquiti - Track hardware uptime (Viewable on unifi.ui.com)
+ping.ubnt.com                                        #Ubiquiti - Check for internet access (Doesn't break anything if blocked)
+ping.ui.com                                          #Ubiquiti - Track hardware uptime (SLA Monitor) - Viewable on unifi.ui.com
 alnk.to                                                 #URL Shortener
 anonym.to                                               #URL Shortener
 bit.ly                                                  #URL Shortener
@@ -732,6 +732,7 @@ tracking.truthfinder.com                    #Tracker - Breaks Links
 wb44trk.com                                 #Tracker - Breaks Links
 cdn.gsght.com                               #Tracker - Breaks Links
 geo.elgato.com                              #Tracker - Breaks signup
+ipqs.com                                    #Tracker - Breaks signup - Yahoo (IP Score) - 2 Step
 cdn.boomtrain.com                           #Tracker - Breaks Sites
 geo1.presslabs.net                          #Tracker - Breaks Sites
 cdn.birdzi.com                              #Tracker - Breaks Sites - Grocery Store Weekly Ad Flyers
@@ -756,8 +757,9 @@ kangaroo.vocento.com                        #Tracker - Prevents site access -> a
 # 2a7e9.v.fwmrm.net                    #Ad         [Video]   channel4.com
 # doubleclick.net                      #Ad         [Video]   Cnet
 #
-# analytics.dolphin-emu.org            #Analytics  [Software]  Dolphin Emulator
 # telemetry.malwarebytes.com           #Analytics  [Software]  AdwCleaner
+# analytics.dolphin-emu.org            #Analytics  [Software]  Dolphin Emulator
+# analytics.home-assistant.io          #Analytics  [Software]  Home-Assistant
 #
 # supl.google.com                      #GPS
 #
