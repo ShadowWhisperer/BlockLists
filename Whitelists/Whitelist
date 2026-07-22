@@ -32,6 +32,7 @@ app2.govee.com                                      #Govee                   Bre
 content-prod.iot.irobotapi.com                      #iRobot                  Won't open app
 disc-prod.iot.irobotapi.com                         #iRobot                  Won't open app
 unauth3.prod.iot.irobotapi.com                      #iRobot                  Won't open app
+n-wap.i.tplinkcloud.com                             #Kasa                    Create account
 apim.gm.com                                         #MyChevrolet             Breaks it
 geller-pa.googleapis.com                            #Pixel Studio            AI Model Download
 prod.mobile.roku.com                                #Roku Remote             Video Browser
@@ -577,6 +578,7 @@ ftr2.external.xerox.com                                 #Xerox - Scan to email
 privacyportal.cisco.com                                 #Webex - Only hides cookie option buttons, not the whole banner
 
 
+########################
 # Smart TV
 ########################
 configs.ott.aetnd.com                                #App   A&E (Check for internet access)
@@ -646,6 +648,7 @@ update.biv.sony.tv                             #Sony - System Updates
 api.erabu.sony.tv                              #Sony - System Updates
 
 
+########################
 # Breaks Sites
 ########################
 graphql-api.aws.syncbak.com                 #Ad - Breaks App - Dakota News Now (Roku TV Box)
@@ -668,7 +671,7 @@ widget2.kudobuzz.com                        #Ad - Breaks Product Review Rating (
 ojrq.net                                    #Ad/Tracker - Breaks Sites
 asadcdn.com                                 #Ad/Tracker - Breaks Sites (Example: bild.de)
 imasdk.googleapis.com                       #Ad/Tracker - Breaks Video Players on some sites
-guce.advertising.com                        #Ad/Tracker - Prevents 'aol.co.uk' from working
+guce.advertising.com                        #Ad/Tracker - Breaks aol.co.uk
 mkt6385.com                                 #Marketing - Breaks Confirmation Emails
 webto.salesforce.com                        #Marketing - Can't send support request
 lddy.no                                     #Marketing - Breaks Links
@@ -769,7 +772,6 @@ kangaroo.vocento.com                        #Tracker - Prevents site access -> a
 # letsconnect.at                       #Widget     Live Chat Button
 # widget.harnessapp.com                #Widget     Donation Button
 #
-
 
 
 #####################################################
