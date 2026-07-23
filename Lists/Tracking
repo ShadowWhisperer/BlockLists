@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,485
-# Updated: 7/22/2026  15:25 (3:25 PM CST)
+# Domains: 115,483
+# Updated: 7/22/2026  21:34 (9:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2502,7 +2502,6 @@ acs2.tc
 acs3.tc
 acs4.tc
 acs7.tc
-acs.aliexpress.us
 acsbap.com
 acsbapp.com
 acslab.net
@@ -17054,8 +17053,6 @@ aplfb8trk.com
 apln.co
 aplo-evnt.com
 apl.roskomsvoboda.org
-aplus.aliexpress.com
-aplus.aliexpress.us
 aplus-sdk.alibaba-inc.com
 aplus.wan.video
 apl.venusafe.com
@@ -30857,6 +30854,7 @@ epsc.ticketmaster.com
 epsihost.com
 epsilon.com
 epsqk.hush.ca
+epss.alibaba-inc.com
 eps.uprova.com
 eptimv.shionle.com
 epudo.hhctx.co
