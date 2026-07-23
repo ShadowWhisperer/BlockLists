@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,259
-# Updated: 7/21/2026  13:05 (1:05 PM CST)
+# Domains: 1,260
+# Updated: 7/23/2026  12:28 (12:28 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -156,6 +156,7 @@ cache.filehippo.com                              #Software Hosting
 cdn.filehorse.netdna-cdn.com                     #Software Hosting
 crsky.com                                        #Software Hosting
 dl1.filehippo.com                                #Software Hosting
+download3000.com                                 #Software Hosting
 download82.com                                   #Software Hosting
 downloadsoftware4free.com                        #Software Hosting
 en.vessoft.com                                   #Software Hosting
