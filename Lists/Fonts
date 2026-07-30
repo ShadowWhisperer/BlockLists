@@ -1,8 +1,8 @@
 #
 #    File: Fonts
 #    Info: Fonts
-# Domains: 171
-# Updated: 7/22/2026  15:25 (3:25 PM CST)
+# Domains: 172
+# Updated: 7/30/2026  17:52 (5:52 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Fonts
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -43,6 +43,7 @@ fontplus.aem.kao.com
 fontplus.dev
 fontplus.jp
 font-public.canva.com
+font-public.canva.com.cdn.cloudflare.net
 font.realtype.jp
 fonts2.tildacdn.com
 fonts.65twenty.com
