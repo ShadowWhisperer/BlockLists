@@ -121,6 +121,8 @@ resu.joycityglobal.com                              #Resident Evil Survival Unit
 geoip.cudasvc.com                                   #Barracuda (Firewall)   Set Time Zone
 prod.dw.us.fdcnet.biz                               #Credit Card Terminal   Prevents Sale
 secure.uptrillion.com                               #Credit Card Terminal   Prevents Sale
+api.frameo.net                                      #Frameo                 Sync Pictures
+serviceupdates.frameo.net                           #Frameo                 Firmware Updates
 test1.johnson-creative.com                          #Keep Connect Outlet    Check if internet is up
 test2.johnson-creative.com                          #Keep Connect Outlet    Check if internet is up
 mqtt-us-2.roborock.com                              #Roborock               Connect to Wifi / Check for firmware updates *Vacuum
