@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 551
-# Updated: 7/15/2026  23:36 (11:36 PM CST)
+# Domains: 550
+# Updated: 7/31/2026  00:03 (12:03 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -555,7 +555,6 @@ sci2-1.am.microsoft.com
 sci2-2.am.microsoft.com
 searchclient.live.net
 settings.data.glbdns2.microsoft.com
-settings.data.microsoft.com
 sfdataservice.microsoft.com
 sfp.microsoft.com
 share.microsoft.com

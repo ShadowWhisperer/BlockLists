@@ -1,8 +1,8 @@
 #
 #    File: Wild_Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 91
-# Updated: 7/15/2026  23:36 (11:36 PM CST)
+# Domains: 89
+# Updated: 7/31/2026  00:03 (12:03 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -26,8 +26,6 @@ copilot.microsoft.com
 corp.com
 cortana.ai
 customsearch.ai
-data.microsoft.com
-data.microsoft.com.akadns.net
 dc-msedge.net
 e-msedge.net
 fbs1-t-msedge.net

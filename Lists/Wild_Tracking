@@ -2,7 +2,7 @@
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 17,328
-# Updated: 7/30/2026  17:52 (5:52 PM CST)
+# Updated: 7/31/2026  00:03 (12:03 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3106,6 +3106,8 @@ datalicious.com
 datalya.com
 datamark.net
 datamart.windows.com
+data.microsoft.com
+data.microsoft.com.akadns.net
 datamilk.app
 datanerd.co
 datanerd.us
@@ -3951,7 +3953,6 @@ evalueserve.com
 evanescentedge.com
 eventexistence.com
 events.asurion.com
-events.data.microsoft.com
 events.data.msn.com
 events.data.trafficmanager.net
 events.mapbox.com
@@ -16559,7 +16560,6 @@ volvelle.tech
 voodoo-analytics.io
 voraciousgrip.com
 vorainsight.com
-vortex.data.microsoft.com
 voxiva.com
 voxsnap.com
 voyagepotato.com
