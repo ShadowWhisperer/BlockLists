@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 963
-# Updated: 7/30/2026  17:52 (5:52 PM CST)
+# Domains: 964
+# Updated: 8/2/2026  10:51 (10:51 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -663,6 +663,7 @@ tikvok.com                                          #TikTok
 tivtok.com                                          #TikTok
 topbuzz.com                                         #TikTok
 ttbuzz.com                                          #TikTok
+ttcdn-us.com                                        #TikTok
 ttlivecdn.com                                       #TikTok
 ttwstatic.com                                       #TikTok
 v16-tiktokcdn-com.akamaized.net                     #TikTok

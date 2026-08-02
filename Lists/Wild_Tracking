@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,329
-# Updated: 7/31/2026  16:21 (4:21 PM CST)
+# Domains: 17,332
+# Updated: 8/2/2026  10:51 (10:51 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1190,6 +1190,7 @@ apteco.com
 aptrinsic.com
 apttrk.com
 apxadtracking.net
+apx.amazon.dev
 apxlv.com
 apxor.com
 apy.vision
@@ -1548,6 +1549,7 @@ bdmgtrack3.com
 bdmgtrack4.com
 bdmgtrack.com
 bdmgtracknem.com
+bdtelemetry.amazon
 bdtrckwz.com
 beaconforms.com
 beaconforstore.com
@@ -1986,6 +1988,7 @@ bugly.qcloud.com
 bugsense.com
 bugsnag.appstore.a2z.com
 bugsnag.com
+bugsnag.kindle.amazon.dev
 bugtags.com
 buh9j3kd.com
 buildcentral.com
@@ -12930,7 +12933,6 @@ potloc.com
 powderjourney.com
 powderprofit.com
 poweranalytics.com
-powerbi.com
 powerbiz.pl
 powerchord.com
 powerchordsystem.com
@@ -17164,6 +17166,7 @@ yeahone.top
 yearofeternaljoy.com
 yelenie.pl
 yes-10.shop
+yextevents.com
 yext-pixel.com
 ygtrack.com
 yhmapi.com
