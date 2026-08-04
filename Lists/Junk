@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 965
-# Updated: 8/2/2026  14:03 (2:03 PM CST)
+# Domains: 966
+# Updated: 8/4/2026  18:03 (6:03 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -207,6 +207,7 @@ ipv6.iau.trendmicro.com                             #Antivirus   TrendMicro
 ultrasecureav.com                                   #Antivirus    Ultra Secure AV
 aurasvc.io                                          #Antivirus    UltraAV (pango.co)
 ultraantivirus.com                                  #Antivirus    UltraAV (pango.co)
+virusfree.cz                                        #Antivirus    VirusFree
 webrootanywhere.com                                 #Antivirus    Webroot
 webrootcloudav.com                                  #Antivirus    Webroot
 webroot.com                                         #Antivirus    Webroot
