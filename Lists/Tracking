@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 115,547
-# Updated: 8/3/2026  22:12 (10:12 PM CST)
+# Domains: 115,549
+# Updated: 8/3/2026  23:28 (11:28 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -12719,6 +12719,7 @@ analytics.redpanda.digital
 analytics.redrammedia.com
 analytics.redtuna.com
 analytics.redzone.com.hr
+analytics.reelup.io
 analytics.reenlo.com
 analytics.reesorts.com
 analytics.refa-sachsenanhalt.de
@@ -68979,6 +68980,7 @@ pixel.facebook.com
 pixel.falalima.com.br
 pixel.fencesperth.com
 pixel.flavianosouzaesilva.com.br
+pixel-for-openai-ads.fly.dev
 pixel.friarscourt.com
 pixel.getaway.ee
 pixel.getmobilus.com
