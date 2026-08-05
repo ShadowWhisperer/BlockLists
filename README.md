@@ -1,6 +1,6 @@
     Ads              Advertisements, Banners, Push Notifications, Widgets  
     Adult            Porn  
-    AI               LLMs, Chatbots, Music/Photo/Video generation
+    AI               LLMs, and Music/Photo/Video generation
     Apple            Bloat 
     Chat             Chat Dialog Popups and Widgets (Not in Ads)
     Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not Malware)  
