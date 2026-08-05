@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,261
-# Updated: 7/29/2026  10:02 (10:02 AM CST)
+# Domains: 1,229
+# Updated: 8/5/2026  18:34 (6:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -43,43 +43,6 @@ inter-cloud.tech                                 #ISP    Worst  Spam     Jun 202
 colocrossing.com                                 #ISP    Worst  Spam     Nov 2020
 skbroadband.com                                  #ISP    Worst  Spam     Apr 2021
 wind.com.do                                      #ISP    Worst  Spam     Apr 2021
-
-
-###########################################################################################
-#  "AI" Companions      https://www.youtube.com/watch?v=6uwVNufVnD8
-###########################################################################################
-aigirlfriend.wtf                                 #AI Girlfriend
-avatar.one                                       #Avatar One
-beta.character.ai                                #Character.AI
-character.ai                                     #Character.AI
-neo.character.ai                                 #Character.AI
-plus.character.ai                                #Character.AI
-api.ifriend.ai                                   #EvaAI
-ifriend.ai                                       #EvaAI
-api.linke.ai                                     #Linky
-api-ws.linke.ai                                  #Linky
-linke.ai                                         #Linky
-staticai.linke.ai                                #Linky
-sync-image.linke.ai                              #Linky
-us-central1-lover-ai-chatbot.cloudfunctions.net  #LoverAI
-lyxi.ai                                          #Lyxi
-gw.vsa.ai                                        #Paradot
-withfeelingaitest.firebaseapp.com                #Paradot
-api.polyspeak.ai                                 #Poly.AI
-cdn.polyspeak.ai                                 #Poly.AI
-pluto.polyspeak.ai                               #Poly.AI
-polyspeak.ai                                     #Poly.AI
-sanxia.polyspeak.ai                              #Poly.AI
-replika.ai                                       #Replika
-ws.replika.ai                                    #Replika
-api.talkie-ai.com                                #Talkie
-bigdata.talkie-ai.com                            #Talkie
-connection.talkie-ai.com                         #Talkie
-d1ss45t6zb3sdy.cloudfront.net                    #Talkie
-glowapp.vip                                      #Talkie
-sensorsdata.glowapp.vip                          #Talkie
-talkie-ai.com                                    #Talkie
-realmrift.online                                 #
 
 
 ###########################################################################################

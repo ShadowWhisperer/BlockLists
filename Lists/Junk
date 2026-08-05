@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 966
-# Updated: 8/4/2026  18:03 (6:03 PM CST)
+# Domains: 969
+# Updated: 8/5/2026  18:34 (6:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -547,6 +547,9 @@ survicate-cdn.com                                   #Survey - Survicate
 survicate.com                                       #Survey - Survicate
 survio.com                                          #Survey - Survio
 toluna-analytics.com                                #Survey - Toluna
+usabi.li                                            #Survey - UsabilityHub
+usabilityhub.ai                                     #Survey - UsabilityHub
+usabilityhub-uploads-production.s3.amazonaws.com    #Survey - UsabilityHub
 survey.webrootanywhere.com                          #Survey - Webroot
 yesinsights.com                                     #Survey - Yes Insights
 questionpro.com.au                                  #Survey - Question Pro

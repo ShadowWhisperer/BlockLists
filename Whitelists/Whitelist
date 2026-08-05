@@ -22,7 +22,7 @@ sus.sophosupd.com                                   #Sophos      Updates
 
 
 #####################################################
-# Apps
+# Phone Apps
 #####################################################
 identity.bitwarden.com                              #Bitwarden               Login
 api.bitwarden.com                                   #Bitwarden               Breaks App
@@ -572,6 +572,7 @@ imagizer.imageshack.com                              #Various Sites - Images
 pp.userapi.com                                       #Various Sites - Images
 static.fastpic.ru                                    #Various Sites - Images
 static.wixstatic.com                                 #Various Sites - Images
+global.events.live-video.net                         #Various Sites - Live video stream
 d1n478pkuw1c5t.cloudfront.net                           #Verizon / Samsung Updater
 cdn.abcotvs.net                                         #Video - Embedded Sites
 dcf.espn.com                                            #Video - Embedded Sites
@@ -583,7 +584,7 @@ privacyportal.cisco.com                                 #Webex - Only hides cook
 
 
 ########################
-# Smart TV
+# "Smart" TV
 ########################
 configs.ott.aetnd.com                                #App   A&E (Check for internet access)
 signature.video.aetnd.com                            #App   A&E (Crashes App)
