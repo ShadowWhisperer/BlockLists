@@ -1,5 +1,6 @@
     Ads              Advertisements, Banners, Push Notifications, Widgets  
     Adult            Porn  
+    AI               LLMs, Chatbots, Music/Photo/Video generation
     Apple            Bloat 
     Chat             Chat Dialog Popups and Widgets (Not in Ads)
     Cryptocurrency   Bitcoin, Ethereum, Mining, etc. (Not Malware)  
@@ -16,7 +17,7 @@
     Remote           Domains used for remote sessions  
     Risk             Bad ISP/Bots/Spam, Keyloggers, Device Monitoring, GPS, etc  
     Scam             Fake freight, gift cards, pets, products, firearms, news, support, etc  
-    Shock            Gore, Gross, Torture
+    Shock            Gore, Torture
     Top_Level        Top Level Domains. Sorted by continent, then by country
     Tracking         Analytics, Diagnostics, Location, Metrics, Public IP  
     Tunnels          VPNs & Proxies  
