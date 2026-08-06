@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 970
-# Updated: 8/6/2026  00:58 (12:58 AM CST)
+# Domains: 973
+# Updated: 8/6/2026  15:36 (3:36 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -481,6 +481,9 @@ user.utorrent.com                                   #Software     µTorrent
 utclient.utorrent.com                               #Software     µTorrent
 weatherbug.com                                      #Software  Weatherbug
 weatherbug.net                                      #Software  Weatherbug
+wbx2.com                                            #Software    Webex
+webex.com                                           #Software    Webex
+webexcontent.com                                    #Software    Webex
 remotewd.com                                        #Software   Western Digital (Cloud Storage)
 wdtest8.com                                         #Software   Western Digital (Cloud Storage)
 ampsvc.com                                          #Software  WildTangent Games
