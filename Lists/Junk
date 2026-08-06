@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 969
-# Updated: 8/5/2026  18:34 (6:34 PM CST)
+# Domains: 970
+# Updated: 8/6/2026  00:58 (12:58 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -295,6 +295,8 @@ finosfin.com                                        #Coupons
 hizonetech.com                                      #Coupons
 shopathome.com                                      #Coupons
 steamloto.org                                       #Coupons
+
+rapid7.com                                          #Cybersecurity  Rapid7
 
 gamelift-ping.af-south-1.api.aws                       #Games - Non-USA Servers
 gamelift-ping.ap-east-1.api.aws                        #Games - Non-USA Servers

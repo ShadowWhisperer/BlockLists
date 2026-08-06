@@ -1,49 +1,12 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,229
-# Updated: 8/5/2026  18:34 (6:34 PM CST)
+# Domains: 1,197
+# Updated: 8/6/2026  00:58 (12:58 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
-
-###########################################################################################
-#                      https://www.spamhaus.org/statistics/networks/                      #
-###########################################################################################
-tedata.net                                       #ISP    Worst  Botnet   Oct 2019
-te.eg                                            #ISP    Worst  Botnet   Oct 2019
-vnnic.vn                                         #ISP    Worst  Botnet   Oct 2019
-adityabirla.com                                  #ISP    Worst  Botnet   Feb 2020
-algerietelecom.dz                                #ISP    Worst  Botnet   Feb 2020
-chinanet.cn.net                                  #ISP    Worst  Botnet   Feb 2020
-cnc-noc.net                                      #ISP    Worst  Botnet   Feb 2020
-ptcl.net.pk                                      #ISP    Worst  Botnet   Feb 2020
-sancharnet.in                                    #ISP    Worst  Botnet   Feb 2020
-telkom.co.id                                     #ISP    Worst  Botnet   Feb 2020
-vnnic.net.vn                                     #ISP    Worst  Botnet   Feb 2020
-zx.nl                                            #ISP    Worst  Botnet   Feb 2020
-zvi.ru                                           #ISP    Worst  Botnet   Apr 2020
-zylon.net                                        #ISP    Worst  Botnet   May 2020
-charter.net                                      #ISP    Worst  Botnet   Nov 2020
-chinamobile.com                                  #ISP    Worst  Botnet   Nov 2020
-ntl.com                                          #ISP    Worst  Botnet   Nov 2020
-rr.com                                           #ISP    Worst  Botnet   Nov 2020
-airtel.in                                        #ISP    Worst  Spam     Feb 2019
-kornet.net                                       #ISP    Worst  Spam     Oct 2019
-moldtelecom.md                                   #ISP    Worst  Spam     Oct 2019
-htu.cc                                           #ISP    Worst  Spam     Feb 2020
-spectranet.com.ng                                #ISP    Worst  Spam     Feb 2020
-zzidc.com                                        #ISP    Worst  Spam     Feb 2020
-fos-vpn.org                                      #ISP    Worst  Spam     Apr 2020
-chinaccs.cn                                      #ISP    Worst  Spam     May 2020
-fink.org                                         #ISP    Worst  Spam     May 2020
-ghlc.biz                                         #ISP    Worst  Spam     Jun 2020
-inter-cloud.tech                                 #ISP    Worst  Spam     Jun 2020
-colocrossing.com                                 #ISP    Worst  Spam     Nov 2020
-skbroadband.com                                  #ISP    Worst  Spam     Apr 2021
-wind.com.do                                      #ISP    Worst  Spam     Apr 2021
-
 
 ###########################################################################################
 #  Hacking
