@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 973
-# Updated: 8/6/2026  15:36 (3:36 PM CST)
+# Domains: 978
+# Updated: 8/6/2026  19:07 (7:07 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -440,6 +440,9 @@ firefox.settings.services.mozilla.com               #Software   FireFox
 snippets.cdn.mozilla.net                            #Software   FireFox
 snippets.mozilla.com                                #Software   FireFox
 glarysoft.com                                       #Software  Glary Utilities
+iobit.com.s3.amazonaws.com                          #Software    IoBit
+iobit.com                                           #Software    IoBit
+updates3.iobit.com.s3.amazonaws.com                 #Software    IoBit
 iolo.com                                            #Software    Iolo (System Mechanic)
 iolo.net                                            #Software    Iolo (System Mechanic)
 whatsnew.libreoffice.org                            #Software      LibreOffice (Popup, after update)
@@ -481,6 +484,8 @@ user.utorrent.com                                   #Software     µTorrent
 utclient.utorrent.com                               #Software     µTorrent
 weatherbug.com                                      #Software  Weatherbug
 weatherbug.net                                      #Software  Weatherbug
+broadcloudpbx.net                                   #Software    Webex
+ciscospark.com                                      #Software    Webex
 wbx2.com                                            #Software    Webex
 webex.com                                           #Software    Webex
 webexcontent.com                                    #Software    Webex
