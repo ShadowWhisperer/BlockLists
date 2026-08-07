@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 515
-# Updated: 8/2/2026  23:10 (11:10 PM CST)
+# Domains: 517
+# Updated: 8/7/2026  10:26 (10:26 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -423,6 +423,8 @@ salesforceliveagent.com
 salesiq.zoho.com
 sales-live-chat.stripe.com
 salesmartly.com
+salespeak.ai
+salespeak-public-serving.s3.amazonaws.com
 satis.fi
 satisfilabs.com
 save-optimy-cdn-staging.s3.ca-central-1.amazonaws.com
