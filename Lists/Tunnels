@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,018
-# Updated: 6/17/2026  18:02 (6:02 PM CST)
+# Domains: 1,020
+# Updated: 8/10/2026  02:39 (2:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -50,6 +50,7 @@
 1clickvpn.net
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 2proxyweb.com
+2quickproxy.com
 401-0506.b-cdn.net
 401-0507.b-cdn.net
 401-retsam-swodniw.b-cdn.net
@@ -309,6 +310,7 @@ giveproxy.com
 global-proxy.com
 glype.com
 goosevpn.com
+gpcloudservice.com
 gracarno.com
 graef.in
 greenproxy.net

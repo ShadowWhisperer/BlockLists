@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tunnel
 #    Info: VPNs & Proxies
-# Domains: 887
-# Updated: 6/17/2026  18:02 (6:02 PM CST)
+# Domains: 889
+# Updated: 8/10/2026  02:39 (2:39 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tunnel
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -48,6 +48,7 @@
 1banproxy.com
 1clickvpn.net
 2proxyweb.com
+2quickproxy.com
 4everproxy.com
 4youproxyweb.com
 922proxy.com
@@ -206,6 +207,7 @@ giveproxy.com
 global-proxy.com
 glype.com
 goosevpn.com
+gpcloudservice.com
 gracarno.com
 graef.in
 greenproxy.net
