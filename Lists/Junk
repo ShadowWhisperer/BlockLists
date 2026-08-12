@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 978
-# Updated: 8/6/2026  19:07 (7:07 PM CST)
+# Domains: 979
+# Updated: 8/12/2026  10:14 (10:14 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -459,6 +459,7 @@ desktop-assistant-sub.osp.opera.software            #Software    Opera - Desktop
 browser-notifications.opera.com                     #Software    Opera - Notifications
 sd-suggestions.operacdn.com                         #Software    Opera - Speed Dial Suggestions
 cashback.opera.com                                  #Software    Opera - Cash Back
+pdq.com                                             #Software    PDQ
 appexnw.com                                         #Software  Pokki (Start Menu)
 pokki.com                                           #Software  Pokki (Start Menu)
 pokkinw.com                                         #Software  Pokki (Start Menu)

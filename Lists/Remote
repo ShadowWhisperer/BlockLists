@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 159
-# Updated: 8/9/2026  00:22 (12:22 AM CST)
+# Domains: 161
+# Updated: 8/12/2026  10:14 (10:14 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -42,6 +42,7 @@ dwservice.net
 dyngate.com
 dyngate.org
 famatech.com
+faronics.com
 fastsupport.com
 getgo.com
 getscreen.me
@@ -67,6 +68,7 @@ helpwire.app
 hostedrmm.com
 instanthousecall.com
 instanthousecall.net
+islonline.net
 join.me
 jumitech.com
 jumpcloud.com
