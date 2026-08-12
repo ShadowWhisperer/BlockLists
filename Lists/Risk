@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,197
-# Updated: 8/6/2026  00:58 (12:58 AM CST)
+# Domains: 1,199
+# Updated: 8/12/2026  17:15 (5:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -182,6 +182,8 @@ href.li                                          #Referer Hiding
 noreferrer.cc                                    #Referer Hiding
 refererhider.com                                 #Referer Hiding
 
+beyondtechsupport.com                            #BeyondTrush Remote Portal
+onepos.support                                   #BeyondTrush Remote Portal
 
 
 

@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,020
-# Updated: 8/10/2026  02:39 (2:39 AM CST)
+# Domains: 1,022
+# Updated: 8/12/2026  17:15 (5:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -653,6 +653,8 @@ smartproxy.com
 smartydns.com
 snowproxy.com
 soleilvpn-app.com
+spaceship-cdn.com
+spaceship.com
 sparklabs.com
 speedyth.com
 spoc.norton.com

@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 161
-# Updated: 8/12/2026  10:14 (10:14 AM CST)
+# Domains: 163
+# Updated: 8/12/2026  17:15 (5:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -27,6 +27,7 @@ aweray.net
 azure-devices.net
 beanywhere.com
 beyondtrustcloud.com
+beyondtrustgov.com
 bmasupport.com
 bomgar.com
 cdngetgo.com
@@ -159,6 +160,7 @@ terminalserviceplus.com
 tigervnc.org
 tightvnc.com
 todesk.com
+tsplus-remotesupport.com
 uithelp.com
 ultraviewer.net
 ultravnc.en.softonic.com
