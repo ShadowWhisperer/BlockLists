@@ -1,8 +1,8 @@
 #
 #    File: Microsoft
 #    Info: Apps, Bing, Tiles, Unknown
-# Domains: 550
-# Updated: 7/31/2026  00:03 (12:03 AM CST)
+# Domains: 549
+# Updated: 8/15/2026  02:06 (2:06 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Microsoft
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -535,7 +535,6 @@ prod.omexcosubretailer.live.com.akadns.net
 prod.rewardsplatform.microsoft.com
 products.support.services.microsoft.com
 prod-westus2.access-point.cloudmessaging.edge.microsoft.com
-ps.azurewaf.microsoft.com
 rarewaves.blob.core.windows.net
 recent.svc.cloud.microsoft
 redir1.cloudapp.net

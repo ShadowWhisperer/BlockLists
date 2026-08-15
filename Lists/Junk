@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 978
-# Updated: 8/14/2026  10:31 (10:31 AM CST)
+# Domains: 976
+# Updated: 8/15/2026  02:06 (2:06 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -371,10 +371,6 @@ playerio.com                                           #Games [Studio]  Player I
 pay.mgapex.com                                         #Game   Apex Legends - In Game Purchases
 pachinko-api.wbagora.com                               #Game   Injustice 2 - Multiplayer
 wb-agora-hydra-file-storage-pachinko.s3.amazonaws.com  #Game   Injustice 2 - ?
-
-duck.ai                                             #LLM
-kameleoon.com                                       #LLM
-kameleoon.io                                        #LLM
 
 pch.com                                             #Prizes / Giveaways
 thedailywinnings.com                                #Prizes / Giveaways
@@ -764,6 +760,8 @@ xtgem.com                                           #Website Builder
 zohosites.com                                       #Website Builder
 
 globalreach.com                                     #Website Dev
+
+evvnt.com                                           #Widget
 
 sogou.com                                           #Search Engine [China]
 soso.com                                            #Search Engine [China]
