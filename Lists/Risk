@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,199
-# Updated: 8/12/2026  17:15 (5:15 PM CST)
+# Domains: 1,200
+# Updated: 8/16/2026  01:04 (1:04 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -245,6 +245,7 @@ sfepodownload.mediatek.com                       #GPS - Tablet (Lenovo)
 sgepodownload.mediatek.com                       #GPS - Tablet (Lenovo)
 
 fmip.fe2.apple-dns.net                           #Apple Devices
+ls.apple.com                                     #Apple Devices
 p01-fmfmobile.icloud.com                         #Apple Devices
 p01-fmfmobile.icloud.com.cn                      #Apple Devices
 p01-fmip.icloud.com                              #Apple Devices
