@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 92
-# Updated: 8/16/2026  01:04 (1:04 AM CST)
+# Domains: 93
+# Updated: 8/17/2026  10:35 (10:35 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -24,6 +24,7 @@ chatgpt.com
 chat.mistral.ai
 claude.ai
 claude.com
+claudeusercontent.com
 consensus.app
 copilot.microsoft.com
 creati.ai
