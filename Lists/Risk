@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,200
-# Updated: 8/16/2026  01:04 (1:04 AM CST)
+# Domains: 1,201
+# Updated: 8/16/2026  22:08 (10:08 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -167,6 +167,8 @@ taskernet.com                                    #Android APP [Tasker] Allows cu
 ###########################################################################################
 #  Other
 ###########################################################################################
+atera.com                                        #AI - IT Management
+
 hikvision.com                                    #Chineese Security Cameras - Banned By US Gov
 api.hikvision.com                                #Chineese Security Cameras - Banned By US Gov
 hikvision.com.cn                                 #Chineese Security Cameras - Banned By US Gov

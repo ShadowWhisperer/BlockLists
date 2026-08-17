@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 975
-# Updated: 8/16/2026  01:04 (1:04 AM CST)
+# Domains: 976
+# Updated: 8/16/2026  22:08 (10:08 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -761,6 +761,7 @@ zohosites.com                                       #Website Builder
 globalreach.com                                     #Website Dev
 
 evvnt.com                                           #Widget
+tradingview-widget.com                              #Widget
 
 sogou.com                                           #Search Engine [China]
 soso.com                                            #Search Engine [China]
