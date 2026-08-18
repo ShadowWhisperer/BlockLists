@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,305
-# Updated: 8/15/2026  02:06 (2:06 AM CST)
+# Domains: 7,306
+# Updated: 8/18/2026  00:41 (12:41 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -6606,6 +6606,7 @@ tmatch.com
 toadsforsaleonline.com
 tobacconewswire.com
 tobuyy.com
+together-more.com
 tohepoint.com
 toiletuk.com
 toledoreporter.com
