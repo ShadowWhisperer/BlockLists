@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,423
-# Updated: 8/17/2026  15:27 (3:27 PM CST)
+# Domains: 17,425
+# Updated: 8/18/2026  13:28 (1:28 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4374,6 +4374,7 @@ fourmoo.com
 foursquare.com
 foxmetrics.com
 fpapi.io
+fpcdn.io
 fpconfig.net
 fpjscdn.net
 fpjs.io
@@ -5530,6 +5531,7 @@ industrialtrafficanalytics.com
 industryreview.com
 inet-ip.info
 inetlog.ru
+inetstats.org
 infa.media
 infamousstream.com
 infinario.com
