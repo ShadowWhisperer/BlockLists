@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 27,352
-# Updated: 8/17/2026  15:27 (3:27 PM CST)
+# Domains: 27,362
+# Updated: 8/17/2026  20:44 (8:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1677,6 +1677,7 @@ ad.cread.com
 adcreasians.com
 adcreative.ai
 adcreativemarketing.com
+ad-creatives-public.commondatastorage.googleapis.com
 adcreator.mobpro.com
 adcreta.com
 adcrew.co
@@ -10756,6 +10757,15 @@ consent.dii.eu
 consentframework.com
 consent.gameforge.com
 consent.gardenersworld.com
+consent.google.com
+consent.google.com.af
+consent.google.com.ag
+consent.google.com.ai
+consent.google.com.ar
+consent.google.com.au
+consent.google.com.bd
+consent.google.com.mm
+consent.google.com.pk
 consent.ladbible.com
 consent.liberation.fr
 consentmanager.de
@@ -22979,7 +22989,6 @@ silly-resist.com
 sillyrun.pro
 silo27.p7cloud.net
 silo49.p7cloud.net
-siloh-ns1.plutotv.net
 silveraddition.pro
 silveradv.com
 silveragency.com
@@ -23865,6 +23874,7 @@ strike.fox.com
 strikesocial.com
 striking-fly.pro
 stringads.com
+stripchat.beeg.com
 striped-permit.com
 stripedstudy.com
 stripe.rs-1117-a.com
