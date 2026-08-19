@@ -38,6 +38,7 @@
 - **Typo**: Contains mostly dead domains. Avoid on low-end devices.
 - **Wildcards**: Some domains may appear dead (`badsite.com`), but subdomain (`1.badsite.com`) may be active.
 - **Prefixes**: `www.`, `mobile.`, and `m.` are removed.
+- **RAW**: Raw is the same as Lists, just doesn't have the # lines.
 - **Sources**: Lists are made from a custom script and manual additions.
 
 ## Maintenance
