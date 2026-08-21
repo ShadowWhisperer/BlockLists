@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 976
-# Updated: 8/16/2026  22:08 (10:08 PM CST)
+# Domains: 978
+# Updated: 8/21/2026  11:50 (11:50 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -224,6 +224,7 @@ onlineada.com                                       #Accessibility Widget
 skynettechnologies.com                              #Accessibility Widget
 userway.org                                         #Accessibility Widget
 usrwy.com                                           #Accessibility Widget
+webability.io                                       #Accessibility Widget
 
 breadfinancial.com                                  #Alt Pay Method
 breadpayments.com                                   #Alt Pay Method
@@ -760,6 +761,7 @@ zohosites.com                                       #Website Builder
 
 globalreach.com                                     #Website Dev
 
+circleci.com                                        #Widget
 evvnt.com                                           #Widget
 tradingview-widget.com                              #Widget
 
