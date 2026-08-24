@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 97
-# Updated: 8/22/2026  14:12 (2:12 PM CST)
+# Domains: 98
+# Updated: 8/23/2026  21:30 (9:30 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -10,6 +10,7 @@
 
 agentic.ai
 agentsdk.ai
+agentsdk.dev
 aiease.ai
 aigirlfriend.wtf
 ai.google.com
