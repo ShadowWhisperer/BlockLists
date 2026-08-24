@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 99
-# Updated: 8/24/2026  00:56 (12:56 AM CST)
+# Domains: 101
+# Updated: 8/24/2026  14:21 (2:21 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -17,6 +17,7 @@ ai.google.com
 aireel.net
 anthropic.com
 antigravity.google
+appsgenaiserver-pa.clients6.google.com
 appsgenaiserver-pa.googleapis.com
 artspace.ai
 avatar.one
@@ -79,6 +80,7 @@ pixverse.ai
 poe.com
 pollo.ai
 polyspeak.ai
+proactivebackend-pa.googleapis.com
 realmrift.online
 replika.ai
 replit.dev
