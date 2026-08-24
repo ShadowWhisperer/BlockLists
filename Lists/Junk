@@ -2,7 +2,7 @@
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
 # Domains: 981
-# Updated: 8/24/2026  00:56 (12:56 AM CST)
+# Updated: 8/24/2026  13:39 (1:39 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -892,7 +892,6 @@ clientservices.googleapis.com                       #Google
 clients.l.google.com                                #Google
 cloudconfig.googleapis.com                          #Google
 cloudsearch.googleapis.com                          #Google
-content-autofill.googleapis.com                     #Google
 crosfresnel-pa.googleapis.com                       #Google
 cryptauthdevicesync.googleapis.com                  #Google
 cryptauthvault.googleapis.com                       #Google
@@ -930,7 +929,6 @@ marketingplatform.google.com                        #Google
 mobiledataplan-pa.googleapis.com                    #Google
 myphonenumbers-pa.googleapis.com                    #Google
 ondevicesafety-pa.googleapis.com                    #Google
-optimizationguide-pa.googleapis.com                 #Google
 os-u.storage.googleapis.com                         #Google
 pack.google.com                                     #Google
 pai.googlezip.net                                   #Google
