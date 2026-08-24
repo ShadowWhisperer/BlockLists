@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 978
-# Updated: 8/21/2026  11:50 (11:50 AM CST)
+# Domains: 981
+# Updated: 8/24/2026  00:56 (12:56 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -226,6 +226,8 @@ userway.org                                         #Accessibility Widget
 usrwy.com                                           #Accessibility Widget
 webability.io                                       #Accessibility Widget
 
+affirm.com                                          #Alt Pay Method
+afterpay.com                                        #Alt Pay Method
 breadfinancial.com                                  #Alt Pay Method
 breadpayments.com                                   #Alt Pay Method
 fnbo.com                                            #Alt Pay Method
@@ -407,6 +409,9 @@ eb.bluestacks.com                                   #Software    BlueStacks (And
 wallet.now.gg                                       #Software    BlueStacks (Android Emulator)
 webapi-cloud.bluestacks.com                         #Software    BlueStacks (Android Emulator)
 x-api.bluestacks.com                                #Software    BlueStacks (Android Emulator)
+alioth-pa.googleapis.com                            #Software  Chrome (Optimization Guide)
+content-autofill.googleapis.com                     #Software  Chrome (Autofill Detection)
+optimizationguide-pa.googleapis.com                 #Software  Chrome (Optimization Guide)
 passwordsleakcheck-pa.googleapis.com                #Software  Chrome (Check for exposed passwords)
 curseapp.net                                        #Software  Curse (In-Game Voice Chat)
 block-edge-anycast.dropbox.com                      #Software  DropBox
