@@ -535,6 +535,7 @@ auth2.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks co
 auth3.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks connection to vacuum (Unable to start/stop)
 3vx2e73s43.execute-api.us-east-1.amazonaws.com       #Roomba    [App]  Interface
 rapid-cdn.yottaa.com                                 #Scheels  - Breaks reviews
+opt.scheels.com                                      #Scheels  - Breaks images
 api.checkout.com                                     #Shopping Sites (Breaks Online Payments)
 checkout.shopifycs.com                               #Shopping Sites (Breaks Checkout) *Shopify
 deposit.us.shopifycs.com                             #Shopping Sites (Breaks Checkout) *Shopify
