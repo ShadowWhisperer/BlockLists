@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 116,405
-# Updated: 8/25/2026  09:43 (9:43 AM CST)
+# Domains: 116,412
+# Updated: 8/27/2026  12:17 (12:17 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -31639,6 +31639,7 @@ events.drogafarma.com.br
 events.drogariaveracruz.com.br
 events.elev.io
 events.eminded.de
+events.endpoint.security.microsoft.com
 events.engager.ecbsn.com
 event-server.prod.royalmatch.drmgms.com
 events.executiveoffice.co.nz
@@ -37870,6 +37871,7 @@ hawk.laptopmag.com
 hawk.makroskop.eu
 hawk.mjsarfatti.com
 hawk-tech.co.uk
+haymarketmedia.com
 hazgyj.netahsilat.com
 hb-analytics.hotstar.com
 hb.aplus.net
@@ -71642,6 +71644,7 @@ prod-clientlogs-n.northeurope.cloudapp.azure.com
 prod-dfm-proxy-connext.azurewebsites.net
 prodege.com
 prodegemr.com
+prod-foxkit.kts.fox
 prod-frontier.chaperone.lumindigitalhosting.com
 prod.geo.gluops.com
 prod.geoservice.gluops.com
@@ -76796,6 +76799,7 @@ secure.wine9bond.com
 secure.wivo2gaza.com
 secure.yami8alea.com
 secure.yirr5frog.com
+securification.ai
 securiti.ai
 security.claroty.com
 security.iq.com
@@ -107352,6 +107356,7 @@ t.dilling.se
 t.discoveru.online
 t.distart.de
 tdli2.cdn.q2w.net
+t.dmello.io
 td.menshealth.com
 td.milkjamcreamery.com
 tdnel.tend.com
@@ -111438,6 +111443,7 @@ truata.com
 truckstomatoes.com
 truconversion.com
 truculentrate.com
+trueanthem.com
 truedata.co
 truefalseanalytics.com
 truefit.com
@@ -112976,6 +112982,7 @@ usage-ping.brave.com
 usage-reporter.duplicati.com
 usage.sattler.com
 usage.weba-sonnenschirme.de
+usage.wled.me
 usamidia.v4company.com
 us-behavior.apitd.net
 usbrowserspeed.com

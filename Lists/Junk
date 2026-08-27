@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 981
-# Updated: 8/24/2026  13:39 (1:39 PM CST)
+# Domains: 982
+# Updated: 8/27/2026  12:17 (12:17 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -415,6 +415,7 @@ optimizationguide-pa.googleapis.com                 #Software  Chrome (Optimizat
 passwordsleakcheck-pa.googleapis.com                #Software  Chrome (Check for exposed passwords)
 curseapp.net                                        #Software  Curse (In-Game Voice Chat)
 block-edge-anycast.dropbox.com                      #Software  DropBox
+model-hub.mozilla.org                               #Software   FireFox    AI
 ciscobinary.openh264.org                            #Software   FireFox    Bloat   openh264
 openh264.org                                        #Software   FireFox    Bloat   openh264
 donate.mozilla.org                                  #Software   FireFox    Donate
