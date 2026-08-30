@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 982
-# Updated: 8/27/2026  12:17 (12:17 PM CST)
+# Domains: 983
+# Updated: 8/30/2026  15:47 (3:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -534,6 +534,7 @@ tns-gallup.dk                                       #Survey
 wenjuan.com                                         #Survey
 you-cubez.com                                       #Survey
 amdsurveys.com                                      #Survey - AMD
+cor.us                                              #Survey - Corus
 delighted.com                                       #Survey - Delighted
 getfeedback.com                                     #Survey - Get Feedback
 hpsasudf.ext.hp.com                                 #Survey - HP
