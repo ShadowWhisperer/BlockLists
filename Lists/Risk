@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,281
-# Updated: 8/22/2026  14:12 (2:12 PM CST)
+# Domains: 1,282
+# Updated: 8/31/2026  09:08 (9:08 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -51,11 +51,12 @@ apkcafe-vn                                       #APK Hosting
 apkcombo.com                                     #APK Hosting
 apkcombo.org                                     #APK Hosting
 apkflash.com                                     #APK Hosting
-apk.gold                                         #APK Hosting
 apkgold.ae                                       #APK Hosting
+apk.gold                                         #APK Hosting
 apkgold.in                                       #APK Hosting
 apkgold.kr                                       #APK Hosting
 apkgold-vn                                       #APK Hosting
+apkraw.com                                       #APK Hosting
 apks.software                                    #APK Hosting
 fikfak.net                                       #APK Hosting
 uptodown.com                                     #APK Hosting
