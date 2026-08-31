@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 983
-# Updated: 8/30/2026  15:47 (3:47 PM CST)
+# Domains: 984
+# Updated: 8/30/2026  22:44 (10:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -255,6 +255,7 @@ securebrowser.com                                   #Browser - Norton
 orbitum.com                                         #Browser - Orbitum
 uc.cn                                               #Browser - UC
 ucweb.com                                           #Browser - UC
+zen-browser.app                                     #Browser - Zen Browser
 
 ad-blocker.org                                      #Browser Extension
 adblock.fr                                          #Browser Extension
