@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 116,393
-# Updated: 9/1/2026  12:00 (12:00 PM CST)
+# Domains: 116,397
+# Updated: 9/1/2026  14:31 (2:31 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -33657,6 +33657,7 @@ geoip.ativo.com
 geoip.audials.com
 geoip.bigroom.app
 geoip.bluebeach-9a0f96b5.northeurope.azurecontainerapps.io
+geoip.businessinsider.com
 geo-ip.canonminiprint.com
 geoip.cdnservice.eu
 geoip.dblinks.com.br
@@ -46640,6 +46641,8 @@ log.adrianba.net
 log-ads.r7.com
 logagent.alibaba-inc.com
 logagent-global.kingsgroupgames.com
+logagent-rum.centurygame.com
+logagent-wf.centurygame.com
 logaholic.com
 log.ajunews.com
 log.alibaba-inc.com
@@ -106166,6 +106169,7 @@ ta.charlestyrwhitt.com
 tacking.fanbridge.com
 tackytrains.com
 tacojunkies.torchys.com
+ta-collector.centurygame.com
 t.actemra.com
 tacticlab.com.au
 tacticrealtime.com
