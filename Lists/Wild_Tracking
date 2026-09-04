@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,480
-# Updated: 9/3/2026  20:03 (8:03 PM CST)
+# Domains: 17,481
+# Updated: 9/4/2026  15:33 (3:33 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1152,6 +1152,7 @@ app-lf.com
 appliances4kitchens.com
 applicationdiagnostics.com
 applicationinsights.azure.com
+applicationinsights.azure.us
 applicationinsights.io
 applicationinsights.microsoft.com
 appliedhealth.net
