@@ -1,14 +1,12 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 7,310
-# Updated: 9/5/2026  12:51 (12:51 PM CST)
+# Domains: 7,311
+# Updated: 9/5/2026  22:20 (10:20 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
-
-daryl.lol
 
 007-dvd.com
 0-google.com
@@ -1677,6 +1675,7 @@ dark-net-market.com
 darkpistols.com
 darkwebmarketbuyer.com
 darlingtonhomepuppies.co.za
+daryl.lol
 daschnundadopt.shop
 dasilia.com
 data-regulate.com
@@ -3011,6 +3010,7 @@ guntycoons.com
 gutterprotectiondeals.com
 gymnasiumk.com
 habittees.com
+hack-email.org
 hackerslist.co
 hadmodest.com
 haelectricals.co.za
