@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 108
-# Updated: 9/5/2026  22:20 (10:20 PM CST)
+# Domains: 109
+# Updated: 9/6/2026  13:40 (1:40 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -55,6 +55,7 @@ gemini.google.com
 genimg.ai
 githubcopilot.com
 glowapp.vip
+gretai.com
 grok.com
 grokusercontent.com
 haiper.ai
