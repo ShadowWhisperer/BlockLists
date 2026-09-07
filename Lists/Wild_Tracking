@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,503
-# Updated: 9/6/2026  13:40 (1:40 PM CST)
+# Domains: 17,504
+# Updated: 9/6/2026  23:50 (11:50 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4907,6 +4907,7 @@ gostats.pl
 gostats.ro
 gostats.ru
 gostats.vn
+gosupersonic.ai
 gotvantage.com
 goupshot.com
 govmetric.com
