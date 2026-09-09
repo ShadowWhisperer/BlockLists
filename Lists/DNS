@@ -1,14 +1,13 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 143
-# Updated: 6/29/2026  00:39 (12:39 AM CST)
+# Domains: 144
+# Updated: 9/9/2026  14:44 (2:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
-ohttp.prod.via.google
 adfilter.net
 adguard.com
 adguard-dns.com
@@ -119,6 +118,8 @@ ns2.level3.net
 ns.cloudflare.com
 nwps.fi
 odvr.nic.cz
+ohttp.prod.via.google
+ohttp-relay-android-dev-verification.google.fastly-edge.com
 onedns.net
 one.one.one.one
 openbld.net
