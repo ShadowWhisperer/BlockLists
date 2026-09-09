@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 116,821
-# Updated: 9/8/2026  10:54 (10:54 AM CST)
+# Domains: 116,823
+# Updated: 9/8/2026  19:19 (7:19 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -95722,6 +95722,7 @@ stat.2-9-1.net
 stat.2r-kaltasphalt.de
 stat2.teamwareplaza.com
 stat3.airdroid.com
+stat3.dlc.ovh
 stat.3norai.lt
 stat.3pagen.de
 stat.4open.eu
@@ -106460,6 +106461,7 @@ sypexgeo.net
 sysearch-app2.squareyards.com
 sys.institutolapalabra.com
 sys.jumpeducacao.com.br
+sysrtg.com
 sysstat.tildacdn.com
 systechone.com
 systema.ai
