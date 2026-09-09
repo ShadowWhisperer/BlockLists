@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 116,824
-# Updated: 9/9/2026  09:37 (9:37 AM CST)
+# Domains: 116,825
+# Updated: 9/9/2026  18:06 (6:06 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -109729,6 +109729,7 @@ tracker.marketplace-anzu.io
 tracker.mediageneral.digital
 tracker.medialabrtb.com
 tracker.miaa.live
+tracker.mida-app.io
 tracker.mlion-rtb.io
 tracker.mnixdata.com
 tracker.move.ru
