@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,277
-# Updated: 9/7/2026  11:13 (11:13 AM CST)
+# Domains: 1,279
+# Updated: 9/11/2026  16:03 (4:03 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -512,6 +512,8 @@ ethda.io
 ether1.org
 ethercore.io
 ethereum.org
+ethereum.publicnode.com
+ethereum-sepolia-rpc.publicnode.com
 ethermine.org
 etherone.one
 etherscan.com
