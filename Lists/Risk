@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,285
-# Updated: 9/5/2026  22:20 (10:20 PM CST)
+# Domains: 1,286
+# Updated: 9/17/2026  13:54 (1:54 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -267,6 +267,7 @@ searchsystems.net                #Background Check
 staterecords.org                 #Background Check
 texas.staterecords.org           #Background Check
 truthfinder.com                  #Background Check
+catfishlens.com                  #Face Finder
 profacefinder.com                #Face Finder
 cheaterbuster.com                #Check dating sites for people
 
