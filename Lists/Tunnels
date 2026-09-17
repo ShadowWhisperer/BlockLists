@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,023
-# Updated: 8/16/2026  22:08 (10:08 PM CST)
+# Domains: 1,024
+# Updated: 9/17/2026  17:38 (5:38 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -744,6 +744,7 @@ topvpn.cc
 tor2web.in
 tor2web.it
 tor2web.org
+tor.bravesoftware.com
 tor-ca.prcdn.net
 torguard.biz
 torguard.net
