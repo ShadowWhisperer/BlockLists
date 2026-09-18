@@ -138,6 +138,7 @@ n-device-api.tplinkcloud.com                        #TP-Link                Rout
 #####################################################
 etrk.asus.com                                       #Asus   Download Drivers
 routerfeedback.asus.com                             #Asus   Router Firmware Updates
+sm.dell.com                                         #Dell   Breaks parts dispatch
 d.la1-c1-ord.salesforceliveagent.com                #Dell   Chat
 la1-c1-ord.ord.r.salesforceliveagent.com            #Dell   Chat
 dellupdater.dell.com                                #Dell   Download "Alienware Command Center"
@@ -534,8 +535,8 @@ auth1.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks co
 auth2.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks connection to vacuum (Unable to start/stop)
 auth3.prod.iot.irobotapi.com                         #Roomba    [App]  Breaks connection to vacuum (Unable to start/stop)
 3vx2e73s43.execute-api.us-east-1.amazonaws.com       #Roomba    [App]  Interface
+opt.scheels.com                                      #Scheels  - Breaks images (Optimizely)
 rapid-cdn.yottaa.com                                 #Scheels  - Breaks reviews
-opt.scheels.com                                      #Scheels  - Breaks images
 api.checkout.com                                     #Shopping Sites (Breaks Online Payments)
 checkout.shopifycs.com                               #Shopping Sites (Breaks Checkout) *Shopify
 deposit.us.shopifycs.com                             #Shopping Sites (Breaks Checkout) *Shopify
@@ -773,6 +774,7 @@ kangaroo.vocento.com                        #Tracker - Prevents site access -> a
 # telemetry.malwarebytes.com           #Analytics  [Software]  AdwCleaner
 # analytics.dolphin-emu.org            #Analytics  [Software]  Dolphin Emulator
 # analytics.home-assistant.io          #Analytics  [Software]  Home-Assistant
+# usage.wled.me                        #Analytics  [Software]  WLED (Opt-In)
 #
 # supl.google.com                      #GPS
 #
