@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,286
-# Updated: 9/17/2026  13:54 (1:54 PM CST)
+# Domains: 1,287
+# Updated: 9/19/2026  21:48 (9:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -342,6 +342,7 @@ cocospy.com                                      #Computer / Phone
 cerberusapp.com                                  #Phone
 devicetrackerplus.com                            #Phone
 eyezy.com                                        #Phone
+life360.com                                      #Phone
 mspy.de                                          #Phone
 spy24.app                                        #Phone
 spyfone.com                                      #Phone
