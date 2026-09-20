@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 546
-# Updated: 9/19/2026  20:19 (8:19 PM CST)
+# Domains: 547
+# Updated: 9/19/2026  21:21 (9:21 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -305,6 +305,7 @@ intercom.help
 inthechat.com
 ivy.ai
 jasper.ai
+jcs-chat-widget.atlassian.com
 jivochat.com
 jivosite.com
 kama.ai
