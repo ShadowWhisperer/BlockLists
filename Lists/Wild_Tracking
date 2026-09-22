@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,533
-# Updated: 9/21/2026  11:48 (11:48 AM CST)
+# Domains: 17,534
+# Updated: 9/21/2026  23:39 (11:39 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3692,6 +3692,7 @@ edfx.com
 edgeanalytics.ca
 edgecdn.dev
 edgecdnplus.com
+edgedatg.go.com
 edgeintelligence.com
 edgelab.ch
 edgeme.sh

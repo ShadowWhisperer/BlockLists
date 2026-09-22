@@ -125,6 +125,8 @@ api.frameo.net                                      #Frameo                 Sync
 serviceupdates.frameo.net                           #Frameo                 Firmware Updates
 test1.johnson-creative.com                          #Keep Connect Outlet    Check if internet is up
 test2.johnson-creative.com                          #Keep Connect Outlet    Check if internet is up
+avrupd1.onkyo.com                                   #Onkyo Receiver         Firmware Update
+d1i3g64yqh23bt.cloudfront.net8                      #Onkyo Receiver         Firmware Update
 mqtt-us-2.roborock.com                              #Roborock               Connect to Wifi / Check for firmware updates *Vacuum
 files.roborock.com                                  #Roborock               Firmware update
 a2uowfjvhio0fa-ats.iot.us-east-1.amazonaws.com      #Roomba                 Connect to internet *Vacuum
