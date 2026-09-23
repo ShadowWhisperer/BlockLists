@@ -394,6 +394,7 @@ clients1.google.com                              #Google   Youtube (Search Sugge
 cdn-us-cf2.yottaa.net                                #Images - Brownells
 qoe-1.yottaa.net                                     #Images - Brownells
 reddit-meta-production.s3.amazonaws.com              #Images - Reddit
+k8s-lb.wss.redditmedia.com                           #Image Upload - Reddit
 staticapp.icpsc.com                                  #Images - Sig Sauer (Email)
 l.yimg.com                                           #Images - Yahoo
 s1.yimg.com                                          #Images - Yahoo
