@@ -1,13 +1,14 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 119
-# Updated: 9/21/2026  18:49 (6:49 PM CST)
+# Domains: 122
+# Updated: 9/24/2026  17:13 (5:13 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
 
+3daistudio.com
 agentic.ai
 agentsdk.ai
 agentsdk.dev
@@ -23,6 +24,7 @@ appsgenaiserver-pa.clients6.google.com
 appsgenaiserver-pa.googleapis.com
 artspace.ai
 avatar.one
+avatarsdk.com
 bard.google.com
 character.ai
 chatgpt4rus.ru
@@ -76,6 +78,7 @@ lmstudio.ai
 lyxi.ai
 macaly.com
 magichour.ai
+meshy.ai
 meta.ai
 mindvideo.ai
 model-hub.mozilla.org
