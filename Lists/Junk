@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 985
-# Updated: 9/5/2026  22:20 (10:20 PM CST)
+# Domains: 986
+# Updated: 9/28/2026  12:20 (12:20 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -218,6 +218,7 @@ accessibilityserver.org                             #Accessibility Widget
 d5c8kzvnetr32.cloudfront.net                        #Accessibility Widget
 dlieyhrm30x3f.cloudfront.net                        #Accessibility Widget
 equally.ai                                          #Accessibility Widget
+eye-able.com                                        #Accessibility Widget
 nagich.co.il                                        #Accessibility Widget
 nagich.com                                          #Accessibility Widget
 onlineada.com                                       #Accessibility Widget
