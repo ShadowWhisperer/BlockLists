@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 986
-# Updated: 9/28/2026  12:20 (12:20 PM CST)
+# Domains: 987
+# Updated: 9/29/2026  18:11 (6:11 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -260,6 +260,7 @@ zen-browser.app                                     #Browser - Zen Browser
 
 ad-blocker.org                                      #Browser Extension
 adblock.fr                                          #Browser Extension
+adblockghost.com                                    #Browser Extension
 adgone.org                                          #Browser Extension
 adzero.org                                          #Browser Extension
 bleengo.com                                         #Browser Extension
