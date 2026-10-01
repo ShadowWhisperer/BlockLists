@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 123
-# Updated: 10/1/2026  00:17 (12:17 AM CST)
+# Domains: 124
+# Updated: 10/1/2026  17:47 (5:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -71,6 +71,7 @@ huggingface.co
 ifriend.ai
 image2.im
 image2video.ai
+imagetoanimation.com
 jan.ai
 joyfun.ai
 kling.ai
