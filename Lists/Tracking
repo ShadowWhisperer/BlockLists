@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 117,725
-# Updated: 10/5/2026  23:16 (11:16 PM CST)
+# Domains: 117,748
+# Updated: 10/6/2026  18:01 (6:01 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -21153,6 +21153,7 @@ cdna.paymentncb.cofidis.es
 cdna.paymentncb.cofidis.fr
 cdn-api.arcpublishing.com
 cdna.rqt-paiement.cofidis.fr
+cdn-a.telus.com
 cdn.ato.santander.co.uk
 cdna.tst-paiement.cofidis.fr
 cdna.zopa.com
@@ -21262,6 +21263,7 @@ cdntm.ciiom.hsbc.com
 cdntm.firstdirect.com
 cdntm.hangseng.com
 cdntm.hsbc.ae
+cdntm.hsbc.bm
 cdntm.hsbc.ca
 cdntm.hsbc.co.in
 cdntm.hsbc.com.au
@@ -23801,7 +23803,10 @@ content1.reprisefinancial.com
 content21.snapfinance.com
 content22.accountonline.com
 content22.bancanet.banamex.com
+content22.bancanetempresarial.banamex.com.mx
 content22.bmo.com
+content22.citibank.com
+content22.citibank.com.sg
 content22.citibankonline.com
 content22.citicards.com
 content22.citiretailservices.com
@@ -23809,6 +23814,7 @@ content22.gss.citi.com
 content22.olb-usmtu2web1.citi.com
 content22.online.citi.com
 content22.retailservicescommercial.citi.com
+content2.instacart.com
 content2.paywerk.co
 content3.lexisnexisrisk.com
 content-48.cnb.com
@@ -23836,6 +23842,7 @@ content.app.centuryvms.com
 content.appevntz.highradius.com
 content.archiver-app.sageflo.com
 content.assist.chromeriver.com
+content.asurion53.com
 content.atmosphere.ca
 content.aurum.com
 content.awkward.ycharts.com
@@ -23862,6 +23869,7 @@ content.cdni.device42.com
 content.cdn.pendo.myreliaquest.com
 content.certifid.com
 content.citadele.lv
+content.citizensbankonline.com
 content.clubpremier.com
 content.cofidis.pt
 content.conapcg.com
@@ -23883,10 +23891,12 @@ content.data.conductor.com
 content.data.leveldata.com
 content.data.mheducation.com
 content.davidhaleweb.com
+content.digital.citbank.com
 content.digital-credit.app
 content.discovercard.com
 content.discover.com
 contentdsp.com
+content.ebanking-services.com
 content.ecampus.com
 content.e.captivateiq.com
 content.e.forwardblue.co
@@ -23911,8 +23921,10 @@ content.familyprepaiddebit.com
 contentfd.directcapital.com
 content.fgqhfhvqzm.stensul.com
 content.fig.ca
+content.fisglobal.com
 content.floridarentals.com
 content.formalifesciencemarketing.com
+content.fswebchw.com
 content.gap.com
 content.gapfactory.com
 content.gaptechol.com
@@ -23946,6 +23958,7 @@ content.help.salonbiz.com
 content.hourigan.group
 content.hsuite.activity.hapara.com
 content.hurix.com
+content.ibanking-services.com
 content.iddataweb.com
 content.imagedepositgateway.com
 content.inappmessages.mastercontrol.com
@@ -23996,6 +24009,7 @@ content.nessus-telemetry.tenable.com
 content.netcredit.pl
 content.northcdatacenters.info
 content.nps.skytouchnps.com
+content.nubank.com.br
 content.nu.com.co
 content.nu.com.mx
 content.numobile.com.au
@@ -24013,6 +24027,7 @@ content.pathfinder.gohighlevel.com
 content.pathfinder.rewst.io
 content.patient.pendo.cws.labcorp.com
 content.paycardsolutions.com
+content.pcfinancial.ca
 content.pd-log.showpad.biz
 content.pen.console.gotoresolve.com
 content.pendo.airbase.io
@@ -24163,6 +24178,7 @@ contentservices.brightlending.com
 contentservices.clearairlending.com
 content.sfbli.com
 content.sga.auvik.com
+content.sheerid.com
 content.shemeshautomation.com
 content.shop.post.ch
 content.sierraolympic.com
@@ -24839,6 +24855,7 @@ csp.withgoogle.com
 csp.yahoo.com
 csp.yandex.net
 cssbu.childbirthinjuries.com
+csservice.aircanada.com
 css.euroformulas.com.br
 csst.cheltenhammuscat.com
 csst.hisdubai.ae
@@ -24850,6 +24867,7 @@ cstat.cdn-apple.com
 cstat.qrlink.nl
 cstat.wap.sasisa.ru
 cst.innogames.de
+cstm.gumtree.com
 c.strava.com
 cstream.wi-fi.ru
 csuni.fitmycar.com
@@ -25418,6 +25436,7 @@ d3nun3jssqpmi2.cloudfront.net
 d3ojfshdw1hp8b.cloudfront.net
 d3owq2fdwtdp2j.cloudfront.net
 d3t15oqv74y46a.cloudfront.net
+d3tracking.rbc.com
 d3ty4og90bdf2f.cloudfront.net
 d3u598arehftfk.cloudfront.net
 d3-umami.up.railway.app
@@ -30787,6 +30806,7 @@ ecoenergyinsights.com
 ecommercesolutions.com.br
 ecomm.events
 ecom.mss.hertz.io
+ecomm.thegiftcardshop.com
 ecomtrack.io
 econda.com
 econda.de
@@ -42796,6 +42816,7 @@ lmtra.lonepeakoverland.com
 lmufb.theswellscore.com
 ln.acornfun.com
 ln.ameba.jp
+ln.betboom.com
 ln.cash.app
 lndata.com
 lndnbrdg.com
@@ -42811,6 +42832,7 @@ ln.loudnoise.nl
 ln.meudigio.com.br
 lnoni.sigoseguros.com
 lnss.lifetouch.com
+ln.tangluck.com
 load.402.worldofsupercars.nl
 load.55697329000106.homedeccori.com
 load.777.triple7towing.co
@@ -109679,6 +109701,7 @@ tms.trickntips.com
 tms.usaa.com
 tms-view.sony.jp
 tms.virginatlantic.com
+tms.wape.autodesk.com
 tms.ynaye.com.br
 tms.zwilling.com
 tm.tbcbank.uz
