@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,590
-# Updated: 10/7/2026  23:37 (11:37 PM CST)
+# Domains: 17,591
+# Updated: 10/8/2026  10:42 (10:42 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -1004,6 +1004,7 @@ analytics.propatientco.com
 analyticspros.com
 analyticspub.com
 analytics.pubnative.io
+analytics.qdrant.tech
 analytics.redbubble.com
 analytics.rlcdn.com
 analytics-rogshop.de
