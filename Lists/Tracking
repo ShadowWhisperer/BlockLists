@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 117,748
-# Updated: 10/7/2026  09:06 (9:06 AM CST)
+# Domains: 117,749
+# Updated: 10/7/2026  23:37 (11:37 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -75214,6 +75214,7 @@ r.tapromos3.com
 rtb123.com
 rtb.adgrx.com.tech.akadns.net
 rtbanalytica.com
+rtb.events
 rtbhouse.com
 rtblab.net
 rtb.loopa.net.au
