@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 126
-# Updated: 10/8/2026  18:25 (6:25 PM CST)
+# Domains: 127
+# Updated: 10/9/2026  00:12 (12:12 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -88,6 +88,7 @@ mindvideo.ai
 model-hub.mozilla.org
 monica.im
 nd-api.com
+oaiusercontent.com
 ollama.com
 openai.com
 openai.com.cdn.cloudflare.net
