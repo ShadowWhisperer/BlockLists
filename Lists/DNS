@@ -1,21 +1,12 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 145
-# Updated: 10/8/2026  10:42 (10:42 AM CST)
+# Domains: 146
+# Updated: 10/9/2026  23:48 (11:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/DNS
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
 #
-
-joindns4.eu
-
-
-
-
-
-
-
 
 adfilter.net
 adguard.com
@@ -103,6 +94,7 @@ doh.ffmuc.net
 doh.li
 doh.netweaver.uk
 doh.pub
+doh.sb
 dohtrial.att.net
 dot.360.cn
 dot.ffmuc.net
@@ -113,6 +105,7 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 ibksturm.synology.me
+joindns4.eu
 jupitrdns.com
 libredns.gr
 maradns.org

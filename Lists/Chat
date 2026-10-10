@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 550
-# Updated: 10/1/2026  17:47 (5:47 PM CST)
+# Domains: 553
+# Updated: 10/9/2026  23:48 (11:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -63,6 +63,8 @@ botframework.com
 botfuse.com
 botmind.io
 botpenguin.com
+botpress.cloud
+botpress.com
 bots.kore.ai
 botsnext.com
 botsonic.ai
@@ -222,6 +224,7 @@ docsbot.ai
 doyoudreamup.com
 drift.com
 driftt.com
+dtn7rvxwwlhud.cloudfront.net
 dydu.ai
 eassistancepro.com
 easychat.co

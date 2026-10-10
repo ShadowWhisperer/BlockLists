@@ -1,8 +1,8 @@
 #
 #    File: Wild_Chat
 #    Info: Chat Dialog Boxes
-# Domains: 404
-# Updated: 9/28/2026  12:20 (12:20 PM CST)
+# Domains: 406
+# Updated: 10/9/2026  23:48 (11:48 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -54,6 +54,8 @@ botframework.com
 botfuse.com
 botmind.io
 botpenguin.com
+botpress.cloud
+botpress.com
 botsnext.com
 botsonic.ai
 botsupply.ai
