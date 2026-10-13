@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 987
-# Updated: 9/29/2026  18:11 (6:11 PM CST)
+# Domains: 988
+# Updated: 10/13/2026  16:47 (4:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -213,6 +213,9 @@ webroot.com                                         #Antivirus    Webroot
 webrootdns.net                                      #Antivirus    Webroot
 webrootmobile.com                                   #Antivirus    Webroot
 webrootmultiplatform.com                            #Antivirus    Webroot
+
+alttext.ai                                          #AI Image Description
+ujs.alttext.ai                                      #AI Image Description
 
 accessibilityserver.org                             #Accessibility Widget
 d5c8kzvnetr32.cloudfront.net                        #Accessibility Widget
@@ -861,7 +864,6 @@ photosdata-pa.googleapis.com                        #Google  Photos
 photos.googleapis.com                               #Google  Photos
 firebaseinappmessaging.googleapis.com               #Google  FireBase
 firebaseperusertopics-pa.googleapis.com             #Google  FireBase
-firebasestorage.googleapis.com                      #Google  FireBase
 hangouts.google.com                                 #Google    Hangouts (Defunct)
 nearbysharing-pa.googleapis.com                     #Google    Nearby Sharing
 nearbydevices-pa.googleapis.com                     #Google    Nearby Devices

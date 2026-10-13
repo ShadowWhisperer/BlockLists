@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 130
-# Updated: 10/12/2026  13:52 (1:52 PM CST)
+# Domains: 131
+# Updated: 10/13/2026  16:47 (4:47 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -60,6 +60,7 @@ firefly.adobe.com
 flux1.ai
 funy.ai
 gemini.google.com
+gemini.gstatic.com
 genimg.ai
 githubcopilot.com
 glowapp.vip
