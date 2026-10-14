@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 117,823
-# Updated: 10/13/2026  22:39 (10:39 PM CST)
+# Domains: 117,832
+# Updated: 10/14/2026  00:46 (12:46 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -17642,6 +17642,7 @@ apm.okd.liberty.edu
 apmplus.volces.com
 apm-proxy.app.elstc.co
 apm.qwant.com
+apm-receiver.afafb.com
 apms5.com
 apm.yahoo.co.jp
 apnanalytics.com
@@ -23016,6 +23017,7 @@ collector.usbxh.life
 collector.usxh.world
 collector-v2.spinxgames.com
 collector.vas.pet
+collector.vcr.dell.com
 collector.vhx.tv
 collector.viaxh.xyz
 collector.viddsee.com
@@ -30851,6 +30853,7 @@ e.cotribute.com
 ecovk.trudiagnostic.com
 ecp.bdoaustralia.bdo.com.au
 ecp.eitacasaperfeita.com.br
+ecpm.afafb.com
 e.crdlmkt.mybobs.com
 ecredit.com
 e.crownpublishing.com
@@ -33002,6 +33005,7 @@ fipsta.urbanara.co.uk
 fipsta.worldfitness.de
 fiqaz.yourtmj.com
 fir4trk.com
+firebase.afafb.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firefly.bol.com
@@ -38537,6 +38541,7 @@ helical-rock-247706.appspot.com
 helicient.com
 helios.g2a.com
 helixbi.io
+hella-ping.afafb.com
 hello.arkbotech.com
 hello.bingomania.com
 hello.coronationgroup.co
@@ -57504,6 +57509,8 @@ microsoftweblogin.com
 microstrategy.com
 mida.so
 midasproject.eu
+middle-abtester.afafb.com
+middle-inference-platform-bb-gp-user-growth.afafb.com
 middycdn-a.akamaihd.net
 mids.org
 miemail.fabletics.com
@@ -74213,6 +74220,7 @@ rebornads.com
 rebuyengine.com
 recapture.io
 receiptcent.com
+receiver-config.afafb.com
 rec-engine.com
 recentworkcode.com
 receptivebranch.com
@@ -113383,6 +113391,7 @@ ucounter.ucoz.net
 ucq6j7trk.com
 uc.srgd.ch
 uctiz.snoopslimes.co
+ucw.afafb.com
 uda71a.oliviakate.nl
 udata.namespace.so
 udbdf.huya.com
