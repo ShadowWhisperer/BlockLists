@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 988
-# Updated: 10/13/2026  16:47 (4:47 PM CST)
+# Domains: 987
+# Updated: 10/19/2026  14:42 (2:42 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -933,7 +933,6 @@ instantmessaging-pa.googleapis.com                  #Google  ? Instant Messaging
 instantmessaging-pa-us.googleapis.com               #Google  ? Instant Messaging
 lamssettings-pa.googleapis.com                      #Google  ? Large Array Manipulation Service
 lh2.l.google.com                                    #Google
-marketingplatform.google.com                        #Google
 mobiledataplan-pa.googleapis.com                    #Google
 myphonenumbers-pa.googleapis.com                    #Google
 ondevicesafety-pa.googleapis.com                    #Google
