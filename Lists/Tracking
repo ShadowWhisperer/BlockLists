@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 119,171
-# Updated: 10/19/2026  14:42 (2:42 PM CST)
+# Domains: 119,178
+# Updated: 10/19/2026  19:14 (7:14 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -17739,8 +17739,10 @@ api-data-collection.insta360.cn
 api.datasteam.io
 api.dayrellcompany.com.br
 api.dbu.de
+api-dc2-prod-03.cyou
 api-dc2-prod-06.cyou
 api-dc-prod-001.cyou
+api-dc-prod-003.cyou
 api.deafios.com.br
 api.defendendoquemnosdefende.com.br
 api.defesafemininacaveira.com.br
@@ -32972,6 +32974,7 @@ events-sandbox.data.msn.com
 events-server.fermatcommerce.workers.dev
 events-service.coinbase.com
 events.shareably.net
+events.shoplytics.com
 events.squarespace.com
 events.textme-app.com
 events.thangs.com
@@ -71628,7 +71631,6 @@ piwo.presspol.com
 pix2.services.tvn.pl
 pix.airbusgroup.com
 pixanalytics.com
-pixapi.net
 pix.cdnwidget.com
 pixel.500pratas.com.br
 pixel-580839345669.us-central1.run.app
@@ -73336,6 +73338,7 @@ play5r.com
 play.airmfly.com
 playapprecommendations.googleapis.com
 playbookux.com
+playdaili.com
 playererror.zype.com
 player-feedback-v1.glomex.com
 player-logs-service.us.screencloud.com
@@ -73924,6 +73927,7 @@ probelytics.com
 probe.xacademy.cc
 probizmarket.pl
 problogger.lowfruitsolutions.com
+processchatbotevents.azurewebsites.net
 processing.classaction.org
 processout.com
 processplantation.com
@@ -76313,6 +76317,7 @@ rum-ingress-coralogix.com
 rumiview.com
 rum-metrics.bunny.net
 rum-observability.nissanpace.com
+rum.opennemas.com
 rum.services.dealerspike.net
 rumt-sg.com
 rumt-us.com
@@ -113536,6 +113541,7 @@ tr.deubaxxl.pt
 tr.discuss.com.hk
 tr.doaamekki.com
 tr.dogizen.io
+tr.dsp.bance.jp
 tr.du-omnistore.de
 tr.dxmcdn.com
 tre5y9ba.com
@@ -113845,6 +113851,7 @@ tr.singhfit.com
 tr.snapchat.com
 tr.sp4.easiereats.com
 tr-ssl.twcc.com
+tr.ssp.bance.jp
 tr.store.goatclub.com.au
 tr.suedkurier.de
 trt3q6ct.com

@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 559
-# Updated: 10/16/2026  11:45 (11:45 AM CST)
+# Domains: 562
+# Updated: 10/19/2026  19:14 (7:14 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Chat
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -113,6 +113,7 @@ chat-bot.nalog.ru
 chatbot.novaonx.com
 chatbot.pef.czu.cz
 chatbot.planetart.com
+chatbotprod.blob.core.windows.net
 chatbot-service.vegas.com
 chatbot-staging.novaonx.com
 chatbot.suncorpbank.com.au
@@ -237,6 +238,8 @@ ebbot.app
 e-bot7.com
 echatsoft.com
 edubot-images.s3.amazonaws.com
+eechat.extraaedge.com
+eechat-prod-v2.extraaedge.com
 effect.com
 elev.io
 eliseai.com
