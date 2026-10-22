@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,629
-# Updated: 10/22/2026  10:03 (10:03 AM CST)
+# Domains: 17,639
+# Updated: 10/22/2026  18:45 (6:45 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -75,6 +75,7 @@
 24log.ru
 24metrics.com
 24proweb.com
+24support.cc
 24trckweb.com
 250analytics.com
 254a.com
@@ -5602,6 +5603,7 @@ incognia.com
 incompetentjoke.com
 inconclusiveaction.com
 increasingly.co
+indexplorer.fr
 indexstats.com
 indflow.com
 indgh22kk.com
@@ -15089,16 +15091,24 @@ stape.do
 stape.fr
 stape.gl
 stape.host
+stape.id
 stape.im
 stape.info
 stape.io
 stape.jp
+stape.li
+stape.ltd
 stape.ma
 stape.my
 stape.net
+stape.nz
 stape.org
+stape.pm
+stape.pro
+stape.pw
 stape.run
 stape.social
+stape.st
 stape.tech
 stape.us
 stape.vip
