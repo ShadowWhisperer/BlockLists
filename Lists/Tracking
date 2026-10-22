@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 119,182
-# Updated: 10/22/2026  10:03 (10:03 AM CST)
+# Domains: 119,186
+# Updated: 10/22/2026  15:29 (3:29 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -18238,6 +18238,7 @@ api.resolucaoonline.com
 api-reuters-reuters-prod.cdn.arcpublishing.com
 api.ricapro.com.br
 api.ritzbsm.com.br
+api.rlcdn.com
 api.rnet.plus
 api.rodrigomanga.com.br
 api.rosascalcados.com.br
@@ -40163,6 +40164,7 @@ idpix.media6degrees.com.cdn.cloudflare.net
 id.rambler.ru
 idresolve.lenovo.com
 id.retrojunk.com
+id.rlcdn.com
 idrove.it
 ids.cdnwidget.com
 idsequoia.ai
@@ -40177,6 +40179,7 @@ idstatus.sky.it
 idstracklive.com
 idstrackscore.com
 idsync.live.streamtheworld.com
+idsync.rlcdn.com
 id.tinypass.com
 idtvo.ezrider.nl
 idudh.tangerine.co.th
@@ -75077,6 +75080,7 @@ rclmo.dia.com
 r.comunicazionepk.com
 r.contact.cobratate.com
 rcontent.services.tvn.pl
+rc.rlcdn.com
 rcsmetrics.it
 rcsnjttpht-2.algolianet.com
 rcuxkqbl.mobler.dk
