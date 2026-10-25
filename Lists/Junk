@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 988
-# Updated: 10/22/2026  20:49 (8:49 PM CST)
+# Domains: 989
+# Updated: 10/25/2026  01:15 (1:15 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -217,6 +217,7 @@ webrootmultiplatform.com                            #Antivirus    Webroot
 alttext.ai                                          #AI Image Description
 ujs.alttext.ai                                      #AI Image Description
 
+accessibilityassistant.com                          #Accessibility Widget
 accessibilityserver.org                             #Accessibility Widget
 d5c8kzvnetr32.cloudfront.net                        #Accessibility Widget
 dlieyhrm30x3f.cloudfront.net                        #Accessibility Widget
@@ -720,7 +721,6 @@ twitcount.com                                       #Webpages - Social Media
 uptolike.com                                        #Webpages - Social Media
 uptolike.ru                                         #Webpages - Social Media
 xing-share.com                                      #Webpages - Social Media
-browser-update.org                                  #Webpages - Checks Browser Version
 accountkit.com                                      #Webpages - Login to an existing accounts on other sites
 sdk.snapkit.com                                     #Webpages - Login to an existing accounts on other sites
 images.dmca.com                                     #Webpages - Logo (Digital Millennium Copyright Act)
@@ -746,6 +746,7 @@ doodlekit.com                                       #Website Builder
 droppages.com                                       #Website Builder
 framer.ai                                           #Website Builder
 framer.app                                          #Website Builder
+framer.com                                          #Website Builder
 framer.media                                        #Website Builder
 framer.website                                      #Website Builder
 getshogun-cache-production.s3.amazonaws.com         #Website Builder

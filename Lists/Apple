@@ -1,8 +1,8 @@
 #
 #    File: Apple
 #    Info: Apple bloat
-# Domains: 156
-# Updated: 6/10/2026  19:05 (7:05 PM CST)
+# Domains: 154
+# Updated: 10/25/2026  01:15 (1:15 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Apple
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -152,8 +152,6 @@ td3.apple.com
 td4.apple.com
 time.g.aaplimg.com
 timestamp.apple.com
-tools.applemediaservices.com
-trackingshipment.apple.com
 turn.gc.apple.com
 updates.g.aaplimg.com
 upp.itunes.apple.com

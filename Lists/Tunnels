@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,025
-# Updated: 9/21/2026  11:48 (11:48 AM CST)
+# Domains: 1,026
+# Updated: 10/25/2026  01:15 (1:15 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -299,6 +299,7 @@ geosurf.io
 geovpn.trendmicro.com
 geti2p.net
 getiantem.org
+getmdl.io
 getoutunblock.com
 getproton.me
 getproxylist.com
