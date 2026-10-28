@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 145
-# Updated: 10/27/2026  18:26 (6:26 PM CST)
+# Domains: 148
+# Updated: 10/28/2026  12:32 (12:32 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -13,6 +13,7 @@ abacus.ai
 agentic.ai
 agentsdk.ai
 agentsdk.dev
+agents.inc
 agents.manage.microsoft.com
 aiease.ai
 aigirlfriend.wtf
@@ -65,6 +66,7 @@ facemagic.ai
 faceswaplab.com
 firefly.adobe.com
 flux1.ai
+flyne.ai
 funy.ai
 gemini.google.com
 gemini.gstatic.com
@@ -118,6 +120,7 @@ polyspeak.ai
 proactivebackend-pa.googleapis.com
 quillbot.scribbr.com
 realmrift.online
+rednana.ai
 replika.ai
 replit.dev
 rork.com

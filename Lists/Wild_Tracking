@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 17,694
-# Updated: 10/27/2026  18:26 (6:26 PM CST)
+# Domains: 17,697
+# Updated: 10/28/2026  12:32 (12:32 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -2301,6 +2301,8 @@ cdnhst.xyz
 cdnmetric.com
 cdn-net.com
 cdn-sitegainer.com
+cdnspeedtest.cc
+cdnspeedtest.sbs
 cdntechone.com
 cdnvideos.sbs
 cdn-zeptoapps.com
@@ -11887,6 +11889,7 @@ mp-track.com
 mq20trk.com
 mqzr51bnd.com
 mrelko.com
+mrgr.me
 mrktmtrcs.net
 mrops.com
 mrpdata.net
