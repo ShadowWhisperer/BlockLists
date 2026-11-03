@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 119,534
-# Updated: 10/31/2026  13:14 (1:14 PM CST)
+# Domains: 119,539
+# Updated: 11/2/2026  19:15 (7:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -17770,9 +17770,11 @@ api.dayrellcompany.com.br
 api.dbu.de
 api-dc2-prod-03.cyou
 api-dc2-prod-06.cyou
+api-dc2-prod-08.cyou
 api-dc2-prod-09.cyou
 api-dc-prod-001.cyou
 api-dc-prod-003.cyou
+api-dc-prod-008.cyou
 api-dc-prod-009.cyou
 api.deafios.com.br
 api.defendendoquemnosdefende.com.br
@@ -32232,6 +32234,7 @@ elladafb.grekisklivs.se
 ellipsisandco.com
 elmobot.eu
 elnbz.qualitylogic.com
+elnod8.com
 elo.io
 elojne.carl-auer.de
 elsj.banorte.com
@@ -64801,6 +64804,7 @@ nodbledp.com
 nod.caracda.de
 node41.aizhantj.com
 node91.aizhantj.com
+node92.aizhantj.com
 node93.aizhantj.com
 node.cciesecurity.net
 node.ccie.store
@@ -109890,6 +109894,7 @@ tck020.xyz
 tck.at.tvp.pl
 tckcandy.com
 tck.femmah.com
+tck.lmadps.jp
 tck.photobox.com
 tck.wonderbox.fr
 tc-log.mattel163.com

@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 1,288
-# Updated: 9/30/2026  19:27 (7:27 PM CST)
+# Domains: 1,289
+# Updated: 11/2/2026  19:15 (7:15 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Risk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -128,9 +128,10 @@ vessoft.com                                      #Software Hosting
 vessoftstatic.com                                #Software Hosting
 winsite.com                                      #Software Hosting
 
-cprapid.com                                      #Web Host [cPanel]    Known to host malware domains
-godaddysites.com                                 #Web Host [GoDaddy]   Un-Finished sites - Usually malware (Not always)
-teste.website                                    #Web Host [HostGator] Known to host malware domains
+cprapid.com                                      #Web Host [cPanel]     Known to host malware domains
+godaddysites.com                                 #Web Host [GoDaddy]    Un-Finished sites - Usually malware (Not always)
+teste.website                                    #Web Host [HostGator]  Known to host malware domains
+now.sh                                           #Web Host [Vercel]     Known to host malware domains
 
 
 ###########################################################################################
