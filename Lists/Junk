@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 989
-# Updated: 10/25/2026  01:15 (1:15 AM CST)
+# Domains: 987
+# Updated: 11/8/2026  11:42 (11:42 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -404,7 +404,6 @@ socket.arc.io                                       #Share Bandwidth
 static.arc.io                                       #Share Bandwidth
 
 admuncher.com                                       #Software    AdMuncher
-cc-api-data.adobe.io                                #Software   Adobe - Cloud Services
 cloud.acrobat.com                                   #Software   Adobe - Cloud Services
 dc-api.adobe.io                                     #Software   Adobe - Document Cloud
 pojvrj7ho5.adobe.io                                 #Software   Adobe - License Pop-Up
@@ -852,14 +851,13 @@ update.backup.techconcierge.dell.com                #Dell
 autosug.ebay.com                                    #eBay
 autosug.ebaystatic.com                              #eBay
 live.us.shoplive.cloud                              #eBay (Live videos)
-apps.facebook.com                                   #Facebook
-b-api.facebook.com                                  #Facebook
-cdn.amp-endpoint2.com                               #Facebook
-cdn-v4.amp-endpoint2.com                            #Facebook
+amp-endpoint2.com                                   #Facebook
+hatch.metaaivm.com                                  #Facebook - AI
+metaaivm.com                                        #Facebook - AI
+facebook.com                                        #Facebook
 error.facebook.com                                  #Facebook
 graph-fallback.facebook.com                         #Facebook
-ngx-v4.amp-endpoint2.com                            #Facebook
-ngx-v6.amp-endpoint2.com                            #Facebook
+fbpigeon.com                                        #Facebook
 chat-pa.clients6.google.com                         #Google  Chat
 peoplestack-pa.googleapis.com                       #Google    People
 photosdata-pa.googleapis.com                        #Google  Photos
