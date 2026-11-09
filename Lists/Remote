@@ -1,8 +1,8 @@
 #
 #    File: Remote
 #    Info: Domains used to remotely control your stuff
-# Domains: 171
-# Updated: 11/8/2026  11:42 (11:42 AM CST)
+# Domains: 176
+# Updated: 11/8/2026  19:34 (7:34 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Remote
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -25,9 +25,11 @@ attremotesupport.com
 auifl.net
 aweray.com
 aweray.net
+awesun.com
 azure-devices.net
 beanywhere.com
 beyondtrustcloud.com
+beyondtrust.com
 beyondtrustgov.com
 bmasupport.com
 bomgar.com
@@ -72,7 +74,9 @@ hoptodesk.com
 hostedrmm.com
 instanthousecall.com
 instanthousecall.net
+iperiuscms.com
 iperiusremote.com
+iperius-rs.com
 islonline.net
 join.me
 jumitech.com
@@ -97,6 +101,7 @@ logmeinrescue.com
 logmeinrescue-enterprise.com
 logmeinsolutions.com
 logmeinusercontent.com
+mikogo4.com
 mikogo.com
 mingleview.com
 mspanywhere-us1-download-elb-292950435.us-west-2.elb.amazonaws.com
