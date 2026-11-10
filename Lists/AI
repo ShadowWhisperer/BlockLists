@@ -1,8 +1,8 @@
 #
 #    File: AI
 #    Info: LLMs, Chatbots, Music/Photo/Video generation
-# Domains: 149
-# Updated: 11/8/2026  11:42 (11:42 AM CST)
+# Domains: 150
+# Updated: 11/10/2026  11:11 (11:11 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/AI
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -94,6 +94,7 @@ kling.ai
 linke.ai
 lmstudio.ai
 lyxi.ai
+m365copilotapp.svc.cloud.microsoft
 macaly.com
 magichour.ai
 meshy.ai
