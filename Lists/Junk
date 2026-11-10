@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 987
-# Updated: 11/8/2026  11:42 (11:42 AM CST)
+# Domains: 988
+# Updated: 11/10/2026  00:25 (12:25 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -31,6 +31,7 @@ cfg.mobisystems.com                                 #Android  [App]   File Comma
 connect.mobisystems.com                             #Android  [App]   File Commander
 mxplay.com                                          #Android  [App]   MXplayer
 mxvp-feature-toggle-prod-1.zenmxapps.com            #Android  [App]   MXplayer
+mergeus-chat.com                                    #Android  [App]   MergeUS
 nickcircelli.com                                    #Android  [App]   Net Scan
 cleaner.noxgroup.org                                #Android  [App]   NoxCleaner
 noxgroup.org                                        #Android  [App]   NoxCleaner
