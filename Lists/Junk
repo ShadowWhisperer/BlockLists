@@ -1,8 +1,8 @@
 #
 #    File: Junk
 #    Info: Surveys, Personally Untrusted Software, Search Engines, etc
-# Domains: 988
-# Updated: 11/10/2026  00:25 (12:25 AM CST)
+# Domains: 989
+# Updated: 11/11/2026  18:29 (6:29 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -272,6 +272,7 @@ bleengo.com                                         #Browser Extension
 getadblock.com                                      #Browser Extension
 gingersoftware.com                                  #Browser Extension
 ninja-block.com                                     #Browser Extension
+pie.org                                             #Browser Extension
 vid-adblocker.com                                   #Browser Extension
 video-adblock.com                                   #Browser Extension
 videodownloaderultimate.com                         #Browser Extension
