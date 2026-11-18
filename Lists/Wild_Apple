@@ -1,0 +1,15 @@
+#
+#    File: Wild_Apple
+#    Info: Apple bloat
+# Domains: 5
+# Updated: 8/23/2025  10:23 (10:23 AM CST)
+#
+#     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Apple
+#     Git: https://github.com/ShadowWhisperer/BlockLists.git
+#
+
+corp.apple.com
+edge.icloud.apple-dns.net
+phobos.apple.com
+smoot.apple.com
+testflightapp.com
